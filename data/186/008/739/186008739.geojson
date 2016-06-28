@@ -2,13 +2,14 @@
   "id": 186008739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.767365,-41.318359,174.767365,-41.318359",
     "geom:latitude":-41.318359,
     "geom:longitude":174.767365,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Mills Rd Mornington ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186008739,
-    "wof:lastmodified":1449051222,
+    "wof:lastmodified":1466310667,
     "wof:name":"Simonsen Linda JP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [174.767365,-41.318359,174.767365,-41.318359],
-  "geometry": {"coordinates":[174.767365,-41.318359],"type":"Point"}
+  "bbox": [
+    174.767365,
+    -41.318359,
+    174.767365,
+    -41.318359
+],
+  "geometry": {"coordinates":[174.76736500000001,-41.318359],"type":"Point"}
 }

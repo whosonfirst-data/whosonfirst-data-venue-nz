@@ -2,13 +2,14 @@
   "id": 203355545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"146.227905,-20.081173,146.227905,-20.081173",
     "geom:latitude":-20.081173,
     "geom:longitude":146.227905,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"James Smith Corner 55 Cuba St ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203355545,
-    "wof:lastmodified":1449025435,
+    "wof:lastmodified":1466312321,
     "wof:name":"Shoe Connection",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wear"
     ]
 },
-  "bbox": [146.227905,-20.081173,146.227905,-20.081173],
-  "geometry": {"coordinates":[146.227905,-20.081173],"type":"Point"}
+  "bbox": [
+    146.227905,
+    -20.081173,
+    146.227905,
+    -20.081173
+],
+  "geometry": {"coordinates":[146.22790499999999,-20.081173],"type":"Point"}
 }

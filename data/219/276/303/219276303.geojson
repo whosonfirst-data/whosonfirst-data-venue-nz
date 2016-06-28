@@ -2,13 +2,14 @@
   "id": 219276303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.605576,-40.358669,175.605576,-40.358669",
     "geom:latitude":-40.358669,
     "geom:longitude":175.605576,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Main St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219276303,
-    "wof:lastmodified":1449070496,
+    "wof:lastmodified":1466310753,
     "wof:name":"New Railway Hotel",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.605576,-40.358669,175.605576,-40.358669],
-  "geometry": {"coordinates":[175.605576,-40.358669],"type":"Point"}
+  "bbox": [
+    175.605576,
+    -40.358669,
+    175.605576,
+    -40.358669
+],
+  "geometry": {"coordinates":[175.60557600000001,-40.358669],"type":"Point"}
 }

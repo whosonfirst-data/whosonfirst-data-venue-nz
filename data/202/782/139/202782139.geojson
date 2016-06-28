@@ -2,13 +2,14 @@
   "id": 202782139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.603561,-40.342625,175.603561,-40.342625",
     "geom:latitude":-40.342625,
     "geom:longitude":175.603561,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"590 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202782139,
-    "wof:lastmodified":1449060096,
+    "wof:lastmodified":1466312487,
     "wof:name":"Benchtop Surfaces",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kitchen"
     ]
 },
-  "bbox": [175.603561,-40.342625,175.603561,-40.342625],
-  "geometry": {"coordinates":[175.603561,-40.342625],"type":"Point"}
+  "bbox": [
+    175.603561,
+    -40.342625,
+    175.603561,
+    -40.342625
+],
+  "geometry": {"coordinates":[175.60356100000001,-40.342625],"type":"Point"}
 }

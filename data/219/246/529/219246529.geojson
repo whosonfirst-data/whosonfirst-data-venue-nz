@@ -2,13 +2,14 @@
   "id": 219246529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.611145,-45.847927,170.611145,-45.847927",
     "geom:latitude":-45.847927,
     "geom:longitude":170.611145,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Portobello Rd ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219246529,
-    "wof:lastmodified":1449070624,
+    "wof:lastmodified":1466310526,
     "wof:name":"McDowall F W Ltd",
     "wof:parent_id":85778633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.611145,-45.847927,170.611145,-45.847927],
-  "geometry": {"coordinates":[170.611145,-45.847927],"type":"Point"}
+  "bbox": [
+    170.611145,
+    -45.847927,
+    170.611145,
+    -45.847927
+],
+  "geometry": {"coordinates":[170.61114499999999,-45.847927],"type":"Point"}
 }

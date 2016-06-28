@@ -2,13 +2,14 @@
   "id": 202410665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.682343,-40.948521,175.682343,-40.948521",
     "geom:latitude":-40.948521,
     "geom:longitude":175.682343,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Wairarapa District Health Board ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202410665,
-    "wof:lastmodified":1449060140,
+    "wof:lastmodified":1466311335,
     "wof:name":"Methadone Detox Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.682343,-40.948521,175.682343,-40.948521],
+  "bbox": [
+    175.682343,
+    -40.948521,
+    175.682343,
+    -40.948521
+],
   "geometry": {"coordinates":[175.682343,-40.948521],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219216117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.802734,-41.325653,174.802734,-41.325653",
     "geom:latitude":-41.325653,
     "geom:longitude":174.802734,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"95-107 Tirangi Rd Rongotai ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219216117,
-    "wof:lastmodified":1449073517,
+    "wof:lastmodified":1466311638,
     "wof:name":"Burnard International Limited",
     "wof:parent_id":85778573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.802734,-41.325653,174.802734,-41.325653],
-  "geometry": {"coordinates":[174.802734,-41.325653],"type":"Point"}
+  "bbox": [
+    174.802734,
+    -41.325653,
+    174.802734,
+    -41.325653
+],
+  "geometry": {"coordinates":[174.80273399999999,-41.325653],"type":"Point"}
 }

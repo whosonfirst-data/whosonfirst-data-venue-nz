@@ -2,13 +2,14 @@
   "id": 219719641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.642456,-40.366802,175.642456,-40.366802",
     "geom:latitude":-40.366802,
     "geom:longitude":175.642456,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Earl Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219719641,
-    "wof:lastmodified":1449070851,
+    "wof:lastmodified":1466312852,
     "wof:name":"Manawatu Trailer Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.642456,-40.366802,175.642456,-40.366802],
-  "geometry": {"coordinates":[175.642456,-40.366802],"type":"Point"}
+  "bbox": [
+    175.642456,
+    -40.366802,
+    175.642456,
+    -40.366802
+],
+  "geometry": {"coordinates":[175.64245600000001,-40.366802],"type":"Point"}
 }

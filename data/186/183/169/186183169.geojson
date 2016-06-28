@@ -2,13 +2,14 @@
   "id": 186183169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.102997,-38.691769,176.102997,-38.691769",
     "geom:latitude":-38.691769,
     "geom:longitude":176.102997,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Miro St ",
     "sg:city":"Taupo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186183169,
-    "wof:lastmodified":1449051821,
+    "wof:lastmodified":1466311262,
     "wof:name":"Lake Forest Engineering",
     "wof:parent_id":85781789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.102997,-38.691769,176.102997,-38.691769],
-  "geometry": {"coordinates":[176.102997,-38.691769],"type":"Point"}
+  "bbox": [
+    176.102997,
+    -38.691769,
+    176.102997,
+    -38.691769
+],
+  "geometry": {"coordinates":[176.10299699999999,-38.691769],"type":"Point"}
 }

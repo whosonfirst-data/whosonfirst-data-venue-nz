@@ -2,13 +2,14 @@
   "id": 203232157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.806335,-36.98547,174.806335,-36.98547",
     "geom:latitude":-36.98547,
     "geom:longitude":174.806335,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Pukaki Rd Mangere ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203232157,
-    "wof:lastmodified":1449025530,
+    "wof:lastmodified":1466311667,
     "wof:name":"Mopower Clothing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [174.806335,-36.98547,174.806335,-36.98547],
-  "geometry": {"coordinates":[174.806335,-36.98547],"type":"Point"}
+  "bbox": [
+    174.806335,
+    -36.98547,
+    174.806335,
+    -36.98547
+],
+  "geometry": {"coordinates":[174.80633499999999,-36.98547],"type":"Point"}
 }

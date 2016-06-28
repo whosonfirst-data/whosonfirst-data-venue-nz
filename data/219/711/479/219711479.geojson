@@ -2,13 +2,14 @@
   "id": 219711479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.555481,-39.995388,176.555481,-39.995388",
     "geom:latitude":-39.995388,
     "geom:longitude":176.555481,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Ruataniwha St ",
     "sg:city":"Waipukurau",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219711479,
-    "wof:lastmodified":1449073278,
+    "wof:lastmodified":1466312913,
     "wof:name":"Mills Honda (2002) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "leasing"
     ]
 },
-  "bbox": [176.555481,-39.995388,176.555481,-39.995388],
-  "geometry": {"coordinates":[176.555481,-39.995388],"type":"Point"}
+  "bbox": [
+    176.555481,
+    -39.995388,
+    176.555481,
+    -39.995388
+],
+  "geometry": {"coordinates":[176.55548099999999,-39.995388],"type":"Point"}
 }

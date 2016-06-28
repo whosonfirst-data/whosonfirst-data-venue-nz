@@ -2,13 +2,14 @@
   "id": 186251837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.705261,-36.863762,174.705261,-36.863762",
     "geom:latitude":-36.863762,
     "geom:longitude":174.705261,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Point Chevalier ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186251837,
-    "wof:lastmodified":1449050313,
+    "wof:lastmodified":1466311855,
     "wof:name":"Stewmac Distributors Ltd",
     "wof:parent_id":85773121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.705261,-36.863762,174.705261,-36.863762],
-  "geometry": {"coordinates":[174.705261,-36.863762],"type":"Point"}
+  "bbox": [
+    174.705261,
+    -36.863762,
+    174.705261,
+    -36.863762
+],
+  "geometry": {"coordinates":[174.70526100000001,-36.863762],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186561785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.228073,-37.784458,175.228073,-37.784458",
     "geom:latitude":-37.784458,
     "geom:longitude":175.228073,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Hereford Pl ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186561785,
-    "wof:lastmodified":1449052259,
+    "wof:lastmodified":1466312911,
     "wof:name":"Suzanne's Salon",
     "wof:parent_id":85781739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.228073,-37.784458,175.228073,-37.784458],
-  "geometry": {"coordinates":[175.228073,-37.784458],"type":"Point"}
+  "bbox": [
+    175.228073,
+    -37.784458,
+    175.228073,
+    -37.784458
+],
+  "geometry": {"coordinates":[175.22807299999999,-37.784458],"type":"Point"}
 }

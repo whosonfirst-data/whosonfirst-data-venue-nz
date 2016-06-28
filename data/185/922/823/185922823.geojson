@@ -2,13 +2,14 @@
   "id": 185922823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.891022,-41.038486,174.891022,-41.038486",
     "geom:latitude":-41.038486,
     "geom:longitude":174.891022,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Muri Rd Pukerua Bay ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185922823,
-    "wof:lastmodified":1449006758,
+    "wof:lastmodified":1466312101,
     "wof:name":"Springhill Dance Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sport"
     ]
 },
-  "bbox": [174.891022,-41.038486,174.891022,-41.038486],
-  "geometry": {"coordinates":[174.891022,-41.038486],"type":"Point"}
+  "bbox": [
+    174.891022,
+    -41.038486,
+    174.891022,
+    -41.038486
+],
+  "geometry": {"coordinates":[174.89102199999999,-41.038486],"type":"Point"}
 }

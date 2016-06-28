@@ -2,13 +2,14 @@
   "id": 185814163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.291138,-40.617519,175.291138,-40.617519",
     "geom:latitude":-40.617519,
     "geom:longitude":175.291138,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Oxford St ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185814163,
-    "wof:lastmodified":1449006912,
+    "wof:lastmodified":1466311319,
     "wof:name":"Unichem Levin Pharmacy",
     "wof:parent_id":85782859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "developing"
     ]
 },
-  "bbox": [175.291138,-40.617519,175.291138,-40.617519],
-  "geometry": {"coordinates":[175.291138,-40.617519],"type":"Point"}
+  "bbox": [
+    175.291138,
+    -40.617519,
+    175.291138,
+    -40.617519
+],
+  "geometry": {"coordinates":[175.29113799999999,-40.617519],"type":"Point"}
 }

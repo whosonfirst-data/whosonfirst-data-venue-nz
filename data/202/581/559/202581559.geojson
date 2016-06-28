@@ -2,13 +2,14 @@
   "id": 202581559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.705139,-36.746384,174.705139,-36.746384",
     "geom:latitude":-36.746384,
     "geom:longitude":174.705139,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Bush Rd Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202581559,
-    "wof:lastmodified":1449060656,
+    "wof:lastmodified":1466311367,
     "wof:name":"ATC Tools NZ",
     "wof:parent_id":85772825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.705139,-36.746384,174.705139,-36.746384],
+  "bbox": [
+    174.705139,
+    -36.746384,
+    174.705139,
+    -36.746384
+],
   "geometry": {"coordinates":[174.705139,-36.746384],"type":"Point"}
 }

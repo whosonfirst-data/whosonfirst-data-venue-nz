@@ -2,13 +2,14 @@
   "id": 203195499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.753983,-40.293945,175.753983,-40.293945",
     "geom:latitude":-40.293945,
     "geom:longitude":175.753983,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Cambridge Ave ",
     "sg:city":"Ashhurst",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":203195499,
-    "wof:lastmodified":1449026227,
+    "wof:lastmodified":1466311331,
     "wof:name":"Gladd Holdings Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.753983,-40.293945,175.753983,-40.293945],
-  "geometry": {"coordinates":[175.753983,-40.293945],"type":"Point"}
+  "bbox": [
+    175.753983,
+    -40.293945,
+    175.753983,
+    -40.293945
+],
+  "geometry": {"coordinates":[175.75398300000001,-40.293945],"type":"Point"}
 }

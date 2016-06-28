@@ -2,13 +2,14 @@
   "id": 219629627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.005249,-38.66634,178.005249,-38.66634",
     "geom:latitude":-38.66634,
     "geom:longitude":178.005249,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Stanley Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219629627,
-    "wof:lastmodified":1449073106,
+    "wof:lastmodified":1466312584,
     "wof:name":"East Coast Auto Wreckers",
     "wof:parent_id":85780807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.005249,-38.66634,178.005249,-38.66634],
-  "geometry": {"coordinates":[178.005249,-38.66634],"type":"Point"}
+  "bbox": [
+    178.005249,
+    -38.66634,
+    178.005249,
+    -38.66634
+],
+  "geometry": {"coordinates":[178.00524899999999,-38.66634],"type":"Point"}
 }

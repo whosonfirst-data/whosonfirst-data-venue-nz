@@ -2,13 +2,14 @@
   "id": 203227831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.111275,34.228893,-98.111275,34.228893",
     "geom:latitude":34.228893,
     "geom:longitude":-98.111275,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5 200 Charles St ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203227831,
-    "wof:lastmodified":1449025332,
+    "wof:lastmodified":1466311622,
     "wof:name":"Back Country Classics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-98.111275,34.228893,-98.111275,34.228893],
-  "geometry": {"coordinates":[-98.111275,34.228893],"type":"Point"}
+  "bbox": [
+    -98.111275,
+    34.228893,
+    -98.111275,
+    34.228893
+],
+  "geometry": {"coordinates":[-98.11127500000001,34.228893],"type":"Point"}
 }

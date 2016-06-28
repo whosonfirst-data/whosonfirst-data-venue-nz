@@ -2,13 +2,14 @@
   "id": 203237561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.608871,-40.327839,175.608871,-40.327839",
     "geom:latitude":-40.327839,
     "geom:longitude":175.608871,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Dunk Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203237561,
-    "wof:lastmodified":1449024996,
+    "wof:lastmodified":1466311718,
     "wof:name":"Hellen's Designer Dressmaker Studio",
     "wof:parent_id":85781015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.608871,-40.327839,175.608871,-40.327839],
-  "geometry": {"coordinates":[175.608871,-40.327839],"type":"Point"}
+  "bbox": [
+    175.608871,
+    -40.327839,
+    175.608871,
+    -40.327839
+],
+  "geometry": {"coordinates":[175.60887099999999,-40.327839],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203109107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.926559,-36.892754,174.926559,-36.892754",
     "geom:latitude":-36.892754,
     "geom:longitude":174.926559,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Ridge Rd Howick ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203109107,
-    "wof:lastmodified":1449025576,
+    "wof:lastmodified":1466310599,
     "wof:name":"John Cowan Memory Maker Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "home"
     ]
 },
-  "bbox": [174.926559,-36.892754,174.926559,-36.892754],
+  "bbox": [
+    174.926559,
+    -36.892754,
+    174.926559,
+    -36.892754
+],
   "geometry": {"coordinates":[174.926559,-36.892754],"type":"Point"}
 }

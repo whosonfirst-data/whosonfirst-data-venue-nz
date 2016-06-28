@@ -2,13 +2,14 @@
   "id": 185954331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.280334,-37.769005,175.280334,-37.769005",
     "geom:latitude":-37.769005,
     "geom:longitude":175.280334,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Gardiner Pl Fairfield ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185954331,
-    "wof:lastmodified":1449008015,
+    "wof:lastmodified":1466312132,
     "wof:name":"Hamilton United Womens Bowling Club Inc",
     "wof:parent_id":85781245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sports"
     ]
 },
-  "bbox": [175.280334,-37.769005,175.280334,-37.769005],
-  "geometry": {"coordinates":[175.280334,-37.769005],"type":"Point"}
+  "bbox": [
+    175.280334,
+    -37.769005,
+    175.280334,
+    -37.769005
+],
+  "geometry": {"coordinates":[175.28033400000001,-37.769005],"type":"Point"}
 }

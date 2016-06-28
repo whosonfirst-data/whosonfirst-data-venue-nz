@@ -2,13 +2,14 @@
   "id": 186532649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.609177,-40.356735,175.609177,-40.356735",
     "geom:latitude":-40.356735,
     "geom:longitude":175.609177,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"75 George St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186532649,
-    "wof:lastmodified":1449051288,
+    "wof:lastmodified":1466312744,
     "wof:name":"Capelli of George Street",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.609177,-40.356735,175.609177,-40.356735],
-  "geometry": {"coordinates":[175.609177,-40.356735],"type":"Point"}
+  "bbox": [
+    175.609177,
+    -40.356735,
+    175.609177,
+    -40.356735
+],
+  "geometry": {"coordinates":[175.60917699999999,-40.356735],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202734983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.713501,-41.251621,174.713501,-41.251621",
     "geom:latitude":-41.251621,
     "geom:longitude":174.713501,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Makara Rd Makara ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202734983,
-    "wof:lastmodified":1449062340,
+    "wof:lastmodified":1466312368,
     "wof:name":"Karl's Bins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "home"
     ]
 },
-  "bbox": [174.713501,-41.251621,174.713501,-41.251621],
-  "geometry": {"coordinates":[174.713501,-41.251621],"type":"Point"}
+  "bbox": [
+    174.713501,
+    -41.251621,
+    174.713501,
+    -41.251621
+],
+  "geometry": {"coordinates":[174.71350100000001,-41.251621],"type":"Point"}
 }

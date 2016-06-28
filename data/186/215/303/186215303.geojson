@@ -2,13 +2,14 @@
   "id": 186215303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.447906,-45.739788,168.447906,-45.739788",
     "geom:latitude":-45.739788,
     "geom:longitude":168.447906,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Flora Rd ",
     "sg:city":"Lumsden",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186215303,
-    "wof:lastmodified":1449052541,
+    "wof:lastmodified":1466311537,
     "wof:name":"Hanks Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [168.447906,-45.739788,168.447906,-45.739788],
-  "geometry": {"coordinates":[168.447906,-45.739788],"type":"Point"}
+  "bbox": [
+    168.447906,
+    -45.739788,
+    168.447906,
+    -45.739788
+],
+  "geometry": {"coordinates":[168.44790599999999,-45.739788],"type":"Point"}
 }

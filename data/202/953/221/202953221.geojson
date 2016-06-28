@@ -2,13 +2,14 @@
   "id": 202953221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.263443,-37.796947,175.263443,-37.796947",
     "geom:latitude":-37.796947,
     "geom:longitude":175.263443,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Ellis St Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202953221,
-    "wof:lastmodified":1449061833,
+    "wof:lastmodified":1466312890,
     "wof:name":"ProSell Ltd",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.263443,-37.796947,175.263443,-37.796947],
+  "bbox": [
+    175.263443,
+    -37.796947,
+    175.263443,
+    -37.796947
+],
   "geometry": {"coordinates":[175.263443,-37.796947],"type":"Point"}
 }

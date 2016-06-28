@@ -2,13 +2,14 @@
   "id": 169629653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.68306,-43.549206,172.68306,-43.549206",
     "geom:latitude":-43.549206,
     "geom:longitude":172.68306,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"689 Ferry Rd Woolston ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169629653,
-    "wof:lastmodified":1449035182,
+    "wof:lastmodified":1466311946,
     "wof:name":"Woolston Community Library",
     "wof:parent_id":85773353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.68306,-43.549206,172.68306,-43.549206],
-  "geometry": {"coordinates":[172.68306,-43.549206],"type":"Point"}
+  "bbox": [
+    172.68306,
+    -43.549206,
+    172.68306,
+    -43.549206
+],
+  "geometry": {"coordinates":[172.68306000000001,-43.549206],"type":"Point"}
 }

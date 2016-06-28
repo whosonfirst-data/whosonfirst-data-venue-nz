@@ -2,13 +2,14 @@
   "id": 202941217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.608154,-40.408447,175.608154,-40.408447",
     "geom:latitude":-40.408447,
     "geom:longitude":175.608154,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Old West Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202941217,
-    "wof:lastmodified":1449061633,
+    "wof:lastmodified":1466312939,
     "wof:name":"NZ Sports Turf Institute (Inc)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "turf"
     ]
 },
-  "bbox": [175.608154,-40.408447,175.608154,-40.408447],
-  "geometry": {"coordinates":[175.608154,-40.408447],"type":"Point"}
+  "bbox": [
+    175.608154,
+    -40.408447,
+    175.608154,
+    -40.408447
+],
+  "geometry": {"coordinates":[175.60815400000001,-40.408447],"type":"Point"}
 }

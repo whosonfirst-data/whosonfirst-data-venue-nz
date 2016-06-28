@@ -2,13 +2,14 @@
   "id": 202800333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.268997,-37.788609,175.268997,-37.788609",
     "geom:latitude":-37.788609,
     "geom:longitude":175.268997,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 B Somerset St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202800333,
-    "wof:lastmodified":1449060318,
+    "wof:lastmodified":1466312626,
     "wof:name":"HomePlus",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "handrail"
     ]
 },
-  "bbox": [175.268997,-37.788609,175.268997,-37.788609],
-  "geometry": {"coordinates":[175.268997,-37.788609],"type":"Point"}
+  "bbox": [
+    175.268997,
+    -37.788609,
+    175.268997,
+    -37.788609
+],
+  "geometry": {"coordinates":[175.26899700000001,-37.788609],"type":"Point"}
 }

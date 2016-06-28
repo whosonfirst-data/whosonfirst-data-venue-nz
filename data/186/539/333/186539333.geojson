@@ -2,13 +2,14 @@
   "id": 186539333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.442886,-35.986801,174.442886,-35.986801",
     "geom:latitude":-35.986801,
     "geom:longitude":174.442886,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 The Centre Waipu ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186539333,
-    "wof:lastmodified":1449053077,
+    "wof:lastmodified":1466312765,
     "wof:name":"Highlander Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.442886,-35.986801,174.442886,-35.986801],
-  "geometry": {"coordinates":[174.442886,-35.986801],"type":"Point"}
+  "bbox": [
+    174.442886,
+    -35.986801,
+    174.442886,
+    -35.986801
+],
+  "geometry": {"coordinates":[174.44288599999999,-35.986801],"type":"Point"}
 }

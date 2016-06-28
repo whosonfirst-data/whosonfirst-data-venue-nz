@@ -2,13 +2,14 @@
   "id": 169570517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.163788,-40.756145,175.163788,-40.756145",
     "geom:latitude":-40.756145,
     "geom:longitude":175.163788,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"291 State Highway 1 ",
     "sg:city":"Otaki",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":169570517,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466311150,
     "wof:name":"Ancient Secrets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "health"
     ]
 },
-  "bbox": [175.163788,-40.756145,175.163788,-40.756145],
-  "geometry": {"coordinates":[175.163788,-40.756145],"type":"Point"}
+  "bbox": [
+    175.163788,
+    -40.756145,
+    175.163788,
+    -40.756145
+],
+  "geometry": {"coordinates":[175.16378800000001,-40.756145],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203215795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.063538,-41.132389,175.063538,-41.132389",
     "geom:latitude":-41.132389,
     "geom:longitude":175.063538,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Lane St Wallaceville Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203215795,
-    "wof:lastmodified":1449026510,
+    "wof:lastmodified":1466311512,
     "wof:name":"SaveMart",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.063538,-41.132389,175.063538,-41.132389],
-  "geometry": {"coordinates":[175.063538,-41.132389],"type":"Point"}
+  "bbox": [
+    175.063538,
+    -41.132389,
+    175.063538,
+    -41.132389
+],
+  "geometry": {"coordinates":[175.06353799999999,-41.132389],"type":"Point"}
 }

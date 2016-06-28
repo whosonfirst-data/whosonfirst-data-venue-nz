@@ -2,13 +2,14 @@
   "id": 186501183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.318405,-35.725765,174.318405,-35.725765",
     "geom:latitude":-35.725765,
     "geom:longitude":174.318405,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Water St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186501183,
-    "wof:lastmodified":1449053049,
+    "wof:lastmodified":1466312771,
     "wof:name":"Signature Hair Design",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beauty"
     ]
 },
-  "bbox": [174.318405,-35.725765,174.318405,-35.725765],
-  "geometry": {"coordinates":[174.318405,-35.725765],"type":"Point"}
+  "bbox": [
+    174.318405,
+    -35.725765,
+    174.318405,
+    -35.725765
+],
+  "geometry": {"coordinates":[174.31840500000001,-35.725765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219432199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.327698,-38.007923,175.327698,-38.007923",
     "geom:latitude":-38.007923,
     "geom:longitude":175.327698,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Gorst Ave Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219432199,
-    "wof:lastmodified":1449070316,
+    "wof:lastmodified":1466312011,
     "wof:name":"Te Awamutu Visitor Information Centre",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tourism"
     ]
 },
-  "bbox": [175.327698,-38.007923,175.327698,-38.007923],
+  "bbox": [
+    175.327698,
+    -38.007923,
+    175.327698,
+    -38.007923
+],
   "geometry": {"coordinates":[175.327698,-38.007923],"type":"Point"}
 }

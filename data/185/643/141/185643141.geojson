@@ -2,13 +2,14 @@
   "id": 185643141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.73204,-36.816837,174.73204,-36.816837",
     "geom:latitude":-36.816837,
     "geom:longitude":174.73204,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Hinemoa St Birkenhead ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":185643141,
-    "wof:lastmodified":1449008001,
+    "wof:lastmodified":1466311431,
     "wof:name":"Who Framed Johnnie",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.73204,-36.816837,174.73204,-36.816837],
-  "geometry": {"coordinates":[174.73204,-36.816837],"type":"Point"}
+  "bbox": [
+    174.73204,
+    -36.816837,
+    174.73204,
+    -36.816837
+],
+  "geometry": {"coordinates":[174.73204000000001,-36.816837],"type":"Point"}
 }

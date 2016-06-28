@@ -2,13 +2,14 @@
   "id": 202680703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.884171,-36.933647,174.884171,-36.933647",
     "geom:latitude":-36.933647,
     "geom:longitude":174.884171,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 A Stonedon Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202680703,
-    "wof:lastmodified":1449061870,
+    "wof:lastmodified":1466312174,
     "wof:name":"Jolly Jumper NZ Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "children"
     ]
 },
-  "bbox": [174.884171,-36.933647,174.884171,-36.933647],
-  "geometry": {"coordinates":[174.884171,-36.933647],"type":"Point"}
+  "bbox": [
+    174.884171,
+    -36.933647,
+    174.884171,
+    -36.933647
+],
+  "geometry": {"coordinates":[174.88417100000001,-36.933647],"type":"Point"}
 }

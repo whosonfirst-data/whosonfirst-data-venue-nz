@@ -2,13 +2,14 @@
   "id": 186431657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.260757,-37.788704,175.260757,-37.788704",
     "geom:latitude":-37.788704,
     "geom:longitude":175.260757,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Massey St Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186431657,
-    "wof:lastmodified":1449050694,
+    "wof:lastmodified":1466312676,
     "wof:name":"Landix Laundry Ltd",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.260757,-37.788704,175.260757,-37.788704],
-  "geometry": {"coordinates":[175.260757,-37.788704],"type":"Point"}
+  "bbox": [
+    175.260757,
+    -37.788704,
+    175.260757,
+    -37.788704
+],
+  "geometry": {"coordinates":[175.26075700000001,-37.788704],"type":"Point"}
 }

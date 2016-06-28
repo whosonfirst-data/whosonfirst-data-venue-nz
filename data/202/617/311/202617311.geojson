@@ -2,13 +2,14 @@
   "id": 202617311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.366119,-46.329491,168.366119,-46.329491",
     "geom:latitude":-46.329491,
     "geom:longitude":168.366119,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"254 Flora Rd Makarewa ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202617311,
-    "wof:lastmodified":1449060181,
+    "wof:lastmodified":1466311656,
     "wof:name":"Elliotte Simon Bricklayer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "related"
     ]
 },
-  "bbox": [168.366119,-46.329491,168.366119,-46.329491],
+  "bbox": [
+    168.366119,
+    -46.329491,
+    168.366119,
+    -46.329491
+],
   "geometry": {"coordinates":[168.366119,-46.329491],"type":"Point"}
 }

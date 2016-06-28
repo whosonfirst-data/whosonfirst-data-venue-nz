@@ -2,13 +2,14 @@
   "id": 185618285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.821198,-41.309319,174.821198,-41.309319",
     "geom:latitude":-41.309319,
     "geom:longitude":174.821198,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3/131 Park Rd Miramar ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185618285,
-    "wof:lastmodified":1449007606,
+    "wof:lastmodified":1466310980,
     "wof:name":"Human Dynamo Model Making",
     "wof:parent_id":85773025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.821198,-41.309319,174.821198,-41.309319],
-  "geometry": {"coordinates":[174.821198,-41.309319],"type":"Point"}
+  "bbox": [
+    174.821198,
+    -41.309319,
+    174.821198,
+    -41.309319
+],
+  "geometry": {"coordinates":[174.82119800000001,-41.309319],"type":"Point"}
 }

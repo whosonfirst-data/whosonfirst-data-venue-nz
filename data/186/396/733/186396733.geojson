@@ -2,13 +2,14 @@
   "id": 186396733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.077011,40.597321,-74.077011,40.597321",
     "geom:latitude":40.597321,
     "geom:longitude":-74.077011,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 10305 Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186396733,
-    "wof:lastmodified":1449052126,
+    "wof:lastmodified":1466312513,
     "wof:name":"Weldtech Group Ltd",
     "wof:parent_id":85803627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.077011,40.597321,-74.077011,40.597321],
+  "bbox": [
+    -74.077011,
+    40.597321,
+    -74.077011,
+    40.597321
+],
   "geometry": {"coordinates":[-74.077011,40.597321],"type":"Point"}
 }

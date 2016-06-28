@@ -2,13 +2,14 @@
   "id": 203319427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.013794,-39.949905,175.013794,-39.949905",
     "geom:latitude":-39.949905,
     "geom:longitude":175.013794,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Gilberd St Castlecliff ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203319427,
-    "wof:lastmodified":1449025690,
+    "wof:lastmodified":1466312297,
     "wof:name":"Hollander Waitotara Processing Ltd",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "skin"
     ]
 },
-  "bbox": [175.013794,-39.949905,175.013794,-39.949905],
-  "geometry": {"coordinates":[175.013794,-39.949905],"type":"Point"}
+  "bbox": [
+    175.013794,
+    -39.949905,
+    175.013794,
+    -39.949905
+],
+  "geometry": {"coordinates":[175.01379399999999,-39.949905],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219957413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.98632,41.325516,-71.98632,41.325516",
     "geom:latitude":41.325516,
     "geom:longitude":-71.98632,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Main St ",
     "sg:city":"Greytown",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219957413,
-    "wof:lastmodified":1449073383,
+    "wof:lastmodified":1466313122,
     "wof:name":"VETCARE Veterinary Hospital",
     "wof:parent_id":85836187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.98632,41.325516,-71.98632,41.325516],
-  "geometry": {"coordinates":[-71.98632,41.325516],"type":"Point"}
+  "bbox": [
+    -71.98632,
+    41.325516,
+    -71.98632,
+    41.325516
+],
+  "geometry": {"coordinates":[-71.98632000000001,41.325516],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220100591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.849609,-39.628956,176.849609,-39.628956",
     "geom:latitude":-39.628956,
     "geom:longitude":176.849609,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"905 Tomoana Rd ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220100591,
-    "wof:lastmodified":1449074640,
+    "wof:lastmodified":1466310609,
     "wof:name":"Muffs Pantry Ltd",
     "wof:parent_id":85780985,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [176.849609,-39.628956,176.849609,-39.628956],
-  "geometry": {"coordinates":[176.849609,-39.628956],"type":"Point"}
+  "bbox": [
+    176.849609,
+    -39.628956,
+    176.849609,
+    -39.628956
+],
+  "geometry": {"coordinates":[176.84960899999999,-39.628956],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220095131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.51886,-45.855038,170.51886,-45.855038",
     "geom:latitude":-45.855038,
     "geom:longitude":170.51886,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 North Rd North East Valley ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220095131,
-    "wof:lastmodified":1449074443,
+    "wof:lastmodified":1466310566,
     "wof:name":"Crusty Corner Bakery",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [170.51886,-45.855038,170.51886,-45.855038],
-  "geometry": {"coordinates":[170.51886,-45.855038],"type":"Point"}
+  "bbox": [
+    170.51886,
+    -45.855038,
+    170.51886,
+    -45.855038
+],
+  "geometry": {"coordinates":[170.51885999999999,-45.855038],"type":"Point"}
 }

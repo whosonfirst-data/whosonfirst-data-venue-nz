@@ -2,13 +2,14 @@
   "id": 203237781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.512054,-43.600578,172.512054,-43.600578",
     "geom:latitude":-43.600578,
     "geom:longitude":172.512054,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Birchs Rd Prebbleton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203237781,
-    "wof:lastmodified":1449024991,
+    "wof:lastmodified":1466311720,
     "wof:name":"Baker Vonne Dressmaker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.512054,-43.600578,172.512054,-43.600578],
-  "geometry": {"coordinates":[172.512054,-43.600578],"type":"Point"}
+  "bbox": [
+    172.512054,
+    -43.600578,
+    172.512054,
+    -43.600578
+],
+  "geometry": {"coordinates":[172.51205400000001,-43.600578],"type":"Point"}
 }

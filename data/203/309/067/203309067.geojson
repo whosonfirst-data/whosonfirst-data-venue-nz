@@ -2,13 +2,14 @@
   "id": 203309067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764267,-36.772522,174.764267,-36.772522",
     "geom:latitude":-36.772522,
     "geom:longitude":174.764267,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Kitchener Rd Milford ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203309067,
-    "wof:lastmodified":1449025340,
+    "wof:lastmodified":1466312154,
     "wof:name":"Milford Wool Shop",
     "wof:parent_id":85778459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothing"
     ]
 },
-  "bbox": [174.764267,-36.772522,174.764267,-36.772522],
-  "geometry": {"coordinates":[174.764267,-36.772522],"type":"Point"}
+  "bbox": [
+    174.764267,
+    -36.772522,
+    174.764267,
+    -36.772522
+],
+  "geometry": {"coordinates":[174.76426699999999,-36.772522],"type":"Point"}
 }

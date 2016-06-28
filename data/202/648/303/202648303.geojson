@@ -2,13 +2,14 @@
   "id": 202648303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.566788,-40.232224,175.566788,-40.232224",
     "geom:latitude":-40.232224,
     "geom:longitude":175.566788,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Kawa kawa Rd ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202648303,
-    "wof:lastmodified":1449060813,
+    "wof:lastmodified":1466311912,
     "wof:name":"Andrew Plastering",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plasterer"
     ]
 },
-  "bbox": [175.566788,-40.232224,175.566788,-40.232224],
+  "bbox": [
+    175.566788,
+    -40.232224,
+    175.566788,
+    -40.232224
+],
   "geometry": {"coordinates":[175.566788,-40.232224],"type":"Point"}
 }

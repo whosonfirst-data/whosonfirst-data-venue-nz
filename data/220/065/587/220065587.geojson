@@ -2,13 +2,14 @@
   "id": 220065587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.512604,-45.864075,170.512604,-45.864075",
     "geom:latitude":-45.864075,
     "geom:longitude":170.512604,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Gt King St Dunedin North ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220065587,
-    "wof:lastmodified":1449074872,
+    "wof:lastmodified":1466311784,
     "wof:name":"Meenan Wines & Spirits Ltd",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outlet"
     ]
 },
-  "bbox": [170.512604,-45.864075,170.512604,-45.864075],
-  "geometry": {"coordinates":[170.512604,-45.864075],"type":"Point"}
+  "bbox": [
+    170.512604,
+    -45.864075,
+    170.512604,
+    -45.864075
+],
+  "geometry": {"coordinates":[170.51260400000001,-45.864075],"type":"Point"}
 }

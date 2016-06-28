@@ -2,13 +2,14 @@
   "id": 203000881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.637405,-40.963188,175.637405,-40.963188",
     "geom:latitude":-40.963188,
     "geom:longitude":175.637405,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Harley St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203000881,
-    "wof:lastmodified":1449025241,
+    "wof:lastmodified":1466310514,
     "wof:name":"Hilhorst Mike",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.637405,-40.963188,175.637405,-40.963188],
+  "bbox": [
+    175.637405,
+    -40.963188,
+    175.637405,
+    -40.963188
+],
   "geometry": {"coordinates":[175.637405,-40.963188],"type":"Point"}
 }

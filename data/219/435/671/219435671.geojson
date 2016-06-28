@@ -2,13 +2,14 @@
   "id": 219435671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.515579,-45.897629,170.515579,-45.897629",
     "geom:latitude":-45.897629,
     "geom:longitude":170.515579,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Musselburgh Rse Musselburgh ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219435671,
-    "wof:lastmodified":1449073593,
+    "wof:lastmodified":1466312119,
     "wof:name":"Musselburgh Pharmacy Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "passport"
     ]
 },
-  "bbox": [170.515579,-45.897629,170.515579,-45.897629],
+  "bbox": [
+    170.515579,
+    -45.897629,
+    170.515579,
+    -45.897629
+],
   "geometry": {"coordinates":[170.515579,-45.897629],"type":"Point"}
 }

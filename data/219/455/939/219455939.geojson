@@ -2,13 +2,14 @@
   "id": 219455939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.771393,-36.78989,174.771393,-36.78989",
     "geom:latitude":-36.78989,
     "geom:longitude":174.771393,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Northcroft St Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219455939,
-    "wof:lastmodified":1449073348,
+    "wof:lastmodified":1466312182,
     "wof:name":"Hannew Consulting",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "education"
     ]
 },
-  "bbox": [174.771393,-36.78989,174.771393,-36.78989],
-  "geometry": {"coordinates":[174.771393,-36.78989],"type":"Point"}
+  "bbox": [
+    174.771393,
+    -36.78989,
+    174.771393,
+    -36.78989
+],
+  "geometry": {"coordinates":[174.77139299999999,-36.78989],"type":"Point"}
 }

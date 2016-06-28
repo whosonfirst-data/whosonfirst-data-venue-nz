@@ -2,13 +2,14 @@
   "id": 185775635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.710495,-36.869137,174.710495,-36.869137",
     "geom:latitude":-36.869137,
     "geom:longitude":174.710495,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Huia Rd Point Chevalier ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185775635,
-    "wof:lastmodified":1449007787,
+    "wof:lastmodified":1466311062,
     "wof:name":"Pt Chevalier Community Centre",
     "wof:parent_id":85773319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.710495,-36.869137,174.710495,-36.869137],
-  "geometry": {"coordinates":[174.710495,-36.869137],"type":"Point"}
+  "bbox": [
+    174.710495,
+    -36.869137,
+    174.710495,
+    -36.869137
+],
+  "geometry": {"coordinates":[174.71049500000001,-36.869137],"type":"Point"}
 }

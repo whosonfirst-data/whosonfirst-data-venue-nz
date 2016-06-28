@@ -2,13 +2,14 @@
   "id": 202654671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.502121,-45.893993,170.502121,-45.893993",
     "geom:latitude":-45.893993,
     "geom:longitude":170.502121,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 McBride St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202654671,
-    "wof:lastmodified":1449060963,
+    "wof:lastmodified":1466311962,
     "wof:name":"Otago Southland Master Plasterers Assn (Inc)",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plasterer"
     ]
 },
-  "bbox": [170.502121,-45.893993,170.502121,-45.893993],
-  "geometry": {"coordinates":[170.502121,-45.893993],"type":"Point"}
+  "bbox": [
+    170.502121,
+    -45.893993,
+    170.502121,
+    -45.893993
+],
+  "geometry": {"coordinates":[170.50212099999999,-45.893993],"type":"Point"}
 }

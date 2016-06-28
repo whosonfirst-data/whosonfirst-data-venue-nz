@@ -2,13 +2,14 @@
   "id": 186612973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.876602,-39.667439,176.876602,-39.667439",
     "geom:latitude":-39.667439,
     "geom:longitude":176.876602,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15/17 Cooper St Havelock North ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186612973,
-    "wof:lastmodified":1449051565,
+    "wof:lastmodified":1466312895,
     "wof:name":"Havelock North Fitness Centre Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fitness"
     ]
 },
-  "bbox": [176.876602,-39.667439,176.876602,-39.667439],
-  "geometry": {"coordinates":[176.876602,-39.667439],"type":"Point"}
+  "bbox": [
+    176.876602,
+    -39.667439,
+    176.876602,
+    -39.667439
+],
+  "geometry": {"coordinates":[176.87660199999999,-39.667439],"type":"Point"}
 }

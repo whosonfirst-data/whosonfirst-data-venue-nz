@@ -2,13 +2,14 @@
   "id": 186061553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.899399,-36.931335,174.899399,-36.931335",
     "geom:latitude":-36.931335,
     "geom:longitude":174.899399,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Ron Driver Pl East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186061553,
-    "wof:lastmodified":1449052292,
+    "wof:lastmodified":1466311630,
     "wof:name":"Karcher Ltd",
     "wof:parent_id":85781725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "maintenance"
     ]
 },
-  "bbox": [174.899399,-36.931335,174.899399,-36.931335],
-  "geometry": {"coordinates":[174.899399,-36.931335],"type":"Point"}
+  "bbox": [
+    174.899399,
+    -36.931335,
+    174.899399,
+    -36.931335
+],
+  "geometry": {"coordinates":[174.89939899999999,-36.931335],"type":"Point"}
 }

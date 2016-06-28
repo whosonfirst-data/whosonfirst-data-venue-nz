@@ -2,13 +2,14 @@
   "id": 169576089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.252335,-44.395691,171.252335,-44.395691",
     "geom:latitude":-44.395691,
     "geom:longitude":171.252335,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Church St ",
     "sg:city":"Timaru",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169576089,
-    "wof:lastmodified":1449035195,
+    "wof:lastmodified":1466311304,
     "wof:name":"Demco Wool & Sewing Centre",
     "wof:parent_id":85782507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [171.252335,-44.395691,171.252335,-44.395691],
-  "geometry": {"coordinates":[171.252335,-44.395691],"type":"Point"}
+  "bbox": [
+    171.252335,
+    -44.395691,
+    171.252335,
+    -44.395691
+],
+  "geometry": {"coordinates":[171.25233499999999,-44.395691],"type":"Point"}
 }

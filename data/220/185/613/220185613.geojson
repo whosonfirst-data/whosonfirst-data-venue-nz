@@ -2,13 +2,14 @@
   "id": 220185613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.086281,38.890491,-77.086281,38.890491",
     "geom:latitude":38.890491,
     "geom:longitude":-77.086281,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Hopper & Arlington Sts ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":220185613,
-    "wof:lastmodified":1449074174,
+    "wof:lastmodified":1466311348,
     "wof:name":"A E Preston & Co Ltd",
     "wof:parent_id":85875977,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.086281,38.890491,-77.086281,38.890491],
+  "bbox": [
+    -77.086281,
+    38.890491,
+    -77.086281,
+    38.890491
+],
   "geometry": {"coordinates":[-77.086281,38.890491],"type":"Point"}
 }

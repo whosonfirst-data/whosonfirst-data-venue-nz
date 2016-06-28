@@ -2,13 +2,14 @@
   "id": 202825001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.834961,-36.945499,174.834961,-36.945499",
     "geom:latitude":-36.945499,
     "geom:longitude":174.834961,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"139 B Station Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202825001,
-    "wof:lastmodified":1449060194,
+    "wof:lastmodified":1466312522,
     "wof:name":"Brian Collis Cabinetmakers Ltd",
     "wof:parent_id":85778867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.834961,-36.945499,174.834961,-36.945499],
-  "geometry": {"coordinates":[174.834961,-36.945499],"type":"Point"}
+  "bbox": [
+    174.834961,
+    -36.945499,
+    174.834961,
+    -36.945499
+],
+  "geometry": {"coordinates":[174.83496099999999,-36.945499],"type":"Point"}
 }

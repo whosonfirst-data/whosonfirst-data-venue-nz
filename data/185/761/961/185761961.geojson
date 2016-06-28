@@ -2,13 +2,14 @@
   "id": 185761961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.321289,44.538879,-68.321289,44.538879",
     "geom:latitude":44.538879,
     "geom:longitude":-68.321289,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Franklin Rd ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185761961,
-    "wof:lastmodified":1449007846,
+    "wof:lastmodified":1466310974,
     "wof:name":"Pukekohe Rugby Football Club Inc",
     "wof:parent_id":85820603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-68.321289,44.538879,-68.321289,44.538879],
-  "geometry": {"coordinates":[-68.321289,44.538879],"type":"Point"}
+  "bbox": [
+    -68.321289,
+    44.538879,
+    -68.321289,
+    44.538879
+],
+  "geometry": {"coordinates":[-68.32128899999999,44.538879],"type":"Point"}
 }

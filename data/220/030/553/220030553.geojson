@@ -2,13 +2,14 @@
   "id": 220030553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.628357,-43.541313,172.628357,-43.541313",
     "geom:latitude":-43.541313,
     "geom:longitude":172.628357,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Hazeldean Rd Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220030553,
-    "wof:lastmodified":1449074322,
+    "wof:lastmodified":1466311298,
     "wof:name":"Gobstoppers",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.628357,-43.541313,172.628357,-43.541313],
-  "geometry": {"coordinates":[172.628357,-43.541313],"type":"Point"}
+  "bbox": [
+    172.628357,
+    -43.541313,
+    172.628357,
+    -43.541313
+],
+  "geometry": {"coordinates":[172.62835699999999,-43.541313],"type":"Point"}
 }

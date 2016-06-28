@@ -2,13 +2,14 @@
   "id": 185958453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.773758,-38.055702,175.773758,-38.055702",
     "geom:latitude":-38.055702,
     "geom:longitude":175.773758,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Arapuni St ",
     "sg:city":"Putaruru",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":185958453,
-    "wof:lastmodified":1449007881,
+    "wof:lastmodified":1466312263,
     "wof:name":"Putaruru Bowling Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sports"
     ]
 },
-  "bbox": [175.773758,-38.055702,175.773758,-38.055702],
-  "geometry": {"coordinates":[175.773758,-38.055702],"type":"Point"}
+  "bbox": [
+    175.773758,
+    -38.055702,
+    175.773758,
+    -38.055702
+],
+  "geometry": {"coordinates":[175.77375799999999,-38.055702],"type":"Point"}
 }

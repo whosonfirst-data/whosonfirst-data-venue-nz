@@ -2,13 +2,14 @@
   "id": 203248329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.499451,34.35807,-89.499451,34.35807",
     "geom:latitude":34.35807,
     "geom:longitude":-89.499451,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Wilsons Rd ",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203248329,
-    "wof:lastmodified":1449025983,
+    "wof:lastmodified":1466311823,
     "wof:name":"Just Pretending - Childrens Dress-Ups",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fabric"
     ]
 },
-  "bbox": [-89.499451,34.35807,-89.499451,34.35807],
-  "geometry": {"coordinates":[-89.499451,34.35807],"type":"Point"}
+  "bbox": [
+    -89.499451,
+    34.35807,
+    -89.499451,
+    34.35807
+],
+  "geometry": {"coordinates":[-89.49945099999999,34.35807],"type":"Point"}
 }

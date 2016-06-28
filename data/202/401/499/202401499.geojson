@@ -2,13 +2,14 @@
   "id": 202401499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.675812,-40.937531,175.675812,-40.937531",
     "geom:latitude":-40.937531,
     "geom:longitude":175.675812,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Titoki St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202401499,
-    "wof:lastmodified":1449062283,
+    "wof:lastmodified":1466311064,
     "wof:name":"Brookleigh Hospital & Nursing Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.675812,-40.937531,175.675812,-40.937531],
-  "geometry": {"coordinates":[175.675812,-40.937531],"type":"Point"}
+  "bbox": [
+    175.675812,
+    -40.937531,
+    175.675812,
+    -40.937531
+],
+  "geometry": {"coordinates":[175.67581200000001,-40.937531],"type":"Point"}
 }

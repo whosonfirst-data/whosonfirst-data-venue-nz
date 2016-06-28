@@ -2,13 +2,14 @@
   "id": 202809017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.903412,-36.898666,174.903412,-36.898666",
     "geom:latitude":-36.898666,
     "geom:longitude":174.903412,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"491 Pakuranga Hwy ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202809017,
-    "wof:lastmodified":1449062211,
+    "wof:lastmodified":1466312559,
     "wof:name":"Bedpost",
     "wof:parent_id":85778943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [174.903412,-36.898666,174.903412,-36.898666],
+  "bbox": [
+    174.903412,
+    -36.898666,
+    174.903412,
+    -36.898666
+],
   "geometry": {"coordinates":[174.903412,-36.898666],"type":"Point"}
 }

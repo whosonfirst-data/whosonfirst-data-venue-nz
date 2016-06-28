@@ -2,13 +2,14 @@
   "id": 203191711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.135574,-37.722015,176.135574,-37.722015",
     "geom:latitude":-37.722015,
     "geom:longitude":176.135574,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cameron Rd Greerton ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203191711,
-    "wof:lastmodified":1449026084,
+    "wof:lastmodified":1466311297,
     "wof:name":"West End Drycleaners",
     "wof:parent_id":85781323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaner"
     ]
 },
-  "bbox": [176.135574,-37.722015,176.135574,-37.722015],
-  "geometry": {"coordinates":[176.135574,-37.722015],"type":"Point"}
+  "bbox": [
+    176.135574,
+    -37.722015,
+    176.135574,
+    -37.722015
+],
+  "geometry": {"coordinates":[176.13557399999999,-37.722015],"type":"Point"}
 }

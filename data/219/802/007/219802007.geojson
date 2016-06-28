@@ -2,13 +2,14 @@
   "id": 219802007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.346329,-46.418098,168.346329,-46.418098",
     "geom:latitude":-46.418098,
     "geom:longitude":168.346329,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Tweed St West Invercargill ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219802007,
-    "wof:lastmodified":1449073266,
+    "wof:lastmodified":1466313026,
     "wof:name":"Corson Panel Repairs",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "beater"
     ]
 },
-  "bbox": [168.346329,-46.418098,168.346329,-46.418098],
+  "bbox": [
+    168.346329,
+    -46.418098,
+    168.346329,
+    -46.418098
+],
   "geometry": {"coordinates":[168.346329,-46.418098],"type":"Point"}
 }

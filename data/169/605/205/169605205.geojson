@@ -2,13 +2,14 @@
   "id": 169605205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.325668,-38.010338,175.325668,-38.010338",
     "geom:latitude":-38.010338,
     "geom:longitude":175.325668,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"235 2 Sloane St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169605205,
-    "wof:lastmodified":1449034289,
+    "wof:lastmodified":1466311672,
     "wof:name":"Te Awamutu Books & Stamps",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.325668,-38.010338,175.325668,-38.010338],
-  "geometry": {"coordinates":[175.325668,-38.010338],"type":"Point"}
+  "bbox": [
+    175.325668,
+    -38.010338,
+    175.325668,
+    -38.010338
+],
+  "geometry": {"coordinates":[175.32566800000001,-38.010338],"type":"Point"}
 }

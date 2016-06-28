@@ -2,13 +2,14 @@
   "id": 186018397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.286713,-40.621826,175.286713,-40.621826",
     "geom:latitude":-40.621826,
     "geom:longitude":175.286713,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"183 Queen St West ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186018397,
-    "wof:lastmodified":1449051714,
+    "wof:lastmodified":1466310863,
     "wof:name":"Te Kowhai Reception Lounge",
     "wof:parent_id":85782859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.286713,-40.621826,175.286713,-40.621826],
-  "geometry": {"coordinates":[175.286713,-40.621826],"type":"Point"}
+  "bbox": [
+    175.286713,
+    -40.621826,
+    175.286713,
+    -40.621826
+],
+  "geometry": {"coordinates":[175.28671299999999,-40.621826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202491067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.748581,-36.870365,174.748581,-36.870365",
     "geom:latitude":-36.870365,
     "geom:longitude":174.748581,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"368 New North Rd Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202491067,
-    "wof:lastmodified":1449060067,
+    "wof:lastmodified":1466310587,
     "wof:name":"NZTS",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "products"
     ]
 },
-  "bbox": [174.748581,-36.870365,174.748581,-36.870365],
+  "bbox": [
+    174.748581,
+    -36.870365,
+    174.748581,
+    -36.870365
+],
   "geometry": {"coordinates":[174.748581,-36.870365],"type":"Point"}
 }

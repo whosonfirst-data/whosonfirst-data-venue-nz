@@ -2,13 +2,14 @@
   "id": 203159659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.955032,-41.512039,173.955032,-41.512039",
     "geom:latitude":-41.512039,
     "geom:longitude":173.955032,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"67 High St ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203159659,
-    "wof:lastmodified":1449025171,
+    "wof:lastmodified":1466310985,
     "wof:name":"Roselands Pets & Plants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pets"
     ]
 },
-  "bbox": [173.955032,-41.512039,173.955032,-41.512039],
-  "geometry": {"coordinates":[173.955032,-41.512039],"type":"Point"}
+  "bbox": [
+    173.955032,
+    -41.512039,
+    173.955032,
+    -41.512039
+],
+  "geometry": {"coordinates":[173.95503199999999,-41.512039],"type":"Point"}
 }

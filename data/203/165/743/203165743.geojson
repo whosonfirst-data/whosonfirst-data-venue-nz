@@ -2,13 +2,14 @@
   "id": 203165743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.837814,-37.393288,175.837814,-37.393288",
     "geom:latitude":-37.393288,
     "geom:longitude":175.837814,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Kenny St ",
     "sg:city":"Waihi",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":203165743,
-    "wof:lastmodified":1449026868,
+    "wof:lastmodified":1466311038,
     "wof:name":"Sunray Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "fitting"
     ]
 },
-  "bbox": [175.837814,-37.393288,175.837814,-37.393288],
-  "geometry": {"coordinates":[175.837814,-37.393288],"type":"Point"}
+  "bbox": [
+    175.837814,
+    -37.393288,
+    175.837814,
+    -37.393288
+],
+  "geometry": {"coordinates":[175.83781400000001,-37.393288],"type":"Point"}
 }

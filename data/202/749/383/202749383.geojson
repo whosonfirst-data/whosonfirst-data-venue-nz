@@ -2,13 +2,14 @@
   "id": 202749383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.005035,-39.932121,175.005035,-39.932121",
     "geom:latitude":-39.932121,
     "geom:longitude":175.005035,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Mosston Rd ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202749383,
-    "wof:lastmodified":1449060846,
+    "wof:lastmodified":1466312506,
     "wof:name":"Pine Tree Lodge Rest Home & Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [175.005035,-39.932121,175.005035,-39.932121],
-  "geometry": {"coordinates":[175.005035,-39.932121],"type":"Point"}
+  "bbox": [
+    175.005035,
+    -39.932121,
+    175.005035,
+    -39.932121
+],
+  "geometry": {"coordinates":[175.00503499999999,-39.932121],"type":"Point"}
 }

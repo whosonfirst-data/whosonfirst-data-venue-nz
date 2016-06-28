@@ -2,13 +2,14 @@
   "id": 202980665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.303711,-41.273663,173.303711,-41.273663",
     "geom:latitude":-41.273663,
     "geom:longitude":173.303711,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Dodson Valley Rd Dodsons Valley ",
     "sg:city":"Nelson",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202980665,
-    "wof:lastmodified":1449060282,
+    "wof:lastmodified":1466312868,
     "wof:name":"Hennings Norbert",
     "wof:parent_id":85781545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.303711,-41.273663,173.303711,-41.273663],
-  "geometry": {"coordinates":[173.303711,-41.273663],"type":"Point"}
+  "bbox": [
+    173.303711,
+    -41.273663,
+    173.303711,
+    -41.273663
+],
+  "geometry": {"coordinates":[173.30371099999999,-41.273663],"type":"Point"}
 }

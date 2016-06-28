@@ -2,13 +2,14 @@
   "id": 220076563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.771179,-36.786564,174.771179,-36.786564",
     "geom:latitude":-36.786564,
     "geom:longitude":174.771179,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Anzac St Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220076563,
-    "wof:lastmodified":1449074668,
+    "wof:lastmodified":1466311856,
     "wof:name":"Southcorp Wines NZ Ltd",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distributor"
     ]
 },
-  "bbox": [174.771179,-36.786564,174.771179,-36.786564],
-  "geometry": {"coordinates":[174.771179,-36.786564],"type":"Point"}
+  "bbox": [
+    174.771179,
+    -36.786564,
+    174.771179,
+    -36.786564
+],
+  "geometry": {"coordinates":[174.77117899999999,-36.786564],"type":"Point"}
 }

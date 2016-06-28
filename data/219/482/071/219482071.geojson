@@ -2,13 +2,14 @@
   "id": 219482071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.733658,-36.809814,174.733658,-36.809814",
     "geom:latitude":-36.809814,
     "geom:longitude":174.733658,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Kauri Glen Rd Northcote ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219482071,
-    "wof:lastmodified":1449071644,
+    "wof:lastmodified":1466312139,
     "wof:name":"Northcote College",
     "wof:parent_id":85778167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.733658,-36.809814,174.733658,-36.809814],
-  "geometry": {"coordinates":[174.733658,-36.809814],"type":"Point"}
+  "bbox": [
+    174.733658,
+    -36.809814,
+    174.733658,
+    -36.809814
+],
+  "geometry": {"coordinates":[174.73365799999999,-36.809814],"type":"Point"}
 }

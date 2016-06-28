@@ -2,13 +2,14 @@
   "id": 236053373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.136215,-40.758949,175.136215,-40.758949",
     "geom:latitude":-40.758949,
     "geom:longitude":175.136215,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rimu St ",
     "sg:city":"Otaki",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":236053373,
-    "wof:lastmodified":1449002143,
+    "wof:lastmodified":1466311255,
     "wof:name":"Tombstone Services & Photo Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "headstone"
     ]
 },
-  "bbox": [175.136215,-40.758949,175.136215,-40.758949],
-  "geometry": {"coordinates":[175.136215,-40.758949],"type":"Point"}
+  "bbox": [
+    175.136215,
+    -40.758949,
+    175.136215,
+    -40.758949
+],
+  "geometry": {"coordinates":[175.13621499999999,-40.758949],"type":"Point"}
 }

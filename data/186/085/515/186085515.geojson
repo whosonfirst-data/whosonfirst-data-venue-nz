@@ -2,13 +2,14 @@
   "id": 186085515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.811142,-41.248192,174.811142,-41.248192",
     "geom:latitude":-41.248192,
     "geom:longitude":174.811142,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Jarden Mile Ngauranga ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186085515,
-    "wof:lastmodified":1449051065,
+    "wof:lastmodified":1466311887,
     "wof:name":"Connector Systems Ltd",
     "wof:parent_id":85778225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.811142,-41.248192,174.811142,-41.248192],
-  "geometry": {"coordinates":[174.811142,-41.248192],"type":"Point"}
+  "bbox": [
+    174.811142,
+    -41.248192,
+    174.811142,
+    -41.248192
+],
+  "geometry": {"coordinates":[174.81114199999999,-41.248192],"type":"Point"}
 }

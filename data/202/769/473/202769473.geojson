@@ -2,13 +2,14 @@
   "id": 202769473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.495407,-45.894615,170.495407,-45.894615",
     "geom:latitude":-45.894615,
     "geom:longitude":170.495407,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"257 Hillside Rd South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202769473,
-    "wof:lastmodified":1449060950,
+    "wof:lastmodified":1466312443,
     "wof:name":"Custom Home Products Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fittings"
     ]
 },
-  "bbox": [170.495407,-45.894615,170.495407,-45.894615],
+  "bbox": [
+    170.495407,
+    -45.894615,
+    170.495407,
+    -45.894615
+],
   "geometry": {"coordinates":[170.495407,-45.894615],"type":"Point"}
 }

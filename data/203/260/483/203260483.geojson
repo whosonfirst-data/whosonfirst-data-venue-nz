@@ -2,13 +2,14 @@
   "id": 203260483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.954529,-41.189522,174.954529,-41.189522",
     "geom:latitude":-41.189522,
     "geom:longitude":174.954529,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25-27 Eastern Hutt Rd Wingate Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203260483,
-    "wof:lastmodified":1449025263,
+    "wof:lastmodified":1466311944,
     "wof:name":"Woolyarns Factory Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fabric"
     ]
 },
-  "bbox": [174.954529,-41.189522,174.954529,-41.189522],
-  "geometry": {"coordinates":[174.954529,-41.189522],"type":"Point"}
+  "bbox": [
+    174.954529,
+    -41.189522,
+    174.954529,
+    -41.189522
+],
+  "geometry": {"coordinates":[174.95452900000001,-41.189522],"type":"Point"}
 }

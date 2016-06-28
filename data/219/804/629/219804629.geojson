@@ -2,13 +2,14 @@
   "id": 219804629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.807419,-36.914452,174.807419,-36.914452",
     "geom:latitude":-36.914452,
     "geom:longitude":174.807419,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"200 c Station Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219804629,
-    "wof:lastmodified":1449072850,
+    "wof:lastmodified":1466313106,
     "wof:name":"Hammer Action",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "beater"
     ]
 },
-  "bbox": [174.807419,-36.914452,174.807419,-36.914452],
-  "geometry": {"coordinates":[174.807419,-36.914452],"type":"Point"}
+  "bbox": [
+    174.807419,
+    -36.914452,
+    174.807419,
+    -36.914452
+],
+  "geometry": {"coordinates":[174.80741900000001,-36.914452],"type":"Point"}
 }

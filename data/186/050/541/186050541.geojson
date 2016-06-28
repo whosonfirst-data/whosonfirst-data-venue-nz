@@ -2,13 +2,14 @@
   "id": 186050541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.901672,-41.24197,174.901672,-41.24197",
     "geom:latitude":-41.24197,
     "geom:longitude":174.901672,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Barnes St Seaview Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186050541,
-    "wof:lastmodified":1449051856,
+    "wof:lastmodified":1466311532,
     "wof:name":"Mirotone (NZ) Ltd",
     "wof:parent_id":85778601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "compounds"
     ]
 },
-  "bbox": [174.901672,-41.24197,174.901672,-41.24197],
-  "geometry": {"coordinates":[174.901672,-41.24197],"type":"Point"}
+  "bbox": [
+    174.901672,
+    -41.24197,
+    174.901672,
+    -41.24197
+],
+  "geometry": {"coordinates":[174.90167199999999,-41.24197],"type":"Point"}
 }

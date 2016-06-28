@@ -2,13 +2,14 @@
   "id": 219979043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.247528,-37.759411,175.247528,-37.759411",
     "geom:latitude":-37.759411,
     "geom:longitude":175.247528,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"541 Te Rapa ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219979043,
-    "wof:lastmodified":1449072885,
+    "wof:lastmodified":1466313128,
     "wof:name":"SVS Veterinary Supplies Ltd",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.247528,-37.759411,175.247528,-37.759411],
-  "geometry": {"coordinates":[175.247528,-37.759411],"type":"Point"}
+  "bbox": [
+    175.247528,
+    -37.759411,
+    175.247528,
+    -37.759411
+],
+  "geometry": {"coordinates":[175.24752799999999,-37.759411],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185760993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.860565,-36.971855,174.860565,-36.971855",
     "geom:latitude":-36.971855,
     "geom:longitude":174.860565,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Sutton Cre Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185760993,
-    "wof:lastmodified":1449008129,
+    "wof:lastmodified":1466310968,
     "wof:name":"Papatoetoe Croquet Club",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.860565,-36.971855,174.860565,-36.971855],
-  "geometry": {"coordinates":[174.860565,-36.971855],"type":"Point"}
+  "bbox": [
+    174.860565,
+    -36.971855,
+    174.860565,
+    -36.971855
+],
+  "geometry": {"coordinates":[174.86056500000001,-36.971855],"type":"Point"}
 }

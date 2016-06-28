@@ -2,13 +2,14 @@
   "id": 219592307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.890228,-39.485424,176.890228,-39.485424",
     "geom:latitude":-39.485424,
     "geom:longitude":176.890228,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Pandora Rd ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219592307,
-    "wof:lastmodified":1449072402,
+    "wof:lastmodified":1466312571,
     "wof:name":"BP Pandora",
     "wof:parent_id":85773129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.890228,-39.485424,176.890228,-39.485424],
-  "geometry": {"coordinates":[176.890228,-39.485424],"type":"Point"}
+  "bbox": [
+    176.890228,
+    -39.485424,
+    176.890228,
+    -39.485424
+],
+  "geometry": {"coordinates":[176.89022800000001,-39.485424],"type":"Point"}
 }

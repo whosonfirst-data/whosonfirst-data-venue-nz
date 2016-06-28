@@ -2,13 +2,14 @@
   "id": 169762165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.944214,-37.06287,174.944214,-37.06287",
     "geom:latitude":-37.06287,
     "geom:longitude":174.944214,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Broadway Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169762165,
-    "wof:lastmodified":1449035009,
+    "wof:lastmodified":1466311359,
     "wof:name":"Broadway Cycles & Mowers",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.944214,-37.06287,174.944214,-37.06287],
-  "geometry": {"coordinates":[174.944214,-37.06287],"type":"Point"}
+  "bbox": [
+    174.944214,
+    -37.06287,
+    174.944214,
+    -37.06287
+],
+  "geometry": {"coordinates":[174.94421399999999,-37.06287],"type":"Point"}
 }

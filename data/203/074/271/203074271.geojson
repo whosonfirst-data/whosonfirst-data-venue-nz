@@ -2,13 +2,14 @@
   "id": 203074271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.034576,-41.129444,175.034576,-41.129444",
     "geom:latitude":-41.129444,
     "geom:longitude":175.034576,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Rimutaka St Trentham Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203074271,
-    "wof:lastmodified":1449025966,
+    "wof:lastmodified":1466311751,
     "wof:name":"Stone Art",
     "wof:parent_id":85773263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.034576,-41.129444,175.034576,-41.129444],
-  "geometry": {"coordinates":[175.034576,-41.129444],"type":"Point"}
+  "bbox": [
+    175.034576,
+    -41.129444,
+    175.034576,
+    -41.129444
+],
+  "geometry": {"coordinates":[175.03457599999999,-41.129444],"type":"Point"}
 }

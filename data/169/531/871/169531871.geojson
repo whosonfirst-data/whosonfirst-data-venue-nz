@@ -2,13 +2,14 @@
   "id": 169531871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"147.418396,-38.196274,147.418396,-38.196274",
     "geom:latitude":-38.196274,
     "geom:longitude":147.418396,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 3724, The Treasury",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":169531871,
-    "wof:lastmodified":1449033472,
+    "wof:lastmodified":1466310533,
     "wof:name":"New Zealand Treasury",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [147.418396,-38.196274,147.418396,-38.196274],
+  "bbox": [
+    147.418396,
+    -38.196274,
+    147.418396,
+    -38.196274
+],
   "geometry": {"coordinates":[147.418396,-38.196274],"type":"Point"}
 }

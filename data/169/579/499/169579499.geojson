@@ -2,13 +2,14 @@
   "id": 169579499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.645157,-43.542549,172.645157,-43.542549",
     "geom:latitude":-43.542549,
     "geom:longitude":172.645157,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Brisbane St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169579499,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1466311397,
     "wof:name":"TNT",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [172.645157,-43.542549,172.645157,-43.542549],
-  "geometry": {"coordinates":[172.645157,-43.542549],"type":"Point"}
+  "bbox": [
+    172.645157,
+    -43.542549,
+    172.645157,
+    -43.542549
+],
+  "geometry": {"coordinates":[172.64515700000001,-43.542549],"type":"Point"}
 }

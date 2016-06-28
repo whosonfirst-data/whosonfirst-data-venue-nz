@@ -2,13 +2,14 @@
   "id": 235987751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.652122,34.513569,-79.652122,34.513569",
     "geom:latitude":34.513569,
     "geom:longitude":-79.652122,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 1 Seddon ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235987751,
-    "wof:lastmodified":1449008433,
+    "wof:lastmodified":1466311507,
     "wof:name":"The Station at Seddon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cafe"
     ]
 },
-  "bbox": [-79.652122,34.513569,-79.652122,34.513569],
-  "geometry": {"coordinates":[-79.652122,34.513569],"type":"Point"}
+  "bbox": [
+    -79.652122,
+    34.513569,
+    -79.652122,
+    34.513569
+],
+  "geometry": {"coordinates":[-79.65212200000001,34.513569],"type":"Point"}
 }

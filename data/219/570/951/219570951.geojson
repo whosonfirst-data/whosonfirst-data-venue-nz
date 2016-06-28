@@ -2,13 +2,14 @@
   "id": 219570951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.248016,-37.759876,175.248016,-37.759876",
     "geom:latitude":-37.759876,
     "geom:longitude":175.248016,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219570951,
-    "wof:lastmodified":1449072476,
+    "wof:lastmodified":1466312511,
     "wof:name":"Fairview Motors Limited",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.248016,-37.759876,175.248016,-37.759876],
-  "geometry": {"coordinates":[175.248016,-37.759876],"type":"Point"}
+  "bbox": [
+    175.248016,
+    -37.759876,
+    175.248016,
+    -37.759876
+],
+  "geometry": {"coordinates":[175.24801600000001,-37.759876],"type":"Point"}
 }

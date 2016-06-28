@@ -2,13 +2,14 @@
   "id": 202702489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.918762,-37.022209,174.918762,-37.022209",
     "geom:latitude":-37.022209,
     "geom:longitude":174.918762,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Stellata Ct Manurewa ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202702489,
-    "wof:lastmodified":1449061384,
+    "wof:lastmodified":1466312123,
     "wof:name":"Ask About Face Painting",
     "wof:parent_id":85778935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.918762,-37.022209,174.918762,-37.022209],
-  "geometry": {"coordinates":[174.918762,-37.022209],"type":"Point"}
+  "bbox": [
+    174.918762,
+    -37.022209,
+    174.918762,
+    -37.022209
+],
+  "geometry": {"coordinates":[174.91876199999999,-37.022209],"type":"Point"}
 }

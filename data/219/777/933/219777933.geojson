@@ -2,13 +2,14 @@
   "id": 219777933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.686279,-36.904575,174.686279,-36.904575",
     "geom:latitude":-36.904575,
     "geom:longitude":174.686279,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 B Bentinck St New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219777933,
-    "wof:lastmodified":1449072238,
+    "wof:lastmodified":1466313043,
     "wof:name":"Diesel Tune Ltd",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.686279,-36.904575,174.686279,-36.904575],
-  "geometry": {"coordinates":[174.686279,-36.904575],"type":"Point"}
+  "bbox": [
+    174.686279,
+    -36.904575,
+    174.686279,
+    -36.904575
+],
+  "geometry": {"coordinates":[174.68627900000001,-36.904575],"type":"Point"}
 }

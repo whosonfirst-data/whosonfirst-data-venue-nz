@@ -2,13 +2,14 @@
   "id": 219699151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.189743,-37.613838,175.189743,-37.613838",
     "geom:latitude":-37.613838,
     "geom:longitude":175.189743,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"833 Lake Rd Taupiri ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219699151,
-    "wof:lastmodified":1449070878,
+    "wof:lastmodified":1466312822,
     "wof:name":"Asset Caravans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.189743,-37.613838,175.189743,-37.613838],
-  "geometry": {"coordinates":[175.189743,-37.613838],"type":"Point"}
+  "bbox": [
+    175.189743,
+    -37.613838,
+    175.189743,
+    -37.613838
+],
+  "geometry": {"coordinates":[175.18974299999999,-37.613838],"type":"Point"}
 }

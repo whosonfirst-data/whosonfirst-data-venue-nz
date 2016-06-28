@@ -2,13 +2,14 @@
   "id": 219633877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.765396,-36.795471,174.765396,-36.795471",
     "geom:latitude":-36.795471,
     "geom:longitude":174.765396,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Barrys Point Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":219633877,
-    "wof:lastmodified":1449073885,
+    "wof:lastmodified":1466312765,
     "wof:name":"NZ Car Wreckers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.765396,-36.795471,174.765396,-36.795471],
-  "geometry": {"coordinates":[174.765396,-36.795471],"type":"Point"}
+  "bbox": [
+    174.765396,
+    -36.795471,
+    174.765396,
+    -36.795471
+],
+  "geometry": {"coordinates":[174.76539600000001,-36.795471],"type":"Point"}
 }

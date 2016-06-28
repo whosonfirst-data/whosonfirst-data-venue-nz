@@ -2,13 +2,14 @@
   "id": 203166511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.984207,-37.965302,176.984207,-37.965302",
     "geom:latitude":-37.965302,
     "geom:longitude":176.984207,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Peace & McAlister Sts ",
     "sg:city":"Whakatane",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203166511,
-    "wof:lastmodified":1449026011,
+    "wof:lastmodified":1466311046,
     "wof:name":"0800 All Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fittings"
     ]
 },
-  "bbox": [176.984207,-37.965302,176.984207,-37.965302],
+  "bbox": [
+    176.984207,
+    -37.965302,
+    176.984207,
+    -37.965302
+],
   "geometry": {"coordinates":[176.984207,-37.965302],"type":"Point"}
 }

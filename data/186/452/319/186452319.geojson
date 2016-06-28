@@ -2,13 +2,14 @@
   "id": 186452319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.748199,-36.765163,174.748199,-36.765163",
     "geom:latitude":-36.765163,
     "geom:longitude":174.748199,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 7 45-53 William Souter St Forrest Hill ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186452319,
-    "wof:lastmodified":1449051031,
+    "wof:lastmodified":1466312630,
     "wof:name":"North Shore Refrigeration Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.748199,-36.765163,174.748199,-36.765163],
+  "bbox": [
+    174.748199,
+    -36.765163,
+    174.748199,
+    -36.765163
+],
   "geometry": {"coordinates":[174.748199,-36.765163],"type":"Point"}
 }

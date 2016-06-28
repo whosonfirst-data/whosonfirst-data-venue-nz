@@ -2,13 +2,14 @@
   "id": 169577297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.250916,-38.139,176.250916,-38.139",
     "geom:latitude":-38.139,
     "geom:longitude":176.250916,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1180 Eruera St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169577297,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1466311333,
     "wof:name":"The Wool & Thread Centre",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.250916,-38.139,176.250916,-38.139],
-  "geometry": {"coordinates":[176.250916,-38.139],"type":"Point"}
+  "bbox": [
+    176.250916,
+    -38.139,
+    176.250916,
+    -38.139
+],
+  "geometry": {"coordinates":[176.25091599999999,-38.139],"type":"Point"}
 }

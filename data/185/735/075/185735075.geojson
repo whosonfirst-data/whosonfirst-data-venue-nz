@@ -2,13 +2,14 @@
   "id": 185735075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.766357,-36.846287,174.766357,-36.846287",
     "geom:latitude":-36.846287,
     "geom:longitude":174.766357,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Shortland St Auckland City ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185735075,
-    "wof:lastmodified":1449008149,
+    "wof:lastmodified":1466310799,
     "wof:name":"Source The Sound & Video",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "entertainment"
     ]
 },
-  "bbox": [174.766357,-36.846287,174.766357,-36.846287],
+  "bbox": [
+    174.766357,
+    -36.846287,
+    174.766357,
+    -36.846287
+],
   "geometry": {"coordinates":[174.766357,-36.846287],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202906937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.17215,-37.725414,175.17215,-37.725414",
     "geom:latitude":-37.725414,
     "geom:longitude":175.17215,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hartstone Rd Te Kowhai ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202906937,
-    "wof:lastmodified":1449061076,
+    "wof:lastmodified":1466312896,
     "wof:name":"Riverside Products Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.17215,-37.725414,175.17215,-37.725414],
-  "geometry": {"coordinates":[175.17215,-37.725414],"type":"Point"}
+  "bbox": [
+    175.17215,
+    -37.725414,
+    175.17215,
+    -37.725414
+],
+  "geometry": {"coordinates":[175.17214999999999,-37.725414],"type":"Point"}
 }

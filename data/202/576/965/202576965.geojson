@@ -2,13 +2,14 @@
   "id": 202576965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.826508,-36.873817,174.826508,-36.873817",
     "geom:latitude":-36.873817,
     "geom:longitude":174.826508,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Temple St Meadowbank ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202576965,
-    "wof:lastmodified":1449062080,
+    "wof:lastmodified":1466311326,
     "wof:name":"Brushstrokes On Ceramics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.826508,-36.873817,174.826508,-36.873817],
-  "geometry": {"coordinates":[174.826508,-36.873817],"type":"Point"}
+  "bbox": [
+    174.826508,
+    -36.873817,
+    174.826508,
+    -36.873817
+],
+  "geometry": {"coordinates":[174.82650799999999,-36.873817],"type":"Point"}
 }

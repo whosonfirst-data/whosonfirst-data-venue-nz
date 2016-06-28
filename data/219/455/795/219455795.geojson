@@ -2,13 +2,14 @@
   "id": 219455795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764542,-36.848358,174.764542,-36.848358",
     "geom:latitude":-36.848358,
     "geom:longitude":174.764542,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Lv2-2F/1 Queen St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219455795,
-    "wof:lastmodified":1449073349,
+    "wof:lastmodified":1466312181,
     "wof:name":"Friend International Limited",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "education"
     ]
 },
-  "bbox": [174.764542,-36.848358,174.764542,-36.848358],
-  "geometry": {"coordinates":[174.764542,-36.848358],"type":"Point"}
+  "bbox": [
+    174.764542,
+    -36.848358,
+    174.764542,
+    -36.848358
+],
+  "geometry": {"coordinates":[174.76454200000001,-36.848358],"type":"Point"}
 }

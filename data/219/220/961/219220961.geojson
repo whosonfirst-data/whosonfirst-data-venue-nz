@@ -2,13 +2,14 @@
   "id": 219220961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.128403,-37.735039,176.128403,-37.735039",
     "geom:latitude":-37.735039,
     "geom:longitude":176.128403,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Maleme St Greerton ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219220961,
-    "wof:lastmodified":1449073792,
+    "wof:lastmodified":1466311675,
     "wof:name":"Phoenix Freight Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.128403,-37.735039,176.128403,-37.735039],
-  "geometry": {"coordinates":[176.128403,-37.735039],"type":"Point"}
+  "bbox": [
+    176.128403,
+    -37.735039,
+    176.128403,
+    -37.735039
+],
+  "geometry": {"coordinates":[176.12840299999999,-37.735039],"type":"Point"}
 }

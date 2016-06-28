@@ -2,13 +2,14 @@
   "id": 185999069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.888794,-39.512367,176.888794,-39.512367",
     "geom:latitude":-39.512367,
     "geom:longitude":176.888794,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Trevelyan St Onekawa ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185999069,
-    "wof:lastmodified":1449008022,
+    "wof:lastmodified":1466312429,
     "wof:name":"Gibson Peter B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [176.888794,-39.512367,176.888794,-39.512367],
-  "geometry": {"coordinates":[176.888794,-39.512367],"type":"Point"}
+  "bbox": [
+    176.888794,
+    -39.512367,
+    176.888794,
+    -39.512367
+],
+  "geometry": {"coordinates":[176.88879399999999,-39.512367],"type":"Point"}
 }

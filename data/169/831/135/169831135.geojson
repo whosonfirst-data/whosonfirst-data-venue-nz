@@ -2,13 +2,14 @@
   "id": 169831135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.891281,-41.23204,174.891281,-41.23204",
     "geom:latitude":-41.23204,
     "geom:longitude":174.891281,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Waione St Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169831135,
-    "wof:lastmodified":1449034625,
+    "wof:lastmodified":1466311889,
     "wof:name":"Adventure Education Hutt Valley",
     "wof:parent_id":85782489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "sport"
     ]
 },
-  "bbox": [174.891281,-41.23204,174.891281,-41.23204],
-  "geometry": {"coordinates":[174.891281,-41.23204],"type":"Point"}
+  "bbox": [
+    174.891281,
+    -41.23204,
+    174.891281,
+    -41.23204
+],
+  "geometry": {"coordinates":[174.89128099999999,-41.23204],"type":"Point"}
 }

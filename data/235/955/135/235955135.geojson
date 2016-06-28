@@ -2,13 +2,14 @@
   "id": 235955135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.849136,-36.95462,174.849136,-36.95462",
     "geom:latitude":-36.95462,
     "geom:longitude":174.849136,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"626 Great South Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235955135,
-    "wof:lastmodified":1449008477,
+    "wof:lastmodified":1466311002,
     "wof:name":"Tobys Seafoods Ltd",
     "wof:parent_id":85778871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sea"
     ]
 },
-  "bbox": [174.849136,-36.95462,174.849136,-36.95462],
-  "geometry": {"coordinates":[174.849136,-36.95462],"type":"Point"}
+  "bbox": [
+    174.849136,
+    -36.95462,
+    174.849136,
+    -36.95462
+],
+  "geometry": {"coordinates":[174.84913599999999,-36.95462],"type":"Point"}
 }

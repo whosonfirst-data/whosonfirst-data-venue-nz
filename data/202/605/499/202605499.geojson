@@ -2,13 +2,14 @@
   "id": 202605499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.701874,-36.841427,175.701874,-36.841427",
     "geom:latitude":-36.841427,
     "geom:longitude":175.701874,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53-55 Albert St ",
     "sg:city":"Whitianga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202605499,
-    "wof:lastmodified":1449061369,
+    "wof:lastmodified":1466311563,
     "wof:name":"insideout CreatioNZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [175.701874,-36.841427,175.701874,-36.841427],
+  "bbox": [
+    175.701874,
+    -36.841427,
+    175.701874,
+    -36.841427
+],
   "geometry": {"coordinates":[175.701874,-36.841427],"type":"Point"}
 }

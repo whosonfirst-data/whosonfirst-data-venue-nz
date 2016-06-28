@@ -2,13 +2,14 @@
   "id": 203280721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.516174,-45.869225,170.516174,-45.869225",
     "geom:latitude":-45.869225,
     "geom:longitude":170.516174,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4-6 Forth St Dunedin North ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203280721,
-    "wof:lastmodified":1449025859,
+    "wof:lastmodified":1466312141,
     "wof:name":"Road Materials Workgear",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.516174,-45.869225,170.516174,-45.869225],
-  "geometry": {"coordinates":[170.516174,-45.869225],"type":"Point"}
+  "bbox": [
+    170.516174,
+    -45.869225,
+    170.516174,
+    -45.869225
+],
+  "geometry": {"coordinates":[170.51617400000001,-45.869225],"type":"Point"}
 }

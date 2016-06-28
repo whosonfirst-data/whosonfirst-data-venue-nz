@@ -2,13 +2,14 @@
   "id": 202854439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.625519,-36.886536,174.625519,-36.886536",
     "geom:latitude":-36.886536,
     "geom:longitude":174.625519,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Amokura St Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202854439,
-    "wof:lastmodified":1449062550,
+    "wof:lastmodified":1466312699,
     "wof:name":"Coni Products",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "furnishing"
     ]
 },
-  "bbox": [174.625519,-36.886536,174.625519,-36.886536],
+  "bbox": [
+    174.625519,
+    -36.886536,
+    174.625519,
+    -36.886536
+],
   "geometry": {"coordinates":[174.625519,-36.886536],"type":"Point"}
 }

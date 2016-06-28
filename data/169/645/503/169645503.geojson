@@ -2,13 +2,14 @@
   "id": 169645503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.840393,-41.10857,174.840393,-41.10857",
     "geom:latitude":-41.10857,
     "geom:longitude":174.840393,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Hagley St & Titahi Bay Rd ",
     "sg:city":"Porirua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169645503,
-    "wof:lastmodified":1449033006,
+    "wof:lastmodified":1466311993,
     "wof:name":"Kmart New Zealand",
     "wof:parent_id":85773251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.840393,-41.10857,174.840393,-41.10857],
-  "geometry": {"coordinates":[174.840393,-41.10857],"type":"Point"}
+  "bbox": [
+    174.840393,
+    -41.10857,
+    174.840393,
+    -41.10857
+],
+  "geometry": {"coordinates":[174.84039300000001,-41.10857],"type":"Point"}
 }

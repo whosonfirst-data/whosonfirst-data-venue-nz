@@ -2,13 +2,14 @@
   "id": 202619227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.992722,-38.658504,177.992722,-38.658504",
     "geom:latitude":-38.658504,
     "geom:longitude":177.992722,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Queens Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202619227,
-    "wof:lastmodified":1449060559,
+    "wof:lastmodified":1466311671,
     "wof:name":"Charlie Uili Builder",
     "wof:parent_id":85781855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "related"
     ]
 },
-  "bbox": [177.992722,-38.658504,177.992722,-38.658504],
-  "geometry": {"coordinates":[177.992722,-38.658504],"type":"Point"}
+  "bbox": [
+    177.992722,
+    -38.658504,
+    177.992722,
+    -38.658504
+],
+  "geometry": {"coordinates":[177.99272199999999,-38.658504],"type":"Point"}
 }

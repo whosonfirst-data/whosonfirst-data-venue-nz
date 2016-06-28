@@ -2,13 +2,14 @@
   "id": 219755803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.78186,-36.923359,174.78186,-36.923359",
     "geom:latitude":-36.923359,
     "geom:longitude":174.78186,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Church St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219755803,
-    "wof:lastmodified":1449071405,
+    "wof:lastmodified":1466312997,
     "wof:name":"BNT Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.78186,-36.923359,174.78186,-36.923359],
-  "geometry": {"coordinates":[174.78186,-36.923359],"type":"Point"}
+  "bbox": [
+    174.78186,
+    -36.923359,
+    174.78186,
+    -36.923359
+],
+  "geometry": {"coordinates":[174.78185999999999,-36.923359],"type":"Point"}
 }

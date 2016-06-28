@@ -2,13 +2,14 @@
   "id": 186176665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.040665,-39.921257,175.040665,-39.921257",
     "geom:latitude":-39.921257,
     "geom:longitude":175.040665,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"127 a London St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186176665,
-    "wof:lastmodified":1449052123,
+    "wof:lastmodified":1466311215,
     "wof:name":"Andrews O J Engineering",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.040665,-39.921257,175.040665,-39.921257],
-  "geometry": {"coordinates":[175.040665,-39.921257],"type":"Point"}
+  "bbox": [
+    175.040665,
+    -39.921257,
+    175.040665,
+    -39.921257
+],
+  "geometry": {"coordinates":[175.04066499999999,-39.921257],"type":"Point"}
 }

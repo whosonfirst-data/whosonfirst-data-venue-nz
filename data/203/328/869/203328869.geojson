@@ -2,13 +2,14 @@
   "id": 203328869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.750763,-36.861187,174.750763,-36.861187",
     "geom:latitude":-36.861187,
     "geom:longitude":174.750763,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1/71 Gt North Rd Grey Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203328869,
-    "wof:lastmodified":1449026062,
+    "wof:lastmodified":1466312233,
     "wof:name":"Stutex Marketing Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.750763,-36.861187,174.750763,-36.861187],
-  "geometry": {"coordinates":[174.750763,-36.861187],"type":"Point"}
+  "bbox": [
+    174.750763,
+    -36.861187,
+    174.750763,
+    -36.861187
+],
+  "geometry": {"coordinates":[174.75076300000001,-36.861187],"type":"Point"}
 }

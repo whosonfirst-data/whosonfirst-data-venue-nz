@@ -2,13 +2,14 @@
   "id": 169716821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.759842,-36.865047,174.759842,-36.865047",
     "geom:latitude":-36.865047,
     "geom:longitude":174.759842,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Basque Rd Eden Terrace ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169716821,
-    "wof:lastmodified":1449033158,
+    "wof:lastmodified":1466311041,
     "wof:name":"Gem Office Supplies Ltd",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.759842,-36.865047,174.759842,-36.865047],
-  "geometry": {"coordinates":[174.759842,-36.865047],"type":"Point"}
+  "bbox": [
+    174.759842,
+    -36.865047,
+    174.759842,
+    -36.865047
+],
+  "geometry": {"coordinates":[174.75984199999999,-36.865047],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219982099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.737602,43.97871,-80.737602,43.97871",
     "geom:latitude":43.97871,
     "geom:longitude":-80.737602,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19-27 Arthur St ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -57,16 +58,22 @@
         }
     ],
     "wof:id":219982099,
-    "wof:lastmodified":1449070995,
+    "wof:lastmodified":1466313131,
     "wof:name":"Mortgage Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "finance"
     ]
 },
-  "bbox": [-80.737602,43.97871,-80.737602,43.97871],
+  "bbox": [
+    -80.737602,
+    43.97871,
+    -80.737602,
+    43.97871
+],
   "geometry": {"coordinates":[-80.737602,43.97871],"type":"Point"}
 }

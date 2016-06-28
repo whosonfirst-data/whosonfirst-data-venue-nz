@@ -2,13 +2,14 @@
   "id": 203193223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.27951,-37.813263,175.27951,-37.813263",
     "geom:latitude":-37.813263,
     "geom:longitude":175.27951,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Grandview Mall ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203193223,
-    "wof:lastmodified":1449025246,
+    "wof:lastmodified":1466311308,
     "wof:name":"Grandview Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaning"
     ]
 },
-  "bbox": [175.27951,-37.813263,175.27951,-37.813263],
-  "geometry": {"coordinates":[175.27951,-37.813263],"type":"Point"}
+  "bbox": [
+    175.27951,
+    -37.813263,
+    175.27951,
+    -37.813263
+],
+  "geometry": {"coordinates":[175.27950999999999,-37.813263],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219220127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.881363,-36.940933,174.881363,-36.940933",
     "geom:latitude":-36.940933,
     "geom:longitude":174.881363,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Ra Ora Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219220127,
-    "wof:lastmodified":1449073793,
+    "wof:lastmodified":1466311664,
     "wof:name":"Profile International Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.881363,-36.940933,174.881363,-36.940933],
-  "geometry": {"coordinates":[174.881363,-36.940933],"type":"Point"}
+  "bbox": [
+    174.881363,
+    -36.940933,
+    174.881363,
+    -36.940933
+],
+  "geometry": {"coordinates":[174.88136299999999,-36.940933],"type":"Point"}
 }

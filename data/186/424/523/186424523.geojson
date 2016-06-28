@@ -2,13 +2,14 @@
   "id": 186424523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.301743,-35.690094,174.301743,-35.690094",
     "geom:latitude":-35.690094,
     "geom:longitude":174.301743,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Carr St Kamo ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186424523,
-    "wof:lastmodified":1449052864,
+    "wof:lastmodified":1466312490,
     "wof:name":"Filter H.Q",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.301743,-35.690094,174.301743,-35.690094],
-  "geometry": {"coordinates":[174.301743,-35.690094],"type":"Point"}
+  "bbox": [
+    174.301743,
+    -35.690094,
+    174.301743,
+    -35.690094
+],
+  "geometry": {"coordinates":[174.30174299999999,-35.690094],"type":"Point"}
 }

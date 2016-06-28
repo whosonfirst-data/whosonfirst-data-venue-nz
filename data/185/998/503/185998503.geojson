@@ -2,13 +2,14 @@
   "id": 185998503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.632202,-40.339527,175.632202,-40.339527",
     "geom:latitude":-40.339527,
     "geom:longitude":175.632202,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Andrew Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185998503,
-    "wof:lastmodified":1449007127,
+    "wof:lastmodified":1466312338,
     "wof:name":"Fitzmaurice Roni",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.632202,-40.339527,175.632202,-40.339527],
-  "geometry": {"coordinates":[175.632202,-40.339527],"type":"Point"}
+  "bbox": [
+    175.632202,
+    -40.339527,
+    175.632202,
+    -40.339527
+],
+  "geometry": {"coordinates":[175.63220200000001,-40.339527],"type":"Point"}
 }

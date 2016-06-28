@@ -2,13 +2,14 @@
   "id": 185946567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.562866,-40.222958,175.562866,-40.222958",
     "geom:latitude":-40.222958,
     "geom:longitude":175.562866,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Council Pl ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185946567,
-    "wof:lastmodified":1449008029,
+    "wof:lastmodified":1466312224,
     "wof:name":"Makino Aquatic Centre",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "facility"
     ]
 },
-  "bbox": [175.562866,-40.222958,175.562866,-40.222958],
-  "geometry": {"coordinates":[175.562866,-40.222958],"type":"Point"}
+  "bbox": [
+    175.562866,
+    -40.222958,
+    175.562866,
+    -40.222958
+],
+  "geometry": {"coordinates":[175.56286600000001,-40.222958],"type":"Point"}
 }

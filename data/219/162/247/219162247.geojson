@@ -2,13 +2,14 @@
   "id": 219162247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.279266,-41.26553,173.279266,-41.26553",
     "geom:latitude":-41.26553,
     "geom:longitude":173.279266,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 E Akersten St Port Nelson ",
     "sg:city":"Nelson",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219162247,
-    "wof:lastmodified":1449073399,
+    "wof:lastmodified":1466310803,
     "wof:name":"Bishops Marine Ltd",
     "wof:parent_id":85773133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.279266,-41.26553,173.279266,-41.26553],
-  "geometry": {"coordinates":[173.279266,-41.26553],"type":"Point"}
+  "bbox": [
+    173.279266,
+    -41.26553,
+    173.279266,
+    -41.26553
+],
+  "geometry": {"coordinates":[173.27926600000001,-41.26553],"type":"Point"}
 }

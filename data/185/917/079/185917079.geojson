@@ -2,13 +2,14 @@
   "id": 185917079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.611832,-40.353661,175.611832,-40.353661",
     "geom:latitude":-40.353661,
     "geom:longitude":175.611832,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"78A King St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185917079,
-    "wof:lastmodified":1449008008,
+    "wof:lastmodified":1466312202,
     "wof:name":"Danceworks",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "sport"
     ]
 },
-  "bbox": [175.611832,-40.353661,175.611832,-40.353661],
-  "geometry": {"coordinates":[175.611832,-40.353661],"type":"Point"}
+  "bbox": [
+    175.611832,
+    -40.353661,
+    175.611832,
+    -40.353661
+],
+  "geometry": {"coordinates":[175.61183199999999,-40.353661],"type":"Point"}
 }

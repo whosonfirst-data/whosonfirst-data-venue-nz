@@ -2,13 +2,14 @@
   "id": 203150041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.361572,-46.426331,168.361572,-46.426331",
     "geom:latitude":-46.426331,
     "geom:longitude":168.361572,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Elles Rd ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203150041,
-    "wof:lastmodified":1449024965,
+    "wof:lastmodified":1466310908,
     "wof:name":"Elles Road Veterinary Centre",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pets"
     ]
 },
-  "bbox": [168.361572,-46.426331,168.361572,-46.426331],
+  "bbox": [
+    168.361572,
+    -46.426331,
+    168.361572,
+    -46.426331
+],
   "geometry": {"coordinates":[168.361572,-46.426331],"type":"Point"}
 }

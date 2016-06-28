@@ -2,13 +2,14 @@
   "id": 202421751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.237976,-37.779812,175.237976,-37.779812",
     "geom:latitude":-37.779812,
     "geom:longitude":175.237976,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Nawton Medical Centre 64 Avalon Dve ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202421751,
-    "wof:lastmodified":1449061698,
+    "wof:lastmodified":1466311499,
     "wof:name":"Rooke Dr T S",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.237976,-37.779812,175.237976,-37.779812],
+  "bbox": [
+    175.237976,
+    -37.779812,
+    175.237976,
+    -37.779812
+],
   "geometry": {"coordinates":[175.237976,-37.779812],"type":"Point"}
 }

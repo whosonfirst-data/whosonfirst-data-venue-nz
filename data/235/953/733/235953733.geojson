@@ -2,13 +2,14 @@
   "id": 235953733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.888443,-39.481701,176.888443,-39.481701",
     "geom:latitude":-39.481701,
     "geom:longitude":176.888443,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Meeanee Qy Westshore ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235953733,
-    "wof:lastmodified":1449008469,
+    "wof:lastmodified":1466310973,
     "wof:name":"Quay Fish & Chips Takeaways",
     "wof:parent_id":85773129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sea"
     ]
 },
-  "bbox": [176.888443,-39.481701,176.888443,-39.481701],
+  "bbox": [
+    176.888443,
+    -39.481701,
+    176.888443,
+    -39.481701
+],
   "geometry": {"coordinates":[176.888443,-39.481701],"type":"Point"}
 }

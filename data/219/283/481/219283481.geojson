@@ -2,13 +2,14 @@
   "id": 219283481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.729149,40.242958,-74.729149,40.242958",
     "geom:latitude":40.242958,
     "geom:longitude":-74.729149,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Newell Rd R D 3 ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219283481,
-    "wof:lastmodified":1449071451,
+    "wof:lastmodified":1466310806,
     "wof:name":"Anlaby Manor",
     "wof:parent_id":85848949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accommodation"
     ]
 },
-  "bbox": [-74.729149,40.242958,-74.729149,40.242958],
-  "geometry": {"coordinates":[-74.729149,40.242958],"type":"Point"}
+  "bbox": [
+    -74.729149,
+    40.242958,
+    -74.729149,
+    40.242958
+],
+  "geometry": {"coordinates":[-74.72914900000001,40.242958],"type":"Point"}
 }

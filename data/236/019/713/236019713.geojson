@@ -2,13 +2,14 @@
   "id": 236019713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.027954,-39.932831,175.027954,-39.932831",
     "geom:latitude":-39.932831,
     "geom:longitude":175.027954,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"62 A Carlton Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236019713,
-    "wof:lastmodified":1449003558,
+    "wof:lastmodified":1466310971,
     "wof:name":"Pete's Pies",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "takeaway"
     ]
 },
-  "bbox": [175.027954,-39.932831,175.027954,-39.932831],
-  "geometry": {"coordinates":[175.027954,-39.932831],"type":"Point"}
+  "bbox": [
+    175.027954,
+    -39.932831,
+    175.027954,
+    -39.932831
+],
+  "geometry": {"coordinates":[175.02795399999999,-39.932831],"type":"Point"}
 }

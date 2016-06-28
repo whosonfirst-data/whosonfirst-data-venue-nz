@@ -2,13 +2,14 @@
   "id": 219253611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.651505,-43.575489,172.651505,-43.575489",
     "geom:latitude":-43.575489,
     "geom:longitude":172.651505,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Barrington Mal, 256 Barrinton Street, 8002, Christchurch",
     "sg:city":"8002",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219253611,
-    "wof:lastmodified":1449073483,
+    "wof:lastmodified":1466310579,
     "wof:name":"Barrinton World Travel",
     "wof:parent_id":85778377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.651505,-43.575489,172.651505,-43.575489],
-  "geometry": {"coordinates":[172.651505,-43.575489],"type":"Point"}
+  "bbox": [
+    172.651505,
+    -43.575489,
+    172.651505,
+    -43.575489
+],
+  "geometry": {"coordinates":[172.65150499999999,-43.575489],"type":"Point"}
 }

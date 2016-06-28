@@ -2,13 +2,14 @@
   "id": 219314937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.765533,-36.854031,174.765533,-36.854031",
     "geom:latitude":-36.854031,
     "geom:longitude":174.765533,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 St Paul St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219314937,
-    "wof:lastmodified":1449073762,
+    "wof:lastmodified":1466311063,
     "wof:name":"Central Hostel Ltd",
     "wof:parent_id":85778317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.765533,-36.854031,174.765533,-36.854031],
+  "bbox": [
+    174.765533,
+    -36.854031,
+    174.765533,
+    -36.854031
+],
   "geometry": {"coordinates":[174.765533,-36.854031],"type":"Point"}
 }

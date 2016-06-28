@@ -2,13 +2,14 @@
   "id": 219329147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"169.601883,-45.091656,169.601883,-45.091656",
     "geom:latitude":-45.091656,
     "geom:longitude":169.601883,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Harvey St ",
     "sg:city":"Omakau",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219329147,
-    "wof:lastmodified":1449071386,
+    "wof:lastmodified":1466311173,
     "wof:name":"Omakau Commercial Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accommodation"
     ]
 },
-  "bbox": [169.601883,-45.091656,169.601883,-45.091656],
-  "geometry": {"coordinates":[169.601883,-45.091656],"type":"Point"}
+  "bbox": [
+    169.601883,
+    -45.091656,
+    169.601883,
+    -45.091656
+],
+  "geometry": {"coordinates":[169.60188299999999,-45.091656],"type":"Point"}
 }

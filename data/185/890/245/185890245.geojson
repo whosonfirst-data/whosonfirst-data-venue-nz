@@ -2,13 +2,14 @@
   "id": 185890245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.544189,-43.488346,172.544189,-43.488346",
     "geom:latitude":-43.488346,
     "geom:longitude":172.544189,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"648 McLeans Is Harewood PO Box 14102 Christchurch Airport",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185890245,
-    "wof:lastmodified":1449006978,
+    "wof:lastmodified":1466311803,
     "wof:name":"Coringa Country Club Inc",
     "wof:parent_id":85772947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.544189,-43.488346,172.544189,-43.488346],
-  "geometry": {"coordinates":[172.544189,-43.488346],"type":"Point"}
+  "bbox": [
+    172.544189,
+    -43.488346,
+    172.544189,
+    -43.488346
+],
+  "geometry": {"coordinates":[172.54418899999999,-43.488346],"type":"Point"}
 }

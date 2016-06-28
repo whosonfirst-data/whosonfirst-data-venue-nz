@@ -2,13 +2,14 @@
   "id": 186011169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.004044,-38.642796,178.004044,-38.642796",
     "geom:latitude":-38.642796,
     "geom:longitude":178.004044,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Emily St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186011169,
-    "wof:lastmodified":1449052522,
+    "wof:lastmodified":1466310719,
     "wof:name":"Walters Peter J",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wedding"
     ]
 },
-  "bbox": [178.004044,-38.642796,178.004044,-38.642796],
-  "geometry": {"coordinates":[178.004044,-38.642796],"type":"Point"}
+  "bbox": [
+    178.004044,
+    -38.642796,
+    178.004044,
+    -38.642796
+],
+  "geometry": {"coordinates":[178.00404399999999,-38.642796],"type":"Point"}
 }

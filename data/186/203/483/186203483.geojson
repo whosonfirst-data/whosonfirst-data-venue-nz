@@ -2,13 +2,14 @@
   "id": 186203483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.578201,-45.845284,170.578201,-45.845284",
     "geom:latitude":-45.845284,
     "geom:longitude":170.578201,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Southland Invercargill ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186203483,
-    "wof:lastmodified":1449051568,
+    "wof:lastmodified":1466311427,
     "wof:name":"Kerrick Industries Ltd",
     "wof:parent_id":85778633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.578201,-45.845284,170.578201,-45.845284],
-  "geometry": {"coordinates":[170.578201,-45.845284],"type":"Point"}
+  "bbox": [
+    170.578201,
+    -45.845284,
+    170.578201,
+    -45.845284
+],
+  "geometry": {"coordinates":[170.57820100000001,-45.845284],"type":"Point"}
 }

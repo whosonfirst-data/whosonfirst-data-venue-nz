@@ -2,13 +2,14 @@
   "id": 185858655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.805618,-41.32954,174.805618,-41.32954",
     "geom:latitude":-41.32954,
     "geom:longitude":174.805618,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Wellington Airport ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185858655,
-    "wof:lastmodified":1449006773,
+    "wof:lastmodified":1466311620,
     "wof:name":"Wellington Flight Centre",
     "wof:parent_id":85778637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.805618,-41.32954,174.805618,-41.32954],
-  "geometry": {"coordinates":[174.805618,-41.32954],"type":"Point"}
+  "bbox": [
+    174.805618,
+    -41.32954,
+    174.805618,
+    -41.32954
+],
+  "geometry": {"coordinates":[174.80561800000001,-41.32954],"type":"Point"}
 }

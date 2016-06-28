@@ -2,13 +2,14 @@
   "id": 202409249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.966248,-41.170639,174.966248,-41.170639",
     "geom:latitude":-41.170639,
     "geom:longitude":174.966248,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Farmer Cre Pomare Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202409249,
-    "wof:lastmodified":1449061152,
+    "wof:lastmodified":1466311299,
     "wof:name":"Hutt Union & Community Health Service",
     "wof:parent_id":85781069,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.966248,-41.170639,174.966248,-41.170639],
-  "geometry": {"coordinates":[174.966248,-41.170639],"type":"Point"}
+  "bbox": [
+    174.966248,
+    -41.170639,
+    174.966248,
+    -41.170639
+],
+  "geometry": {"coordinates":[174.96624800000001,-41.170639],"type":"Point"}
 }

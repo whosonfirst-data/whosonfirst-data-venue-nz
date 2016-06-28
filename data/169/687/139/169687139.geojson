@@ -2,13 +2,14 @@
   "id": 169687139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.754608,-37.863354,175.754608,-37.863354",
     "geom:latitude":-37.863354,
     "geom:longitude":175.754608,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hopkins Rd Hinuera ",
     "sg:city":"Matamata",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169687139,
-    "wof:lastmodified":1449033607,
+    "wof:lastmodified":1466310880,
     "wof:name":"Bloomsbury Stud NZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.754608,-37.863354,175.754608,-37.863354],
-  "geometry": {"coordinates":[175.754608,-37.863354],"type":"Point"}
+  "bbox": [
+    175.754608,
+    -37.863354,
+    175.754608,
+    -37.863354
+],
+  "geometry": {"coordinates":[175.75460799999999,-37.863354],"type":"Point"}
 }

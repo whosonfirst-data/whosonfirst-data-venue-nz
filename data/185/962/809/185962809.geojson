@@ -2,13 +2,14 @@
   "id": 185962809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.529739,-34.992897,173.529739,-34.992897",
     "geom:latitude":-34.992897,
     "geom:longitude":173.529739,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 407 ",
     "sg:city":"Mangonui",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185962809,
-    "wof:lastmodified":1449007564,
+    "wof:lastmodified":1466312273,
     "wof:name":"Allied Movers (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.529739,-34.992897,173.529739,-34.992897],
-  "geometry": {"coordinates":[173.529739,-34.992897],"type":"Point"}
+  "bbox": [
+    173.529739,
+    -34.992897,
+    173.529739,
+    -34.992897
+],
+  "geometry": {"coordinates":[173.52973900000001,-34.992897],"type":"Point"}
 }

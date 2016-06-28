@@ -2,13 +2,14 @@
   "id": 202381671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.476379,-37.883968,175.476379,-37.883968",
     "geom:latitude":-37.883968,
     "geom:longitude":175.476379,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Williams St ",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202381671,
-    "wof:lastmodified":1449060322,
+    "wof:lastmodified":1466310595,
     "wof:name":"Waikato Natural Health Centre",
     "wof:parent_id":85782367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.476379,-37.883968,175.476379,-37.883968],
-  "geometry": {"coordinates":[175.476379,-37.883968],"type":"Point"}
+  "bbox": [
+    175.476379,
+    -37.883968,
+    175.476379,
+    -37.883968
+],
+  "geometry": {"coordinates":[175.47637900000001,-37.883968],"type":"Point"}
 }

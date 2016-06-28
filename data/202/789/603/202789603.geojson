@@ -2,13 +2,14 @@
   "id": 202789603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.271469,-39.576092,174.271469,-39.576092",
     "geom:latitude":-39.576092,
     "geom:longitude":174.271469,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Waihi Rd ",
     "sg:city":"Hawera",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202789603,
-    "wof:lastmodified":1449061273,
+    "wof:lastmodified":1466312405,
     "wof:name":"One Off",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "kitchen"
     ]
 },
-  "bbox": [174.271469,-39.576092,174.271469,-39.576092],
+  "bbox": [
+    174.271469,
+    -39.576092,
+    174.271469,
+    -39.576092
+],
   "geometry": {"coordinates":[174.271469,-39.576092],"type":"Point"}
 }

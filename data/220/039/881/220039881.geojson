@@ -2,13 +2,14 @@
   "id": 220039881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.610397,41.053471,-82.610397,41.053471",
     "geom:latitude":41.053471,
     "geom:longitude":-82.610397,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 296 New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220039881,
-    "wof:lastmodified":1449074776,
+    "wof:lastmodified":1466311449,
     "wof:name":"Cookright Vat Filtering Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.610397,41.053471,-82.610397,41.053471],
-  "geometry": {"coordinates":[-82.610397,41.053471],"type":"Point"}
+  "bbox": [
+    -82.610397,
+    41.053471,
+    -82.610397,
+    41.053471
+],
+  "geometry": {"coordinates":[-82.61039700000001,41.053471],"type":"Point"}
 }

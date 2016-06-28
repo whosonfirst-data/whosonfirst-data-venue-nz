@@ -2,13 +2,14 @@
   "id": 186227573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.819725,43.97221,-116.819725,43.97221",
     "geom:latitude":43.97221,
     "geom:longitude":-116.819725,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Cameron St New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186227573,
-    "wof:lastmodified":1449050983,
+    "wof:lastmodified":1466311653,
     "wof:name":"The Sign Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "label"
     ]
 },
-  "bbox": [-116.819725,43.97221,-116.819725,43.97221],
-  "geometry": {"coordinates":[-116.819725,43.97221],"type":"Point"}
+  "bbox": [
+    -116.819725,
+    43.97221,
+    -116.819725,
+    43.97221
+],
+  "geometry": {"coordinates":[-116.81972500000001,43.97221],"type":"Point"}
 }

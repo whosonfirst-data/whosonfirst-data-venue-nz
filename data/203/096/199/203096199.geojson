@@ -2,13 +2,14 @@
   "id": 203096199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.552979,-40.232452,175.552979,-40.232452",
     "geom:latitude":-40.232452,
     "geom:longitude":175.552979,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Pirinoa St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203096199,
-    "wof:lastmodified":1449025531,
+    "wof:lastmodified":1466311957,
     "wof:name":"Rosa Contreras-Henriquez",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counselling"
     ]
 },
-  "bbox": [175.552979,-40.232452,175.552979,-40.232452],
-  "geometry": {"coordinates":[175.552979,-40.232452],"type":"Point"}
+  "bbox": [
+    175.552979,
+    -40.232452,
+    175.552979,
+    -40.232452
+],
+  "geometry": {"coordinates":[175.55297899999999,-40.232452],"type":"Point"}
 }

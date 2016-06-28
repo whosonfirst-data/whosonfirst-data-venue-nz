@@ -2,13 +2,14 @@
   "id": 235956277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.562256,-43.480873,172.562256,-43.480873",
     "geom:latitude":-43.480873,
     "geom:longitude":172.562256,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Stanleys Rd Harewood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235956277,
-    "wof:lastmodified":1449008313,
+    "wof:lastmodified":1466311015,
     "wof:name":"Choi H G",
     "wof:parent_id":85772947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sea"
     ]
 },
-  "bbox": [172.562256,-43.480873,172.562256,-43.480873],
-  "geometry": {"coordinates":[172.562256,-43.480873],"type":"Point"}
+  "bbox": [
+    172.562256,
+    -43.480873,
+    172.562256,
+    -43.480873
+],
+  "geometry": {"coordinates":[172.56225599999999,-43.480873],"type":"Point"}
 }

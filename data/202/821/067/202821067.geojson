@@ -2,13 +2,14 @@
   "id": 202821067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.261993,-37.787113,175.261993,-37.787113",
     "geom:latitude":-37.787113,
     "geom:longitude":175.261993,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"94 High St Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202821067,
-    "wof:lastmodified":1449061492,
+    "wof:lastmodified":1466312509,
     "wof:name":"Luxaflex",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.261993,-37.787113,175.261993,-37.787113],
-  "geometry": {"coordinates":[175.261993,-37.787113],"type":"Point"}
+  "bbox": [
+    175.261993,
+    -37.787113,
+    175.261993,
+    -37.787113
+],
+  "geometry": {"coordinates":[175.26199299999999,-37.787113],"type":"Point"}
 }

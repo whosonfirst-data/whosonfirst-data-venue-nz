@@ -2,13 +2,14 @@
   "id": 219478287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.80603,-35.410667,173.80603,-35.410667",
     "geom:latitude":-35.410667,
     "geom:longitude":173.80603,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Mangakahia Rd ",
     "sg:city":"Kaikohe",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219478287,
-    "wof:lastmodified":1449070486,
+    "wof:lastmodified":1466312123,
     "wof:name":"Kaikohe East School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.80603,-35.410667,173.80603,-35.410667],
-  "geometry": {"coordinates":[173.80603,-35.410667],"type":"Point"}
+  "bbox": [
+    173.80603,
+    -35.410667,
+    173.80603,
+    -35.410667
+],
+  "geometry": {"coordinates":[173.80602999999999,-35.410667],"type":"Point"}
 }

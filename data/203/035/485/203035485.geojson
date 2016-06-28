@@ -2,13 +2,14 @@
   "id": 203035485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.672195,-43.533039,172.672195,-43.533039",
     "geom:latitude":-43.533039,
     "geom:longitude":172.672195,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Linwood Ave Linwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203035485,
-    "wof:lastmodified":1449026472,
+    "wof:lastmodified":1466311203,
     "wof:name":"DTR (Dominion TV Rentals)",
     "wof:parent_id":85781505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "garden"
     ]
 },
-  "bbox": [172.672195,-43.533039,172.672195,-43.533039],
-  "geometry": {"coordinates":[172.672195,-43.533039],"type":"Point"}
+  "bbox": [
+    172.672195,
+    -43.533039,
+    172.672195,
+    -43.533039
+],
+  "geometry": {"coordinates":[172.67219499999999,-43.533039],"type":"Point"}
 }

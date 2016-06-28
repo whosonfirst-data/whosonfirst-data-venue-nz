@@ -2,13 +2,14 @@
   "id": 186129317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.782776,-36.925079,174.782776,-36.925079",
     "geom:latitude":-36.925079,
     "geom:longitude":174.782776,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Newsome St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186129317,
-    "wof:lastmodified":1449052491,
+    "wof:lastmodified":1466310805,
     "wof:name":"Braasch Engineering Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.782776,-36.925079,174.782776,-36.925079],
-  "geometry": {"coordinates":[174.782776,-36.925079],"type":"Point"}
+  "bbox": [
+    174.782776,
+    -36.925079,
+    174.782776,
+    -36.925079
+],
+  "geometry": {"coordinates":[174.78277600000001,-36.925079],"type":"Point"}
 }

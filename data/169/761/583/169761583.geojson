@@ -2,13 +2,14 @@
   "id": 169761583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.348984,-35.394539,174.348984,-35.394539",
     "geom:latitude":-35.394539,
     "geom:longitude":174.348984,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Te Kapua St Oakura Beach ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169761583,
-    "wof:lastmodified":1449035177,
+    "wof:lastmodified":1466311355,
     "wof:name":"Oakura Bay Cruises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "retailer"
     ]
 },
-  "bbox": [174.348984,-35.394539,174.348984,-35.394539],
+  "bbox": [
+    174.348984,
+    -35.394539,
+    174.348984,
+    -35.394539
+],
   "geometry": {"coordinates":[174.348984,-35.394539],"type":"Point"}
 }

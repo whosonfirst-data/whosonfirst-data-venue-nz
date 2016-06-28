@@ -2,13 +2,14 @@
   "id": 185759689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.670914,-40.897861,175.670914,-40.897861",
     "geom:latitude":-40.897861,
     "geom:longitude":175.670914,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Opaki Racecourse RD 11 ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185759689,
-    "wof:lastmodified":1449008236,
+    "wof:lastmodified":1466310962,
     "wof:name":"Masterton Racing Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.670914,-40.897861,175.670914,-40.897861],
-  "geometry": {"coordinates":[175.670914,-40.897861],"type":"Point"}
+  "bbox": [
+    175.670914,
+    -40.897861,
+    175.670914,
+    -40.897861
+],
+  "geometry": {"coordinates":[175.67091400000001,-40.897861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219598865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.553604,-40.232285,175.553604,-40.232285",
     "geom:latitude":-40.232285,
     "geom:longitude":175.553604,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Awahuri Rd ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219598865,
-    "wof:lastmodified":1449070565,
+    "wof:lastmodified":1466312502,
     "wof:name":"Mobil Manfeild",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.553604,-40.232285,175.553604,-40.232285],
-  "geometry": {"coordinates":[175.553604,-40.232285],"type":"Point"}
+  "bbox": [
+    175.553604,
+    -40.232285,
+    175.553604,
+    -40.232285
+],
+  "geometry": {"coordinates":[175.55360400000001,-40.232285],"type":"Point"}
 }

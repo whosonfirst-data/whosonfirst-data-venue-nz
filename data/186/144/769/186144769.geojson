@@ -2,13 +2,14 @@
   "id": 186144769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.356049,-46.408783,168.356049,-46.408783",
     "geom:latitude":-46.408783,
     "geom:longitude":168.356049,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Yarrow St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186144769,
-    "wof:lastmodified":1449052324,
+    "wof:lastmodified":1466310935,
     "wof:name":"Status Guns & Engineering",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.356049,-46.408783,168.356049,-46.408783],
-  "geometry": {"coordinates":[168.356049,-46.408783],"type":"Point"}
+  "bbox": [
+    168.356049,
+    -46.408783,
+    168.356049,
+    -46.408783
+],
+  "geometry": {"coordinates":[168.35604900000001,-46.408783],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186383447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.620789,-43.542225,172.620789,-43.542225",
     "geom:latitude":-43.542225,
     "geom:longitude":172.620789,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Harman St Addington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186383447,
-    "wof:lastmodified":1449051512,
+    "wof:lastmodified":1466312365,
     "wof:name":"Canterbury Dies",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.620789,-43.542225,172.620789,-43.542225],
+  "bbox": [
+    172.620789,
+    -43.542225,
+    172.620789,
+    -43.542225
+],
   "geometry": {"coordinates":[172.620789,-43.542225],"type":"Point"}
 }

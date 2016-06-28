@@ -2,13 +2,14 @@
   "id": 219390621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.612061,-40.354561,175.612061,-40.354561",
     "geom:latitude":-40.354561,
     "geom:longitude":175.612061,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219390621,
-    "wof:lastmodified":1449073961,
+    "wof:lastmodified":1466311713,
     "wof:name":"0800 For Bags",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "tourism"
     ]
 },
-  "bbox": [175.612061,-40.354561,175.612061,-40.354561],
-  "geometry": {"coordinates":[175.612061,-40.354561],"type":"Point"}
+  "bbox": [
+    175.612061,
+    -40.354561,
+    175.612061,
+    -40.354561
+],
+  "geometry": {"coordinates":[175.61206100000001,-40.354561],"type":"Point"}
 }

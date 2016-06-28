@@ -2,13 +2,14 @@
   "id": 185841733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.778915,-41.311237,174.778915,-41.311237",
     "geom:latitude":-41.311237,
     "geom:longitude":174.778915,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"94-96 Riddiford St Newtown ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185841733,
-    "wof:lastmodified":1449006952,
+    "wof:lastmodified":1466311505,
     "wof:name":"Mainline MusicWorks Piano House",
     "wof:parent_id":85778491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.778915,-41.311237,174.778915,-41.311237],
-  "geometry": {"coordinates":[174.778915,-41.311237],"type":"Point"}
+  "bbox": [
+    174.778915,
+    -41.311237,
+    174.778915,
+    -41.311237
+],
+  "geometry": {"coordinates":[174.77891500000001,-41.311237],"type":"Point"}
 }

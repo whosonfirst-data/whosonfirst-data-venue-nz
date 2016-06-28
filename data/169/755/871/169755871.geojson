@@ -2,13 +2,14 @@
   "id": 169755871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.489975,-45.867161,170.489975,-45.867161",
     "geom:latitude":-45.867161,
     "geom:longitude":170.489975,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"289 B Highgate Roslyn ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169755871,
-    "wof:lastmodified":1449033613,
+    "wof:lastmodified":1466311310,
     "wof:name":"Roslyn Book & Toy Centre & Modellers' Attic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.489975,-45.867161,170.489975,-45.867161],
-  "geometry": {"coordinates":[170.489975,-45.867161],"type":"Point"}
+  "bbox": [
+    170.489975,
+    -45.867161,
+    170.489975,
+    -45.867161
+],
+  "geometry": {"coordinates":[170.48997499999999,-45.867161],"type":"Point"}
 }

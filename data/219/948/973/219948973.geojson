@@ -2,13 +2,14 @@
   "id": 219948973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.255554,-38.136868,176.255554,-38.136868",
     "geom:latitude":-38.136868,
     "geom:longitude":176.255554,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Pukuatua St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219948973,
-    "wof:lastmodified":1449073201,
+    "wof:lastmodified":1466313116,
     "wof:name":"Central City Vets",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.255554,-38.136868,176.255554,-38.136868],
-  "geometry": {"coordinates":[176.255554,-38.136868],"type":"Point"}
+  "bbox": [
+    176.255554,
+    -38.136868,
+    176.255554,
+    -38.136868
+],
+  "geometry": {"coordinates":[176.25555399999999,-38.136868],"type":"Point"}
 }

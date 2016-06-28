@@ -2,13 +2,14 @@
   "id": 202528779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.146164,-37.673546,176.146164,-37.673546",
     "geom:latitude":-37.673546,
     "geom:longitude":176.146164,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Hinewa Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202528779,
-    "wof:lastmodified":1449060802,
+    "wof:lastmodified":1466310899,
     "wof:name":"Shirley Marriott",
     "wof:parent_id":85781315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.146164,-37.673546,176.146164,-37.673546],
+  "bbox": [
+    176.146164,
+    -37.673546,
+    176.146164,
+    -37.673546
+],
   "geometry": {"coordinates":[176.146164,-37.673546],"type":"Point"}
 }

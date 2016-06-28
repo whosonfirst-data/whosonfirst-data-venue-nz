@@ -2,13 +2,14 @@
   "id": 202827481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.886002,-36.939724,174.886002,-36.939724",
     "geom:latitude":-36.939724,
     "geom:longitude":174.886002,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Allens Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202827481,
-    "wof:lastmodified":1449061018,
+    "wof:lastmodified":1466312618,
     "wof:name":"Greenmount Manufacturing Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.886002,-36.939724,174.886002,-36.939724],
-  "geometry": {"coordinates":[174.886002,-36.939724],"type":"Point"}
+  "bbox": [
+    174.886002,
+    -36.939724,
+    174.886002,
+    -36.939724
+],
+  "geometry": {"coordinates":[174.88600199999999,-36.939724],"type":"Point"}
 }

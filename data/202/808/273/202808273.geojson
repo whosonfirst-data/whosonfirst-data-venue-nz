@@ -2,13 +2,14 @@
   "id": 202808273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.104477,-39.048599,174.104477,-39.048599",
     "geom:latitude":-39.048599,
     "geom:longitude":174.104477,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Henui & Devon St East Fitzroy New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202808273,
-    "wof:lastmodified":1449060221,
+    "wof:lastmodified":1466312468,
     "wof:name":"Bed Rumours",
     "wof:parent_id":85772911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [174.104477,-39.048599,174.104477,-39.048599],
+  "bbox": [
+    174.104477,
+    -39.048599,
+    174.104477,
+    -39.048599
+],
   "geometry": {"coordinates":[174.104477,-39.048599],"type":"Point"}
 }

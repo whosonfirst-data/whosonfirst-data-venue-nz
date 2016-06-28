@@ -2,13 +2,14 @@
   "id": 202779131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.035568,-40.873631,175.035568,-40.873631",
     "geom:latitude":-40.873631,
     "geom:longitude":175.035568,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Greenaway Rd ",
     "sg:city":"Waikanae",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202779131,
-    "wof:lastmodified":1449060490,
+    "wof:lastmodified":1466312480,
     "wof:name":"Hutt Valley Garage Doors Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "garage"
     ]
 },
-  "bbox": [175.035568,-40.873631,175.035568,-40.873631],
-  "geometry": {"coordinates":[175.035568,-40.873631],"type":"Point"}
+  "bbox": [
+    175.035568,
+    -40.873631,
+    175.035568,
+    -40.873631
+],
+  "geometry": {"coordinates":[175.03556800000001,-40.873631],"type":"Point"}
 }

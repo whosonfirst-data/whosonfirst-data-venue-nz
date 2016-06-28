@@ -2,13 +2,14 @@
   "id": 186376549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.901947,-36.932903,174.901947,-36.932903",
     "geom:latitude":-36.932903,
     "geom:longitude":174.901947,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Greenmount Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186376549,
-    "wof:lastmodified":1449051309,
+    "wof:lastmodified":1466312438,
     "wof:name":"Bosch Rexroth Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.901947,-36.932903,174.901947,-36.932903],
-  "geometry": {"coordinates":[174.901947,-36.932903],"type":"Point"}
+  "bbox": [
+    174.901947,
+    -36.932903,
+    174.901947,
+    -36.932903
+],
+  "geometry": {"coordinates":[174.90194700000001,-36.932903],"type":"Point"}
 }

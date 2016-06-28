@@ -2,13 +2,14 @@
   "id": 203206171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.74881,-43.90921,171.74881,-43.90921",
     "geom:latitude":-43.90921,
     "geom:longitude":171.74881,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"41 William St ",
     "sg:city":"Ashburton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203206171,
-    "wof:lastmodified":1449026274,
+    "wof:lastmodified":1466311423,
     "wof:name":"Tiny Toes Baby Shoes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [171.74881,-43.90921,171.74881,-43.90921],
-  "geometry": {"coordinates":[171.74881,-43.90921],"type":"Point"}
+  "bbox": [
+    171.74881,
+    -43.90921,
+    171.74881,
+    -43.90921
+],
+  "geometry": {"coordinates":[171.74880999999999,-43.90921],"type":"Point"}
 }

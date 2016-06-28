@@ -2,13 +2,14 @@
   "id": 186152677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.228699,-38.130341,176.228699,-38.130341",
     "geom:latitude":-38.130341,
     "geom:longitude":176.228699,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"100 View Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186152677,
-    "wof:lastmodified":1449052388,
+    "wof:lastmodified":1466311010,
     "wof:name":"Sheetmetal Industries Ltd",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "engineer"
     ]
 },
-  "bbox": [176.228699,-38.130341,176.228699,-38.130341],
-  "geometry": {"coordinates":[176.228699,-38.130341],"type":"Point"}
+  "bbox": [
+    176.228699,
+    -38.130341,
+    176.228699,
+    -38.130341
+],
+  "geometry": {"coordinates":[176.22869900000001,-38.130341],"type":"Point"}
 }

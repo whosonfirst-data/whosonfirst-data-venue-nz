@@ -2,13 +2,14 @@
   "id": 219468187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.627701,-36.816288,174.627701,-36.816288",
     "geom:latitude":-36.816288,
     "geom:longitude":174.627701,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17-19 Luckens Rd West Harbour ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219468187,
-    "wof:lastmodified":1449072928,
+    "wof:lastmodified":1466312219,
     "wof:name":"Te Maunga Rongo Te Kohanga",
     "wof:parent_id":85778731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "training"
     ]
 },
-  "bbox": [174.627701,-36.816288,174.627701,-36.816288],
+  "bbox": [
+    174.627701,
+    -36.816288,
+    174.627701,
+    -36.816288
+],
   "geometry": {"coordinates":[174.627701,-36.816288],"type":"Point"}
 }

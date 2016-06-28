@@ -2,13 +2,14 @@
   "id": 203280901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.761246,-36.867977,174.761246,-36.867977",
     "geom:latitude":-36.867977,
     "geom:longitude":174.761246,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Mt Eden Rd Mt Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203280901,
-    "wof:lastmodified":1449025856,
+    "wof:lastmodified":1466312143,
     "wof:name":"House of Knives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.761246,-36.867977,174.761246,-36.867977],
+  "bbox": [
+    174.761246,
+    -36.867977,
+    174.761246,
+    -36.867977
+],
   "geometry": {"coordinates":[174.761246,-36.867977],"type":"Point"}
 }

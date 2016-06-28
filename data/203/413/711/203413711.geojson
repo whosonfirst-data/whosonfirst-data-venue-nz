@@ -2,13 +2,14 @@
   "id": 203413711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.789688,-41.324631,174.789688,-41.324631",
     "geom:latitude":-41.324631,
     "geom:longitude":174.789688,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"76 View Rd Melrose ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203413711,
-    "wof:lastmodified":1449025232,
+    "wof:lastmodified":1466312585,
     "wof:name":"Access Telecommunications Ltd",
     "wof:parent_id":85778453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.789688,-41.324631,174.789688,-41.324631],
-  "geometry": {"coordinates":[174.789688,-41.324631],"type":"Point"}
+  "bbox": [
+    174.789688,
+    -41.324631,
+    174.789688,
+    -41.324631
+],
+  "geometry": {"coordinates":[174.78968800000001,-41.324631],"type":"Point"}
 }

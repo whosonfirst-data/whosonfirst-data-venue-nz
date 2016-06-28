@@ -2,13 +2,14 @@
   "id": 203247451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.359329,-46.410618,168.359329,-46.410618",
     "geom:latitude":-46.410618,
     "geom:longitude":168.359329,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"176 Don St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203247451,
-    "wof:lastmodified":1449026055,
+    "wof:lastmodified":1466311815,
     "wof:name":"Invercargill Musical Theatre",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fabric"
     ]
 },
-  "bbox": [168.359329,-46.410618,168.359329,-46.410618],
+  "bbox": [
+    168.359329,
+    -46.410618,
+    168.359329,
+    -46.410618
+],
   "geometry": {"coordinates":[168.359329,-46.410618],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219414389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.732635,-45.020927,168.732635,-45.020927",
     "geom:latitude":-45.020927,
     "geom:longitude":168.732635,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Frankton Industrial Estate ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219414389,
-    "wof:lastmodified":1449072043,
+    "wof:lastmodified":1466311926,
     "wof:name":"Pacific Tourways Ltd",
     "wof:parent_id":85781785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tourism"
     ]
 },
-  "bbox": [168.732635,-45.020927,168.732635,-45.020927],
-  "geometry": {"coordinates":[168.732635,-45.020927],"type":"Point"}
+  "bbox": [
+    168.732635,
+    -45.020927,
+    168.732635,
+    -45.020927
+],
+  "geometry": {"coordinates":[168.73263499999999,-45.020927],"type":"Point"}
 }

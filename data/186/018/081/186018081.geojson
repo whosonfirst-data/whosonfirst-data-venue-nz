@@ -2,13 +2,14 @@
   "id": 186018081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.970718,-45.098602,170.970718,-45.098602",
     "geom:latitude":-45.098602,
     "geom:longitude":170.970718,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Thames St ",
     "sg:city":"Oamaru",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186018081,
-    "wof:lastmodified":1449051715,
+    "wof:lastmodified":1466310858,
     "wof:name":"Oamaru Silk Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "wedding"
     ]
 },
-  "bbox": [170.970718,-45.098602,170.970718,-45.098602],
-  "geometry": {"coordinates":[170.970718,-45.098602],"type":"Point"}
+  "bbox": [
+    170.970718,
+    -45.098602,
+    170.970718,
+    -45.098602
+],
+  "geometry": {"coordinates":[170.97071800000001,-45.098602],"type":"Point"}
 }

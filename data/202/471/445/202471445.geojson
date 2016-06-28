@@ -2,13 +2,14 @@
   "id": 202471445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.801407,-36.918404,174.801407,-36.918404",
     "geom:latitude":-36.918404,
     "geom:longitude":174.801407,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Mays Rd Te Papapa ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202471445,
-    "wof:lastmodified":1449061132,
+    "wof:lastmodified":1466311931,
     "wof:name":"New Zealand Medical & Scientific Ltd",
     "wof:parent_id":85778677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [174.801407,-36.918404,174.801407,-36.918404],
-  "geometry": {"coordinates":[174.801407,-36.918404],"type":"Point"}
+  "bbox": [
+    174.801407,
+    -36.918404,
+    174.801407,
+    -36.918404
+],
+  "geometry": {"coordinates":[174.80140700000001,-36.918404],"type":"Point"}
 }

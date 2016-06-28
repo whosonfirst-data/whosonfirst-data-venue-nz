@@ -2,13 +2,14 @@
   "id": 202569571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.221359,-38.037403,176.221359,-38.037403",
     "geom:latitude":-38.037403,
     "geom:longitude":176.221359,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"379 Tauranga Direct Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202569571,
-    "wof:lastmodified":1449062538,
+    "wof:lastmodified":1466311261,
     "wof:name":"Mobile Mower Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.221359,-38.037403,176.221359,-38.037403],
-  "geometry": {"coordinates":[176.221359,-38.037403],"type":"Point"}
+  "bbox": [
+    176.221359,
+    -38.037403,
+    176.221359,
+    -38.037403
+],
+  "geometry": {"coordinates":[176.22135900000001,-38.037403],"type":"Point"}
 }

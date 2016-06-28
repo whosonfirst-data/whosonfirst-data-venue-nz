@@ -2,13 +2,14 @@
   "id": 219563279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.15448,-40.762959,175.15448,-40.762959",
     "geom:latitude":-40.762959,
     "geom:longitude":175.15448,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"187 State Highway 1 ",
     "sg:city":"Otaki",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":219563279,
-    "wof:lastmodified":1449070424,
+    "wof:lastmodified":1466312388,
     "wof:name":"Otaki Rental Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [175.15448,-40.762959,175.15448,-40.762959],
-  "geometry": {"coordinates":[175.15448,-40.762959],"type":"Point"}
+  "bbox": [
+    175.15448,
+    -40.762959,
+    175.15448,
+    -40.762959
+],
+  "geometry": {"coordinates":[175.15448000000001,-40.762959],"type":"Point"}
 }

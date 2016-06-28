@@ -2,13 +2,14 @@
   "id": 219257297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.989883,-38.649986,177.989883,-38.649986",
     "geom:latitude":-38.649986,
     "geom:longitude":177.989883,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"811 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219257297,
-    "wof:lastmodified":1449071443,
+    "wof:lastmodified":1466311995,
     "wof:name":"Champers Motor Lodge",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accommodation"
     ]
 },
-  "bbox": [177.989883,-38.649986,177.989883,-38.649986],
-  "geometry": {"coordinates":[177.989883,-38.649986],"type":"Point"}
+  "bbox": [
+    177.989883,
+    -38.649986,
+    177.989883,
+    -38.649986
+],
+  "geometry": {"coordinates":[177.98988299999999,-38.649986],"type":"Point"}
 }

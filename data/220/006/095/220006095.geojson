@@ -2,13 +2,14 @@
   "id": 220006095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.236366,26.6626,-80.236366,26.6626",
     "geom:latitude":26.6626,
     "geom:longitude":-80.236366,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 12 Forsythe Barr House 45 Johnston St ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220006095,
-    "wof:lastmodified":1449074682,
+    "wof:lastmodified":1466310727,
     "wof:name":"Sterling Portfolio Management",
     "wof:parent_id":85889495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "finance"
     ]
 },
-  "bbox": [-80.236366,26.6626,-80.236366,26.6626],
+  "bbox": [
+    -80.236366,
+    26.6626,
+    -80.236366,
+    26.6626
+],
   "geometry": {"coordinates":[-80.236366,26.6626],"type":"Point"}
 }

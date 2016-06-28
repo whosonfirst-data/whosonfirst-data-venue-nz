@@ -2,13 +2,14 @@
   "id": 202662791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.004272,-41.294796,174.004272,-41.294796",
     "geom:latitude":-41.294796,
     "geom:longitude":174.004272,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 556 ",
     "sg:city":"Picton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202662791,
-    "wof:lastmodified":1449061807,
+    "wof:lastmodified":1466312002,
     "wof:name":"Clough Shayne Plumbing Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [174.004272,-41.294796,174.004272,-41.294796],
-  "geometry": {"coordinates":[174.004272,-41.294796],"type":"Point"}
+  "bbox": [
+    174.004272,
+    -41.294796,
+    174.004272,
+    -41.294796
+],
+  "geometry": {"coordinates":[174.00427199999999,-41.294796],"type":"Point"}
 }

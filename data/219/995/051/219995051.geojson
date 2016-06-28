@@ -2,13 +2,14 @@
   "id": 219995051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.051102,-39.933239,175.051102,-39.933239",
     "geom:latitude":-39.933239,
     "geom:longitude":175.051102,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Maria Pl ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219995051,
-    "wof:lastmodified":1449073533,
+    "wof:lastmodified":1466313181,
     "wof:name":"Sewell & Wilson",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finance"
     ]
 },
-  "bbox": [175.051102,-39.933239,175.051102,-39.933239],
-  "geometry": {"coordinates":[175.051102,-39.933239],"type":"Point"}
+  "bbox": [
+    175.051102,
+    -39.933239,
+    175.051102,
+    -39.933239
+],
+  "geometry": {"coordinates":[175.05110199999999,-39.933239],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202799355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.878693,-39.500431,176.878693,-39.500431",
     "geom:latitude":-39.500431,
     "geom:longitude":176.878693,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Lipton Pl Onekawa ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202799355,
-    "wof:lastmodified":1449062657,
+    "wof:lastmodified":1466312625,
     "wof:name":"Beere Engineering Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "handrail"
     ]
 },
-  "bbox": [176.878693,-39.500431,176.878693,-39.500431],
+  "bbox": [
+    176.878693,
+    -39.500431,
+    176.878693,
+    -39.500431
+],
   "geometry": {"coordinates":[176.878693,-39.500431],"type":"Point"}
 }

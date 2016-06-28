@@ -2,13 +2,14 @@
   "id": 219171675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.774719,-36.849777,174.774719,-36.849777",
     "geom:latitude":-36.849777,
     "geom:longitude":174.774719,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8/158 Beach Rd Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219171675,
-    "wof:lastmodified":1449073933,
+    "wof:lastmodified":1466311000,
     "wof:name":"Building & Parking Solutions Limited",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.774719,-36.849777,174.774719,-36.849777],
+  "bbox": [
+    174.774719,
+    -36.849777,
+    174.774719,
+    -36.849777
+],
   "geometry": {"coordinates":[174.774719,-36.849777],"type":"Point"}
 }

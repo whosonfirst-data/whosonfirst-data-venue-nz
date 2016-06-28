@@ -2,13 +2,14 @@
   "id": 220061985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.238297,-38.119926,176.238297,-38.119926",
     "geom:latitude":-38.119926,
     "geom:longitude":176.238297,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 2 50 Koutu Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220061985,
-    "wof:lastmodified":1449074632,
+    "wof:lastmodified":1466311733,
     "wof:name":"Koutu Liquor",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "outlet"
     ]
 },
-  "bbox": [176.238297,-38.119926,176.238297,-38.119926],
-  "geometry": {"coordinates":[176.238297,-38.119926],"type":"Point"}
+  "bbox": [
+    176.238297,
+    -38.119926,
+    176.238297,
+    -38.119926
+],
+  "geometry": {"coordinates":[176.23829699999999,-38.119926],"type":"Point"}
 }

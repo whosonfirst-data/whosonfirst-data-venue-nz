@@ -2,13 +2,14 @@
   "id": 219997525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.658279,-40.948467,175.658279,-40.948467",
     "geom:latitude":-40.948467,
     "geom:longitude":175.658279,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Perry St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219997525,
-    "wof:lastmodified":1449073296,
+    "wof:lastmodified":1466313182,
     "wof:name":"Woodhouse & Partners Ltd",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finance"
     ]
 },
-  "bbox": [175.658279,-40.948467,175.658279,-40.948467],
-  "geometry": {"coordinates":[175.658279,-40.948467],"type":"Point"}
+  "bbox": [
+    175.658279,
+    -40.948467,
+    175.658279,
+    -40.948467
+],
+  "geometry": {"coordinates":[175.65827899999999,-40.948467],"type":"Point"}
 }

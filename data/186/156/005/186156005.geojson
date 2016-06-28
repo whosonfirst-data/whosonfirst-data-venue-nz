@@ -2,13 +2,14 @@
   "id": 186156005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.524368,-43.552731,172.524368,-43.552731",
     "geom:latitude":-43.552731,
     "geom:longitude":172.524368,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Branston St Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186156005,
-    "wof:lastmodified":1449050943,
+    "wof:lastmodified":1466311037,
     "wof:name":"Brokenshire Engineering Ltd",
     "wof:parent_id":85778891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.524368,-43.552731,172.524368,-43.552731],
-  "geometry": {"coordinates":[172.524368,-43.552731],"type":"Point"}
+  "bbox": [
+    172.524368,
+    -43.552731,
+    172.524368,
+    -43.552731
+],
+  "geometry": {"coordinates":[172.52436800000001,-43.552731],"type":"Point"}
 }

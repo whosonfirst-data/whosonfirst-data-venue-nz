@@ -2,13 +2,14 @@
   "id": 185721393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.751968,-36.869934,174.751968,-36.869934",
     "geom:latitude":-36.869934,
     "geom:longitude":174.751968,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5/16 Akepiro St Mt Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185721393,
-    "wof:lastmodified":1449008204,
+    "wof:lastmodified":1466310708,
     "wof:name":"Band - Tongue & Groove",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.751968,-36.869934,174.751968,-36.869934],
-  "geometry": {"coordinates":[174.751968,-36.869934],"type":"Point"}
+  "bbox": [
+    174.751968,
+    -36.869934,
+    174.751968,
+    -36.869934
+],
+  "geometry": {"coordinates":[174.75196800000001,-36.869934],"type":"Point"}
 }

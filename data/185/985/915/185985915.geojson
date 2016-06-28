@@ -2,13 +2,14 @@
   "id": 185985915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.725464,-36.804195,174.725464,-36.804195",
     "geom:latitude":-36.804195,
     "geom:longitude":174.725464,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"173 Birkenhead Ave Birkenhead ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185985915,
-    "wof:lastmodified":1449007428,
+    "wof:lastmodified":1466312486,
     "wof:name":"Annie C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "wedding"
     ]
 },
-  "bbox": [174.725464,-36.804195,174.725464,-36.804195],
-  "geometry": {"coordinates":[174.725464,-36.804195],"type":"Point"}
+  "bbox": [
+    174.725464,
+    -36.804195,
+    174.725464,
+    -36.804195
+],
+  "geometry": {"coordinates":[174.72546399999999,-36.804195],"type":"Point"}
 }

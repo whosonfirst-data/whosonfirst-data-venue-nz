@@ -2,13 +2,14 @@
   "id": 219716679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.625702,-36.88615,174.625702,-36.88615",
     "geom:latitude":-36.88615,
     "geom:longitude":174.625702,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 E Amokura St Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219716679,
-    "wof:lastmodified":1449070896,
+    "wof:lastmodified":1466312850,
     "wof:name":"Clydesdale Trailers",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.625702,-36.88615,174.625702,-36.88615],
-  "geometry": {"coordinates":[174.625702,-36.88615],"type":"Point"}
+  "bbox": [
+    174.625702,
+    -36.88615,
+    174.625702,
+    -36.88615
+],
+  "geometry": {"coordinates":[174.62570199999999,-36.88615],"type":"Point"}
 }

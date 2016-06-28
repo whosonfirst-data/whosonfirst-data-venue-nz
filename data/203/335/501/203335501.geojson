@@ -2,13 +2,14 @@
   "id": 203335501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.018173,-39.949146,175.018173,-39.949146",
     "geom:latitude":-39.949146,
     "geom:longitude":175.018173,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Heads Rd ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203335501,
-    "wof:lastmodified":1449026233,
+    "wof:lastmodified":1466312354,
     "wof:name":"NZ Wool Testing Authority Ltd",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.018173,-39.949146,175.018173,-39.949146],
-  "geometry": {"coordinates":[175.018173,-39.949146],"type":"Point"}
+  "bbox": [
+    175.018173,
+    -39.949146,
+    175.018173,
+    -39.949146
+],
+  "geometry": {"coordinates":[175.01817299999999,-39.949146],"type":"Point"}
 }

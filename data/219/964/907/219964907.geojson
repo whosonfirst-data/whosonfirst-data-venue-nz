@@ -2,13 +2,14 @@
   "id": 219964907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.777664,-36.92448,174.777664,-36.92448",
     "geom:latitude":-36.92448,
     "geom:longitude":174.777664,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Beachcroft Ave Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219964907,
-    "wof:lastmodified":1449073062,
+    "wof:lastmodified":1466313171,
     "wof:name":"Lyfestyle Buildings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.777664,-36.92448,174.777664,-36.92448],
-  "geometry": {"coordinates":[174.777664,-36.92448],"type":"Point"}
+  "bbox": [
+    174.777664,
+    -36.92448,
+    174.777664,
+    -36.92448
+],
+  "geometry": {"coordinates":[174.77766399999999,-36.92448],"type":"Point"}
 }

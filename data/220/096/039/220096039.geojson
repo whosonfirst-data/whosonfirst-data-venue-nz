@@ -2,13 +2,14 @@
   "id": 220096039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.720367,-36.713436,174.720367,-36.713436",
     "geom:latitude":-36.713436,
     "geom:longitude":174.720367,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Oteha Valley Rd Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220096039,
-    "wof:lastmodified":1449074278,
+    "wof:lastmodified":1466310573,
     "wof:name":"Deli Bake",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "-"
     ]
 },
-  "bbox": [174.720367,-36.713436,174.720367,-36.713436],
-  "geometry": {"coordinates":[174.720367,-36.713436],"type":"Point"}
+  "bbox": [
+    174.720367,
+    -36.713436,
+    174.720367,
+    -36.713436
+],
+  "geometry": {"coordinates":[174.72036700000001,-36.713436],"type":"Point"}
 }

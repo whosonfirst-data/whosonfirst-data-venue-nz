@@ -2,13 +2,14 @@
   "id": 186234733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.616348,-40.336601,175.616348,-40.336601",
     "geom:latitude":-40.336601,
     "geom:longitude":175.616348,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"733 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186234733,
-    "wof:lastmodified":1449052889,
+    "wof:lastmodified":1466311718,
     "wof:name":"Probert Transport Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lifting"
     ]
 },
-  "bbox": [175.616348,-40.336601,175.616348,-40.336601],
-  "geometry": {"coordinates":[175.616348,-40.336601],"type":"Point"}
+  "bbox": [
+    175.616348,
+    -40.336601,
+    175.616348,
+    -40.336601
+],
+  "geometry": {"coordinates":[175.61634799999999,-40.336601],"type":"Point"}
 }

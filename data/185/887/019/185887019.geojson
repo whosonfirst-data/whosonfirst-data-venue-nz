@@ -2,13 +2,14 @@
   "id": 185887019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.649094,-37.088219,174.649094,-37.088219",
     "geom:latitude":-37.088219,
     "geom:longitude":174.649094,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Brook Rd Awhitu ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185887019,
-    "wof:lastmodified":1449007903,
+    "wof:lastmodified":1466311781,
     "wof:name":"Awhitu Golf Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sports"
     ]
 },
-  "bbox": [174.649094,-37.088219,174.649094,-37.088219],
-  "geometry": {"coordinates":[174.649094,-37.088219],"type":"Point"}
+  "bbox": [
+    174.649094,
+    -37.088219,
+    174.649094,
+    -37.088219
+],
+  "geometry": {"coordinates":[174.64909399999999,-37.088219],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235951411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.986618,-41.171597,174.986618,-41.171597",
     "geom:latitude":-41.171597,
     "geom:longitude":174.986618,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Glen Rd Stokes Valley Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235951411,
-    "wof:lastmodified":1449008282,
+    "wof:lastmodified":1466310939,
     "wof:name":"Glen Road Fisheries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sea"
     ]
 },
-  "bbox": [174.986618,-41.171597,174.986618,-41.171597],
-  "geometry": {"coordinates":[174.986618,-41.171597],"type":"Point"}
+  "bbox": [
+    174.986618,
+    -41.171597,
+    174.986618,
+    -41.171597
+],
+  "geometry": {"coordinates":[174.98661799999999,-41.171597],"type":"Point"}
 }

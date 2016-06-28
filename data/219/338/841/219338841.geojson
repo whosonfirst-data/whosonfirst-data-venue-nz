@@ -2,13 +2,14 @@
   "id": 219338841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.937439,-46.100636,168.937439,-46.100636",
     "geom:latitude":-46.100636,
     "geom:longitude":168.937439,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Railway Esp ",
     "sg:city":"Gore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219338841,
-    "wof:lastmodified":1449071620,
+    "wof:lastmodified":1466311250,
     "wof:name":"Esplanade Motels",
     "wof:parent_id":85782851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accommodation"
     ]
 },
-  "bbox": [168.937439,-46.100636,168.937439,-46.100636],
-  "geometry": {"coordinates":[168.937439,-46.100636],"type":"Point"}
+  "bbox": [
+    168.937439,
+    -46.100636,
+    168.937439,
+    -46.100636
+],
+  "geometry": {"coordinates":[168.93743900000001,-46.100636],"type":"Point"}
 }

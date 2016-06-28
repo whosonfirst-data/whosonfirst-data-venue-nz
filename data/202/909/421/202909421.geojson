@@ -2,13 +2,14 @@
   "id": 202909421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.974495,44.667336,-92.974495,44.667336",
     "geom:latitude":44.667336,
     "geom:longitude":-92.974495,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 66 Clive ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202909421,
-    "wof:lastmodified":1449062021,
+    "wof:lastmodified":1466312808,
     "wof:name":"Arbours",
     "wof:parent_id":85844381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gardening"
     ]
 },
-  "bbox": [-92.974495,44.667336,-92.974495,44.667336],
+  "bbox": [
+    -92.974495,
+    44.667336,
+    -92.974495,
+    44.667336
+],
   "geometry": {"coordinates":[-92.974495,44.667336],"type":"Point"}
 }

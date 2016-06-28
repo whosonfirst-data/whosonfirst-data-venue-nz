@@ -2,13 +2,14 @@
   "id": 203284515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.138794,-40.752285,175.138794,-40.752285",
     "geom:latitude":-40.752285,
     "geom:longitude":175.138794,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Main St ",
     "sg:city":"Otaki",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":203284515,
-    "wof:lastmodified":1449026125,
+    "wof:lastmodified":1466312164,
     "wof:name":"Ballentynes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.138794,-40.752285,175.138794,-40.752285],
-  "geometry": {"coordinates":[175.138794,-40.752285],"type":"Point"}
+  "bbox": [
+    175.138794,
+    -40.752285,
+    175.138794,
+    -40.752285
+],
+  "geometry": {"coordinates":[175.13879399999999,-40.752285],"type":"Point"}
 }

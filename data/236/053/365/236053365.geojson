@@ -2,13 +2,14 @@
   "id": 236053365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.838074,-36.94392,174.838074,-36.94392",
     "geom:latitude":-36.94392,
     "geom:longitude":174.838074,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Station Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236053365,
-    "wof:lastmodified":1449002143,
+    "wof:lastmodified":1466311255,
     "wof:name":"Diamond Memorials",
     "wof:parent_id":85778867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mason"
     ]
 },
-  "bbox": [174.838074,-36.94392,174.838074,-36.94392],
-  "geometry": {"coordinates":[174.838074,-36.94392],"type":"Point"}
+  "bbox": [
+    174.838074,
+    -36.94392,
+    174.838074,
+    -36.94392
+],
+  "geometry": {"coordinates":[174.83807400000001,-36.94392],"type":"Point"}
 }

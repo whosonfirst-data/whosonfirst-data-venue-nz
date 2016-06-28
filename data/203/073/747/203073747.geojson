@@ -2,13 +2,14 @@
   "id": 203073747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.976105,-40.944546,174.976105,-40.944546",
     "geom:latitude":-40.944546,
     "geom:longitude":174.976105,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Whareroa Rd Raumati Beach ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203073747,
-    "wof:lastmodified":1449025201,
+    "wof:lastmodified":1466311755,
     "wof:name":"Kiel Landscaping Specialists Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.976105,-40.944546,174.976105,-40.944546],
-  "geometry": {"coordinates":[174.976105,-40.944546],"type":"Point"}
+  "bbox": [
+    174.976105,
+    -40.944546,
+    174.976105,
+    -40.944546
+],
+  "geometry": {"coordinates":[174.97610499999999,-40.944546],"type":"Point"}
 }

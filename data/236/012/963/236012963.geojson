@@ -2,13 +2,14 @@
   "id": 236012963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.63295,-45.039265,168.63295,-45.039265",
     "geom:latitude":-45.039265,
     "geom:longitude":168.63295,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Fernhill Rd ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236012963,
-    "wof:lastmodified":1449004843,
+    "wof:lastmodified":1466310840,
     "wof:name":"Fernhill Fish 'N' Fries",
     "wof:parent_id":85781459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "takeaway"
     ]
 },
-  "bbox": [168.63295,-45.039265,168.63295,-45.039265],
-  "geometry": {"coordinates":[168.63295,-45.039265],"type":"Point"}
+  "bbox": [
+    168.63295,
+    -45.039265,
+    168.63295,
+    -45.039265
+],
+  "geometry": {"coordinates":[168.63294999999999,-45.039265],"type":"Point"}
 }

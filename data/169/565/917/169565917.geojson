@@ -2,13 +2,14 @@
   "id": 169565917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.251068,-44.393848,171.251068,-44.393848",
     "geom:latitude":-44.393848,
     "geom:longitude":171.251068,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"299 Stafford St ",
     "sg:city":"Timaru",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169565917,
-    "wof:lastmodified":1449035665,
+    "wof:lastmodified":1466311070,
     "wof:name":"Atlantis Timaru",
     "wof:parent_id":85782507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supplier"
     ]
 },
-  "bbox": [171.251068,-44.393848,171.251068,-44.393848],
+  "bbox": [
+    171.251068,
+    -44.393848,
+    171.251068,
+    -44.393848
+],
   "geometry": {"coordinates":[171.251068,-44.393848],"type":"Point"}
 }

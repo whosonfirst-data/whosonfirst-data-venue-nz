@@ -2,13 +2,14 @@
   "id": 186192811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.046539,-39.933651,175.046539,-39.933651",
     "geom:latitude":-39.933651,
     "geom:longitude":175.046539,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Wilson St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186192811,
-    "wof:lastmodified":1449052252,
+    "wof:lastmodified":1466311332,
     "wof:name":"BTS Industrial Edge",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.046539,-39.933651,175.046539,-39.933651],
+  "bbox": [
+    175.046539,
+    -39.933651,
+    175.046539,
+    -39.933651
+],
   "geometry": {"coordinates":[175.046539,-39.933651],"type":"Point"}
 }

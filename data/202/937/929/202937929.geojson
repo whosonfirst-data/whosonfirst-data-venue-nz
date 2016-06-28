@@ -2,13 +2,14 @@
   "id": 202937929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.072556,-41.124088,175.072556,-41.124088",
     "geom:latitude":-41.124088,
     "geom:longitude":175.072556,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Main St Upper Hutt ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202937929,
-    "wof:lastmodified":1449060589,
+    "wof:lastmodified":1466312867,
     "wof:name":"Seed On Earth",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.072556,-41.124088,175.072556,-41.124088],
-  "geometry": {"coordinates":[175.072556,-41.124088],"type":"Point"}
+  "bbox": [
+    175.072556,
+    -41.124088,
+    175.072556,
+    -41.124088
+],
+  "geometry": {"coordinates":[175.07255599999999,-41.124088],"type":"Point"}
 }

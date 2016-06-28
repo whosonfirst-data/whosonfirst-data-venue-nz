@@ -2,13 +2,14 @@
   "id": 202466225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.984871,40.698009,-73.984871,40.698009",
     "geom:latitude":40.698009,
     "geom:longitude":-73.984871,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Vinegar Hill Rd R D 1 ",
     "sg:city":"Kamo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202466225,
-    "wof:lastmodified":1449060873,
+    "wof:lastmodified":1466311868,
     "wof:name":"Phone Alert",
     "wof:parent_id":85869191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "beauty"
     ]
 },
-  "bbox": [-73.984871,40.698009,-73.984871,40.698009],
+  "bbox": [
+    -73.984871,
+    40.698009,
+    -73.984871,
+    40.698009
+],
   "geometry": {"coordinates":[-73.984871,40.698009],"type":"Point"}
 }

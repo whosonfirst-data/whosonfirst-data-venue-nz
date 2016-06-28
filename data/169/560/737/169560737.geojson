@@ -2,13 +2,14 @@
   "id": 169560737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.152161,-37.705421,176.152161,-37.705421",
     "geom:latitude":-37.705421,
     "geom:longitude":176.152161,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"767 Cameron Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169560737,
-    "wof:lastmodified":1449035179,
+    "wof:lastmodified":1466310959,
     "wof:name":"Squarebush Engraving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.152161,-37.705421,176.152161,-37.705421],
-  "geometry": {"coordinates":[176.152161,-37.705421],"type":"Point"}
+  "bbox": [
+    176.152161,
+    -37.705421,
+    176.152161,
+    -37.705421
+],
+  "geometry": {"coordinates":[176.15216100000001,-37.705421],"type":"Point"}
 }

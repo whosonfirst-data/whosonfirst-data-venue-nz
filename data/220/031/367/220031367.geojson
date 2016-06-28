@@ -2,13 +2,14 @@
   "id": 220031367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.02272,-38.661362,178.02272,-38.661362",
     "geom:latitude":-38.661362,
     "geom:longitude":178.02272,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Cobden St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":220031367,
-    "wof:lastmodified":1449074334,
+    "wof:lastmodified":1466311299,
     "wof:name":"Gillgren's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.02272,-38.661362,178.02272,-38.661362],
-  "geometry": {"coordinates":[178.02272,-38.661362],"type":"Point"}
+  "bbox": [
+    178.02272,
+    -38.661362,
+    178.02272,
+    -38.661362
+],
+  "geometry": {"coordinates":[178.02271999999999,-38.661362],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220027631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.657333,-41.076488,175.657333,-41.076488",
     "geom:latitude":-41.076488,
     "geom:longitude":175.657333,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Te Kopi Homestead Te Kopi Rd Gladstone RD4 Masterton",
     "sg:city":"Gladstone",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":220027631,
-    "wof:lastmodified":1449074187,
+    "wof:lastmodified":1466311238,
     "wof:name":"Alice Buchanan Caterer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.657333,-41.076488,175.657333,-41.076488],
-  "geometry": {"coordinates":[175.657333,-41.076488],"type":"Point"}
+  "bbox": [
+    175.657333,
+    -41.076488,
+    175.657333,
+    -41.076488
+],
+  "geometry": {"coordinates":[175.65733299999999,-41.076488],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186358357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.624557,-36.890522,174.624557,-36.890522",
     "geom:latitude":-36.890522,
     "geom:longitude":174.624557,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Henderson Valley Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186358357,
-    "wof:lastmodified":1449051505,
+    "wof:lastmodified":1466312378,
     "wof:name":"TTL Pacific Limited",
     "wof:parent_id":85781035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.624557,-36.890522,174.624557,-36.890522],
-  "geometry": {"coordinates":[174.624557,-36.890522],"type":"Point"}
+  "bbox": [
+    174.624557,
+    -36.890522,
+    174.624557,
+    -36.890522
+],
+  "geometry": {"coordinates":[174.62455700000001,-36.890522],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203016529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.054489,-40.876469,175.054489,-40.876469",
     "geom:latitude":-40.876469,
     "geom:longitude":175.054489,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Kohekohe Rd Waikanae ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203016529,
-    "wof:lastmodified":1449025274,
+    "wof:lastmodified":1466310785,
     "wof:name":"Home Improvement Man (HIM) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.054489,-40.876469,175.054489,-40.876469],
-  "geometry": {"coordinates":[175.054489,-40.876469],"type":"Point"}
+  "bbox": [
+    175.054489,
+    -40.876469,
+    175.054489,
+    -40.876469
+],
+  "geometry": {"coordinates":[175.05448899999999,-40.876469],"type":"Point"}
 }

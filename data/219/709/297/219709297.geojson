@@ -2,13 +2,14 @@
   "id": 219709297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.745956,-36.871864,174.745956,-36.871864",
     "geom:latitude":-36.871864,
     "geom:longitude":174.745956,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"424 New North Rd Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219709297,
-    "wof:lastmodified":1449071099,
+    "wof:lastmodified":1466312830,
     "wof:name":"Kingsland Motorcycles Ltd",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leasing"
     ]
 },
-  "bbox": [174.745956,-36.871864,174.745956,-36.871864],
-  "geometry": {"coordinates":[174.745956,-36.871864],"type":"Point"}
+  "bbox": [
+    174.745956,
+    -36.871864,
+    174.745956,
+    -36.871864
+],
+  "geometry": {"coordinates":[174.74595600000001,-36.871864],"type":"Point"}
 }

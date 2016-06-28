@@ -2,13 +2,14 @@
   "id": 186213991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.236465,-37.768929,175.236465,-37.768929",
     "geom:latitude":-37.768929,
     "geom:longitude":175.236465,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Rotokauri Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186213991,
-    "wof:lastmodified":1449050284,
+    "wof:lastmodified":1466311526,
     "wof:name":"Highnam L",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [175.236465,-37.768929,175.236465,-37.768929],
-  "geometry": {"coordinates":[175.236465,-37.768929],"type":"Point"}
+  "bbox": [
+    175.236465,
+    -37.768929,
+    175.236465,
+    -37.768929
+],
+  "geometry": {"coordinates":[175.23646500000001,-37.768929],"type":"Point"}
 }

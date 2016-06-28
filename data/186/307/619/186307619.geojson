@@ -2,13 +2,14 @@
   "id": 186307619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.003448,-45.057823,171.003448,-45.057823",
     "geom:latitude":-45.057823,
     "geom:longitude":171.003448,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Industrial La Oamaru North ",
     "sg:city":"Oamaru",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186307619,
-    "wof:lastmodified":1449051084,
+    "wof:lastmodified":1466312093,
     "wof:name":"Scrap Converters Oamaru Ltd",
     "wof:parent_id":85781453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [171.003448,-45.057823,171.003448,-45.057823],
-  "geometry": {"coordinates":[171.003448,-45.057823],"type":"Point"}
+  "bbox": [
+    171.003448,
+    -45.057823,
+    171.003448,
+    -45.057823
+],
+  "geometry": {"coordinates":[171.00344799999999,-45.057823],"type":"Point"}
 }

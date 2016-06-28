@@ -2,13 +2,14 @@
   "id": 220103161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.816208,-41.316074,174.816208,-41.316074",
     "geom:latitude":-41.316074,
     "geom:longitude":174.816208,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Park Rd Miramar ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220103161,
-    "wof:lastmodified":1449074541,
+    "wof:lastmodified":1466310624,
     "wof:name":"Supreme Bakery Ltd",
     "wof:parent_id":85773025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [174.816208,-41.316074,174.816208,-41.316074],
-  "geometry": {"coordinates":[174.816208,-41.316074],"type":"Point"}
+  "bbox": [
+    174.816208,
+    -41.316074,
+    174.816208,
+    -41.316074
+],
+  "geometry": {"coordinates":[174.81620799999999,-41.316074],"type":"Point"}
 }

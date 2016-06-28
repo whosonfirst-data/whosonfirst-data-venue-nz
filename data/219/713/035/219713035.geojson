@@ -2,13 +2,14 @@
   "id": 219713035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.734741,-36.861408,174.734741,-36.861408",
     "geom:latitude":-36.861408,
     "geom:longitude":174.734741,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Gt North Rd Grey Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219713035,
-    "wof:lastmodified":1449073589,
+    "wof:lastmodified":1466312725,
     "wof:name":"Scooterworld LMVD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leasing"
     ]
 },
-  "bbox": [174.734741,-36.861408,174.734741,-36.861408],
-  "geometry": {"coordinates":[174.734741,-36.861408],"type":"Point"}
+  "bbox": [
+    174.734741,
+    -36.861408,
+    174.734741,
+    -36.861408
+],
+  "geometry": {"coordinates":[174.73474100000001,-36.861408],"type":"Point"}
 }

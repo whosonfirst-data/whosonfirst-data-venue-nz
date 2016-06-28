@@ -2,13 +2,14 @@
   "id": 202998327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.25914,-38.14566,176.25914,-38.14566",
     "geom:latitude":-38.14566,
     "geom:longitude":176.25914,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"499 Te Ngae Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202998327,
-    "wof:lastmodified":1449060943,
+    "wof:lastmodified":1466312990,
     "wof:name":"Bob Cowan",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.25914,-38.14566,176.25914,-38.14566],
+  "bbox": [
+    176.25914,
+    -38.14566,
+    176.25914,
+    -38.14566
+],
   "geometry": {"coordinates":[176.25914,-38.14566],"type":"Point"}
 }

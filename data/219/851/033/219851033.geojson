@@ -2,13 +2,14 @@
   "id": 219851033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.30687,-39.603973,174.30687,-39.603973",
     "geom:latitude":-39.603973,
     "geom:longitude":174.30687,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Whareroa Rd ",
     "sg:city":"Hawera",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219851033,
-    "wof:lastmodified":1449072706,
+    "wof:lastmodified":1466312998,
     "wof:name":"NZMP Whareroa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.30687,-39.603973,174.30687,-39.603973],
+  "bbox": [
+    174.30687,
+    -39.603973,
+    174.30687,
+    -39.603973
+],
   "geometry": {"coordinates":[174.30687,-39.603973],"type":"Point"}
 }

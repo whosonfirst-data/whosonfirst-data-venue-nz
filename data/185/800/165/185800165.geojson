@@ -2,13 +2,14 @@
   "id": 185800165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.182831,-37.637249,176.182831,-37.637249",
     "geom:latitude":-37.637249,
     "geom:longitude":176.182831,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Maunganui Rd Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185800165,
-    "wof:lastmodified":1449006734,
+    "wof:lastmodified":1466311220,
     "wof:name":"Mount Toys & Models",
     "wof:parent_id":85773039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [176.182831,-37.637249,176.182831,-37.637249],
-  "geometry": {"coordinates":[176.182831,-37.637249],"type":"Point"}
+  "bbox": [
+    176.182831,
+    -37.637249,
+    176.182831,
+    -37.637249
+],
+  "geometry": {"coordinates":[176.18283099999999,-37.637249],"type":"Point"}
 }

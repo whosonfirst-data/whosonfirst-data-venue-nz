@@ -2,13 +2,14 @@
   "id": 202508351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.31987,-35.721657,174.31987,-35.721657",
     "geom:latitude":-35.721657,
     "geom:longitude":174.31987,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Vinery La ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202508351,
-    "wof:lastmodified":1449061530,
+    "wof:lastmodified":1466312008,
     "wof:name":"Crabb Dr D J M",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.31987,-35.721657,174.31987,-35.721657],
-  "geometry": {"coordinates":[174.31987,-35.721657],"type":"Point"}
+  "bbox": [
+    174.31987,
+    -35.721657,
+    174.31987,
+    -35.721657
+],
+  "geometry": {"coordinates":[174.31987000000001,-35.721657],"type":"Point"}
 }

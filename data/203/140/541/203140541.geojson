@@ -2,13 +2,14 @@
   "id": 203140541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.751007,-40.294182,175.751007,-40.294182",
     "geom:latitude":-40.294182,
     "geom:longitude":175.751007,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Mulgrave St ",
     "sg:city":"Ashhurst",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203140541,
-    "wof:lastmodified":1449025204,
+    "wof:lastmodified":1466310831,
     "wof:name":"Tolly Farm Boarding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kennel"
     ]
 },
-  "bbox": [175.751007,-40.294182,175.751007,-40.294182],
-  "geometry": {"coordinates":[175.751007,-40.294182],"type":"Point"}
+  "bbox": [
+    175.751007,
+    -40.294182,
+    175.751007,
+    -40.294182
+],
+  "geometry": {"coordinates":[175.75100699999999,-40.294182],"type":"Point"}
 }

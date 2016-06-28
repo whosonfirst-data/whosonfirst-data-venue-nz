@@ -2,13 +2,14 @@
   "id": 219777027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.048523,-39.940762,175.048523,-39.940762",
     "geom:latitude":-39.940762,
     "geom:longitude":175.048523,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Pacific Pl ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219777027,
-    "wof:lastmodified":1449072238,
+    "wof:lastmodified":1466313041,
     "wof:name":"CRV Equipment Ltd",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "servicing"
     ]
 },
-  "bbox": [175.048523,-39.940762,175.048523,-39.940762],
-  "geometry": {"coordinates":[175.048523,-39.940762],"type":"Point"}
+  "bbox": [
+    175.048523,
+    -39.940762,
+    175.048523,
+    -39.940762
+],
+  "geometry": {"coordinates":[175.04852299999999,-39.940762],"type":"Point"}
 }

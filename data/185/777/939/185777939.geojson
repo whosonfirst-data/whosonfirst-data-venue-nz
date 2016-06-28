@@ -2,13 +2,14 @@
   "id": 185777939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.824677,-36.868824,174.824677,-36.868824",
     "geom:latitude":-36.868824,
     "geom:longitude":174.824677,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Tahapa Cre Meadowbank ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185777939,
-    "wof:lastmodified":1449007471,
+    "wof:lastmodified":1466311079,
     "wof:name":"Tahapa Crescent Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.824677,-36.868824,174.824677,-36.868824],
-  "geometry": {"coordinates":[174.824677,-36.868824],"type":"Point"}
+  "bbox": [
+    174.824677,
+    -36.868824,
+    174.824677,
+    -36.868824
+],
+  "geometry": {"coordinates":[174.82467700000001,-36.868824],"type":"Point"}
 }

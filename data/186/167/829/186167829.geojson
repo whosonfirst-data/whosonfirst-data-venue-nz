@@ -2,13 +2,14 @@
   "id": 186167829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.054352,-39.933254,175.054352,-39.933254",
     "geom:latitude":-39.933254,
     "geom:longitude":175.054352,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Ridgway St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186167829,
-    "wof:lastmodified":1449051766,
+    "wof:lastmodified":1466311140,
     "wof:name":"Ian B. Pearson - Structural Engineer",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.054352,-39.933254,175.054352,-39.933254],
-  "geometry": {"coordinates":[175.054352,-39.933254],"type":"Point"}
+  "bbox": [
+    175.054352,
+    -39.933254,
+    175.054352,
+    -39.933254
+],
+  "geometry": {"coordinates":[175.05435199999999,-39.933254],"type":"Point"}
 }

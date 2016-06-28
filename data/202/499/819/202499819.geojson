@@ -2,13 +2,14 @@
   "id": 202499819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.727234,40.244415,-74.727234,40.244415",
     "geom:latitude":40.244415,
     "geom:longitude":-74.727234,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Fifth Ave ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202499819,
-    "wof:lastmodified":1449060592,
+    "wof:lastmodified":1466310656,
     "wof:name":"Bryce Dr John & Dr Wendy",
     "wof:parent_id":85848949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.727234,40.244415,-74.727234,40.244415],
+  "bbox": [
+    -74.727234,
+    40.244415,
+    -74.727234,
+    40.244415
+],
   "geometry": {"coordinates":[-74.727234,40.244415],"type":"Point"}
 }

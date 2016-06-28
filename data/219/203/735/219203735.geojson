@@ -2,13 +2,14 @@
   "id": 219203735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.013275,-40.915844,175.013275,-40.915844",
     "geom:latitude":-40.915844,
     "geom:longitude":175.013275,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Ruahine St ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219203735,
-    "wof:lastmodified":1449071964,
+    "wof:lastmodified":1466311507,
     "wof:name":"Clive Taylor Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.013275,-40.915844,175.013275,-40.915844],
-  "geometry": {"coordinates":[175.013275,-40.915844],"type":"Point"}
+  "bbox": [
+    175.013275,
+    -40.915844,
+    175.013275,
+    -40.915844
+],
+  "geometry": {"coordinates":[175.01327499999999,-40.915844],"type":"Point"}
 }

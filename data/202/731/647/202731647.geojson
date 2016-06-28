@@ -2,13 +2,14 @@
   "id": 202731647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.604156,36.993141,-84.604156,36.993141",
     "geom:latitude":36.993141,
     "geom:longitude":-84.604156,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Appleby Cre ",
     "sg:city":"Burnside",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202731647,
-    "wof:lastmodified":1449062362,
+    "wof:lastmodified":1466312361,
     "wof:name":"Clearaway Bins",
     "wof:parent_id":85806809,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "home"
     ]
 },
-  "bbox": [-84.604156,36.993141,-84.604156,36.993141],
+  "bbox": [
+    -84.604156,
+    36.993141,
+    -84.604156,
+    36.993141
+],
   "geometry": {"coordinates":[-84.604156,36.993141],"type":"Point"}
 }

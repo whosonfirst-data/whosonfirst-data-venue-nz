@@ -2,13 +2,14 @@
   "id": 202465165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.904205,-41.209263,174.904205,-41.209263",
     "geom:latitude":-41.209263,
     "geom:longitude":174.904205,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Margaret St Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202465165,
-    "wof:lastmodified":1449061797,
+    "wof:lastmodified":1466311838,
     "wof:name":"Amcal Lower Hutt",
     "wof:parent_id":85781005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.904205,-41.209263,174.904205,-41.209263],
-  "geometry": {"coordinates":[174.904205,-41.209263],"type":"Point"}
+  "bbox": [
+    174.904205,
+    -41.209263,
+    174.904205,
+    -41.209263
+],
+  "geometry": {"coordinates":[174.90420499999999,-41.209263],"type":"Point"}
 }

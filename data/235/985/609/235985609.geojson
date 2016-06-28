@@ -2,13 +2,14 @@
   "id": 235985609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.047592,-39.930653,175.047592,-39.930653",
     "geom:latitude":-39.930653,
     "geom:longitude":175.047592,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"77 A Ingestre St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235985609,
-    "wof:lastmodified":1449008413,
+    "wof:lastmodified":1466311465,
     "wof:name":"Tastebuds Lunch Bar",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cafe"
     ]
 },
-  "bbox": [175.047592,-39.930653,175.047592,-39.930653],
-  "geometry": {"coordinates":[175.047592,-39.930653],"type":"Point"}
+  "bbox": [
+    175.047592,
+    -39.930653,
+    175.047592,
+    -39.930653
+],
+  "geometry": {"coordinates":[175.04759200000001,-39.930653],"type":"Point"}
 }

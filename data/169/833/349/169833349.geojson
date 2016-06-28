@@ -2,13 +2,14 @@
   "id": 169833349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.020508,-38.662605,178.020508,-38.662605",
     "geom:latitude":-38.662605,
     "geom:longitude":178.020508,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169833349,
-    "wof:lastmodified":1449033105,
+    "wof:lastmodified":1466311904,
     "wof:name":"Dive HQ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "sport"
     ]
 },
-  "bbox": [178.020508,-38.662605,178.020508,-38.662605],
-  "geometry": {"coordinates":[178.020508,-38.662605],"type":"Point"}
+  "bbox": [
+    178.020508,
+    -38.662605,
+    178.020508,
+    -38.662605
+],
+  "geometry": {"coordinates":[178.02050800000001,-38.662605],"type":"Point"}
 }

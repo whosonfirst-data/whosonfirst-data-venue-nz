@@ -2,13 +2,14 @@
   "id": 169536677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.766388,-36.847958,174.766388,-36.847958",
     "geom:latitude":-36.847958,
     "geom:longitude":174.766388,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6/35 High St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169536677,
-    "wof:lastmodified":1449034656,
+    "wof:lastmodified":1466310582,
     "wof:name":"Footprint Films Ltd",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "producer"
     ]
 },
-  "bbox": [174.766388,-36.847958,174.766388,-36.847958],
-  "geometry": {"coordinates":[174.766388,-36.847958],"type":"Point"}
+  "bbox": [
+    174.766388,
+    -36.847958,
+    174.766388,
+    -36.847958
+],
+  "geometry": {"coordinates":[174.76638800000001,-36.847958],"type":"Point"}
 }

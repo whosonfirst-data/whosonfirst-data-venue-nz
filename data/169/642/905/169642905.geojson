@@ -2,13 +2,14 @@
   "id": 169642905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.248779,-38.135731,176.248779,-38.135731",
     "geom:latitude":-38.135731,
     "geom:longitude":176.248779,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1181 Amohia St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169642905,
-    "wof:lastmodified":1449032877,
+    "wof:lastmodified":1466310573,
     "wof:name":"Briscoes Homeware",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.248779,-38.135731,176.248779,-38.135731],
-  "geometry": {"coordinates":[176.248779,-38.135731],"type":"Point"}
+  "bbox": [
+    176.248779,
+    -38.135731,
+    176.248779,
+    -38.135731
+],
+  "geometry": {"coordinates":[176.24877900000001,-38.135731],"type":"Point"}
 }

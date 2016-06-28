@@ -2,13 +2,14 @@
   "id": 202671101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.325958,-37.713196,176.325958,-37.713196",
     "geom:latitude":-37.713196,
     "geom:longitude":176.325958,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"116 a Simpson Rd ",
     "sg:city":"Papamoa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202671101,
-    "wof:lastmodified":1449060692,
+    "wof:lastmodified":1466312119,
     "wof:name":"Rosacker G A",
     "wof:parent_id":85778979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "related"
     ]
 },
-  "bbox": [176.325958,-37.713196,176.325958,-37.713196],
-  "geometry": {"coordinates":[176.325958,-37.713196],"type":"Point"}
+  "bbox": [
+    176.325958,
+    -37.713196,
+    176.325958,
+    -37.713196
+],
+  "geometry": {"coordinates":[176.32595800000001,-37.713196],"type":"Point"}
 }

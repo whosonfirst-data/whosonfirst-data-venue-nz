@@ -2,13 +2,14 @@
   "id": 219299277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.717247,39.45166,-74.717247,39.45166",
     "geom:latitude":39.45166,
     "geom:longitude":-74.717247,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Vaile Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219299277,
-    "wof:lastmodified":1449071290,
+    "wof:lastmodified":1466310929,
     "wof:name":"A & A Country Stay",
     "wof:parent_id":85823935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.717247,39.45166,-74.717247,39.45166],
+  "bbox": [
+    -74.717247,
+    39.45166,
+    -74.717247,
+    39.45166
+],
   "geometry": {"coordinates":[-74.717247,39.45166],"type":"Point"}
 }

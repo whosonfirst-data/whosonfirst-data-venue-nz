@@ -2,13 +2,14 @@
   "id": 219788975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.634918,-36.827538,174.634918,-36.827538",
     "geom:latitude":-36.827538,
     "geom:longitude":174.634918,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2 / 20 Allington Rd Massey ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219788975,
-    "wof:lastmodified":1449072201,
+    "wof:lastmodified":1466313064,
     "wof:name":"CarFix 2002 Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "mechanic"
     ]
 },
-  "bbox": [174.634918,-36.827538,174.634918,-36.827538],
+  "bbox": [
+    174.634918,
+    -36.827538,
+    174.634918,
+    -36.827538
+],
   "geometry": {"coordinates":[174.634918,-36.827538],"type":"Point"}
 }

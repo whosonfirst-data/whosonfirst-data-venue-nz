@@ -2,13 +2,14 @@
   "id": 219360781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.729309,-45.77631,170.729309,-45.77631",
     "geom:latitude":-45.77631,
     "geom:longitude":170.729309,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Taiaroa Head Otago Peninsula ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219360781,
-    "wof:lastmodified":1449073121,
+    "wof:lastmodified":1466311423,
     "wof:name":"Royal Albatross Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [170.729309,-45.77631,170.729309,-45.77631],
+  "bbox": [
+    170.729309,
+    -45.77631,
+    170.729309,
+    -45.77631
+],
   "geometry": {"coordinates":[170.729309,-45.77631],"type":"Point"}
 }

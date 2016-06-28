@@ -2,13 +2,14 @@
   "id": 202565109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.772827,28.060875,-82.772827,28.060875",
     "geom:latitude":28.060875,
     "geom:longitude":-82.772827,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 19 Marinoto Clinic 72 Newington Ave ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202565109,
-    "wof:lastmodified":1449062426,
+    "wof:lastmodified":1466311218,
     "wof:name":"Bentley Dr S C Musculoskeletal Physician",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beauty"
     ]
 },
-  "bbox": [-82.772827,28.060875,-82.772827,28.060875],
-  "geometry": {"coordinates":[-82.772827,28.060875],"type":"Point"}
+  "bbox": [
+    -82.772827,
+    28.060875,
+    -82.772827,
+    28.060875
+],
+  "geometry": {"coordinates":[-82.77282700000001,28.060875],"type":"Point"}
 }

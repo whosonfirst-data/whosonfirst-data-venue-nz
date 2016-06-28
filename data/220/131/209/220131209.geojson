@@ -2,13 +2,14 @@
   "id": 220131209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.639435,-40.335495,175.639435,-40.335495",
     "geom:latitude":-40.335495,
     "geom:longitude":175.639435,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Keith St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220131209,
-    "wof:lastmodified":1449074262,
+    "wof:lastmodified":1466310893,
     "wof:name":"Meal Innovations Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [175.639435,-40.335495,175.639435,-40.335495],
-  "geometry": {"coordinates":[175.639435,-40.335495],"type":"Point"}
+  "bbox": [
+    175.639435,
+    -40.335495,
+    175.639435,
+    -40.335495
+],
+  "geometry": {"coordinates":[175.63943499999999,-40.335495],"type":"Point"}
 }

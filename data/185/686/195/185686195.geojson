@@ -2,13 +2,14 @@
   "id": 185686195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.362869,-35.765949,174.362869,-35.765949",
     "geom:latitude":-35.765949,
     "geom:longitude":174.362869,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Onerahi ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185686195,
-    "wof:lastmodified":1449007835,
+    "wof:lastmodified":1466311933,
     "wof:name":"Northland D J Services",
     "wof:parent_id":85773083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.362869,-35.765949,174.362869,-35.765949],
-  "geometry": {"coordinates":[174.362869,-35.765949],"type":"Point"}
+  "bbox": [
+    174.362869,
+    -35.765949,
+    174.362869,
+    -35.765949
+],
+  "geometry": {"coordinates":[174.36286899999999,-35.765949],"type":"Point"}
 }

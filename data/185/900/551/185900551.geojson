@@ -2,13 +2,14 @@
   "id": 185900551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.689453,-36.747219,174.689453,-36.747219",
     "geom:latitude":-36.747219,
     "geom:longitude":174.689453,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Appleby Rd Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185900551,
-    "wof:lastmodified":1449007301,
+    "wof:lastmodified":1466311866,
     "wof:name":"North Shore Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.689453,-36.747219,174.689453,-36.747219],
-  "geometry": {"coordinates":[174.689453,-36.747219],"type":"Point"}
+  "bbox": [
+    174.689453,
+    -36.747219,
+    174.689453,
+    -36.747219
+],
+  "geometry": {"coordinates":[174.68945299999999,-36.747219],"type":"Point"}
 }

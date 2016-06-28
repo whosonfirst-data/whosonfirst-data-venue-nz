@@ -2,13 +2,14 @@
   "id": 202503659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.048996,-39.929867,175.048996,-39.929867",
     "geom:latitude":-39.929867,
     "geom:longitude":175.048996,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Wicksteed St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202503659,
-    "wof:lastmodified":1449062652,
+    "wof:lastmodified":1466310693,
     "wof:name":"Nolan Chiropractic Clinic",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.048996,-39.929867,175.048996,-39.929867],
-  "geometry": {"coordinates":[175.048996,-39.929867],"type":"Point"}
+  "bbox": [
+    175.048996,
+    -39.929867,
+    175.048996,
+    -39.929867
+],
+  "geometry": {"coordinates":[175.04899599999999,-39.929867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186325221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.284805,-39.585762,174.284805,-39.585762",
     "geom:latitude":-39.585762,
     "geom:longitude":174.284805,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Cambria St ",
     "sg:city":"Hawera",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186325221,
-    "wof:lastmodified":1449051413,
+    "wof:lastmodified":1466312175,
     "wof:name":"Reesby Contracting Limited",
     "wof:parent_id":85781023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.284805,-39.585762,174.284805,-39.585762],
-  "geometry": {"coordinates":[174.284805,-39.585762],"type":"Point"}
+  "bbox": [
+    174.284805,
+    -39.585762,
+    174.284805,
+    -39.585762
+],
+  "geometry": {"coordinates":[174.28480500000001,-39.585762],"type":"Point"}
 }

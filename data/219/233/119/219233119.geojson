@@ -2,13 +2,14 @@
   "id": 219233119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.530457,-37.660732,175.530457,-37.660732",
     "geom:latitude":-37.660732,
     "geom:longitude":175.530457,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Studholme St ",
     "sg:city":"Morrinsville",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219233119,
-    "wof:lastmodified":1449073986,
+    "wof:lastmodified":1466311802,
     "wof:name":"Books & More: New Zealand Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.530457,-37.660732,175.530457,-37.660732],
-  "geometry": {"coordinates":[175.530457,-37.660732],"type":"Point"}
+  "bbox": [
+    175.530457,
+    -37.660732,
+    175.530457,
+    -37.660732
+],
+  "geometry": {"coordinates":[175.53045700000001,-37.660732],"type":"Point"}
 }

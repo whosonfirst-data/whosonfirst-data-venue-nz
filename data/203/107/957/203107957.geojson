@@ -2,13 +2,14 @@
   "id": 203107957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.024567,-39.918613,175.024567,-39.918613",
     "geom:latitude":-39.918613,
     "geom:longitude":175.024567,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Downes Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203107957,
-    "wof:lastmodified":1449024948,
+    "wof:lastmodified":1466311991,
     "wof:name":"Heritage Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [175.024567,-39.918613,175.024567,-39.918613],
-  "geometry": {"coordinates":[175.024567,-39.918613],"type":"Point"}
+  "bbox": [
+    175.024567,
+    -39.918613,
+    175.024567,
+    -39.918613
+],
+  "geometry": {"coordinates":[175.02456699999999,-39.918613],"type":"Point"}
 }

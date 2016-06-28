@@ -2,13 +2,14 @@
   "id": 202477265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.84227,-36.942928,174.84227,-36.942928",
     "geom:latitude":-36.942928,
     "geom:longitude":174.84227,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Gt South Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202477265,
-    "wof:lastmodified":1449060534,
+    "wof:lastmodified":1466311957,
     "wof:name":"Deas Pharmacy",
     "wof:parent_id":85778867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.84227,-36.942928,174.84227,-36.942928],
-  "geometry": {"coordinates":[174.84227,-36.942928],"type":"Point"}
+  "bbox": [
+    174.84227,
+    -36.942928,
+    174.84227,
+    -36.942928
+],
+  "geometry": {"coordinates":[174.84227000000001,-36.942928],"type":"Point"}
 }

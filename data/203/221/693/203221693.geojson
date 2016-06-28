@@ -2,13 +2,14 @@
   "id": 203221693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.284119,-41.272888,173.284119,-41.272888",
     "geom:latitude":-41.272888,
     "geom:longitude":173.284119,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"191 Trafalgar St ",
     "sg:city":"Nelson",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203221693,
-    "wof:lastmodified":1449025745,
+    "wof:lastmodified":1466311563,
     "wof:name":"Jay Jays",
     "wof:parent_id":85782467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.284119,-41.272888,173.284119,-41.272888],
+  "bbox": [
+    173.284119,
+    -41.272888,
+    173.284119,
+    -41.272888
+],
   "geometry": {"coordinates":[173.284119,-41.272888],"type":"Point"}
 }

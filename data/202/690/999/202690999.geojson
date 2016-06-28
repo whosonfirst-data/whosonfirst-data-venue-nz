@@ -2,13 +2,14 @@
   "id": 202690999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.740097,-41.286201,174.740097,-41.286201",
     "geom:latitude":-41.286201,
     "geom:longitude":174.740097,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Campbell St Karori ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202690999,
-    "wof:lastmodified":1449061451,
+    "wof:lastmodified":1466312210,
     "wof:name":"Karori Kids Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "children"
     ]
 },
-  "bbox": [174.740097,-41.286201,174.740097,-41.286201],
-  "geometry": {"coordinates":[174.740097,-41.286201],"type":"Point"}
+  "bbox": [
+    174.740097,
+    -41.286201,
+    174.740097,
+    -41.286201
+],
+  "geometry": {"coordinates":[174.74009699999999,-41.286201],"type":"Point"}
 }

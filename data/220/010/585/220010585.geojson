@@ -2,13 +2,14 @@
   "id": 220010585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.844925,-36.950378,174.844925,-36.950378",
     "geom:latitude":-36.950378,
     "geom:longitude":174.844925,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"593 Great South Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220010585,
-    "wof:lastmodified":1449074539,
+    "wof:lastmodified":1466310884,
     "wof:name":"MoneyShop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "personal"
     ]
 },
-  "bbox": [174.844925,-36.950378,174.844925,-36.950378],
-  "geometry": {"coordinates":[174.844925,-36.950378],"type":"Point"}
+  "bbox": [
+    174.844925,
+    -36.950378,
+    174.844925,
+    -36.950378
+],
+  "geometry": {"coordinates":[174.84492499999999,-36.950378],"type":"Point"}
 }

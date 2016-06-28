@@ -2,13 +2,14 @@
   "id": 219585259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.351395,-46.37838,168.351395,-46.37838",
     "geom:latitude":-46.37838,
     "geom:longitude":168.351395,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Bay & North Rds Waikiwi ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219585259,
-    "wof:lastmodified":1449072735,
+    "wof:lastmodified":1466312552,
     "wof:name":"Riverside Rentals",
     "wof:parent_id":85778907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.351395,-46.37838,168.351395,-46.37838],
+  "bbox": [
+    168.351395,
+    -46.37838,
+    168.351395,
+    -46.37838
+],
   "geometry": {"coordinates":[168.351395,-46.37838],"type":"Point"}
 }

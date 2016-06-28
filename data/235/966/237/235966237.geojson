@@ -2,13 +2,14 @@
   "id": 235966237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.24762,-38.135052,176.24762,-38.135052",
     "geom:latitude":-38.135052,
     "geom:longitude":176.24762,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1286 Arawa St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235966237,
-    "wof:lastmodified":1449008276,
+    "wof:lastmodified":1466311125,
     "wof:name":"Lava Bar The",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brasserie"
     ]
 },
-  "bbox": [176.24762,-38.135052,176.24762,-38.135052],
-  "geometry": {"coordinates":[176.24762,-38.135052],"type":"Point"}
+  "bbox": [
+    176.24762,
+    -38.135052,
+    176.24762,
+    -38.135052
+],
+  "geometry": {"coordinates":[176.24762000000001,-38.135052],"type":"Point"}
 }

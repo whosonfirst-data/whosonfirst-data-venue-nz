@@ -2,13 +2,14 @@
   "id": 202655899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.070908,-37.676365,176.070908,-37.676365",
     "geom:latitude":-37.676365,
     "geom:longitude":176.070908,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Paparoa Rd Te ",
     "sg:city":"Puna",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202655899,
-    "wof:lastmodified":1449061562,
+    "wof:lastmodified":1466311974,
     "wof:name":"O'Neill Plasterers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "plasterer"
     ]
 },
-  "bbox": [176.070908,-37.676365,176.070908,-37.676365],
+  "bbox": [
+    176.070908,
+    -37.676365,
+    176.070908,
+    -37.676365
+],
   "geometry": {"coordinates":[176.070908,-37.676365],"type":"Point"}
 }

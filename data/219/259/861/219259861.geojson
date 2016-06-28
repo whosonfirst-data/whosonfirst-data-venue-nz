@@ -2,13 +2,14 @@
   "id": 219259861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.51265,-45.856598,170.51265,-45.856598",
     "geom:latitude":-45.856598,
     "geom:longitude":170.51265,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Duke St Dunedin North ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":219259861,
-    "wof:lastmodified":1449071199,
+    "wof:lastmodified":1466310626,
     "wof:name":"Skyline Leisure Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "booking"
     ]
 },
-  "bbox": [170.51265,-45.856598,170.51265,-45.856598],
-  "geometry": {"coordinates":[170.51265,-45.856598],"type":"Point"}
+  "bbox": [
+    170.51265,
+    -45.856598,
+    170.51265,
+    -45.856598
+],
+  "geometry": {"coordinates":[170.51265000000001,-45.856598],"type":"Point"}
 }

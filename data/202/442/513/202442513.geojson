@@ -2,13 +2,14 @@
   "id": 202442513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.620865,-40.350292,175.620865,-40.350292",
     "geom:latitude":-40.350292,
     "geom:longitude":175.620865,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"251 Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202442513,
-    "wof:lastmodified":1449061235,
+    "wof:lastmodified":1466311701,
     "wof:name":"Eyes on Broadway Optometrists",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.620865,-40.350292,175.620865,-40.350292],
-  "geometry": {"coordinates":[175.620865,-40.350292],"type":"Point"}
+  "bbox": [
+    175.620865,
+    -40.350292,
+    175.620865,
+    -40.350292
+],
+  "geometry": {"coordinates":[175.62086500000001,-40.350292],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202807625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.632202,-43.544334,172.632202,-43.544334",
     "geom:latitude":-43.544334,
     "geom:longitude":172.632202,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Orbell St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202807625,
-    "wof:lastmodified":1449060767,
+    "wof:lastmodified":1466312554,
     "wof:name":"Abbey Furniture",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [172.632202,-43.544334,172.632202,-43.544334],
-  "geometry": {"coordinates":[172.632202,-43.544334],"type":"Point"}
+  "bbox": [
+    172.632202,
+    -43.544334,
+    172.632202,
+    -43.544334
+],
+  "geometry": {"coordinates":[172.63220200000001,-43.544334],"type":"Point"}
 }

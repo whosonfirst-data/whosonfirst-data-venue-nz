@@ -2,13 +2,14 @@
   "id": 202767681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.643433,-40.361542,175.643433,-40.361542",
     "geom:latitude":-40.361542,
     "geom:longitude":175.643433,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"565-567 Ruahine St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202767681,
-    "wof:lastmodified":1449060850,
+    "wof:lastmodified":1466312445,
     "wof:name":"Arthur Nicol Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fittings"
     ]
 },
-  "bbox": [175.643433,-40.361542,175.643433,-40.361542],
-  "geometry": {"coordinates":[175.643433,-40.361542],"type":"Point"}
+  "bbox": [
+    175.643433,
+    -40.361542,
+    175.643433,
+    -40.361542
+],
+  "geometry": {"coordinates":[175.64343299999999,-40.361542],"type":"Point"}
 }

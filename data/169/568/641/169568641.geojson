@@ -2,13 +2,14 @@
   "id": 169568641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.025772,-38.666096,178.025772,-38.666096",
     "geom:latitude":-38.666096,
     "geom:longitude":178.025772,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169568641,
-    "wof:lastmodified":1449032611,
+    "wof:lastmodified":1466311101,
     "wof:name":"Trade Aid Tairawhiti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supplier"
     ]
 },
-  "bbox": [178.025772,-38.666096,178.025772,-38.666096],
-  "geometry": {"coordinates":[178.025772,-38.666096],"type":"Point"}
+  "bbox": [
+    178.025772,
+    -38.666096,
+    178.025772,
+    -38.666096
+],
+  "geometry": {"coordinates":[178.02577199999999,-38.666096],"type":"Point"}
 }

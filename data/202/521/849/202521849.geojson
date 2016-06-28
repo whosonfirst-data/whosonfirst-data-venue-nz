@@ -2,13 +2,14 @@
   "id": 202521849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.628143,-36.854801,174.628143,-36.854801",
     "geom:latitude":-36.854801,
     "geom:longitude":174.628143,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 104098 Lincoln North ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202521849,
-    "wof:lastmodified":1449062517,
+    "wof:lastmodified":1466310843,
     "wof:name":"WestKids",
     "wof:parent_id":85782431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialists"
     ]
 },
-  "bbox": [174.628143,-36.854801,174.628143,-36.854801],
-  "geometry": {"coordinates":[174.628143,-36.854801],"type":"Point"}
+  "bbox": [
+    174.628143,
+    -36.854801,
+    174.628143,
+    -36.854801
+],
+  "geometry": {"coordinates":[174.62814299999999,-36.854801],"type":"Point"}
 }

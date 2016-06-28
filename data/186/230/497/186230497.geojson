@@ -2,13 +2,14 @@
   "id": 186230497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.008118,-39.947357,175.008118,-39.947357",
     "geom:latitude":-39.947357,
     "geom:longitude":175.008118,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"400 Heads Rd ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186230497,
-    "wof:lastmodified":1449052343,
+    "wof:lastmodified":1466311680,
     "wof:name":"Emmetts Crane Services",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "lifting"
     ]
 },
-  "bbox": [175.008118,-39.947357,175.008118,-39.947357],
+  "bbox": [
+    175.008118,
+    -39.947357,
+    175.008118,
+    -39.947357
+],
   "geometry": {"coordinates":[175.008118,-39.947357],"type":"Point"}
 }

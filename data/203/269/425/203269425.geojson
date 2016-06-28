@@ -2,13 +2,14 @@
   "id": 203269425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.904037,-41.208881,174.904037,-41.208881",
     "geom:latitude":-41.208881,
     "geom:longitude":174.904037,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"216 High St Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203269425,
-    "wof:lastmodified":1449026147,
+    "wof:lastmodified":1466311994,
     "wof:name":"Peter & James Menswear",
     "wof:parent_id":85781005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.904037,-41.208881,174.904037,-41.208881],
-  "geometry": {"coordinates":[174.904037,-41.208881],"type":"Point"}
+  "bbox": [
+    174.904037,
+    -41.208881,
+    174.904037,
+    -41.208881
+],
+  "geometry": {"coordinates":[174.90403699999999,-41.208881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220039669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.749207,-36.859924,174.749207,-36.859924",
     "geom:latitude":-36.859924,
     "geom:longitude":174.749207,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Crummer Rd Grey Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220039669,
-    "wof:lastmodified":1449074772,
+    "wof:lastmodified":1466311448,
     "wof:name":"Reso-Tech Foods",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [174.749207,-36.859924,174.749207,-36.859924],
-  "geometry": {"coordinates":[174.749207,-36.859924],"type":"Point"}
+  "bbox": [
+    174.749207,
+    -36.859924,
+    174.749207,
+    -36.859924
+],
+  "geometry": {"coordinates":[174.74920700000001,-36.859924],"type":"Point"}
 }

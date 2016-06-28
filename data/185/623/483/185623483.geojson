@@ -2,13 +2,14 @@
   "id": 185623483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.774246,-36.872288,174.774246,-36.872288",
     "geom:latitude":-36.872288,
     "geom:longitude":174.774246,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Gillies Ave Epsom ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185623483,
-    "wof:lastmodified":1449007728,
+    "wof:lastmodified":1466311065,
     "wof:name":"Highwic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gallery"
     ]
 },
-  "bbox": [174.774246,-36.872288,174.774246,-36.872288],
-  "geometry": {"coordinates":[174.774246,-36.872288],"type":"Point"}
+  "bbox": [
+    174.774246,
+    -36.872288,
+    174.774246,
+    -36.872288
+],
+  "geometry": {"coordinates":[174.77424600000001,-36.872288],"type":"Point"}
 }

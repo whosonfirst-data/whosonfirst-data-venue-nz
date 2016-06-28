@@ -2,13 +2,14 @@
   "id": 219568061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.869995,-38.216385,175.869995,-38.216385",
     "geom:latitude":-38.216385,
     "geom:longitude":175.869995,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Mannering Street ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219568061,
-    "wof:lastmodified":1449070301,
+    "wof:lastmodified":1466312396,
     "wof:name":"Ace Car Groomers",
     "wof:parent_id":85782509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.869995,-38.216385,175.869995,-38.216385],
-  "geometry": {"coordinates":[175.869995,-38.216385],"type":"Point"}
+  "bbox": [
+    175.869995,
+    -38.216385,
+    175.869995,
+    -38.216385
+],
+  "geometry": {"coordinates":[175.86999499999999,-38.216385],"type":"Point"}
 }

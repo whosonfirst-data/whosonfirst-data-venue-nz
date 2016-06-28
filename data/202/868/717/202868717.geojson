@@ -2,13 +2,14 @@
   "id": 202868717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.49234,-40.140392,175.49234,-40.140392",
     "geom:latitude":-40.140392,
     "geom:longitude":175.49234,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Rd ",
     "sg:city":"Halcombe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202868717,
-    "wof:lastmodified":1449060210,
+    "wof:lastmodified":1466312724,
     "wof:name":"Honey Suckle Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [175.49234,-40.140392,175.49234,-40.140392],
-  "geometry": {"coordinates":[175.49234,-40.140392],"type":"Point"}
+  "bbox": [
+    175.49234,
+    -40.140392,
+    175.49234,
+    -40.140392
+],
+  "geometry": {"coordinates":[175.49234000000001,-40.140392],"type":"Point"}
 }

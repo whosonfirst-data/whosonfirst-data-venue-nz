@@ -2,13 +2,14 @@
   "id": 203339861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.60257,-40.362907,175.60257,-40.362907",
     "geom:latitude":-40.362907,
     "geom:longitude":175.60257,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Joseph St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203339861,
-    "wof:lastmodified":1449025761,
+    "wof:lastmodified":1466312467,
     "wof:name":"Lana Spinning Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.60257,-40.362907,175.60257,-40.362907],
-  "geometry": {"coordinates":[175.60257,-40.362907],"type":"Point"}
+  "bbox": [
+    175.60257,
+    -40.362907,
+    175.60257,
+    -40.362907
+],
+  "geometry": {"coordinates":[175.60256999999999,-40.362907],"type":"Point"}
 }

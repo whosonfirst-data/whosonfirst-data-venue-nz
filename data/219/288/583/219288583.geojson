@@ -2,13 +2,14 @@
   "id": 219288583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.980042,-40.930641,174.980042,-40.930641",
     "geom:latitude":-40.930641,
     "geom:longitude":174.980042,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Emerald Glen Rd Raumati South ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219288583,
-    "wof:lastmodified":1449070762,
+    "wof:lastmodified":1466310846,
     "wof:name":"Emerald Glen Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.980042,-40.930641,174.980042,-40.930641],
+  "bbox": [
+    174.980042,
+    -40.930641,
+    174.980042,
+    -40.930641
+],
   "geometry": {"coordinates":[174.980042,-40.930641],"type":"Point"}
 }

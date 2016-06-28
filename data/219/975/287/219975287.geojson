@@ -2,13 +2,14 @@
   "id": 219975287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.450043,-36.678505,174.450043,-36.678505",
     "geom:latitude":-36.678505,
     "geom:longitude":174.450043,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway ",
     "sg:city":"16",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219975287,
-    "wof:lastmodified":1449073424,
+    "wof:lastmodified":1466313174,
     "wof:name":"Wrightson AgriCentre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "supply"
     ]
 },
-  "bbox": [174.450043,-36.678505,174.450043,-36.678505],
-  "geometry": {"coordinates":[174.450043,-36.678505],"type":"Point"}
+  "bbox": [
+    174.450043,
+    -36.678505,
+    174.450043,
+    -36.678505
+],
+  "geometry": {"coordinates":[174.45004299999999,-36.678505],"type":"Point"}
 }

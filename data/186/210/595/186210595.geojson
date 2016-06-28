@@ -2,13 +2,14 @@
   "id": 186210595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.323715,-35.726612,174.323715,-35.726612",
     "geom:latitude":-35.726612,
     "geom:longitude":174.323715,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Hannah St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186210595,
-    "wof:lastmodified":1449051301,
+    "wof:lastmodified":1466311495,
     "wof:name":"Snow Bros Rewinds",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.323715,-35.726612,174.323715,-35.726612],
-  "geometry": {"coordinates":[174.323715,-35.726612],"type":"Point"}
+  "bbox": [
+    174.323715,
+    -35.726612,
+    174.323715,
+    -35.726612
+],
+  "geometry": {"coordinates":[174.32371499999999,-35.726612],"type":"Point"}
 }

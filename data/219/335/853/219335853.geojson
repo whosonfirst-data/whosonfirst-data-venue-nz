@@ -2,13 +2,14 @@
   "id": 219335853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.284042,-39.337749,174.284042,-39.337749",
     "geom:latitude":-39.337749,
     "geom:longitude":174.284042,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6018 Ohura Rd Whangamomona ",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219335853,
-    "wof:lastmodified":1449072712,
+    "wof:lastmodified":1466311226,
     "wof:name":"Whangamomona Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.284042,-39.337749,174.284042,-39.337749],
+  "bbox": [
+    174.284042,
+    -39.337749,
+    174.284042,
+    -39.337749
+],
   "geometry": {"coordinates":[174.284042,-39.337749],"type":"Point"}
 }

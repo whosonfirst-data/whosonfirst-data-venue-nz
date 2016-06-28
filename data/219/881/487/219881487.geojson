@@ -2,13 +2,14 @@
   "id": 219881487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.592392,-40.347183,175.592392,-40.347183",
     "geom:latitude":-40.347183,
     "geom:longitude":175.592392,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Tiki Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219881487,
-    "wof:lastmodified":1449072426,
+    "wof:lastmodified":1466313154,
     "wof:name":"Wenham Grain & Seed",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.592392,-40.347183,175.592392,-40.347183],
-  "geometry": {"coordinates":[175.592392,-40.347183],"type":"Point"}
+  "bbox": [
+    175.592392,
+    -40.347183,
+    175.592392,
+    -40.347183
+],
+  "geometry": {"coordinates":[175.59239199999999,-40.347183],"type":"Point"}
 }

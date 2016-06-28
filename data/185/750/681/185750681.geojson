@@ -2,13 +2,14 @@
   "id": 185750681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.772903,-36.786198,174.772903,-36.786198",
     "geom:latitude":-36.786198,
     "geom:longitude":174.772903,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Hurtsmere Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185750681,
-    "wof:lastmodified":1449007592,
+    "wof:lastmodified":1466310901,
     "wof:name":"Uni-Specs Sunglasses",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.772903,-36.786198,174.772903,-36.786198],
-  "geometry": {"coordinates":[174.772903,-36.786198],"type":"Point"}
+  "bbox": [
+    174.772903,
+    -36.786198,
+    174.772903,
+    -36.786198
+],
+  "geometry": {"coordinates":[174.77290300000001,-36.786198],"type":"Point"}
 }

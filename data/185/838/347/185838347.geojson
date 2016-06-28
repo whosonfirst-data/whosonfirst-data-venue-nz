@@ -2,13 +2,14 @@
   "id": 185838347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.051956,-39.93811,175.051956,-39.93811",
     "geom:latitude":-39.93811,
     "geom:longitude":175.051956,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Taupo Qy ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185838347,
-    "wof:lastmodified":1449006795,
+    "wof:lastmodified":1466311481,
     "wof:name":"Comtel Systems Ltd",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.051956,-39.93811,175.051956,-39.93811],
-  "geometry": {"coordinates":[175.051956,-39.93811],"type":"Point"}
+  "bbox": [
+    175.051956,
+    -39.93811,
+    175.051956,
+    -39.93811
+],
+  "geometry": {"coordinates":[175.05195599999999,-39.93811],"type":"Point"}
 }

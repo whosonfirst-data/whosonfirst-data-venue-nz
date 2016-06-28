@@ -2,13 +2,14 @@
   "id": 219422951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.962662,-37.029064,174.962662,-37.029064",
     "geom:latitude":-37.029064,
     "geom:longitude":174.962662,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Airfield Rd Ardmore Airfield ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219422951,
-    "wof:lastmodified":1449070633,
+    "wof:lastmodified":1466312071,
     "wof:name":"Helitech Ltd",
     "wof:parent_id":85780821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tourism"
     ]
 },
-  "bbox": [174.962662,-37.029064,174.962662,-37.029064],
-  "geometry": {"coordinates":[174.962662,-37.029064],"type":"Point"}
+  "bbox": [
+    174.962662,
+    -37.029064,
+    174.962662,
+    -37.029064
+],
+  "geometry": {"coordinates":[174.96266199999999,-37.029064],"type":"Point"}
 }

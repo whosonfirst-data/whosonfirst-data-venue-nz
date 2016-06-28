@@ -2,13 +2,14 @@
   "id": 219723521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.513626,-45.893139,170.513626,-45.893139",
     "geom:latitude":-45.893139,
     "geom:longitude":170.513626,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Teviot St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219723521,
-    "wof:lastmodified":1449072450,
+    "wof:lastmodified":1466312857,
     "wof:name":"Cooke Howlison Isuzu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automotive"
     ]
 },
-  "bbox": [170.513626,-45.893139,170.513626,-45.893139],
-  "geometry": {"coordinates":[170.513626,-45.893139],"type":"Point"}
+  "bbox": [
+    170.513626,
+    -45.893139,
+    170.513626,
+    -45.893139
+],
+  "geometry": {"coordinates":[170.51362599999999,-45.893139],"type":"Point"}
 }

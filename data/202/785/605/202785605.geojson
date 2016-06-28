@@ -2,13 +2,14 @@
   "id": 202785605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.979782,-45.089333,170.979782,-45.089333",
     "geom:latitude":-45.089333,
     "geom:longitude":170.979782,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Ouse St ",
     "sg:city":"Oamaru",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202785605,
-    "wof:lastmodified":1449062228,
+    "wof:lastmodified":1466312502,
     "wof:name":"Hilmac Joinery Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "kitchen"
     ]
 },
-  "bbox": [170.979782,-45.089333,170.979782,-45.089333],
+  "bbox": [
+    170.979782,
+    -45.089333,
+    170.979782,
+    -45.089333
+],
   "geometry": {"coordinates":[170.979782,-45.089333],"type":"Point"}
 }

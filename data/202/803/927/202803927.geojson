@@ -2,13 +2,14 @@
   "id": 202803927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.92955,-37.051121,174.92955,-37.051121",
     "geom:latitude":-37.051121,
     "geom:longitude":174.92955,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Gt South Rd Takanini ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202803927,
-    "wof:lastmodified":1449062686,
+    "wof:lastmodified":1466312451,
     "wof:name":"Takanini Heating & Power Equipment",
     "wof:parent_id":85781393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.92955,-37.051121,174.92955,-37.051121],
-  "geometry": {"coordinates":[174.92955,-37.051121],"type":"Point"}
+  "bbox": [
+    174.92955,
+    -37.051121,
+    174.92955,
+    -37.051121
+],
+  "geometry": {"coordinates":[174.92955000000001,-37.051121],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220055235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.782242,-36.858284,174.782242,-36.858284",
     "geom:latitude":-36.858284,
     "geom:longitude":174.782242,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"375 Parnell Rd Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220055235,
-    "wof:lastmodified":1449074215,
+    "wof:lastmodified":1466311673,
     "wof:name":"Mt Aspiring Water Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [174.782242,-36.858284,174.782242,-36.858284],
+  "bbox": [
+    174.782242,
+    -36.858284,
+    174.782242,
+    -36.858284
+],
   "geometry": {"coordinates":[174.782242,-36.858284],"type":"Point"}
 }

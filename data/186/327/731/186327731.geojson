@@ -2,13 +2,14 @@
   "id": 186327731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.435966,31.2896,-92.435966,31.2896",
     "geom:latitude":31.2896,
     "geom:longitude":-92.435966,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Dunstan Rd R D 1 ",
     "sg:city":"Alexandra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186327731,
-    "wof:lastmodified":1449050450,
+    "wof:lastmodified":1466312297,
     "wof:name":"Alexandra Stone",
     "wof:parent_id":85802677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "material"
     ]
 },
-  "bbox": [-92.435966,31.2896,-92.435966,31.2896],
-  "geometry": {"coordinates":[-92.435966,31.2896],"type":"Point"}
+  "bbox": [
+    -92.435966,
+    31.2896,
+    -92.435966,
+    31.2896
+],
+  "geometry": {"coordinates":[-92.43596599999999,31.2896],"type":"Point"}
 }

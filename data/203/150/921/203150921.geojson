@@ -2,13 +2,14 @@
   "id": 203150921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.01152,-41.157475,175.01152,-41.157475",
     "geom:latitude":-41.157475,
     "geom:longitude":175.01152,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Wyndham Rd ",
     "sg:city":"Pinehaven",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203150921,
-    "wof:lastmodified":1449024966,
+    "wof:lastmodified":1466310915,
     "wof:name":"Katz Pet Door Installation Service",
     "wof:parent_id":85773187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pets"
     ]
 },
-  "bbox": [175.01152,-41.157475,175.01152,-41.157475],
-  "geometry": {"coordinates":[175.01152,-41.157475],"type":"Point"}
+  "bbox": [
+    175.01152,
+    -41.157475,
+    175.01152,
+    -41.157475
+],
+  "geometry": {"coordinates":[175.01151999999999,-41.157475],"type":"Point"}
 }

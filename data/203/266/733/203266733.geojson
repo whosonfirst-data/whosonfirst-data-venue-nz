@@ -2,13 +2,14 @@
   "id": 203266733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.801788,-41.222324,174.801788,-41.222324",
     "geom:latitude":-41.222324,
     "geom:longitude":174.801788,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Johnsonville Shopping Centre Johnsonville ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203266733,
-    "wof:lastmodified":1449025012,
+    "wof:lastmodified":1466311989,
     "wof:name":"Hugh Wright",
     "wof:parent_id":85772981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.801788,-41.222324,174.801788,-41.222324],
-  "geometry": {"coordinates":[174.801788,-41.222324],"type":"Point"}
+  "bbox": [
+    174.801788,
+    -41.222324,
+    174.801788,
+    -41.222324
+],
+  "geometry": {"coordinates":[174.80178799999999,-41.222324],"type":"Point"}
 }

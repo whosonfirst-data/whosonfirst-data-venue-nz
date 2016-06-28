@@ -2,13 +2,14 @@
   "id": 169571459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.323471,-38.009251,175.323471,-38.009251",
     "geom:latitude":-38.009251,
     "geom:longitude":175.323471,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Alexandra St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169571459,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466311152,
     "wof:name":"Health 2000 Natural Health Stores",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "health"
     ]
 },
-  "bbox": [175.323471,-38.009251,175.323471,-38.009251],
-  "geometry": {"coordinates":[175.323471,-38.009251],"type":"Point"}
+  "bbox": [
+    175.323471,
+    -38.009251,
+    175.323471,
+    -38.009251
+],
+  "geometry": {"coordinates":[175.32347100000001,-38.009251],"type":"Point"}
 }

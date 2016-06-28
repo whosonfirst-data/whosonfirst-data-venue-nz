@@ -2,13 +2,14 @@
   "id": 202819201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.1651,-37.689747,176.1651,-37.689747",
     "geom:latitude":-37.689747,
     "geom:longitude":176.1651,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Cameron Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202819201,
-    "wof:lastmodified":1449060713,
+    "wof:lastmodified":1466312503,
     "wof:name":"Drapemakers",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.1651,-37.689747,176.1651,-37.689747],
+  "bbox": [
+    176.1651,
+    -37.689747,
+    176.1651,
+    -37.689747
+],
   "geometry": {"coordinates":[176.1651,-37.689747],"type":"Point"}
 }

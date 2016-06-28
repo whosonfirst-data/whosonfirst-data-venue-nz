@@ -2,13 +2,14 @@
   "id": 186167705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.348145,-46.410629,168.348145,-46.410629",
     "geom:latitude":-46.410629,
     "geom:longitude":168.348145,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Don St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186167705,
-    "wof:lastmodified":1449051766,
+    "wof:lastmodified":1466311139,
     "wof:name":"Heaslip & Partners Ltd",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.348145,-46.410629,168.348145,-46.410629],
-  "geometry": {"coordinates":[168.348145,-46.410629],"type":"Point"}
+  "bbox": [
+    168.348145,
+    -46.410629,
+    168.348145,
+    -46.410629
+],
+  "geometry": {"coordinates":[168.34814499999999,-46.410629],"type":"Point"}
 }

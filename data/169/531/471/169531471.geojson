@@ -2,13 +2,14 @@
   "id": 169531471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.943924,-37.065418,174.943924,-37.065418",
     "geom:latitude":-37.065418,
     "geom:longitude":174.943924,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Papakura",
     "sg:city":"Papakura",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169531471,
-    "wof:lastmodified":1449033473,
+    "wof:lastmodified":1466311977,
     "wof:name":"National Australia Bank",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.943924,-37.065418,174.943924,-37.065418],
-  "geometry": {"coordinates":[174.943924,-37.065418],"type":"Point"}
+  "bbox": [
+    174.943924,
+    -37.065418,
+    174.943924,
+    -37.065418
+],
+  "geometry": {"coordinates":[174.94392400000001,-37.065418],"type":"Point"}
 }

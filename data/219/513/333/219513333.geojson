@@ -2,13 +2,14 @@
   "id": 219513333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.980652,-40.923618,174.980652,-40.923618",
     "geom:latitude":-40.923618,
     "geom:longitude":174.980652,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Margaret Rd Raumati Beach ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219513333,
-    "wof:lastmodified":1449072723,
+    "wof:lastmodified":1466312339,
     "wof:name":"Kapiti College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "college"
     ]
 },
-  "bbox": [174.980652,-40.923618,174.980652,-40.923618],
-  "geometry": {"coordinates":[174.980652,-40.923618],"type":"Point"}
+  "bbox": [
+    174.980652,
+    -40.923618,
+    174.980652,
+    -40.923618
+],
+  "geometry": {"coordinates":[174.98065199999999,-40.923618],"type":"Point"}
 }

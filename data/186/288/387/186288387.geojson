@@ -2,13 +2,14 @@
   "id": 186288387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.893951,-36.935673,174.893951,-36.935673",
     "geom:latitude":-36.935673,
     "geom:longitude":174.893951,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Neales Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186288387,
-    "wof:lastmodified":1449050529,
+    "wof:lastmodified":1466312037,
     "wof:name":"HSM Engineering Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.893951,-36.935673,174.893951,-36.935673],
-  "geometry": {"coordinates":[174.893951,-36.935673],"type":"Point"}
+  "bbox": [
+    174.893951,
+    -36.935673,
+    174.893951,
+    -36.935673
+],
+  "geometry": {"coordinates":[174.89395099999999,-36.935673],"type":"Point"}
 }

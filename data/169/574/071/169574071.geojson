@@ -2,13 +2,14 @@
   "id": 169574071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.758179,-36.856991,174.758179,-36.856991",
     "geom:latitude":-36.856991,
     "geom:longitude":174.758179,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Beresford St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169574071,
-    "wof:lastmodified":1449032663,
+    "wof:lastmodified":1466311265,
     "wof:name":"Absolute Essential Ltd",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.758179,-36.856991,174.758179,-36.856991],
-  "geometry": {"coordinates":[174.758179,-36.856991],"type":"Point"}
+  "bbox": [
+    174.758179,
+    -36.856991,
+    174.758179,
+    -36.856991
+],
+  "geometry": {"coordinates":[174.75817900000001,-36.856991],"type":"Point"}
 }

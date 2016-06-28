@@ -2,13 +2,14 @@
   "id": 202917359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.46138,-41.219292,175.46138,-41.219292",
     "geom:latitude":-41.219292,
     "geom:longitude":175.46138,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Cork St ",
     "sg:city":"Martinborough",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202917359,
-    "wof:lastmodified":1449062318,
+    "wof:lastmodified":1466312829,
     "wof:name":"Martinborough Country Garden Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gardening"
     ]
 },
-  "bbox": [175.46138,-41.219292,175.46138,-41.219292],
-  "geometry": {"coordinates":[175.46138,-41.219292],"type":"Point"}
+  "bbox": [
+    175.46138,
+    -41.219292,
+    175.46138,
+    -41.219292
+],
+  "geometry": {"coordinates":[175.46137999999999,-41.219292],"type":"Point"}
 }

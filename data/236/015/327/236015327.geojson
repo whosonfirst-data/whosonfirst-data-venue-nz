@@ -2,13 +2,14 @@
   "id": 236015327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.700989,-43.511295,172.700989,-43.511295",
     "geom:latitude":-43.511295,
     "geom:longitude":172.700989,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Hampshire St Aranui ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236015327,
-    "wof:lastmodified":1449002242,
+    "wof:lastmodified":1466310897,
     "wof:name":"Hampshire Takeaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "takeaway"
     ]
 },
-  "bbox": [172.700989,-43.511295,172.700989,-43.511295],
-  "geometry": {"coordinates":[172.700989,-43.511295],"type":"Point"}
+  "bbox": [
+    172.700989,
+    -43.511295,
+    172.700989,
+    -43.511295
+],
+  "geometry": {"coordinates":[172.70098899999999,-43.511295],"type":"Point"}
 }

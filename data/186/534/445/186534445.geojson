@@ -2,13 +2,14 @@
   "id": 186534445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.791916,-36.89296,174.791916,-36.89296",
     "geom:latitude":-36.89296,
     "geom:longitude":174.791916,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 17 155, Greenlane, 1130, Local ",
     "sg:city":"Agent",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186534445,
-    "wof:lastmodified":1449051086,
+    "wof:lastmodified":1466312756,
     "wof:name":"Cuts & Thingz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.791916,-36.89296,174.791916,-36.89296],
-  "geometry": {"coordinates":[174.791916,-36.89296],"type":"Point"}
+  "bbox": [
+    174.791916,
+    -36.89296,
+    174.791916,
+    -36.89296
+],
+  "geometry": {"coordinates":[174.79191599999999,-36.89296],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220125829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.456345,-41.21529,175.456345,-41.21529",
     "geom:latitude":-41.21529,
     "geom:longitude":175.456345,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Kitchener St ",
     "sg:city":"Martinborough",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":220125829,
-    "wof:lastmodified":1449074846,
+    "wof:lastmodified":1466310839,
     "wof:name":"Taste Of Martinborough Wine & Cheese Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "-"
     ]
 },
-  "bbox": [175.456345,-41.21529,175.456345,-41.21529],
+  "bbox": [
+    175.456345,
+    -41.21529,
+    175.456345,
+    -41.21529
+],
   "geometry": {"coordinates":[175.456345,-41.21529],"type":"Point"}
 }

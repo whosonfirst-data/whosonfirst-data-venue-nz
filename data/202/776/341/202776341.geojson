@@ -2,13 +2,14 @@
   "id": 202776341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.971542,-45.099937,170.971542,-45.099937",
     "geom:latitude":-45.099937,
     "geom:longitude":170.971542,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 B Humber St ",
     "sg:city":"Oamaru",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202776341,
-    "wof:lastmodified":1449060680,
+    "wof:lastmodified":1466312476,
     "wof:name":"Dominator Garage Door Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [170.971542,-45.099937,170.971542,-45.099937],
+  "bbox": [
+    170.971542,
+    -45.099937,
+    170.971542,
+    -45.099937
+],
   "geometry": {"coordinates":[170.971542,-45.099937],"type":"Point"}
 }

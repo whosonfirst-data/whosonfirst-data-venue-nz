@@ -2,13 +2,14 @@
   "id": 202737299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.043839,-39.941696,175.043839,-39.941696",
     "geom:latitude":-39.941696,
     "geom:longitude":175.043839,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Liffiton St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202737299,
-    "wof:lastmodified":1449060684,
+    "wof:lastmodified":1466312275,
     "wof:name":"Waste Management NZ Ltd",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "home"
     ]
 },
-  "bbox": [175.043839,-39.941696,175.043839,-39.941696],
-  "geometry": {"coordinates":[175.043839,-39.941696],"type":"Point"}
+  "bbox": [
+    175.043839,
+    -39.941696,
+    175.043839,
+    -39.941696
+],
+  "geometry": {"coordinates":[175.04383899999999,-39.941696],"type":"Point"}
 }

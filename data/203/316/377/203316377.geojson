@@ -2,13 +2,14 @@
   "id": 203316377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.530823,-43.551533,172.530823,-43.551533",
     "geom:latitude":-43.551533,
     "geom:longitude":172.530823,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Witham St Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203316377,
-    "wof:lastmodified":1449026264,
+    "wof:lastmodified":1466312181,
     "wof:name":"Barkers Wool & Haberdashery",
     "wof:parent_id":85772967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [172.530823,-43.551533,172.530823,-43.551533],
+  "bbox": [
+    172.530823,
+    -43.551533,
+    172.530823,
+    -43.551533
+],
   "geometry": {"coordinates":[172.530823,-43.551533],"type":"Point"}
 }

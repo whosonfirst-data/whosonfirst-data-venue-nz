@@ -2,13 +2,14 @@
   "id": 186368015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.586243,-43.461521,172.586243,-43.461521",
     "geom:latitude":-43.461521,
     "geom:longitude":172.586243,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"467 Johns Rd Harewood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186368015,
-    "wof:lastmodified":1449051018,
+    "wof:lastmodified":1466312308,
     "wof:name":"Fred Edwards Engineering Ltd",
     "wof:parent_id":85772947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.586243,-43.461521,172.586243,-43.461521],
+  "bbox": [
+    172.586243,
+    -43.461521,
+    172.586243,
+    -43.461521
+],
   "geometry": {"coordinates":[172.586243,-43.461521],"type":"Point"}
 }

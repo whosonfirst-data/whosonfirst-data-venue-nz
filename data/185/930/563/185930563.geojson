@@ -2,13 +2,14 @@
   "id": 185930563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.717621,-36.742306,174.717621,-36.742306",
     "geom:latitude":-36.742306,
     "geom:longitude":174.717621,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit/9 Tait Pl Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185930563,
-    "wof:lastmodified":1449007115,
+    "wof:lastmodified":1466312039,
     "wof:name":"Lee Gar Fitness Centre",
     "wof:parent_id":85781107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sports"
     ]
 },
-  "bbox": [174.717621,-36.742306,174.717621,-36.742306],
-  "geometry": {"coordinates":[174.717621,-36.742306],"type":"Point"}
+  "bbox": [
+    174.717621,
+    -36.742306,
+    174.717621,
+    -36.742306
+],
+  "geometry": {"coordinates":[174.71762100000001,-36.742306],"type":"Point"}
 }

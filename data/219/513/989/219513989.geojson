@@ -2,13 +2,14 @@
   "id": 219513989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.739578,-36.78587,174.739578,-36.78587",
     "geom:latitude":-36.78587,
     "geom:longitude":174.739578,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Archers & Sunnybrae Rd ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219513989,
-    "wof:lastmodified":1449072721,
+    "wof:lastmodified":1466312237,
     "wof:name":"NZ Tertiary College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "college"
     ]
 },
-  "bbox": [174.739578,-36.78587,174.739578,-36.78587],
-  "geometry": {"coordinates":[174.739578,-36.78587],"type":"Point"}
+  "bbox": [
+    174.739578,
+    -36.78587,
+    174.739578,
+    -36.78587
+],
+  "geometry": {"coordinates":[174.73957799999999,-36.78587],"type":"Point"}
 }

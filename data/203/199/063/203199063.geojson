@@ -2,13 +2,14 @@
   "id": 203199063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.441345,-35.983387,174.441345,-35.983387",
     "geom:latitude":-35.983387,
     "geom:longitude":174.441345,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 The Centre ",
     "sg:city":"Waipu",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203199063,
-    "wof:lastmodified":1449025128,
+    "wof:lastmodified":1466311363,
     "wof:name":"Coastal Casuals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.441345,-35.983387,174.441345,-35.983387],
-  "geometry": {"coordinates":[174.441345,-35.983387],"type":"Point"}
+  "bbox": [
+    174.441345,
+    -35.983387,
+    174.441345,
+    -35.983387
+],
+  "geometry": {"coordinates":[174.44134500000001,-35.983387],"type":"Point"}
 }

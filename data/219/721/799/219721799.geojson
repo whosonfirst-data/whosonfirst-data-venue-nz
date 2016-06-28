@@ -2,13 +2,14 @@
   "id": 219721799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.828049,-36.921101,174.828049,-36.921101",
     "geom:latitude":-36.921101,
     "geom:longitude":174.828049,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"725 Great South Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219721799,
-    "wof:lastmodified":1449073906,
+    "wof:lastmodified":1466312754,
     "wof:name":"Bus Co",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [174.828049,-36.921101,174.828049,-36.921101],
-  "geometry": {"coordinates":[174.828049,-36.921101],"type":"Point"}
+  "bbox": [
+    174.828049,
+    -36.921101,
+    174.828049,
+    -36.921101
+],
+  "geometry": {"coordinates":[174.82804899999999,-36.921101],"type":"Point"}
 }

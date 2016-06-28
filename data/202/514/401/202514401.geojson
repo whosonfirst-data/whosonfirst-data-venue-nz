@@ -2,13 +2,14 @@
   "id": 202514401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.072845,-41.12167,175.072845,-41.12167",
     "geom:latitude":-41.12167,
     "geom:longitude":175.072845,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Sinclair St Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202514401,
-    "wof:lastmodified":1449061397,
+    "wof:lastmodified":1466310779,
     "wof:name":"Valley Diagnostic Laboratories Ltd",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialists"
     ]
 },
-  "bbox": [175.072845,-41.12167,175.072845,-41.12167],
+  "bbox": [
+    175.072845,
+    -41.12167,
+    175.072845,
+    -41.12167
+],
   "geometry": {"coordinates":[175.072845,-41.12167],"type":"Point"}
 }

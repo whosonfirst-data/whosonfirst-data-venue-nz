@@ -2,13 +2,14 @@
   "id": 169644949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.348236,-45.87529,170.348236,-45.87529",
     "geom:latitude":-45.87529,
     "geom:longitude":170.348236,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Gordon Rd Mosgiel ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169644949,
-    "wof:lastmodified":1449034576,
+    "wof:lastmodified":1466310588,
     "wof:name":"Cheynes Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.348236,-45.87529,170.348236,-45.87529],
-  "geometry": {"coordinates":[170.348236,-45.87529],"type":"Point"}
+  "bbox": [
+    170.348236,
+    -45.87529,
+    170.348236,
+    -45.87529
+],
+  "geometry": {"coordinates":[170.34823600000001,-45.87529],"type":"Point"}
 }

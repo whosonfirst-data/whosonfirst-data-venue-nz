@@ -2,13 +2,14 @@
   "id": 203169463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.797653,-36.830326,174.797653,-36.830326",
     "geom:latitude":-36.830326,
     "geom:longitude":174.797653,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Victoria Rd Devonport ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203169463,
-    "wof:lastmodified":1449026110,
+    "wof:lastmodified":1466311070,
     "wof:name":"The Glass House",
     "wof:parent_id":85778259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fittings"
     ]
 },
-  "bbox": [174.797653,-36.830326,174.797653,-36.830326],
+  "bbox": [
+    174.797653,
+    -36.830326,
+    174.797653,
+    -36.830326
+],
   "geometry": {"coordinates":[174.797653,-36.830326],"type":"Point"}
 }

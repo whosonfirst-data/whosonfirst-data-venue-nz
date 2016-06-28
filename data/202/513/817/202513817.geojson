@@ -2,13 +2,14 @@
   "id": 202513817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.152084,-37.66967,175.152084,-37.66967",
     "geom:latitude":-37.66967,
     "geom:longitude":175.152084,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Galileo St ",
     "sg:city":"Ngaruawahia",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202513817,
-    "wof:lastmodified":1449061765,
+    "wof:lastmodified":1466310774,
     "wof:name":"Medical Laboratory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "specialists"
     ]
 },
-  "bbox": [175.152084,-37.66967,175.152084,-37.66967],
+  "bbox": [
+    175.152084,
+    -37.66967,
+    175.152084,
+    -37.66967
+],
   "geometry": {"coordinates":[175.152084,-37.66967],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186608369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.699554,-36.744118,174.699554,-36.744118",
     "geom:latitude":-36.744118,
     "geom:longitude":174.699554,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 E Douglas Alexander Pde Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186608369,
-    "wof:lastmodified":1449051521,
+    "wof:lastmodified":1466313036,
     "wof:name":"Albany Fitness Centre",
     "wof:parent_id":85772825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fitness"
     ]
 },
-  "bbox": [174.699554,-36.744118,174.699554,-36.744118],
-  "geometry": {"coordinates":[174.699554,-36.744118],"type":"Point"}
+  "bbox": [
+    174.699554,
+    -36.744118,
+    174.699554,
+    -36.744118
+],
+  "geometry": {"coordinates":[174.69955400000001,-36.744118],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202452431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.529663,-43.538647,172.529663,-43.538647",
     "geom:latitude":-43.538647,
     "geom:longitude":172.529663,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Waterloo Rd Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202452431,
-    "wof:lastmodified":1449060702,
+    "wof:lastmodified":1466311767,
     "wof:name":"Eyebiz NZ Limited",
     "wof:parent_id":85772967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [172.529663,-43.538647,172.529663,-43.538647],
+  "bbox": [
+    172.529663,
+    -43.538647,
+    172.529663,
+    -43.538647
+],
   "geometry": {"coordinates":[172.529663,-43.538647],"type":"Point"}
 }

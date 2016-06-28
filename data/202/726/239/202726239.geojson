@@ -2,13 +2,14 @@
   "id": 202726239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.61055,-40.357193,175.61055,-40.357193",
     "geom:latitude":-40.357193,
     "geom:longitude":175.61055,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"The Square Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202726239,
-    "wof:lastmodified":1449061824,
+    "wof:lastmodified":1466312231,
     "wof:name":"HealthCare NZ",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garden"
     ]
 },
-  "bbox": [175.61055,-40.357193,175.61055,-40.357193],
-  "geometry": {"coordinates":[175.61055,-40.357193],"type":"Point"}
+  "bbox": [
+    175.61055,
+    -40.357193,
+    175.61055,
+    -40.357193
+],
+  "geometry": {"coordinates":[175.61054999999999,-40.357193],"type":"Point"}
 }

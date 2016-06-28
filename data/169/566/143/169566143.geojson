@@ -2,13 +2,14 @@
   "id": 169566143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.880112,-39.672813,176.880112,-39.672813",
     "geom:latitude":-39.672813,
     "geom:longitude":176.880112,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Joll Rd Havelock North ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169566143,
-    "wof:lastmodified":1449032754,
+    "wof:lastmodified":1466311052,
     "wof:name":"Cadeaux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supplier"
     ]
 },
-  "bbox": [176.880112,-39.672813,176.880112,-39.672813],
+  "bbox": [
+    176.880112,
+    -39.672813,
+    176.880112,
+    -39.672813
+],
   "geometry": {"coordinates":[176.880112,-39.672813],"type":"Point"}
 }

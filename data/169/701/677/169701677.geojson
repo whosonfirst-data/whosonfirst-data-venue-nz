@@ -2,13 +2,14 @@
   "id": 169701677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.724823,-36.880287,174.724823,-36.880287",
     "geom:latitude":-36.880287,
     "geom:longitude":174.724823,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"779 New North Rd Mt Albert ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169701677,
-    "wof:lastmodified":1449035272,
+    "wof:lastmodified":1466310911,
     "wof:name":"Coolways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.724823,-36.880287,174.724823,-36.880287],
-  "geometry": {"coordinates":[174.724823,-36.880287],"type":"Point"}
+  "bbox": [
+    174.724823,
+    -36.880287,
+    174.724823,
+    -36.880287
+],
+  "geometry": {"coordinates":[174.72482299999999,-36.880287],"type":"Point"}
 }

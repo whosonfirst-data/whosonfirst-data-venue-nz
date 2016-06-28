@@ -2,13 +2,14 @@
   "id": 235971029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-80.315308,43.361401,-80.315308,43.361401",
     "geom:latitude":43.361401,
     "geom:longitude":-80.315308,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Middle of Kent Tce & Cambridge Tce ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":235971029,
-    "wof:lastmodified":1449008429,
+    "wof:lastmodified":1466312030,
     "wof:name":"Traffick",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "brasserie"
     ]
 },
-  "bbox": [-80.315308,43.361401,-80.315308,43.361401],
+  "bbox": [
+    -80.315308,
+    43.361401,
+    -80.315308,
+    43.361401
+],
   "geometry": {"coordinates":[-80.315308,43.361401],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220188479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.809998,-36.897976,174.809998,-36.897976",
     "geom:latitude":-36.897976,
     "geom:longitude":174.809998,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"128 D Main Hwy Ellerslie ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220188479,
-    "wof:lastmodified":1449074435,
+    "wof:lastmodified":1466311374,
     "wof:name":"Ellerslie Meat Centre",
     "wof:parent_id":85782385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.809998,-36.897976,174.809998,-36.897976],
-  "geometry": {"coordinates":[174.809998,-36.897976],"type":"Point"}
+  "bbox": [
+    174.809998,
+    -36.897976,
+    174.809998,
+    -36.897976
+],
+  "geometry": {"coordinates":[174.80999800000001,-36.897976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203200487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.071838,-41.124157,175.071838,-41.124157",
     "geom:latitude":-41.124157,
     "geom:longitude":175.071838,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Main St Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203200487,
-    "wof:lastmodified":1449025676,
+    "wof:lastmodified":1466311379,
     "wof:name":"Kidstop",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.071838,-41.124157,175.071838,-41.124157],
-  "geometry": {"coordinates":[175.071838,-41.124157],"type":"Point"}
+  "bbox": [
+    175.071838,
+    -41.124157,
+    175.071838,
+    -41.124157
+],
+  "geometry": {"coordinates":[175.07183800000001,-41.124157],"type":"Point"}
 }

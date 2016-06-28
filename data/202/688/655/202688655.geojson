@@ -2,13 +2,14 @@
   "id": 202688655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.576004,-40.215729,175.576004,-40.215729",
     "geom:latitude":-40.215729,
     "geom:longitude":175.576004,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"132 North St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202688655,
-    "wof:lastmodified":1449061061,
+    "wof:lastmodified":1466312075,
     "wof:name":"Gail's Child Care Centre",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "children"
     ]
 },
-  "bbox": [175.576004,-40.215729,175.576004,-40.215729],
-  "geometry": {"coordinates":[175.576004,-40.215729],"type":"Point"}
+  "bbox": [
+    175.576004,
+    -40.215729,
+    175.576004,
+    -40.215729
+],
+  "geometry": {"coordinates":[175.57600400000001,-40.215729],"type":"Point"}
 }

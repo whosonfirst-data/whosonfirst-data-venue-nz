@@ -2,13 +2,14 @@
   "id": 202889937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.355026,-46.408394,168.355026,-46.408394",
     "geom:latitude":-46.408394,
     "geom:longitude":168.355026,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Yarrow St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202889937,
-    "wof:lastmodified":1449060062,
+    "wof:lastmodified":1466312776,
     "wof:name":"Mower World Invercargill",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.355026,-46.408394,168.355026,-46.408394],
-  "geometry": {"coordinates":[168.355026,-46.408394],"type":"Point"}
+  "bbox": [
+    168.355026,
+    -46.408394,
+    168.355026,
+    -46.408394
+],
+  "geometry": {"coordinates":[168.35502600000001,-46.408394],"type":"Point"}
 }

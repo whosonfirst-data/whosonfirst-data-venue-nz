@@ -2,13 +2,14 @@
   "id": 185919119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.290192,-37.823231,175.290192,-37.823231",
     "geom:latitude":-37.823231,
     "geom:longitude":175.290192,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"356 Ohaupo Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185919119,
-    "wof:lastmodified":1449007834,
+    "wof:lastmodified":1466311987,
     "wof:name":"Judith Ward School of Dance",
     "wof:parent_id":85781011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sport"
     ]
 },
-  "bbox": [175.290192,-37.823231,175.290192,-37.823231],
-  "geometry": {"coordinates":[175.290192,-37.823231],"type":"Point"}
+  "bbox": [
+    175.290192,
+    -37.823231,
+    175.290192,
+    -37.823231
+],
+  "geometry": {"coordinates":[175.29019199999999,-37.823231],"type":"Point"}
 }

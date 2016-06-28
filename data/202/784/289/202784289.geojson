@@ -2,13 +2,14 @@
   "id": 202784289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.280746,-40.631699,175.280746,-40.631699",
     "geom:latitude":-40.631699,
     "geom:longitude":175.280746,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Prouse St ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202784289,
-    "wof:lastmodified":1449061783,
+    "wof:lastmodified":1466312592,
     "wof:name":"Graham Ellis Laminates",
     "wof:parent_id":85782865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kitchen"
     ]
 },
-  "bbox": [175.280746,-40.631699,175.280746,-40.631699],
-  "geometry": {"coordinates":[175.280746,-40.631699],"type":"Point"}
+  "bbox": [
+    175.280746,
+    -40.631699,
+    175.280746,
+    -40.631699
+],
+  "geometry": {"coordinates":[175.28074599999999,-40.631699],"type":"Point"}
 }

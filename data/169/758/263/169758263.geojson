@@ -2,13 +2,14 @@
   "id": 169758263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.740875,-41.283745,174.740875,-41.283745",
     "geom:latitude":-41.283745,
     "geom:longitude":174.740875,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Karori Mall, Karori Rd Karori ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169758263,
-    "wof:lastmodified":1449033686,
+    "wof:lastmodified":1466311327,
     "wof:name":"ToyZone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.740875,-41.283745,174.740875,-41.283745],
-  "geometry": {"coordinates":[174.740875,-41.283745],"type":"Point"}
+  "bbox": [
+    174.740875,
+    -41.283745,
+    174.740875,
+    -41.283745
+],
+  "geometry": {"coordinates":[174.74087499999999,-41.283745],"type":"Point"}
 }

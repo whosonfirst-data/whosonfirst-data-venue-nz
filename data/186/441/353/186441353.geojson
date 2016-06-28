@@ -2,13 +2,14 @@
   "id": 186441353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.622757,-43.542091,172.622757,-43.542091",
     "geom:latitude":-43.542091,
     "geom:longitude":172.622757,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Disraeli St Addington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186441353,
-    "wof:lastmodified":1449050451,
+    "wof:lastmodified":1466312512,
     "wof:name":"Hawkins Refrigeration Ltd",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [172.622757,-43.542091,172.622757,-43.542091],
-  "geometry": {"coordinates":[172.622757,-43.542091],"type":"Point"}
+  "bbox": [
+    172.622757,
+    -43.542091,
+    172.622757,
+    -43.542091
+],
+  "geometry": {"coordinates":[172.62275700000001,-43.542091],"type":"Point"}
 }

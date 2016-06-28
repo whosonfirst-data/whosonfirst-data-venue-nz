@@ -2,13 +2,14 @@
   "id": 186141909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.665115,-36.401459,174.665115,-36.401459",
     "geom:latitude":-36.401459,
     "geom:longitude":174.665115,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Guy Rd Kaipara Flats ",
     "sg:city":"Warkworth",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186141909,
-    "wof:lastmodified":1449051333,
+    "wof:lastmodified":1466310912,
     "wof:name":"Axis Precision CNC Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.665115,-36.401459,174.665115,-36.401459],
-  "geometry": {"coordinates":[174.665115,-36.401459],"type":"Point"}
+  "bbox": [
+    174.665115,
+    -36.401459,
+    174.665115,
+    -36.401459
+],
+  "geometry": {"coordinates":[174.66511499999999,-36.401459],"type":"Point"}
 }

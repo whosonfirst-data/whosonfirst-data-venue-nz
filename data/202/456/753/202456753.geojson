@@ -2,13 +2,14 @@
   "id": 202456753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.890564,-41.232014,174.890564,-41.232014",
     "geom:latitude":-41.232014,
     "geom:longitude":174.890564,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Waione St Petone ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202456753,
-    "wof:lastmodified":1449060868,
+    "wof:lastmodified":1466311807,
     "wof:name":"Safe & Secure Ltd",
     "wof:parent_id":85782489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.890564,-41.232014,174.890564,-41.232014],
-  "geometry": {"coordinates":[174.890564,-41.232014],"type":"Point"}
+  "bbox": [
+    174.890564,
+    -41.232014,
+    174.890564,
+    -41.232014
+],
+  "geometry": {"coordinates":[174.89056400000001,-41.232014],"type":"Point"}
 }

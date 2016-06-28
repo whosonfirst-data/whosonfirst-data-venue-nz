@@ -2,13 +2,14 @@
   "id": 169573195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.767151,-41.28054,174.767151,-41.28054",
     "geom:latitude":-41.28054,
     "geom:longitude":174.767151,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Lambton Square 180 Lambton Quay ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169573195,
-    "wof:lastmodified":1449035115,
+    "wof:lastmodified":1466311232,
     "wof:name":"Vita Health",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "health"
     ]
 },
-  "bbox": [174.767151,-41.28054,174.767151,-41.28054],
-  "geometry": {"coordinates":[174.767151,-41.28054],"type":"Point"}
+  "bbox": [
+    174.767151,
+    -41.28054,
+    174.767151,
+    -41.28054
+],
+  "geometry": {"coordinates":[174.76715100000001,-41.28054],"type":"Point"}
 }

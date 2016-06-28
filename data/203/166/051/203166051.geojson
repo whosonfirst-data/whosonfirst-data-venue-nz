@@ -2,13 +2,14 @@
   "id": 203166051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.568451,-37.184353,175.568451,-37.184353",
     "geom:latitude":-37.184353,
     "geom:longitude":175.568451,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14b Kopu Rd ",
     "sg:city":"Thames",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203166051,
-    "wof:lastmodified":1449026011,
+    "wof:lastmodified":1466311042,
     "wof:name":"Thames Glass & Screens Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "fitting"
     ]
 },
-  "bbox": [175.568451,-37.184353,175.568451,-37.184353],
-  "geometry": {"coordinates":[175.568451,-37.184353],"type":"Point"}
+  "bbox": [
+    175.568451,
+    -37.184353,
+    175.568451,
+    -37.184353
+],
+  "geometry": {"coordinates":[175.56845100000001,-37.184353],"type":"Point"}
 }

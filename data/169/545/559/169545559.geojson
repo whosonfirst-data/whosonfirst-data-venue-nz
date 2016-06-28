@@ -2,13 +2,14 @@
   "id": 169545559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.880264,-39.502712,176.880264,-39.502712",
     "geom:latitude":-39.502712,
     "geom:longitude":176.880264,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Wakefield St Onekawa ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169545559,
-    "wof:lastmodified":1449033486,
+    "wof:lastmodified":1466310744,
     "wof:name":"Hawkes Bay Embroidery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.880264,-39.502712,176.880264,-39.502712],
-  "geometry": {"coordinates":[176.880264,-39.502712],"type":"Point"}
+  "bbox": [
+    176.880264,
+    -39.502712,
+    176.880264,
+    -39.502712
+],
+  "geometry": {"coordinates":[176.88026400000001,-39.502712],"type":"Point"}
 }

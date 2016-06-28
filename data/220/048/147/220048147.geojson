@@ -2,13 +2,14 @@
   "id": 220048147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.390335,-38.996754,174.390335,-38.996754",
     "geom:latitude":-38.996754,
     "geom:longitude":174.390335,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main North Rd R D 44 ",
     "sg:city":"Urenui",
     "sg:classifiers":[
@@ -45,16 +46,22 @@
         }
     ],
     "wof:id":220048147,
-    "wof:lastmodified":1449074300,
+    "wof:lastmodified":1466311579,
     "wof:name":"White Cliffs Brewing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brewer"
     ]
 },
-  "bbox": [174.390335,-38.996754,174.390335,-38.996754],
-  "geometry": {"coordinates":[174.390335,-38.996754],"type":"Point"}
+  "bbox": [
+    174.390335,
+    -38.996754,
+    174.390335,
+    -38.996754
+],
+  "geometry": {"coordinates":[174.39033499999999,-38.996754],"type":"Point"}
 }

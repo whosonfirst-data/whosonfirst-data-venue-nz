@@ -2,13 +2,14 @@
   "id": 202927591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.25795,-37.788326,175.25795,-37.788326",
     "geom:latitude":-37.788326,
     "geom:longitude":175.25795,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 West St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202927591,
-    "wof:lastmodified":1449062379,
+    "wof:lastmodified":1466312736,
     "wof:name":"The Sculptured Garden Ltd",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.25795,-37.788326,175.25795,-37.788326],
-  "geometry": {"coordinates":[175.25795,-37.788326],"type":"Point"}
+  "bbox": [
+    175.25795,
+    -37.788326,
+    175.25795,
+    -37.788326
+],
+  "geometry": {"coordinates":[175.25794999999999,-37.788326],"type":"Point"}
 }

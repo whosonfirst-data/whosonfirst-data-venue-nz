@@ -2,13 +2,14 @@
   "id": 203211575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.724182,-36.811916,174.724182,-36.811916",
     "geom:latitude":-36.811916,
     "geom:longitude":174.724182,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Mokoia Rd Birkenhead ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203211575,
-    "wof:lastmodified":1449025382,
+    "wof:lastmodified":1466311474,
     "wof:name":"Just Devine",
     "wof:parent_id":85778355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabric"
     ]
 },
-  "bbox": [174.724182,-36.811916,174.724182,-36.811916],
-  "geometry": {"coordinates":[174.724182,-36.811916],"type":"Point"}
+  "bbox": [
+    174.724182,
+    -36.811916,
+    174.724182,
+    -36.811916
+],
+  "geometry": {"coordinates":[174.72418200000001,-36.811916],"type":"Point"}
 }

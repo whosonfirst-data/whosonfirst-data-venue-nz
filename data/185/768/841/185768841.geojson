@@ -2,13 +2,14 @@
   "id": 185768841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.555847,-39.994335,176.555847,-39.994335",
     "geom:latitude":-39.994335,
     "geom:longitude":176.555847,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Russell St ",
     "sg:city":"Waipukurau",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":185768841,
-    "wof:lastmodified":1449007230,
+    "wof:lastmodified":1466311016,
     "wof:name":"Waipukurau Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.555847,-39.994335,176.555847,-39.994335],
+  "bbox": [
+    176.555847,
+    -39.994335,
+    176.555847,
+    -39.994335
+],
   "geometry": {"coordinates":[176.555847,-39.994335],"type":"Point"}
 }

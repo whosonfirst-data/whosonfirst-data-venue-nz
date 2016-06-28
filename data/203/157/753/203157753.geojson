@@ -2,13 +2,14 @@
   "id": 203157753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.238312,-37.751026,175.238312,-37.751026",
     "geom:latitude":-37.751026,
     "geom:longitude":175.238312,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"787 Te Rapa Rd Te ",
     "sg:city":"Rapa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203157753,
-    "wof:lastmodified":1449026588,
+    "wof:lastmodified":1466310966,
     "wof:name":"Pet City Limited",
     "wof:parent_id":85773235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pets"
     ]
 },
-  "bbox": [175.238312,-37.751026,175.238312,-37.751026],
-  "geometry": {"coordinates":[175.238312,-37.751026],"type":"Point"}
+  "bbox": [
+    175.238312,
+    -37.751026,
+    175.238312,
+    -37.751026
+],
+  "geometry": {"coordinates":[175.23831200000001,-37.751026],"type":"Point"}
 }

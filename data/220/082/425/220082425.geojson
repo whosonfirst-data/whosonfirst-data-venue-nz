@@ -2,13 +2,14 @@
   "id": 220082425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.838959,-41.148403,174.838959,-41.148403",
     "geom:latitude":-41.148403,
     "geom:longitude":174.838959,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Kenepuru Dve Porirua ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220082425,
-    "wof:lastmodified":1449074080,
+    "wof:lastmodified":1466311884,
     "wof:name":"Bakery Services Ltd",
     "wof:parent_id":85773013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "machinery"
     ]
 },
-  "bbox": [174.838959,-41.148403,174.838959,-41.148403],
-  "geometry": {"coordinates":[174.838959,-41.148403],"type":"Point"}
+  "bbox": [
+    174.838959,
+    -41.148403,
+    174.838959,
+    -41.148403
+],
+  "geometry": {"coordinates":[174.83895899999999,-41.148403],"type":"Point"}
 }

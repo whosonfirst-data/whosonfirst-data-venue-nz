@@ -2,13 +2,14 @@
   "id": 203405109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.71376,-43.607868,172.71376,-43.607868",
     "geom:latitude":-43.607868,
     "geom:longitude":172.71376,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Cyrus Williams Qy ",
     "sg:city":"Lyttelton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203405109,
-    "wof:lastmodified":1449026697,
+    "wof:lastmodified":1466312659,
     "wof:name":"Stark Bros Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.71376,-43.607868,172.71376,-43.607868],
-  "geometry": {"coordinates":[172.71376,-43.607868],"type":"Point"}
+  "bbox": [
+    172.71376,
+    -43.607868,
+    172.71376,
+    -43.607868
+],
+  "geometry": {"coordinates":[172.71376000000001,-43.607868],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202411821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.511703,-41.040367,175.511703,-41.040367",
     "geom:latitude":-41.040367,
     "geom:longitude":175.511703,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"171 High St South ",
     "sg:city":"Carterton",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":202411821,
-    "wof:lastmodified":1449060215,
+    "wof:lastmodified":1466311368,
     "wof:name":"Plunket Nurses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.511703,-41.040367,175.511703,-41.040367],
-  "geometry": {"coordinates":[175.511703,-41.040367],"type":"Point"}
+  "bbox": [
+    175.511703,
+    -41.040367,
+    175.511703,
+    -41.040367
+],
+  "geometry": {"coordinates":[175.51170300000001,-41.040367],"type":"Point"}
 }

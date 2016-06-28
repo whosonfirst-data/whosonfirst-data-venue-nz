@@ -2,13 +2,14 @@
   "id": 219883751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.610947,-43.52903,172.610947,-43.52903",
     "geom:latitude":-43.52903,
     "geom:longitude":172.610947,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Riccarton Rd ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219883751,
-    "wof:lastmodified":1449073097,
+    "wof:lastmodified":1466313021,
     "wof:name":"Joyflora",
     "wof:parent_id":85778569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.610947,-43.52903,172.610947,-43.52903],
-  "geometry": {"coordinates":[172.610947,-43.52903],"type":"Point"}
+  "bbox": [
+    172.610947,
+    -43.52903,
+    172.610947,
+    -43.52903
+],
+  "geometry": {"coordinates":[172.61094700000001,-43.52903],"type":"Point"}
 }

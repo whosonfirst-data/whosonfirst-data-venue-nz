@@ -2,13 +2,14 @@
   "id": 203097695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.376556,-46.407795,168.376556,-46.407795",
     "geom:latitude":-46.407795,
     "geom:longitude":168.376556,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Margaret St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203097695,
-    "wof:lastmodified":1449025657,
+    "wof:lastmodified":1466311972,
     "wof:name":"SOLUTIONS N L P",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "counselling"
     ]
 },
-  "bbox": [168.376556,-46.407795,168.376556,-46.407795],
-  "geometry": {"coordinates":[168.376556,-46.407795],"type":"Point"}
+  "bbox": [
+    168.376556,
+    -46.407795,
+    168.376556,
+    -46.407795
+],
+  "geometry": {"coordinates":[168.37655599999999,-46.407795],"type":"Point"}
 }

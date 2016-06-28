@@ -2,13 +2,14 @@
   "id": 202862801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.702103,-36.922447,174.702103,-36.922447",
     "geom:latitude":-36.922447,
     "geom:longitude":174.702103,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Donavon St Blockhouse Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202862801,
-    "wof:lastmodified":1449062737,
+    "wof:lastmodified":1466312715,
     "wof:name":"Fine Design Furniture Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "designer"
     ]
 },
-  "bbox": [174.702103,-36.922447,174.702103,-36.922447],
-  "geometry": {"coordinates":[174.702103,-36.922447],"type":"Point"}
+  "bbox": [
+    174.702103,
+    -36.922447,
+    174.702103,
+    -36.922447
+],
+  "geometry": {"coordinates":[174.70210299999999,-36.922447],"type":"Point"}
 }

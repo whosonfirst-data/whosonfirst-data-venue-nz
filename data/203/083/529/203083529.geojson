@@ -2,13 +2,14 @@
   "id": 203083529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.730453,-43.50687,172.730453,-43.50687",
     "geom:latitude":-43.50687,
     "geom:longitude":172.730453,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Brighton Mal New Brighton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203083529,
-    "wof:lastmodified":1449025817,
+    "wof:lastmodified":1466311867,
     "wof:name":"Worcester Appliance Dealers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "spa"
     ]
 },
-  "bbox": [172.730453,-43.50687,172.730453,-43.50687],
-  "geometry": {"coordinates":[172.730453,-43.50687],"type":"Point"}
+  "bbox": [
+    172.730453,
+    -43.50687,
+    172.730453,
+    -43.50687
+],
+  "geometry": {"coordinates":[172.73045300000001,-43.50687],"type":"Point"}
 }

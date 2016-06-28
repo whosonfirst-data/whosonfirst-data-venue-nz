@@ -2,13 +2,14 @@
   "id": 203396239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.015823,-41.288399,174.015823,-41.288399",
     "geom:latitude":-41.288399,
     "geom:longitude":174.015823,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Surrey St ",
     "sg:city":"Picton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203396239,
-    "wof:lastmodified":1449026220,
+    "wof:lastmodified":1466312464,
     "wof:name":"International Boats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.015823,-41.288399,174.015823,-41.288399],
-  "geometry": {"coordinates":[174.015823,-41.288399],"type":"Point"}
+  "bbox": [
+    174.015823,
+    -41.288399,
+    174.015823,
+    -41.288399
+],
+  "geometry": {"coordinates":[174.01582300000001,-41.288399],"type":"Point"}
 }

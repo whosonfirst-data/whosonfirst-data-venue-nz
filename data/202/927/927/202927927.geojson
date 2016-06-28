@@ -2,13 +2,14 @@
   "id": 202927927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.22258,-38.995338,174.22258,-38.995338",
     "geom:latitude":-38.995338,
     "geom:longitude":174.22258,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Norman St ",
     "sg:city":"Waitara",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202927927,
-    "wof:lastmodified":1449062381,
+    "wof:lastmodified":1466312738,
     "wof:name":"Bark Products Taranaki Ltd",
     "wof:parent_id":85781383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.22258,-38.995338,174.22258,-38.995338],
-  "geometry": {"coordinates":[174.22258,-38.995338],"type":"Point"}
+  "bbox": [
+    174.22258,
+    -38.995338,
+    174.22258,
+    -38.995338
+],
+  "geometry": {"coordinates":[174.22257999999999,-38.995338],"type":"Point"}
 }

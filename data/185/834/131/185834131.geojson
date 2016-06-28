@@ -2,13 +2,14 @@
   "id": 185834131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.05101,-39.928314,175.05101,-39.928314",
     "geom:latitude":-39.928314,
     "geom:longitude":175.05101,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4/25a Bell St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185834131,
-    "wof:lastmodified":1449006764,
+    "wof:lastmodified":1466312039,
     "wof:name":"John Bilderbeck Guitar Tutor",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.05101,-39.928314,175.05101,-39.928314],
-  "geometry": {"coordinates":[175.05101,-39.928314],"type":"Point"}
+  "bbox": [
+    175.05101,
+    -39.928314,
+    175.05101,
+    -39.928314
+],
+  "geometry": {"coordinates":[175.05100999999999,-39.928314],"type":"Point"}
 }

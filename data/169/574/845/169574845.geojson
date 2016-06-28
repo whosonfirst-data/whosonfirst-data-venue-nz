@@ -2,13 +2,14 @@
   "id": 169574845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.566589,-40.226826,175.566589,-40.226826",
     "geom:latitude":-40.226826,
     "geom:longitude":175.566589,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Fergusson St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169574845,
-    "wof:lastmodified":1449032661,
+    "wof:lastmodified":1466311286,
     "wof:name":"Keith Smith & Son",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.566589,-40.226826,175.566589,-40.226826],
-  "geometry": {"coordinates":[175.566589,-40.226826],"type":"Point"}
+  "bbox": [
+    175.566589,
+    -40.226826,
+    175.566589,
+    -40.226826
+],
+  "geometry": {"coordinates":[175.56658899999999,-40.226826],"type":"Point"}
 }

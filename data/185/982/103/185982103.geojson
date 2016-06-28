@@ -2,13 +2,14 @@
   "id": 185982103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.142838,-37.664154,175.142838,-37.664154",
     "geom:latitude":-37.664154,
     "geom:longitude":175.142838,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hakarimata Rd ",
     "sg:city":"Ngaruawahia",
     "sg:classifiers":[
@@ -45,16 +46,22 @@
         }
     ],
     "wof:id":185982103,
-    "wof:lastmodified":1449006890,
+    "wof:lastmodified":1466312356,
     "wof:name":"Jacobs Concrete Tanks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "storage"
     ]
 },
-  "bbox": [175.142838,-37.664154,175.142838,-37.664154],
-  "geometry": {"coordinates":[175.142838,-37.664154],"type":"Point"}
+  "bbox": [
+    175.142838,
+    -37.664154,
+    175.142838,
+    -37.664154
+],
+  "geometry": {"coordinates":[175.14283800000001,-37.664154],"type":"Point"}
 }

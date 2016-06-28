@@ -2,13 +2,14 @@
   "id": 219504715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.284348,-39.589333,174.284348,-39.589333",
     "geom:latitude":-39.589333,
     "geom:longitude":174.284348,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"58 High St ",
     "sg:city":"Hawera",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219504715,
-    "wof:lastmodified":1449071012,
+    "wof:lastmodified":1466312410,
     "wof:name":"Hawera Training Centre Trust",
     "wof:parent_id":85781023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "education"
     ]
 },
-  "bbox": [174.284348,-39.589333,174.284348,-39.589333],
-  "geometry": {"coordinates":[174.284348,-39.589333],"type":"Point"}
+  "bbox": [
+    174.284348,
+    -39.589333,
+    174.284348,
+    -39.589333
+],
+  "geometry": {"coordinates":[174.28434799999999,-39.589333],"type":"Point"}
 }

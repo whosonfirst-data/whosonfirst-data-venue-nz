@@ -2,13 +2,14 @@
   "id": 219802683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.661804,-40.951302,175.661804,-40.951302",
     "geom:latitude":-40.951302,
     "geom:longitude":175.661804,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Dixon St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":219802683,
-    "wof:lastmodified":1449073260,
+    "wof:lastmodified":1466313106,
     "wof:name":"D J Panel & Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "beater"
     ]
 },
-  "bbox": [175.661804,-40.951302,175.661804,-40.951302],
-  "geometry": {"coordinates":[175.661804,-40.951302],"type":"Point"}
+  "bbox": [
+    175.661804,
+    -40.951302,
+    175.661804,
+    -40.951302
+],
+  "geometry": {"coordinates":[175.66180399999999,-40.951302],"type":"Point"}
 }

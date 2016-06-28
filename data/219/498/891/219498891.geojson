@@ -2,13 +2,14 @@
   "id": 219498891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.869354,-38.218426,175.869354,-38.218426",
     "geom:latitude":-38.218426,
     "geom:longitude":175.869354,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Bridge St ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219498891,
-    "wof:lastmodified":1449073078,
+    "wof:lastmodified":1466312308,
     "wof:name":"Kip McGrath Education Centres",
     "wof:parent_id":85782509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "teacher"
     ]
 },
-  "bbox": [175.869354,-38.218426,175.869354,-38.218426],
-  "geometry": {"coordinates":[175.869354,-38.218426],"type":"Point"}
+  "bbox": [
+    175.869354,
+    -38.218426,
+    175.869354,
+    -38.218426
+],
+  "geometry": {"coordinates":[175.86935399999999,-38.218426],"type":"Point"}
 }

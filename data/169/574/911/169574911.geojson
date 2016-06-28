@@ -2,13 +2,14 @@
   "id": 169574911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.651123,-36.841221,174.651123,-36.841221",
     "geom:latitude":-36.841221,
     "geom:longitude":174.651123,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 45-237 Te Atatu ",
     "sg:city":"Peninsula",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169574911,
-    "wof:lastmodified":1449032664,
+    "wof:lastmodified":1466311288,
     "wof:name":"Chinaworks (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.651123,-36.841221,174.651123,-36.841221],
-  "geometry": {"coordinates":[174.651123,-36.841221],"type":"Point"}
+  "bbox": [
+    174.651123,
+    -36.841221,
+    174.651123,
+    -36.841221
+],
+  "geometry": {"coordinates":[174.65112300000001,-36.841221],"type":"Point"}
 }

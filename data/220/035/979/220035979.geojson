@@ -2,13 +2,14 @@
   "id": 220035979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.702103,-38.087158,176.702103,-38.087158",
     "geom:latitude":-38.087158,
     "geom:longitude":176.702103,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Jellicoe Ct ",
     "sg:city":"Kawerau",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":220035979,
-    "wof:lastmodified":1449074691,
+    "wof:lastmodified":1466311351,
     "wof:name":"Where Else Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.702103,-38.087158,176.702103,-38.087158],
-  "geometry": {"coordinates":[176.702103,-38.087158],"type":"Point"}
+  "bbox": [
+    176.702103,
+    -38.087158,
+    176.702103,
+    -38.087158
+],
+  "geometry": {"coordinates":[176.70210299999999,-38.087158],"type":"Point"}
 }

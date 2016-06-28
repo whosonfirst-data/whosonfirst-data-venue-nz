@@ -2,13 +2,14 @@
   "id": 219155357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.757019,-36.84074,174.757019,-36.84074",
     "geom:latitude":-36.84074,
     "geom:longitude":174.757019,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Jellicoe St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219155357,
-    "wof:lastmodified":1449073309,
+    "wof:lastmodified":1466310660,
     "wof:name":"Dunsford Marine Ltd",
     "wof:parent_id":85781863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.757019,-36.84074,174.757019,-36.84074],
-  "geometry": {"coordinates":[174.757019,-36.84074],"type":"Point"}
+  "bbox": [
+    174.757019,
+    -36.84074,
+    174.757019,
+    -36.84074
+],
+  "geometry": {"coordinates":[174.75701900000001,-36.84074],"type":"Point"}
 }

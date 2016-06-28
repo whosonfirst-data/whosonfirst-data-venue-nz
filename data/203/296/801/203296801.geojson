@@ -2,13 +2,14 @@
   "id": 203296801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.007477,-39.945316,175.007477,-39.945316",
     "geom:latitude":-39.945316,
     "geom:longitude":175.007477,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Hinau St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203296801,
-    "wof:lastmodified":1449026488,
+    "wof:lastmodified":1466312102,
     "wof:name":"Artex Tannery Ltd",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [175.007477,-39.945316,175.007477,-39.945316],
-  "geometry": {"coordinates":[175.007477,-39.945316],"type":"Point"}
+  "bbox": [
+    175.007477,
+    -39.945316,
+    175.007477,
+    -39.945316
+],
+  "geometry": {"coordinates":[175.00747699999999,-39.945316],"type":"Point"}
 }

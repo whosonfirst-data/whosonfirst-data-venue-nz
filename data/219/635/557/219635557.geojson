@@ -2,13 +2,14 @@
   "id": 219635557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.348755,-46.386452,168.348755,-46.386452",
     "geom:latitude":-46.386452,
     "geom:longitude":168.348755,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Preston St Waikiwi ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219635557,
-    "wof:lastmodified":1449071918,
+    "wof:lastmodified":1466312600,
     "wof:name":"Preston St Auto Wreckers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.348755,-46.386452,168.348755,-46.386452],
-  "geometry": {"coordinates":[168.348755,-46.386452],"type":"Point"}
+  "bbox": [
+    168.348755,
+    -46.386452,
+    168.348755,
+    -46.386452
+],
+  "geometry": {"coordinates":[168.34875500000001,-46.386452],"type":"Point"}
 }

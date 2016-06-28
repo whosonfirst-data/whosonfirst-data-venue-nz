@@ -2,13 +2,14 @@
   "id": 169802027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.792557,-36.807487,174.792557,-36.807487",
     "geom:latitude":-36.807487,
     "geom:longitude":174.792557,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Williamson Ave Belmont Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169802027,
-    "wof:lastmodified":1449035340,
+    "wof:lastmodified":1466311661,
     "wof:name":"Tudman R T E",
     "wof:parent_id":85778157,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.792557,-36.807487,174.792557,-36.807487],
-  "geometry": {"coordinates":[174.792557,-36.807487],"type":"Point"}
+  "bbox": [
+    174.792557,
+    -36.807487,
+    174.792557,
+    -36.807487
+],
+  "geometry": {"coordinates":[174.79255699999999,-36.807487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220124733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.699707,-36.746243,174.699707,-36.746243",
     "geom:latitude":-36.746243,
     "geom:longitude":174.699707,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1/5 Douglas Alexander Pde Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220124733,
-    "wof:lastmodified":1449074824,
+    "wof:lastmodified":1466310829,
     "wof:name":"Thai Kiwi Cafe",
     "wof:parent_id":85772825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [174.699707,-36.746243,174.699707,-36.746243],
-  "geometry": {"coordinates":[174.699707,-36.746243],"type":"Point"}
+  "bbox": [
+    174.699707,
+    -36.746243,
+    174.699707,
+    -36.746243
+],
+  "geometry": {"coordinates":[174.69970699999999,-36.746243],"type":"Point"}
 }

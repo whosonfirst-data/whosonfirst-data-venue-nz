@@ -2,13 +2,14 @@
   "id": 202472979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.231293,-45.858738,170.231293,-45.858738",
     "geom:latitude":-45.858738,
     "geom:longitude":170.231293,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"School Rd ",
     "sg:city":"Outram",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202472979,
-    "wof:lastmodified":1449060310,
+    "wof:lastmodified":1466311937,
     "wof:name":"Orthocare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [170.231293,-45.858738,170.231293,-45.858738],
-  "geometry": {"coordinates":[170.231293,-45.858738],"type":"Point"}
+  "bbox": [
+    170.231293,
+    -45.858738,
+    170.231293,
+    -45.858738
+],
+  "geometry": {"coordinates":[170.23129299999999,-45.858738],"type":"Point"}
 }

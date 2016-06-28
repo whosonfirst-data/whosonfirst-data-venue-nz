@@ -2,13 +2,14 @@
   "id": 185649893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.612885,-40.353878,175.612885,-40.353878",
     "geom:latitude":-40.353878,
     "geom:longitude":175.612885,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185649893,
-    "wof:lastmodified":1449007685,
+    "wof:lastmodified":1466311511,
     "wof:name":"Regent On Broadway Theatre",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.612885,-40.353878,175.612885,-40.353878],
-  "geometry": {"coordinates":[175.612885,-40.353878],"type":"Point"}
+  "bbox": [
+    175.612885,
+    -40.353878,
+    175.612885,
+    -40.353878
+],
+  "geometry": {"coordinates":[175.61288500000001,-40.353878],"type":"Point"}
 }

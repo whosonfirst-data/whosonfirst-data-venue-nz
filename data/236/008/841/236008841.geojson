@@ -2,13 +2,14 @@
   "id": 236008841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.003632,-38.649406,178.003632,-38.649406",
     "geom:latitude":-38.649406,
     "geom:longitude":178.003632,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"683 Aberdeen Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236008841,
-    "wof:lastmodified":1449002525,
+    "wof:lastmodified":1466310766,
     "wof:name":"Aberdeen Fish Shop",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "takeaway"
     ]
 },
-  "bbox": [178.003632,-38.649406,178.003632,-38.649406],
-  "geometry": {"coordinates":[178.003632,-38.649406],"type":"Point"}
+  "bbox": [
+    178.003632,
+    -38.649406,
+    178.003632,
+    -38.649406
+],
+  "geometry": {"coordinates":[178.00363200000001,-38.649406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186638273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.65361,-40.955051,175.65361,-40.955051",
     "geom:latitude":-40.955051,
     "geom:longitude":175.65361,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"371 Queen St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186638273,
-    "wof:lastmodified":1449050414,
+    "wof:lastmodified":1466313011,
     "wof:name":"Healthy Touch Massage Clinic",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "fitness"
     ]
 },
-  "bbox": [175.65361,-40.955051,175.65361,-40.955051],
-  "geometry": {"coordinates":[175.65361,-40.955051],"type":"Point"}
+  "bbox": [
+    175.65361,
+    -40.955051,
+    175.65361,
+    -40.955051
+],
+  "geometry": {"coordinates":[175.65360999999999,-40.955051],"type":"Point"}
 }

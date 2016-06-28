@@ -2,13 +2,14 @@
   "id": 235955453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.049545,-39.931969,175.049545,-39.931969",
     "geom:latitude":-39.931969,
     "geom:longitude":175.049545,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Guyton St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235955453,
-    "wof:lastmodified":1449008479,
+    "wof:lastmodified":1466311004,
     "wof:name":"Vodanovich Seafoods",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sea"
     ]
 },
-  "bbox": [175.049545,-39.931969,175.049545,-39.931969],
-  "geometry": {"coordinates":[175.049545,-39.931969],"type":"Point"}
+  "bbox": [
+    175.049545,
+    -39.931969,
+    175.049545,
+    -39.931969
+],
+  "geometry": {"coordinates":[175.04954499999999,-39.931969],"type":"Point"}
 }

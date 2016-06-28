@@ -2,13 +2,14 @@
   "id": 235984769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.614029,-40.962479,175.614029,-40.962479",
     "geom:latitude":-40.962479,
     "geom:longitude":175.614029,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"290 High St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235984769,
-    "wof:lastmodified":1449008436,
+    "wof:lastmodified":1466311460,
     "wof:name":"Slow Food Cafe Restaurant & Bar",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cafe"
     ]
 },
-  "bbox": [175.614029,-40.962479,175.614029,-40.962479],
-  "geometry": {"coordinates":[175.614029,-40.962479],"type":"Point"}
+  "bbox": [
+    175.614029,
+    -40.962479,
+    175.614029,
+    -40.962479
+],
+  "geometry": {"coordinates":[175.61402899999999,-40.962479],"type":"Point"}
 }

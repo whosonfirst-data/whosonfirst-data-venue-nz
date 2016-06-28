@@ -2,13 +2,14 @@
   "id": 219654611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.778702,-41.301651,174.778702,-41.301651",
     "geom:latitude":-41.301651,
     "geom:longitude":174.778702,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Belfast St Mt Cook ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219654611,
-    "wof:lastmodified":1449071585,
+    "wof:lastmodified":1466312719,
     "wof:name":"Mossrax",
     "wof:parent_id":85778471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "suspension"
     ]
 },
-  "bbox": [174.778702,-41.301651,174.778702,-41.301651],
-  "geometry": {"coordinates":[174.778702,-41.301651],"type":"Point"}
+  "bbox": [
+    174.778702,
+    -41.301651,
+    174.778702,
+    -41.301651
+],
+  "geometry": {"coordinates":[174.77870200000001,-41.301651],"type":"Point"}
 }

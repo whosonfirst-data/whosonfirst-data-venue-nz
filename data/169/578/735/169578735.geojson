@@ -2,13 +2,14 @@
   "id": 169578735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.871552,-36.960999,174.871552,-36.960999",
     "geom:latitude":-36.960999,
     "geom:longitude":174.871552,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Newbury La Otara ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169578735,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1466311368,
     "wof:name":"Otara Fleamarket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.871552,-36.960999,174.871552,-36.960999],
-  "geometry": {"coordinates":[174.871552,-36.960999],"type":"Point"}
+  "bbox": [
+    174.871552,
+    -36.960999,
+    174.871552,
+    -36.960999
+],
+  "geometry": {"coordinates":[174.87155200000001,-36.960999],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219615353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.26033,-38.150791,176.26033,-38.150791",
     "geom:latitude":-38.150791,
     "geom:longitude":176.26033,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Marguerita St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219615353,
-    "wof:lastmodified":1449071511,
+    "wof:lastmodified":1466312647,
     "wof:name":"Vehicle Testing New Zealand Limited",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fitness"
     ]
 },
-  "bbox": [176.26033,-38.150791,176.26033,-38.150791],
-  "geometry": {"coordinates":[176.26033,-38.150791],"type":"Point"}
+  "bbox": [
+    176.26033,
+    -38.150791,
+    176.26033,
+    -38.150791
+],
+  "geometry": {"coordinates":[176.26033000000001,-38.150791],"type":"Point"}
 }

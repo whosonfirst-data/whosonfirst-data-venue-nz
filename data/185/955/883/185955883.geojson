@@ -2,13 +2,14 @@
   "id": 185955883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.593857,-36.760105,174.593857,-36.760105",
     "geom:latitude":-36.760105,
     "geom:longitude":174.593857,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Alexandra St Riverhead ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185955883,
-    "wof:lastmodified":1449007706,
+    "wof:lastmodified":1466312143,
     "wof:name":"Kumeu Rugby Football Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sports"
     ]
 },
-  "bbox": [174.593857,-36.760105,174.593857,-36.760105],
-  "geometry": {"coordinates":[174.593857,-36.760105],"type":"Point"}
+  "bbox": [
+    174.593857,
+    -36.760105,
+    174.593857,
+    -36.760105
+],
+  "geometry": {"coordinates":[174.59385700000001,-36.760105],"type":"Point"}
 }

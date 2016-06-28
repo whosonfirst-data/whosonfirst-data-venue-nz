@@ -2,13 +2,14 @@
   "id": 202471349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.070374,-41.124439,175.070374,-41.124439",
     "geom:latitude":-41.124439,
     "geom:longitude":175.070374,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 40-356 Upper Hutt ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202471349,
-    "wof:lastmodified":1449061131,
+    "wof:lastmodified":1466311930,
     "wof:name":"National First Aid Distributors Ltd",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [175.070374,-41.124439,175.070374,-41.124439],
-  "geometry": {"coordinates":[175.070374,-41.124439],"type":"Point"}
+  "bbox": [
+    175.070374,
+    -41.124439,
+    175.070374,
+    -41.124439
+],
+  "geometry": {"coordinates":[175.07037399999999,-41.124439],"type":"Point"}
 }

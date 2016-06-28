@@ -2,13 +2,14 @@
   "id": 220116279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.189743,-37.61385,175.189743,-37.61385",
     "geom:latitude":-37.61385,
     "geom:longitude":175.189743,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Henry Rd R D 1 ",
     "sg:city":"Taupiri",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220116279,
-    "wof:lastmodified":1449074148,
+    "wof:lastmodified":1466310744,
     "wof:name":"Candyland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "-"
     ]
 },
-  "bbox": [175.189743,-37.61385,175.189743,-37.61385],
-  "geometry": {"coordinates":[175.189743,-37.61385],"type":"Point"}
+  "bbox": [
+    175.189743,
+    -37.61385,
+    175.189743,
+    -37.61385
+],
+  "geometry": {"coordinates":[175.18974299999999,-37.61385],"type":"Point"}
 }

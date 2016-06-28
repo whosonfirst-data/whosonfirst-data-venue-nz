@@ -2,13 +2,14 @@
   "id": 203227285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.280289,-40.631817,175.280289,-40.631817",
     "geom:latitude":-40.631817,
     "geom:longitude":175.280289,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Prouse St ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203227285,
-    "wof:lastmodified":1449025329,
+    "wof:lastmodified":1466311615,
     "wof:name":"Beardsley Pearce Ltd",
     "wof:parent_id":85782865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [175.280289,-40.631817,175.280289,-40.631817],
-  "geometry": {"coordinates":[175.280289,-40.631817],"type":"Point"}
+  "bbox": [
+    175.280289,
+    -40.631817,
+    175.280289,
+    -40.631817
+],
+  "geometry": {"coordinates":[175.28028900000001,-40.631817],"type":"Point"}
 }

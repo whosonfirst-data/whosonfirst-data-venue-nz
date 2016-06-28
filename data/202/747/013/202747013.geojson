@@ -2,13 +2,14 @@
   "id": 202747013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.352615,-45.882858,170.352615,-45.882858",
     "geom:latitude":-45.882858,
     "geom:longitude":170.352615,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Gordon Rd Mosgiel ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202747013,
-    "wof:lastmodified":1449060566,
+    "wof:lastmodified":1466312503,
     "wof:name":"Maran-Atha Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [170.352615,-45.882858,170.352615,-45.882858],
-  "geometry": {"coordinates":[170.352615,-45.882858],"type":"Point"}
+  "bbox": [
+    170.352615,
+    -45.882858,
+    170.352615,
+    -45.882858
+],
+  "geometry": {"coordinates":[170.35261499999999,-45.882858],"type":"Point"}
 }

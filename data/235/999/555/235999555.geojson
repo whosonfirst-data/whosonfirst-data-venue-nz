@@ -2,13 +2,14 @@
   "id": 235999555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.284683,-46.434555,168.284683,-46.434555",
     "geom:latitude":-46.434555,
     "geom:longitude":168.284683,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"379 Dunns Rd RD 9 Otatara ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235999555,
-    "wof:lastmodified":1449008568,
+    "wof:lastmodified":1466311579,
     "wof:name":"Cabbage Tree",
     "wof:parent_id":85778905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [168.284683,-46.434555,168.284683,-46.434555],
+  "bbox": [
+    168.284683,
+    -46.434555,
+    168.284683,
+    -46.434555
+],
   "geometry": {"coordinates":[168.284683,-46.434555],"type":"Point"}
 }

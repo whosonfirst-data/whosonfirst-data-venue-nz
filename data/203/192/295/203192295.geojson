@@ -2,13 +2,14 @@
   "id": 203192295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.872437,-38.216404,175.872437,-38.216404",
     "geom:latitude":-38.216404,
     "geom:longitude":175.872437,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Logan St ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203192295,
-    "wof:lastmodified":1449026309,
+    "wof:lastmodified":1466311303,
     "wof:name":"Laundromat Services",
     "wof:parent_id":85782509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaning"
     ]
 },
-  "bbox": [175.872437,-38.216404,175.872437,-38.216404],
-  "geometry": {"coordinates":[175.872437,-38.216404],"type":"Point"}
+  "bbox": [
+    175.872437,
+    -38.216404,
+    175.872437,
+    -38.216404
+],
+  "geometry": {"coordinates":[175.87243699999999,-38.216404],"type":"Point"}
 }

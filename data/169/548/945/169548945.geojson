@@ -2,13 +2,14 @@
   "id": 169548945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.985741,41.325375,-71.985741,41.325375",
     "geom:latitude":41.325375,
     "geom:longitude":-71.985741,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Main St ",
     "sg:city":"Greytown",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169548945,
-    "wof:lastmodified":1449034971,
+    "wof:lastmodified":1466310799,
     "wof:name":"In Ore",
     "wof:parent_id":85836187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.985741,41.325375,-71.985741,41.325375],
+  "bbox": [
+    -71.985741,
+    41.325375,
+    -71.985741,
+    41.325375
+],
   "geometry": {"coordinates":[-71.985741,41.325375],"type":"Point"}
 }

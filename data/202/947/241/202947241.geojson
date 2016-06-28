@@ -2,13 +2,14 @@
   "id": 202947241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.038467,-39.923653,175.038467,-39.923653",
     "geom:latitude":-39.923653,
     "geom:longitude":175.038467,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"379 Wicksteed St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202947241,
-    "wof:lastmodified":1449061942,
+    "wof:lastmodified":1466312877,
     "wof:name":"MTD Products NZ Ltd",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.038467,-39.923653,175.038467,-39.923653],
+  "bbox": [
+    175.038467,
+    -39.923653,
+    175.038467,
+    -39.923653
+],
   "geometry": {"coordinates":[175.038467,-39.923653],"type":"Point"}
 }

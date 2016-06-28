@@ -2,13 +2,14 @@
   "id": 202457613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.680939,-43.479473,172.680939,-43.479473",
     "geom:latitude":-43.479473,
     "geom:longitude":172.680939,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Burwood Rd Burwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202457613,
-    "wof:lastmodified":1449061791,
+    "wof:lastmodified":1466311822,
     "wof:name":"Artificial Limb Centre",
     "wof:parent_id":85778535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "beauty"
     ]
 },
-  "bbox": [172.680939,-43.479473,172.680939,-43.479473],
+  "bbox": [
+    172.680939,
+    -43.479473,
+    172.680939,
+    -43.479473
+],
   "geometry": {"coordinates":[172.680939,-43.479473],"type":"Point"}
 }

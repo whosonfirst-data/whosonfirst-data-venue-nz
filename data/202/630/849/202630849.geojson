@@ -2,13 +2,14 @@
   "id": 202630849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.462509,-35.874886,174.462509,-35.874886",
     "geom:latitude":-35.874886,
     "geom:longitude":174.462509,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Kepa Rd Ruakaka ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202630849,
-    "wof:lastmodified":1449061012,
+    "wof:lastmodified":1466311770,
     "wof:name":"Tristar Engineering Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "related"
     ]
 },
-  "bbox": [174.462509,-35.874886,174.462509,-35.874886],
-  "geometry": {"coordinates":[174.462509,-35.874886],"type":"Point"}
+  "bbox": [
+    174.462509,
+    -35.874886,
+    174.462509,
+    -35.874886
+],
+  "geometry": {"coordinates":[174.46250900000001,-35.874886],"type":"Point"}
 }

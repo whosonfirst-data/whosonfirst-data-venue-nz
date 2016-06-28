@@ -2,13 +2,14 @@
   "id": 185760577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.965546,-45.100685,170.965546,-45.100685",
     "geom:latitude":-45.100685,
     "geom:longitude":170.965546,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Itchen St ",
     "sg:city":"Oamaru",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185760577,
-    "wof:lastmodified":1449008130,
+    "wof:lastmodified":1466310967,
     "wof:name":"North Otago RSA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.965546,-45.100685,170.965546,-45.100685],
-  "geometry": {"coordinates":[170.965546,-45.100685],"type":"Point"}
+  "bbox": [
+    170.965546,
+    -45.100685,
+    170.965546,
+    -45.100685
+],
+  "geometry": {"coordinates":[170.96554599999999,-45.100685],"type":"Point"}
 }

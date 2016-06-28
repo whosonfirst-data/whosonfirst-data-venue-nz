@@ -2,13 +2,14 @@
   "id": 220086733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.576477,-40.357693,175.576477,-40.357693",
     "geom:latitude":-40.357693,
     "geom:longitude":175.576477,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Havelock Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220086733,
-    "wof:lastmodified":1449074591,
+    "wof:lastmodified":1466311952,
     "wof:name":"Havelock Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "-"
     ]
 },
-  "bbox": [175.576477,-40.357693,175.576477,-40.357693],
-  "geometry": {"coordinates":[175.576477,-40.357693],"type":"Point"}
+  "bbox": [
+    175.576477,
+    -40.357693,
+    175.576477,
+    -40.357693
+],
+  "geometry": {"coordinates":[175.57647700000001,-40.357693],"type":"Point"}
 }

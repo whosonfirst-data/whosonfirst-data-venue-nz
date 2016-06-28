@@ -2,13 +2,14 @@
   "id": 235993019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.511246,-45.851059,170.511246,-45.851059",
     "geom:latitude":-45.851059,
     "geom:longitude":170.511246,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Gardens Corner 3 North Rd Dalmore ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235993019,
-    "wof:lastmodified":1449008403,
+    "wof:lastmodified":1466311563,
     "wof:name":"Filadelfio's Pizza Restaurant & Bar",
     "wof:parent_id":85778751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [170.511246,-45.851059,170.511246,-45.851059],
+  "bbox": [
+    170.511246,
+    -45.851059,
+    170.511246,
+    -45.851059
+],
   "geometry": {"coordinates":[170.511246,-45.851059],"type":"Point"}
 }

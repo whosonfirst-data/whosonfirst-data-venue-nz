@@ -2,13 +2,14 @@
   "id": 219814547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.792572,-36.9263,174.792572,-36.9263",
     "geom:latitude":-36.9263,
     "geom:longitude":174.792572,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"238 Neilson St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219814547,
-    "wof:lastmodified":1449071038,
+    "wof:lastmodified":1466313124,
     "wof:name":"Autotreads Onehunga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.792572,-36.9263,174.792572,-36.9263],
-  "geometry": {"coordinates":[174.792572,-36.9263],"type":"Point"}
+  "bbox": [
+    174.792572,
+    -36.9263,
+    174.792572,
+    -36.9263
+],
+  "geometry": {"coordinates":[174.79257200000001,-36.9263],"type":"Point"}
 }

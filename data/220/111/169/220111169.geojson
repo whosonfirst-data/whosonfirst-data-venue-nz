@@ -2,13 +2,14 @@
   "id": 220111169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.059555,-39.917023,175.059555,-39.917023",
     "geom:latitude":-39.917023,
     "geom:longitude":175.059555,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Moana St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220111169,
-    "wof:lastmodified":1449074897,
+    "wof:lastmodified":1466310700,
     "wof:name":"Savages Cake Shop",
     "wof:parent_id":85781217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "-"
     ]
 },
-  "bbox": [175.059555,-39.917023,175.059555,-39.917023],
-  "geometry": {"coordinates":[175.059555,-39.917023],"type":"Point"}
+  "bbox": [
+    175.059555,
+    -39.917023,
+    175.059555,
+    -39.917023
+],
+  "geometry": {"coordinates":[175.05955499999999,-39.917023],"type":"Point"}
 }

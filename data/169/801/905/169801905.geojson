@@ -2,13 +2,14 @@
   "id": 169801905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.606339,-40.35825,175.606339,-40.35825",
     "geom:latitude":-40.35825,
     "geom:longitude":175.606339,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"765 Main St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169801905,
-    "wof:lastmodified":1449035379,
+    "wof:lastmodified":1466311660,
     "wof:name":"Sugar Plum Fairy Shop",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.606339,-40.35825,175.606339,-40.35825],
-  "geometry": {"coordinates":[175.606339,-40.35825],"type":"Point"}
+  "bbox": [
+    175.606339,
+    -40.35825,
+    175.606339,
+    -40.35825
+],
+  "geometry": {"coordinates":[175.60633899999999,-40.35825],"type":"Point"}
 }

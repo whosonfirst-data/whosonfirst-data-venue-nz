@@ -2,13 +2,14 @@
   "id": 186000851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.971069,-45.078117,170.971069,-45.078117",
     "geom:latitude":-45.078117,
     "geom:longitude":170.971069,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Reservoir Rd ",
     "sg:city":"Oamaru",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186000851,
-    "wof:lastmodified":1449050832,
+    "wof:lastmodified":1466310542,
     "wof:name":"Hill Val",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [170.971069,-45.078117,170.971069,-45.078117],
+  "bbox": [
+    170.971069,
+    -45.078117,
+    170.971069,
+    -45.078117
+],
   "geometry": {"coordinates":[170.971069,-45.078117],"type":"Point"}
 }

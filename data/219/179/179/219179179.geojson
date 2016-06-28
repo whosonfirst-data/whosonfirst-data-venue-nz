@@ -2,13 +2,14 @@
   "id": 219179179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.803375,-36.925663,174.803375,-36.925663",
     "geom:latitude":-36.925663,
     "geom:longitude":174.803375,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Neilson St Te Papapa ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219179179,
-    "wof:lastmodified":1449073559,
+    "wof:lastmodified":1466311226,
     "wof:name":"Positive Point of Sale Ltd",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.803375,-36.925663,174.803375,-36.925663],
-  "geometry": {"coordinates":[174.803375,-36.925663],"type":"Point"}
+  "bbox": [
+    174.803375,
+    -36.925663,
+    174.803375,
+    -36.925663
+],
+  "geometry": {"coordinates":[174.80337499999999,-36.925663],"type":"Point"}
 }

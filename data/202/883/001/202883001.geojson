@@ -2,13 +2,14 @@
   "id": 202883001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.61412,-36.831303,174.61412,-36.831303",
     "geom:latitude":-36.831303,
     "geom:longitude":174.61412,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Royal Rd Massey ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202883001,
-    "wof:lastmodified":1449062061,
+    "wof:lastmodified":1466312670,
     "wof:name":"T & K Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [174.61412,-36.831303,174.61412,-36.831303],
-  "geometry": {"coordinates":[174.61412,-36.831303],"type":"Point"}
+  "bbox": [
+    174.61412,
+    -36.831303,
+    174.61412,
+    -36.831303
+],
+  "geometry": {"coordinates":[174.61412000000001,-36.831303],"type":"Point"}
 }

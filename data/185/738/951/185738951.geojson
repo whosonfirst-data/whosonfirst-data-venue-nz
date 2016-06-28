@@ -2,13 +2,14 @@
   "id": 185738951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.192856,-37.650269,176.192856,-37.650269",
     "geom:latitude":-37.650269,
     "geom:longitude":176.192856,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"502 Maunganui Rd Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185738951,
-    "wof:lastmodified":1449007765,
+    "wof:lastmodified":1466310823,
     "wof:name":"United Video",
     "wof:parent_id":85773039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "entertainment"
     ]
 },
-  "bbox": [176.192856,-37.650269,176.192856,-37.650269],
-  "geometry": {"coordinates":[176.192856,-37.650269],"type":"Point"}
+  "bbox": [
+    176.192856,
+    -37.650269,
+    176.192856,
+    -37.650269
+],
+  "geometry": {"coordinates":[176.19285600000001,-37.650269],"type":"Point"}
 }

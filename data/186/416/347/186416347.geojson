@@ -2,13 +2,14 @@
   "id": 186416347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.699661,-36.802601,174.699661,-36.802601",
     "geom:latitude":-36.802601,
     "geom:longitude":174.699661,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Stott Ave Birkdale ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186416347,
-    "wof:lastmodified":1449051583,
+    "wof:lastmodified":1466312551,
     "wof:name":"North Shore Rubber Stamps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "goods"
     ]
 },
-  "bbox": [174.699661,-36.802601,174.699661,-36.802601],
-  "geometry": {"coordinates":[174.699661,-36.802601],"type":"Point"}
+  "bbox": [
+    174.699661,
+    -36.802601,
+    174.699661,
+    -36.802601
+],
+  "geometry": {"coordinates":[174.69966099999999,-36.802601],"type":"Point"}
 }

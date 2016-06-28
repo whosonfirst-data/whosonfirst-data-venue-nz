@@ -2,13 +2,14 @@
   "id": 219670617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.872742,-38.215748,175.872742,-38.215748",
     "geom:latitude":-38.215748,
     "geom:longitude":175.872742,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Ashworth St ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219670617,
-    "wof:lastmodified":1449070914,
+    "wof:lastmodified":1466312741,
     "wof:name":"Barry Preece Glass Ltd",
     "wof:parent_id":85782509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.872742,-38.215748,175.872742,-38.215748],
-  "geometry": {"coordinates":[175.872742,-38.215748],"type":"Point"}
+  "bbox": [
+    175.872742,
+    -38.215748,
+    175.872742,
+    -38.215748
+],
+  "geometry": {"coordinates":[175.87274199999999,-38.215748],"type":"Point"}
 }

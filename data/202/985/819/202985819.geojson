@@ -2,13 +2,14 @@
   "id": 202985819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.66301,38.976299,-77.66301,38.976299",
     "geom:latitude":38.976299,
     "geom:longitude":-77.66301,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Towai St ",
     "sg:city":"Stoke",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202985819,
-    "wof:lastmodified":1449061378,
+    "wof:lastmodified":1466312955,
     "wof:name":"Taylor Made Landscapes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.66301,38.976299,-77.66301,38.976299],
+  "bbox": [
+    -77.66301,
+    38.976299,
+    -77.66301,
+    38.976299
+],
   "geometry": {"coordinates":[-77.66301,38.976299],"type":"Point"}
 }

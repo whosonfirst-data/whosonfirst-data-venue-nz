@@ -2,13 +2,14 @@
   "id": 203355053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.725708,-36.812271,174.725708,-36.812271",
     "geom:latitude":-36.812271,
     "geom:longitude":174.725708,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Mokoia Rd Birkenhead ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203355053,
-    "wof:lastmodified":1449025434,
+    "wof:lastmodified":1466312319,
     "wof:name":"Shoe Shop The",
     "wof:parent_id":85778355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wear"
     ]
 },
-  "bbox": [174.725708,-36.812271,174.725708,-36.812271],
+  "bbox": [
+    174.725708,
+    -36.812271,
+    174.725708,
+    -36.812271
+],
   "geometry": {"coordinates":[174.725708,-36.812271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186352261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.659073,-36.889881,174.659073,-36.889881",
     "geom:latitude":-36.889881,
     "geom:longitude":174.659073,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Culperry Rd Glendene ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186352261,
-    "wof:lastmodified":1449052008,
+    "wof:lastmodified":1466312466,
     "wof:name":"The Pallet Company",
     "wof:parent_id":85780905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.659073,-36.889881,174.659073,-36.889881],
-  "geometry": {"coordinates":[174.659073,-36.889881],"type":"Point"}
+  "bbox": [
+    174.659073,
+    -36.889881,
+    174.659073,
+    -36.889881
+],
+  "geometry": {"coordinates":[174.65907300000001,-36.889881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219407003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.722839,-43.599499,172.722839,-43.599499",
     "geom:latitude":-43.599499,
     "geom:longitude":172.722839,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"No 2 East Wharf Lyttelton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219407003,
-    "wof:lastmodified":1449072333,
+    "wof:lastmodified":1466311866,
     "wof:name":"Steam Tug Lyttelton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "boat"
     ]
 },
-  "bbox": [172.722839,-43.599499,172.722839,-43.599499],
-  "geometry": {"coordinates":[172.722839,-43.599499],"type":"Point"}
+  "bbox": [
+    172.722839,
+    -43.599499,
+    172.722839,
+    -43.599499
+],
+  "geometry": {"coordinates":[172.72283899999999,-43.599499],"type":"Point"}
 }

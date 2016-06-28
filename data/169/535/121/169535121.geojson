@@ -2,13 +2,14 @@
   "id": 169535121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.001495,-40.917355,175.001495,-40.917355",
     "geom:latitude":-40.917355,
     "geom:longitude":175.001495,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Rimu Rd ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169535121,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466310556,
     "wof:name":"Radio 2XX",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"
     ]
 },
-  "bbox": [175.001495,-40.917355,175.001495,-40.917355],
-  "geometry": {"coordinates":[175.001495,-40.917355],"type":"Point"}
+  "bbox": [
+    175.001495,
+    -40.917355,
+    175.001495,
+    -40.917355
+],
+  "geometry": {"coordinates":[175.00149500000001,-40.917355],"type":"Point"}
 }

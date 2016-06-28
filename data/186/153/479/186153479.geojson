@@ -2,13 +2,14 @@
   "id": 186153479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.462738,-45.887875,170.462738,-45.887875",
     "geom:latitude":-45.887875,
     "geom:longitude":170.462738,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"534 Kaikorai Valley Rd ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186153479,
-    "wof:lastmodified":1449052221,
+    "wof:lastmodified":1466311017,
     "wof:name":"R.H.E.Mechanical Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [170.462738,-45.887875,170.462738,-45.887875],
+  "bbox": [
+    170.462738,
+    -45.887875,
+    170.462738,
+    -45.887875
+],
   "geometry": {"coordinates":[170.462738,-45.887875],"type":"Point"}
 }

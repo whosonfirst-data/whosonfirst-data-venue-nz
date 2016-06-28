@@ -2,13 +2,14 @@
   "id": 202728415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.570633,-40.230034,175.570633,-40.230034",
     "geom:latitude":-40.230034,
     "geom:longitude":175.570633,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Russell St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202728415,
-    "wof:lastmodified":1449060698,
+    "wof:lastmodified":1466312348,
     "wof:name":"Presbyterian Support (Central)",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garden"
     ]
 },
-  "bbox": [175.570633,-40.230034,175.570633,-40.230034],
-  "geometry": {"coordinates":[175.570633,-40.230034],"type":"Point"}
+  "bbox": [
+    175.570633,
+    -40.230034,
+    175.570633,
+    -40.230034
+],
+  "geometry": {"coordinates":[175.57063299999999,-40.230034],"type":"Point"}
 }

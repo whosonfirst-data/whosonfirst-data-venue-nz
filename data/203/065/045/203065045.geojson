@@ -2,13 +2,14 @@
   "id": 203065045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.147736,-37.674286,176.147736,-37.674286",
     "geom:latitude":-37.674286,
     "geom:longitude":176.147736,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Grange Rd ",
     "sg:city":"Otumoetai",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203065045,
-    "wof:lastmodified":1449026858,
+    "wof:lastmodified":1466311648,
     "wof:name":"Wilko Construction",
     "wof:parent_id":85781315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "contractor"
     ]
 },
-  "bbox": [176.147736,-37.674286,176.147736,-37.674286],
-  "geometry": {"coordinates":[176.147736,-37.674286],"type":"Point"}
+  "bbox": [
+    176.147736,
+    -37.674286,
+    176.147736,
+    -37.674286
+],
+  "geometry": {"coordinates":[176.14773600000001,-37.674286],"type":"Point"}
 }

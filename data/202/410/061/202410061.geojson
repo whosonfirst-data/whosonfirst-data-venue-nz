@@ -2,13 +2,14 @@
   "id": 202410061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.279175,-41.275417,173.279175,-41.275417",
     "geom:latitude":-41.275417,
     "geom:longitude":173.279175,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Kerr St ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202410061,
-    "wof:lastmodified":1449060143,
+    "wof:lastmodified":1466311330,
     "wof:name":"Nelson Technical Sleep Service",
     "wof:parent_id":85782467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "beauty"
     ]
 },
-  "bbox": [173.279175,-41.275417,173.279175,-41.275417],
-  "geometry": {"coordinates":[173.279175,-41.275417],"type":"Point"}
+  "bbox": [
+    173.279175,
+    -41.275417,
+    173.279175,
+    -41.275417
+],
+  "geometry": {"coordinates":[173.27917500000001,-41.275417],"type":"Point"}
 }

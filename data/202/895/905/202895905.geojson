@@ -2,13 +2,14 @@
   "id": 202895905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.737015,-41.284779,174.737015,-41.284779",
     "geom:latitude":-41.284779,
     "geom:longitude":174.737015,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Karori Rd Karori ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202895905,
-    "wof:lastmodified":1449061190,
+    "wof:lastmodified":1466312785,
     "wof:name":"Karori Mowers & Chainsaws",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cutter"
     ]
 },
-  "bbox": [174.737015,-41.284779,174.737015,-41.284779],
-  "geometry": {"coordinates":[174.737015,-41.284779],"type":"Point"}
+  "bbox": [
+    174.737015,
+    -41.284779,
+    174.737015,
+    -41.284779
+],
+  "geometry": {"coordinates":[174.73701500000001,-41.284779],"type":"Point"}
 }

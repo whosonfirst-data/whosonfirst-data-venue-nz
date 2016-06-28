@@ -2,13 +2,14 @@
   "id": 203361637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.32608,-38.009754,175.32608,-38.009754",
     "geom:latitude":-38.009754,
     "geom:longitude":175.32608,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Arawata St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203361637,
-    "wof:lastmodified":1449026343,
+    "wof:lastmodified":1466312341,
     "wof:name":"The Shoe Repair Shop",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wear"
     ]
 },
-  "bbox": [175.32608,-38.009754,175.32608,-38.009754],
-  "geometry": {"coordinates":[175.32608,-38.009754],"type":"Point"}
+  "bbox": [
+    175.32608,
+    -38.009754,
+    175.32608,
+    -38.009754
+],
+  "geometry": {"coordinates":[175.32607999999999,-38.009754],"type":"Point"}
 }

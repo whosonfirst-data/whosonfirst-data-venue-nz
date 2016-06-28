@@ -2,13 +2,14 @@
   "id": 219752957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.63472,-40.328678,175.63472,-40.328678",
     "geom:latitude":-40.328678,
     "geom:longitude":175.63472,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1050 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219752957,
-    "wof:lastmodified":1449070982,
+    "wof:lastmodified":1466312916,
     "wof:name":"T J Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "servicing"
     ]
 },
-  "bbox": [175.63472,-40.328678,175.63472,-40.328678],
-  "geometry": {"coordinates":[175.63472,-40.328678],"type":"Point"}
+  "bbox": [
+    175.63472,
+    -40.328678,
+    175.63472,
+    -40.328678
+],
+  "geometry": {"coordinates":[175.63471999999999,-40.328678],"type":"Point"}
 }

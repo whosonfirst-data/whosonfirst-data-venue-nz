@@ -2,13 +2,14 @@
   "id": 219335837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.994919,-38.651115,177.994919,-38.651115",
     "geom:latitude":-38.651115,
     "geom:longitude":177.994919,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"784 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219335837,
-    "wof:lastmodified":1449072713,
+    "wof:lastmodified":1466311225,
     "wof:name":"Alfresco Motor Lodge",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accommodation"
     ]
 },
-  "bbox": [177.994919,-38.651115,177.994919,-38.651115],
-  "geometry": {"coordinates":[177.994919,-38.651115],"type":"Point"}
+  "bbox": [
+    177.994919,
+    -38.651115,
+    177.994919,
+    -38.651115
+],
+  "geometry": {"coordinates":[177.99491900000001,-38.651115],"type":"Point"}
 }

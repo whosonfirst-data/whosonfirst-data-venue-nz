@@ -2,13 +2,14 @@
   "id": 203071249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.496643,-41.03722,175.496643,-41.03722",
     "geom:latitude":-41.03722,
     "geom:longitude":175.496643,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Lincoln & Dalefield Rds ",
     "sg:city":"Carterton",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203071249,
-    "wof:lastmodified":1449026149,
+    "wof:lastmodified":1466311733,
     "wof:name":"Tower Gates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "outdoor"
     ]
 },
-  "bbox": [175.496643,-41.03722,175.496643,-41.03722],
-  "geometry": {"coordinates":[175.496643,-41.03722],"type":"Point"}
+  "bbox": [
+    175.496643,
+    -41.03722,
+    175.496643,
+    -41.03722
+],
+  "geometry": {"coordinates":[175.49664300000001,-41.03722],"type":"Point"}
 }

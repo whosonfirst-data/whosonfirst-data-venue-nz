@@ -2,13 +2,14 @@
   "id": 219774235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.757156,-36.748329,174.757156,-36.748329",
     "geom:latitude":-36.748329,
     "geom:longitude":174.757156,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Park Rse Campbells Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219774235,
-    "wof:lastmodified":1449071756,
+    "wof:lastmodified":1466312889,
     "wof:name":"Jim Woonton Auto Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.757156,-36.748329,174.757156,-36.748329],
-  "geometry": {"coordinates":[174.757156,-36.748329],"type":"Point"}
+  "bbox": [
+    174.757156,
+    -36.748329,
+    174.757156,
+    -36.748329
+],
+  "geometry": {"coordinates":[174.75715600000001,-36.748329],"type":"Point"}
 }

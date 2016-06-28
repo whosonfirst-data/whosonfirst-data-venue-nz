@@ -2,13 +2,14 @@
   "id": 202649563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.714531,39.982712,-77.714531,39.982712",
     "geom:latitude":39.982712,
     "geom:longitude":-77.714531,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Boundary Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202649563,
-    "wof:lastmodified":1449061813,
+    "wof:lastmodified":1466311920,
     "wof:name":"Bell P L Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plasterer"
     ]
 },
-  "bbox": [-77.714531,39.982712,-77.714531,39.982712],
-  "geometry": {"coordinates":[-77.714531,39.982712],"type":"Point"}
+  "bbox": [
+    -77.714531,
+    39.982712,
+    -77.714531,
+    39.982712
+],
+  "geometry": {"coordinates":[-77.71453099999999,39.982712],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185835765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.270248,-37.699039,176.270248,-37.699039",
     "geom:latitude":-37.699039,
     "geom:longitude":176.270248,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Gravatt Rd ",
     "sg:city":"Papamoa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185835765,
-    "wof:lastmodified":1449006841,
+    "wof:lastmodified":1466311463,
     "wof:name":"Nicola Johnson School of Guitar",
     "wof:parent_id":85778819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leisure"
     ]
 },
-  "bbox": [176.270248,-37.699039,176.270248,-37.699039],
-  "geometry": {"coordinates":[176.270248,-37.699039],"type":"Point"}
+  "bbox": [
+    176.270248,
+    -37.699039,
+    176.270248,
+    -37.699039
+],
+  "geometry": {"coordinates":[176.27024800000001,-37.699039],"type":"Point"}
 }

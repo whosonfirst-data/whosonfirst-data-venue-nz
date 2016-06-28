@@ -2,13 +2,14 @@
   "id": 219485265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.01857,-38.65023,178.01857,-38.65023",
     "geom:latitude":-38.65023,
     "geom:longitude":178.01857,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Stout St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219485265,
-    "wof:lastmodified":1449072545,
+    "wof:lastmodified":1466312263,
     "wof:name":"Riverdale School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.01857,-38.65023,178.01857,-38.65023],
-  "geometry": {"coordinates":[178.01857,-38.65023],"type":"Point"}
+  "bbox": [
+    178.01857,
+    -38.65023,
+    178.01857,
+    -38.65023
+],
+  "geometry": {"coordinates":[178.01857000000001,-38.65023],"type":"Point"}
 }

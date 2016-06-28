@@ -2,13 +2,14 @@
   "id": 185952679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.247986,-38.139851,176.247986,-38.139851",
     "geom:latitude":-38.139851,
     "geom:longitude":176.247986,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Rotorua International Stadium Devon St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185952679,
-    "wof:lastmodified":1449007754,
+    "wof:lastmodified":1466312120,
     "wof:name":"Bay of Plenty Rugby Union",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sports"
     ]
 },
-  "bbox": [176.247986,-38.139851,176.247986,-38.139851],
+  "bbox": [
+    176.247986,
+    -38.139851,
+    176.247986,
+    -38.139851
+],
   "geometry": {"coordinates":[176.247986,-38.139851],"type":"Point"}
 }

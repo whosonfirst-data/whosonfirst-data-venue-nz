@@ -2,13 +2,14 @@
   "id": 203100263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.105988,-40.202209,176.105988,-40.202209",
     "geom:latitude":-40.202209,
     "geom:longitude":176.105988,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 203 ",
     "sg:city":"Dannevirke",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203100263,
-    "wof:lastmodified":1449026365,
+    "wof:lastmodified":1466310519,
     "wof:name":"Youth Line",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "counselling"
     ]
 },
-  "bbox": [176.105988,-40.202209,176.105988,-40.202209],
+  "bbox": [
+    176.105988,
+    -40.202209,
+    176.105988,
+    -40.202209
+],
   "geometry": {"coordinates":[176.105988,-40.202209],"type":"Point"}
 }

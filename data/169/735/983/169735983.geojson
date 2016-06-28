@@ -2,13 +2,14 @@
   "id": 169735983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.656601,-45.63982,170.656601,-45.63982",
     "geom:latitude":-45.63982,
     "geom:longitude":170.656601,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Stornoway St Karitane ",
     "sg:city":"Waikouaiti",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":169735983,
-    "wof:lastmodified":1449035893,
+    "wof:lastmodified":1466311177,
     "wof:name":"Karitane Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.656601,-45.63982,170.656601,-45.63982],
-  "geometry": {"coordinates":[170.656601,-45.63982],"type":"Point"}
+  "bbox": [
+    170.656601,
+    -45.63982,
+    170.656601,
+    -45.63982
+],
+  "geometry": {"coordinates":[170.65660099999999,-45.63982],"type":"Point"}
 }

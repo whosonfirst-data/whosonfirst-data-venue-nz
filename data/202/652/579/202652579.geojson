@@ -2,13 +2,14 @@
   "id": 202652579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.58522,-40.376179,175.58522,-40.376179",
     "geom:latitude":-40.376179,
     "geom:longitude":175.58522,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Hurley Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202652579,
-    "wof:lastmodified":1449061729,
+    "wof:lastmodified":1466311945,
     "wof:name":"Hope P K",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plasterer"
     ]
 },
-  "bbox": [175.58522,-40.376179,175.58522,-40.376179],
-  "geometry": {"coordinates":[175.58522,-40.376179],"type":"Point"}
+  "bbox": [
+    175.58522,
+    -40.376179,
+    175.58522,
+    -40.376179
+],
+  "geometry": {"coordinates":[175.58521999999999,-40.376179],"type":"Point"}
 }

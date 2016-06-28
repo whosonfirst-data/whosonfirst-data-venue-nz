@@ -2,13 +2,14 @@
   "id": 186577293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.849808,-39.50882,176.849808,-39.50882",
     "geom:latitude":-39.50882,
     "geom:longitude":176.849808,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Oak Rd Poraiti ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186577293,
-    "wof:lastmodified":1449053100,
+    "wof:lastmodified":1466312935,
     "wof:name":"Dental Scanning Services NZ",
     "wof:parent_id":85772933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "beauty"
     ]
 },
-  "bbox": [176.849808,-39.50882,176.849808,-39.50882],
+  "bbox": [
+    176.849808,
+    -39.50882,
+    176.849808,
+    -39.50882
+],
   "geometry": {"coordinates":[176.849808,-39.50882],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203391921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.88501,-36.907879,174.88501,-36.907879",
     "geom:latitude":-36.907879,
     "geom:longitude":174.88501,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Pakuranga Rd Pakuranga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203391921,
-    "wof:lastmodified":1449026186,
+    "wof:lastmodified":1466312450,
     "wof:name":"Panmure Bridge Marina",
     "wof:parent_id":85773103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [174.88501,-36.907879,174.88501,-36.907879],
-  "geometry": {"coordinates":[174.88501,-36.907879],"type":"Point"}
+  "bbox": [
+    174.88501,
+    -36.907879,
+    174.88501,
+    -36.907879
+],
+  "geometry": {"coordinates":[174.88500999999999,-36.907879],"type":"Point"}
 }

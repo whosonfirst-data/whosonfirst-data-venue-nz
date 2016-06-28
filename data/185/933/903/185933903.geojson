@@ -2,13 +2,14 @@
   "id": 185933903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.628372,-43.538486,172.628372,-43.538486",
     "geom:latitude":-43.538486,
     "geom:longitude":172.628372,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Halkett St ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185933903,
-    "wof:lastmodified":1449006943,
+    "wof:lastmodified":1466312049,
     "wof:name":"Al Marsh Automotive Ltd",
     "wof:parent_id":85782371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sports"
     ]
 },
-  "bbox": [172.628372,-43.538486,172.628372,-43.538486],
-  "geometry": {"coordinates":[172.628372,-43.538486],"type":"Point"}
+  "bbox": [
+    172.628372,
+    -43.538486,
+    172.628372,
+    -43.538486
+],
+  "geometry": {"coordinates":[172.62837200000001,-43.538486],"type":"Point"}
 }

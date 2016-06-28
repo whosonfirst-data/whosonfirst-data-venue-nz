@@ -2,13 +2,14 @@
   "id": 236003025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.459961,-41.220089,175.459961,-41.220089",
     "geom:latitude":-41.220089,
     "geom:longitude":175.459961,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Pirinoa Rd ",
     "sg:city":"Martinborough",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":236003025,
-    "wof:lastmodified":1449004940,
+    "wof:lastmodified":1466310657,
     "wof:name":"Ma Maison Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "dining"
     ]
 },
-  "bbox": [175.459961,-41.220089,175.459961,-41.220089],
-  "geometry": {"coordinates":[175.459961,-41.220089],"type":"Point"}
+  "bbox": [
+    175.459961,
+    -41.220089,
+    175.459961,
+    -41.220089
+],
+  "geometry": {"coordinates":[175.45996099999999,-41.220089],"type":"Point"}
 }

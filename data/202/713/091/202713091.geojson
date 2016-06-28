@@ -2,13 +2,14 @@
   "id": 202713091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.32402,-35.713745,174.32402,-35.713745",
     "geom:latitude":-35.713745,
     "geom:longitude":174.32402,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Deveron St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202713091,
-    "wof:lastmodified":1449062410,
+    "wof:lastmodified":1466312289,
     "wof:name":"I Do Windows",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [174.32402,-35.713745,174.32402,-35.713745],
-  "geometry": {"coordinates":[174.32402,-35.713745],"type":"Point"}
+  "bbox": [
+    174.32402,
+    -35.713745,
+    174.32402,
+    -35.713745
+],
+  "geometry": {"coordinates":[174.32401999999999,-35.713745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202384509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.498352,-45.893566,170.498352,-45.893566",
     "geom:latitude":-45.893566,
     "geom:longitude":170.498352,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"133 King Edward St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202384509,
-    "wof:lastmodified":1449060415,
+    "wof:lastmodified":1466310637,
     "wof:name":"Rumours of Eternity",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "professional"
     ]
 },
-  "bbox": [170.498352,-45.893566,170.498352,-45.893566],
-  "geometry": {"coordinates":[170.498352,-45.893566],"type":"Point"}
+  "bbox": [
+    170.498352,
+    -45.893566,
+    170.498352,
+    -45.893566
+],
+  "geometry": {"coordinates":[170.49835200000001,-45.893566],"type":"Point"}
 }

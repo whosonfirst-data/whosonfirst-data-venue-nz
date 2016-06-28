@@ -2,13 +2,14 @@
   "id": 169563801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.833679,-41.225903,174.833679,-41.225903",
     "geom:latitude":-41.225903,
     "geom:longitude":174.833679,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Sunhaven Dve Newlands ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169563801,
-    "wof:lastmodified":1449032733,
+    "wof:lastmodified":1466311011,
     "wof:name":"Colin Wakefield China Restorer",
     "wof:parent_id":85781377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.833679,-41.225903,174.833679,-41.225903],
-  "geometry": {"coordinates":[174.833679,-41.225903],"type":"Point"}
+  "bbox": [
+    174.833679,
+    -41.225903,
+    174.833679,
+    -41.225903
+],
+  "geometry": {"coordinates":[174.83367899999999,-41.225903],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219865807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.048218,-39.930809,175.048218,-39.930809",
     "geom:latitude":-39.930809,
     "geom:longitude":175.048218,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor 187 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219865807,
-    "wof:lastmodified":1449073062,
+    "wof:lastmodified":1466313149,
     "wof:name":"New Zealand Pine Management Ltd",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.048218,-39.930809,175.048218,-39.930809],
-  "geometry": {"coordinates":[175.048218,-39.930809],"type":"Point"}
+  "bbox": [
+    175.048218,
+    -39.930809,
+    175.048218,
+    -39.930809
+],
+  "geometry": {"coordinates":[175.04821799999999,-39.930809],"type":"Point"}
 }

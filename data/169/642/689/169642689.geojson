@@ -2,13 +2,14 @@
   "id": 169642689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.050507,-39.933258,175.050507,-39.933258",
     "geom:latitude":-39.933258,
     "geom:longitude":175.050507,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"110 St Hill St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169642689,
-    "wof:lastmodified":1449032879,
+    "wof:lastmodified":1466310571,
     "wof:name":"Briscoes Homeware",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.050507,-39.933258,175.050507,-39.933258],
-  "geometry": {"coordinates":[175.050507,-39.933258],"type":"Point"}
+  "bbox": [
+    175.050507,
+    -39.933258,
+    175.050507,
+    -39.933258
+],
+  "geometry": {"coordinates":[175.05050700000001,-39.933258],"type":"Point"}
 }

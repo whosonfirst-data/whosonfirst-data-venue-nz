@@ -2,13 +2,14 @@
   "id": 202910735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-96.459671,35.348896,-96.459671,35.348896",
     "geom:latitude":35.348896,
     "geom:longitude":-96.459671,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 6 (Next to Ripponburn Resthome) ",
     "sg:city":"Cromwell",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202910735,
-    "wof:lastmodified":1449061171,
+    "wof:lastmodified":1466312899,
     "wof:name":"Briar Dell Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gardening"
     ]
 },
-  "bbox": [-96.459671,35.348896,-96.459671,35.348896],
+  "bbox": [
+    -96.459671,
+    35.348896,
+    -96.459671,
+    35.348896
+],
   "geometry": {"coordinates":[-96.459671,35.348896],"type":"Point"}
 }

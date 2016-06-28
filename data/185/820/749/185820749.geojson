@@ -2,13 +2,14 @@
   "id": 185820749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.657089,-43.383129,172.657089,-43.383129",
     "geom:latitude":-43.383129,
     "geom:longitude":172.657089,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Williams St ",
     "sg:city":"Kaiapoi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185820749,
-    "wof:lastmodified":1449007462,
+    "wof:lastmodified":1466311368,
     "wof:name":"Seniors Kodak Express",
     "wof:parent_id":85782425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hobbies"
     ]
 },
-  "bbox": [172.657089,-43.383129,172.657089,-43.383129],
-  "geometry": {"coordinates":[172.657089,-43.383129],"type":"Point"}
+  "bbox": [
+    172.657089,
+    -43.383129,
+    172.657089,
+    -43.383129
+],
+  "geometry": {"coordinates":[172.65708900000001,-43.383129],"type":"Point"}
 }

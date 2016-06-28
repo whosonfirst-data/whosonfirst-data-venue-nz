@@ -2,13 +2,14 @@
   "id": 169539051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.053802,-39.934254,175.053802,-39.934254",
     "geom:latitude":-39.934254,
     "geom:longitude":175.053802,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Ridgway St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169539051,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466310616,
     "wof:name":"Radioworks - The Wanganui",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"
     ]
 },
-  "bbox": [175.053802,-39.934254,175.053802,-39.934254],
-  "geometry": {"coordinates":[175.053802,-39.934254],"type":"Point"}
+  "bbox": [
+    175.053802,
+    -39.934254,
+    175.053802,
+    -39.934254
+],
+  "geometry": {"coordinates":[175.05380199999999,-39.934254],"type":"Point"}
 }

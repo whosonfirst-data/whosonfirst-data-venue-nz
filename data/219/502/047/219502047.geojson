@@ -2,13 +2,14 @@
   "id": 219502047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.612061,-40.354561,175.612061,-40.354561",
     "geom:latitude":-40.354561,
     "geom:longitude":175.612061,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Floor 2 16 Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219502047,
-    "wof:lastmodified":1449072014,
+    "wof:lastmodified":1466312196,
     "wof:name":"Aspirations Te Ara Tumanako Ltd",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "education"
     ]
 },
-  "bbox": [175.612061,-40.354561,175.612061,-40.354561],
-  "geometry": {"coordinates":[175.612061,-40.354561],"type":"Point"}
+  "bbox": [
+    175.612061,
+    -40.354561,
+    175.612061,
+    -40.354561
+],
+  "geometry": {"coordinates":[175.61206100000001,-40.354561],"type":"Point"}
 }

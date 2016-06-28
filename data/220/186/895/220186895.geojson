@@ -2,13 +2,14 @@
   "id": 220186895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.967621,-43.80481,172.967621,-43.80481",
     "geom:latitude":-43.80481,
     "geom:longitude":172.967621,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Rue Lavaud ",
     "sg:city":"Akaroa",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":220186895,
-    "wof:lastmodified":1449074665,
+    "wof:lastmodified":1466311360,
     "wof:name":"Akaroa Butchery & Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.967621,-43.80481,172.967621,-43.80481],
-  "geometry": {"coordinates":[172.967621,-43.80481],"type":"Point"}
+  "bbox": [
+    172.967621,
+    -43.80481,
+    172.967621,
+    -43.80481
+],
+  "geometry": {"coordinates":[172.96762100000001,-43.80481],"type":"Point"}
 }

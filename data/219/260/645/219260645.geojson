@@ -2,13 +2,14 @@
   "id": 219260645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.762451,-36.86565,174.762451,-36.86565",
     "geom:latitude":-36.86565,
     "geom:longitude":174.762451,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Burleigh St Grafton ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219260645,
-    "wof:lastmodified":1449070974,
+    "wof:lastmodified":1466310631,
     "wof:name":"Auckland Property Management Ltd",
     "wof:parent_id":85778317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.762451,-36.86565,174.762451,-36.86565],
+  "bbox": [
+    174.762451,
+    -36.86565,
+    174.762451,
+    -36.86565
+],
   "geometry": {"coordinates":[174.762451,-36.86565],"type":"Point"}
 }

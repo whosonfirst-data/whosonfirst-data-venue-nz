@@ -2,13 +2,14 @@
   "id": 185762515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.316986,-35.722858,174.316986,-35.722858",
     "geom:latitude":-35.722858,
     "geom:longitude":174.316986,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Rust Ave ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185762515,
-    "wof:lastmodified":1449007737,
+    "wof:lastmodified":1466310978,
     "wof:name":"Returned Services Assn",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.316986,-35.722858,174.316986,-35.722858],
-  "geometry": {"coordinates":[174.316986,-35.722858],"type":"Point"}
+  "bbox": [
+    174.316986,
+    -35.722858,
+    174.316986,
+    -35.722858
+],
+  "geometry": {"coordinates":[174.31698600000001,-35.722858],"type":"Point"}
 }

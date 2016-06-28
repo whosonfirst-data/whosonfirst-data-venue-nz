@@ -2,13 +2,14 @@
   "id": 185658889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.801804,-41.29541,174.801804,-41.29541",
     "geom:latitude":-41.29541,
     "geom:longitude":174.801804,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Grafton Rd Roseneath ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185658889,
-    "wof:lastmodified":1449006563,
+    "wof:lastmodified":1466311612,
     "wof:name":"Wordsmiths",
     "wof:parent_id":85778579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "author"
     ]
 },
-  "bbox": [174.801804,-41.29541,174.801804,-41.29541],
+  "bbox": [
+    174.801804,
+    -41.29541,
+    174.801804,
+    -41.29541
+],
   "geometry": {"coordinates":[174.801804,-41.29541],"type":"Point"}
 }

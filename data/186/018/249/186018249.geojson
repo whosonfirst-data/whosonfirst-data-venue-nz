@@ -2,13 +2,14 @@
   "id": 186018249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.847198,-39.534081,176.847198,-39.534081",
     "geom:latitude":-39.534081,
     "geom:longitude":176.847198,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Basil Rd Taradale ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186018249,
-    "wof:lastmodified":1449051711,
+    "wof:lastmodified":1466310862,
     "wof:name":"Taurus Carriages",
     "wof:parent_id":85773225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [176.847198,-39.534081,176.847198,-39.534081],
-  "geometry": {"coordinates":[176.847198,-39.534081],"type":"Point"}
+  "bbox": [
+    176.847198,
+    -39.534081,
+    176.847198,
+    -39.534081
+],
+  "geometry": {"coordinates":[176.84719799999999,-39.534081],"type":"Point"}
 }

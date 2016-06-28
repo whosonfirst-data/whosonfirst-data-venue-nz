@@ -2,13 +2,14 @@
   "id": 202611395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.14151,-37.699909,176.14151,-37.699909",
     "geom:latitude":-37.699909,
     "geom:longitude":176.14151,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Birch Ave ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202611395,
-    "wof:lastmodified":1449062123,
+    "wof:lastmodified":1466311608,
     "wof:name":"Trayco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessories"
     ]
 },
-  "bbox": [176.14151,-37.699909,176.14151,-37.699909],
-  "geometry": {"coordinates":[176.14151,-37.699909],"type":"Point"}
+  "bbox": [
+    176.14151,
+    -37.699909,
+    176.14151,
+    -37.699909
+],
+  "geometry": {"coordinates":[176.14151000000001,-37.699909],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186617545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.055588,-36.79723,175.055588,-36.79723",
     "geom:latitude":-36.79723,
     "geom:longitude":175.055588,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Ostend Rd Ostend ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186617545,
-    "wof:lastmodified":1449050360,
+    "wof:lastmodified":1466312987,
     "wof:name":"Waiheke Workout",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fitness"
     ]
 },
-  "bbox": [175.055588,-36.79723,175.055588,-36.79723],
+  "bbox": [
+    175.055588,
+    -36.79723,
+    175.055588,
+    -36.79723
+],
   "geometry": {"coordinates":[175.055588,-36.79723],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169828351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.037628,-39.924549,175.037628,-39.924549",
     "geom:latitude":-39.924549,
     "geom:longitude":175.037628,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"447 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169828351,
-    "wof:lastmodified":1449034355,
+    "wof:lastmodified":1466311869,
     "wof:name":"Wanganui Underwater Dive Centre",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.037628,-39.924549,175.037628,-39.924549],
-  "geometry": {"coordinates":[175.037628,-39.924549],"type":"Point"}
+  "bbox": [
+    175.037628,
+    -39.924549,
+    175.037628,
+    -39.924549
+],
+  "geometry": {"coordinates":[175.03762800000001,-39.924549],"type":"Point"}
 }

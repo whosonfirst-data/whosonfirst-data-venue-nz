@@ -2,13 +2,14 @@
   "id": 219383779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.251389,-38.137054,176.251389,-38.137054",
     "geom:latitude":-38.137054,
     "geom:longitude":176.251389,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1221 Tutanekai St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219383779,
-    "wof:lastmodified":1449071876,
+    "wof:lastmodified":1466311631,
     "wof:name":"Harvey World Travel",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "broker"
     ]
 },
-  "bbox": [176.251389,-38.137054,176.251389,-38.137054],
-  "geometry": {"coordinates":[176.251389,-38.137054],"type":"Point"}
+  "bbox": [
+    176.251389,
+    -38.137054,
+    176.251389,
+    -38.137054
+],
+  "geometry": {"coordinates":[176.25138899999999,-38.137054],"type":"Point"}
 }

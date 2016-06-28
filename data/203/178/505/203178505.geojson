@@ -2,13 +2,14 @@
   "id": 203178505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.105392,-45.130268,170.105392,-45.130268",
     "geom:latitude":-45.130268,
     "geom:longitude":170.105392,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Pery St ",
     "sg:city":"Ranfurly",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203178505,
-    "wof:lastmodified":1449026328,
+    "wof:lastmodified":1466311169,
     "wof:name":"Maniototo Laundrette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fabric"
     ]
 },
-  "bbox": [170.105392,-45.130268,170.105392,-45.130268],
-  "geometry": {"coordinates":[170.105392,-45.130268],"type":"Point"}
+  "bbox": [
+    170.105392,
+    -45.130268,
+    170.105392,
+    -45.130268
+],
+  "geometry": {"coordinates":[170.10539199999999,-45.130268],"type":"Point"}
 }

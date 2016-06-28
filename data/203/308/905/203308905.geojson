@@ -2,13 +2,14 @@
   "id": 203308905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.683395,-36.90979,174.683395,-36.90979",
     "geom:latitude":-36.90979,
     "geom:longitude":174.683395,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203308905,
-    "wof:lastmodified":1449026893,
+    "wof:lastmodified":1466312153,
     "wof:name":"Masco Wools Ltd",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "clothing"
     ]
 },
-  "bbox": [174.683395,-36.90979,174.683395,-36.90979],
-  "geometry": {"coordinates":[174.683395,-36.90979],"type":"Point"}
+  "bbox": [
+    174.683395,
+    -36.90979,
+    174.683395,
+    -36.90979
+],
+  "geometry": {"coordinates":[174.68339499999999,-36.90979],"type":"Point"}
 }

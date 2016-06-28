@@ -2,13 +2,14 @@
   "id": 202888975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.39119,-46.483765,168.39119,-46.483765",
     "geom:latitude":-46.483765,
     "geom:longitude":168.39119,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Bluff Road Awarua ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202888975,
-    "wof:lastmodified":1449061689,
+    "wof:lastmodified":1466312776,
     "wof:name":"Ballance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.39119,-46.483765,168.39119,-46.483765],
-  "geometry": {"coordinates":[168.39119,-46.483765],"type":"Point"}
+  "bbox": [
+    168.39119,
+    -46.483765,
+    168.39119,
+    -46.483765
+],
+  "geometry": {"coordinates":[168.39118999999999,-46.483765],"type":"Point"}
 }

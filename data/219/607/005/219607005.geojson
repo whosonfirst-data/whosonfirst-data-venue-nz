@@ -2,13 +2,14 @@
   "id": 219607005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.881302,-39.478134,176.881302,-39.478134",
     "geom:latitude":-39.478134,
     "geom:longitude":176.881302,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Meeanee Qy Westshore ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219607005,
-    "wof:lastmodified":1449070866,
+    "wof:lastmodified":1466312697,
     "wof:name":"Westshore Motors (1991) Ltd",
     "wof:parent_id":85773327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.881302,-39.478134,176.881302,-39.478134],
-  "geometry": {"coordinates":[176.881302,-39.478134],"type":"Point"}
+  "bbox": [
+    176.881302,
+    -39.478134,
+    176.881302,
+    -39.478134
+],
+  "geometry": {"coordinates":[176.88130200000001,-39.478134],"type":"Point"}
 }

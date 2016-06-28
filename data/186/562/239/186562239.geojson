@@ -2,13 +2,14 @@
   "id": 186562239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.350037,-46.411663,168.350037,-46.411663",
     "geom:latitude":-46.411663,
     "geom:longitude":168.350037,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Esk St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186562239,
-    "wof:lastmodified":1449051792,
+    "wof:lastmodified":1466312912,
     "wof:name":"Total Image Hair Skin and Body",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [168.350037,-46.411663,168.350037,-46.411663],
-  "geometry": {"coordinates":[168.350037,-46.411663],"type":"Point"}
+  "bbox": [
+    168.350037,
+    -46.411663,
+    168.350037,
+    -46.411663
+],
+  "geometry": {"coordinates":[168.35003699999999,-46.411663],"type":"Point"}
 }

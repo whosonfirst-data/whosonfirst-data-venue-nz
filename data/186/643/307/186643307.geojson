@@ -2,13 +2,14 @@
   "id": 186643307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.302292,-37.79401,175.302292,-37.79401",
     "geom:latitude":-37.79401,
     "geom:longitude":175.302292,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Galloway St Hamilton East ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186643307,
-    "wof:lastmodified":1449052663,
+    "wof:lastmodified":1466313015,
     "wof:name":"Tinas Nurture House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fitness"
     ]
 },
-  "bbox": [175.302292,-37.79401,175.302292,-37.79401],
-  "geometry": {"coordinates":[175.302292,-37.79401],"type":"Point"}
+  "bbox": [
+    175.302292,
+    -37.79401,
+    175.302292,
+    -37.79401
+],
+  "geometry": {"coordinates":[175.30229199999999,-37.79401],"type":"Point"}
 }

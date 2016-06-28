@@ -2,13 +2,14 @@
   "id": 186534797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.322449,-35.726639,174.322449,-35.726639",
     "geom:latitude":-35.726639,
     "geom:longitude":174.322449,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Cameron St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186534797,
-    "wof:lastmodified":1449051091,
+    "wof:lastmodified":1466312858,
     "wof:name":"Evoloution",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.322449,-35.726639,174.322449,-35.726639],
-  "geometry": {"coordinates":[174.322449,-35.726639],"type":"Point"}
+  "bbox": [
+    174.322449,
+    -35.726639,
+    174.322449,
+    -35.726639
+],
+  "geometry": {"coordinates":[174.32244900000001,-35.726639],"type":"Point"}
 }

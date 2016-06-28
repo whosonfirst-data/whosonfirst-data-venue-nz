@@ -2,13 +2,14 @@
   "id": 203095561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.663391,-40.951508,175.663391,-40.951508",
     "geom:latitude":-40.951508,
     "geom:longitude":175.663391,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Church St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203095561,
-    "wof:lastmodified":1449025891,
+    "wof:lastmodified":1466311957,
     "wof:name":"Relationship Services",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counselling"
     ]
 },
-  "bbox": [175.663391,-40.951508,175.663391,-40.951508],
-  "geometry": {"coordinates":[175.663391,-40.951508],"type":"Point"}
+  "bbox": [
+    175.663391,
+    -40.951508,
+    175.663391,
+    -40.951508
+],
+  "geometry": {"coordinates":[175.66339099999999,-40.951508],"type":"Point"}
 }

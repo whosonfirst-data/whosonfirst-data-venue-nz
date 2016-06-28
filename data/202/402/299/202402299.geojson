@@ -2,13 +2,14 @@
   "id": 202402299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.837738,-41.110344,174.837738,-41.110344",
     "geom:latitude":-41.110344,
     "geom:longitude":174.837738,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Te Pene Ave Titahi Bay ",
     "sg:city":"Porirua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202402299,
-    "wof:lastmodified":1449060925,
+    "wof:lastmodified":1466311080,
     "wof:name":"Kemp Home & Hospital",
     "wof:parent_id":85773251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.837738,-41.110344,174.837738,-41.110344],
+  "bbox": [
+    174.837738,
+    -41.110344,
+    174.837738,
+    -41.110344
+],
   "geometry": {"coordinates":[174.837738,-41.110344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220014467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.233185,-38.151352,176.233185,-38.151352",
     "geom:latitude":-38.151352,
     "geom:longitude":176.233185,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Huia St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220014467,
-    "wof:lastmodified":1449074424,
+    "wof:lastmodified":1466310947,
     "wof:name":"Local Finance Brokers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [176.233185,-38.151352,176.233185,-38.151352],
-  "geometry": {"coordinates":[176.233185,-38.151352],"type":"Point"}
+  "bbox": [
+    176.233185,
+    -38.151352,
+    176.233185,
+    -38.151352
+],
+  "geometry": {"coordinates":[176.23318499999999,-38.151352],"type":"Point"}
 }

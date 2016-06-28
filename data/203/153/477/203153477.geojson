@@ -2,13 +2,14 @@
   "id": 203153477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.60968,-43.499268,172.60968,-43.499268",
     "geom:latitude":-43.499268,
     "geom:longitude":172.60968,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"467 Papanui Rd Papanui ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203153477,
-    "wof:lastmodified":1449026284,
+    "wof:lastmodified":1466310930,
     "wof:name":"Animates",
     "wof:parent_id":85773111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pets"
     ]
 },
-  "bbox": [172.60968,-43.499268,172.60968,-43.499268],
+  "bbox": [
+    172.60968,
+    -43.499268,
+    172.60968,
+    -43.499268
+],
   "geometry": {"coordinates":[172.60968,-43.499268],"type":"Point"}
 }

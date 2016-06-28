@@ -2,13 +2,14 @@
   "id": 186261451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.821625,-36.978783,174.821625,-36.978783",
     "geom:latitude":-36.978783,
     "geom:longitude":174.821625,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Waokauri Pl Mangere ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186261451,
-    "wof:lastmodified":1449050303,
+    "wof:lastmodified":1466311930,
     "wof:name":"Dexters Warehouse Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.821625,-36.978783,174.821625,-36.978783],
-  "geometry": {"coordinates":[174.821625,-36.978783],"type":"Point"}
+  "bbox": [
+    174.821625,
+    -36.978783,
+    174.821625,
+    -36.978783
+],
+  "geometry": {"coordinates":[174.82162500000001,-36.978783],"type":"Point"}
 }

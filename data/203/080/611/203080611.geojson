@@ -2,13 +2,14 @@
   "id": 203080611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.47525,-37.901901,175.47525,-37.901901",
     "geom:latitude":-37.901901,
     "geom:longitude":175.47525,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Wordsworth St Cambridge ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203080611,
-    "wof:lastmodified":1449026830,
+    "wof:lastmodified":1466311813,
     "wof:name":"Professional Pools Ltd",
     "wof:parent_id":85782837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "spa"
     ]
 },
-  "bbox": [175.47525,-37.901901,175.47525,-37.901901],
-  "geometry": {"coordinates":[175.47525,-37.901901],"type":"Point"}
+  "bbox": [
+    175.47525,
+    -37.901901,
+    175.47525,
+    -37.901901
+],
+  "geometry": {"coordinates":[175.47524999999999,-37.901901],"type":"Point"}
 }

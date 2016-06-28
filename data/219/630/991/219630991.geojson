@@ -2,13 +2,14 @@
   "id": 219630991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.886383,44.433201,-77.886383,44.433201",
     "geom:latitude":44.433201,
     "geom:longitude":-77.886383,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Gisborne, Wairoa, New Plymouth, Wanganui, Havelock, North, Hastings",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":219630991,
-    "wof:lastmodified":1449071651,
+    "wof:lastmodified":1466312592,
     "wof:name":"Gee Motors Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.886383,44.433201,-77.886383,44.433201],
+  "bbox": [
+    -77.886383,
+    44.433201,
+    -77.886383,
+    44.433201
+],
   "geometry": {"coordinates":[-77.886383,44.433201],"type":"Point"}
 }

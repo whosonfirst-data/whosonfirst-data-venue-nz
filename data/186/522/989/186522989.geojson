@@ -2,13 +2,14 @@
   "id": 186522989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.206306,34.858204,-100.206306,34.858204",
     "geom:latitude":34.858204,
     "geom:longitude":-100.206306,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 6, 186-190 Willis St ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186522989,
-    "wof:lastmodified":1449051659,
+    "wof:lastmodified":1466312706,
     "wof:name":"Face to Face",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "perfumery"
     ]
 },
-  "bbox": [-100.206306,34.858204,-100.206306,34.858204],
+  "bbox": [
+    -100.206306,
+    34.858204,
+    -100.206306,
+    34.858204
+],
   "geometry": {"coordinates":[-100.206306,34.858204],"type":"Point"}
 }

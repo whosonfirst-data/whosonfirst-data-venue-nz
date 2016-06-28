@@ -2,13 +2,14 @@
   "id": 219714871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.045639,-39.934826,175.045639,-39.934826",
     "geom:latitude":-39.934826,
     "geom:longitude":175.045639,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Churton St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219714871,
-    "wof:lastmodified":1449072120,
+    "wof:lastmodified":1466312735,
     "wof:name":"Whitelock Suzuki Wanganui",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leasing"
     ]
 },
-  "bbox": [175.045639,-39.934826,175.045639,-39.934826],
-  "geometry": {"coordinates":[175.045639,-39.934826],"type":"Point"}
+  "bbox": [
+    175.045639,
+    -39.934826,
+    175.045639,
+    -39.934826
+],
+  "geometry": {"coordinates":[175.04563899999999,-39.934826],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219534081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.797195,-36.880795,174.797195,-36.880795",
     "geom:latitude":-36.880795,
     "geom:longitude":174.797195,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"353 Remuera Rd ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219534081,
-    "wof:lastmodified":1449071314,
+    "wof:lastmodified":1466312527,
     "wof:name":"Sight & Sound Touch Typing & Computer Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "typist"
     ]
 },
-  "bbox": [174.797195,-36.880795,174.797195,-36.880795],
-  "geometry": {"coordinates":[174.797195,-36.880795],"type":"Point"}
+  "bbox": [
+    174.797195,
+    -36.880795,
+    174.797195,
+    -36.880795
+],
+  "geometry": {"coordinates":[174.79719499999999,-36.880795],"type":"Point"}
 }

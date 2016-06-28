@@ -2,13 +2,14 @@
   "id": 202758549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.172913,-37.727711,176.172913,-37.727711",
     "geom:latitude":-37.727711,
     "geom:longitude":176.172913,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Welcome Bay Rd Welcome Bay ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202758549,
-    "wof:lastmodified":1449060879,
+    "wof:lastmodified":1466312327,
     "wof:name":"Metlifecare",
     "wof:parent_id":85782081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "village"
     ]
 },
-  "bbox": [176.172913,-37.727711,176.172913,-37.727711],
-  "geometry": {"coordinates":[176.172913,-37.727711],"type":"Point"}
+  "bbox": [
+    176.172913,
+    -37.727711,
+    176.172913,
+    -37.727711
+],
+  "geometry": {"coordinates":[176.17291299999999,-37.727711],"type":"Point"}
 }

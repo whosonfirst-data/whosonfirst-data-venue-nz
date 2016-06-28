@@ -2,13 +2,14 @@
   "id": 169651511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.321442,-35.725098,174.321442,-35.725098",
     "geom:latitude":-35.725098,
     "geom:longitude":174.321442,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"James St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169651511,
-    "wof:lastmodified":1449033347,
+    "wof:lastmodified":1466310635,
     "wof:name":"Variety Discounters Ltd",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.321442,-35.725098,174.321442,-35.725098],
-  "geometry": {"coordinates":[174.321442,-35.725098],"type":"Point"}
+  "bbox": [
+    174.321442,
+    -35.725098,
+    174.321442,
+    -35.725098
+],
+  "geometry": {"coordinates":[174.32144199999999,-35.725098],"type":"Point"}
 }

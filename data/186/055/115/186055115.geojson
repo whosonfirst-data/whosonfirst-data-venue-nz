@@ -2,13 +2,14 @@
   "id": 186055115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.245178,-37.757088,175.245178,-37.757088",
     "geom:latitude":-37.757088,
     "geom:longitude":175.245178,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"593 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186055115,
-    "wof:lastmodified":1449050999,
+    "wof:lastmodified":1466311554,
     "wof:name":"AB Equipment Limited",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [175.245178,-37.757088,175.245178,-37.757088],
-  "geometry": {"coordinates":[175.245178,-37.757088],"type":"Point"}
+  "bbox": [
+    175.245178,
+    -37.757088,
+    175.245178,
+    -37.757088
+],
+  "geometry": {"coordinates":[175.24517800000001,-37.757088],"type":"Point"}
 }

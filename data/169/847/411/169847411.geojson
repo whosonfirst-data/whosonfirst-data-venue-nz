@@ -2,13 +2,14 @@
   "id": 169847411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.691269,-36.721767,174.691269,-36.721767",
     "geom:latitude":-36.721767,
     "geom:longitude":174.691269,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"276 State Highway 17 Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169847411,
-    "wof:lastmodified":1449033888,
+    "wof:lastmodified":1466312090,
     "wof:name":"Albany Inn",
     "wof:parent_id":85772825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.691269,-36.721767,174.691269,-36.721767],
-  "geometry": {"coordinates":[174.691269,-36.721767],"type":"Point"}
+  "bbox": [
+    174.691269,
+    -36.721767,
+    174.691269,
+    -36.721767
+],
+  "geometry": {"coordinates":[174.69126900000001,-36.721767],"type":"Point"}
 }

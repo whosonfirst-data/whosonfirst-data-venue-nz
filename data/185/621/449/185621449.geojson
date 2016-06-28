@@ -2,13 +2,14 @@
   "id": 185621449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.783676,-36.862679,174.783676,-36.862679",
     "geom:latitude":-36.862679,
     "geom:longitude":174.783676,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Ayr St Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185621449,
-    "wof:lastmodified":1449008032,
+    "wof:lastmodified":1466311032,
     "wof:name":"Ewelme Cottage",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gallery"
     ]
 },
-  "bbox": [174.783676,-36.862679,174.783676,-36.862679],
-  "geometry": {"coordinates":[174.783676,-36.862679],"type":"Point"}
+  "bbox": [
+    174.783676,
+    -36.862679,
+    174.783676,
+    -36.862679
+],
+  "geometry": {"coordinates":[174.78367600000001,-36.862679],"type":"Point"}
 }

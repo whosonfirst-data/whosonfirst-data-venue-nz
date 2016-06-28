@@ -2,13 +2,14 @@
   "id": 185697183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.604202,-26.329201,-70.604202,-26.329201",
     "geom:latitude":-26.329201,
     "geom:longitude":-70.604202,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Te Ngae Rd & Margurita St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":185697183,
-    "wof:lastmodified":1449007615,
+    "wof:lastmodified":1466311980,
     "wof:name":"Putt Putt Mini Golf Course & Grand Prix Raceway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "leisure"
     ]
 },
-  "bbox": [-70.604202,-26.329201,-70.604202,-26.329201],
+  "bbox": [
+    -70.604202,
+    -26.329201,
+    -70.604202,
+    -26.329201
+],
   "geometry": {"coordinates":[-70.604202,-26.329201],"type":"Point"}
 }

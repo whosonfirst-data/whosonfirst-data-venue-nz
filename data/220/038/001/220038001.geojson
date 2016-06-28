@@ -2,13 +2,14 @@
   "id": 220038001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.58548,-40.328346,175.58548,-40.328346",
     "geom:latitude":-40.328346,
     "geom:longitude":175.58548,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"449 Rangitikei Line Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220038001,
-    "wof:lastmodified":1449074569,
+    "wof:lastmodified":1466312037,
     "wof:name":"Hardy Trade Supply Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [175.58548,-40.328346,175.58548,-40.328346],
-  "geometry": {"coordinates":[175.58548,-40.328346],"type":"Point"}
+  "bbox": [
+    175.58548,
+    -40.328346,
+    175.58548,
+    -40.328346
+],
+  "geometry": {"coordinates":[175.58547999999999,-40.328346],"type":"Point"}
 }

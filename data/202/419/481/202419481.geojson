@@ -2,13 +2,14 @@
   "id": 202419481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.76561,-41.287579,174.76561,-41.287579",
     "geom:latitude":-41.287579,
     "geom:longitude":174.76561,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Upland Rd Kelburn ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202419481,
-    "wof:lastmodified":1449062587,
+    "wof:lastmodified":1466311457,
     "wof:name":"Kelburn Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.76561,-41.287579,174.76561,-41.287579],
-  "geometry": {"coordinates":[174.76561,-41.287579],"type":"Point"}
+  "bbox": [
+    174.76561,
+    -41.287579,
+    174.76561,
+    -41.287579
+],
+  "geometry": {"coordinates":[174.76561000000001,-41.287579],"type":"Point"}
 }

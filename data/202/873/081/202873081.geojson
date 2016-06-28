@@ -2,13 +2,14 @@
   "id": 202873081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.816742,-41.315887,174.816742,-41.315887",
     "geom:latitude":-41.315887,
     "geom:longitude":174.816742,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 A Park Rd Miramar ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202873081,
-    "wof:lastmodified":1449060646,
+    "wof:lastmodified":1466312745,
     "wof:name":"Alex Wilson Upholstery",
     "wof:parent_id":85773025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [174.816742,-41.315887,174.816742,-41.315887],
+  "bbox": [
+    174.816742,
+    -41.315887,
+    174.816742,
+    -41.315887
+],
   "geometry": {"coordinates":[174.816742,-41.315887],"type":"Point"}
 }

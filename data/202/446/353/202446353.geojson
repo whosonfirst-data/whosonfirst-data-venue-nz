@@ -2,13 +2,14 @@
   "id": 202446353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.252808,-38.136738,176.252808,-38.136738",
     "geom:latitude":-38.136738,
     "geom:longitude":176.252808,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1129 Pukuatua St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202446353,
-    "wof:lastmodified":1449062437,
+    "wof:lastmodified":1466311711,
     "wof:name":"Bland Tony",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [176.252808,-38.136738,176.252808,-38.136738],
-  "geometry": {"coordinates":[176.252808,-38.136738],"type":"Point"}
+  "bbox": [
+    176.252808,
+    -38.136738,
+    176.252808,
+    -38.136738
+],
+  "geometry": {"coordinates":[176.25280799999999,-38.136738],"type":"Point"}
 }

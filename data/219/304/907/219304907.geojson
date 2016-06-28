@@ -2,13 +2,14 @@
   "id": 219304907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.774536,-36.888802,174.774536,-36.888802",
     "geom:latitude":-36.888802,
     "geom:longitude":174.774536,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Corbett Scott Ave Epsom ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219304907,
-    "wof:lastmodified":1449073029,
+    "wof:lastmodified":1466310972,
     "wof:name":"Corbett Scott Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.774536,-36.888802,174.774536,-36.888802],
-  "geometry": {"coordinates":[174.774536,-36.888802],"type":"Point"}
+  "bbox": [
+    174.774536,
+    -36.888802,
+    174.774536,
+    -36.888802
+],
+  "geometry": {"coordinates":[174.77453600000001,-36.888802],"type":"Point"}
 }

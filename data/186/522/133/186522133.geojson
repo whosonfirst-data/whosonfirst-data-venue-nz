@@ -2,13 +2,14 @@
   "id": 186522133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.849564,-36.912094,174.849564,-36.912094",
     "geom:latitude":-36.912094,
     "geom:longitude":174.849564,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Donnor Pl Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186522133,
-    "wof:lastmodified":1449051658,
+    "wof:lastmodified":1466312701,
     "wof:name":"Dr Hauschka Skincare",
     "wof:parent_id":85773109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "perfumery"
     ]
 },
-  "bbox": [174.849564,-36.912094,174.849564,-36.912094],
-  "geometry": {"coordinates":[174.849564,-36.912094],"type":"Point"}
+  "bbox": [
+    174.849564,
+    -36.912094,
+    174.849564,
+    -36.912094
+],
+  "geometry": {"coordinates":[174.84956399999999,-36.912094],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202971689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.164246,-38.321228,175.164246,-38.321228",
     "geom:latitude":-38.321228,
     "geom:longitude":175.164246,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 View Rd Te ",
     "sg:city":"Kuiti",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":202971689,
-    "wof:lastmodified":1449061406,
+    "wof:lastmodified":1466312849,
     "wof:name":"Enviroscape",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.164246,-38.321228,175.164246,-38.321228],
-  "geometry": {"coordinates":[175.164246,-38.321228],"type":"Point"}
+  "bbox": [
+    175.164246,
+    -38.321228,
+    175.164246,
+    -38.321228
+],
+  "geometry": {"coordinates":[175.16424599999999,-38.321228],"type":"Point"}
 }

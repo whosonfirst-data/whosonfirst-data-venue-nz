@@ -2,13 +2,14 @@
   "id": 185756411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.358459,-46.410755,168.358459,-46.410755",
     "geom:latitude":-46.410755,
     "geom:longitude":168.358459,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Don St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185756411,
-    "wof:lastmodified":1449007572,
+    "wof:lastmodified":1466310940,
     "wof:name":"Invercargill Club",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.358459,-46.410755,168.358459,-46.410755],
-  "geometry": {"coordinates":[168.358459,-46.410755],"type":"Point"}
+  "bbox": [
+    168.358459,
+    -46.410755,
+    168.358459,
+    -46.410755
+],
+  "geometry": {"coordinates":[168.35845900000001,-46.410755],"type":"Point"}
 }

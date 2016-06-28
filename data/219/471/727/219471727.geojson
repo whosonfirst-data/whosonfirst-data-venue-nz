@@ -2,13 +2,14 @@
   "id": 219471727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.792694,-40.171829,175.792694,-40.171829",
     "geom:latitude":-40.171829,
     "geom:longitude":175.792694,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"R D 14 ",
     "sg:city":"Pohangina",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219471727,
-    "wof:lastmodified":1449071803,
+    "wof:lastmodified":1466312229,
     "wof:name":"Writers' Ink",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "training"
     ]
 },
-  "bbox": [175.792694,-40.171829,175.792694,-40.171829],
-  "geometry": {"coordinates":[175.792694,-40.171829],"type":"Point"}
+  "bbox": [
+    175.792694,
+    -40.171829,
+    175.792694,
+    -40.171829
+],
+  "geometry": {"coordinates":[175.79269400000001,-40.171829],"type":"Point"}
 }

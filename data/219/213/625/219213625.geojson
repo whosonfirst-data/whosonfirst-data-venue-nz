@@ -2,13 +2,14 @@
   "id": 219213625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.80899,-36.914082,174.80899,-36.914082",
     "geom:latitude":-36.914082,
     "geom:longitude":174.80899,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Station Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219213625,
-    "wof:lastmodified":1449070416,
+    "wof:lastmodified":1466311633,
     "wof:name":"Post Haste Couriers",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.80899,-36.914082,174.80899,-36.914082],
-  "geometry": {"coordinates":[174.80899,-36.914082],"type":"Point"}
+  "bbox": [
+    174.80899,
+    -36.914082,
+    174.80899,
+    -36.914082
+],
+  "geometry": {"coordinates":[174.80898999999999,-36.914082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185703161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.646774,-36.87624,174.646774,-36.87624",
     "geom:latitude":-36.87624,
     "geom:longitude":174.646774,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"150 McLeod Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185703161,
-    "wof:lastmodified":1449007095,
+    "wof:lastmodified":1466310579,
     "wof:name":"Universal Pyrotechnics Ltd",
     "wof:parent_id":85778669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.646774,-36.87624,174.646774,-36.87624],
-  "geometry": {"coordinates":[174.646774,-36.87624],"type":"Point"}
+  "bbox": [
+    174.646774,
+    -36.87624,
+    174.646774,
+    -36.87624
+],
+  "geometry": {"coordinates":[174.64677399999999,-36.87624],"type":"Point"}
 }

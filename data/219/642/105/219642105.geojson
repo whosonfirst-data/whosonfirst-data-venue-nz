@@ -2,13 +2,14 @@
   "id": 219642105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.077637,-41.124397,175.077637,-41.124397",
     "geom:latitude":-41.124397,
     "geom:longitude":175.077637,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Palmerston North, Woodville, Masterton",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219642105,
-    "wof:lastmodified":1449070587,
+    "wof:lastmodified":1466312687,
     "wof:name":"Gee Motors Ltd",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supplies"
     ]
 },
-  "bbox": [175.077637,-41.124397,175.077637,-41.124397],
-  "geometry": {"coordinates":[175.077637,-41.124397],"type":"Point"}
+  "bbox": [
+    175.077637,
+    -41.124397,
+    175.077637,
+    -41.124397
+],
+  "geometry": {"coordinates":[175.07763700000001,-41.124397],"type":"Point"}
 }

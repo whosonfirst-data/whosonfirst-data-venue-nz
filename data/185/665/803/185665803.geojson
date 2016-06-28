@@ -2,13 +2,14 @@
   "id": 185665803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.765305,-36.793705,174.765305,-36.793705",
     "geom:latitude":-36.793705,
     "geom:longitude":174.765305,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Barrys Point Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185665803,
-    "wof:lastmodified":1449007099,
+    "wof:lastmodified":1466311705,
     "wof:name":"Pack 'N' Pedal",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "camping"
     ]
 },
-  "bbox": [174.765305,-36.793705,174.765305,-36.793705],
-  "geometry": {"coordinates":[174.765305,-36.793705],"type":"Point"}
+  "bbox": [
+    174.765305,
+    -36.793705,
+    174.765305,
+    -36.793705
+],
+  "geometry": {"coordinates":[174.76530500000001,-36.793705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203348677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.169617,-37.685944,176.169617,-37.685944",
     "geom:latitude":-37.685944,
     "geom:longitude":176.169617,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Devonport Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203348677,
-    "wof:lastmodified":1449025034,
+    "wof:lastmodified":1466312281,
     "wof:name":"David Elman Shoes",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "wear"
     ]
 },
-  "bbox": [176.169617,-37.685944,176.169617,-37.685944],
-  "geometry": {"coordinates":[176.169617,-37.685944],"type":"Point"}
+  "bbox": [
+    176.169617,
+    -37.685944,
+    176.169617,
+    -37.685944
+],
+  "geometry": {"coordinates":[176.16961699999999,-37.685944],"type":"Point"}
 }

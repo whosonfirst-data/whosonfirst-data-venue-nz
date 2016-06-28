@@ -2,13 +2,14 @@
   "id": 169719469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.732193,-36.783249,174.732193,-36.783249",
     "geom:latitude":-36.783249,
     "geom:longitude":174.732193,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Chartwell Ave Glenfield ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169719469,
-    "wof:lastmodified":1449033112,
+    "wof:lastmodified":1466311060,
     "wof:name":"Marlborough Stationers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.732193,-36.783249,174.732193,-36.783249],
+  "bbox": [
+    174.732193,
+    -36.783249,
+    174.732193,
+    -36.783249
+],
   "geometry": {"coordinates":[174.732193,-36.783249],"type":"Point"}
 }

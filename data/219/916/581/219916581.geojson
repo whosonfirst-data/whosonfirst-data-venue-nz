@@ -2,13 +2,14 @@
   "id": 219916581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.282211,-39.590439,174.282211,-39.590439",
     "geom:latitude":-39.590439,
     "geom:longitude":174.282211,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Regent St ",
     "sg:city":"Hawera",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219916581,
-    "wof:lastmodified":1449072306,
+    "wof:lastmodified":1466313100,
     "wof:name":"South Taranaki Farm Services",
     "wof:parent_id":85781023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.282211,-39.590439,174.282211,-39.590439],
-  "geometry": {"coordinates":[174.282211,-39.590439],"type":"Point"}
+  "bbox": [
+    174.282211,
+    -39.590439,
+    174.282211,
+    -39.590439
+],
+  "geometry": {"coordinates":[174.28221099999999,-39.590439],"type":"Point"}
 }

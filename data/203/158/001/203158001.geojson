@@ -2,13 +2,14 @@
   "id": 203158001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.249496,-37.780655,175.249496,-37.780655",
     "geom:latitude":-37.780655,
     "geom:longitude":175.249496,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Lincoln St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203158001,
-    "wof:lastmodified":1449026241,
+    "wof:lastmodified":1466310969,
     "wof:name":"Pet Essentials",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pets"
     ]
 },
-  "bbox": [175.249496,-37.780655,175.249496,-37.780655],
-  "geometry": {"coordinates":[175.249496,-37.780655],"type":"Point"}
+  "bbox": [
+    175.249496,
+    -37.780655,
+    175.249496,
+    -37.780655
+],
+  "geometry": {"coordinates":[175.24949599999999,-37.780655],"type":"Point"}
 }

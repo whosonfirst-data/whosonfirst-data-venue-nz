@@ -2,13 +2,14 @@
   "id": 203052261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.247253,-37.803833,175.247253,-37.803833",
     "geom:latitude":-37.803833,
     "geom:longitude":175.247253,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Karen Cre Dinsdale ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203052261,
-    "wof:lastmodified":1449025765,
+    "wof:lastmodified":1466311556,
     "wof:name":"Kruger (Michael) Paving",
     "wof:parent_id":85781735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [175.247253,-37.803833,175.247253,-37.803833],
+  "bbox": [
+    175.247253,
+    -37.803833,
+    175.247253,
+    -37.803833
+],
   "geometry": {"coordinates":[175.247253,-37.803833],"type":"Point"}
 }

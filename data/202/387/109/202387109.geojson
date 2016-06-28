@@ -2,13 +2,14 @@
   "id": 202387109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.803177,-36.881145,174.803177,-36.881145",
     "geom:latitude":-36.881145,
     "geom:longitude":174.803177,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"484 Remuera Rd Remuera ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202387109,
-    "wof:lastmodified":1449062313,
+    "wof:lastmodified":1466310682,
     "wof:name":"E-Health Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "health"
     ]
 },
-  "bbox": [174.803177,-36.881145,174.803177,-36.881145],
-  "geometry": {"coordinates":[174.803177,-36.881145],"type":"Point"}
+  "bbox": [
+    174.803177,
+    -36.881145,
+    174.803177,
+    -36.881145
+],
+  "geometry": {"coordinates":[174.80317700000001,-36.881145],"type":"Point"}
 }

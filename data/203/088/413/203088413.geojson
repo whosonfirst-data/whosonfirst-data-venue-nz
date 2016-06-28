@@ -2,13 +2,14 @@
   "id": 203088413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.619026,34.419327,-79.619026,34.419327",
     "geom:latitude":34.419327,
     "geom:longitude":-79.619026,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Family Centre 18 Henry St ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203088413,
-    "wof:lastmodified":1449026412,
+    "wof:lastmodified":1466311893,
     "wof:name":"Barnardos New Zealand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "counselling"
     ]
 },
-  "bbox": [-79.619026,34.419327,-79.619026,34.419327],
-  "geometry": {"coordinates":[-79.619026,34.419327],"type":"Point"}
+  "bbox": [
+    -79.619026,
+    34.419327,
+    -79.619026,
+    34.419327
+],
+  "geometry": {"coordinates":[-79.61902600000001,34.419327],"type":"Point"}
 }

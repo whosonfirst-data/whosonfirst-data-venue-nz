@@ -2,13 +2,14 @@
   "id": 185833105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.743347,-36.855286,174.743347,-36.855286",
     "geom:latitude":-36.855286,
     "geom:longitude":174.743347,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Norfolk St Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185833105,
-    "wof:lastmodified":1449006803,
+    "wof:lastmodified":1466311451,
     "wof:name":"Craig Bassett",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.743347,-36.855286,174.743347,-36.855286],
+  "bbox": [
+    174.743347,
+    -36.855286,
+    174.743347,
+    -36.855286
+],
   "geometry": {"coordinates":[174.743347,-36.855286],"type":"Point"}
 }

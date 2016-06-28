@@ -2,13 +2,14 @@
   "id": 235967699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.608749,-43.495632,172.608749,-43.495632",
     "geom:latitude":-43.495632,
     "geom:longitude":172.608749,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 A Main North Rd Papanui ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235967699,
-    "wof:lastmodified":1449008592,
+    "wof:lastmodified":1466311141,
     "wof:name":"Rose & Thistle Tavern",
     "wof:parent_id":85773111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brasserie"
     ]
 },
-  "bbox": [172.608749,-43.495632,172.608749,-43.495632],
-  "geometry": {"coordinates":[172.608749,-43.495632],"type":"Point"}
+  "bbox": [
+    172.608749,
+    -43.495632,
+    172.608749,
+    -43.495632
+],
+  "geometry": {"coordinates":[172.60874899999999,-43.495632],"type":"Point"}
 }

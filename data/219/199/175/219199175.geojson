@@ -2,13 +2,14 @@
   "id": 219199175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.631851,-36.892311,174.631851,-36.892311",
     "geom:latitude":-36.892311,
     "geom:longitude":174.631851,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Railside Ave Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219199175,
-    "wof:lastmodified":1449070752,
+    "wof:lastmodified":1466311468,
     "wof:name":"Western Cabs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.631851,-36.892311,174.631851,-36.892311],
-  "geometry": {"coordinates":[174.631851,-36.892311],"type":"Point"}
+  "bbox": [
+    174.631851,
+    -36.892311,
+    174.631851,
+    -36.892311
+],
+  "geometry": {"coordinates":[174.63185100000001,-36.892311],"type":"Point"}
 }

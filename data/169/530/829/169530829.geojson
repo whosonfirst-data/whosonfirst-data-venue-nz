@@ -2,13 +2,14 @@
   "id": 169530829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.518448,-45.85968,170.518448,-45.85968",
     "geom:latitude":-45.85968,
     "geom:longitude":170.518448,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"University of Otago, 58",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169530829,
-    "wof:lastmodified":1449034446,
+    "wof:lastmodified":1466310526,
     "wof:name":"Bank of New Zealand",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.518448,-45.85968,170.518448,-45.85968],
-  "geometry": {"coordinates":[170.518448,-45.85968],"type":"Point"}
+  "bbox": [
+    170.518448,
+    -45.85968,
+    170.518448,
+    -45.85968
+],
+  "geometry": {"coordinates":[170.51844800000001,-45.85968],"type":"Point"}
 }

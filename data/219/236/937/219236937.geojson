@@ -2,13 +2,14 @@
   "id": 219236937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.341034,-46.409492,168.341034,-46.409492",
     "geom:latitude":-46.409492,
     "geom:longitude":168.341034,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Spey St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219236937,
-    "wof:lastmodified":1449070764,
+    "wof:lastmodified":1466311866,
     "wof:name":"Halls Refrigerated Transport",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.341034,-46.409492,168.341034,-46.409492],
-  "geometry": {"coordinates":[168.341034,-46.409492],"type":"Point"}
+  "bbox": [
+    168.341034,
+    -46.409492,
+    168.341034,
+    -46.409492
+],
+  "geometry": {"coordinates":[168.34103400000001,-46.409492],"type":"Point"}
 }

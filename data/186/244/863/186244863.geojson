@@ -2,13 +2,14 @@
   "id": 186244863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.837128,-36.872089,174.837128,-36.872089",
     "geom:latitude":-36.872089,
     "geom:longitude":174.837128,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Rutherford Tce Meadowbank ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186244863,
-    "wof:lastmodified":1449051435,
+    "wof:lastmodified":1466311801,
     "wof:name":"Scanalog Systems Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [174.837128,-36.872089,174.837128,-36.872089],
-  "geometry": {"coordinates":[174.837128,-36.872089],"type":"Point"}
+  "bbox": [
+    174.837128,
+    -36.872089,
+    174.837128,
+    -36.872089
+],
+  "geometry": {"coordinates":[174.83712800000001,-36.872089],"type":"Point"}
 }

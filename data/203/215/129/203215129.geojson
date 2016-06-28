@@ -2,13 +2,14 @@
   "id": 203215129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.7258,-36.811256,174.7258,-36.811256",
     "geom:latitude":-36.811256,
     "geom:longitude":174.7258,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 a Birkenhead Ave ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203215129,
-    "wof:lastmodified":1449026510,
+    "wof:lastmodified":1466311503,
     "wof:name":"Salvation Army Family Stores",
     "wof:parent_id":85778355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabric"
     ]
 },
-  "bbox": [174.7258,-36.811256,174.7258,-36.811256],
-  "geometry": {"coordinates":[174.7258,-36.811256],"type":"Point"}
+  "bbox": [
+    174.7258,
+    -36.811256,
+    174.7258,
+    -36.811256
+],
+  "geometry": {"coordinates":[174.72579999999999,-36.811256],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185894035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.613312,-40.353996,175.613312,-40.353996",
     "geom:latitude":-40.353996,
     "geom:longitude":175.613312,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185894035,
-    "wof:lastmodified":1449007266,
+    "wof:lastmodified":1466311822,
     "wof:name":"Ocean & Ice Ltd",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.613312,-40.353996,175.613312,-40.353996],
-  "geometry": {"coordinates":[175.613312,-40.353996],"type":"Point"}
+  "bbox": [
+    175.613312,
+    -40.353996,
+    175.613312,
+    -40.353996
+],
+  "geometry": {"coordinates":[175.61331200000001,-40.353996],"type":"Point"}
 }

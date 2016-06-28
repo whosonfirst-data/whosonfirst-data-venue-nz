@@ -2,13 +2,14 @@
   "id": 235961499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.481842,-45.895092,170.481842,-45.895092",
     "geom:latitude":-45.895092,
     "geom:longitude":170.481842,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Lisburn Ave Caversham ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235961499,
-    "wof:lastmodified":1449008595,
+    "wof:lastmodified":1466311076,
     "wof:name":"Lisburn House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dining"
     ]
 },
-  "bbox": [170.481842,-45.895092,170.481842,-45.895092],
+  "bbox": [
+    170.481842,
+    -45.895092,
+    170.481842,
+    -45.895092
+],
   "geometry": {"coordinates":[170.481842,-45.895092],"type":"Point"}
 }

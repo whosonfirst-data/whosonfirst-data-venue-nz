@@ -2,13 +2,14 @@
   "id": 219482425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.62413,-36.921429,174.62413,-36.921429",
     "geom:latitude":-36.921429,
     "geom:longitude":174.62413,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shaw Rd Oratia ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219482425,
-    "wof:lastmodified":1449071642,
+    "wof:lastmodified":1466312257,
     "wof:name":"Oratia District School",
     "wof:parent_id":85773095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.62413,-36.921429,174.62413,-36.921429],
-  "geometry": {"coordinates":[174.62413,-36.921429],"type":"Point"}
+  "bbox": [
+    174.62413,
+    -36.921429,
+    174.62413,
+    -36.921429
+],
+  "geometry": {"coordinates":[174.62413000000001,-36.921429],"type":"Point"}
 }

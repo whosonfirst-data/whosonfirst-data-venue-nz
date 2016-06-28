@@ -2,13 +2,14 @@
   "id": 203116271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.654938,-43.495762,172.654938,-43.495762",
     "geom:latitude":-43.495762,
     "geom:longitude":172.654938,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"77 C Briggs Rd Shirley ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203116271,
-    "wof:lastmodified":1449025211,
+    "wof:lastmodified":1466310663,
     "wof:name":"Planet Tattoo",
     "wof:parent_id":85778427,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garden"
     ]
 },
-  "bbox": [172.654938,-43.495762,172.654938,-43.495762],
-  "geometry": {"coordinates":[172.654938,-43.495762],"type":"Point"}
+  "bbox": [
+    172.654938,
+    -43.495762,
+    172.654938,
+    -43.495762
+],
+  "geometry": {"coordinates":[172.65493799999999,-43.495762],"type":"Point"}
 }

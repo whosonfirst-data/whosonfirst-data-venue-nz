@@ -2,13 +2,14 @@
   "id": 203102245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.679688,34.152187,-85.679688,34.152187",
     "geom:latitude":34.152187,
     "geom:longitude":-85.679688,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 90001 Auckland Mail ",
     "sg:city":"Centre",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203102245,
-    "wof:lastmodified":1449026732,
+    "wof:lastmodified":1466310537,
     "wof:name":"New Zealand School of Feng Shui",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.679688,34.152187,-85.679688,34.152187],
+  "bbox": [
+    -85.679688,
+    34.152187,
+    -85.679688,
+    34.152187
+],
   "geometry": {"coordinates":[-85.679688,34.152187],"type":"Point"}
 }

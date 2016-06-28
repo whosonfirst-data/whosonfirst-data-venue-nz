@@ -2,13 +2,14 @@
   "id": 202503841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.618484,-40.35075,175.618484,-40.35075",
     "geom:latitude":-40.35075,
     "geom:longitude":175.618484,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Victoria Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202503841,
-    "wof:lastmodified":1449062652,
+    "wof:lastmodified":1466310695,
     "wof:name":"Norwood Dr Blair",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.618484,-40.35075,175.618484,-40.35075],
+  "bbox": [
+    175.618484,
+    -40.35075,
+    175.618484,
+    -40.35075
+],
   "geometry": {"coordinates":[175.618484,-40.35075],"type":"Point"}
 }

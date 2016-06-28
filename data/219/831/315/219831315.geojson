@@ -2,13 +2,14 @@
   "id": 219831315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.769714,-37.773144,144.769714,-37.773144",
     "geom:latitude":-37.773144,
     "geom:longitude":144.769714,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Kahikatea Dve Hamilton Private Bag ",
     "sg:city":"3026",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219831315,
-    "wof:lastmodified":1449072456,
+    "wof:lastmodified":1466313051,
     "wof:name":"Gallagher Group Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [144.769714,-37.773144,144.769714,-37.773144],
-  "geometry": {"coordinates":[144.769714,-37.773144],"type":"Point"}
+  "bbox": [
+    144.769714,
+    -37.773144,
+    144.769714,
+    -37.773144
+],
+  "geometry": {"coordinates":[144.76971399999999,-37.773144],"type":"Point"}
 }

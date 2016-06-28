@@ -2,13 +2,14 @@
   "id": 235944167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.213715,-43.463322,172.213715,-43.463322",
     "geom:latitude":-43.463322,
     "geom:longitude":172.213715,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2394 Old West Coast Rd Courtenay ",
     "sg:city":"Kirwee",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":235944167,
-    "wof:lastmodified":1449008418,
+    "wof:lastmodified":1466310842,
     "wof:name":"Kowhai Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "processor"
     ]
 },
-  "bbox": [172.213715,-43.463322,172.213715,-43.463322],
-  "geometry": {"coordinates":[172.213715,-43.463322],"type":"Point"}
+  "bbox": [
+    172.213715,
+    -43.463322,
+    172.213715,
+    -43.463322
+],
+  "geometry": {"coordinates":[172.21371500000001,-43.463322],"type":"Point"}
 }

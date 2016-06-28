@@ -2,13 +2,14 @@
   "id": 203082663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.909668,-41.205898,174.909668,-41.205898",
     "geom:latitude":-41.205898,
     "geom:longitude":174.909668,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"403 High St Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203082663,
-    "wof:lastmodified":1449024997,
+    "wof:lastmodified":1466311841,
     "wof:name":"Wright Spa Pools (L/H) Ltd",
     "wof:parent_id":85781005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "spa"
     ]
 },
-  "bbox": [174.909668,-41.205898,174.909668,-41.205898],
-  "geometry": {"coordinates":[174.909668,-41.205898],"type":"Point"}
+  "bbox": [
+    174.909668,
+    -41.205898,
+    174.909668,
+    -41.205898
+],
+  "geometry": {"coordinates":[174.90966800000001,-41.205898],"type":"Point"}
 }

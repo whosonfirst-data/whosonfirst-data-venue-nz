@@ -2,13 +2,14 @@
   "id": 202774819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.725037,37.879848,-81.725037,37.879848",
     "geom:latitude":37.879848,
     "geom:longitude":-81.725037,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 25021 Town Basin ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202774819,
-    "wof:lastmodified":1449061101,
+    "wof:lastmodified":1466312468,
     "wof:name":"Attwood Pete Garage Doors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [-81.725037,37.879848,-81.725037,37.879848],
+  "bbox": [
+    -81.725037,
+    37.879848,
+    -81.725037,
+    37.879848
+],
   "geometry": {"coordinates":[-81.725037,37.879848],"type":"Point"}
 }

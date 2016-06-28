@@ -2,13 +2,14 @@
   "id": 203370505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.28772,-37.861488,175.28772,-37.861488",
     "geom:latitude":-37.861488,
     "geom:longitude":175.28772,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Ingram Rd Hamilton RD 2 Rukuhia ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203370505,
-    "wof:lastmodified":1449025979,
+    "wof:lastmodified":1466312472,
     "wof:name":"Avia Air Charter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.28772,-37.861488,175.28772,-37.861488],
-  "geometry": {"coordinates":[175.28772,-37.861488],"type":"Point"}
+  "bbox": [
+    175.28772,
+    -37.861488,
+    175.28772,
+    -37.861488
+],
+  "geometry": {"coordinates":[175.28772000000001,-37.861488],"type":"Point"}
 }

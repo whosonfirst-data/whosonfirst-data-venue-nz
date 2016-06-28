@@ -2,13 +2,14 @@
   "id": 185995219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.816559,-41.324383,174.816559,-41.324383",
     "geom:latitude":-41.324383,
     "geom:longitude":174.816559,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Crawford Grn Miramar ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185995219,
-    "wof:lastmodified":1449008046,
+    "wof:lastmodified":1466312321,
     "wof:name":"Ching Robyn",
     "wof:parent_id":85778637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wedding"
     ]
 },
-  "bbox": [174.816559,-41.324383,174.816559,-41.324383],
-  "geometry": {"coordinates":[174.816559,-41.324383],"type":"Point"}
+  "bbox": [
+    174.816559,
+    -41.324383,
+    174.816559,
+    -41.324383
+],
+  "geometry": {"coordinates":[174.81655900000001,-41.324383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203226175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.280701,-37.757721,175.280701,-37.757721",
     "geom:latitude":-37.757721,
     "geom:longitude":175.280701,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"44 a Tongariro St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203226175,
-    "wof:lastmodified":1449026342,
+    "wof:lastmodified":1466311606,
     "wof:name":"The Ethnic Clothing Company Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.280701,-37.757721,175.280701,-37.757721],
-  "geometry": {"coordinates":[175.280701,-37.757721],"type":"Point"}
+  "bbox": [
+    175.280701,
+    -37.757721,
+    175.280701,
+    -37.757721
+],
+  "geometry": {"coordinates":[175.28070099999999,-37.757721],"type":"Point"}
 }

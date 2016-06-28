@@ -2,13 +2,14 @@
   "id": 186568081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.957184,-40.980827,174.957184,-40.980827",
     "geom:latitude":-40.980827,
     "geom:longitude":174.957184,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Wellington Rd ",
     "sg:city":"Paekakariki",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":186568081,
-    "wof:lastmodified":1449050174,
+    "wof:lastmodified":1466313014,
     "wof:name":"Paekakariki School Dental Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.957184,-40.980827,174.957184,-40.980827],
-  "geometry": {"coordinates":[174.957184,-40.980827],"type":"Point"}
+  "bbox": [
+    174.957184,
+    -40.980827,
+    174.957184,
+    -40.980827
+],
+  "geometry": {"coordinates":[174.95718400000001,-40.980827],"type":"Point"}
 }

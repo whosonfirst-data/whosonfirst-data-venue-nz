@@ -2,13 +2,14 @@
   "id": 186391681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.535789,42.832748,-75.535789,42.832748",
     "geom:latitude":42.832748,
     "geom:longitude":-75.535789,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Lake Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186391681,
-    "wof:lastmodified":1449052097,
+    "wof:lastmodified":1466312380,
     "wof:name":"Monteith & Parker",
     "wof:parent_id":85831885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.535789,42.832748,-75.535789,42.832748],
-  "geometry": {"coordinates":[-75.535789,42.832748],"type":"Point"}
+  "bbox": [
+    -75.535789,
+    42.832748,
+    -75.535789,
+    42.832748
+],
+  "geometry": {"coordinates":[-75.53578899999999,42.832748],"type":"Point"}
 }

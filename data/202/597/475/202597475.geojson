@@ -2,13 +2,14 @@
   "id": 202597475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.140793,-37.668228,176.140793,-37.668228",
     "geom:latitude":-37.668228,
     "geom:longitude":176.140793,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cherrywood ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202597475,
-    "wof:lastmodified":1449062601,
+    "wof:lastmodified":1466311494,
     "wof:name":"Security Letterbox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "letter"
     ]
 },
-  "bbox": [176.140793,-37.668228,176.140793,-37.668228],
+  "bbox": [
+    176.140793,
+    -37.668228,
+    176.140793,
+    -37.668228
+],
   "geometry": {"coordinates":[176.140793,-37.668228],"type":"Point"}
 }

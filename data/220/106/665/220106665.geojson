@@ -2,13 +2,14 @@
   "id": 220106665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.835876,40.259987,-76.835876,40.259987",
     "geom:latitude":40.259987,
     "geom:longitude":-76.835876,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Queen St ",
     "sg:city":"Waitara",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220106665,
-    "wof:lastmodified":1449074046,
+    "wof:lastmodified":1466310656,
     "wof:name":"Andre's Bakery Waitara",
     "wof:parent_id":85868485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "-"
     ]
 },
-  "bbox": [-76.835876,40.259987,-76.835876,40.259987],
+  "bbox": [
+    -76.835876,
+    40.259987,
+    -76.835876,
+    40.259987
+],
   "geometry": {"coordinates":[-76.835876,40.259987],"type":"Point"}
 }

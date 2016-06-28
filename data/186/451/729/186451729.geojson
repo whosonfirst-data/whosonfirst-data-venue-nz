@@ -2,13 +2,14 @@
   "id": 186451729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.326416,-38.01355,175.326416,-38.01355",
     "geom:latitude":-38.01355,
     "geom:longitude":175.326416,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Rickit Rd Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186451729,
-    "wof:lastmodified":1449051544,
+    "wof:lastmodified":1466312633,
     "wof:name":"Power Chill NZ Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "servicing"
     ]
 },
-  "bbox": [175.326416,-38.01355,175.326416,-38.01355],
-  "geometry": {"coordinates":[175.326416,-38.01355],"type":"Point"}
+  "bbox": [
+    175.326416,
+    -38.01355,
+    175.326416,
+    -38.01355
+],
+  "geometry": {"coordinates":[175.32641599999999,-38.01355],"type":"Point"}
 }

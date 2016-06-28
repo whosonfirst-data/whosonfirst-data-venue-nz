@@ -2,13 +2,14 @@
   "id": 219309321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.956535,48.891335,-121.956535,48.891335",
     "geom:latitude":48.891335,
     "geom:longitude":-121.956535,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Hwy 6 Franz Josef Franz Josef ",
     "sg:city":"Glacier",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219309321,
-    "wof:lastmodified":1449071183,
+    "wof:lastmodified":1466311014,
     "wof:name":"Glacier Gateway Motor Lodge",
     "wof:parent_id":85848697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accommodation"
     ]
 },
-  "bbox": [-121.956535,48.891335,-121.956535,48.891335],
+  "bbox": [
+    -121.956535,
+    48.891335,
+    -121.956535,
+    48.891335
+],
   "geometry": {"coordinates":[-121.956535,48.891335],"type":"Point"}
 }

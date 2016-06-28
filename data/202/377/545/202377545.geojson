@@ -2,13 +2,14 @@
   "id": 202377545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.880615,-39.681347,176.880615,-39.681347",
     "geom:latitude":-39.681347,
     "geom:longitude":176.880615,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Kopanga Rd Havelock North ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202377545,
-    "wof:lastmodified":1449061062,
+    "wof:lastmodified":1466310541,
     "wof:name":"Hellerwork Hawkes Bay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [176.880615,-39.681347,176.880615,-39.681347],
-  "geometry": {"coordinates":[176.880615,-39.681347],"type":"Point"}
+  "bbox": [
+    176.880615,
+    -39.681347,
+    176.880615,
+    -39.681347
+],
+  "geometry": {"coordinates":[176.88061500000001,-39.681347],"type":"Point"}
 }

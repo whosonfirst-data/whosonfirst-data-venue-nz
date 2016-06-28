@@ -2,13 +2,14 @@
   "id": 203283967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.497787,-36.759533,175.497787,-36.759533",
     "geom:latitude":-36.759533,
     "geom:longitude":175.497787,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Kapanga Rd ",
     "sg:city":"Coromandel",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":203283967,
-    "wof:lastmodified":1449025470,
+    "wof:lastmodified":1466312049,
     "wof:name":"Assay House Craft Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.497787,-36.759533,175.497787,-36.759533],
-  "geometry": {"coordinates":[175.497787,-36.759533],"type":"Point"}
+  "bbox": [
+    175.497787,
+    -36.759533,
+    175.497787,
+    -36.759533
+],
+  "geometry": {"coordinates":[175.49778699999999,-36.759533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220025427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.326141,-38.009716,175.326141,-38.009716",
     "geom:latitude":-38.009716,
     "geom:longitude":175.326141,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Arawata St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220025427,
-    "wof:lastmodified":1449074730,
+    "wof:lastmodified":1466311149,
     "wof:name":"Robert Harris Cafe",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [175.326141,-38.009716,175.326141,-38.009716],
-  "geometry": {"coordinates":[175.326141,-38.009716],"type":"Point"}
+  "bbox": [
+    175.326141,
+    -38.009716,
+    175.326141,
+    -38.009716
+],
+  "geometry": {"coordinates":[175.32614100000001,-38.009716],"type":"Point"}
 }

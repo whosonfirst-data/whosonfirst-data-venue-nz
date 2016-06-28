@@ -2,13 +2,14 @@
   "id": 186360487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.796692,-36.947651,174.796692,-36.947651",
     "geom:latitude":-36.947651,
     "geom:longitude":174.796692,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rymer Pl Mangere Bridge ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186360487,
-    "wof:lastmodified":1449052390,
+    "wof:lastmodified":1466312381,
     "wof:name":"Carton Brokers Ltd",
     "wof:parent_id":85778435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.796692,-36.947651,174.796692,-36.947651],
-  "geometry": {"coordinates":[174.796692,-36.947651],"type":"Point"}
+  "bbox": [
+    174.796692,
+    -36.947651,
+    174.796692,
+    -36.947651
+],
+  "geometry": {"coordinates":[174.79669200000001,-36.947651],"type":"Point"}
 }

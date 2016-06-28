@@ -2,13 +2,14 @@
   "id": 202635993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.922318,-45.080101,170.922318,-45.080101",
     "geom:latitude":-45.080101,
     "geom:longitude":170.922318,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 A Gordon St Weston ",
     "sg:city":"Oamaru",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202635993,
-    "wof:lastmodified":1449061219,
+    "wof:lastmodified":1466311812,
     "wof:name":"Coughlan Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "related"
     ]
 },
-  "bbox": [170.922318,-45.080101,170.922318,-45.080101],
-  "geometry": {"coordinates":[170.922318,-45.080101],"type":"Point"}
+  "bbox": [
+    170.922318,
+    -45.080101,
+    170.922318,
+    -45.080101
+],
+  "geometry": {"coordinates":[170.92231799999999,-45.080101],"type":"Point"}
 }

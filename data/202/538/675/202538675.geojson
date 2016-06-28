@@ -2,13 +2,14 @@
   "id": 202538675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.303345,-38.007744,175.303345,-38.007744",
     "geom:latitude":-38.007744,
     "geom:longitude":175.303345,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"496 Pakura St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202538675,
-    "wof:lastmodified":1449060421,
+    "wof:lastmodified":1466310985,
     "wof:name":"Osteopathic Family Practice",
     "wof:parent_id":85782893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.303345,-38.007744,175.303345,-38.007744],
-  "geometry": {"coordinates":[175.303345,-38.007744],"type":"Point"}
+  "bbox": [
+    175.303345,
+    -38.007744,
+    175.303345,
+    -38.007744
+],
+  "geometry": {"coordinates":[175.30334500000001,-38.007744],"type":"Point"}
 }

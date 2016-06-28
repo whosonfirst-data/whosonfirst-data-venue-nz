@@ -2,13 +2,14 @@
   "id": 186058189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.68148,40.235821,-74.68148,40.235821",
     "geom:latitude":40.235821,
     "geom:longitude":-74.68148,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Daniel Pl ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186058189,
-    "wof:lastmodified":1449050785,
+    "wof:lastmodified":1466311592,
     "wof:name":"Ecolab Ltd",
     "wof:parent_id":85838551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "maintenance"
     ]
 },
-  "bbox": [-74.68148,40.235821,-74.68148,40.235821],
-  "geometry": {"coordinates":[-74.68148,40.235821],"type":"Point"}
+  "bbox": [
+    -74.68148,
+    40.235821,
+    -74.68148,
+    40.235821
+],
+  "geometry": {"coordinates":[-74.68147999999999,40.235821],"type":"Point"}
 }

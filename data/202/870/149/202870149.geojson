@@ -2,13 +2,14 @@
   "id": 202870149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.810059,-36.912128,174.810059,-36.912128",
     "geom:latitude":-36.912128,
     "geom:longitude":174.810059,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Fairfax Ave Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202870149,
-    "wof:lastmodified":1449060781,
+    "wof:lastmodified":1466312733,
     "wof:name":"Raymond Furniture",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [174.810059,-36.912128,174.810059,-36.912128],
+  "bbox": [
+    174.810059,
+    -36.912128,
+    174.810059,
+    -36.912128
+],
   "geometry": {"coordinates":[174.810059,-36.912128],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219297243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.720123,-43.564663,172.720123,-43.564663",
     "geom:latitude":-43.564663,
     "geom:longitude":172.720123,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Toledo Pl Mt Pleasant ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219297243,
-    "wof:lastmodified":1449072626,
+    "wof:lastmodified":1466310912,
     "wof:name":"The Nest on Mt Pleasant",
     "wof:parent_id":85778281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accommodation"
     ]
 },
-  "bbox": [172.720123,-43.564663,172.720123,-43.564663],
+  "bbox": [
+    172.720123,
+    -43.564663,
+    172.720123,
+    -43.564663
+],
   "geometry": {"coordinates":[172.720123,-43.564663],"type":"Point"}
 }

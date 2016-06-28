@@ -2,13 +2,14 @@
   "id": 219385831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.397217,-39.414413,175.397217,-39.414413",
     "geom:latitude":-39.414413,
     "geom:longitude":175.397217,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Clyde St ",
     "sg:city":"Ohakune",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219385831,
-    "wof:lastmodified":1449072484,
+    "wof:lastmodified":1466311654,
     "wof:name":"Holiday Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "broker"
     ]
 },
-  "bbox": [175.397217,-39.414413,175.397217,-39.414413],
-  "geometry": {"coordinates":[175.397217,-39.414413],"type":"Point"}
+  "bbox": [
+    175.397217,
+    -39.414413,
+    175.397217,
+    -39.414413
+],
+  "geometry": {"coordinates":[175.39721700000001,-39.414413],"type":"Point"}
 }

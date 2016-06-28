@@ -2,13 +2,14 @@
   "id": 219455797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.959457,-37.059521,174.959457,-37.059521",
     "geom:latitude":-37.059521,
     "geom:longitude":174.959457,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1182 Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219455797,
-    "wof:lastmodified":1449073349,
+    "wof:lastmodified":1466312181,
     "wof:name":"Able English Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "education"
     ]
 },
-  "bbox": [174.959457,-37.059521,174.959457,-37.059521],
-  "geometry": {"coordinates":[174.959457,-37.059521],"type":"Point"}
+  "bbox": [
+    174.959457,
+    -37.059521,
+    174.959457,
+    -37.059521
+],
+  "geometry": {"coordinates":[174.95945699999999,-37.059521],"type":"Point"}
 }

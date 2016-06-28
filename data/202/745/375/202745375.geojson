@@ -2,13 +2,14 @@
   "id": 202745375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.154343,-37.7001,176.154343,-37.7001",
     "geom:latitude":-37.7001,
     "geom:longitude":176.154343,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Edgecumbe Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202745375,
-    "wof:lastmodified":1449062531,
+    "wof:lastmodified":1466312398,
     "wof:name":"Killarney Resthome",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [176.154343,-37.7001,176.154343,-37.7001],
-  "geometry": {"coordinates":[176.154343,-37.7001],"type":"Point"}
+  "bbox": [
+    176.154343,
+    -37.7001,
+    176.154343,
+    -37.7001
+],
+  "geometry": {"coordinates":[176.15434300000001,-37.7001],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202731139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.590942,-40.346775,175.590942,-40.346775",
     "geom:latitude":-40.346775,
     "geom:longitude":175.590942,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Pirani Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202731139,
-    "wof:lastmodified":1449062360,
+    "wof:lastmodified":1466312461,
     "wof:name":"Cairns Bins",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "home"
     ]
 },
-  "bbox": [175.590942,-40.346775,175.590942,-40.346775],
-  "geometry": {"coordinates":[175.590942,-40.346775],"type":"Point"}
+  "bbox": [
+    175.590942,
+    -40.346775,
+    175.590942,
+    -40.346775
+],
+  "geometry": {"coordinates":[175.59094200000001,-40.346775],"type":"Point"}
 }

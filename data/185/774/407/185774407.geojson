@@ -2,13 +2,14 @@
   "id": 185774407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.116699,-36.8167,175.116699,-36.8167",
     "geom:latitude":-36.8167,
     "geom:longitude":175.116699,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Gt North Rd & Awaroa Ave ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185774407,
-    "wof:lastmodified":1449007242,
+    "wof:lastmodified":1466311053,
     "wof:name":"Kelston Community Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.116699,-36.8167,175.116699,-36.8167],
-  "geometry": {"coordinates":[175.116699,-36.8167],"type":"Point"}
+  "bbox": [
+    175.116699,
+    -36.8167,
+    175.116699,
+    -36.8167
+],
+  "geometry": {"coordinates":[175.11669900000001,-36.8167],"type":"Point"}
 }

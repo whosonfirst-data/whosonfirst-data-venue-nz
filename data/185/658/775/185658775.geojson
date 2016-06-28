@@ -2,13 +2,14 @@
   "id": 185658775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.221992,34.844269,-100.221992,34.844269",
     "geom:latitude":34.844269,
     "geom:longitude":-100.221992,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 19-109 ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185658775,
-    "wof:lastmodified":1449006565,
+    "wof:lastmodified":1466311611,
     "wof:name":"Scribe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "author"
     ]
 },
-  "bbox": [-100.221992,34.844269,-100.221992,34.844269],
+  "bbox": [
+    -100.221992,
+    34.844269,
+    -100.221992,
+    34.844269
+],
   "geometry": {"coordinates":[-100.221992,34.844269],"type":"Point"}
 }

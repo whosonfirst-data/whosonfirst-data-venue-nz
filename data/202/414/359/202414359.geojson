@@ -2,13 +2,14 @@
   "id": 202414359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.620636,-43.556889,172.620636,-43.556889",
     "geom:latitude":-43.556889,
     "geom:longitude":172.620636,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14-18 Athelstan St Spreydon ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202414359,
-    "wof:lastmodified":1449061307,
+    "wof:lastmodified":1466311403,
     "wof:name":"Barrington Medical Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "beauty"
     ]
 },
-  "bbox": [172.620636,-43.556889,172.620636,-43.556889],
-  "geometry": {"coordinates":[172.620636,-43.556889],"type":"Point"}
+  "bbox": [
+    172.620636,
+    -43.556889,
+    172.620636,
+    -43.556889
+],
+  "geometry": {"coordinates":[172.62063599999999,-43.556889],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202908073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.555946,37.962715,-122.555946,37.962715",
     "geom:latitude":37.962715,
     "geom:longitude":-122.555946,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Donnellys Creek Rd ",
     "sg:city":"Ross",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202908073,
-    "wof:lastmodified":1449061541,
+    "wof:lastmodified":1466312807,
     "wof:name":"West Coast Farmers Lime Co Ross",
     "wof:parent_id":85887199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.555946,37.962715,-122.555946,37.962715],
-  "geometry": {"coordinates":[-122.555946,37.962715],"type":"Point"}
+  "bbox": [
+    -122.555946,
+    37.962715,
+    -122.555946,
+    37.962715
+],
+  "geometry": {"coordinates":[-122.55594600000001,37.962715],"type":"Point"}
 }

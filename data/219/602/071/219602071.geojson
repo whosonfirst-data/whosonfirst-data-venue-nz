@@ -2,13 +2,14 @@
   "id": 219602071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.615311,-40.35881,175.615311,-40.35881",
     "geom:latitude":-40.35881,
     "geom:longitude":175.615311,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"372 Ferguson St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219602071,
-    "wof:lastmodified":1449072051,
+    "wof:lastmodified":1466312607,
     "wof:name":"Shell Ferguson St",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.615311,-40.35881,175.615311,-40.35881],
-  "geometry": {"coordinates":[175.615311,-40.35881],"type":"Point"}
+  "bbox": [
+    175.615311,
+    -40.35881,
+    175.615311,
+    -40.35881
+],
+  "geometry": {"coordinates":[175.61531099999999,-40.35881],"type":"Point"}
 }

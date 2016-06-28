@@ -2,13 +2,14 @@
   "id": 169526877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.609085,-43.495319,172.609085,-43.495319",
     "geom:latitude":-43.495319,
     "geom:longitude":172.609085,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Main North Rd Papni",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169526877,
-    "wof:lastmodified":1449033702,
+    "wof:lastmodified":1466310545,
     "wof:name":"ANZ Banking Group (New Zealand) Ltd",
     "wof:parent_id":85773111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.609085,-43.495319,172.609085,-43.495319],
-  "geometry": {"coordinates":[172.609085,-43.495319],"type":"Point"}
+  "bbox": [
+    172.609085,
+    -43.495319,
+    172.609085,
+    -43.495319
+],
+  "geometry": {"coordinates":[172.60908499999999,-43.495319],"type":"Point"}
 }

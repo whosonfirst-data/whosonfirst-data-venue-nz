@@ -2,13 +2,14 @@
   "id": 219522953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.528885,-45.855602,170.528885,-45.855602",
     "geom:latitude":-45.855602,
     "geom:longitude":170.528885,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Signal Hill Rd Opoho ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219522953,
-    "wof:lastmodified":1449072072,
+    "wof:lastmodified":1466312277,
     "wof:name":"Clark Juliet",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "language"
     ]
 },
-  "bbox": [170.528885,-45.855602,170.528885,-45.855602],
+  "bbox": [
+    170.528885,
+    -45.855602,
+    170.528885,
+    -45.855602
+],
   "geometry": {"coordinates":[170.528885,-45.855602],"type":"Point"}
 }

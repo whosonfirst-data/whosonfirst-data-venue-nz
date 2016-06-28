@@ -2,13 +2,14 @@
   "id": 185785451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.322556,-35.716671,174.322556,-35.716671",
     "geom:latitude":-35.716671,
     "geom:longitude":174.322556,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"194 Bank St Regent ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185785451,
-    "wof:lastmodified":1449007958,
+    "wof:lastmodified":1466311128,
     "wof:name":"Bramble Cottage",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hobbies"
     ]
 },
-  "bbox": [174.322556,-35.716671,174.322556,-35.716671],
-  "geometry": {"coordinates":[174.322556,-35.716671],"type":"Point"}
+  "bbox": [
+    174.322556,
+    -35.716671,
+    174.322556,
+    -35.716671
+],
+  "geometry": {"coordinates":[174.32255599999999,-35.716671],"type":"Point"}
 }

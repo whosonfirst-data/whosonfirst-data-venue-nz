@@ -2,13 +2,14 @@
   "id": 169848659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.756973,-41.345062,174.756973,-41.345062",
     "geom:latitude":-41.345062,
     "geom:longitude":174.756973,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Greta Point Wharf Evans Bay ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169848659,
-    "wof:lastmodified":1449033151,
+    "wof:lastmodified":1466312222,
     "wof:name":"Eden Wharf Cafe & Bar",
     "wof:parent_id":85778533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.756973,-41.345062,174.756973,-41.345062],
-  "geometry": {"coordinates":[174.756973,-41.345062],"type":"Point"}
+  "bbox": [
+    174.756973,
+    -41.345062,
+    174.756973,
+    -41.345062
+],
+  "geometry": {"coordinates":[174.75697299999999,-41.345062],"type":"Point"}
 }

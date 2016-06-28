@@ -2,13 +2,14 @@
   "id": 219716113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.941727,-37.057251,174.941727,-37.057251",
     "geom:latitude":-37.057251,
     "geom:longitude":174.941727,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3/5 Old Wairoa Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219716113,
-    "wof:lastmodified":1449070897,
+    "wof:lastmodified":1466312744,
     "wof:name":"C F M Engineering",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.941727,-37.057251,174.941727,-37.057251],
-  "geometry": {"coordinates":[174.941727,-37.057251],"type":"Point"}
+  "bbox": [
+    174.941727,
+    -37.057251,
+    174.941727,
+    -37.057251
+],
+  "geometry": {"coordinates":[174.94172699999999,-37.057251],"type":"Point"}
 }

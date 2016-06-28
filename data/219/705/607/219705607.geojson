@@ -2,13 +2,14 @@
   "id": 219705607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.497391,-45.895004,170.497391,-45.895004",
     "geom:latitude":-45.895004,
     "geom:longitude":170.497391,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Fox St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219705607,
-    "wof:lastmodified":1449073941,
+    "wof:lastmodified":1466312911,
     "wof:name":"Bay Motorcycles",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leasing"
     ]
 },
-  "bbox": [170.497391,-45.895004,170.497391,-45.895004],
-  "geometry": {"coordinates":[170.497391,-45.895004],"type":"Point"}
+  "bbox": [
+    170.497391,
+    -45.895004,
+    170.497391,
+    -45.895004
+],
+  "geometry": {"coordinates":[170.49739099999999,-45.895004],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169827911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.645981,-40.340332,175.645981,-40.340332",
     "geom:latitude":-40.340332,
     "geom:longitude":175.645981,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16-20 Sutton Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169827911,
-    "wof:lastmodified":1449033874,
+    "wof:lastmodified":1466311864,
     "wof:name":"Perception Kayaking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.645981,-40.340332,175.645981,-40.340332],
-  "geometry": {"coordinates":[175.645981,-40.340332],"type":"Point"}
+  "bbox": [
+    175.645981,
+    -40.340332,
+    175.645981,
+    -40.340332
+],
+  "geometry": {"coordinates":[175.64598100000001,-40.340332],"type":"Point"}
 }

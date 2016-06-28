@@ -2,13 +2,14 @@
   "id": 219415669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.306046,-35.690742,174.306046,-35.690742",
     "geom:latitude":-35.690742,
     "geom:longitude":174.306046,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"399 Kamo Rd Kamo ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219415669,
-    "wof:lastmodified":1449072943,
+    "wof:lastmodified":1466311936,
     "wof:name":"Pals Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "tourism"
     ]
 },
-  "bbox": [174.306046,-35.690742,174.306046,-35.690742],
-  "geometry": {"coordinates":[174.306046,-35.690742],"type":"Point"}
+  "bbox": [
+    174.306046,
+    -35.690742,
+    174.306046,
+    -35.690742
+],
+  "geometry": {"coordinates":[174.30604600000001,-35.690742],"type":"Point"}
 }

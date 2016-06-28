@@ -2,13 +2,14 @@
   "id": 219744059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.529541,33.192509,-82.529541,33.192509",
     "geom:latitude":33.192509,
     "geom:longitude":-82.529541,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Ballantyne ",
     "sg:city":"Ave",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219744059,
-    "wof:lastmodified":1449071664,
+    "wof:lastmodified":1466312811,
     "wof:name":"Dial-A-Mechanic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "servicing"
     ]
 },
-  "bbox": [-82.529541,33.192509,-82.529541,33.192509],
-  "geometry": {"coordinates":[-82.529541,33.192509],"type":"Point"}
+  "bbox": [
+    -82.529541,
+    33.192509,
+    -82.529541,
+    33.192509
+],
+  "geometry": {"coordinates":[-82.52954099999999,33.192509],"type":"Point"}
 }

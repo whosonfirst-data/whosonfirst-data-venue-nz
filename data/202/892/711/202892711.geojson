@@ -2,13 +2,14 @@
   "id": 202892711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.65451,-40.95554,175.65451,-40.95554",
     "geom:latitude":-40.95554,
     "geom:longitude":175.65451,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Dixon St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202892711,
-    "wof:lastmodified":1449060481,
+    "wof:lastmodified":1466312778,
     "wof:name":"Chain Saw & Mower Services",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "cutter"
     ]
 },
-  "bbox": [175.65451,-40.95554,175.65451,-40.95554],
-  "geometry": {"coordinates":[175.65451,-40.95554],"type":"Point"}
+  "bbox": [
+    175.65451,
+    -40.95554,
+    175.65451,
+    -40.95554
+],
+  "geometry": {"coordinates":[175.65450999999999,-40.95554],"type":"Point"}
 }

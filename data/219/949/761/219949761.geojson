@@ -2,13 +2,14 @@
   "id": 219949761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.997513,-38.651352,177.997513,-38.651352",
     "geom:latitude":-38.651352,
     "geom:longitude":177.997513,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"743 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219949761,
-    "wof:lastmodified":1449072584,
+    "wof:lastmodified":1466313121,
     "wof:name":"Eastland Veterinary Services",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [177.997513,-38.651352,177.997513,-38.651352],
+  "bbox": [
+    177.997513,
+    -38.651352,
+    177.997513,
+    -38.651352
+],
   "geometry": {"coordinates":[177.997513,-38.651352],"type":"Point"}
 }

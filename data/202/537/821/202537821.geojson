@@ -2,13 +2,14 @@
   "id": 202537821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.869751,-41.097809,174.869751,-41.097809",
     "geom:latitude":-41.097809,
     "geom:longitude":174.869751,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Mana Esp Mana ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202537821,
-    "wof:lastmodified":1449060743,
+    "wof:lastmodified":1466310978,
     "wof:name":"Maurice Tuckwell",
     "wof:parent_id":85781159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.869751,-41.097809,174.869751,-41.097809],
-  "geometry": {"coordinates":[174.869751,-41.097809],"type":"Point"}
+  "bbox": [
+    174.869751,
+    -41.097809,
+    174.869751,
+    -41.097809
+],
+  "geometry": {"coordinates":[174.86975100000001,-41.097809],"type":"Point"}
 }

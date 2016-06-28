@@ -2,13 +2,14 @@
   "id": 219727333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.620163,-36.780228,174.620163,-36.780228",
     "geom:latitude":-36.780228,
     "geom:longitude":174.620163,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 McKean Rd Whenuapai ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219727333,
-    "wof:lastmodified":1449070924,
+    "wof:lastmodified":1466312862,
     "wof:name":"McKean Truck Services Ltd",
     "wof:parent_id":85773335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.620163,-36.780228,174.620163,-36.780228],
-  "geometry": {"coordinates":[174.620163,-36.780228],"type":"Point"}
+  "bbox": [
+    174.620163,
+    -36.780228,
+    174.620163,
+    -36.780228
+],
+  "geometry": {"coordinates":[174.62016299999999,-36.780228],"type":"Point"}
 }

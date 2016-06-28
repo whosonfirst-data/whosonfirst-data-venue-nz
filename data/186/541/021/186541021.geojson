@@ -2,13 +2,14 @@
   "id": 186541021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764542,-36.848358,174.764542,-36.848358",
     "geom:latitude":-36.848358,
     "geom:longitude":174.764542,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Little High Street 55-57 High St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186541021,
-    "wof:lastmodified":1449050543,
+    "wof:lastmodified":1466312768,
     "wof:name":"Mensworks Grooming Centre",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.764542,-36.848358,174.764542,-36.848358],
-  "geometry": {"coordinates":[174.764542,-36.848358],"type":"Point"}
+  "bbox": [
+    174.764542,
+    -36.848358,
+    174.764542,
+    -36.848358
+],
+  "geometry": {"coordinates":[174.76454200000001,-36.848358],"type":"Point"}
 }

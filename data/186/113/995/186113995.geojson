@@ -2,13 +2,14 @@
   "id": 186113995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.23082,-38.130764,176.23082,-38.130764",
     "geom:latitude":-38.130764,
     "geom:longitude":176.23082,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Tallyho St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186113995,
-    "wof:lastmodified":1449052804,
+    "wof:lastmodified":1466310659,
     "wof:name":"Ron Weaver Automotive",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.23082,-38.130764,176.23082,-38.130764],
-  "geometry": {"coordinates":[176.23082,-38.130764],"type":"Point"}
+  "bbox": [
+    176.23082,
+    -38.130764,
+    176.23082,
+    -38.130764
+],
+  "geometry": {"coordinates":[176.23081999999999,-38.130764],"type":"Point"}
 }

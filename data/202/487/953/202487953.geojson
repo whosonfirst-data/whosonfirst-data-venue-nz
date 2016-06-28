@@ -2,13 +2,14 @@
   "id": 202487953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.848465,-37.009243,175.848465,-37.009243",
     "geom:latitude":-37.009243,
     "geom:longitude":175.848465,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Main Rd ",
     "sg:city":"Tairua",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":202487953,
-    "wof:lastmodified":1449060935,
+    "wof:lastmodified":1466310569,
     "wof:name":"Tairua Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.848465,-37.009243,175.848465,-37.009243],
+  "bbox": [
+    175.848465,
+    -37.009243,
+    175.848465,
+    -37.009243
+],
   "geometry": {"coordinates":[175.848465,-37.009243],"type":"Point"}
 }

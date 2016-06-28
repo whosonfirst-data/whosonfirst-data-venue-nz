@@ -2,13 +2,14 @@
   "id": 202605787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.105774,34.058983,-88.105774,34.058983",
     "geom:latitude":34.058983,
     "geom:longitude":-88.105774,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"936 Tuhikaramea Rd R D 10 ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202605787,
-    "wof:lastmodified":1449061369,
+    "wof:lastmodified":1466311565,
     "wof:name":"NatureZ h'ART",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [-88.105774,34.058983,-88.105774,34.058983],
+  "bbox": [
+    -88.105774,
+    34.058983,
+    -88.105774,
+    34.058983
+],
   "geometry": {"coordinates":[-88.105774,34.058983],"type":"Point"}
 }

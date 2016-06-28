@@ -2,13 +2,14 @@
   "id": 203300717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.777634,-36.853348,174.777634,-36.853348",
     "geom:latitude":-36.853348,
     "geom:longitude":174.777634,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Heather St Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":203300717,
-    "wof:lastmodified":1449026020,
+    "wof:lastmodified":1466312121,
     "wof:name":"Seneca Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [174.777634,-36.853348,174.777634,-36.853348],
-  "geometry": {"coordinates":[174.777634,-36.853348],"type":"Point"}
+  "bbox": [
+    174.777634,
+    -36.853348,
+    174.777634,
+    -36.853348
+],
+  "geometry": {"coordinates":[174.77763400000001,-36.853348],"type":"Point"}
 }

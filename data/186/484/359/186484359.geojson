@@ -2,13 +2,14 @@
   "id": 186484359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.466583,-35.854877,174.466583,-35.854877",
     "geom:latitude":-35.854877,
     "geom:longitude":174.466583,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28311 Marsden Point Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186484359,
-    "wof:lastmodified":1449052876,
+    "wof:lastmodified":1466312715,
     "wof:name":"IPL Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.466583,-35.854877,174.466583,-35.854877],
-  "geometry": {"coordinates":[174.466583,-35.854877],"type":"Point"}
+  "bbox": [
+    174.466583,
+    -35.854877,
+    174.466583,
+    -35.854877
+],
+  "geometry": {"coordinates":[174.46658300000001,-35.854877],"type":"Point"}
 }

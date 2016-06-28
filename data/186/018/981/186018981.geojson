@@ -2,13 +2,14 @@
   "id": 186018981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.053238,-39.93499,175.053238,-39.93499",
     "geom:latitude":-39.93499,
     "geom:longitude":175.053238,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 St Hill St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186018981,
-    "wof:lastmodified":1449051716,
+    "wof:lastmodified":1466310868,
     "wof:name":"Tower Catering",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.053238,-39.93499,175.053238,-39.93499],
-  "geometry": {"coordinates":[175.053238,-39.93499],"type":"Point"}
+  "bbox": [
+    175.053238,
+    -39.93499,
+    175.053238,
+    -39.93499
+],
+  "geometry": {"coordinates":[175.05323799999999,-39.93499],"type":"Point"}
 }

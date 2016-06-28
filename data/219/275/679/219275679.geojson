@@ -2,13 +2,14 @@
   "id": 219275679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.201645,-35.50951,174.201645,-35.50951",
     "geom:latitude":-35.50951,
     "geom:longitude":174.201645,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 1 Hukerenui ",
     "sg:city":"Whakapara",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219275679,
-    "wof:lastmodified":1449071532,
+    "wof:lastmodified":1466310748,
     "wof:name":"Hukerenui- The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.201645,-35.50951,174.201645,-35.50951],
-  "geometry": {"coordinates":[174.201645,-35.50951],"type":"Point"}
+  "bbox": [
+    174.201645,
+    -35.50951,
+    174.201645,
+    -35.50951
+],
+  "geometry": {"coordinates":[174.20164500000001,-35.50951],"type":"Point"}
 }

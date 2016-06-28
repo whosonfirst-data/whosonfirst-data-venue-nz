@@ -2,13 +2,14 @@
   "id": 186454465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.247864,-37.759735,175.247864,-37.759735",
     "geom:latitude":-37.759735,
     "geom:longitude":175.247864,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"539 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186454465,
-    "wof:lastmodified":1449052769,
+    "wof:lastmodified":1466312631,
     "wof:name":"Brown Bros (NZ) Ltd",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.247864,-37.759735,175.247864,-37.759735],
-  "geometry": {"coordinates":[175.247864,-37.759735],"type":"Point"}
+  "bbox": [
+    175.247864,
+    -37.759735,
+    175.247864,
+    -37.759735
+],
+  "geometry": {"coordinates":[175.24786399999999,-37.759735],"type":"Point"}
 }

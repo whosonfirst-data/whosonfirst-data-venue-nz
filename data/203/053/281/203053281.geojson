@@ -2,13 +2,14 @@
   "id": 203053281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.333633,-45.875935,170.333633,-45.875935",
     "geom:latitude":-45.875935,
     "geom:longitude":170.333633,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Mallard Pl Mosgiel ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203053281,
-    "wof:lastmodified":1449025295,
+    "wof:lastmodified":1466311557,
     "wof:name":"Jeff Wilson Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "paving"
     ]
 },
-  "bbox": [170.333633,-45.875935,170.333633,-45.875935],
-  "geometry": {"coordinates":[170.333633,-45.875935],"type":"Point"}
+  "bbox": [
+    170.333633,
+    -45.875935,
+    170.333633,
+    -45.875935
+],
+  "geometry": {"coordinates":[170.33363299999999,-45.875935],"type":"Point"}
 }

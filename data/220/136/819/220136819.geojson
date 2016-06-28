@@ -2,13 +2,14 @@
   "id": 220136819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.006165,-38.663658,178.006165,-38.663658",
     "geom:latitude":-38.663658,
     "geom:longitude":178.006165,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Stanley Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220136819,
-    "wof:lastmodified":1449074867,
+    "wof:lastmodified":1466310947,
     "wof:name":"First Light Frozen Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [178.006165,-38.663658,178.006165,-38.663658],
-  "geometry": {"coordinates":[178.006165,-38.663658],"type":"Point"}
+  "bbox": [
+    178.006165,
+    -38.663658,
+    178.006165,
+    -38.663658
+],
+  "geometry": {"coordinates":[178.00616500000001,-38.663658],"type":"Point"}
 }

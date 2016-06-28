@@ -2,13 +2,14 @@
   "id": 202591547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.834213,-36.890778,174.834213,-36.890778",
     "geom:latitude":-36.890778,
     "geom:longitude":174.834213,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Lunn Ave Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202591547,
-    "wof:lastmodified":1449061469,
+    "wof:lastmodified":1466311447,
     "wof:name":"PlaceMakers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.834213,-36.890778,174.834213,-36.890778],
-  "geometry": {"coordinates":[174.834213,-36.890778],"type":"Point"}
+  "bbox": [
+    174.834213,
+    -36.890778,
+    174.834213,
+    -36.890778
+],
+  "geometry": {"coordinates":[174.83421300000001,-36.890778],"type":"Point"}
 }

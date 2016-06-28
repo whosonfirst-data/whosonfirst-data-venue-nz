@@ -2,13 +2,14 @@
   "id": 220041957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.157791,38.990379,-76.157791,38.990379",
     "geom:latitude":38.990379,
     "geom:longitude":-76.157791,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Gibbston Queenstown R D ",
     "sg:city":"1",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":220041957,
-    "wof:lastmodified":1449074313,
+    "wof:lastmodified":1466311485,
     "wof:name":"Gibbston Valley Wines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.157791,38.990379,-76.157791,38.990379],
+  "bbox": [
+    -76.157791,
+    38.990379,
+    -76.157791,
+    38.990379
+],
   "geometry": {"coordinates":[-76.157791,38.990379],"type":"Point"}
 }

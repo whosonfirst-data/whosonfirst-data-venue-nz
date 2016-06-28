@@ -2,13 +2,14 @@
   "id": 169551687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.692917,47.6516,-122.692917,47.6516",
     "geom:latitude":47.6516,
     "geom:longitude":-122.692917,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Silverdale Road & Agency La Silverdale Hibiscus",
     "sg:city":"Hibiscus Coast",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169551687,
-    "wof:lastmodified":1449033353,
+    "wof:lastmodified":1466310820,
     "wof:name":"Bendon Outlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.692917,47.6516,-122.692917,47.6516],
-  "geometry": {"coordinates":[-122.692917,47.6516],"type":"Point"}
+  "bbox": [
+    -122.692917,
+    47.6516,
+    -122.692917,
+    47.6516
+],
+  "geometry": {"coordinates":[-122.69291699999999,47.6516],"type":"Point"}
 }

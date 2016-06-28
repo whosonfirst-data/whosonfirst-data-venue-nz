@@ -2,13 +2,14 @@
   "id": 219312883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.255249,-38.880814,175.255249,-38.880814",
     "geom:latitude":-38.880814,
     "geom:longitude":175.255249,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Kurua Rd RD2 ",
     "sg:city":"Taumarunui",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219312883,
-    "wof:lastmodified":1449072167,
+    "wof:lastmodified":1466311046,
     "wof:name":"Retaruke Country Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.255249,-38.880814,175.255249,-38.880814],
-  "geometry": {"coordinates":[175.255249,-38.880814],"type":"Point"}
+  "bbox": [
+    175.255249,
+    -38.880814,
+    175.255249,
+    -38.880814
+],
+  "geometry": {"coordinates":[175.25524899999999,-38.880814],"type":"Point"}
 }

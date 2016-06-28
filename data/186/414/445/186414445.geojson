@@ -2,13 +2,14 @@
   "id": 186414445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.747055,-40.296131,175.747055,-40.296131",
     "geom:latitude":-40.296131,
     "geom:longitude":175.747055,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Mulgrave St ",
     "sg:city":"Ashhurst",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":186414445,
-    "wof:lastmodified":1449051634,
+    "wof:lastmodified":1466312456,
     "wof:name":"Waltex Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "goods"
     ]
 },
-  "bbox": [175.747055,-40.296131,175.747055,-40.296131],
-  "geometry": {"coordinates":[175.747055,-40.296131],"type":"Point"}
+  "bbox": [
+    175.747055,
+    -40.296131,
+    175.747055,
+    -40.296131
+],
+  "geometry": {"coordinates":[175.74705499999999,-40.296131],"type":"Point"}
 }

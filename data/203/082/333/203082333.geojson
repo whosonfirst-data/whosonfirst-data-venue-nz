@@ -2,13 +2,14 @@
   "id": 203082333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.325363,-35.727844,174.325363,-35.727844",
     "geom:latitude":-35.727844,
     "geom:longitude":174.325363,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Hannah St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203082333,
-    "wof:lastmodified":1449025001,
+    "wof:lastmodified":1466311837,
     "wof:name":"Total Pool & Spa Centre",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "spa"
     ]
 },
-  "bbox": [174.325363,-35.727844,174.325363,-35.727844],
-  "geometry": {"coordinates":[174.325363,-35.727844],"type":"Point"}
+  "bbox": [
+    174.325363,
+    -35.727844,
+    174.325363,
+    -35.727844
+],
+  "geometry": {"coordinates":[174.32536300000001,-35.727844],"type":"Point"}
 }

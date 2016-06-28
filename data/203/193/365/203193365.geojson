@@ -2,13 +2,14 @@
   "id": 203193365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.247238,-37.794834,175.247238,-37.794834",
     "geom:latitude":-37.794834,
     "geom:longitude":175.247238,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Whatawhata Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203193365,
-    "wof:lastmodified":1449025247,
+    "wof:lastmodified":1466311310,
     "wof:name":"Abracadabra Costume Hire",
     "wof:parent_id":85781735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.247238,-37.794834,175.247238,-37.794834],
-  "geometry": {"coordinates":[175.247238,-37.794834],"type":"Point"}
+  "bbox": [
+    175.247238,
+    -37.794834,
+    175.247238,
+    -37.794834
+],
+  "geometry": {"coordinates":[175.24723800000001,-37.794834],"type":"Point"}
 }

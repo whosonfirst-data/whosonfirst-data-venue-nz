@@ -2,13 +2,14 @@
   "id": 203101797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.701965,-36.857506,174.701965,-36.857506",
     "geom:latitude":-36.857506,
     "geom:longitude":174.701965,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Edith St Point Chevalier ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203101797,
-    "wof:lastmodified":1449025943,
+    "wof:lastmodified":1466310533,
     "wof:name":"Mike Maran",
     "wof:parent_id":85778877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "handwriting"
     ]
 },
-  "bbox": [174.701965,-36.857506,174.701965,-36.857506],
+  "bbox": [
+    174.701965,
+    -36.857506,
+    174.701965,
+    -36.857506
+],
   "geometry": {"coordinates":[174.701965,-36.857506],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203206899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.65419,-43.389427,172.65419,-43.389427",
     "geom:latitude":-43.389427,
     "geom:longitude":172.65419,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"72-74 Williams St ",
     "sg:city":"Kaiapoi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203206899,
-    "wof:lastmodified":1449026275,
+    "wof:lastmodified":1466311430,
     "wof:name":"North Canterbury Overalls",
     "wof:parent_id":85782425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothing"
     ]
 },
-  "bbox": [172.65419,-43.389427,172.65419,-43.389427],
+  "bbox": [
+    172.65419,
+    -43.389427,
+    172.65419,
+    -43.389427
+],
   "geometry": {"coordinates":[172.65419,-43.389427],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186200403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.854767,-36.922009,174.854767,-36.922009",
     "geom:latitude":-36.922009,
     "geom:longitude":174.854767,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Fisher Cre Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186200403,
-    "wof:lastmodified":1449051444,
+    "wof:lastmodified":1466311395,
     "wof:name":"Festo Ltd",
     "wof:parent_id":85773103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "industrial"
     ]
 },
-  "bbox": [174.854767,-36.922009,174.854767,-36.922009],
-  "geometry": {"coordinates":[174.854767,-36.922009],"type":"Point"}
+  "bbox": [
+    174.854767,
+    -36.922009,
+    174.854767,
+    -36.922009
+],
+  "geometry": {"coordinates":[174.85476700000001,-36.922009],"type":"Point"}
 }

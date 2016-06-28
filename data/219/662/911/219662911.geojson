@@ -2,13 +2,14 @@
   "id": 219662911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.22908,-38.120354,176.22908,-38.120354",
     "geom:latitude":-38.120354,
     "geom:longitude":176.22908,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Fairy Springs Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219662911,
-    "wof:lastmodified":1449072774,
+    "wof:lastmodified":1466312844,
     "wof:name":"Goodyear Auto Service Centre",
     "wof:parent_id":85781129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.22908,-38.120354,176.22908,-38.120354],
-  "geometry": {"coordinates":[176.22908,-38.120354],"type":"Point"}
+  "bbox": [
+    176.22908,
+    -38.120354,
+    176.22908,
+    -38.120354
+],
+  "geometry": {"coordinates":[176.22908000000001,-38.120354],"type":"Point"}
 }

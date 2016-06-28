@@ -2,13 +2,14 @@
   "id": 185883613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.776733,-36.866398,174.776733,-36.866398",
     "geom:latitude":-36.866398,
     "geom:longitude":174.776733,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor 10 Kingdon St Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185883613,
-    "wof:lastmodified":1449007848,
+    "wof:lastmodified":1466311759,
     "wof:name":"The Golf House Ltd",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.776733,-36.866398,174.776733,-36.866398],
-  "geometry": {"coordinates":[174.776733,-36.866398],"type":"Point"}
+  "bbox": [
+    174.776733,
+    -36.866398,
+    174.776733,
+    -36.866398
+],
+  "geometry": {"coordinates":[174.77673300000001,-36.866398],"type":"Point"}
 }

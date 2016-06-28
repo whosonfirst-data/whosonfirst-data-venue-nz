@@ -2,13 +2,14 @@
   "id": 202701827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.326233,-35.722065,174.326233,-35.722065",
     "geom:latitude":-35.722065,
     "geom:longitude":174.326233,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Ewing Rd Riverside ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202701827,
-    "wof:lastmodified":1449062131,
+    "wof:lastmodified":1466312118,
     "wof:name":"Willows Childcare Centre",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "children"
     ]
 },
-  "bbox": [174.326233,-35.722065,174.326233,-35.722065],
+  "bbox": [
+    174.326233,
+    -35.722065,
+    174.326233,
+    -35.722065
+],
   "geometry": {"coordinates":[174.326233,-35.722065],"type":"Point"}
 }

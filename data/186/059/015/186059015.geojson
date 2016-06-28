@@ -2,13 +2,14 @@
   "id": 186059015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.838623,-36.920403,174.838623,-36.920403",
     "geom:latitude":-36.920403,
     "geom:longitude":174.838623,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4B Pacific Rse Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186059015,
-    "wof:lastmodified":1449051119,
+    "wof:lastmodified":1466312046,
     "wof:name":"Ecolab Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "maintenance"
     ]
 },
-  "bbox": [174.838623,-36.920403,174.838623,-36.920403],
-  "geometry": {"coordinates":[174.838623,-36.920403],"type":"Point"}
+  "bbox": [
+    174.838623,
+    -36.920403,
+    174.838623,
+    -36.920403
+],
+  "geometry": {"coordinates":[174.83862300000001,-36.920403],"type":"Point"}
 }

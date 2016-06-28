@@ -2,13 +2,14 @@
   "id": 220075235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.783539,-36.958977,174.783539,-36.958977",
     "geom:latitude":-36.958977,
     "geom:longitude":174.783539,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Kirkbride Rd Mangere ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220075235,
-    "wof:lastmodified":1449074491,
+    "wof:lastmodified":1466311848,
     "wof:name":"Villa Maria Estate Ltd",
     "wof:parent_id":85778435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wine"
     ]
 },
-  "bbox": [174.783539,-36.958977,174.783539,-36.958977],
-  "geometry": {"coordinates":[174.783539,-36.958977],"type":"Point"}
+  "bbox": [
+    174.783539,
+    -36.958977,
+    174.783539,
+    -36.958977
+],
+  "geometry": {"coordinates":[174.78353899999999,-36.958977],"type":"Point"}
 }

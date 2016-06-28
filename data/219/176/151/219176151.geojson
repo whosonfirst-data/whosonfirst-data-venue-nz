@@ -2,13 +2,14 @@
   "id": 219176151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.293472,-38.014263,177.293472,-38.014263",
     "geom:latitude":-38.014263,
     "geom:longitude":177.293472,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Wellington St ",
     "sg:city":"Opotiki",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219176151,
-    "wof:lastmodified":1449072683,
+    "wof:lastmodified":1466311217,
     "wof:name":"Opotiki Farm Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "transport"
     ]
 },
-  "bbox": [177.293472,-38.014263,177.293472,-38.014263],
-  "geometry": {"coordinates":[177.293472,-38.014263],"type":"Point"}
+  "bbox": [
+    177.293472,
+    -38.014263,
+    177.293472,
+    -38.014263
+],
+  "geometry": {"coordinates":[177.29347200000001,-38.014263],"type":"Point"}
 }

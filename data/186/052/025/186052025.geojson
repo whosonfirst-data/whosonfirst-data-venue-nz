@@ -2,13 +2,14 @@
   "id": 186052025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.815353,-36.91486,174.815353,-36.91486",
     "geom:latitude":-36.91486,
     "geom:longitude":174.815353,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Rockridge Ave Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186052025,
-    "wof:lastmodified":1449051585,
+    "wof:lastmodified":1466312042,
     "wof:name":"Glaxo Wellcome New Zealand Limited",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.815353,-36.91486,174.815353,-36.91486],
-  "geometry": {"coordinates":[174.815353,-36.91486],"type":"Point"}
+  "bbox": [
+    174.815353,
+    -36.91486,
+    174.815353,
+    -36.91486
+],
+  "geometry": {"coordinates":[174.81535299999999,-36.91486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185993861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.584625,-40.374249,175.584625,-40.374249",
     "geom:latitude":-40.374249,
     "geom:longitude":175.584625,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Alexander St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185993861,
-    "wof:lastmodified":1449007328,
+    "wof:lastmodified":1466312408,
     "wof:name":"Brown Marilyn JP",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.584625,-40.374249,175.584625,-40.374249],
-  "geometry": {"coordinates":[175.584625,-40.374249],"type":"Point"}
+  "bbox": [
+    175.584625,
+    -40.374249,
+    175.584625,
+    -40.374249
+],
+  "geometry": {"coordinates":[175.58462499999999,-40.374249],"type":"Point"}
 }

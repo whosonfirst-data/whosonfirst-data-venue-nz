@@ -2,13 +2,14 @@
   "id": 202886011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.448975,-35.824001,174.448975,-35.824001",
     "geom:latitude":-35.824001,
     "geom:longitude":174.448975,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Moana View Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202886011,
-    "wof:lastmodified":1449061509,
+    "wof:lastmodified":1466312870,
     "wof:name":"Dr Roc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardening"
     ]
 },
-  "bbox": [174.448975,-35.824001,174.448975,-35.824001],
-  "geometry": {"coordinates":[174.448975,-35.824001],"type":"Point"}
+  "bbox": [
+    174.448975,
+    -35.824001,
+    174.448975,
+    -35.824001
+],
+  "geometry": {"coordinates":[174.44897499999999,-35.824001],"type":"Point"}
 }

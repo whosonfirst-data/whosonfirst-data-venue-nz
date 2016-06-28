@@ -2,13 +2,14 @@
   "id": 202785383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.839355,-40.455101,175.839355,-40.455101",
     "geom:latitude":-40.455101,
     "geom:longitude":175.839355,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Tiraumea Rd & Huxley St ",
     "sg:city":"Pahiatua",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202785383,
-    "wof:lastmodified":1449062227,
+    "wof:lastmodified":1466312500,
     "wof:name":"Goss Trevor Joinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "kitchen"
     ]
 },
-  "bbox": [175.839355,-40.455101,175.839355,-40.455101],
-  "geometry": {"coordinates":[175.839355,-40.455101],"type":"Point"}
+  "bbox": [
+    175.839355,
+    -40.455101,
+    175.839355,
+    -40.455101
+],
+  "geometry": {"coordinates":[175.83935500000001,-40.455101],"type":"Point"}
 }

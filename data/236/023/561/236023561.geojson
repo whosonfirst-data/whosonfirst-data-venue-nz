@@ -2,13 +2,14 @@
   "id": 236023561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.275116,-40.630196,175.275116,-40.630196",
     "geom:latitude":-40.630196,
     "geom:longitude":175.275116,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Reeve St ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236023561,
-    "wof:lastmodified":1449004862,
+    "wof:lastmodified":1466311018,
     "wof:name":"The Tuck Shop",
     "wof:parent_id":85782865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "takeaway"
     ]
 },
-  "bbox": [175.275116,-40.630196,175.275116,-40.630196],
+  "bbox": [
+    175.275116,
+    -40.630196,
+    175.275116,
+    -40.630196
+],
   "geometry": {"coordinates":[175.275116,-40.630196],"type":"Point"}
 }

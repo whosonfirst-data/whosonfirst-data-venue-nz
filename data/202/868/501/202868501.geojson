@@ -2,13 +2,14 @@
   "id": 202868501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.509308,-40.471004,175.509308,-40.471004",
     "geom:latitude":-40.471004,
     "geom:longitude":175.509308,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"R D 4 ",
     "sg:city":"Tokomaru",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202868501,
-    "wof:lastmodified":1449060212,
+    "wof:lastmodified":1466312723,
     "wof:name":"Hill View WoodCraft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [175.509308,-40.471004,175.509308,-40.471004],
+  "bbox": [
+    175.509308,
+    -40.471004,
+    175.509308,
+    -40.471004
+],
   "geometry": {"coordinates":[175.509308,-40.471004],"type":"Point"}
 }

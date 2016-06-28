@@ -2,13 +2,14 @@
   "id": 186189019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.005219,-38.665607,178.005219,-38.665607",
     "geom:latitude":-38.665607,
     "geom:longitude":178.005219,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"189 Stanley Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186189019,
-    "wof:lastmodified":1449052250,
+    "wof:lastmodified":1466311305,
     "wof:name":"Total Welding",
     "wof:parent_id":85780807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.005219,-38.665607,178.005219,-38.665607],
-  "geometry": {"coordinates":[178.005219,-38.665607],"type":"Point"}
+  "bbox": [
+    178.005219,
+    -38.665607,
+    178.005219,
+    -38.665607
+],
+  "geometry": {"coordinates":[178.00521900000001,-38.665607],"type":"Point"}
 }

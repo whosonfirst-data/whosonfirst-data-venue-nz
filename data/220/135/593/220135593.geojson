@@ -2,13 +2,14 @@
   "id": 220135593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.024399,-39.915218,175.024399,-39.915218",
     "geom:latitude":-39.915218,
     "geom:longitude":175.024399,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Montgomery Rd ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220135593,
-    "wof:lastmodified":1449074343,
+    "wof:lastmodified":1466310937,
     "wof:name":"Crystal Valley Mineral Water",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [175.024399,-39.915218,175.024399,-39.915218],
-  "geometry": {"coordinates":[175.024399,-39.915218],"type":"Point"}
+  "bbox": [
+    175.024399,
+    -39.915218,
+    175.024399,
+    -39.915218
+],
+  "geometry": {"coordinates":[175.02439899999999,-39.915218],"type":"Point"}
 }

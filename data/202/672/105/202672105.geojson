@@ -2,13 +2,14 @@
   "id": 202672105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.380325,-46.40926,168.380325,-46.40926",
     "geom:latitude":-46.40926,
     "geom:longitude":168.380325,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Tay St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202672105,
-    "wof:lastmodified":1449060271,
+    "wof:lastmodified":1466312120,
     "wof:name":"Service & Warhurst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [168.380325,-46.40926,168.380325,-46.40926],
+  "bbox": [
+    168.380325,
+    -46.40926,
+    168.380325,
+    -46.40926
+],
   "geometry": {"coordinates":[168.380325,-46.40926],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219279885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.656357,-43.52969,172.656357,-43.52969",
     "geom:latitude":-43.52969,
     "geom:longitude":172.656357,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"437 Gloucester St Linwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219279885,
-    "wof:lastmodified":1449072021,
+    "wof:lastmodified":1466310779,
     "wof:name":"The Old Countryhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.656357,-43.52969,172.656357,-43.52969],
-  "geometry": {"coordinates":[172.656357,-43.52969],"type":"Point"}
+  "bbox": [
+    172.656357,
+    -43.52969,
+    172.656357,
+    -43.52969
+],
+  "geometry": {"coordinates":[172.65635700000001,-43.52969],"type":"Point"}
 }

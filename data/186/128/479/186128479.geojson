@@ -2,13 +2,14 @@
   "id": 186128479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.730408,-36.773556,174.730408,-36.773556",
     "geom:latitude":-36.773556,
     "geom:longitude":174.730408,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4/22 Ashfield St Glenfield ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186128479,
-    "wof:lastmodified":1449051410,
+    "wof:lastmodified":1466310794,
     "wof:name":"A & K Haigh Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.730408,-36.773556,174.730408,-36.773556],
-  "geometry": {"coordinates":[174.730408,-36.773556],"type":"Point"}
+  "bbox": [
+    174.730408,
+    -36.773556,
+    174.730408,
+    -36.773556
+],
+  "geometry": {"coordinates":[174.73040800000001,-36.773556],"type":"Point"}
 }

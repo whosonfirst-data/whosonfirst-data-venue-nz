@@ -2,13 +2,14 @@
   "id": 186410749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.608429,-40.356216,175.608429,-40.356216",
     "geom:latitude":-40.356216,
     "geom:longitude":175.608429,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 George St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186410749,
-    "wof:lastmodified":1449050293,
+    "wof:lastmodified":1466312445,
     "wof:name":"Plastic Box",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "goods"
     ]
 },
-  "bbox": [175.608429,-40.356216,175.608429,-40.356216],
+  "bbox": [
+    175.608429,
+    -40.356216,
+    175.608429,
+    -40.356216
+],
   "geometry": {"coordinates":[175.608429,-40.356216],"type":"Point"}
 }

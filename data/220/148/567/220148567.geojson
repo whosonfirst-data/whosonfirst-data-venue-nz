@@ -2,13 +2,14 @@
   "id": 220148567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.757355,-36.846306,174.757355,-36.846306",
     "geom:latitude":-36.846306,
     "geom:longitude":174.757355,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"136-142 Fanshawe St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":220148567,
-    "wof:lastmodified":1449074742,
+    "wof:lastmodified":1466311053,
     "wof:name":"Kapiti Cheeses Ltd",
     "wof:parent_id":85781863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "-"
     ]
 },
-  "bbox": [174.757355,-36.846306,174.757355,-36.846306],
-  "geometry": {"coordinates":[174.757355,-36.846306],"type":"Point"}
+  "bbox": [
+    174.757355,
+    -36.846306,
+    174.757355,
+    -36.846306
+],
+  "geometry": {"coordinates":[174.75735499999999,-36.846306],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219984925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.160782,-37.693954,176.160782,-37.693954",
     "geom:latitude":-37.693954,
     "geom:longitude":176.160782,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/59 Eighth Ave West ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219984925,
-    "wof:lastmodified":1449072374,
+    "wof:lastmodified":1466313177,
     "wof:name":"Berentson & Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "finance"
     ]
 },
-  "bbox": [176.160782,-37.693954,176.160782,-37.693954],
-  "geometry": {"coordinates":[176.160782,-37.693954],"type":"Point"}
+  "bbox": [
+    176.160782,
+    -37.693954,
+    176.160782,
+    -37.693954
+],
+  "geometry": {"coordinates":[176.16078200000001,-37.693954],"type":"Point"}
 }

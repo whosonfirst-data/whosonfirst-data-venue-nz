@@ -2,13 +2,14 @@
   "id": 186569621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.358185,-46.434261,168.358185,-46.434261",
     "geom:latitude":-46.434261,
     "geom:longitude":168.358185,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Elizabeth St Kew ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186569621,
-    "wof:lastmodified":1449052933,
+    "wof:lastmodified":1466312930,
     "wof:name":"Kew School Dental Clinic",
     "wof:parent_id":85778911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "beauty"
     ]
 },
-  "bbox": [168.358185,-46.434261,168.358185,-46.434261],
-  "geometry": {"coordinates":[168.358185,-46.434261],"type":"Point"}
+  "bbox": [
+    168.358185,
+    -46.434261,
+    168.358185,
+    -46.434261
+],
+  "geometry": {"coordinates":[168.35818499999999,-46.434261],"type":"Point"}
 }

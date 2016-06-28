@@ -2,13 +2,14 @@
   "id": 203374675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.244995,-38.1418,176.244995,-38.1418",
     "geom:latitude":-38.1418,
     "geom:longitude":176.244995,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 851 ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203374675,
-    "wof:lastmodified":1449025743,
+    "wof:lastmodified":1466312491,
     "wof:name":"Titan Aircraft NZ",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "air"
     ]
 },
-  "bbox": [176.244995,-38.1418,176.244995,-38.1418],
-  "geometry": {"coordinates":[176.244995,-38.1418],"type":"Point"}
+  "bbox": [
+    176.244995,
+    -38.1418,
+    176.244995,
+    -38.1418
+],
+  "geometry": {"coordinates":[176.24499499999999,-38.1418],"type":"Point"}
 }

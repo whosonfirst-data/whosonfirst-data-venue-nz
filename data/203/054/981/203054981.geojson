@@ -2,13 +2,14 @@
   "id": 203054981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.895981,-39.504456,176.895981,-39.504456",
     "geom:latitude":-39.504456,
     "geom:longitude":176.895981,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Shanley Rd Onekawa ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203054981,
-    "wof:lastmodified":1449025814,
+    "wof:lastmodified":1466311573,
     "wof:name":"Decks & Pergolas",
     "wof:parent_id":85780999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "deck"
     ]
 },
-  "bbox": [176.895981,-39.504456,176.895981,-39.504456],
-  "geometry": {"coordinates":[176.895981,-39.504456],"type":"Point"}
+  "bbox": [
+    176.895981,
+    -39.504456,
+    176.895981,
+    -39.504456
+],
+  "geometry": {"coordinates":[176.89598100000001,-39.504456],"type":"Point"}
 }

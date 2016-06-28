@@ -2,13 +2,14 @@
   "id": 219285735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.007996,-40.910465,175.007996,-40.910465",
     "geom:latitude":-40.910465,
     "geom:longitude":175.007996,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Takahe Dve ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219285735,
-    "wof:lastmodified":1449070468,
+    "wof:lastmodified":1466310824,
     "wof:name":"Beachstay B & B",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.007996,-40.910465,175.007996,-40.910465],
-  "geometry": {"coordinates":[175.007996,-40.910465],"type":"Point"}
+  "bbox": [
+    175.007996,
+    -40.910465,
+    175.007996,
+    -40.910465
+],
+  "geometry": {"coordinates":[175.00799599999999,-40.910465],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203089729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.03952,-44.740856,171.03952,-44.740856",
     "geom:latitude":-44.740856,
     "geom:longitude":171.03952,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hillary St ",
     "sg:city":"Waimate",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203089729,
-    "wof:lastmodified":1449025314,
+    "wof:lastmodified":1466311898,
     "wof:name":"Centrecare Counselling Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "counselling"
     ]
 },
-  "bbox": [171.03952,-44.740856,171.03952,-44.740856],
-  "geometry": {"coordinates":[171.03952,-44.740856],"type":"Point"}
+  "bbox": [
+    171.03952,
+    -44.740856,
+    171.03952,
+    -44.740856
+],
+  "geometry": {"coordinates":[171.03952000000001,-44.740856],"type":"Point"}
 }

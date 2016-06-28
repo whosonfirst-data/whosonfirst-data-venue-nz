@@ -2,13 +2,14 @@
   "id": 186135825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.248718,-38.136696,176.248718,-38.136696",
     "geom:latitude":-38.136696,
     "geom:longitude":176.248718,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1215 Amohia St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186135825,
-    "wof:lastmodified":1449051403,
+    "wof:lastmodified":1466310859,
     "wof:name":"Dobbie Engineers Ltd",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.248718,-38.136696,176.248718,-38.136696],
+  "bbox": [
+    176.248718,
+    -38.136696,
+    176.248718,
+    -38.136696
+],
   "geometry": {"coordinates":[176.248718,-38.136696],"type":"Point"}
 }

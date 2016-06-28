@@ -2,13 +2,14 @@
   "id": 203143211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.68042,-43.556767,172.68042,-43.556767",
     "geom:latitude":-43.556767,
     "geom:longitude":172.68042,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Garlands Rd Woolston ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203143211,
-    "wof:lastmodified":1449026521,
+    "wof:lastmodified":1466310852,
     "wof:name":"Super Pets",
     "wof:parent_id":85773353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pets"
     ]
 },
-  "bbox": [172.68042,-43.556767,172.68042,-43.556767],
+  "bbox": [
+    172.68042,
+    -43.556767,
+    172.68042,
+    -43.556767
+],
   "geometry": {"coordinates":[172.68042,-43.556767],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219484911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.655396,-45.838512,170.655396,-45.838512",
     "geom:latitude":-45.838512,
     "geom:longitude":170.655396,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Harington Point Rd Portobello ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219484911,
-    "wof:lastmodified":1449073705,
+    "wof:lastmodified":1466312368,
     "wof:name":"Portobello",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.655396,-45.838512,170.655396,-45.838512],
+  "bbox": [
+    170.655396,
+    -45.838512,
+    170.655396,
+    -45.838512
+],
   "geometry": {"coordinates":[170.655396,-45.838512],"type":"Point"}
 }

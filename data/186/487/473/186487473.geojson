@@ -2,13 +2,14 @@
   "id": 186487473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.952301,-39.115391,173.952301,-39.115391",
     "geom:latitude":-39.115391,
     "geom:longitude":173.952301,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 4259 New Plymouth ",
     "sg:city":"Oakura",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":186487473,
-    "wof:lastmodified":1449051270,
+    "wof:lastmodified":1466312728,
     "wof:name":"Brown Yardley & Associates Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.952301,-39.115391,173.952301,-39.115391],
-  "geometry": {"coordinates":[173.952301,-39.115391],"type":"Point"}
+  "bbox": [
+    173.952301,
+    -39.115391,
+    173.952301,
+    -39.115391
+],
+  "geometry": {"coordinates":[173.95230100000001,-39.115391],"type":"Point"}
 }

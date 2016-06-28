@@ -2,13 +2,14 @@
   "id": 219768315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.546799,-37.13969,175.546799,-37.13969",
     "geom:latitude":-37.13969,
     "geom:longitude":175.546799,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Queen St Kopu ",
     "sg:city":"Thames",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219768315,
-    "wof:lastmodified":1449071746,
+    "wof:lastmodified":1466313032,
     "wof:name":"Thames Towing & Workshop Ltd",
     "wof:parent_id":85782505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "servicing"
     ]
 },
-  "bbox": [175.546799,-37.13969,175.546799,-37.13969],
-  "geometry": {"coordinates":[175.546799,-37.13969],"type":"Point"}
+  "bbox": [
+    175.546799,
+    -37.13969,
+    175.546799,
+    -37.13969
+],
+  "geometry": {"coordinates":[175.54679899999999,-37.13969],"type":"Point"}
 }

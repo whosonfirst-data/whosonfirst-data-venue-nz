@@ -2,13 +2,14 @@
   "id": 203340787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.842331,-39.640831,176.842331,-39.640831",
     "geom:latitude":-39.640831,
     "geom:longitude":176.842331,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Heretaunga St W ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203340787,
-    "wof:lastmodified":1449026404,
+    "wof:lastmodified":1466312259,
     "wof:name":"Griffiths Footwear Ltd",
     "wof:parent_id":85782409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wear"
     ]
 },
-  "bbox": [176.842331,-39.640831,176.842331,-39.640831],
+  "bbox": [
+    176.842331,
+    -39.640831,
+    176.842331,
+    -39.640831
+],
   "geometry": {"coordinates":[176.842331,-39.640831],"type":"Point"}
 }

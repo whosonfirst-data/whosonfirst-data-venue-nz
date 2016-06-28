@@ -2,13 +2,14 @@
   "id": 186461625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.564957,35.74369,-90.564957,35.74369",
     "geom:latitude":35.74369,
     "geom:longitude":-90.564957,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Taupo St Green ",
     "sg:city":"Bay",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186461625,
-    "wof:lastmodified":1449051394,
+    "wof:lastmodified":1466312731,
     "wof:name":"Craig McKenzie",
     "wof:parent_id":85836541,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.564957,35.74369,-90.564957,35.74369],
-  "geometry": {"coordinates":[-90.564957,35.74369],"type":"Point"}
+  "bbox": [
+    -90.564957,
+    35.74369,
+    -90.564957,
+    35.74369
+],
+  "geometry": {"coordinates":[-90.56495700000001,35.74369],"type":"Point"}
 }

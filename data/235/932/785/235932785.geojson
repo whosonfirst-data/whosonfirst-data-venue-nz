@@ -2,13 +2,14 @@
   "id": 235932785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.310425,-38.005199,175.310425,-38.005199",
     "geom:latitude":-38.005199,
     "geom:longitude":175.310425,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1403 Alexandra St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235932785,
-    "wof:lastmodified":1449008384,
+    "wof:lastmodified":1466310641,
     "wof:name":"Mac's Meats",
     "wof:parent_id":85782893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "slaughtering"
     ]
 },
-  "bbox": [175.310425,-38.005199,175.310425,-38.005199],
-  "geometry": {"coordinates":[175.310425,-38.005199],"type":"Point"}
+  "bbox": [
+    175.310425,
+    -38.005199,
+    175.310425,
+    -38.005199
+],
+  "geometry": {"coordinates":[175.31042500000001,-38.005199],"type":"Point"}
 }

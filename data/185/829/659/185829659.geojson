@@ -2,13 +2,14 @@
   "id": 185829659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.623077,-40.327129,175.623077,-40.327129",
     "geom:latitude":-40.327129,
     "geom:longitude":175.623077,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Paradise Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":185829659,
-    "wof:lastmodified":1449008100,
+    "wof:lastmodified":1466311430,
     "wof:name":"The John McCormick Music Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.623077,-40.327129,175.623077,-40.327129],
-  "geometry": {"coordinates":[175.623077,-40.327129],"type":"Point"}
+  "bbox": [
+    175.623077,
+    -40.327129,
+    175.623077,
+    -40.327129
+],
+  "geometry": {"coordinates":[175.62307699999999,-40.327129],"type":"Point"}
 }

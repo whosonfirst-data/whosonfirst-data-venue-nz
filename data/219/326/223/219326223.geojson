@@ -2,13 +2,14 @@
   "id": 219326223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.701401,-38.087971,176.701401,-38.087971",
     "geom:latitude":-38.087971,
     "geom:longitude":176.701401,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Plunket St ",
     "sg:city":"Kawerau",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219326223,
-    "wof:lastmodified":1449071884,
+    "wof:lastmodified":1466311154,
     "wof:name":"Kawerau Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accommodation"
     ]
 },
-  "bbox": [176.701401,-38.087971,176.701401,-38.087971],
+  "bbox": [
+    176.701401,
+    -38.087971,
+    176.701401,
+    -38.087971
+],
   "geometry": {"coordinates":[176.701401,-38.087971],"type":"Point"}
 }

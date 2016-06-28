@@ -2,13 +2,14 @@
   "id": 220033075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.600342,-43.526756,172.600342,-43.526756",
     "geom:latitude":-43.526756,
     "geom:longitude":172.600342,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Kahu Rd Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220033075,
-    "wof:lastmodified":1449074209,
+    "wof:lastmodified":1466311317,
     "wof:name":"Riccarton House Deans Bush",
     "wof:parent_id":85778569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.600342,-43.526756,172.600342,-43.526756],
-  "geometry": {"coordinates":[172.600342,-43.526756],"type":"Point"}
+  "bbox": [
+    172.600342,
+    -43.526756,
+    172.600342,
+    -43.526756
+],
+  "geometry": {"coordinates":[172.60034200000001,-43.526756],"type":"Point"}
 }

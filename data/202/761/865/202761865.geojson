@@ -2,13 +2,14 @@
   "id": 202761865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.070374,-38.731068,176.070374,-38.731068",
     "geom:latitude":-38.731068,
     "geom:longitude":176.070374,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Wharewaka Rd ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202761865,
-    "wof:lastmodified":1449062053,
+    "wof:lastmodified":1466312532,
     "wof:name":"Summerset",
     "wof:parent_id":85781803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "village"
     ]
 },
-  "bbox": [176.070374,-38.731068,176.070374,-38.731068],
-  "geometry": {"coordinates":[176.070374,-38.731068],"type":"Point"}
+  "bbox": [
+    176.070374,
+    -38.731068,
+    176.070374,
+    -38.731068
+],
+  "geometry": {"coordinates":[176.07037399999999,-38.731068],"type":"Point"}
 }

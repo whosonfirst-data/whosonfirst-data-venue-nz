@@ -2,13 +2,14 @@
   "id": 202571677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.586075,-43.487144,172.586075,-43.487144",
     "geom:latitude":-43.487144,
     "geom:longitude":172.586075,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 20-191 ",
     "sg:city":"Bishopdale",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":202571677,
-    "wof:lastmodified":1449061817,
+    "wof:lastmodified":1466311279,
     "wof:name":"Feature Wood Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [172.586075,-43.487144,172.586075,-43.487144],
-  "geometry": {"coordinates":[172.586075,-43.487144],"type":"Point"}
+  "bbox": [
+    172.586075,
+    -43.487144,
+    172.586075,
+    -43.487144
+],
+  "geometry": {"coordinates":[172.58607499999999,-43.487144],"type":"Point"}
 }

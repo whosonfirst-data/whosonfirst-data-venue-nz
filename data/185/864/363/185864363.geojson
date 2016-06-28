@@ -2,13 +2,14 @@
   "id": 185864363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.869095,-41.106552,174.869095,-41.106552",
     "geom:latitude":-41.106552,
     "geom:longitude":174.869095,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Mana Esp Paremata ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185864363,
-    "wof:lastmodified":1449008234,
+    "wof:lastmodified":1466311652,
     "wof:name":"Central Coast Veterinary Clinic",
     "wof:parent_id":85781159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.869095,-41.106552,174.869095,-41.106552],
-  "geometry": {"coordinates":[174.869095,-41.106552],"type":"Point"}
+  "bbox": [
+    174.869095,
+    -41.106552,
+    174.869095,
+    -41.106552
+],
+  "geometry": {"coordinates":[174.86909499999999,-41.106552],"type":"Point"}
 }

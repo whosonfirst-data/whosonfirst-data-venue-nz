@@ -2,13 +2,14 @@
   "id": 202510059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.786087,-36.85479,174.786087,-36.85479",
     "geom:latitude":-36.85479,
     "geom:longitude":174.786087,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 3 Quay Park Specialist Suites 68 Beach Rd Parnell",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202510059,
-    "wof:lastmodified":1449061647,
+    "wof:lastmodified":1466310739,
     "wof:name":"Masters John",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.786087,-36.85479,174.786087,-36.85479],
-  "geometry": {"coordinates":[174.786087,-36.85479],"type":"Point"}
+  "bbox": [
+    174.786087,
+    -36.85479,
+    174.786087,
+    -36.85479
+],
+  "geometry": {"coordinates":[174.78608700000001,-36.85479],"type":"Point"}
 }

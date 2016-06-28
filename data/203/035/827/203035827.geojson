@@ -2,13 +2,14 @@
   "id": 203035827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.835602,-36.942497,174.835602,-36.942497",
     "geom:latitude":-36.942497,
     "geom:longitude":174.835602,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Huia Rd ",
     "sg:city":"Otahuhu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203035827,
-    "wof:lastmodified":1449026471,
+    "wof:lastmodified":1466311206,
     "wof:name":"Just Refrigeration Ltd",
     "wof:parent_id":85778867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "garden"
     ]
 },
-  "bbox": [174.835602,-36.942497,174.835602,-36.942497],
-  "geometry": {"coordinates":[174.835602,-36.942497],"type":"Point"}
+  "bbox": [
+    174.835602,
+    -36.942497,
+    174.835602,
+    -36.942497
+],
+  "geometry": {"coordinates":[174.83560199999999,-36.942497],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169530935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.101028,35.171452,-100.101028,35.171452",
     "geom:latitude":35.171452,
     "geom:longitude":-100.101028,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 24, BNZ Centre, 1 Willis Street",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169530935,
-    "wof:lastmodified":1449034446,
+    "wof:lastmodified":1466310529,
     "wof:name":"BNZ Nominees Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.101028,35.171452,-100.101028,35.171452],
+  "bbox": [
+    -100.101028,
+    35.171452,
+    -100.101028,
+    35.171452
+],
   "geometry": {"coordinates":[-100.101028,35.171452],"type":"Point"}
 }

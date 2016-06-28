@@ -2,13 +2,14 @@
   "id": 186006233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.252045,-37.750389,175.252045,-37.750389",
     "geom:latitude":-37.750389,
     "geom:longitude":175.252045,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 456 Te Awamutu ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186006233,
-    "wof:lastmodified":1449052488,
+    "wof:lastmodified":1466310632,
     "wof:name":"Parlane James Lawyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.252045,-37.750389,175.252045,-37.750389],
-  "geometry": {"coordinates":[175.252045,-37.750389],"type":"Point"}
+  "bbox": [
+    175.252045,
+    -37.750389,
+    175.252045,
+    -37.750389
+],
+  "geometry": {"coordinates":[175.25204500000001,-37.750389],"type":"Point"}
 }

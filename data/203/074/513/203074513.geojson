@@ -2,13 +2,14 @@
   "id": 203074513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.336021,38.593979,-92.336021,38.593979",
     "geom:latitude":38.593979,
     "geom:longitude":-92.336021,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Wilding St St ",
     "sg:city":"Martins",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203074513,
-    "wof:lastmodified":1449025966,
+    "wof:lastmodified":1466311753,
     "wof:name":"Stone Works",
     "wof:parent_id":85847491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.336021,38.593979,-92.336021,38.593979],
+  "bbox": [
+    -92.336021,
+    38.593979,
+    -92.336021,
+    38.593979
+],
   "geometry": {"coordinates":[-92.336021,38.593979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186237931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.647095,-40.339977,175.647095,-40.339977",
     "geom:latitude":-40.339977,
     "geom:longitude":175.647095,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Napier Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186237931,
-    "wof:lastmodified":1449050333,
+    "wof:lastmodified":1466311748,
     "wof:name":"Eagle Spares Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.647095,-40.339977,175.647095,-40.339977],
-  "geometry": {"coordinates":[175.647095,-40.339977],"type":"Point"}
+  "bbox": [
+    175.647095,
+    -40.339977,
+    175.647095,
+    -40.339977
+],
+  "geometry": {"coordinates":[175.64709500000001,-40.339977],"type":"Point"}
 }

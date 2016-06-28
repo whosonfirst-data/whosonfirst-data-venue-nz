@@ -2,13 +2,14 @@
   "id": 186636129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.251038,-38.142479,176.251038,-38.142479",
     "geom:latitude":-38.142479,
     "geom:longitude":176.251038,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Victoria St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186636129,
-    "wof:lastmodified":1449051432,
+    "wof:lastmodified":1466313074,
     "wof:name":"Body Mechanics",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "fitness"
     ]
 },
-  "bbox": [176.251038,-38.142479,176.251038,-38.142479],
-  "geometry": {"coordinates":[176.251038,-38.142479],"type":"Point"}
+  "bbox": [
+    176.251038,
+    -38.142479,
+    176.251038,
+    -38.142479
+],
+  "geometry": {"coordinates":[176.25103799999999,-38.142479],"type":"Point"}
 }

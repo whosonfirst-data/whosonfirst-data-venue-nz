@@ -2,13 +2,14 @@
   "id": 235998053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.74501,-36.852684,174.74501,-36.852684",
     "geom:latitude":-36.852684,
     "geom:longitude":174.74501,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"226 Ponsonby Rd Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235998053,
-    "wof:lastmodified":1449008370,
+    "wof:lastmodified":1466312044,
     "wof:name":"Prego Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pizza"
     ]
 },
-  "bbox": [174.74501,-36.852684,174.74501,-36.852684],
-  "geometry": {"coordinates":[174.74501,-36.852684],"type":"Point"}
+  "bbox": [
+    174.74501,
+    -36.852684,
+    174.74501,
+    -36.852684
+],
+  "geometry": {"coordinates":[174.74501000000001,-36.852684],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185831763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.720871,-43.487961,172.720871,-43.487961",
     "geom:latitude":-43.487961,
     "geom:longitude":172.720871,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Pandora St North New Brighton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185831763,
-    "wof:lastmodified":1449007558,
+    "wof:lastmodified":1466311444,
     "wof:name":"Course You Can Sing",
     "wof:parent_id":85778899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leisure"
     ]
 },
-  "bbox": [172.720871,-43.487961,172.720871,-43.487961],
-  "geometry": {"coordinates":[172.720871,-43.487961],"type":"Point"}
+  "bbox": [
+    172.720871,
+    -43.487961,
+    172.720871,
+    -43.487961
+],
+  "geometry": {"coordinates":[172.72087099999999,-43.487961],"type":"Point"}
 }

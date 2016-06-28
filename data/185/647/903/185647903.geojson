@@ -2,13 +2,14 @@
   "id": 185647903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.389931,40.581074,-98.389931,40.581074",
     "geom:latitude":40.581074,
     "geom:longitude":-98.389931,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hastings St South ",
     "sg:city":"Hastings",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185647903,
-    "wof:lastmodified":1449007379,
+    "wof:lastmodified":1466311477,
     "wof:name":"Hastings Municipal Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.389931,40.581074,-98.389931,40.581074],
+  "bbox": [
+    -98.389931,
+    40.581074,
+    -98.389931,
+    40.581074
+],
   "geometry": {"coordinates":[-98.389931,40.581074],"type":"Point"}
 }

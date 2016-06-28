@@ -2,13 +2,14 @@
   "id": 219740403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.047485,-39.930759,175.047485,-39.930759",
     "geom:latitude":-39.930759,
     "geom:longitude":175.047485,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Ingestre St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219740403,
-    "wof:lastmodified":1449071999,
+    "wof:lastmodified":1466312973,
     "wof:name":"Wanganui Auto Services Ltd",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "servicing"
     ]
 },
-  "bbox": [175.047485,-39.930759,175.047485,-39.930759],
-  "geometry": {"coordinates":[175.047485,-39.930759],"type":"Point"}
+  "bbox": [
+    175.047485,
+    -39.930759,
+    175.047485,
+    -39.930759
+],
+  "geometry": {"coordinates":[175.04748499999999,-39.930759],"type":"Point"}
 }

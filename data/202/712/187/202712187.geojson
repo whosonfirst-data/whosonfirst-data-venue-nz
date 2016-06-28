@@ -2,13 +2,14 @@
   "id": 202712187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.319992,-35.680218,174.319992,-35.680218",
     "geom:latitude":-35.680218,
     "geom:longitude":174.319992,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Amber Dve Tikipunga ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202712187,
-    "wof:lastmodified":1449061203,
+    "wof:lastmodified":1466312178,
     "wof:name":"Bartle B L",
     "wof:parent_id":85781183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [174.319992,-35.680218,174.319992,-35.680218],
-  "geometry": {"coordinates":[174.319992,-35.680218],"type":"Point"}
+  "bbox": [
+    174.319992,
+    -35.680218,
+    174.319992,
+    -35.680218
+],
+  "geometry": {"coordinates":[174.31999200000001,-35.680218],"type":"Point"}
 }

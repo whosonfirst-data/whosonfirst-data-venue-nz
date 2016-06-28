@@ -2,13 +2,14 @@
   "id": 169750623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.040619,-39.925976,175.040619,-39.925976",
     "geom:latitude":-39.925976,
     "geom:longitude":175.040619,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"374 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169750623,
-    "wof:lastmodified":1449034675,
+    "wof:lastmodified":1466311270,
     "wof:name":"Write Price Food Barn",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.040619,-39.925976,175.040619,-39.925976],
-  "geometry": {"coordinates":[175.040619,-39.925976],"type":"Point"}
+  "bbox": [
+    175.040619,
+    -39.925976,
+    175.040619,
+    -39.925976
+],
+  "geometry": {"coordinates":[175.04061899999999,-39.925976],"type":"Point"}
 }

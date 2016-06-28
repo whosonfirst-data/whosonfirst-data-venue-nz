@@ -2,13 +2,14 @@
   "id": 185926541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.224167,-38.13229,176.224167,-38.13229",
     "geom:latitude":-38.13229,
     "geom:longitude":176.224167,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"153/157 View Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185926541,
-    "wof:lastmodified":1449007148,
+    "wof:lastmodified":1466312235,
     "wof:name":"Rotorua Indoor Sports",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sports"
     ]
 },
-  "bbox": [176.224167,-38.13229,176.224167,-38.13229],
-  "geometry": {"coordinates":[176.224167,-38.13229],"type":"Point"}
+  "bbox": [
+    176.224167,
+    -38.13229,
+    176.224167,
+    -38.13229
+],
+  "geometry": {"coordinates":[176.22416699999999,-38.13229],"type":"Point"}
 }

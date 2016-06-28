@@ -2,13 +2,14 @@
   "id": 185816035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.739883,40.227501,-74.739883,40.227501",
     "geom:latitude":40.227501,
     "geom:longitude":-74.739883,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Ward St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185816035,
-    "wof:lastmodified":1449007547,
+    "wof:lastmodified":1466311333,
     "wof:name":"Camera House",
     "wof:parent_id":85848949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hobbies"
     ]
 },
-  "bbox": [-74.739883,40.227501,-74.739883,40.227501],
-  "geometry": {"coordinates":[-74.739883,40.227501],"type":"Point"}
+  "bbox": [
+    -74.739883,
+    40.227501,
+    -74.739883,
+    40.227501
+],
+  "geometry": {"coordinates":[-74.73988300000001,40.227501],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202995309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.621017,-45.044361,168.621017,-45.044361",
     "geom:latitude":-45.044361,
     "geom:longitude":168.621017,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"314 SpearsGrass Rd Wakatipu ",
     "sg:city":"Queenstown",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202995309,
-    "wof:lastmodified":1449062365,
+    "wof:lastmodified":1466312896,
     "wof:name":"Wakatipu Property Services",
     "wof:parent_id":85781459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.621017,-45.044361,168.621017,-45.044361],
-  "geometry": {"coordinates":[168.621017,-45.044361],"type":"Point"}
+  "bbox": [
+    168.621017,
+    -45.044361,
+    168.621017,
+    -45.044361
+],
+  "geometry": {"coordinates":[168.62101699999999,-45.044361],"type":"Point"}
 }

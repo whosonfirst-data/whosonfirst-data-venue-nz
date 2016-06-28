@@ -2,13 +2,14 @@
   "id": 220102919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.709991,-43.925568,171.709991,-43.925568",
     "geom:latitude":-43.925568,
     "geom:longitude":171.709991,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Main South Rd Tinwald ",
     "sg:city":"Ashburton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220102919,
-    "wof:lastmodified":1449074829,
+    "wof:lastmodified":1466310621,
     "wof:name":"Sim's Bakery",
     "wof:parent_id":85773245,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [171.709991,-43.925568,171.709991,-43.925568],
+  "bbox": [
+    171.709991,
+    -43.925568,
+    171.709991,
+    -43.925568
+],
   "geometry": {"coordinates":[171.709991,-43.925568],"type":"Point"}
 }

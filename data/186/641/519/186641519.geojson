@@ -2,13 +2,14 @@
   "id": 186641519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.610092,-40.350304,175.610092,-40.350304",
     "geom:latitude":-40.350304,
     "geom:longitude":175.610092,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Ngata St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":186641519,
-    "wof:lastmodified":1449052371,
+    "wof:lastmodified":1466313016,
     "wof:name":"Ross Lee - Solaris Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -77,6 +79,11 @@
         "fitness"
     ]
 },
-  "bbox": [175.610092,-40.350304,175.610092,-40.350304],
-  "geometry": {"coordinates":[175.610092,-40.350304],"type":"Point"}
+  "bbox": [
+    175.610092,
+    -40.350304,
+    175.610092,
+    -40.350304
+],
+  "geometry": {"coordinates":[175.61009200000001,-40.350304],"type":"Point"}
 }

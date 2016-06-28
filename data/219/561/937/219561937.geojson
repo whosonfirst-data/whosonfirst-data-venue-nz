@@ -2,13 +2,14 @@
   "id": 219561937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.777359,-41.292229,174.777359,-41.292229",
     "geom:latitude":-41.292229,
     "geom:longitude":174.777359,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5//4 Glover St Ngauranga PO Box 6623 Te Aro ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219561937,
-    "wof:lastmodified":1449072901,
+    "wof:lastmodified":1466312581,
     "wof:name":"ORIX New Zealand Limited",
     "wof:parent_id":85778661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [174.777359,-41.292229,174.777359,-41.292229],
-  "geometry": {"coordinates":[174.777359,-41.292229],"type":"Point"}
+  "bbox": [
+    174.777359,
+    -41.292229,
+    174.777359,
+    -41.292229
+],
+  "geometry": {"coordinates":[174.77735899999999,-41.292229],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202525959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.988846,-37.968006,176.988846,-37.968006",
     "geom:latitude":-37.968006,
     "geom:longitude":176.988846,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Alexander Ave ",
     "sg:city":"Whakatane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202525959,
-    "wof:lastmodified":1449062138,
+    "wof:lastmodified":1466310875,
     "wof:name":"Kerry Blackmore",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.988846,-37.968006,176.988846,-37.968006],
+  "bbox": [
+    176.988846,
+    -37.968006,
+    176.988846,
+    -37.968006
+],
   "geometry": {"coordinates":[176.988846,-37.968006],"type":"Point"}
 }

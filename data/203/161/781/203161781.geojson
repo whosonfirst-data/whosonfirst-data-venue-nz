@@ -2,13 +2,14 @@
   "id": 203161781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.670654,-43.522175,172.670654,-43.522175",
     "geom:latitude":-43.522175,
     "geom:longitude":172.670654,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Lionel St Avonside ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203161781,
-    "wof:lastmodified":1449025661,
+    "wof:lastmodified":1466311002,
     "wof:name":"Popular Pets Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pets"
     ]
 },
-  "bbox": [172.670654,-43.522175,172.670654,-43.522175],
-  "geometry": {"coordinates":[172.670654,-43.522175],"type":"Point"}
+  "bbox": [
+    172.670654,
+    -43.522175,
+    172.670654,
+    -43.522175
+],
+  "geometry": {"coordinates":[172.67065400000001,-43.522175],"type":"Point"}
 }

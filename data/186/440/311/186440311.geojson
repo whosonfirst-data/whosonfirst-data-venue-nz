@@ -2,13 +2,14 @@
   "id": 186440311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.27478,-41.281326,173.27478,-41.281326",
     "geom:latitude":-41.281326,
     "geom:longitude":173.27478,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Mount St ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186440311,
-    "wof:lastmodified":1449051345,
+    "wof:lastmodified":1466312607,
     "wof:name":"Baycity Refrigeration Craig Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [173.27478,-41.281326,173.27478,-41.281326],
-  "geometry": {"coordinates":[173.27478,-41.281326],"type":"Point"}
+  "bbox": [
+    173.27478,
+    -41.281326,
+    173.27478,
+    -41.281326
+],
+  "geometry": {"coordinates":[173.27477999999999,-41.281326],"type":"Point"}
 }

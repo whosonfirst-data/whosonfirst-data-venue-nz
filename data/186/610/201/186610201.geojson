@@ -2,13 +2,14 @@
   "id": 186610201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.608566,-40.354973,175.608566,-40.354973",
     "geom:latitude":-40.354973,
     "geom:longitude":175.608566,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"247 Cuba St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186610201,
-    "wof:lastmodified":1449052990,
+    "wof:lastmodified":1466312973,
     "wof:name":"Club 100 / Les Mills World of Fitness Programmes",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [175.608566,-40.354973,175.608566,-40.354973],
+  "bbox": [
+    175.608566,
+    -40.354973,
+    175.608566,
+    -40.354973
+],
   "geometry": {"coordinates":[175.608566,-40.354973],"type":"Point"}
 }

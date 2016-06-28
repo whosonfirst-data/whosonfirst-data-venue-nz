@@ -2,13 +2,14 @@
   "id": 202378531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.733154,-36.818462,174.733154,-36.818462",
     "geom:latitude":-36.818462,
     "geom:longitude":174.733154,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Hinemoa St Birkenhead ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202378531,
-    "wof:lastmodified":1449061803,
+    "wof:lastmodified":1466310552,
     "wof:name":"Mayan Colour Clinic",
     "wof:parent_id":85778957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.733154,-36.818462,174.733154,-36.818462],
-  "geometry": {"coordinates":[174.733154,-36.818462],"type":"Point"}
+  "bbox": [
+    174.733154,
+    -36.818462,
+    174.733154,
+    -36.818462
+],
+  "geometry": {"coordinates":[174.73315400000001,-36.818462],"type":"Point"}
 }

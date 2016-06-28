@@ -2,13 +2,14 @@
   "id": 203029081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.569336,-40.230331,175.569336,-40.230331",
     "geom:latitude":-40.230331,
     "geom:longitude":175.569336,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Russell St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203029081,
-    "wof:lastmodified":1449025722,
+    "wof:lastmodified":1466311146,
     "wof:name":"P & N Wills Limited",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garden"
     ]
 },
-  "bbox": [175.569336,-40.230331,175.569336,-40.230331],
-  "geometry": {"coordinates":[175.569336,-40.230331],"type":"Point"}
+  "bbox": [
+    175.569336,
+    -40.230331,
+    175.569336,
+    -40.230331
+],
+  "geometry": {"coordinates":[175.56933599999999,-40.230331],"type":"Point"}
 }

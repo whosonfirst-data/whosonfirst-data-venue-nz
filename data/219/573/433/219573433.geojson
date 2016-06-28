@@ -2,13 +2,14 @@
   "id": 219573433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.759811,-36.865952,174.759811,-36.865952",
     "geom:latitude":-36.865952,
     "geom:longitude":174.759811,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2A Flower St Eden Terrace ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219573433,
-    "wof:lastmodified":1449073007,
+    "wof:lastmodified":1466312522,
     "wof:name":"Roxys Auto Valet Services",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [174.759811,-36.865952,174.759811,-36.865952],
-  "geometry": {"coordinates":[174.759811,-36.865952],"type":"Point"}
+  "bbox": [
+    174.759811,
+    -36.865952,
+    174.759811,
+    -36.865952
+],
+  "geometry": {"coordinates":[174.75981100000001,-36.865952],"type":"Point"}
 }

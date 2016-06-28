@@ -2,13 +2,14 @@
   "id": 169618577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.831497,-44.938118,168.831497,-44.938118",
     "geom:latitude":-44.938118,
     "geom:longitude":168.831497,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Ramshaw La ",
     "sg:city":"Arrowtown",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169618577,
-    "wof:lastmodified":1449034740,
+    "wof:lastmodified":1466311821,
     "wof:name":"The Willows Cafe & Bookshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.831497,-44.938118,168.831497,-44.938118],
-  "geometry": {"coordinates":[168.831497,-44.938118],"type":"Point"}
+  "bbox": [
+    168.831497,
+    -44.938118,
+    168.831497,
+    -44.938118
+],
+  "geometry": {"coordinates":[168.83149700000001,-44.938118],"type":"Point"}
 }

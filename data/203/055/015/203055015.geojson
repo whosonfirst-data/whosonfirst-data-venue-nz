@@ -2,13 +2,14 @@
   "id": 203055015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.865723,-41.218967,174.865723,-41.218967",
     "geom:latitude":-41.218967,
     "geom:longitude":174.865723,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Korokoro Rd ",
     "sg:city":"Korokoro",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203055015,
-    "wof:lastmodified":1449025350,
+    "wof:lastmodified":1466311573,
     "wof:name":"Decks Unlimited Ltd",
     "wof:parent_id":85773005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "deck"
     ]
 },
-  "bbox": [174.865723,-41.218967,174.865723,-41.218967],
+  "bbox": [
+    174.865723,
+    -41.218967,
+    174.865723,
+    -41.218967
+],
   "geometry": {"coordinates":[174.865723,-41.218967],"type":"Point"}
 }

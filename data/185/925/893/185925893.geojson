@@ -2,13 +2,14 @@
   "id": 185925893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764297,-36.868431,174.764297,-36.868431",
     "geom:latitude":-36.868431,
     "geom:longitude":174.764297,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Normanby Rd Mt Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185925893,
-    "wof:lastmodified":1449006609,
+    "wof:lastmodified":1466312110,
     "wof:name":"Sportways Gun Shed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [174.764297,-36.868431,174.764297,-36.868431],
+  "bbox": [
+    174.764297,
+    -36.868431,
+    174.764297,
+    -36.868431
+],
   "geometry": {"coordinates":[174.764297,-36.868431],"type":"Point"}
 }

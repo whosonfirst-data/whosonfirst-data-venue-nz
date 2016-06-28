@@ -2,13 +2,14 @@
   "id": 202721581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.781433,-36.869553,174.781433,-36.869553",
     "geom:latitude":-36.869553,
     "geom:longitude":174.781433,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Middleton Rd Remuera ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202721581,
-    "wof:lastmodified":1449062638,
+    "wof:lastmodified":1466312217,
     "wof:name":"McGregor Cleaning Services",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "furniture"
     ]
 },
-  "bbox": [174.781433,-36.869553,174.781433,-36.869553],
-  "geometry": {"coordinates":[174.781433,-36.869553],"type":"Point"}
+  "bbox": [
+    174.781433,
+    -36.869553,
+    174.781433,
+    -36.869553
+],
+  "geometry": {"coordinates":[174.78143299999999,-36.869553],"type":"Point"}
 }

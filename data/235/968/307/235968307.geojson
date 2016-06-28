@@ -2,13 +2,14 @@
   "id": 235968307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.249481,-38.136707,176.249481,-38.136707",
     "geom:latitude":-38.136707,
     "geom:longitude":176.249481,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1237 Pukuatua St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235968307,
-    "wof:lastmodified":1449008297,
+    "wof:lastmodified":1466311167,
     "wof:name":"Stix Bar",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "brasserie"
     ]
 },
-  "bbox": [176.249481,-38.136707,176.249481,-38.136707],
+  "bbox": [
+    176.249481,
+    -38.136707,
+    176.249481,
+    -38.136707
+],
   "geometry": {"coordinates":[176.249481,-38.136707],"type":"Point"}
 }

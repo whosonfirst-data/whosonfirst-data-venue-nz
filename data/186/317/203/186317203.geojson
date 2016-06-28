@@ -2,13 +2,14 @@
   "id": 186317203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.853287,-37.00293,174.853287,-37.00293",
     "geom:latitude":-37.00293,
     "geom:longitude":174.853287,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Roscommon Rd Wiri ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186317203,
-    "wof:lastmodified":1449051594,
+    "wof:lastmodified":1466312129,
     "wof:name":"Jay Cee Welding Ltd",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.853287,-37.00293,174.853287,-37.00293],
-  "geometry": {"coordinates":[174.853287,-37.00293],"type":"Point"}
+  "bbox": [
+    174.853287,
+    -37.00293,
+    174.853287,
+    -37.00293
+],
+  "geometry": {"coordinates":[174.85328699999999,-37.00293],"type":"Point"}
 }

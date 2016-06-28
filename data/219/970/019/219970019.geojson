@@ -2,13 +2,14 @@
   "id": 219970019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.34285,-46.405869,168.34285,-46.405869",
     "geom:latitude":-46.405869,
     "geom:longitude":168.34285,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Victoria Ave ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219970019,
-    "wof:lastmodified":1449073852,
+    "wof:lastmodified":1466313172,
     "wof:name":"Humes",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [168.34285,-46.405869,168.34285,-46.405869],
+  "bbox": [
+    168.34285,
+    -46.405869,
+    168.34285,
+    -46.405869
+],
   "geometry": {"coordinates":[168.34285,-46.405869],"type":"Point"}
 }

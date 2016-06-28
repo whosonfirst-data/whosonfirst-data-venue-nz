@@ -2,13 +2,14 @@
   "id": 186038691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.891708,-36.928123,174.891708,-36.928123",
     "geom:latitude":-36.928123,
     "geom:longitude":174.891708,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Trugood Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186038691,
-    "wof:lastmodified":1449052098,
+    "wof:lastmodified":1466311235,
     "wof:name":"Uroxsys Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [174.891708,-36.928123,174.891708,-36.928123],
-  "geometry": {"coordinates":[174.891708,-36.928123],"type":"Point"}
+  "bbox": [
+    174.891708,
+    -36.928123,
+    174.891708,
+    -36.928123
+],
+  "geometry": {"coordinates":[174.89170799999999,-36.928123],"type":"Point"}
 }

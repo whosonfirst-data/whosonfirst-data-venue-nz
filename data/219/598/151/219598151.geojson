@@ -2,13 +2,14 @@
   "id": 219598151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.63353,-40.36264,175.63353,-40.36264",
     "geom:latitude":-40.36264,
     "geom:longitude":175.63353,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"344 Albert St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219598151,
-    "wof:lastmodified":1449070564,
+    "wof:lastmodified":1466312499,
     "wof:name":"Hokowhitu Auto's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.63353,-40.36264,175.63353,-40.36264],
-  "geometry": {"coordinates":[175.63353,-40.36264],"type":"Point"}
+  "bbox": [
+    175.63353,
+    -40.36264,
+    175.63353,
+    -40.36264
+],
+  "geometry": {"coordinates":[175.63353000000001,-40.36264],"type":"Point"}
 }

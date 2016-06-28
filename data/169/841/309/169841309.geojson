@@ -2,13 +2,14 @@
   "id": 169841309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.619331,40.50626,-74.619331,40.50626",
     "geom:latitude":40.50626,
     "geom:longitude":-74.619331,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Lake Rd & Somerset St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169841309,
-    "wof:lastmodified":1449033375,
+    "wof:lastmodified":1466311967,
     "wof:name":"The Fibreglass Shop",
     "wof:parent_id":85806449,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.619331,40.50626,-74.619331,40.50626],
+  "bbox": [
+    -74.619331,
+    40.50626,
+    -74.619331,
+    40.50626
+],
   "geometry": {"coordinates":[-74.619331,40.50626],"type":"Point"}
 }

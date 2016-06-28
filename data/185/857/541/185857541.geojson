@@ -2,13 +2,14 @@
   "id": 185857541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.532021,40.510941,-93.532021,40.510941",
     "geom:latitude":40.510941,
     "geom:longitude":-93.532021,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"590 Koheroa Rd ",
     "sg:city":"Mercer",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185857541,
-    "wof:lastmodified":1449007641,
+    "wof:lastmodified":1466311614,
     "wof:name":"Mercer Skydiving Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.532021,40.510941,-93.532021,40.510941],
+  "bbox": [
+    -93.532021,
+    40.510941,
+    -93.532021,
+    40.510941
+],
   "geometry": {"coordinates":[-93.532021,40.510941],"type":"Point"}
 }

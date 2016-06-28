@@ -2,13 +2,14 @@
   "id": 219359625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.743568,40.26741,-74.743568,40.26741",
     "geom:latitude":40.26741,
     "geom:longitude":-74.743568,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Ross Pl ",
     "sg:city":"Lawrence",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219359625,
-    "wof:lastmodified":1449070332,
+    "wof:lastmodified":1466311415,
     "wof:name":"Pick N Shovel",
     "wof:parent_id":85851293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [-74.743568,40.26741,-74.743568,40.26741],
+  "bbox": [
+    -74.743568,
+    40.26741,
+    -74.743568,
+    40.26741
+],
   "geometry": {"coordinates":[-74.743568,40.26741],"type":"Point"}
 }

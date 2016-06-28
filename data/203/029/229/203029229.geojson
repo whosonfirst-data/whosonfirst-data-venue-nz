@@ -2,13 +2,14 @@
   "id": 203029229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"169.605865,-46.042324,169.605865,-46.042324",
     "geom:latitude":-46.042324,
     "geom:longitude":169.605865,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"346 Upper Papamoa Rd Te Puke RD 3 Te ",
     "sg:city":"Puke",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203029229,
-    "wof:lastmodified":1449025725,
+    "wof:lastmodified":1466311147,
     "wof:name":"Magpie Trip-Traps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "garden"
     ]
 },
-  "bbox": [169.605865,-46.042324,169.605865,-46.042324],
-  "geometry": {"coordinates":[169.605865,-46.042324],"type":"Point"}
+  "bbox": [
+    169.605865,
+    -46.042324,
+    169.605865,
+    -46.042324
+],
+  "geometry": {"coordinates":[169.60586499999999,-46.042324],"type":"Point"}
 }

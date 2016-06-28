@@ -2,13 +2,14 @@
   "id": 202521283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.264175,-37.770271,175.264175,-37.770271",
     "geom:latitude":-37.770271,
     "geom:longitude":175.264175,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1359 Victoria St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202521283,
-    "wof:lastmodified":1449062518,
+    "wof:lastmodified":1466310837,
     "wof:name":"Upsdell Dr Raewyn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "specialists"
     ]
 },
-  "bbox": [175.264175,-37.770271,175.264175,-37.770271],
-  "geometry": {"coordinates":[175.264175,-37.770271],"type":"Point"}
+  "bbox": [
+    175.264175,
+    -37.770271,
+    175.264175,
+    -37.770271
+],
+  "geometry": {"coordinates":[175.26417499999999,-37.770271],"type":"Point"}
 }

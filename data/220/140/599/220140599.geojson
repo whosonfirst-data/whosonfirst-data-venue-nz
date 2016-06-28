@@ -2,13 +2,14 @@
   "id": 220140599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.048264,-39.914295,175.048264,-39.914295",
     "geom:latitude":-39.914295,
     "geom:longitude":175.048264,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Lowther St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220140599,
-    "wof:lastmodified":1449074143,
+    "wof:lastmodified":1466310984,
     "wof:name":"Stevo's Distributors Ltd",
     "wof:parent_id":85781217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "-"
     ]
 },
-  "bbox": [175.048264,-39.914295,175.048264,-39.914295],
-  "geometry": {"coordinates":[175.048264,-39.914295],"type":"Point"}
+  "bbox": [
+    175.048264,
+    -39.914295,
+    175.048264,
+    -39.914295
+],
+  "geometry": {"coordinates":[175.04826399999999,-39.914295],"type":"Point"}
 }

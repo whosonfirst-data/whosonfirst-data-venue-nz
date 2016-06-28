@@ -2,13 +2,14 @@
   "id": 185789603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.244003,-38.035545,176.244003,-38.035545",
     "geom:latitude":-38.035545,
     "geom:longitude":176.244003,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Hamurana Rd Hamurana ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185789603,
-    "wof:lastmodified":1449007342,
+    "wof:lastmodified":1466311153,
     "wof:name":"Hot Pots Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hobbies"
     ]
 },
-  "bbox": [176.244003,-38.035545,176.244003,-38.035545],
-  "geometry": {"coordinates":[176.244003,-38.035545],"type":"Point"}
+  "bbox": [
+    176.244003,
+    -38.035545,
+    176.244003,
+    -38.035545
+],
+  "geometry": {"coordinates":[176.24400299999999,-38.035545],"type":"Point"}
 }

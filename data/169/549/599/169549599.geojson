@@ -2,13 +2,14 @@
   "id": 169549599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.349518,-46.41222,168.349518,-46.41222",
     "geom:latitude":-46.41222,
     "geom:longitude":168.349518,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Cambridge Pl ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169549599,
-    "wof:lastmodified":1449033592,
+    "wof:lastmodified":1466310789,
     "wof:name":"Kleins",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.349518,-46.41222,168.349518,-46.41222],
-  "geometry": {"coordinates":[168.349518,-46.41222],"type":"Point"}
+  "bbox": [
+    168.349518,
+    -46.41222,
+    168.349518,
+    -46.41222
+],
+  "geometry": {"coordinates":[168.34951799999999,-46.41222],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186265955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.547852,-45.841351,170.547852,-45.841351",
     "geom:latitude":-45.841351,
     "geom:longitude":170.547852,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Echovale Ave Normanby ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186265955,
-    "wof:lastmodified":1449051305,
+    "wof:lastmodified":1466311958,
     "wof:name":"Mitch Industries",
     "wof:parent_id":85778495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welding"
     ]
 },
-  "bbox": [170.547852,-45.841351,170.547852,-45.841351],
-  "geometry": {"coordinates":[170.547852,-45.841351],"type":"Point"}
+  "bbox": [
+    170.547852,
+    -45.841351,
+    170.547852,
+    -45.841351
+],
+  "geometry": {"coordinates":[170.54785200000001,-45.841351],"type":"Point"}
 }

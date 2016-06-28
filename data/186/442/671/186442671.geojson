@@ -2,13 +2,14 @@
   "id": 186442671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.535835,42.831291,-75.535835,42.831291",
     "geom:latitude":42.831291,
     "geom:longitude":-75.535835,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Lake Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186442671,
-    "wof:lastmodified":1449051550,
+    "wof:lastmodified":1466312517,
     "wof:name":"Refrigeration Engineering Company Ltd",
     "wof:parent_id":85831885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [-75.535835,42.831291,-75.535835,42.831291],
-  "geometry": {"coordinates":[-75.535835,42.831291],"type":"Point"}
+  "bbox": [
+    -75.535835,
+    42.831291,
+    -75.535835,
+    42.831291
+],
+  "geometry": {"coordinates":[-75.53583500000001,42.831291],"type":"Point"}
 }

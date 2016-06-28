@@ -2,13 +2,14 @@
   "id": 185989011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.58519,-40.380726,175.58519,-40.380726",
     "geom:latitude":-40.380726,
     "geom:longitude":175.58519,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Totara Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185989011,
-    "wof:lastmodified":1449007771,
+    "wof:lastmodified":1466312286,
     "wof:name":"The Hat Loft",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.58519,-40.380726,175.58519,-40.380726],
-  "geometry": {"coordinates":[175.58519,-40.380726],"type":"Point"}
+  "bbox": [
+    175.58519,
+    -40.380726,
+    175.58519,
+    -40.380726
+],
+  "geometry": {"coordinates":[175.58519000000001,-40.380726],"type":"Point"}
 }

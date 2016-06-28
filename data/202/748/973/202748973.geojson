@@ -2,13 +2,14 @@
   "id": 202748973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.788055,-36.857574,174.788055,-36.857574",
     "geom:latitude":-36.857574,
     "geom:longitude":174.788055,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Takutai St Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202748973,
-    "wof:lastmodified":1449062011,
+    "wof:lastmodified":1466312303,
     "wof:name":"Parnell House Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [174.788055,-36.857574,174.788055,-36.857574],
-  "geometry": {"coordinates":[174.788055,-36.857574],"type":"Point"}
+  "bbox": [
+    174.788055,
+    -36.857574,
+    174.788055,
+    -36.857574
+],
+  "geometry": {"coordinates":[174.78805500000001,-36.857574],"type":"Point"}
 }

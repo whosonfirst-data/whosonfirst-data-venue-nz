@@ -2,13 +2,14 @@
   "id": 202574933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.688614,-36.908089,174.688614,-36.908089",
     "geom:latitude":-36.908089,
     "geom:longitude":174.688614,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Veronica St New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202574933,
-    "wof:lastmodified":1449060092,
+    "wof:lastmodified":1466311309,
     "wof:name":"Voodoo Imports",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "artificial"
     ]
 },
-  "bbox": [174.688614,-36.908089,174.688614,-36.908089],
+  "bbox": [
+    174.688614,
+    -36.908089,
+    174.688614,
+    -36.908089
+],
   "geometry": {"coordinates":[174.688614,-36.908089],"type":"Point"}
 }

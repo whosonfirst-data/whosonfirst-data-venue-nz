@@ -2,13 +2,14 @@
   "id": 203201335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.246811,-38.15276,176.246811,-38.15276",
     "geom:latitude":-38.15276,
     "geom:longitude":176.246811,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"191 Ranolf St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203201335,
-    "wof:lastmodified":1449026609,
+    "wof:lastmodified":1466311385,
     "wof:name":"Kids Kloset",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.246811,-38.15276,176.246811,-38.15276],
-  "geometry": {"coordinates":[176.246811,-38.15276],"type":"Point"}
+  "bbox": [
+    176.246811,
+    -38.15276,
+    176.246811,
+    -38.15276
+],
+  "geometry": {"coordinates":[176.24681100000001,-38.15276],"type":"Point"}
 }

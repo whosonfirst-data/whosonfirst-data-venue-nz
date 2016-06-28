@@ -2,13 +2,14 @@
   "id": 220010577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.321701,-35.718899,174.321701,-35.718899",
     "geom:latitude":-35.718899,
     "geom:longitude":174.321701,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"150 c Bank St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220010577,
-    "wof:lastmodified":1449074541,
+    "wof:lastmodified":1466310883,
     "wof:name":"AMP North Financial Services",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mortgage"
     ]
 },
-  "bbox": [174.321701,-35.718899,174.321701,-35.718899],
-  "geometry": {"coordinates":[174.321701,-35.718899],"type":"Point"}
+  "bbox": [
+    174.321701,
+    -35.718899,
+    174.321701,
+    -35.718899
+],
+  "geometry": {"coordinates":[174.32170099999999,-35.718899],"type":"Point"}
 }

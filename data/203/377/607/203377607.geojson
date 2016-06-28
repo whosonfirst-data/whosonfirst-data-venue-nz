@@ -2,13 +2,14 @@
   "id": 203377607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.756653,-36.842113,174.756653,-36.842113",
     "geom:latitude":-36.842113,
     "geom:longitude":174.756653,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 10 8 Madden St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203377607,
-    "wof:lastmodified":1449025629,
+    "wof:lastmodified":1466312504,
     "wof:name":"Sail Connections Limited",
     "wof:parent_id":85781863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "boat"
     ]
 },
-  "bbox": [174.756653,-36.842113,174.756653,-36.842113],
+  "bbox": [
+    174.756653,
+    -36.842113,
+    174.756653,
+    -36.842113
+],
   "geometry": {"coordinates":[174.756653,-36.842113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236020555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.942429,41.370983,-83.942429,41.370983",
     "geom:latitude":41.370983,
     "geom:longitude":-83.942429,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Main St ",
     "sg:city":"Greytown",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236020555,
-    "wof:lastmodified":1449003141,
+    "wof:lastmodified":1466310987,
     "wof:name":"Pitt Stop Takeaways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "takeaway"
     ]
 },
-  "bbox": [-83.942429,41.370983,-83.942429,41.370983],
+  "bbox": [
+    -83.942429,
+    41.370983,
+    -83.942429,
+    41.370983
+],
   "geometry": {"coordinates":[-83.942429,41.370983],"type":"Point"}
 }

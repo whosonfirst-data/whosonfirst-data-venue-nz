@@ -2,13 +2,14 @@
   "id": 219359057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.207474,34.863777,-100.207474,34.863777",
     "geom:latitude":34.863777,
     "geom:longitude":-100.207474,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shed 1 Queens Wharf PO Box 1550 ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219359057,
-    "wof:lastmodified":1449070331,
+    "wof:lastmodified":1466311408,
     "wof:name":"Helipro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [-100.207474,34.863777,-100.207474,34.863777],
+  "bbox": [
+    -100.207474,
+    34.863777,
+    -100.207474,
+    34.863777
+],
   "geometry": {"coordinates":[-100.207474,34.863777],"type":"Point"}
 }

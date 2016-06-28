@@ -2,13 +2,14 @@
   "id": 202467405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.64534,-40.342533,175.64534,-40.342533",
     "geom:latitude":-40.342533,
     "geom:longitude":175.64534,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Napier Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202467405,
-    "wof:lastmodified":1449062113,
+    "wof:lastmodified":1466311885,
     "wof:name":"Alpha Technical Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.64534,-40.342533,175.64534,-40.342533],
+  "bbox": [
+    175.64534,
+    -40.342533,
+    175.64534,
+    -40.342533
+],
   "geometry": {"coordinates":[175.64534,-40.342533],"type":"Point"}
 }

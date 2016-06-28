@@ -2,13 +2,14 @@
   "id": 185756909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.512634,-43.582878,172.512634,-43.582878",
     "geom:latitude":-43.582878,
     "geom:longitude":172.512634,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Edward St Lincoln ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185756909,
-    "wof:lastmodified":1449007575,
+    "wof:lastmodified":1466310943,
     "wof:name":"Lincoln Club",
     "wof:parent_id":85773137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.512634,-43.582878,172.512634,-43.582878],
-  "geometry": {"coordinates":[172.512634,-43.582878],"type":"Point"}
+  "bbox": [
+    172.512634,
+    -43.582878,
+    172.512634,
+    -43.582878
+],
+  "geometry": {"coordinates":[172.51263399999999,-43.582878],"type":"Point"}
 }

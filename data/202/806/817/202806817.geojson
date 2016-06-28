@@ -2,13 +2,14 @@
   "id": 202806817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.630417,-43.543476,172.630417,-43.543476",
     "geom:latitude":-43.543476,
     "geom:longitude":172.630417,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Montreal St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202806817,
-    "wof:lastmodified":1449060103,
+    "wof:lastmodified":1466312551,
     "wof:name":"Rug World",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.630417,-43.543476,172.630417,-43.543476],
-  "geometry": {"coordinates":[172.630417,-43.543476],"type":"Point"}
+  "bbox": [
+    172.630417,
+    -43.543476,
+    172.630417,
+    -43.543476
+],
+  "geometry": {"coordinates":[172.63041699999999,-43.543476],"type":"Point"}
 }

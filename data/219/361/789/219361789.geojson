@@ -2,13 +2,14 @@
   "id": 219361789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.021713,-36.810303,175.021713,-36.810303",
     "geom:latitude":-36.810303,
     "geom:longitude":175.021713,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 13 Waiheke Island ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219361789,
-    "wof:lastmodified":1449072971,
+    "wof:lastmodified":1466311432,
     "wof:name":"Waiheke Auto Rentals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [175.021713,-36.810303,175.021713,-36.810303],
-  "geometry": {"coordinates":[175.021713,-36.810303],"type":"Point"}
+  "bbox": [
+    175.021713,
+    -36.810303,
+    175.021713,
+    -36.810303
+],
+  "geometry": {"coordinates":[175.02171300000001,-36.810303],"type":"Point"}
 }

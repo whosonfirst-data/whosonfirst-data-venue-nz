@@ -2,13 +2,14 @@
   "id": 186093249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.779816,-41.295979,174.779816,-41.295979",
     "geom:latitude":-41.295979,
     "geom:longitude":174.779816,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Tory St Te Aro ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186093249,
-    "wof:lastmodified":1449050256,
+    "wof:lastmodified":1466311965,
     "wof:name":"Electronic Services",
     "wof:parent_id":85778661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.779816,-41.295979,174.779816,-41.295979],
-  "geometry": {"coordinates":[174.779816,-41.295979],"type":"Point"}
+  "bbox": [
+    174.779816,
+    -41.295979,
+    174.779816,
+    -41.295979
+],
+  "geometry": {"coordinates":[174.77981600000001,-41.295979],"type":"Point"}
 }

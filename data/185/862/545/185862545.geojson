@@ -2,13 +2,14 @@
   "id": 185862545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.157791,38.990379,-76.157791,38.990379",
     "geom:latitude":38.990379,
     "geom:longitude":-76.157791,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Malaghans Rd ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185862545,
-    "wof:lastmodified":1449008263,
+    "wof:lastmodified":1466311641,
     "wof:name":"Flight Park Tandem Paragliding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "sports"
     ]
 },
-  "bbox": [-76.157791,38.990379,-76.157791,38.990379],
+  "bbox": [
+    -76.157791,
+    38.990379,
+    -76.157791,
+    38.990379
+],
   "geometry": {"coordinates":[-76.157791,38.990379],"type":"Point"}
 }

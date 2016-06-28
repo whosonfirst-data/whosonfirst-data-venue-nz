@@ -2,13 +2,14 @@
   "id": 169813289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.859726,42.631794,-70.859726,42.631794",
     "geom:latitude":42.631794,
     "geom:longitude":-70.859726,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Alexandra St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169813289,
-    "wof:lastmodified":1449033542,
+    "wof:lastmodified":1466311748,
     "wof:name":"Rebel Sport",
     "wof:parent_id":85836261,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.859726,42.631794,-70.859726,42.631794],
-  "geometry": {"coordinates":[-70.859726,42.631794],"type":"Point"}
+  "bbox": [
+    -70.859726,
+    42.631794,
+    -70.859726,
+    42.631794
+],
+  "geometry": {"coordinates":[-70.85972599999999,42.631794],"type":"Point"}
 }

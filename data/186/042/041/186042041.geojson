@@ -2,13 +2,14 @@
   "id": 186042041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.893112,-36.943317,174.893112,-36.943317",
     "geom:latitude":-36.943317,
     "geom:longitude":174.893112,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Allens Rd East ",
     "sg:city":"Tamaki",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186042041,
-    "wof:lastmodified":1449052362,
+    "wof:lastmodified":1466312032,
     "wof:name":"Henkel New Zealand Limited",
     "wof:parent_id":85778267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "compounds"
     ]
 },
-  "bbox": [174.893112,-36.943317,174.893112,-36.943317],
+  "bbox": [
+    174.893112,
+    -36.943317,
+    174.893112,
+    -36.943317
+],
   "geometry": {"coordinates":[174.893112,-36.943317],"type":"Point"}
 }

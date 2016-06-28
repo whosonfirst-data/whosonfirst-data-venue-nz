@@ -2,13 +2,14 @@
   "id": 203423209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.607452,-40.340893,175.607452,-40.340893",
     "geom:latitude":-40.340893,
     "geom:longitude":175.607452,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"664 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203423209,
-    "wof:lastmodified":1449025256,
+    "wof:lastmodified":1466312527,
     "wof:name":"Manawatu Dive & Marine Centre",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.607452,-40.340893,175.607452,-40.340893],
-  "geometry": {"coordinates":[175.607452,-40.340893],"type":"Point"}
+  "bbox": [
+    175.607452,
+    -40.340893,
+    175.607452,
+    -40.340893
+],
+  "geometry": {"coordinates":[175.60745199999999,-40.340893],"type":"Point"}
 }

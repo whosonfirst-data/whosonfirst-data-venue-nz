@@ -2,13 +2,14 @@
   "id": 202431041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.357864,-35.762936,174.357864,-35.762936",
     "geom:latitude":-35.762936,
     "geom:longitude":174.357864,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Pah Rd Onerahi ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202431041,
-    "wof:lastmodified":1449060450,
+    "wof:lastmodified":1466311631,
     "wof:name":"Gray Les",
     "wof:parent_id":85773083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.357864,-35.762936,174.357864,-35.762936],
-  "geometry": {"coordinates":[174.357864,-35.762936],"type":"Point"}
+  "bbox": [
+    174.357864,
+    -35.762936,
+    174.357864,
+    -35.762936
+],
+  "geometry": {"coordinates":[174.35786400000001,-35.762936],"type":"Point"}
 }

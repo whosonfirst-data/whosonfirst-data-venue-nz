@@ -2,13 +2,14 @@
   "id": 186393151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.016907,-38.663349,178.016907,-38.663349",
     "geom:latitude":-38.663349,
     "geom:longitude":178.016907,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"164 Carnarvon St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186393151,
-    "wof:lastmodified":1449051226,
+    "wof:lastmodified":1466312495,
     "wof:name":"Electrinet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.016907,-38.663349,178.016907,-38.663349],
+  "bbox": [
+    178.016907,
+    -38.663349,
+    178.016907,
+    -38.663349
+],
   "geometry": {"coordinates":[178.016907,-38.663349],"type":"Point"}
 }

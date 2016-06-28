@@ -2,13 +2,14 @@
   "id": 169811455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.663559,-40.948437,175.663559,-40.948437",
     "geom:latitude":-40.948437,
     "geom:longitude":175.663559,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Queen St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169811455,
-    "wof:lastmodified":1449034273,
+    "wof:lastmodified":1466311735,
     "wof:name":"King & Henry 1980 Ltd",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.663559,-40.948437,175.663559,-40.948437],
-  "geometry": {"coordinates":[175.663559,-40.948437],"type":"Point"}
+  "bbox": [
+    175.663559,
+    -40.948437,
+    175.663559,
+    -40.948437
+],
+  "geometry": {"coordinates":[175.66355899999999,-40.948437],"type":"Point"}
 }

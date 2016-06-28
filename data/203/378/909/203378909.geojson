@@ -2,13 +2,14 @@
   "id": 203378909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.130478,-37.735561,176.130478,-37.735561",
     "geom:latitude":-37.735561,
     "geom:longitude":176.130478,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Maleme St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203378909,
-    "wof:lastmodified":1449026258,
+    "wof:lastmodified":1466312603,
     "wof:name":"Oliver Marine International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "boat"
     ]
 },
-  "bbox": [176.130478,-37.735561,176.130478,-37.735561],
-  "geometry": {"coordinates":[176.130478,-37.735561],"type":"Point"}
+  "bbox": [
+    176.130478,
+    -37.735561,
+    176.130478,
+    -37.735561
+],
+  "geometry": {"coordinates":[176.13047800000001,-37.735561],"type":"Point"}
 }

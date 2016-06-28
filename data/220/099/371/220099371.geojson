@@ -2,13 +2,14 @@
   "id": 220099371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.388229,-46.415077,168.388229,-46.415077",
     "geom:latitude":-46.415077,
     "geom:longitude":168.388229,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Onslow St Newfield ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220099371,
-    "wof:lastmodified":1449074578,
+    "wof:lastmodified":1466310598,
     "wof:name":"Kaye's Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "-"
     ]
 },
-  "bbox": [168.388229,-46.415077,168.388229,-46.415077],
+  "bbox": [
+    168.388229,
+    -46.415077,
+    168.388229,
+    -46.415077
+],
   "geometry": {"coordinates":[168.388229,-46.415077],"type":"Point"}
 }

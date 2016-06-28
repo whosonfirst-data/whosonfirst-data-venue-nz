@@ -2,13 +2,14 @@
   "id": 219285485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.069244,-38.69239,178.069244,-38.69239",
     "geom:latitude":-38.69239,
     "geom:longitude":178.069244,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Cleary Rd Wainui Beach ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219285485,
-    "wof:lastmodified":1449070468,
+    "wof:lastmodified":1466310821,
     "wof:name":"Big Tree Hideaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "accommodation"
     ]
 },
-  "bbox": [178.069244,-38.69239,178.069244,-38.69239],
+  "bbox": [
+    178.069244,
+    -38.69239,
+    178.069244,
+    -38.69239
+],
   "geometry": {"coordinates":[178.069244,-38.69239],"type":"Point"}
 }

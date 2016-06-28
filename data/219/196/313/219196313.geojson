@@ -2,13 +2,14 @@
   "id": 219196313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.297226,-37.772091,175.297226,-37.772091",
     "geom:latitude":-37.772091,
     "geom:longitude":175.297226,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Enderley Ave ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219196313,
-    "wof:lastmodified":1449071193,
+    "wof:lastmodified":1466311426,
     "wof:name":"Pacific Cabs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.297226,-37.772091,175.297226,-37.772091],
-  "geometry": {"coordinates":[175.297226,-37.772091],"type":"Point"}
+  "bbox": [
+    175.297226,
+    -37.772091,
+    175.297226,
+    -37.772091
+],
+  "geometry": {"coordinates":[175.29722599999999,-37.772091],"type":"Point"}
 }

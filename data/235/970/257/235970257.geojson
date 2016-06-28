@@ -2,13 +2,14 @@
   "id": 235970257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.748428,-36.715424,174.748428,-36.715424",
     "geom:latitude":-36.715424,
     "geom:longitude":174.748428,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1 55 Clyde Rd Browns Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235970257,
-    "wof:lastmodified":1449008601,
+    "wof:lastmodified":1466311209,
     "wof:name":"The Venue Bar & Bistro",
     "wof:parent_id":85772855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "brasserie"
     ]
 },
-  "bbox": [174.748428,-36.715424,174.748428,-36.715424],
-  "geometry": {"coordinates":[174.748428,-36.715424],"type":"Point"}
+  "bbox": [
+    174.748428,
+    -36.715424,
+    174.748428,
+    -36.715424
+],
+  "geometry": {"coordinates":[174.74842799999999,-36.715424],"type":"Point"}
 }

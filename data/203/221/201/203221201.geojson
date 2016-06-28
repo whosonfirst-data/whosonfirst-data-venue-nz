@@ -2,13 +2,14 @@
   "id": 203221201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.468979,-37.893623,175.468979,-37.893623",
     "geom:latitude":-37.893623,
     "geom:longitude":175.468979,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"70B Victoria St ",
     "sg:city":"Cambridge",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203221201,
-    "wof:lastmodified":1449025750,
+    "wof:lastmodified":1466311559,
     "wof:name":"Hunter Country Ltd",
     "wof:parent_id":85782837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.468979,-37.893623,175.468979,-37.893623],
-  "geometry": {"coordinates":[175.468979,-37.893623],"type":"Point"}
+  "bbox": [
+    175.468979,
+    -37.893623,
+    175.468979,
+    -37.893623
+],
+  "geometry": {"coordinates":[175.46897899999999,-37.893623],"type":"Point"}
 }

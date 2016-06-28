@@ -2,13 +2,14 @@
   "id": 219441187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.636398,-43.42207,172.636398,-43.42207",
     "geom:latitude":-43.42207,
     "geom:longitude":172.636398,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Station Rd Coalgate ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219441187,
-    "wof:lastmodified":1449070656,
+    "wof:lastmodified":1466312133,
     "wof:name":"Drivertek International Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "driver"
     ]
 },
-  "bbox": [172.636398,-43.42207,172.636398,-43.42207],
-  "geometry": {"coordinates":[172.636398,-43.42207],"type":"Point"}
+  "bbox": [
+    172.636398,
+    -43.42207,
+    172.636398,
+    -43.42207
+],
+  "geometry": {"coordinates":[172.63639800000001,-43.42207],"type":"Point"}
 }

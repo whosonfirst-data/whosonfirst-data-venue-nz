@@ -2,13 +2,14 @@
   "id": 202649379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.649475,-45.840549,170.649475,-45.840549",
     "geom:latitude":-45.840549,
     "geom:longitude":170.649475,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"394 Portobello Rd Dunedin ",
     "sg:city":"RD2",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202649379,
-    "wof:lastmodified":1449061813,
+    "wof:lastmodified":1466311919,
     "wof:name":"Alistair Price Plasterer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plasterer"
     ]
 },
-  "bbox": [170.649475,-45.840549,170.649475,-45.840549],
+  "bbox": [
+    170.649475,
+    -45.840549,
+    170.649475,
+    -45.840549
+],
   "geometry": {"coordinates":[170.649475,-45.840549],"type":"Point"}
 }

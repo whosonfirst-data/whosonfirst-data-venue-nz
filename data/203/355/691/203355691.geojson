@@ -2,13 +2,14 @@
   "id": 203355691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.07045,-38.686699,176.07045,-38.686699",
     "geom:latitude":-38.686699,
     "geom:longitude":176.07045,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Horomatangi St ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203355691,
-    "wof:lastmodified":1449025435,
+    "wof:lastmodified":1466312413,
     "wof:name":"Shirley's Shoes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wear"
     ]
 },
-  "bbox": [176.07045,-38.686699,176.07045,-38.686699],
-  "geometry": {"coordinates":[176.07045,-38.686699],"type":"Point"}
+  "bbox": [
+    176.07045,
+    -38.686699,
+    176.07045,
+    -38.686699
+],
+  "geometry": {"coordinates":[176.07044999999999,-38.686699],"type":"Point"}
 }

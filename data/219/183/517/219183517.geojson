@@ -2,13 +2,14 @@
   "id": 219183517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.769043,-37.82489,175.769043,-37.82489",
     "geom:latitude":-37.82489,
     "geom:longitude":175.769043,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Beatty Ave ",
     "sg:city":"Matamata",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219183517,
-    "wof:lastmodified":1449072274,
+    "wof:lastmodified":1466311274,
     "wof:name":"Majestic Horse Floats Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.769043,-37.82489,175.769043,-37.82489],
-  "geometry": {"coordinates":[175.769043,-37.82489],"type":"Point"}
+  "bbox": [
+    175.769043,
+    -37.82489,
+    175.769043,
+    -37.82489
+],
+  "geometry": {"coordinates":[175.76904300000001,-37.82489],"type":"Point"}
 }

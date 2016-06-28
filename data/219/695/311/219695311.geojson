@@ -2,13 +2,14 @@
   "id": 219695311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.640045,-43.547806,172.640045,-43.547806",
     "geom:latitude":-43.547806,
     "geom:longitude":172.640045,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Cadogan St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219695311,
-    "wof:lastmodified":1449071724,
+    "wof:lastmodified":1466312811,
     "wof:name":"Fair-Go PermaRent",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automotive"
     ]
 },
-  "bbox": [172.640045,-43.547806,172.640045,-43.547806],
-  "geometry": {"coordinates":[172.640045,-43.547806],"type":"Point"}
+  "bbox": [
+    172.640045,
+    -43.547806,
+    172.640045,
+    -43.547806
+],
+  "geometry": {"coordinates":[172.64004499999999,-43.547806],"type":"Point"}
 }

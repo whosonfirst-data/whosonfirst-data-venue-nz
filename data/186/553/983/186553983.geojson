@@ -2,13 +2,14 @@
   "id": 186553983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.575363,-43.502918,172.575363,-43.502918",
     "geom:latitude":-43.502918,
     "geom:longitude":172.575363,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Grahams Rd Burnside ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186553983,
-    "wof:lastmodified":1449050273,
+    "wof:lastmodified":1466312900,
     "wof:name":"Pure Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "make-up"
     ]
 },
-  "bbox": [172.575363,-43.502918,172.575363,-43.502918],
-  "geometry": {"coordinates":[172.575363,-43.502918],"type":"Point"}
+  "bbox": [
+    172.575363,
+    -43.502918,
+    172.575363,
+    -43.502918
+],
+  "geometry": {"coordinates":[172.57536300000001,-43.502918],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185778147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.651947,-36.841972,174.651947,-36.841972",
     "geom:latitude":-36.841972,
     "geom:longitude":174.651947,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"595 Te Atatu Rd Te Atatu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185778147,
-    "wof:lastmodified":1449006619,
+    "wof:lastmodified":1466311080,
     "wof:name":"Te Atatu Peninsula Community Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.651947,-36.841972,174.651947,-36.841972],
-  "geometry": {"coordinates":[174.651947,-36.841972],"type":"Point"}
+  "bbox": [
+    174.651947,
+    -36.841972,
+    174.651947,
+    -36.841972
+],
+  "geometry": {"coordinates":[174.65194700000001,-36.841972],"type":"Point"}
 }

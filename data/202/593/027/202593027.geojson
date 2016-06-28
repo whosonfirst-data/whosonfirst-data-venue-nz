@@ -2,13 +2,14 @@
   "id": 202593027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.826523,-36.919312,174.826523,-36.919312",
     "geom:latitude":-36.919312,
     "geom:longitude":174.826523,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9/701 Great South Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202593027,
-    "wof:lastmodified":1449061766,
+    "wof:lastmodified":1466311458,
     "wof:name":"White International NZ Ltd",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.826523,-36.919312,174.826523,-36.919312],
-  "geometry": {"coordinates":[174.826523,-36.919312],"type":"Point"}
+  "bbox": [
+    174.826523,
+    -36.919312,
+    174.826523,
+    -36.919312
+],
+  "geometry": {"coordinates":[174.82652300000001,-36.919312],"type":"Point"}
 }

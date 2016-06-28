@@ -2,13 +2,14 @@
   "id": 202862719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.748825,-36.869392,174.748825,-36.869392",
     "geom:latitude":-36.869392,
     "geom:longitude":174.748825,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"77 King St Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202862719,
-    "wof:lastmodified":1449062732,
+    "wof:lastmodified":1466312639,
     "wof:name":"Radius Design",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "designer"
     ]
 },
-  "bbox": [174.748825,-36.869392,174.748825,-36.869392],
-  "geometry": {"coordinates":[174.748825,-36.869392],"type":"Point"}
+  "bbox": [
+    174.748825,
+    -36.869392,
+    174.748825,
+    -36.869392
+],
+  "geometry": {"coordinates":[174.74882500000001,-36.869392],"type":"Point"}
 }

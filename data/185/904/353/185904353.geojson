@@ -2,13 +2,14 @@
   "id": 185904353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.985886,-37.958431,176.985886,-37.958431",
     "geom:latitude":-37.958431,
     "geom:longitude":176.985886,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Whakatane Golf Club Golf Links Rd ",
     "sg:city":"Whakatane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185904353,
-    "wof:lastmodified":1449008256,
+    "wof:lastmodified":1466311894,
     "wof:name":"James Grant H",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.985886,-37.958431,176.985886,-37.958431],
-  "geometry": {"coordinates":[176.985886,-37.958431],"type":"Point"}
+  "bbox": [
+    176.985886,
+    -37.958431,
+    176.985886,
+    -37.958431
+],
+  "geometry": {"coordinates":[176.98588599999999,-37.958431],"type":"Point"}
 }

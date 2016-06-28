@@ -2,13 +2,14 @@
   "id": 186463939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.750275,-36.696682,174.750275,-36.696682",
     "geom:latitude":-36.696682,
     "geom:longitude":174.750275,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Watea Rd Torbay ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186463939,
-    "wof:lastmodified":1449052232,
+    "wof:lastmodified":1466312732,
     "wof:name":"Horizontal Earth Drilling Ltd",
     "wof:parent_id":85773259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.750275,-36.696682,174.750275,-36.696682],
-  "geometry": {"coordinates":[174.750275,-36.696682],"type":"Point"}
+  "bbox": [
+    174.750275,
+    -36.696682,
+    174.750275,
+    -36.696682
+],
+  "geometry": {"coordinates":[174.75027499999999,-36.696682],"type":"Point"}
 }

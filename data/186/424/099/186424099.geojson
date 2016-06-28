@@ -2,13 +2,14 @@
   "id": 186424099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.077148,38.570156,-76.077148,38.570156",
     "geom:latitude":38.570156,
     "geom:longitude":-76.077148,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 503 ",
     "sg:city":"Cambridge",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186424099,
-    "wof:lastmodified":1449052865,
+    "wof:lastmodified":1466312486,
     "wof:name":"Larsram Limited",
     "wof:parent_id":85831525,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-76.077148,38.570156,-76.077148,38.570156],
-  "geometry": {"coordinates":[-76.077148,38.570156],"type":"Point"}
+  "bbox": [
+    -76.077148,
+    38.570156,
+    -76.077148,
+    38.570156
+],
+  "geometry": {"coordinates":[-76.07714799999999,38.570156],"type":"Point"}
 }

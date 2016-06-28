@@ -2,13 +2,14 @@
   "id": 169711345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.555984,-43.513939,172.555984,-43.513939",
     "geom:latitude":-43.513939,
     "geom:longitude":172.555984,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Withells Rd & Merrin St Avonhead ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169711345,
-    "wof:lastmodified":1449035355,
+    "wof:lastmodified":1466310994,
     "wof:name":"Avonhead Shopping Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "stores"
     ]
 },
-  "bbox": [172.555984,-43.513939,172.555984,-43.513939],
+  "bbox": [
+    172.555984,
+    -43.513939,
+    172.555984,
+    -43.513939
+],
   "geometry": {"coordinates":[172.555984,-43.513939],"type":"Point"}
 }

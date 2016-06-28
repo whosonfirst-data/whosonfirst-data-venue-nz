@@ -2,13 +2,14 @@
   "id": 220065859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.19133,-37.647812,176.19133,-37.647812",
     "geom:latitude":-37.647812,
     "geom:longitude":176.19133,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Maunganui Rd Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220065859,
-    "wof:lastmodified":1449074874,
+    "wof:lastmodified":1466311788,
     "wof:name":"Mount Wine Barrel",
     "wof:parent_id":85773039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "outlet"
     ]
 },
-  "bbox": [176.19133,-37.647812,176.19133,-37.647812],
-  "geometry": {"coordinates":[176.19133,-37.647812],"type":"Point"}
+  "bbox": [
+    176.19133,
+    -37.647812,
+    176.19133,
+    -37.647812
+],
+  "geometry": {"coordinates":[176.19132999999999,-37.647812],"type":"Point"}
 }

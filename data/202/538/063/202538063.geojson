@@ -2,13 +2,14 @@
   "id": 202538063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.045609,-36.794502,175.045609,-36.794502",
     "geom:latitude":-36.794502,
     "geom:longitude":175.045609,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Waitai Rd Waiheke Island ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202538063,
-    "wof:lastmodified":1449060418,
+    "wof:lastmodified":1466310980,
     "wof:name":"Island Osteopath & Health Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.045609,-36.794502,175.045609,-36.794502],
-  "geometry": {"coordinates":[175.045609,-36.794502],"type":"Point"}
+  "bbox": [
+    175.045609,
+    -36.794502,
+    175.045609,
+    -36.794502
+],
+  "geometry": {"coordinates":[175.04560900000001,-36.794502],"type":"Point"}
 }

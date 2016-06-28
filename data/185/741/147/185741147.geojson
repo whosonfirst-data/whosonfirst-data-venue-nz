@@ -2,13 +2,14 @@
   "id": 185741147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.589127,-39.942047,176.589127,-39.942047",
     "geom:latitude":-39.942047,
     "geom:longitude":176.589127,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26-28 High St ",
     "sg:city":"Waipawa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185741147,
-    "wof:lastmodified":1449006671,
+    "wof:lastmodified":1466310836,
     "wof:name":"Video & Garden Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "entertainment"
     ]
 },
-  "bbox": [176.589127,-39.942047,176.589127,-39.942047],
-  "geometry": {"coordinates":[176.589127,-39.942047],"type":"Point"}
+  "bbox": [
+    176.589127,
+    -39.942047,
+    176.589127,
+    -39.942047
+],
+  "geometry": {"coordinates":[176.58912699999999,-39.942047],"type":"Point"}
 }

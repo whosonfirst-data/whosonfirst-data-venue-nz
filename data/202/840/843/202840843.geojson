@@ -2,13 +2,14 @@
   "id": 202840843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.737106,-36.87558,174.737106,-36.87558",
     "geom:latitude":-36.87558,
     "geom:longitude":174.737106,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 McDonald St Morningside ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202840843,
-    "wof:lastmodified":1449062084,
+    "wof:lastmodified":1466312573,
     "wof:name":"Leigh Jackson Ltd",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.737106,-36.87558,174.737106,-36.87558],
-  "geometry": {"coordinates":[174.737106,-36.87558],"type":"Point"}
+  "bbox": [
+    174.737106,
+    -36.87558,
+    174.737106,
+    -36.87558
+],
+  "geometry": {"coordinates":[174.73710600000001,-36.87558],"type":"Point"}
 }

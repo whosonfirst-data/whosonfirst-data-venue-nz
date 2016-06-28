@@ -2,13 +2,14 @@
   "id": 219323125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.145706,-46.144859,168.145706,-46.144859",
     "geom:latitude":-46.144859,
     "geom:longitude":168.145706,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Drummond R D 3 Otautau ",
     "sg:city":"Drummond",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219323125,
-    "wof:lastmodified":1449070697,
+    "wof:lastmodified":1466311133,
     "wof:name":"Drummond Travellers Rest Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accommodation"
     ]
 },
-  "bbox": [168.145706,-46.144859,168.145706,-46.144859],
-  "geometry": {"coordinates":[168.145706,-46.144859],"type":"Point"}
+  "bbox": [
+    168.145706,
+    -46.144859,
+    168.145706,
+    -46.144859
+],
+  "geometry": {"coordinates":[168.14570599999999,-46.144859],"type":"Point"}
 }

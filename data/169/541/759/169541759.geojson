@@ -2,13 +2,14 @@
   "id": 169541759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.892105,-36.949974,174.892105,-36.949974",
     "geom:latitude":-36.949974,
     "geom:longitude":174.892105,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 33 A Springs Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169541759,
-    "wof:lastmodified":1449033045,
+    "wof:lastmodified":1466310674,
     "wof:name":"Sliqueline Sports Wear",
     "wof:parent_id":85778267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.892105,-36.949974,174.892105,-36.949974],
-  "geometry": {"coordinates":[174.892105,-36.949974],"type":"Point"}
+  "bbox": [
+    174.892105,
+    -36.949974,
+    174.892105,
+    -36.949974
+],
+  "geometry": {"coordinates":[174.89210499999999,-36.949974],"type":"Point"}
 }

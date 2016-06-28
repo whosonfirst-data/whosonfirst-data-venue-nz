@@ -2,13 +2,14 @@
   "id": 220168559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.456207,-41.070866,175.456207,-41.070866",
     "geom:latitude":-41.070866,
     "geom:longitude":175.456207,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Udy St ",
     "sg:city":"Greytown",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220168559,
-    "wof:lastmodified":1449074462,
+    "wof:lastmodified":1466311217,
     "wof:name":"Pinehaven Orchards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "veges"
     ]
 },
-  "bbox": [175.456207,-41.070866,175.456207,-41.070866],
-  "geometry": {"coordinates":[175.456207,-41.070866],"type":"Point"}
+  "bbox": [
+    175.456207,
+    -41.070866,
+    175.456207,
+    -41.070866
+],
+  "geometry": {"coordinates":[175.45620700000001,-41.070866],"type":"Point"}
 }

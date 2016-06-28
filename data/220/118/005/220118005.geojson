@@ -2,13 +2,14 @@
   "id": 220118005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.66214,-43.53146,172.66214,-43.53146",
     "geom:latitude":-43.53146,
     "geom:longitude":172.66214,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Elmdale La Linwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220118005,
-    "wof:lastmodified":1449074695,
+    "wof:lastmodified":1466310759,
     "wof:name":"Mary Gray Confections",
     "wof:parent_id":85781505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "-"
     ]
 },
-  "bbox": [172.66214,-43.53146,172.66214,-43.53146],
-  "geometry": {"coordinates":[172.66214,-43.53146],"type":"Point"}
+  "bbox": [
+    172.66214,
+    -43.53146,
+    172.66214,
+    -43.53146
+],
+  "geometry": {"coordinates":[172.66213999999999,-43.53146],"type":"Point"}
 }

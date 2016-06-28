@@ -2,13 +2,14 @@
   "id": 169753465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.742996,-36.693329,174.742996,-36.693329",
     "geom:latitude":-36.693329,
     "geom:longitude":174.742996,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Jayne Pl Torbay ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169753465,
-    "wof:lastmodified":1449033072,
+    "wof:lastmodified":1466311294,
     "wof:name":"L A Marketing",
     "wof:parent_id":85782019,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.742996,-36.693329,174.742996,-36.693329],
-  "geometry": {"coordinates":[174.742996,-36.693329],"type":"Point"}
+  "bbox": [
+    174.742996,
+    -36.693329,
+    174.742996,
+    -36.693329
+],
+  "geometry": {"coordinates":[174.74299600000001,-36.693329],"type":"Point"}
 }

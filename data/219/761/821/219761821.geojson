@@ -2,13 +2,14 @@
   "id": 219761821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.619125,-36.874306,174.619125,-36.874306",
     "geom:latitude":-36.874306,
     "geom:longitude":174.619125,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Statesman St Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219761821,
-    "wof:lastmodified":1449073091,
+    "wof:lastmodified":1466312936,
     "wof:name":"Alert Towing",
     "wof:parent_id":85781233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.619125,-36.874306,174.619125,-36.874306],
+  "bbox": [
+    174.619125,
+    -36.874306,
+    174.619125,
+    -36.874306
+],
   "geometry": {"coordinates":[174.619125,-36.874306],"type":"Point"}
 }

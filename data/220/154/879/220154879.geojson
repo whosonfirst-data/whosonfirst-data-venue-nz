@@ -2,13 +2,14 @@
   "id": 220154879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.851593,-36.939121,174.851593,-36.939121",
     "geom:latitude":-36.939121,
     "geom:longitude":174.851593,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Princes St Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220154879,
-    "wof:lastmodified":1449074888,
+    "wof:lastmodified":1466311105,
     "wof:name":"Bhana Jasmat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "veges"
     ]
 },
-  "bbox": [174.851593,-36.939121,174.851593,-36.939121],
-  "geometry": {"coordinates":[174.851593,-36.939121],"type":"Point"}
+  "bbox": [
+    174.851593,
+    -36.939121,
+    174.851593,
+    -36.939121
+],
+  "geometry": {"coordinates":[174.85159300000001,-36.939121],"type":"Point"}
 }

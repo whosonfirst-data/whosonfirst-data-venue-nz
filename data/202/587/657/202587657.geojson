@@ -2,13 +2,14 @@
   "id": 202587657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.301193,-35.683994,174.301193,-35.683994",
     "geom:latitude":-35.683994,
     "geom:longitude":174.301193,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"485 Kamo Rd Kamo ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202587657,
-    "wof:lastmodified":1449060980,
+    "wof:lastmodified":1466311417,
     "wof:name":"Kamo Hammer Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.301193,-35.683994,174.301193,-35.683994],
-  "geometry": {"coordinates":[174.301193,-35.683994],"type":"Point"}
+  "bbox": [
+    174.301193,
+    -35.683994,
+    174.301193,
+    -35.683994
+],
+  "geometry": {"coordinates":[174.30119300000001,-35.683994],"type":"Point"}
 }

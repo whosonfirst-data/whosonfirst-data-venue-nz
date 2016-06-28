@@ -2,13 +2,14 @@
   "id": 202549055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.483765,-45.85331,170.483765,-45.85331",
     "geom:latitude":-45.85331,
     "geom:longitude":170.483765,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Helensburgh Rd Helensburgh ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202549055,
-    "wof:lastmodified":1449060817,
+    "wof:lastmodified":1466311071,
     "wof:name":"Lockhart Wendy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.483765,-45.85331,170.483765,-45.85331],
-  "geometry": {"coordinates":[170.483765,-45.85331],"type":"Point"}
+  "bbox": [
+    170.483765,
+    -45.85331,
+    170.483765,
+    -45.85331
+],
+  "geometry": {"coordinates":[170.48376500000001,-45.85331],"type":"Point"}
 }

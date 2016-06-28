@@ -2,13 +2,14 @@
   "id": 185879839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.628448,-40.355831,175.628448,-40.355831",
     "geom:latitude":-40.355831,
     "geom:longitude":175.628448,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Albert St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185879839,
-    "wof:lastmodified":1449006614,
+    "wof:lastmodified":1466311733,
     "wof:name":"Brendan Martens Golf Professional",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.628448,-40.355831,175.628448,-40.355831],
-  "geometry": {"coordinates":[175.628448,-40.355831],"type":"Point"}
+  "bbox": [
+    175.628448,
+    -40.355831,
+    175.628448,
+    -40.355831
+],
+  "geometry": {"coordinates":[175.62844799999999,-40.355831],"type":"Point"}
 }

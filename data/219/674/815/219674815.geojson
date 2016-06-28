@@ -2,13 +2,14 @@
   "id": 219674815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.605698,-40.352303,175.605698,-40.352303",
     "geom:latitude":-40.352303,
     "geom:longitude":175.605698,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Taonui St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219674815,
-    "wof:lastmodified":1449073037,
+    "wof:lastmodified":1466312751,
     "wof:name":"Novus Windscreen Repair",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.605698,-40.352303,175.605698,-40.352303],
-  "geometry": {"coordinates":[175.605698,-40.352303],"type":"Point"}
+  "bbox": [
+    175.605698,
+    -40.352303,
+    175.605698,
+    -40.352303
+],
+  "geometry": {"coordinates":[175.60569799999999,-40.352303],"type":"Point"}
 }

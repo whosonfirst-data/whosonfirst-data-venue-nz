@@ -2,13 +2,14 @@
   "id": 203112539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.643112,-40.331108,175.643112,-40.331108",
     "geom:latitude":-40.331108,
     "geom:longitude":175.643112,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Motuoapa Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203112539,
-    "wof:lastmodified":1449025787,
+    "wof:lastmodified":1466310627,
     "wof:name":"Race Images 1997",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [175.643112,-40.331108,175.643112,-40.331108],
+  "bbox": [
+    175.643112,
+    -40.331108,
+    175.643112,
+    -40.331108
+],
   "geometry": {"coordinates":[175.643112,-40.331108],"type":"Point"}
 }

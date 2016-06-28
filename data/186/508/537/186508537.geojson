@@ -2,13 +2,14 @@
   "id": 186508537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.566513,-43.579105,172.566513,-43.579105",
     "geom:latitude":-43.579105,
     "geom:longitude":172.566513,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Lillian St Halswell ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186508537,
-    "wof:lastmodified":1449051882,
+    "wof:lastmodified":1466312786,
     "wof:name":"Beautiful You Beauty Therapy Clinic",
     "wof:parent_id":85772941,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "health"
     ]
 },
-  "bbox": [172.566513,-43.579105,172.566513,-43.579105],
-  "geometry": {"coordinates":[172.566513,-43.579105],"type":"Point"}
+  "bbox": [
+    172.566513,
+    -43.579105,
+    172.566513,
+    -43.579105
+],
+  "geometry": {"coordinates":[172.56651299999999,-43.579105],"type":"Point"}
 }

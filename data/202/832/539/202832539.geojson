@@ -2,13 +2,14 @@
   "id": 202832539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.916306,-37.03495,174.916306,-37.03495",
     "geom:latitude":-37.03495,
     "geom:longitude":174.916306,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"80 C Spartan Rd Takanini ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202832539,
-    "wof:lastmodified":1449060121,
+    "wof:lastmodified":1466312633,
     "wof:name":"Trend-Wood Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.916306,-37.03495,174.916306,-37.03495],
-  "geometry": {"coordinates":[174.916306,-37.03495],"type":"Point"}
+  "bbox": [
+    174.916306,
+    -37.03495,
+    174.916306,
+    -37.03495
+],
+  "geometry": {"coordinates":[174.91630599999999,-37.03495],"type":"Point"}
 }

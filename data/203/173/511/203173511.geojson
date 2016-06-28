@@ -2,13 +2,14 @@
   "id": 203173511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.468765,-37.893856,175.468765,-37.893856",
     "geom:latitude":-37.893856,
     "geom:longitude":175.468765,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"71 A Victoria St ",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203173511,
-    "wof:lastmodified":1449025297,
+    "wof:lastmodified":1466311114,
     "wof:name":"Jennings Jewellers",
     "wof:parent_id":85782837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [175.468765,-37.893856,175.468765,-37.893856],
-  "geometry": {"coordinates":[175.468765,-37.893856],"type":"Point"}
+  "bbox": [
+    175.468765,
+    -37.893856,
+    175.468765,
+    -37.893856
+],
+  "geometry": {"coordinates":[175.46876499999999,-37.893856],"type":"Point"}
 }

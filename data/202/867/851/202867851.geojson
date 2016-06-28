@@ -2,13 +2,14 @@
   "id": 202867851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.63533,-43.542744,172.63533,-43.542744",
     "geom:latitude":-43.542744,
     "geom:longitude":172.63533,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Sandyford St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202867851,
-    "wof:lastmodified":1449061214,
+    "wof:lastmodified":1466312725,
     "wof:name":"Just Furniture",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [172.63533,-43.542744,172.63533,-43.542744],
-  "geometry": {"coordinates":[172.63533,-43.542744],"type":"Point"}
+  "bbox": [
+    172.63533,
+    -43.542744,
+    172.63533,
+    -43.542744
+],
+  "geometry": {"coordinates":[172.63533000000001,-43.542744],"type":"Point"}
 }

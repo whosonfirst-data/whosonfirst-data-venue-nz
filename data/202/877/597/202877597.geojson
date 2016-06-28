@@ -2,13 +2,14 @@
   "id": 202877597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.853073,-40.852551,172.853073,-40.852551",
     "geom:latitude":-40.852551,
     "geom:longitude":172.853073,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Motupipi ",
     "sg:city":"Takaka",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202877597,
-    "wof:lastmodified":1449061882,
+    "wof:lastmodified":1466312751,
     "wof:name":"Golden Bay Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [172.853073,-40.852551,172.853073,-40.852551],
-  "geometry": {"coordinates":[172.853073,-40.852551],"type":"Point"}
+  "bbox": [
+    172.853073,
+    -40.852551,
+    172.853073,
+    -40.852551
+],
+  "geometry": {"coordinates":[172.85307299999999,-40.852551],"type":"Point"}
 }

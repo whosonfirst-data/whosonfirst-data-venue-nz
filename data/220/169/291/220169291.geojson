@@ -2,13 +2,14 @@
   "id": 220169291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.722626,-37.253513,174.722626,-37.253513",
     "geom:latitude":-37.253513,
     "geom:longitude":174.722626,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Constable Rd Waimauku ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220169291,
-    "wof:lastmodified":1449074530,
+    "wof:lastmodified":1466311220,
     "wof:name":"R & A Growers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "veges"
     ]
 },
-  "bbox": [174.722626,-37.253513,174.722626,-37.253513],
-  "geometry": {"coordinates":[174.722626,-37.253513],"type":"Point"}
+  "bbox": [
+    174.722626,
+    -37.253513,
+    174.722626,
+    -37.253513
+],
+  "geometry": {"coordinates":[174.72262599999999,-37.253513],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219821487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.070602,-41.125053,175.070602,-41.125053",
     "geom:latitude":-41.125053,
     "geom:longitude":175.070602,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Geange St Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219821487,
-    "wof:lastmodified":1449072296,
+    "wof:lastmodified":1466313048,
     "wof:name":"Upper Hutt Tyres & Alignments",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alignment"
     ]
 },
-  "bbox": [175.070602,-41.125053,175.070602,-41.125053],
-  "geometry": {"coordinates":[175.070602,-41.125053],"type":"Point"}
+  "bbox": [
+    175.070602,
+    -41.125053,
+    175.070602,
+    -41.125053
+],
+  "geometry": {"coordinates":[175.07060200000001,-41.125053],"type":"Point"}
 }

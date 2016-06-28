@@ -2,13 +2,14 @@
   "id": 219219775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.554153,-43.540089,172.554153,-43.540089",
     "geom:latitude":-43.540089,
     "geom:longitude":172.554153,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Alloy St Sockburn ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219219775,
-    "wof:lastmodified":1449073771,
+    "wof:lastmodified":1466311663,
     "wof:name":"Phoenix Freight Ltd",
     "wof:parent_id":85773341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.554153,-43.540089,172.554153,-43.540089],
-  "geometry": {"coordinates":[172.554153,-43.540089],"type":"Point"}
+  "bbox": [
+    172.554153,
+    -43.540089,
+    172.554153,
+    -43.540089
+],
+  "geometry": {"coordinates":[172.55415300000001,-43.540089],"type":"Point"}
 }

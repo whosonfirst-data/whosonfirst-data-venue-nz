@@ -2,13 +2,14 @@
   "id": 186228169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.437859,44.181351,-117.437859,44.181351",
     "geom:latitude":44.181351,
     "geom:longitude":-117.437859,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"I.C.E. Building Ivan Jamieson Pl ChCh International",
     "sg:city":"Airport",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186228169,
-    "wof:lastmodified":1449051219,
+    "wof:lastmodified":1466311659,
     "wof:name":"Walker Datavision",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "label"
     ]
 },
-  "bbox": [-117.437859,44.181351,-117.437859,44.181351],
+  "bbox": [
+    -117.437859,
+    44.181351,
+    -117.437859,
+    44.181351
+],
   "geometry": {"coordinates":[-117.437859,44.181351],"type":"Point"}
 }

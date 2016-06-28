@@ -2,13 +2,14 @@
   "id": 186109949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.60347,-40.356525,175.60347,-40.356525",
     "geom:latitude":-40.356525,
     "geom:longitude":175.60347,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Waldegrave St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186109949,
-    "wof:lastmodified":1449051324,
+    "wof:lastmodified":1466310620,
     "wof:name":"National Gas Ltd",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "utilities"
     ]
 },
-  "bbox": [175.60347,-40.356525,175.60347,-40.356525],
-  "geometry": {"coordinates":[175.60347,-40.356525],"type":"Point"}
+  "bbox": [
+    175.60347,
+    -40.356525,
+    175.60347,
+    -40.356525
+],
+  "geometry": {"coordinates":[175.60346999999999,-40.356525],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219889117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.559418,-36.783657,174.559418,-36.783657",
     "geom:latitude":-36.783657,
     "geom:longitude":174.559418,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"933 Waitakere Rd Kumeu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219889117,
-    "wof:lastmodified":1449070315,
+    "wof:lastmodified":1466313080,
     "wof:name":"Kumeu Grain & Stock Feed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.559418,-36.783657,174.559418,-36.783657],
-  "geometry": {"coordinates":[174.559418,-36.783657],"type":"Point"}
+  "bbox": [
+    174.559418,
+    -36.783657,
+    174.559418,
+    -36.783657
+],
+  "geometry": {"coordinates":[174.55941799999999,-36.783657],"type":"Point"}
 }

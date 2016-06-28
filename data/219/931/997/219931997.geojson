@@ -2,13 +2,14 @@
   "id": 219931997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.32251,-38.008949,175.32251,-38.008949",
     "geom:latitude":-38.008949,
     "geom:longitude":175.32251,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Alexandra St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219931997,
-    "wof:lastmodified":1449073603,
+    "wof:lastmodified":1466313107,
     "wof:name":"Ronald Simpson",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.32251,-38.008949,175.32251,-38.008949],
-  "geometry": {"coordinates":[175.32251,-38.008949],"type":"Point"}
+  "bbox": [
+    175.32251,
+    -38.008949,
+    175.32251,
+    -38.008949
+],
+  "geometry": {"coordinates":[175.32250999999999,-38.008949],"type":"Point"}
 }

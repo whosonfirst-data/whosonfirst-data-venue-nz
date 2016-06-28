@@ -2,13 +2,14 @@
   "id": 219941899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.242081,-37.805164,175.242081,-37.805164",
     "geom:latitude":-37.805164,
     "geom:longitude":175.242081,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"183 Tuhikaramea Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219941899,
-    "wof:lastmodified":1449072496,
+    "wof:lastmodified":1466313034,
     "wof:name":"Rogerson Graeme A",
     "wof:parent_id":85781735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.242081,-37.805164,175.242081,-37.805164],
-  "geometry": {"coordinates":[175.242081,-37.805164],"type":"Point"}
+  "bbox": [
+    175.242081,
+    -37.805164,
+    175.242081,
+    -37.805164
+],
+  "geometry": {"coordinates":[175.24208100000001,-37.805164],"type":"Point"}
 }

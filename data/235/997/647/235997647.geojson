@@ -2,13 +2,14 @@
   "id": 235997647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.832092,-41.157497,174.832092,-41.157497",
     "geom:latitude":-41.157497,
     "geom:longitude":174.832092,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Collins Ave Linden ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235997647,
-    "wof:lastmodified":1449008542,
+    "wof:lastmodified":1466311573,
     "wof:name":"Rogers Pizzas",
     "wof:parent_id":85773013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pizza"
     ]
 },
-  "bbox": [174.832092,-41.157497,174.832092,-41.157497],
-  "geometry": {"coordinates":[174.832092,-41.157497],"type":"Point"}
+  "bbox": [
+    174.832092,
+    -41.157497,
+    174.832092,
+    -41.157497
+],
+  "geometry": {"coordinates":[174.83209199999999,-41.157497],"type":"Point"}
 }

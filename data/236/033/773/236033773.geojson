@@ -2,13 +2,14 @@
   "id": 236033773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.249542,-35.144962,173.249542,-35.144962",
     "geom:latitude":-35.144962,
     "geom:longitude":173.249542,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Okahu Rd ",
     "sg:city":"Kaitaia",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236033773,
-    "wof:lastmodified":1449002182,
+    "wof:lastmodified":1466311159,
     "wof:name":"Okahu Estate Vineyard & Winery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [173.249542,-35.144962,173.249542,-35.144962],
-  "geometry": {"coordinates":[173.249542,-35.144962],"type":"Point"}
+  "bbox": [
+    173.249542,
+    -35.144962,
+    173.249542,
+    -35.144962
+],
+  "geometry": {"coordinates":[173.24954199999999,-35.144962],"type":"Point"}
 }

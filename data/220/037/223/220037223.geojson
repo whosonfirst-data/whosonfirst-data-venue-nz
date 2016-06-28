@@ -2,13 +2,14 @@
   "id": 220037223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.846008,-36.914337,174.846008,-36.914337",
     "geom:latitude":-36.914337,
     "geom:longitude":174.846008,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Carbine Rd Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220037223,
-    "wof:lastmodified":1449074891,
+    "wof:lastmodified":1466311413,
     "wof:name":"Fast Fridge Rentals Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "catering"
     ]
 },
-  "bbox": [174.846008,-36.914337,174.846008,-36.914337],
-  "geometry": {"coordinates":[174.846008,-36.914337],"type":"Point"}
+  "bbox": [
+    174.846008,
+    -36.914337,
+    174.846008,
+    -36.914337
+],
+  "geometry": {"coordinates":[174.84600800000001,-36.914337],"type":"Point"}
 }

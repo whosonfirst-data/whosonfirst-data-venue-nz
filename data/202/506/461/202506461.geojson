@@ -2,13 +2,14 @@
   "id": 202506461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.162354,-37.692677,176.162354,-37.692677",
     "geom:latitude":-37.692677,
     "geom:longitude":176.162354,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Sixth Ave ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202506461,
-    "wof:lastmodified":1449060159,
+    "wof:lastmodified":1466310717,
     "wof:name":"Taylor Dr Robert K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.162354,-37.692677,176.162354,-37.692677],
-  "geometry": {"coordinates":[176.162354,-37.692677],"type":"Point"}
+  "bbox": [
+    176.162354,
+    -37.692677,
+    176.162354,
+    -37.692677
+],
+  "geometry": {"coordinates":[176.16235399999999,-37.692677],"type":"Point"}
 }

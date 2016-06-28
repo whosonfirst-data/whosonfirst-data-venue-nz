@@ -2,13 +2,14 @@
   "id": 219334255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.221558,-40.899078,176.221558,-40.899078",
     "geom:latitude":-40.899078,
     "geom:longitude":176.221558,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Castlepoint Rd Masterton ",
     "sg:city":"Tinui",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219334255,
-    "wof:lastmodified":1449071435,
+    "wof:lastmodified":1466311214,
     "wof:name":"Tinui Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accommodation"
     ]
 },
-  "bbox": [176.221558,-40.899078,176.221558,-40.899078],
-  "geometry": {"coordinates":[176.221558,-40.899078],"type":"Point"}
+  "bbox": [
+    176.221558,
+    -40.899078,
+    176.221558,
+    -40.899078
+],
+  "geometry": {"coordinates":[176.22155799999999,-40.899078],"type":"Point"}
 }

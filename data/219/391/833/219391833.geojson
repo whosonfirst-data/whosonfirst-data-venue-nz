@@ -2,13 +2,14 @@
   "id": 219391833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.640823,-43.53299,172.640823,-43.53299",
     "geom:latitude":-43.53299,
     "geom:longitude":172.640823,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Cashel St ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219391833,
-    "wof:lastmodified":1449072640,
+    "wof:lastmodified":1466311729,
     "wof:name":"Canterbury Development Corporation",
     "wof:parent_id":85782371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tourism"
     ]
 },
-  "bbox": [172.640823,-43.53299,172.640823,-43.53299],
-  "geometry": {"coordinates":[172.640823,-43.53299],"type":"Point"}
+  "bbox": [
+    172.640823,
+    -43.53299,
+    172.640823,
+    -43.53299
+],
+  "geometry": {"coordinates":[172.64082300000001,-43.53299],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203283877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.320053,-35.724873,174.320053,-35.724873",
     "geom:latitude":-35.724873,
     "geom:longitude":174.320053,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Cameron St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203283877,
-    "wof:lastmodified":1449025471,
+    "wof:lastmodified":1466312048,
     "wof:name":"Caroline Eve",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.320053,-35.724873,174.320053,-35.724873],
+  "bbox": [
+    174.320053,
+    -35.724873,
+    174.320053,
+    -35.724873
+],
   "geometry": {"coordinates":[174.320053,-35.724873],"type":"Point"}
 }

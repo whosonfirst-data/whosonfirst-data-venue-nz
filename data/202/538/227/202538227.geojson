@@ -2,13 +2,14 @@
   "id": 202538227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.782043,-36.872646,174.782043,-36.872646",
     "geom:latitude":-36.872646,
     "geom:longitude":174.782043,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Ely Ave Remuera ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202538227,
-    "wof:lastmodified":1449060419,
+    "wof:lastmodified":1466310981,
     "wof:name":"Kunzler Jose Osteopath",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.782043,-36.872646,174.782043,-36.872646],
-  "geometry": {"coordinates":[174.782043,-36.872646],"type":"Point"}
+  "bbox": [
+    174.782043,
+    -36.872646,
+    174.782043,
+    -36.872646
+],
+  "geometry": {"coordinates":[174.78204299999999,-36.872646],"type":"Point"}
 }

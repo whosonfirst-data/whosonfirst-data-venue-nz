@@ -2,13 +2,14 @@
   "id": 219245377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.5905,-40.343987,175.5905,-40.343987",
     "geom:latitude":-40.343987,
     "geom:longitude":175.5905,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Bennett St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219245377,
-    "wof:lastmodified":1449073799,
+    "wof:lastmodified":1466310517,
     "wof:name":"Linfox Logistics (N.Z.) Ltd",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.5905,-40.343987,175.5905,-40.343987],
-  "geometry": {"coordinates":[175.5905,-40.343987],"type":"Point"}
+  "bbox": [
+    175.5905,
+    -40.343987,
+    175.5905,
+    -40.343987
+],
+  "geometry": {"coordinates":[175.59049999999999,-40.343987],"type":"Point"}
 }

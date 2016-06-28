@@ -2,13 +2,14 @@
   "id": 220131619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.141052,-37.736801,176.141052,-37.736801",
     "geom:latitude":-37.736801,
     "geom:longitude":176.141052,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Maleme St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220131619,
-    "wof:lastmodified":1449074258,
+    "wof:lastmodified":1466310898,
     "wof:name":"Melba Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [176.141052,-37.736801,176.141052,-37.736801],
+  "bbox": [
+    176.141052,
+    -37.736801,
+    176.141052,
+    -37.736801
+],
   "geometry": {"coordinates":[176.141052,-37.736801],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219555823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.292038,-37.790169,175.292038,-37.790169",
     "geom:latitude":-37.790169,
     "geom:longitude":175.292038,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Grey St Hamilton East ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219555823,
-    "wof:lastmodified":1449073409,
+    "wof:lastmodified":1466312479,
     "wof:name":"Stripe & Moulding Co Ltd",
     "wof:parent_id":85782405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.292038,-37.790169,175.292038,-37.790169],
-  "geometry": {"coordinates":[175.292038,-37.790169],"type":"Point"}
+  "bbox": [
+    175.292038,
+    -37.790169,
+    175.292038,
+    -37.790169
+],
+  "geometry": {"coordinates":[175.29203799999999,-37.790169],"type":"Point"}
 }

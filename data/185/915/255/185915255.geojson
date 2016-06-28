@@ -2,13 +2,14 @@
   "id": 185915255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.643341,-40.343403,175.643341,-40.343403",
     "geom:latitude":-40.343403,
     "geom:longitude":175.643341,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Napier Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185915255,
-    "wof:lastmodified":1449008176,
+    "wof:lastmodified":1466311977,
     "wof:name":"The MacDonald School of Dance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sports"
     ]
 },
-  "bbox": [175.643341,-40.343403,175.643341,-40.343403],
-  "geometry": {"coordinates":[175.643341,-40.343403],"type":"Point"}
+  "bbox": [
+    175.643341,
+    -40.343403,
+    175.643341,
+    -40.343403
+],
+  "geometry": {"coordinates":[175.64334099999999,-40.343403],"type":"Point"}
 }

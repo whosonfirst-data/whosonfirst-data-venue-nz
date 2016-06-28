@@ -2,13 +2,14 @@
   "id": 219561105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.758446,40.215324,-74.758446,40.215324",
     "geom:latitude":40.215324,
     "geom:longitude":-74.758446,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Greenwood St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219561105,
-    "wof:lastmodified":1449072903,
+    "wof:lastmodified":1466312579,
     "wof:name":"Carcade on Greenwood",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-74.758446,40.215324,-74.758446,40.215324],
-  "geometry": {"coordinates":[-74.758446,40.215324],"type":"Point"}
+  "bbox": [
+    -74.758446,
+    40.215324,
+    -74.758446,
+    40.215324
+],
+  "geometry": {"coordinates":[-74.75844600000001,40.215324],"type":"Point"}
 }

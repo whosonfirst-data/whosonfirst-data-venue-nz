@@ -2,13 +2,14 @@
   "id": 185747531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.267319,-37.785656,175.267319,-37.785656",
     "geom:latitude":-37.785656,
     "geom:longitude":175.267319,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Commerce St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185747531,
-    "wof:lastmodified":1449006905,
+    "wof:lastmodified":1466310880,
     "wof:name":"Footwork Dancesport Studio",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.267319,-37.785656,175.267319,-37.785656],
-  "geometry": {"coordinates":[175.267319,-37.785656],"type":"Point"}
+  "bbox": [
+    175.267319,
+    -37.785656,
+    175.267319,
+    -37.785656
+],
+  "geometry": {"coordinates":[175.26731899999999,-37.785656],"type":"Point"}
 }

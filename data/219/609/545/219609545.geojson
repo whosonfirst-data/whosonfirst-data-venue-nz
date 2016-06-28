@@ -2,13 +2,14 @@
   "id": 219609545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.624115,-43.541367,172.624115,-43.541367",
     "geom:latitude":-43.541367,
     "geom:longitude":172.624115,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Hazeldean Rd Addington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219609545,
-    "wof:lastmodified":1449071698,
+    "wof:lastmodified":1466312703,
     "wof:name":"Austin Prattley Performance Tuning Ltd",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fitness"
     ]
 },
-  "bbox": [172.624115,-43.541367,172.624115,-43.541367],
-  "geometry": {"coordinates":[172.624115,-43.541367],"type":"Point"}
+  "bbox": [
+    172.624115,
+    -43.541367,
+    172.624115,
+    -43.541367
+],
+  "geometry": {"coordinates":[172.62411499999999,-43.541367],"type":"Point"}
 }

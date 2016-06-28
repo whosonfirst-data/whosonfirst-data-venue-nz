@@ -2,13 +2,14 @@
   "id": 219268547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.611877,-40.353333,175.611877,-40.353333",
     "geom:latitude":-40.353333,
     "geom:longitude":175.611877,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"95 King St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219268547,
-    "wof:lastmodified":1449072383,
+    "wof:lastmodified":1466310712,
     "wof:name":"Adventure-Backpackers.Com",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.611877,-40.353333,175.611877,-40.353333],
-  "geometry": {"coordinates":[175.611877,-40.353333],"type":"Point"}
+  "bbox": [
+    175.611877,
+    -40.353333,
+    175.611877,
+    -40.353333
+],
+  "geometry": {"coordinates":[175.61187699999999,-40.353333],"type":"Point"}
 }

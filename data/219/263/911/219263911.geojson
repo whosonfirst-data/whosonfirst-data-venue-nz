@@ -2,13 +2,14 @@
   "id": 219263911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.763062,-36.845299,174.763062,-36.845299",
     "geom:latitude":-36.845299,
     "geom:longitude":174.763062,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16-18 Hobson St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219263911,
-    "wof:lastmodified":1449073813,
+    "wof:lastmodified":1466310667,
     "wof:name":"Nautilus Apartments",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.763062,-36.845299,174.763062,-36.845299],
-  "geometry": {"coordinates":[174.763062,-36.845299],"type":"Point"}
+  "bbox": [
+    174.763062,
+    -36.845299,
+    174.763062,
+    -36.845299
+],
+  "geometry": {"coordinates":[174.76306199999999,-36.845299],"type":"Point"}
 }

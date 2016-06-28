@@ -2,13 +2,14 @@
   "id": 203116109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.317322,-35.726414,174.317322,-35.726414",
     "geom:latitude":-35.726414,
     "geom:longitude":174.317322,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Water St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203116109,
-    "wof:lastmodified":1449025211,
+    "wof:lastmodified":1466310662,
     "wof:name":"Northlands Tattoo Studio Ltd",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garden"
     ]
 },
-  "bbox": [174.317322,-35.726414,174.317322,-35.726414],
-  "geometry": {"coordinates":[174.317322,-35.726414],"type":"Point"}
+  "bbox": [
+    174.317322,
+    -35.726414,
+    174.317322,
+    -35.726414
+],
+  "geometry": {"coordinates":[174.31732199999999,-35.726414],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219304211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.255402,-38.138092,176.255402,-38.138092",
     "geom:latitude":-38.138092,
     "geom:longitude":176.255402,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1255 Hinemaru St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219304211,
-    "wof:lastmodified":1449073028,
+    "wof:lastmodified":1466310966,
     "wof:name":"Eaton Hall Guest House",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accommodation"
     ]
 },
-  "bbox": [176.255402,-38.138092,176.255402,-38.138092],
+  "bbox": [
+    176.255402,
+    -38.138092,
+    176.255402,
+    -38.138092
+],
   "geometry": {"coordinates":[176.255402,-38.138092],"type":"Point"}
 }

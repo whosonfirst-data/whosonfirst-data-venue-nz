@@ -2,13 +2,14 @@
   "id": 235945461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.960876,-46.087482,168.960876,-46.087482",
     "geom:latitude":-46.087482,
     "geom:longitude":168.960876,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Talbot St East Gore ",
     "sg:city":"Gore",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":235945461,
-    "wof:lastmodified":1449008306,
+    "wof:lastmodified":1466310863,
     "wof:name":"East Gore Takeaways",
     "wof:parent_id":85782851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sea"
     ]
 },
-  "bbox": [168.960876,-46.087482,168.960876,-46.087482],
-  "geometry": {"coordinates":[168.960876,-46.087482],"type":"Point"}
+  "bbox": [
+    168.960876,
+    -46.087482,
+    168.960876,
+    -46.087482
+],
+  "geometry": {"coordinates":[168.96087600000001,-46.087482],"type":"Point"}
 }

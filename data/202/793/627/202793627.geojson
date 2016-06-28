@@ -2,13 +2,14 @@
   "id": 202793627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.744431,-36.716896,174.744431,-36.716896",
     "geom:latitude":-36.716896,
     "geom:longitude":174.744431,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Anzac Rd Browns Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202793627,
-    "wof:lastmodified":1449061507,
+    "wof:lastmodified":1466312519,
     "wof:name":"KBL Joinery",
     "wof:parent_id":85772855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fittings"
     ]
 },
-  "bbox": [174.744431,-36.716896,174.744431,-36.716896],
-  "geometry": {"coordinates":[174.744431,-36.716896],"type":"Point"}
+  "bbox": [
+    174.744431,
+    -36.716896,
+    174.744431,
+    -36.716896
+],
+  "geometry": {"coordinates":[174.74443099999999,-36.716896],"type":"Point"}
 }

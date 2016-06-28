@@ -2,13 +2,14 @@
   "id": 185672729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.727478,-36.781654,174.727478,-36.781654",
     "geom:latitude":-36.781654,
     "geom:longitude":174.727478,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Battle Pl Glenfield ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185672729,
-    "wof:lastmodified":1449006702,
+    "wof:lastmodified":1466311777,
     "wof:name":"Amusement Machines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.727478,-36.781654,174.727478,-36.781654],
-  "geometry": {"coordinates":[174.727478,-36.781654],"type":"Point"}
+  "bbox": [
+    174.727478,
+    -36.781654,
+    174.727478,
+    -36.781654
+],
+  "geometry": {"coordinates":[174.72747799999999,-36.781654],"type":"Point"}
 }

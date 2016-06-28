@@ -2,13 +2,14 @@
   "id": 202778779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.980667,-45.089275,170.980667,-45.089275",
     "geom:latitude":-45.089275,
     "geom:longitude":170.980667,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Humber St ",
     "sg:city":"Oamaru",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202778779,
-    "wof:lastmodified":1449060148,
+    "wof:lastmodified":1466312479,
     "wof:name":"Hilmac Vistalite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [170.980667,-45.089275,170.980667,-45.089275],
-  "geometry": {"coordinates":[170.980667,-45.089275],"type":"Point"}
+  "bbox": [
+    170.980667,
+    -45.089275,
+    170.980667,
+    -45.089275
+],
+  "geometry": {"coordinates":[170.98066700000001,-45.089275],"type":"Point"}
 }

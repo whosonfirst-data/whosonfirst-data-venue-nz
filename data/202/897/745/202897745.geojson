@@ -2,13 +2,14 @@
   "id": 202897745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.704346,-38.459484,176.704346,-38.459484",
     "geom:latitude":-38.459484,
     "geom:longitude":176.704346,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Koromiko St ",
     "sg:city":"Murupara",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202897745,
-    "wof:lastmodified":1449062250,
+    "wof:lastmodified":1466312786,
     "wof:name":"Murupara Chainsaws & Mowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cutter"
     ]
 },
-  "bbox": [176.704346,-38.459484,176.704346,-38.459484],
-  "geometry": {"coordinates":[176.704346,-38.459484],"type":"Point"}
+  "bbox": [
+    176.704346,
+    -38.459484,
+    176.704346,
+    -38.459484
+],
+  "geometry": {"coordinates":[176.70434599999999,-38.459484],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202614665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.478561,-45.860027,170.478561,-45.860027",
     "geom:latitude":-45.860027,
     "geom:longitude":170.478561,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Taieri Rd Wakari ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202614665,
-    "wof:lastmodified":1449062740,
+    "wof:lastmodified":1466311634,
     "wof:name":"Ray Scarlet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [170.478561,-45.860027,170.478561,-45.860027],
-  "geometry": {"coordinates":[170.478561,-45.860027],"type":"Point"}
+  "bbox": [
+    170.478561,
+    -45.860027,
+    170.478561,
+    -45.860027
+],
+  "geometry": {"coordinates":[170.47856100000001,-45.860027],"type":"Point"}
 }

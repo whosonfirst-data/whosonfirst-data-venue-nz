@@ -2,13 +2,14 @@
   "id": 202942385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.326248,-38.009014,175.326248,-38.009014",
     "geom:latitude":-38.009014,
     "geom:longitude":175.326248,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Mahoe St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202942385,
-    "wof:lastmodified":1449061285,
+    "wof:lastmodified":1466312766,
     "wof:name":"Ace Lawnmowers Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.326248,-38.009014,175.326248,-38.009014],
-  "geometry": {"coordinates":[175.326248,-38.009014],"type":"Point"}
+  "bbox": [
+    175.326248,
+    -38.009014,
+    175.326248,
+    -38.009014
+],
+  "geometry": {"coordinates":[175.32624799999999,-38.009014],"type":"Point"}
 }

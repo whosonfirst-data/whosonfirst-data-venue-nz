@@ -2,13 +2,14 @@
   "id": 185939615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.472107,-45.883659,170.472107,-45.883659",
     "geom:latitude":-45.883659,
     "geom:longitude":170.472107,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Blair St Kenmure ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185939615,
-    "wof:lastmodified":1449007085,
+    "wof:lastmodified":1466312198,
     "wof:name":"Simpson D C - OLYMPIAN",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "pool"
     ]
 },
-  "bbox": [170.472107,-45.883659,170.472107,-45.883659],
-  "geometry": {"coordinates":[170.472107,-45.883659],"type":"Point"}
+  "bbox": [
+    170.472107,
+    -45.883659,
+    170.472107,
+    -45.883659
+],
+  "geometry": {"coordinates":[170.47210699999999,-45.883659],"type":"Point"}
 }

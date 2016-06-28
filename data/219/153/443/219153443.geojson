@@ -2,13 +2,14 @@
   "id": 219153443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.334885,-35.738777,174.334885,-35.738777",
     "geom:latitude":-35.738777,
     "geom:longitude":174.334885,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Port Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219153443,
-    "wof:lastmodified":1449072820,
+    "wof:lastmodified":1466310627,
     "wof:name":"Winger Marine",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.334885,-35.738777,174.334885,-35.738777],
-  "geometry": {"coordinates":[174.334885,-35.738777],"type":"Point"}
+  "bbox": [
+    174.334885,
+    -35.738777,
+    174.334885,
+    -35.738777
+],
+  "geometry": {"coordinates":[174.33488500000001,-35.738777],"type":"Point"}
 }

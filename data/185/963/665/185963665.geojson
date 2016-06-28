@@ -2,13 +2,14 @@
   "id": 185963665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.305878,-37.9193,175.305878,-37.9193",
     "geom:latitude":-37.9193,
     "geom:longitude":175.305878,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"450 O'Regan Rd R D 2 Ohaupo ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":185963665,
-    "wof:lastmodified":1449006766,
+    "wof:lastmodified":1466312172,
     "wof:name":"Corohawk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.305878,-37.9193,175.305878,-37.9193],
-  "geometry": {"coordinates":[175.305878,-37.9193],"type":"Point"}
+  "bbox": [
+    175.305878,
+    -37.9193,
+    175.305878,
+    -37.9193
+],
+  "geometry": {"coordinates":[175.30587800000001,-37.9193],"type":"Point"}
 }

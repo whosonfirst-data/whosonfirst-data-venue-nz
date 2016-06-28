@@ -2,13 +2,14 @@
   "id": 169768123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.791916,-36.892967,174.791916,-36.892967",
     "geom:latitude":-36.892967,
     "geom:longitude":174.791916,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 17504 ",
     "sg:city":"Greenlane",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169768123,
-    "wof:lastmodified":1449033953,
+    "wof:lastmodified":1466311408,
     "wof:name":"Auckland Mountain Bike Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cycles"
     ]
 },
-  "bbox": [174.791916,-36.892967,174.791916,-36.892967],
-  "geometry": {"coordinates":[174.791916,-36.892967],"type":"Point"}
+  "bbox": [
+    174.791916,
+    -36.892967,
+    174.791916,
+    -36.892967
+],
+  "geometry": {"coordinates":[174.79191599999999,-36.892967],"type":"Point"}
 }

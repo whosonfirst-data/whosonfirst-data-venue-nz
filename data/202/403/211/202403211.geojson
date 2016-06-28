@@ -2,13 +2,14 @@
   "id": 202403211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.305618,-35.73035,174.305618,-35.73035",
     "geom:latitude":-35.73035,
     "geom:longitude":174.305618,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Fourth Ave ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202403211,
-    "wof:lastmodified":1449062296,
+    "wof:lastmodified":1466311096,
     "wof:name":"Lester Heights Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.305618,-35.73035,174.305618,-35.73035],
-  "geometry": {"coordinates":[174.305618,-35.73035],"type":"Point"}
+  "bbox": [
+    174.305618,
+    -35.73035,
+    174.305618,
+    -35.73035
+],
+  "geometry": {"coordinates":[174.30561800000001,-35.73035],"type":"Point"}
 }

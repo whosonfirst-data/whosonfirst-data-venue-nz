@@ -2,13 +2,14 @@
   "id": 169821343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.659622,-43.382851,172.659622,-43.382851",
     "geom:latitude":-43.382851,
     "geom:longitude":172.659622,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Charles St ",
     "sg:city":"Kaiapoi",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169821343,
-    "wof:lastmodified":1449034489,
+    "wof:lastmodified":1466311815,
     "wof:name":"Koolnek Products Ltd",
     "wof:parent_id":85782425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.659622,-43.382851,172.659622,-43.382851],
-  "geometry": {"coordinates":[172.659622,-43.382851],"type":"Point"}
+  "bbox": [
+    172.659622,
+    -43.382851,
+    172.659622,
+    -43.382851
+],
+  "geometry": {"coordinates":[172.65962200000001,-43.382851],"type":"Point"}
 }

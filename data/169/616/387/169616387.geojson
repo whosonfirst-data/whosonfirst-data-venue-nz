@@ -2,13 +2,14 @@
   "id": 169616387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.021484,-39.931934,175.021484,-39.931934",
     "geom:latitude":-39.931934,
     "geom:longitude":175.021484,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Fitzherbert Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169616387,
-    "wof:lastmodified":1449035103,
+    "wof:lastmodified":1466311813,
     "wof:name":"Springvale Bookshop",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.021484,-39.931934,175.021484,-39.931934],
-  "geometry": {"coordinates":[175.021484,-39.931934],"type":"Point"}
+  "bbox": [
+    175.021484,
+    -39.931934,
+    175.021484,
+    -39.931934
+],
+  "geometry": {"coordinates":[175.02148399999999,-39.931934],"type":"Point"}
 }

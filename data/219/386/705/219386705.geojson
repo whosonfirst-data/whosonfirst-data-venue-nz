@@ -2,13 +2,14 @@
   "id": 219386705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.765198,-36.849102,174.765198,-36.849102",
     "geom:latitude":-36.849102,
     "geom:longitude":174.765198,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Queen St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219386705,
-    "wof:lastmodified":1449072238,
+    "wof:lastmodified":1466311667,
     "wof:name":"Kintetsu International Express (Oceania) Pty Ltd",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broker"
     ]
 },
-  "bbox": [174.765198,-36.849102,174.765198,-36.849102],
+  "bbox": [
+    174.765198,
+    -36.849102,
+    174.765198,
+    -36.849102
+],
   "geometry": {"coordinates":[174.765198,-36.849102],"type":"Point"}
 }

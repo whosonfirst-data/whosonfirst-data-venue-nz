@@ -2,13 +2,14 @@
   "id": 186062741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.876862,-41.222248,174.876862,-41.222248",
     "geom:latitude":-41.222248,
     "geom:longitude":174.876862,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Sydney St Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186062741,
-    "wof:lastmodified":1449052834,
+    "wof:lastmodified":1466311634,
     "wof:name":"The Service Company",
     "wof:parent_id":85782489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "maintenance"
     ]
 },
-  "bbox": [174.876862,-41.222248,174.876862,-41.222248],
-  "geometry": {"coordinates":[174.876862,-41.222248],"type":"Point"}
+  "bbox": [
+    174.876862,
+    -41.222248,
+    174.876862,
+    -41.222248
+],
+  "geometry": {"coordinates":[174.87686199999999,-41.222248],"type":"Point"}
 }

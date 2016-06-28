@@ -2,13 +2,14 @@
   "id": 203198827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.831589,-44.938599,168.831589,-44.938599",
     "geom:latitude":-44.938599,
     "geom:longitude":168.831589,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Buckingham St ",
     "sg:city":"Arrowtown",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203198827,
-    "wof:lastmodified":1449025601,
+    "wof:lastmodified":1466311362,
     "wof:name":"Clothes 2000 Childrenswear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.831589,-44.938599,168.831589,-44.938599],
-  "geometry": {"coordinates":[168.831589,-44.938599],"type":"Point"}
+  "bbox": [
+    168.831589,
+    -44.938599,
+    168.831589,
+    -44.938599
+],
+  "geometry": {"coordinates":[168.83158900000001,-44.938599],"type":"Point"}
 }

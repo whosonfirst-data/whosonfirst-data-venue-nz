@@ -2,13 +2,14 @@
   "id": 219716455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.679047,-43.55896,172.679047,-43.55896",
     "geom:latitude":-43.55896,
     "geom:longitude":172.679047,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Curries Rd Woolston ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219716455,
-    "wof:lastmodified":1449070898,
+    "wof:lastmodified":1466312745,
     "wof:name":"Chris Sutton Engineering",
     "wof:parent_id":85773353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.679047,-43.55896,172.679047,-43.55896],
+  "bbox": [
+    172.679047,
+    -43.55896,
+    172.679047,
+    -43.55896
+],
   "geometry": {"coordinates":[172.679047,-43.55896],"type":"Point"}
 }

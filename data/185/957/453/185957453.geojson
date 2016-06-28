@@ -2,13 +2,14 @@
   "id": 185957453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.742203,-36.71677,174.742203,-36.71677",
     "geom:latitude":-36.71677,
     "geom:longitude":174.742203,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Glencoe Rd Browns Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185957453,
-    "wof:lastmodified":1449007989,
+    "wof:lastmodified":1466312146,
     "wof:name":"Playball Limited",
     "wof:parent_id":85772855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sports"
     ]
 },
-  "bbox": [174.742203,-36.71677,174.742203,-36.71677],
-  "geometry": {"coordinates":[174.742203,-36.71677],"type":"Point"}
+  "bbox": [
+    174.742203,
+    -36.71677,
+    174.742203,
+    -36.71677
+],
+  "geometry": {"coordinates":[174.74220299999999,-36.71677],"type":"Point"}
 }

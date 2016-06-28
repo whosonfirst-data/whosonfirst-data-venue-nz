@@ -2,13 +2,14 @@
   "id": 185808143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.612534,-40.354031,175.612534,-40.354031",
     "geom:latitude":-40.354031,
     "geom:longitude":175.612534,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185808143,
-    "wof:lastmodified":1449006653,
+    "wof:lastmodified":1466311275,
     "wof:name":"Kodak Express",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "developing"
     ]
 },
-  "bbox": [175.612534,-40.354031,175.612534,-40.354031],
-  "geometry": {"coordinates":[175.612534,-40.354031],"type":"Point"}
+  "bbox": [
+    175.612534,
+    -40.354031,
+    175.612534,
+    -40.354031
+],
+  "geometry": {"coordinates":[175.61253400000001,-40.354031],"type":"Point"}
 }

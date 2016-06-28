@@ -2,13 +2,14 @@
   "id": 186089763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.834534,-36.900925,174.834534,-36.900925",
     "geom:latitude":-36.900925,
     "geom:longitude":174.834534,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 a Boakes Rd Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186089763,
-    "wof:lastmodified":1449050951,
+    "wof:lastmodified":1466311922,
     "wof:name":"Automation Technology Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.834534,-36.900925,174.834534,-36.900925],
-  "geometry": {"coordinates":[174.834534,-36.900925],"type":"Point"}
+  "bbox": [
+    174.834534,
+    -36.900925,
+    174.834534,
+    -36.900925
+],
+  "geometry": {"coordinates":[174.83453399999999,-36.900925],"type":"Point"}
 }

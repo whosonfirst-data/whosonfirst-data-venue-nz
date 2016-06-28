@@ -2,13 +2,14 @@
   "id": 236008645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.942787,41.371117,-83.942787,41.371117",
     "geom:latitude":41.371117,
     "geom:longitude":-83.942787,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Main St ",
     "sg:city":"Greytown",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236008645,
-    "wof:lastmodified":1449002525,
+    "wof:lastmodified":1466310764,
     "wof:name":"Wakelin House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [-83.942787,41.371117,-83.942787,41.371117],
+  "bbox": [
+    -83.942787,
+    41.371117,
+    -83.942787,
+    41.371117
+],
   "geometry": {"coordinates":[-83.942787,41.371117],"type":"Point"}
 }

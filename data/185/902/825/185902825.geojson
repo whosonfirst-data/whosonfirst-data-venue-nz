@@ -2,13 +2,14 @@
   "id": 185902825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.337631,-38.028965,175.337631,-38.028965",
     "geom:latitude":-38.028965,
     "geom:longitude":175.337631,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Kihikihi Rd Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185902825,
-    "wof:lastmodified":1449007788,
+    "wof:lastmodified":1466311883,
     "wof:name":"Te Awamutu Golf Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.337631,-38.028965,175.337631,-38.028965],
-  "geometry": {"coordinates":[175.337631,-38.028965],"type":"Point"}
+  "bbox": [
+    175.337631,
+    -38.028965,
+    175.337631,
+    -38.028965
+],
+  "geometry": {"coordinates":[175.33763099999999,-38.028965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219947239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.245544,-37.795162,175.245544,-37.795162",
     "geom:latitude":-37.795162,
     "geom:longitude":175.245544,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Whatawhata Rd Dinsdale ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219947239,
-    "wof:lastmodified":1449072953,
+    "wof:lastmodified":1466313113,
     "wof:name":"Animal Health Centre",
     "wof:parent_id":85781735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.245544,-37.795162,175.245544,-37.795162],
+  "bbox": [
+    175.245544,
+    -37.795162,
+    175.245544,
+    -37.795162
+],
   "geometry": {"coordinates":[175.245544,-37.795162],"type":"Point"}
 }

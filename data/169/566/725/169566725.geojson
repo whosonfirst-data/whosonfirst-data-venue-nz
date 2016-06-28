@@ -2,13 +2,14 @@
   "id": 169566725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.565186,-40.226849,175.565186,-40.226849",
     "geom:latitude":-40.226849,
     "geom:longitude":175.565186,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Manchester St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169566725,
-    "wof:lastmodified":1449032753,
+    "wof:lastmodified":1466311076,
     "wof:name":"Good Living",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supplier"
     ]
 },
-  "bbox": [175.565186,-40.226849,175.565186,-40.226849],
-  "geometry": {"coordinates":[175.565186,-40.226849],"type":"Point"}
+  "bbox": [
+    175.565186,
+    -40.226849,
+    175.565186,
+    -40.226849
+],
+  "geometry": {"coordinates":[175.56518600000001,-40.226849],"type":"Point"}
 }

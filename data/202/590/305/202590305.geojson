@@ -2,13 +2,14 @@
   "id": 202590305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.994049,-37.957275,176.994049,-37.957275",
     "geom:latitude":-37.957275,
     "geom:longitude":176.994049,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Commerce St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202590305,
-    "wof:lastmodified":1449061622,
+    "wof:lastmodified":1466311437,
     "wof:name":"PlaceMakers",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.994049,-37.957275,176.994049,-37.957275],
-  "geometry": {"coordinates":[176.994049,-37.957275],"type":"Point"}
+  "bbox": [
+    176.994049,
+    -37.957275,
+    176.994049,
+    -37.957275
+],
+  "geometry": {"coordinates":[176.99404899999999,-37.957275],"type":"Point"}
 }

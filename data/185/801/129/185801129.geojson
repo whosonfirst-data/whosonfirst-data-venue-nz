@@ -2,13 +2,14 @@
   "id": 185801129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.686996,-36.909801,174.686996,-36.909801",
     "geom:latitude":-36.909801,
     "geom:longitude":174.686996,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3/ 18 Clark St New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185801129,
-    "wof:lastmodified":1449007951,
+    "wof:lastmodified":1466311229,
     "wof:name":"The Model Shop",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [174.686996,-36.909801,174.686996,-36.909801],
-  "geometry": {"coordinates":[174.686996,-36.909801],"type":"Point"}
+  "bbox": [
+    174.686996,
+    -36.909801,
+    174.686996,
+    -36.909801
+],
+  "geometry": {"coordinates":[174.68699599999999,-36.909801],"type":"Point"}
 }

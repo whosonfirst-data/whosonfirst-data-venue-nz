@@ -2,13 +2,14 @@
   "id": 185860363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.029434,-39.963539,175.029434,-39.963539",
     "geom:latitude":-39.963539,
     "geom:longitude":175.029434,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Wanganui Airport ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185860363,
-    "wof:lastmodified":1449007329,
+    "wof:lastmodified":1466311628,
     "wof:name":"Wanganui Aero Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.029434,-39.963539,175.029434,-39.963539],
-  "geometry": {"coordinates":[175.029434,-39.963539],"type":"Point"}
+  "bbox": [
+    175.029434,
+    -39.963539,
+    175.029434,
+    -39.963539
+],
+  "geometry": {"coordinates":[175.02943400000001,-39.963539],"type":"Point"}
 }

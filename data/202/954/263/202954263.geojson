@@ -2,13 +2,14 @@
   "id": 202954263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.128357,-37.822392,176.128357,-37.822392",
     "geom:latitude":-37.822392,
     "geom:longitude":176.128357,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Kennedy Rd Pyes Pa ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202954263,
-    "wof:lastmodified":1449062331,
+    "wof:lastmodified":1466312892,
     "wof:name":"Rustic Worx",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.128357,-37.822392,176.128357,-37.822392],
-  "geometry": {"coordinates":[176.128357,-37.822392],"type":"Point"}
+  "bbox": [
+    176.128357,
+    -37.822392,
+    176.128357,
+    -37.822392
+],
+  "geometry": {"coordinates":[176.12835699999999,-37.822392],"type":"Point"}
 }

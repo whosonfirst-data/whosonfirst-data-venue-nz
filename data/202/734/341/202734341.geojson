@@ -2,13 +2,14 @@
   "id": 202734341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.619659,-43.516968,172.619659,-43.516968",
     "geom:latitude":-43.516968,
     "geom:longitude":172.619659,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"63 a Winchester St Merivale ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202734341,
-    "wof:lastmodified":1449062340,
+    "wof:lastmodified":1466312260,
     "wof:name":"Ideal Tidy Bins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "home"
     ]
 },
-  "bbox": [172.619659,-43.516968,172.619659,-43.516968],
-  "geometry": {"coordinates":[172.619659,-43.516968],"type":"Point"}
+  "bbox": [
+    172.619659,
+    -43.516968,
+    172.619659,
+    -43.516968
+],
+  "geometry": {"coordinates":[172.61965900000001,-43.516968],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185653815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.754837,-36.850155,174.754837,-36.850155",
     "geom:latitude":-36.850155,
     "geom:longitude":174.754837,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Cook St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185653815,
-    "wof:lastmodified":1449006720,
+    "wof:lastmodified":1466311530,
     "wof:name":"Props & Drops",
     "wof:parent_id":85778287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.754837,-36.850155,174.754837,-36.850155],
-  "geometry": {"coordinates":[174.754837,-36.850155],"type":"Point"}
+  "bbox": [
+    174.754837,
+    -36.850155,
+    174.754837,
+    -36.850155
+],
+  "geometry": {"coordinates":[174.75483700000001,-36.850155],"type":"Point"}
 }

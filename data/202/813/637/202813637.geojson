@@ -2,13 +2,14 @@
   "id": 202813637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.564957,-40.227085,175.564957,-40.227085",
     "geom:latitude":-40.227085,
     "geom:longitude":175.564957,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Manchester St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202813637,
-    "wof:lastmodified":1449060767,
+    "wof:lastmodified":1466312655,
     "wof:name":"JD's Factory Shop",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [175.564957,-40.227085,175.564957,-40.227085],
-  "geometry": {"coordinates":[175.564957,-40.227085],"type":"Point"}
+  "bbox": [
+    175.564957,
+    -40.227085,
+    175.564957,
+    -40.227085
+],
+  "geometry": {"coordinates":[175.56495699999999,-40.227085],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202865875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.620514,-36.871212,174.620514,-36.871212",
     "geom:latitude":-36.871212,
     "geom:longitude":174.620514,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"570 A Swanson Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202865875,
-    "wof:lastmodified":1449062030,
+    "wof:lastmodified":1466312719,
     "wof:name":"Fineline Furniture Ltd",
     "wof:parent_id":85781233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [174.620514,-36.871212,174.620514,-36.871212],
-  "geometry": {"coordinates":[174.620514,-36.871212],"type":"Point"}
+  "bbox": [
+    174.620514,
+    -36.871212,
+    174.620514,
+    -36.871212
+],
+  "geometry": {"coordinates":[174.62051399999999,-36.871212],"type":"Point"}
 }

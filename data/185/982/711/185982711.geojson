@@ -2,13 +2,14 @@
   "id": 185982711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.304794,-38.880764,175.304794,-38.880764",
     "geom:latitude":-38.880764,
     "geom:longitude":175.304794,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Taupo Rd ",
     "sg:city":"Taumarunui",
     "sg:classifiers":[
@@ -45,16 +46,22 @@
         }
     ],
     "wof:id":185982711,
-    "wof:lastmodified":1449006890,
+    "wof:lastmodified":1466312256,
     "wof:name":"Thomson Concrete (1994)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "storage"
     ]
 },
-  "bbox": [175.304794,-38.880764,175.304794,-38.880764],
-  "geometry": {"coordinates":[175.304794,-38.880764],"type":"Point"}
+  "bbox": [
+    175.304794,
+    -38.880764,
+    175.304794,
+    -38.880764
+],
+  "geometry": {"coordinates":[175.30479399999999,-38.880764],"type":"Point"}
 }

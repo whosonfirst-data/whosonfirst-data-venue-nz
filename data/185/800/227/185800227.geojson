@@ -2,13 +2,14 @@
   "id": 185800227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.510452,-43.590508,172.510452,-43.590508",
     "geom:latitude":-43.590508,
     "geom:longitude":172.510452,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Birchs Rd ",
     "sg:city":"Prebbleton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185800227,
-    "wof:lastmodified":1449006732,
+    "wof:lastmodified":1466311222,
     "wof:name":"Obsolete Toys NZ",
     "wof:parent_id":85773137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [172.510452,-43.590508,172.510452,-43.590508],
-  "geometry": {"coordinates":[172.510452,-43.590508],"type":"Point"}
+  "bbox": [
+    172.510452,
+    -43.590508,
+    172.510452,
+    -43.590508
+],
+  "geometry": {"coordinates":[172.51045199999999,-43.590508],"type":"Point"}
 }

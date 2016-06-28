@@ -2,13 +2,14 @@
   "id": 185627573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.901642,-37.200638,174.901642,-37.200638",
     "geom:latitude":-37.200638,
     "geom:longitude":174.901642,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 King St Waiuku ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185627573,
-    "wof:lastmodified":1449008255,
+    "wof:lastmodified":1466311180,
     "wof:name":"Waiuku Museum Society Inc",
     "wof:parent_id":85782491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gallery"
     ]
 },
-  "bbox": [174.901642,-37.200638,174.901642,-37.200638],
-  "geometry": {"coordinates":[174.901642,-37.200638],"type":"Point"}
+  "bbox": [
+    174.901642,
+    -37.200638,
+    174.901642,
+    -37.200638
+],
+  "geometry": {"coordinates":[174.90164200000001,-37.200638],"type":"Point"}
 }

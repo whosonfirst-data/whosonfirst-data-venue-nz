@@ -2,13 +2,14 @@
   "id": 169721697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.796921,-36.880768,174.796921,-36.880768",
     "geom:latitude":-36.880768,
     "geom:longitude":174.796921,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Remuera Rd ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169721697,
-    "wof:lastmodified":1449035960,
+    "wof:lastmodified":1466311078,
     "wof:name":"Paper Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.796921,-36.880768,174.796921,-36.880768],
+  "bbox": [
+    174.796921,
+    -36.880768,
+    174.796921,
+    -36.880768
+],
   "geometry": {"coordinates":[174.796921,-36.880768],"type":"Point"}
 }

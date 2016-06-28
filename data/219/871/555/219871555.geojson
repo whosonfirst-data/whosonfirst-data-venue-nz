@@ -2,13 +2,14 @@
   "id": 219871555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.275528,39.429199,-75.275528,39.429199",
     "geom:latitude":39.429199,
     "geom:longitude":-75.275528,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Bowentown Bvd Bowentown ",
     "sg:city":"Waihi",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219871555,
-    "wof:lastmodified":1449071555,
+    "wof:lastmodified":1466313074,
     "wof:name":"Longbow Forestry Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.275528,39.429199,-75.275528,39.429199],
-  "geometry": {"coordinates":[-75.275528,39.429199],"type":"Point"}
+  "bbox": [
+    -75.275528,
+    39.429199,
+    -75.275528,
+    39.429199
+],
+  "geometry": {"coordinates":[-75.27552799999999,39.429199],"type":"Point"}
 }

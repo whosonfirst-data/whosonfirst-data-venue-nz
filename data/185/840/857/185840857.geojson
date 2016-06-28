@@ -2,13 +2,14 @@
   "id": 185840857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.631836,-36.879128,174.631836,-36.879128",
     "geom:latitude":-36.879128,
     "geom:longitude":174.631836,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"379 Great North Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185840857,
-    "wof:lastmodified":1449007871,
+    "wof:lastmodified":1466311502,
     "wof:name":"Henderson Rock Shop",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.631836,-36.879128,174.631836,-36.879128],
-  "geometry": {"coordinates":[174.631836,-36.879128],"type":"Point"}
+  "bbox": [
+    174.631836,
+    -36.879128,
+    174.631836,
+    -36.879128
+],
+  "geometry": {"coordinates":[174.63183599999999,-36.879128],"type":"Point"}
 }

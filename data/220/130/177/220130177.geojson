@@ -2,13 +2,14 @@
   "id": 220130177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.884995,-36.946945,174.884995,-36.946945",
     "geom:latitude":-36.946945,
     "geom:longitude":174.884995,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Kerwyn Ave East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220130177,
-    "wof:lastmodified":1449074293,
+    "wof:lastmodified":1466310882,
     "wof:name":"La Bonne Cuisine Ltd",
     "wof:parent_id":85778267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [174.884995,-36.946945,174.884995,-36.946945],
+  "bbox": [
+    174.884995,
+    -36.946945,
+    174.884995,
+    -36.946945
+],
   "geometry": {"coordinates":[174.884995,-36.946945],"type":"Point"}
 }

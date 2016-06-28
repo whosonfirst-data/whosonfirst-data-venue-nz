@@ -2,13 +2,14 @@
   "id": 219812987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.549011,45.477005,-122.549011,45.477005",
     "geom:latitude":45.477005,
     "geom:longitude":-122.549011,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 332 Nelson St ",
     "sg:city":"Arnaud",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219812987,
-    "wof:lastmodified":1449070464,
+    "wof:lastmodified":1466313038,
     "wof:name":"Rust Stop Electronics Ltd",
     "wof:parent_id":85830297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "removal"
     ]
 },
-  "bbox": [-122.549011,45.477005,-122.549011,45.477005],
-  "geometry": {"coordinates":[-122.549011,45.477005],"type":"Point"}
+  "bbox": [
+    -122.549011,
+    45.477005,
+    -122.549011,
+    45.477005
+],
+  "geometry": {"coordinates":[-122.54901099999999,45.477005],"type":"Point"}
 }

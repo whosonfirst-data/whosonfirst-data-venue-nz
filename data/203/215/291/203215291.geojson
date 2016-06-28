@@ -2,13 +2,14 @@
   "id": 203215291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.688217,40.251564,-74.688217,40.251564",
     "geom:latitude":40.251564,
     "geom:longitude":-74.688217,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Alexandra St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203215291,
-    "wof:lastmodified":1449026509,
+    "wof:lastmodified":1466311505,
     "wof:name":"Revamp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fabric"
     ]
 },
-  "bbox": [-74.688217,40.251564,-74.688217,40.251564],
-  "geometry": {"coordinates":[-74.688217,40.251564],"type":"Point"}
+  "bbox": [
+    -74.688217,
+    40.251564,
+    -74.688217,
+    40.251564
+],
+  "geometry": {"coordinates":[-74.68821699999999,40.251564],"type":"Point"}
 }

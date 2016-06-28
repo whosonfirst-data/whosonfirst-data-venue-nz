@@ -2,13 +2,14 @@
   "id": 236018929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.892349,33.766979,-85.892349,33.766979",
     "geom:latitude":33.766979,
     "geom:longitude":-85.892349,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Centennial Ave ",
     "sg:city":"Alexandra",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236018929,
-    "wof:lastmodified":1449003261,
+    "wof:lastmodified":1466310957,
     "wof:name":"Nuno's Restaurant & Takeaway",
     "wof:parent_id":85830275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "takeaway"
     ]
 },
-  "bbox": [-85.892349,33.766979,-85.892349,33.766979],
+  "bbox": [
+    -85.892349,
+    33.766979,
+    -85.892349,
+    33.766979
+],
   "geometry": {"coordinates":[-85.892349,33.766979],"type":"Point"}
 }

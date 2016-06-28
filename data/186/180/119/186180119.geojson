@@ -2,13 +2,14 @@
   "id": 186180119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.342148,-46.411255,168.342148,-46.411255",
     "geom:latitude":-46.411255,
     "geom:longitude":168.342148,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Mersey St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186180119,
-    "wof:lastmodified":1449050382,
+    "wof:lastmodified":1466311239,
     "wof:name":"E-Type Engineering Ltd",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.342148,-46.411255,168.342148,-46.411255],
-  "geometry": {"coordinates":[168.342148,-46.411255],"type":"Point"}
+  "bbox": [
+    168.342148,
+    -46.411255,
+    168.342148,
+    -46.411255
+],
+  "geometry": {"coordinates":[168.34214800000001,-46.411255],"type":"Point"}
 }

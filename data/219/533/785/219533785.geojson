@@ -2,13 +2,14 @@
   "id": 219533785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.675285,40.541164,-87.675285,40.541164",
     "geom:latitude":40.541164,
     "geom:longitude":-87.675285,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Lvl 2 Central House 26 Brandon St ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219533785,
-    "wof:lastmodified":1449070339,
+    "wof:lastmodified":1466312421,
     "wof:name":"Sight & Sound Keyboard Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "typist"
     ]
 },
-  "bbox": [-87.675285,40.541164,-87.675285,40.541164],
+  "bbox": [
+    -87.675285,
+    40.541164,
+    -87.675285,
+    40.541164
+],
   "geometry": {"coordinates":[-87.675285,40.541164],"type":"Point"}
 }

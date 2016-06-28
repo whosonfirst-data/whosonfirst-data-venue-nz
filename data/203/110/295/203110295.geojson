@@ -2,13 +2,14 @@
   "id": 203110295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.640442,-40.359673,175.640442,-40.359673",
     "geom:latitude":-40.359673,
     "geom:longitude":175.640442,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Newcastle St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203110295,
-    "wof:lastmodified":1449025542,
+    "wof:lastmodified":1466310609,
     "wof:name":"Magnum Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [175.640442,-40.359673,175.640442,-40.359673],
-  "geometry": {"coordinates":[175.640442,-40.359673],"type":"Point"}
+  "bbox": [
+    175.640442,
+    -40.359673,
+    175.640442,
+    -40.359673
+],
+  "geometry": {"coordinates":[175.64044200000001,-40.359673],"type":"Point"}
 }

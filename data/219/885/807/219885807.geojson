@@ -2,13 +2,14 @@
   "id": 219885807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.948936,40.654831,-73.948936,40.654831",
     "geom:latitude":40.654831,
     "geom:longitude":-73.948936,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Brooklyn R D 1 ",
     "sg:city":"Tapanui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219885807,
-    "wof:lastmodified":1449072254,
+    "wof:lastmodified":1466313082,
     "wof:name":"Brooklyn Seed Cleaning",
     "wof:parent_id":85816313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.948936,40.654831,-73.948936,40.654831],
+  "bbox": [
+    -73.948936,
+    40.654831,
+    -73.948936,
+    40.654831
+],
   "geometry": {"coordinates":[-73.948936,40.654831],"type":"Point"}
 }

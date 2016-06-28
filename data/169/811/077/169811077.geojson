@@ -2,13 +2,14 @@
   "id": 169811077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.868423,-41.222885,174.868423,-41.222885",
     "geom:latitude":-41.222885,
     "geom:longitude":174.868423,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Hutt Rd Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169811077,
-    "wof:lastmodified":1449034270,
+    "wof:lastmodified":1466311731,
     "wof:name":"Jones Bros Ltd",
     "wof:parent_id":85773005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.868423,-41.222885,174.868423,-41.222885],
-  "geometry": {"coordinates":[174.868423,-41.222885],"type":"Point"}
+  "bbox": [
+    174.868423,
+    -41.222885,
+    174.868423,
+    -41.222885
+],
+  "geometry": {"coordinates":[174.86842300000001,-41.222885],"type":"Point"}
 }

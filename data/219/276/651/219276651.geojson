@@ -2,13 +2,14 @@
   "id": 219276651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.191589,-37.648769,176.191589,-37.648769",
     "geom:latitude":-37.648769,
     "geom:longitude":176.191589,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"432 Maunganui Rd Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219276651,
-    "wof:lastmodified":1449070499,
+    "wof:lastmodified":1466310756,
     "wof:name":"Pacific Coast Lodge & Backpackers",
     "wof:parent_id":85773039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.191589,-37.648769,176.191589,-37.648769],
-  "geometry": {"coordinates":[176.191589,-37.648769],"type":"Point"}
+  "bbox": [
+    176.191589,
+    -37.648769,
+    176.191589,
+    -37.648769
+],
+  "geometry": {"coordinates":[176.19158899999999,-37.648769],"type":"Point"}
 }

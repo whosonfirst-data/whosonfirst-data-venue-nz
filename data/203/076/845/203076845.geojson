@@ -2,13 +2,14 @@
   "id": 203076845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.903259,-41.242329,174.903259,-41.242329",
     "geom:latitude":-41.242329,
     "geom:longitude":174.903259,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Barnes St Seaview Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203076845,
-    "wof:lastmodified":1449026429,
+    "wof:lastmodified":1466311779,
     "wof:name":"Coombes Ian Ltd",
     "wof:parent_id":85778601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "spa"
     ]
 },
-  "bbox": [174.903259,-41.242329,174.903259,-41.242329],
-  "geometry": {"coordinates":[174.903259,-41.242329],"type":"Point"}
+  "bbox": [
+    174.903259,
+    -41.242329,
+    174.903259,
+    -41.242329
+],
+  "geometry": {"coordinates":[174.90325899999999,-41.242329],"type":"Point"}
 }

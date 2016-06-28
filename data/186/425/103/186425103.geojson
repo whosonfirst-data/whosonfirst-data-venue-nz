@@ -2,13 +2,14 @@
   "id": 186425103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.91301,-41.206146,174.91301,-41.206146",
     "geom:latitude":-41.206146,
     "geom:longitude":174.91301,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Downer St Lower Hutt ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186425103,
-    "wof:lastmodified":1449051340,
+    "wof:lastmodified":1466312586,
     "wof:name":"Medic Scientific",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.91301,-41.206146,174.91301,-41.206146],
-  "geometry": {"coordinates":[174.91301,-41.206146],"type":"Point"}
+  "bbox": [
+    174.91301,
+    -41.206146,
+    174.91301,
+    -41.206146
+],
+  "geometry": {"coordinates":[174.91301000000001,-41.206146],"type":"Point"}
 }

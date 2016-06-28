@@ -2,13 +2,14 @@
   "id": 186541217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.030319,-39.926575,175.030319,-39.926575",
     "geom:latitude":-39.926575,
     "geom:longitude":175.030319,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Parsons St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186541217,
-    "wof:lastmodified":1449050545,
+    "wof:lastmodified":1466312871,
     "wof:name":"Lorriene Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.030319,-39.926575,175.030319,-39.926575],
-  "geometry": {"coordinates":[175.030319,-39.926575],"type":"Point"}
+  "bbox": [
+    175.030319,
+    -39.926575,
+    175.030319,
+    -39.926575
+],
+  "geometry": {"coordinates":[175.03031899999999,-39.926575],"type":"Point"}
 }

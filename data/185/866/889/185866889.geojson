@@ -2,13 +2,14 @@
   "id": 185866889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.613037,-36.89822,174.613037,-36.89822",
     "geom:latitude":-36.89822,
     "geom:longitude":174.613037,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Henderson Valley Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185866889,
-    "wof:lastmodified":1449007383,
+    "wof:lastmodified":1466311668,
     "wof:name":"Old MacDonald's Country Kindy",
     "wof:parent_id":85781035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.613037,-36.89822,174.613037,-36.89822],
-  "geometry": {"coordinates":[174.613037,-36.89822],"type":"Point"}
+  "bbox": [
+    174.613037,
+    -36.89822,
+    174.613037,
+    -36.89822
+],
+  "geometry": {"coordinates":[174.61303699999999,-36.89822],"type":"Point"}
 }

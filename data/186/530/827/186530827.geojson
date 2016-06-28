@@ -2,13 +2,14 @@
   "id": 186530827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.797592,-36.830509,174.797592,-36.830509",
     "geom:latitude":-36.830509,
     "geom:longitude":174.797592,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 B Victoria Rd Devonport ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186530827,
-    "wof:lastmodified":1449051801,
+    "wof:lastmodified":1466312844,
     "wof:name":"Skin Sense Beauty Therapy Clinic",
     "wof:parent_id":85778259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.797592,-36.830509,174.797592,-36.830509],
-  "geometry": {"coordinates":[174.797592,-36.830509],"type":"Point"}
+  "bbox": [
+    174.797592,
+    -36.830509,
+    174.797592,
+    -36.830509
+],
+  "geometry": {"coordinates":[174.79759200000001,-36.830509],"type":"Point"}
 }

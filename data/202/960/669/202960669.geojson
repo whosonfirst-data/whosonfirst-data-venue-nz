@@ -2,13 +2,14 @@
   "id": 202960669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.589081,-40.369877,175.589081,-40.369877",
     "geom:latitude":-40.369877,
     "geom:longitude":175.589081,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Nottingham Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202960669,
-    "wof:lastmodified":1449061918,
+    "wof:lastmodified":1466312994,
     "wof:name":"The Vegetable Garden Company",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.589081,-40.369877,175.589081,-40.369877],
-  "geometry": {"coordinates":[175.589081,-40.369877],"type":"Point"}
+  "bbox": [
+    175.589081,
+    -40.369877,
+    175.589081,
+    -40.369877
+],
+  "geometry": {"coordinates":[175.58908099999999,-40.369877],"type":"Point"}
 }

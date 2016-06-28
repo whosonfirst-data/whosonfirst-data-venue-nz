@@ -2,13 +2,14 @@
   "id": 186113919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.638474,-36.909054,174.638474,-36.909054",
     "geom:latitude":-36.909054,
     "geom:longitude":174.638474,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"378 West Coast Rd Glen Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186113919,
-    "wof:lastmodified":1449052804,
+    "wof:lastmodified":1466310658,
     "wof:name":"Main Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.638474,-36.909054,174.638474,-36.909054],
+  "bbox": [
+    174.638474,
+    -36.909054,
+    174.638474,
+    -36.909054
+],
   "geometry": {"coordinates":[174.638474,-36.909054],"type":"Point"}
 }

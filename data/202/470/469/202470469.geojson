@@ -2,13 +2,14 @@
   "id": 202470469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.71698,-36.782009,174.71698,-36.782009",
     "geom:latitude":-36.782009,
     "geom:longitude":174.71698,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Waverley St ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202470469,
-    "wof:lastmodified":1449060729,
+    "wof:lastmodified":1466311930,
     "wof:name":"Harris A R Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [174.71698,-36.782009,174.71698,-36.782009],
-  "geometry": {"coordinates":[174.71698,-36.782009],"type":"Point"}
+  "bbox": [
+    174.71698,
+    -36.782009,
+    174.71698,
+    -36.782009
+],
+  "geometry": {"coordinates":[174.71698000000001,-36.782009],"type":"Point"}
 }

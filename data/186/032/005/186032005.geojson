@@ -2,13 +2,14 @@
   "id": 186032005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.550278,-43.536201,172.550278,-43.536201",
     "geom:latitude":-43.536201,
     "geom:longitude":172.550278,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 A Epsom Rd Sockburn ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186032005,
-    "wof:lastmodified":1449051691,
+    "wof:lastmodified":1466312025,
     "wof:name":"Donco Services Limited",
     "wof:parent_id":85778617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.550278,-43.536201,172.550278,-43.536201],
-  "geometry": {"coordinates":[172.550278,-43.536201],"type":"Point"}
+  "bbox": [
+    172.550278,
+    -43.536201,
+    172.550278,
+    -43.536201
+],
+  "geometry": {"coordinates":[172.55027799999999,-43.536201],"type":"Point"}
 }

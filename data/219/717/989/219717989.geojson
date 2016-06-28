@@ -2,13 +2,14 @@
   "id": 219717989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.891129,-39.487942,176.891129,-39.487942",
     "geom:latitude":-39.487942,
     "geom:longitude":176.891129,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Pandora Rd ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219717989,
-    "wof:lastmodified":1449070459,
+    "wof:lastmodified":1466312856,
     "wof:name":"Hawkes Bay Caravan Sales Ltd",
     "wof:parent_id":85773129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.891129,-39.487942,176.891129,-39.487942],
-  "geometry": {"coordinates":[176.891129,-39.487942],"type":"Point"}
+  "bbox": [
+    176.891129,
+    -39.487942,
+    176.891129,
+    -39.487942
+],
+  "geometry": {"coordinates":[176.89112900000001,-39.487942],"type":"Point"}
 }

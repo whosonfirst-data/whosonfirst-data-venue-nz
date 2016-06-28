@@ -2,13 +2,14 @@
   "id": 186195657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.354797,-46.408394,168.354797,-46.408394",
     "geom:latitude":-46.408394,
     "geom:longitude":168.354797,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Yarrow St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186195657,
-    "wof:lastmodified":1449052129,
+    "wof:lastmodified":1466311357,
     "wof:name":"Paykels",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.354797,-46.408394,168.354797,-46.408394],
-  "geometry": {"coordinates":[168.354797,-46.408394],"type":"Point"}
+  "bbox": [
+    168.354797,
+    -46.408394,
+    168.354797,
+    -46.408394
+],
+  "geometry": {"coordinates":[168.35479699999999,-46.408394],"type":"Point"}
 }

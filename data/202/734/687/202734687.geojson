@@ -2,13 +2,14 @@
   "id": 202734687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.878204,42.615543,-70.878204,42.615543",
     "geom:latitude":42.615543,
     "geom:longitude":-70.878204,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Northway St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202734687,
-    "wof:lastmodified":1449062336,
+    "wof:lastmodified":1466312262,
     "wof:name":"Miniskips (Hamilton)",
     "wof:parent_id":85803695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "home"
     ]
 },
-  "bbox": [-70.878204,42.615543,-70.878204,42.615543],
+  "bbox": [
+    -70.878204,
+    42.615543,
+    -70.878204,
+    42.615543
+],
   "geometry": {"coordinates":[-70.878204,42.615543],"type":"Point"}
 }

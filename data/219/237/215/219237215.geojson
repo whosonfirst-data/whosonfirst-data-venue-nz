@@ -2,13 +2,14 @@
   "id": 219237215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.701935,-36.908279,174.701935,-36.908279",
     "geom:latitude":-36.908279,
     "geom:longitude":174.701935,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4/312 Blockhouse Bay Rd Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219237215,
-    "wof:lastmodified":1449070456,
+    "wof:lastmodified":1466311882,
     "wof:name":"Kohu Distributors",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.701935,-36.908279,174.701935,-36.908279],
-  "geometry": {"coordinates":[174.701935,-36.908279],"type":"Point"}
+  "bbox": [
+    174.701935,
+    -36.908279,
+    174.701935,
+    -36.908279
+],
+  "geometry": {"coordinates":[174.70193499999999,-36.908279],"type":"Point"}
 }

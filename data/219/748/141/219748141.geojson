@@ -2,13 +2,14 @@
   "id": 219748141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.534576,47.947578,-100.534576,47.947578",
     "geom:latitude":47.947578,
     "geom:longitude":-100.534576,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Hwy 94 ",
     "sg:city":"Balfour",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219748141,
-    "wof:lastmodified":1449073047,
+    "wof:lastmodified":1466312991,
     "wof:name":"MacGregor Motors (Balfour) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "servicing"
     ]
 },
-  "bbox": [-100.534576,47.947578,-100.534576,47.947578],
+  "bbox": [
+    -100.534576,
+    47.947578,
+    -100.534576,
+    47.947578
+],
   "geometry": {"coordinates":[-100.534576,47.947578],"type":"Point"}
 }

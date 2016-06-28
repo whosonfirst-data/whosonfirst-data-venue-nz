@@ -2,13 +2,14 @@
   "id": 236018101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.704849,-36.86351,174.704849,-36.86351",
     "geom:latitude":-36.86351,
     "geom:longitude":174.704849,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Pt Chevalier Rd Point Chevalier ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236018101,
-    "wof:lastmodified":1449003260,
+    "wof:lastmodified":1466310950,
     "wof:name":"Millie McGinty's Cafe",
     "wof:parent_id":85773121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "takeaway"
     ]
 },
-  "bbox": [174.704849,-36.86351,174.704849,-36.86351],
+  "bbox": [
+    174.704849,
+    -36.86351,
+    174.704849,
+    -36.86351
+],
   "geometry": {"coordinates":[174.704849,-36.86351],"type":"Point"}
 }

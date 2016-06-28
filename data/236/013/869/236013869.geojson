@@ -2,13 +2,14 @@
   "id": 236013869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.599533,-40.36935,175.599533,-40.36935",
     "geom:latitude":-40.36935,
     "geom:longitude":175.599533,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"193 College St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236013869,
-    "wof:lastmodified":1449003970,
+    "wof:lastmodified":1466310866,
     "wof:name":"Fishworld Takeaways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "takeaway"
     ]
 },
-  "bbox": [175.599533,-40.36935,175.599533,-40.36935],
-  "geometry": {"coordinates":[175.599533,-40.36935],"type":"Point"}
+  "bbox": [
+    175.599533,
+    -40.36935,
+    175.599533,
+    -40.36935
+],
+  "geometry": {"coordinates":[175.59953300000001,-40.36935],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203043111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.755951,-37.977974,175.755951,-37.977974",
     "geom:latitude":-37.977974,
     "geom:longitude":175.755951,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Church St ",
     "sg:city":"Tirau",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203043111,
-    "wof:lastmodified":1449026382,
+    "wof:lastmodified":1466311387,
     "wof:name":"South Waikato Waste Disposal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "septic"
     ]
 },
-  "bbox": [175.755951,-37.977974,175.755951,-37.977974],
-  "geometry": {"coordinates":[175.755951,-37.977974],"type":"Point"}
+  "bbox": [
+    175.755951,
+    -37.977974,
+    175.755951,
+    -37.977974
+],
+  "geometry": {"coordinates":[175.75595100000001,-37.977974],"type":"Point"}
 }

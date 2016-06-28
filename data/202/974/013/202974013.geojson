@@ -2,13 +2,14 @@
   "id": 202974013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.177628,-37.717072,176.177628,-37.717072",
     "geom:latitude":-37.717072,
     "geom:longitude":176.177628,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Maungatapu Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202974013,
-    "wof:lastmodified":1449062325,
+    "wof:lastmodified":1466313010,
     "wof:name":"Pinewood Landscapes",
     "wof:parent_id":85782081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.177628,-37.717072,176.177628,-37.717072],
+  "bbox": [
+    176.177628,
+    -37.717072,
+    176.177628,
+    -37.717072
+],
   "geometry": {"coordinates":[176.177628,-37.717072],"type":"Point"}
 }

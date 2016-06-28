@@ -2,13 +2,14 @@
   "id": 186055751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.89978,-36.914951,174.89978,-36.914951",
     "geom:latitude":-36.914951,
     "geom:longitude":174.89978,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Ben Lomond Cre Pakuranga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186055751,
-    "wof:lastmodified":1449050999,
+    "wof:lastmodified":1466311559,
     "wof:name":"The Soap Factory Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "compounds"
     ]
 },
-  "bbox": [174.89978,-36.914951,174.89978,-36.914951],
-  "geometry": {"coordinates":[174.89978,-36.914951],"type":"Point"}
+  "bbox": [
+    174.89978,
+    -36.914951,
+    174.89978,
+    -36.914951
+],
+  "geometry": {"coordinates":[174.89977999999999,-36.914951],"type":"Point"}
 }

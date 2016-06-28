@@ -2,13 +2,14 @@
   "id": 202632841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.980042,-40.930645,174.980042,-40.930645",
     "geom:latitude":-40.930645,
     "geom:longitude":174.980042,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Wellington PO Box 7400 Wellington South ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202632841,
-    "wof:lastmodified":1449061706,
+    "wof:lastmodified":1466311786,
     "wof:name":"Ampco Lift & Electrical Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "related"
     ]
 },
-  "bbox": [174.980042,-40.930645,174.980042,-40.930645],
+  "bbox": [
+    174.980042,
+    -40.930645,
+    174.980042,
+    -40.930645
+],
   "geometry": {"coordinates":[174.980042,-40.930645],"type":"Point"}
 }

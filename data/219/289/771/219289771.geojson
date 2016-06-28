@@ -2,13 +2,14 @@
   "id": 219289771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.009003,-41.293903,174.009003,-41.293903",
     "geom:latitude":-41.293903,
     "geom:longitude":174.009003,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Otago St ",
     "sg:city":"Picton",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219289771,
-    "wof:lastmodified":1449073329,
+    "wof:lastmodified":1466310856,
     "wof:name":"Grandvue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.009003,-41.293903,174.009003,-41.293903],
-  "geometry": {"coordinates":[174.009003,-41.293903],"type":"Point"}
+  "bbox": [
+    174.009003,
+    -41.293903,
+    174.009003,
+    -41.293903
+],
+  "geometry": {"coordinates":[174.00900300000001,-41.293903],"type":"Point"}
 }

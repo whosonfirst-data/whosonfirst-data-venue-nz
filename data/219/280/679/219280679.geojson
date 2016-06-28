@@ -2,13 +2,14 @@
   "id": 219280679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.841476,-41.83548,172.841476,-41.83548",
     "geom:latitude":-41.83548,
     "geom:longitude":172.841476,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 63 Lake Rotoiti St ",
     "sg:city":"Arnaud",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219280679,
-    "wof:lastmodified":1449072119,
+    "wof:lastmodified":1466310785,
     "wof:name":"The Yellow House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.841476,-41.83548,172.841476,-41.83548],
+  "bbox": [
+    172.841476,
+    -41.83548,
+    172.841476,
+    -41.83548
+],
   "geometry": {"coordinates":[172.841476,-41.83548],"type":"Point"}
 }

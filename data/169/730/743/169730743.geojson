@@ -2,13 +2,14 @@
   "id": 169730743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.768005,-36.845348,174.768005,-36.845348",
     "geom:latitude":-36.845348,
     "geom:longitude":174.768005,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Commerce St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169730743,
-    "wof:lastmodified":1449035432,
+    "wof:lastmodified":1466311146,
     "wof:name":"E-Mart",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.768005,-36.845348,174.768005,-36.845348],
-  "geometry": {"coordinates":[174.768005,-36.845348],"type":"Point"}
+  "bbox": [
+    174.768005,
+    -36.845348,
+    174.768005,
+    -36.845348
+],
+  "geometry": {"coordinates":[174.76800499999999,-36.845348],"type":"Point"}
 }

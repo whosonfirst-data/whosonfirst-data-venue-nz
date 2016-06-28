@@ -2,13 +2,14 @@
   "id": 186017801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.25293,-44.400078,171.25293,-44.400078",
     "geom:latitude":-44.400078,
     "geom:longitude":171.25293,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Latter St ",
     "sg:city":"Timaru",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186017801,
-    "wof:lastmodified":1449051799,
+    "wof:lastmodified":1466310843,
     "wof:name":"Robbies Timaru Bar & Bistro",
     "wof:parent_id":85782507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [171.25293,-44.400078,171.25293,-44.400078],
-  "geometry": {"coordinates":[171.25293,-44.400078],"type":"Point"}
+  "bbox": [
+    171.25293,
+    -44.400078,
+    171.25293,
+    -44.400078
+],
+  "geometry": {"coordinates":[171.25292999999999,-44.400078],"type":"Point"}
 }

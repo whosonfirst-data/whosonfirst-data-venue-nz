@@ -2,13 +2,14 @@
   "id": 185907929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.650299,-43.520397,172.650299,-43.520397",
     "geom:latitude":-43.520397,
     "geom:longitude":172.650299,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Whitmore St Edgeware ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185907929,
-    "wof:lastmodified":1449008093,
+    "wof:lastmodified":1466311922,
     "wof:name":"Peninsula & Alpine 4x4 Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.650299,-43.520397,172.650299,-43.520397],
-  "geometry": {"coordinates":[172.650299,-43.520397],"type":"Point"}
+  "bbox": [
+    172.650299,
+    -43.520397,
+    172.650299,
+    -43.520397
+],
+  "geometry": {"coordinates":[172.65029899999999,-43.520397],"type":"Point"}
 }

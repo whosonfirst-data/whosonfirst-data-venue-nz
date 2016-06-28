@@ -2,13 +2,14 @@
   "id": 203115711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.637482,-43.547424,172.637482,-43.547424",
     "geom:latitude":-43.547424,
     "geom:longitude":172.637482,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Christchurch Studio 494 A Colombo St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203115711,
-    "wof:lastmodified":1449024929,
+    "wof:lastmodified":1466310656,
     "wof:name":"Graphic Addiction",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garden"
     ]
 },
-  "bbox": [172.637482,-43.547424,172.637482,-43.547424],
-  "geometry": {"coordinates":[172.637482,-43.547424],"type":"Point"}
+  "bbox": [
+    172.637482,
+    -43.547424,
+    172.637482,
+    -43.547424
+],
+  "geometry": {"coordinates":[172.63748200000001,-43.547424],"type":"Point"}
 }

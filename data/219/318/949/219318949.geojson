@@ -2,13 +2,14 @@
   "id": 219318949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.755692,-43.565929,172.755692,-43.565929",
     "geom:latitude":-43.565929,
     "geom:longitude":172.755692,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Rd ",
     "sg:city":"Mokau",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219318949,
-    "wof:lastmodified":1449071178,
+    "wof:lastmodified":1466311101,
     "wof:name":"Awakino Hotel",
     "wof:parent_id":85778629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accommodation"
     ]
 },
-  "bbox": [172.755692,-43.565929,172.755692,-43.565929],
-  "geometry": {"coordinates":[172.755692,-43.565929],"type":"Point"}
+  "bbox": [
+    172.755692,
+    -43.565929,
+    172.755692,
+    -43.565929
+],
+  "geometry": {"coordinates":[172.75569200000001,-43.565929],"type":"Point"}
 }

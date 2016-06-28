@@ -2,13 +2,14 @@
   "id": 219211087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.240753,-38.905975,175.240753,-38.905975",
     "geom:latitude":-38.905975,
     "geom:longitude":175.240753,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Mania Rd ",
     "sg:city":"Taumarunui",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219211087,
-    "wof:lastmodified":1449071268,
+    "wof:lastmodified":1466311602,
     "wof:name":"Coombs K G & L M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.240753,-38.905975,175.240753,-38.905975],
-  "geometry": {"coordinates":[175.240753,-38.905975],"type":"Point"}
+  "bbox": [
+    175.240753,
+    -38.905975,
+    175.240753,
+    -38.905975
+],
+  "geometry": {"coordinates":[175.24075300000001,-38.905975],"type":"Point"}
 }

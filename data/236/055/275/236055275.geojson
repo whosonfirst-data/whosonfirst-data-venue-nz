@@ -2,13 +2,14 @@
   "id": 236055275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.934298,-41.17534,174.934298,-41.17534",
     "geom:latitude":-41.17534,
     "geom:longitude":174.934298,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 2486 Level 2, 107 Cashel Street",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":236055275,
-    "wof:lastmodified":1449002236,
+    "wof:lastmodified":1466311261,
     "wof:name":"Zeadoo",
     "wof:parent_id":85778389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "customizable-homepage"
     ]
 },
-  "bbox": [174.934298,-41.17534,174.934298,-41.17534],
-  "geometry": {"coordinates":[174.934298,-41.17534],"type":"Point"}
+  "bbox": [
+    174.934298,
+    -41.17534,
+    174.934298,
+    -41.17534
+],
+  "geometry": {"coordinates":[174.93429800000001,-41.17534],"type":"Point"}
 }

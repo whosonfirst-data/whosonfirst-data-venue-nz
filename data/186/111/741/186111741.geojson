@@ -2,13 +2,14 @@
   "id": 186111741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.800858,-36.923897,174.800858,-36.923897",
     "geom:latitude":-36.923897,
     "geom:longitude":174.800858,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Captain Springs Rd Te Papapa ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186111741,
-    "wof:lastmodified":1449053103,
+    "wof:lastmodified":1466310639,
     "wof:name":"Captain Springs Automotive Ltd",
     "wof:parent_id":85778677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.800858,-36.923897,174.800858,-36.923897],
-  "geometry": {"coordinates":[174.800858,-36.923897],"type":"Point"}
+  "bbox": [
+    174.800858,
+    -36.923897,
+    174.800858,
+    -36.923897
+],
+  "geometry": {"coordinates":[174.80085800000001,-36.923897],"type":"Point"}
 }

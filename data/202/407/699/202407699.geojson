@@ -2,13 +2,14 @@
   "id": 202407699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.023514,-41.141331,175.023514,-41.141331",
     "geom:latitude":-41.141331,
     "geom:longitude":175.023514,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Heretaunga Block Hutt Hospital High St Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202407699,
-    "wof:lastmodified":1449061511,
+    "wof:lastmodified":1466311256,
     "wof:name":"BreastScreen Central",
     "wof:parent_id":85772957,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.023514,-41.141331,175.023514,-41.141331],
-  "geometry": {"coordinates":[175.023514,-41.141331],"type":"Point"}
+  "bbox": [
+    175.023514,
+    -41.141331,
+    175.023514,
+    -41.141331
+],
+  "geometry": {"coordinates":[175.02351400000001,-41.141331],"type":"Point"}
 }

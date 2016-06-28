@@ -2,13 +2,14 @@
   "id": 185658747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.451782,-36.683239,174.451782,-36.683239",
     "geom:latitude":-36.683239,
     "geom:longitude":174.451782,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Woodhill R D 2 ",
     "sg:city":"Helensville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185658747,
-    "wof:lastmodified":1449006565,
+    "wof:lastmodified":1466311611,
     "wof:name":"Meadows G W",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "author"
     ]
 },
-  "bbox": [174.451782,-36.683239,174.451782,-36.683239],
-  "geometry": {"coordinates":[174.451782,-36.683239],"type":"Point"}
+  "bbox": [
+    174.451782,
+    -36.683239,
+    174.451782,
+    -36.683239
+],
+  "geometry": {"coordinates":[174.45178200000001,-36.683239],"type":"Point"}
 }

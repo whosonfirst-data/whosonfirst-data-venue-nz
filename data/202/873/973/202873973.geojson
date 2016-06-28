@@ -2,13 +2,14 @@
   "id": 202873973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.316376,-35.729183,174.316376,-35.729183",
     "geom:latitude":-35.729183,
     "geom:longitude":174.316376,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Porowini Ave ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202873973,
-    "wof:lastmodified":1449060647,
+    "wof:lastmodified":1466312747,
     "wof:name":"Brian J Green",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [174.316376,-35.729183,174.316376,-35.729183],
-  "geometry": {"coordinates":[174.316376,-35.729183],"type":"Point"}
+  "bbox": [
+    174.316376,
+    -35.729183,
+    174.316376,
+    -35.729183
+],
+  "geometry": {"coordinates":[174.31637599999999,-35.729183],"type":"Point"}
 }

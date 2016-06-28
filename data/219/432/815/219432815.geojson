@@ -2,13 +2,14 @@
   "id": 219432815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.74884,-36.843704,174.74884,-36.843704",
     "geom:latitude":-36.843704,
     "geom:longitude":174.74884,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 2 1 London St St Marys Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219432815,
-    "wof:lastmodified":1449070320,
+    "wof:lastmodified":1466312014,
     "wof:name":"Tourism Consulting, Gordon Campbell",
     "wof:parent_id":85781863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "tourism"
     ]
 },
-  "bbox": [174.74884,-36.843704,174.74884,-36.843704],
+  "bbox": [
+    174.74884,
+    -36.843704,
+    174.74884,
+    -36.843704
+],
   "geometry": {"coordinates":[174.74884,-36.843704],"type":"Point"}
 }

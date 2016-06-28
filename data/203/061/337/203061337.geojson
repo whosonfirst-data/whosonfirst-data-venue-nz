@@ -2,13 +2,14 @@
   "id": 203061337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.366196,-35.759029,174.366196,-35.759029",
     "geom:latitude":-35.759029,
     "geom:longitude":174.366196,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 B Pine Park Rd Onerahi ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203061337,
-    "wof:lastmodified":1449026337,
+    "wof:lastmodified":1466311617,
     "wof:name":"Just Fencing",
     "wof:parent_id":85773083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [174.366196,-35.759029,174.366196,-35.759029],
+  "bbox": [
+    174.366196,
+    -35.759029,
+    174.366196,
+    -35.759029
+],
   "geometry": {"coordinates":[174.366196,-35.759029],"type":"Point"}
 }

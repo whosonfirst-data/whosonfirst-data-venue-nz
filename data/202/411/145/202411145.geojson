@@ -2,13 +2,14 @@
   "id": 202411145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.742111,-36.846527,174.742111,-36.846527",
     "geom:latitude":-36.846527,
     "geom:longitude":174.742111,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Blake St Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202411145,
-    "wof:lastmodified":1449060215,
+    "wof:lastmodified":1466311361,
     "wof:name":"Nurses Society Of NZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.742111,-36.846527,174.742111,-36.846527],
-  "geometry": {"coordinates":[174.742111,-36.846527],"type":"Point"}
+  "bbox": [
+    174.742111,
+    -36.846527,
+    174.742111,
+    -36.846527
+],
+  "geometry": {"coordinates":[174.74211099999999,-36.846527],"type":"Point"}
 }

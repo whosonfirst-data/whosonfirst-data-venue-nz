@@ -2,13 +2,14 @@
   "id": 169717069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.140076,-37.668262,176.140076,-37.668262",
     "geom:latitude":-37.668262,
     "geom:longitude":176.140076,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Cherrywood Dve Otumoetai ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169717069,
-    "wof:lastmodified":1449032772,
+    "wof:lastmodified":1466311045,
     "wof:name":"Cherrywood Bookshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.140076,-37.668262,176.140076,-37.668262],
-  "geometry": {"coordinates":[176.140076,-37.668262],"type":"Point"}
+  "bbox": [
+    176.140076,
+    -37.668262,
+    176.140076,
+    -37.668262
+],
+  "geometry": {"coordinates":[176.14007599999999,-37.668262],"type":"Point"}
 }

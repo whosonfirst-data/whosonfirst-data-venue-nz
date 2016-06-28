@@ -2,13 +2,14 @@
   "id": 203386665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.006409,-39.945156,175.006409,-39.945156",
     "geom:latitude":-39.945156,
     "geom:longitude":175.006409,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Hinau St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203386665,
-    "wof:lastmodified":1449025936,
+    "wof:lastmodified":1466312531,
     "wof:name":"Teknicraft Marine Ltd",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "boat"
     ]
 },
-  "bbox": [175.006409,-39.945156,175.006409,-39.945156],
-  "geometry": {"coordinates":[175.006409,-39.945156],"type":"Point"}
+  "bbox": [
+    175.006409,
+    -39.945156,
+    175.006409,
+    -39.945156
+],
+  "geometry": {"coordinates":[175.00640899999999,-39.945156],"type":"Point"}
 }

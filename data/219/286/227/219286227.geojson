@@ -2,13 +2,14 @@
   "id": 219286227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.999924,-37.951202,176.999924,-37.951202",
     "geom:latitude":-37.951202,
     "geom:longitude":176.999924,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Clifton Rd ",
     "sg:city":"Whakatane",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219286227,
-    "wof:lastmodified":1449071322,
+    "wof:lastmodified":1466310828,
     "wof:name":"Clifton Manor",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accommodation"
     ]
 },
-  "bbox": [176.999924,-37.951202,176.999924,-37.951202],
-  "geometry": {"coordinates":[176.999924,-37.951202],"type":"Point"}
+  "bbox": [
+    176.999924,
+    -37.951202,
+    176.999924,
+    -37.951202
+],
+  "geometry": {"coordinates":[176.99992399999999,-37.951202],"type":"Point"}
 }

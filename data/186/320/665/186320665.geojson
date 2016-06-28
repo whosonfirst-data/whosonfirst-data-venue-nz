@@ -2,13 +2,14 @@
   "id": 186320665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.257095,-37.80164,175.257095,-37.80164",
     "geom:latitude":-37.80164,
     "geom:longitude":175.257095,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Duke St Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186320665,
-    "wof:lastmodified":1449051071,
+    "wof:lastmodified":1466312155,
     "wof:name":"Waikato Steel Fabricators",
     "wof:parent_id":85781735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.257095,-37.80164,175.257095,-37.80164],
-  "geometry": {"coordinates":[175.257095,-37.80164],"type":"Point"}
+  "bbox": [
+    175.257095,
+    -37.80164,
+    175.257095,
+    -37.80164
+],
+  "geometry": {"coordinates":[175.25709499999999,-37.80164],"type":"Point"}
 }

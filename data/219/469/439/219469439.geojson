@@ -2,13 +2,14 @@
   "id": 219469439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.060257,-39.920155,175.060257,-39.920155",
     "geom:latitude":-39.920155,
     "geom:longitude":175.060257,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Nixon St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219469439,
-    "wof:lastmodified":1449074021,
+    "wof:lastmodified":1466312225,
     "wof:name":"The Maths Tutor",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [175.060257,-39.920155,175.060257,-39.920155],
-  "geometry": {"coordinates":[175.060257,-39.920155],"type":"Point"}
+  "bbox": [
+    175.060257,
+    -39.920155,
+    175.060257,
+    -39.920155
+],
+  "geometry": {"coordinates":[175.06025700000001,-39.920155],"type":"Point"}
 }

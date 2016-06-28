@@ -2,13 +2,14 @@
   "id": 169556871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.097931,-39.068092,174.097931,-39.068092",
     "geom:latitude":-39.068092,
     "geom:longitude":174.097931,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Awanui St Merrilands New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169556871,
-    "wof:lastmodified":1449033505,
+    "wof:lastmodified":1466310922,
     "wof:name":"Super Snacks",
     "wof:parent_id":85780851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.097931,-39.068092,174.097931,-39.068092],
-  "geometry": {"coordinates":[174.097931,-39.068092],"type":"Point"}
+  "bbox": [
+    174.097931,
+    -39.068092,
+    174.097931,
+    -39.068092
+],
+  "geometry": {"coordinates":[174.09793099999999,-39.068092],"type":"Point"}
 }

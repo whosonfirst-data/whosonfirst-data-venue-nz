@@ -2,13 +2,14 @@
   "id": 202502451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.693359,-36.743019,174.693359,-36.743019",
     "geom:latitude":-36.743019,
     "geom:longitude":174.693359,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit B4 400 Rosedale Rd Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202502451,
-    "wof:lastmodified":1449061287,
+    "wof:lastmodified":1466310680,
     "wof:name":"Keith Hammond, DC",
     "wof:parent_id":85781179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.693359,-36.743019,174.693359,-36.743019],
-  "geometry": {"coordinates":[174.693359,-36.743019],"type":"Point"}
+  "bbox": [
+    174.693359,
+    -36.743019,
+    174.693359,
+    -36.743019
+],
+  "geometry": {"coordinates":[174.69335899999999,-36.743019],"type":"Point"}
 }

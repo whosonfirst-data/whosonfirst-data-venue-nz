@@ -2,13 +2,14 @@
   "id": 185737439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.657333,-40.94931,175.657333,-40.94931",
     "geom:latitude":-40.94931,
     "geom:longitude":175.657333,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Chapel & King Sts ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185737439,
-    "wof:lastmodified":1449006977,
+    "wof:lastmodified":1466310812,
     "wof:name":"United Video Masterton",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "entertainment"
     ]
 },
-  "bbox": [175.657333,-40.94931,175.657333,-40.94931],
-  "geometry": {"coordinates":[175.657333,-40.94931],"type":"Point"}
+  "bbox": [
+    175.657333,
+    -40.94931,
+    175.657333,
+    -40.94931
+],
+  "geometry": {"coordinates":[175.65733299999999,-40.94931],"type":"Point"}
 }

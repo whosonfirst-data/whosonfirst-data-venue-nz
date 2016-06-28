@@ -2,13 +2,14 @@
   "id": 219308781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.991058,-45.071503,170.991058,-45.071503",
     "geom:latitude":-45.071503,
     "geom:longitude":170.991058,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Thames Hwy Oamaru North ",
     "sg:city":"Oamaru",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219308781,
-    "wof:lastmodified":1449074025,
+    "wof:lastmodified":1466311010,
     "wof:name":"Colonial Lodge Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accommodation"
     ]
 },
-  "bbox": [170.991058,-45.071503,170.991058,-45.071503],
-  "geometry": {"coordinates":[170.991058,-45.071503],"type":"Point"}
+  "bbox": [
+    170.991058,
+    -45.071503,
+    170.991058,
+    -45.071503
+],
+  "geometry": {"coordinates":[170.99105800000001,-45.071503],"type":"Point"}
 }

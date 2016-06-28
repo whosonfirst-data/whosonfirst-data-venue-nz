@@ -2,13 +2,14 @@
   "id": 169840507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.943848,-35.233288,173.943848,-35.233288",
     "geom:latitude":-35.233288,
     "geom:longitude":173.943848,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Kerikeri Rd ",
     "sg:city":"Kerikeri",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169840507,
-    "wof:lastmodified":1449035213,
+    "wof:lastmodified":1466311957,
     "wof:name":"High Voltage Surf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.943848,-35.233288,173.943848,-35.233288],
+  "bbox": [
+    173.943848,
+    -35.233288,
+    173.943848,
+    -35.233288
+],
   "geometry": {"coordinates":[173.943848,-35.233288],"type":"Point"}
 }

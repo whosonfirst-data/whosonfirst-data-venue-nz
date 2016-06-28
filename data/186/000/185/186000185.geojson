@@ -2,13 +2,14 @@
   "id": 186000185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.579056,-40.366283,175.579056,-40.366283",
     "geom:latitude":-40.366283,
     "geom:longitude":175.579056,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Caroline Cre Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186000185,
-    "wof:lastmodified":1449050829,
+    "wof:lastmodified":1466310538,
     "wof:name":"Hislop Val",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.579056,-40.366283,175.579056,-40.366283],
-  "geometry": {"coordinates":[175.579056,-40.366283],"type":"Point"}
+  "bbox": [
+    175.579056,
+    -40.366283,
+    175.579056,
+    -40.366283
+],
+  "geometry": {"coordinates":[175.57905600000001,-40.366283],"type":"Point"}
 }

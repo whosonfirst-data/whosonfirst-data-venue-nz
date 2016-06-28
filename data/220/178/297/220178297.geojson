@@ -2,13 +2,14 @@
   "id": 220178297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.849854,-36.888645,174.849854,-36.888645",
     "geom:latitude":-36.888645,
     "geom:longitude":174.849854,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"145 D Morrin Rd Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220178297,
-    "wof:lastmodified":1449074627,
+    "wof:lastmodified":1466311291,
     "wof:name":"Naked Organics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "veges"
     ]
 },
-  "bbox": [174.849854,-36.888645,174.849854,-36.888645],
-  "geometry": {"coordinates":[174.849854,-36.888645],"type":"Point"}
+  "bbox": [
+    174.849854,
+    -36.888645,
+    174.849854,
+    -36.888645
+],
+  "geometry": {"coordinates":[174.84985399999999,-36.888645],"type":"Point"}
 }

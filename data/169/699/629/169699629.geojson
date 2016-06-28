@@ -2,13 +2,14 @@
   "id": 169699629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.604935,-40.356113,175.604935,-40.356113",
     "geom:latitude":-40.356113,
     "geom:longitude":175.604935,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"83 Bourke St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169699629,
-    "wof:lastmodified":1449033140,
+    "wof:lastmodified":1466310888,
     "wof:name":"Building Recyclers (Manawatu)",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.604935,-40.356113,175.604935,-40.356113],
-  "geometry": {"coordinates":[175.604935,-40.356113],"type":"Point"}
+  "bbox": [
+    175.604935,
+    -40.356113,
+    175.604935,
+    -40.356113
+],
+  "geometry": {"coordinates":[175.60493500000001,-40.356113],"type":"Point"}
 }

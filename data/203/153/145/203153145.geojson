@@ -2,13 +2,14 @@
   "id": 203153145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.748398,-36.71645,174.748398,-36.71645",
     "geom:latitude":-36.71645,
     "geom:longitude":174.748398,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17-19 Clyde Rd Browns Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203153145,
-    "wof:lastmodified":1449026287,
+    "wof:lastmodified":1466310928,
     "wof:name":"Animal Ark",
     "wof:parent_id":85772855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pets"
     ]
 },
-  "bbox": [174.748398,-36.71645,174.748398,-36.71645],
-  "geometry": {"coordinates":[174.748398,-36.71645],"type":"Point"}
+  "bbox": [
+    174.748398,
+    -36.71645,
+    174.748398,
+    -36.71645
+],
+  "geometry": {"coordinates":[174.74839800000001,-36.71645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219729167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.607925,-40.354683,175.607925,-40.354683",
     "geom:latitude":-40.354683,
     "geom:longitude":175.607925,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"107-119 Taonui St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219729167,
-    "wof:lastmodified":1449072160,
+    "wof:lastmodified":1466312772,
     "wof:name":"Z-One Motoring",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "servicing"
     ]
 },
-  "bbox": [175.607925,-40.354683,175.607925,-40.354683],
-  "geometry": {"coordinates":[175.607925,-40.354683],"type":"Point"}
+  "bbox": [
+    175.607925,
+    -40.354683,
+    175.607925,
+    -40.354683
+],
+  "geometry": {"coordinates":[175.60792499999999,-40.354683],"type":"Point"}
 }

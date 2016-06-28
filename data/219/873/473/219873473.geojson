@@ -2,13 +2,14 @@
   "id": 219873473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.877808,-38.232834,175.877808,-38.232834",
     "geom:latitude":-38.232834,
     "geom:longitude":175.877808,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Waratah Pl ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219873473,
-    "wof:lastmodified":1449071128,
+    "wof:lastmodified":1466313151,
     "wof:name":"Waratah Forestry Services",
     "wof:parent_id":85780831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.877808,-38.232834,175.877808,-38.232834],
-  "geometry": {"coordinates":[175.877808,-38.232834],"type":"Point"}
+  "bbox": [
+    175.877808,
+    -38.232834,
+    175.877808,
+    -38.232834
+],
+  "geometry": {"coordinates":[175.87780799999999,-38.232834],"type":"Point"}
 }

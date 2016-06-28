@@ -2,13 +2,14 @@
   "id": 220057097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.866989,-37.004879,174.866989,-37.004879",
     "geom:latitude":-37.004879,
     "geom:longitude":174.866989,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Ash Rd Wiri ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220057097,
-    "wof:lastmodified":1449074425,
+    "wof:lastmodified":1466311707,
     "wof:name":"Tasman Liquor Company Ltd",
     "wof:parent_id":85773349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "drink"
     ]
 },
-  "bbox": [174.866989,-37.004879,174.866989,-37.004879],
-  "geometry": {"coordinates":[174.866989,-37.004879],"type":"Point"}
+  "bbox": [
+    174.866989,
+    -37.004879,
+    174.866989,
+    -37.004879
+],
+  "geometry": {"coordinates":[174.86698899999999,-37.004879],"type":"Point"}
 }

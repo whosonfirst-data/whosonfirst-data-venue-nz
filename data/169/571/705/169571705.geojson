@@ -2,13 +2,14 @@
   "id": 169571705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.348099,-45.875099,170.348099,-45.875099",
     "geom:latitude":-45.875099,
     "geom:longitude":170.348099,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Gordon Rd Mosgiel ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169571705,
-    "wof:lastmodified":1449034949,
+    "wof:lastmodified":1466311158,
     "wof:name":"Health 2000+ Mosgiel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "health"
     ]
 },
-  "bbox": [170.348099,-45.875099,170.348099,-45.875099],
-  "geometry": {"coordinates":[170.348099,-45.875099],"type":"Point"}
+  "bbox": [
+    170.348099,
+    -45.875099,
+    170.348099,
+    -45.875099
+],
+  "geometry": {"coordinates":[170.34809899999999,-45.875099],"type":"Point"}
 }

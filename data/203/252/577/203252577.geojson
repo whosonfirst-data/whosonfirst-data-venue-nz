@@ -2,13 +2,14 @@
   "id": 203252577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.775284,-41.283554,174.775284,-41.283554",
     "geom:latitude":-41.283554,
     "geom:longitude":174.775284,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Lambton Qy ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203252577,
-    "wof:lastmodified":1449025193,
+    "wof:lastmodified":1466311872,
     "wof:name":"Just Jeans",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.775284,-41.283554,174.775284,-41.283554],
+  "bbox": [
+    174.775284,
+    -41.283554,
+    174.775284,
+    -41.283554
+],
   "geometry": {"coordinates":[174.775284,-41.283554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202824241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.123039,34.489861,-93.123039,34.489861",
     "geom:latitude":34.489861,
     "geom:longitude":-93.123039,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Ellis St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202824241,
-    "wof:lastmodified":1449061008,
+    "wof:lastmodified":1466312614,
     "wof:name":"Abbey Furniture & Cabinets Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-93.123039,34.489861,-93.123039,34.489861],
-  "geometry": {"coordinates":[-93.123039,34.489861],"type":"Point"}
+  "bbox": [
+    -93.123039,
+    34.489861,
+    -93.123039,
+    34.489861
+],
+  "geometry": {"coordinates":[-93.12303900000001,34.489861],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202750883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.231049,-40.465851,175.231049,-40.465851",
     "geom:latitude":-40.465851,
     "geom:longitude":175.231049,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Dawick St Foxton Beach ",
     "sg:city":"Foxton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202750883,
-    "wof:lastmodified":1449061662,
+    "wof:lastmodified":1466312311,
     "wof:name":"Riverside at Foxton Beach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [175.231049,-40.465851,175.231049,-40.465851],
-  "geometry": {"coordinates":[175.231049,-40.465851],"type":"Point"}
+  "bbox": [
+    175.231049,
+    -40.465851,
+    175.231049,
+    -40.465851
+],
+  "geometry": {"coordinates":[175.23104900000001,-40.465851],"type":"Point"}
 }

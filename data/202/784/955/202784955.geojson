@@ -2,13 +2,14 @@
   "id": 202784955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.341782,-46.415794,168.341782,-46.415794",
     "geom:latitude":-46.415794,
     "geom:longitude":168.341782,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Mersey St West Invercargill ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202784955,
-    "wof:lastmodified":1449061781,
+    "wof:lastmodified":1466312499,
     "wof:name":"Howley Peter Joinery Ltd",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "kitchen"
     ]
 },
-  "bbox": [168.341782,-46.415794,168.341782,-46.415794],
-  "geometry": {"coordinates":[168.341782,-46.415794],"type":"Point"}
+  "bbox": [
+    168.341782,
+    -46.415794,
+    168.341782,
+    -46.415794
+],
+  "geometry": {"coordinates":[168.34178199999999,-46.415794],"type":"Point"}
 }

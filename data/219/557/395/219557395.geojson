@@ -2,13 +2,14 @@
   "id": 219557395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.502472,-45.893867,170.502472,-45.893867",
     "geom:latitude":-45.893867,
     "geom:longitude":170.502472,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 McBride St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219557395,
-    "wof:lastmodified":1449072922,
+    "wof:lastmodified":1466312374,
     "wof:name":"Otago Auto Trimmers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.502472,-45.893867,170.502472,-45.893867],
-  "geometry": {"coordinates":[170.502472,-45.893867],"type":"Point"}
+  "bbox": [
+    170.502472,
+    -45.893867,
+    170.502472,
+    -45.893867
+],
+  "geometry": {"coordinates":[170.50247200000001,-45.893867],"type":"Point"}
 }

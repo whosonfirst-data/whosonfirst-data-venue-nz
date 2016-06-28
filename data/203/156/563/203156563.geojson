@@ -2,13 +2,14 @@
   "id": 203156563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.159073,-37.65107,175.159073,-37.65107",
     "geom:latitude":-37.65107,
     "geom:longitude":175.159073,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Great South Rd ",
     "sg:city":"Ngaruawahia",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203156563,
-    "wof:lastmodified":1449025308,
+    "wof:lastmodified":1466310958,
     "wof:name":"Goldfish Galore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pets"
     ]
 },
-  "bbox": [175.159073,-37.65107,175.159073,-37.65107],
-  "geometry": {"coordinates":[175.159073,-37.65107],"type":"Point"}
+  "bbox": [
+    175.159073,
+    -37.65107,
+    175.159073,
+    -37.65107
+],
+  "geometry": {"coordinates":[175.15907300000001,-37.65107],"type":"Point"}
 }

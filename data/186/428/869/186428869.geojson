@@ -2,13 +2,14 @@
   "id": 186428869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.241913,-37.795715,175.241913,-37.795715",
     "geom:latitude":-37.795715,
     "geom:longitude":175.241913,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 15022 Dinsdale ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186428869,
-    "wof:lastmodified":1449052853,
+    "wof:lastmodified":1466312672,
     "wof:name":"Thermoplastic Engineering Limited",
     "wof:parent_id":85781735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.241913,-37.795715,175.241913,-37.795715],
-  "geometry": {"coordinates":[175.241913,-37.795715],"type":"Point"}
+  "bbox": [
+    175.241913,
+    -37.795715,
+    175.241913,
+    -37.795715
+],
+  "geometry": {"coordinates":[175.24191300000001,-37.795715],"type":"Point"}
 }

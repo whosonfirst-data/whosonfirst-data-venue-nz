@@ -2,13 +2,14 @@
   "id": 185771327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.566345,-40.224026,175.566345,-40.224026",
     "geom:latitude":-40.224026,
     "geom:longitude":175.566345,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Aorangi St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185771327,
-    "wof:lastmodified":1449007483,
+    "wof:lastmodified":1466311032,
     "wof:name":"Feilding Civic Centre",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.566345,-40.224026,175.566345,-40.224026],
-  "geometry": {"coordinates":[175.566345,-40.224026],"type":"Point"}
+  "bbox": [
+    175.566345,
+    -40.224026,
+    175.566345,
+    -40.224026
+],
+  "geometry": {"coordinates":[175.56634500000001,-40.224026],"type":"Point"}
 }

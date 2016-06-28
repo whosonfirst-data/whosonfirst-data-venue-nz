@@ -2,13 +2,14 @@
   "id": 202594459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.619583,-40.356647,175.619583,-40.356647",
     "geom:latitude":-40.356647,
     "geom:longitude":175.619583,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Ferguson St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202594459,
-    "wof:lastmodified":1449060473,
+    "wof:lastmodified":1466311470,
     "wof:name":"Plato Kitchenware Ltd",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.619583,-40.356647,175.619583,-40.356647],
-  "geometry": {"coordinates":[175.619583,-40.356647],"type":"Point"}
+  "bbox": [
+    175.619583,
+    -40.356647,
+    175.619583,
+    -40.356647
+],
+  "geometry": {"coordinates":[175.61958300000001,-40.356647],"type":"Point"}
 }

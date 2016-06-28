@@ -2,13 +2,14 @@
   "id": 220158019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.663651,-43.55423,172.663651,-43.55423",
     "geom:latitude":-43.55423,
     "geom:longitude":172.663651,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4 Opawa Mall 124 Opawa Rd Opawa ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220158019,
-    "wof:lastmodified":1449074589,
+    "wof:lastmodified":1466311133,
     "wof:name":"Natures Organics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "veges"
     ]
 },
-  "bbox": [172.663651,-43.55423,172.663651,-43.55423],
-  "geometry": {"coordinates":[172.663651,-43.55423],"type":"Point"}
+  "bbox": [
+    172.663651,
+    -43.55423,
+    172.663651,
+    -43.55423
+],
+  "geometry": {"coordinates":[172.66365099999999,-43.55423],"type":"Point"}
 }

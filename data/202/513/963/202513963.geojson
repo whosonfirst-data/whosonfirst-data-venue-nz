@@ -2,13 +2,14 @@
   "id": 202513963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.501526,-45.874901,170.501526,-45.874901",
     "geom:latitude":-45.874901,
     "geom:longitude":170.501526,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 A View St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202513963,
-    "wof:lastmodified":1449061761,
+    "wof:lastmodified":1466310775,
     "wof:name":"MG Diagnostics",
     "wof:parent_id":85782381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialists"
     ]
 },
-  "bbox": [170.501526,-45.874901,170.501526,-45.874901],
-  "geometry": {"coordinates":[170.501526,-45.874901],"type":"Point"}
+  "bbox": [
+    170.501526,
+    -45.874901,
+    170.501526,
+    -45.874901
+],
+  "geometry": {"coordinates":[170.50152600000001,-45.874901],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203201503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.747406,-43.904877,171.747406,-43.904877",
     "geom:latitude":-43.904877,
     "geom:longitude":171.747406,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"260 East St ",
     "sg:city":"Ashburton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203201503,
-    "wof:lastmodified":1449026612,
+    "wof:lastmodified":1466311385,
     "wof:name":"Kidz Korner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [171.747406,-43.904877,171.747406,-43.904877],
-  "geometry": {"coordinates":[171.747406,-43.904877],"type":"Point"}
+  "bbox": [
+    171.747406,
+    -43.904877,
+    171.747406,
+    -43.904877
+],
+  "geometry": {"coordinates":[171.74740600000001,-43.904877],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203063115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.014755,39.217266,-97.014755,39.217266",
     "geom:latitude":39.217266,
     "geom:longitude":-97.014755,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Whitby Rd ",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203063115,
-    "wof:lastmodified":1449025099,
+    "wof:lastmodified":1466311637,
     "wof:name":"Milton Norris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-97.014755,39.217266,-97.014755,39.217266],
-  "geometry": {"coordinates":[-97.014755,39.217266],"type":"Point"}
+  "bbox": [
+    -97.014755,
+    39.217266,
+    -97.014755,
+    39.217266
+],
+  "geometry": {"coordinates":[-97.01475499999999,39.217266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220160495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.866196,-39.6605,176.866196,-39.6605",
     "geom:latitude":-39.6605,
     "geom:longitude":176.866196,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Havelock Rd Havelock North ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220160495,
-    "wof:lastmodified":1449074735,
+    "wof:lastmodified":1466311153,
     "wof:name":"Big Taste Ltd",
     "wof:parent_id":85781049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "veges"
     ]
 },
-  "bbox": [176.866196,-39.6605,176.866196,-39.6605],
+  "bbox": [
+    176.866196,
+    -39.6605,
+    176.866196,
+    -39.6605
+],
   "geometry": {"coordinates":[176.866196,-39.6605],"type":"Point"}
 }

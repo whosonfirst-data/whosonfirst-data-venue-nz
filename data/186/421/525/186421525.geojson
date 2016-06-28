@@ -2,13 +2,14 @@
   "id": 186421525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.230133,-38.130783,176.230133,-38.130783",
     "geom:latitude":-38.130783,
     "geom:longitude":176.230133,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Tallyho St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186421525,
-    "wof:lastmodified":1449052081,
+    "wof:lastmodified":1466312654,
     "wof:name":"Backflow Prevention",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.230133,-38.130783,176.230133,-38.130783],
+  "bbox": [
+    176.230133,
+    -38.130783,
+    176.230133,
+    -38.130783
+],
   "geometry": {"coordinates":[176.230133,-38.130783],"type":"Point"}
 }

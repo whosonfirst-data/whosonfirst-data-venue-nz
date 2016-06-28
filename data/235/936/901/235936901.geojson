@@ -2,13 +2,14 @@
   "id": 235936901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.215332,-41.318417,173.215332,-41.318417",
     "geom:latitude":-41.318417,
     "geom:longitude":173.215332,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"484 Nayland Rd Stoke ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":235936901,
-    "wof:lastmodified":1449008374,
+    "wof:lastmodified":1466310708,
     "wof:name":"ENZAFOODS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "drink"
     ]
 },
-  "bbox": [173.215332,-41.318417,173.215332,-41.318417],
-  "geometry": {"coordinates":[173.215332,-41.318417],"type":"Point"}
+  "bbox": [
+    173.215332,
+    -41.318417,
+    173.215332,
+    -41.318417
+],
+  "geometry": {"coordinates":[173.21533199999999,-41.318417],"type":"Point"}
 }

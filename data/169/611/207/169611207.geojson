@@ -2,13 +2,14 @@
   "id": 169611207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.648514,-40.958015,175.648514,-40.958015",
     "geom:latitude":-40.958015,
     "geom:longitude":175.648514,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"442 Queen St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169611207,
-    "wof:lastmodified":1449035263,
+    "wof:lastmodified":1466311759,
     "wof:name":"Kuripuni Bookshop",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.648514,-40.958015,175.648514,-40.958015],
-  "geometry": {"coordinates":[175.648514,-40.958015],"type":"Point"}
+  "bbox": [
+    175.648514,
+    -40.958015,
+    175.648514,
+    -40.958015
+],
+  "geometry": {"coordinates":[175.64851400000001,-40.958015],"type":"Point"}
 }

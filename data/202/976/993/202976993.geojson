@@ -2,13 +2,14 @@
   "id": 202976993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.573608,-45.855476,170.573608,-45.855476",
     "geom:latitude":-45.855476,
     "geom:longitude":170.573608,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Kea St Burkes ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202976993,
-    "wof:lastmodified":1449061163,
+    "wof:lastmodified":1466313021,
     "wof:name":"Alan Ferguson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.573608,-45.855476,170.573608,-45.855476],
-  "geometry": {"coordinates":[170.573608,-45.855476],"type":"Point"}
+  "bbox": [
+    170.573608,
+    -45.855476,
+    170.573608,
+    -45.855476
+],
+  "geometry": {"coordinates":[170.57360800000001,-45.855476],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202893055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.625748,-40.962223,175.625748,-40.962223",
     "geom:latitude":-40.962223,
     "geom:longitude":175.625748,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"207 High St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202893055,
-    "wof:lastmodified":1449062186,
+    "wof:lastmodified":1466312682,
     "wof:name":"Chapel Mowers & Saws",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "cutter"
     ]
 },
-  "bbox": [175.625748,-40.962223,175.625748,-40.962223],
-  "geometry": {"coordinates":[175.625748,-40.962223],"type":"Point"}
+  "bbox": [
+    175.625748,
+    -40.962223,
+    175.625748,
+    -40.962223
+],
+  "geometry": {"coordinates":[175.62574799999999,-40.962223],"type":"Point"}
 }

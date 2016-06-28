@@ -2,13 +2,14 @@
   "id": 219952511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.297501,-35.66713,174.297501,-35.66713",
     "geom:latitude":-35.66713,
     "geom:longitude":174.297501,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Taylor Rd & State Highway 1 Springs Flat ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219952511,
-    "wof:lastmodified":1449072941,
+    "wof:lastmodified":1466313117,
     "wof:name":"Kauri Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.297501,-35.66713,174.297501,-35.66713],
-  "geometry": {"coordinates":[174.297501,-35.66713],"type":"Point"}
+  "bbox": [
+    174.297501,
+    -35.66713,
+    174.297501,
+    -35.66713
+],
+  "geometry": {"coordinates":[174.29750100000001,-35.66713],"type":"Point"}
 }

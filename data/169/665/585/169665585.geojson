@@ -2,13 +2,14 @@
   "id": 169665585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.808044,-36.882359,174.808044,-36.882359",
     "geom:latitude":-36.882359,
     "geom:longitude":174.808044,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"571 Remuera Rd Remuera ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169665585,
-    "wof:lastmodified":1449033697,
+    "wof:lastmodified":1466310727,
     "wof:name":"Flowers Of St Johns Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.808044,-36.882359,174.808044,-36.882359],
+  "bbox": [
+    174.808044,
+    -36.882359,
+    174.808044,
+    -36.882359
+],
   "geometry": {"coordinates":[174.808044,-36.882359],"type":"Point"}
 }

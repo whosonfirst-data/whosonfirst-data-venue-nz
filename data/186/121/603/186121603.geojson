@@ -2,13 +2,14 @@
   "id": 186121603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.871246,-37.211914,175.871246,-37.211914",
     "geom:latitude":-37.211914,
     "geom:longitude":175.871246,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Whattle Pl ",
     "sg:city":"Whangamata",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186121603,
-    "wof:lastmodified":1449052413,
+    "wof:lastmodified":1466310730,
     "wof:name":"Alpha Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.871246,-37.211914,175.871246,-37.211914],
-  "geometry": {"coordinates":[175.871246,-37.211914],"type":"Point"}
+  "bbox": [
+    175.871246,
+    -37.211914,
+    175.871246,
+    -37.211914
+],
+  "geometry": {"coordinates":[175.87124600000001,-37.211914],"type":"Point"}
 }

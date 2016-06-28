@@ -2,13 +2,14 @@
   "id": 203171615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.165146,-37.689594,176.165146,-37.689594",
     "geom:latitude":-37.689594,
     "geom:longitude":176.165146,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"306 Cameron Road",
     "sg:city":"TAURANGA",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203171615,
-    "wof:lastmodified":1449026870,
+    "wof:lastmodified":1466311092,
     "wof:name":"Chamber of Commerce Tauranga Region Inc",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commerce"
     ]
 },
-  "bbox": [176.165146,-37.689594,176.165146,-37.689594],
-  "geometry": {"coordinates":[176.165146,-37.689594],"type":"Point"}
+  "bbox": [
+    176.165146,
+    -37.689594,
+    176.165146,
+    -37.689594
+],
+  "geometry": {"coordinates":[176.16514599999999,-37.689594],"type":"Point"}
 }

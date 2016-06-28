@@ -2,13 +2,14 @@
   "id": 186287845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.660599,-40.943047,175.660599,-40.943047",
     "geom:latitude":-40.943047,
     "geom:longitude":175.660599,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Bentley St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186287845,
-    "wof:lastmodified":1449050423,
+    "wof:lastmodified":1466312147,
     "wof:name":"Deco Precasters Limited",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.660599,-40.943047,175.660599,-40.943047],
-  "geometry": {"coordinates":[175.660599,-40.943047],"type":"Point"}
+  "bbox": [
+    175.660599,
+    -40.943047,
+    175.660599,
+    -40.943047
+],
+  "geometry": {"coordinates":[175.66059899999999,-40.943047],"type":"Point"}
 }

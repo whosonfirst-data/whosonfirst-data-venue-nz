@@ -2,13 +2,14 @@
   "id": 185663109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.169296,-37.685825,176.169296,-37.685825",
     "geom:latitude":-37.685825,
     "geom:longitude":176.169296,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Devonport Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185663109,
-    "wof:lastmodified":1449007778,
+    "wof:lastmodified":1466312050,
     "wof:name":"Active Outdoor Clothing",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "camping"
     ]
 },
-  "bbox": [176.169296,-37.685825,176.169296,-37.685825],
+  "bbox": [
+    176.169296,
+    -37.685825,
+    176.169296,
+    -37.685825
+],
   "geometry": {"coordinates":[176.169296,-37.685825],"type":"Point"}
 }

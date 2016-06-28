@@ -2,13 +2,14 @@
   "id": 235980615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.773544,-37.81176,175.773544,-37.81176",
     "geom:latitude":-37.81176,
     "geom:longitude":175.773544,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 1 Tirau ",
     "sg:city":"Matamata",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235980615,
-    "wof:lastmodified":1449008304,
+    "wof:lastmodified":1466311407,
     "wof:name":"Highway Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cafe"
     ]
 },
-  "bbox": [175.773544,-37.81176,175.773544,-37.81176],
-  "geometry": {"coordinates":[175.773544,-37.81176],"type":"Point"}
+  "bbox": [
+    175.773544,
+    -37.81176,
+    175.773544,
+    -37.81176
+],
+  "geometry": {"coordinates":[175.77354399999999,-37.81176],"type":"Point"}
 }

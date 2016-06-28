@@ -2,13 +2,14 @@
   "id": 203220893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.009796,-36.782921,175.009796,-36.782921",
     "geom:latitude":-36.782921,
     "geom:longitude":175.009796,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2/124 Ocean View Rd Oneroa ",
     "sg:city":"Waiheke",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":203220893,
-    "wof:lastmodified":1449026804,
+    "wof:lastmodified":1466311557,
     "wof:name":"Chances Surf & Street Wear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.009796,-36.782921,175.009796,-36.782921],
-  "geometry": {"coordinates":[175.009796,-36.782921],"type":"Point"}
+  "bbox": [
+    175.009796,
+    -36.782921,
+    175.009796,
+    -36.782921
+],
+  "geometry": {"coordinates":[175.00979599999999,-36.782921],"type":"Point"}
 }

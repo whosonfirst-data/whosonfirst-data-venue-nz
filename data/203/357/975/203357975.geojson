@@ -2,13 +2,14 @@
   "id": 203357975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.611816,-40.347244,175.611816,-40.347244",
     "geom:latitude":-40.347244,
     "geom:longitude":175.611816,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Featherston St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203357975,
-    "wof:lastmodified":1449026634,
+    "wof:lastmodified":1466312336,
     "wof:name":"Cobbler",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wear"
     ]
 },
-  "bbox": [175.611816,-40.347244,175.611816,-40.347244],
+  "bbox": [
+    175.611816,
+    -40.347244,
+    175.611816,
+    -40.347244
+],
   "geometry": {"coordinates":[175.611816,-40.347244],"type":"Point"}
 }

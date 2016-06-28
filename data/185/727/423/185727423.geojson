@@ -2,13 +2,14 @@
   "id": 185727423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.681107,-43.545036,172.681107,-43.545036",
     "geom:latitude":-43.545036,
     "geom:longitude":172.681107,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Hargood St Woolston ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185727423,
-    "wof:lastmodified":1449006852,
+    "wof:lastmodified":1466310757,
     "wof:name":"TAB",
     "wof:parent_id":85773353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leisure"
     ]
 },
-  "bbox": [172.681107,-43.545036,172.681107,-43.545036],
+  "bbox": [
+    172.681107,
+    -43.545036,
+    172.681107,
+    -43.545036
+],
   "geometry": {"coordinates":[172.681107,-43.545036],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185902729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.799561,-36.824425,174.799561,-36.824425",
     "geom:latitude":-36.824425,
     "geom:longitude":174.799561,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Derby St Devonport ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185902729,
-    "wof:lastmodified":1449007792,
+    "wof:lastmodified":1466311882,
     "wof:name":"Waitemata Golf Club (Inc)",
     "wof:parent_id":85778259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.799561,-36.824425,174.799561,-36.824425],
-  "geometry": {"coordinates":[174.799561,-36.824425],"type":"Point"}
+  "bbox": [
+    174.799561,
+    -36.824425,
+    174.799561,
+    -36.824425
+],
+  "geometry": {"coordinates":[174.79956100000001,-36.824425],"type":"Point"}
 }

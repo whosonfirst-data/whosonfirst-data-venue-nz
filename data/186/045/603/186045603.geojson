@@ -2,13 +2,14 @@
   "id": 186045603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.642914,-40.365597,175.642914,-40.365597",
     "geom:latitude":-40.365597,
     "geom:longitude":175.642914,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 B Dorset Cre Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186045603,
-    "wof:lastmodified":1449052705,
+    "wof:lastmodified":1466311379,
     "wof:name":"NZ Specialised Coatings Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "compounds"
     ]
 },
-  "bbox": [175.642914,-40.365597,175.642914,-40.365597],
-  "geometry": {"coordinates":[175.642914,-40.365597],"type":"Point"}
+  "bbox": [
+    175.642914,
+    -40.365597,
+    175.642914,
+    -40.365597
+],
+  "geometry": {"coordinates":[175.64291399999999,-40.365597],"type":"Point"}
 }

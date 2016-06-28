@@ -2,13 +2,14 @@
   "id": 220135551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.348618,-46.422211,168.348618,-46.422211",
     "geom:latitude":-46.422211,
     "geom:longitude":168.348618,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Crinan St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220135551,
-    "wof:lastmodified":1449074341,
+    "wof:lastmodified":1466310936,
     "wof:name":"Ernest Adams Distributors",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [168.348618,-46.422211,168.348618,-46.422211],
-  "geometry": {"coordinates":[168.348618,-46.422211],"type":"Point"}
+  "bbox": [
+    168.348618,
+    -46.422211,
+    168.348618,
+    -46.422211
+],
+  "geometry": {"coordinates":[168.34861799999999,-46.422211],"type":"Point"}
 }

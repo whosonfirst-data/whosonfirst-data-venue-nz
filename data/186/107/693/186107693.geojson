@@ -2,13 +2,14 @@
   "id": 186107693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.347076,-46.376179,168.347076,-46.376179",
     "geom:latitude":-46.376179,
     "geom:longitude":168.347076,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"301 North Rd ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186107693,
-    "wof:lastmodified":1449050266,
+    "wof:lastmodified":1466310598,
     "wof:name":"Waikiwi Coal Depot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "coke"
     ]
 },
-  "bbox": [168.347076,-46.376179,168.347076,-46.376179],
-  "geometry": {"coordinates":[168.347076,-46.376179],"type":"Point"}
+  "bbox": [
+    168.347076,
+    -46.376179,
+    168.347076,
+    -46.376179
+],
+  "geometry": {"coordinates":[168.34707599999999,-46.376179],"type":"Point"}
 }

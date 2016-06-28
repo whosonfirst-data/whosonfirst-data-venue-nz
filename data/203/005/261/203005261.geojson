@@ -2,13 +2,14 @@
   "id": 203005261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.611481,-40.357418,175.611481,-40.357418",
     "geom:latitude":-40.357418,
     "geom:longitude":175.611481,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Walkers Rd R D 7 Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203005261,
-    "wof:lastmodified":1449026709,
+    "wof:lastmodified":1466310568,
     "wof:name":"Treelocations",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.611481,-40.357418,175.611481,-40.357418],
+  "bbox": [
+    175.611481,
+    -40.357418,
+    175.611481,
+    -40.357418
+],
   "geometry": {"coordinates":[175.611481,-40.357418],"type":"Point"}
 }

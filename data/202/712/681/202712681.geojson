@@ -2,13 +2,14 @@
   "id": 202712681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.911667,-41.238205,174.911667,-41.238205",
     "geom:latitude":-41.238205,
     "geom:longitude":174.911667,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Wainui Rd Gracefield ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202712681,
-    "wof:lastmodified":1449061204,
+    "wof:lastmodified":1466312183,
     "wof:name":"Delta Cleaning Company Ltd",
     "wof:parent_id":85772919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [174.911667,-41.238205,174.911667,-41.238205],
-  "geometry": {"coordinates":[174.911667,-41.238205],"type":"Point"}
+  "bbox": [
+    174.911667,
+    -41.238205,
+    174.911667,
+    -41.238205
+],
+  "geometry": {"coordinates":[174.91166699999999,-41.238205],"type":"Point"}
 }

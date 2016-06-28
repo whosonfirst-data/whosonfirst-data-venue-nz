@@ -2,13 +2,14 @@
   "id": 203195143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.34816,-46.41172,168.34816,-46.41172",
     "geom:latitude":-46.41172,
     "geom:longitude":168.34816,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Esk St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203195143,
-    "wof:lastmodified":1449026229,
+    "wof:lastmodified":1466311328,
     "wof:name":"McKnight & Brown",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fabric"
     ]
 },
-  "bbox": [168.34816,-46.41172,168.34816,-46.41172],
-  "geometry": {"coordinates":[168.34816,-46.41172],"type":"Point"}
+  "bbox": [
+    168.34816,
+    -46.41172,
+    168.34816,
+    -46.41172
+],
+  "geometry": {"coordinates":[168.34816000000001,-46.41172],"type":"Point"}
 }

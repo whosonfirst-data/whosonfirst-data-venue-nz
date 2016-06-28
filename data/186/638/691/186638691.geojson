@@ -2,13 +2,14 @@
   "id": 186638691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.633682,-40.348045,175.633682,-40.348045",
     "geom:latitude":-40.348045,
     "geom:longitude":175.633682,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Fredrick St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186638691,
-    "wof:lastmodified":1449050414,
+    "wof:lastmodified":1466313013,
     "wof:name":"Get In Touch Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fitness"
     ]
 },
-  "bbox": [175.633682,-40.348045,175.633682,-40.348045],
-  "geometry": {"coordinates":[175.633682,-40.348045],"type":"Point"}
+  "bbox": [
+    175.633682,
+    -40.348045,
+    175.633682,
+    -40.348045
+],
+  "geometry": {"coordinates":[175.63368199999999,-40.348045],"type":"Point"}
 }

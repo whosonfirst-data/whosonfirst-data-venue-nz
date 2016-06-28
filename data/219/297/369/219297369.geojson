@@ -2,13 +2,14 @@
   "id": 219297369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.617172,-40.3638,175.617172,-40.3638",
     "geom:latitude":-40.3638,
     "geom:longitude":175.617172,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Fitzherbert Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219297369,
-    "wof:lastmodified":1449072629,
+    "wof:lastmodified":1466310913,
     "wof:name":"The Gables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.617172,-40.3638,175.617172,-40.3638],
-  "geometry": {"coordinates":[175.617172,-40.3638],"type":"Point"}
+  "bbox": [
+    175.617172,
+    -40.3638,
+    175.617172,
+    -40.3638
+],
+  "geometry": {"coordinates":[175.61717200000001,-40.3638],"type":"Point"}
 }

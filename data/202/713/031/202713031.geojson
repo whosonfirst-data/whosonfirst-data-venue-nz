@@ -2,13 +2,14 @@
   "id": 202713031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.839706,-36.85162,174.839706,-36.85162",
     "geom:latitude":-36.85162,
     "geom:longitude":174.839706,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Kohimarama Rd Kohimarama ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":202713031,
-    "wof:lastmodified":1449062412,
+    "wof:lastmodified":1466312392,
     "wof:name":"Associated Window Cleaners Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [174.839706,-36.85162,174.839706,-36.85162],
-  "geometry": {"coordinates":[174.839706,-36.85162],"type":"Point"}
+  "bbox": [
+    174.839706,
+    -36.85162,
+    174.839706,
+    -36.85162
+],
+  "geometry": {"coordinates":[174.83970600000001,-36.85162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185772689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.805573,-41.222301,174.805573,-41.222301",
     "geom:latitude":-41.222301,
     "geom:longitude":174.805573,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Frankmoore Ave Johnsonville ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185772689,
-    "wof:lastmodified":1449007339,
+    "wof:lastmodified":1466311042,
     "wof:name":"Johnsonville Community Centre Hall",
     "wof:parent_id":85772981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.805573,-41.222301,174.805573,-41.222301],
-  "geometry": {"coordinates":[174.805573,-41.222301],"type":"Point"}
+  "bbox": [
+    174.805573,
+    -41.222301,
+    174.805573,
+    -41.222301
+],
+  "geometry": {"coordinates":[174.80557300000001,-41.222301],"type":"Point"}
 }

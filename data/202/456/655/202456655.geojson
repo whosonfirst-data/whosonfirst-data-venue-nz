@@ -2,13 +2,14 @@
   "id": 202456655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.738663,-43.562111,172.738663,-43.562111",
     "geom:latitude":-43.562111,
     "geom:longitude":172.738663,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Augusta St Redcliffs ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202456655,
-    "wof:lastmodified":1449060867,
+    "wof:lastmodified":1466311805,
     "wof:name":"Redcliffs Physiotherapy Clinic",
     "wof:parent_id":85778629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [172.738663,-43.562111,172.738663,-43.562111],
+  "bbox": [
+    172.738663,
+    -43.562111,
+    172.738663,
+    -43.562111
+],
   "geometry": {"coordinates":[172.738663,-43.562111],"type":"Point"}
 }

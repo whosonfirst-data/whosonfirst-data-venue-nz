@@ -2,13 +2,14 @@
   "id": 203163627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.878662,-36.944328,174.878662,-36.944328",
     "geom:latitude":-36.944328,
     "geom:longitude":174.878662,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Lorien Pl East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203163627,
-    "wof:lastmodified":1449026840,
+    "wof:lastmodified":1466311019,
     "wof:name":"Pakuranga Glass Ltd",
     "wof:parent_id":85778267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fitting"
     ]
 },
-  "bbox": [174.878662,-36.944328,174.878662,-36.944328],
-  "geometry": {"coordinates":[174.878662,-36.944328],"type":"Point"}
+  "bbox": [
+    174.878662,
+    -36.944328,
+    174.878662,
+    -36.944328
+],
+  "geometry": {"coordinates":[174.87866199999999,-36.944328],"type":"Point"}
 }

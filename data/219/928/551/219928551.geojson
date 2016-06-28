@@ -2,13 +2,14 @@
   "id": 219928551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.926361,-46.100281,168.926361,-46.100281",
     "geom:latitude":-46.100281,
     "geom:longitude":168.926361,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Frank St West Gore ",
     "sg:city":"Gore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219928551,
-    "wof:lastmodified":1449073418,
+    "wof:lastmodified":1466313161,
     "wof:name":"Agri-Coach Ltd",
     "wof:parent_id":85782851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.926361,-46.100281,168.926361,-46.100281],
-  "geometry": {"coordinates":[168.926361,-46.100281],"type":"Point"}
+  "bbox": [
+    168.926361,
+    -46.100281,
+    168.926361,
+    -46.100281
+],
+  "geometry": {"coordinates":[168.92636100000001,-46.100281],"type":"Point"}
 }

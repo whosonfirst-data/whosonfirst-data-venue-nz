@@ -2,13 +2,14 @@
   "id": 186641995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.250763,-38.150436,176.250763,-38.150436",
     "geom:latitude":-38.150436,
     "geom:longitude":176.250763,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Lytton St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186641995,
-    "wof:lastmodified":1449052369,
+    "wof:lastmodified":1466313018,
     "wof:name":"Pam Dickson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fitness"
     ]
 },
-  "bbox": [176.250763,-38.150436,176.250763,-38.150436],
-  "geometry": {"coordinates":[176.250763,-38.150436],"type":"Point"}
+  "bbox": [
+    176.250763,
+    -38.150436,
+    176.250763,
+    -38.150436
+],
+  "geometry": {"coordinates":[176.25076300000001,-38.150436],"type":"Point"}
 }

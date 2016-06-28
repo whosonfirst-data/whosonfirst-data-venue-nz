@@ -2,13 +2,14 @@
   "id": 169828545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.254929,-44.403225,171.254929,-44.403225",
     "geom:latitude":-44.403225,
     "geom:longitude":171.254929,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Alexandra St Parkside ",
     "sg:city":"Timaru",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169828545,
-    "wof:lastmodified":1449034352,
+    "wof:lastmodified":1466311870,
     "wof:name":"Whyte D I & N L",
     "wof:parent_id":85782507,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [171.254929,-44.403225,171.254929,-44.403225],
+  "bbox": [
+    171.254929,
+    -44.403225,
+    171.254929,
+    -44.403225
+],
   "geometry": {"coordinates":[171.254929,-44.403225],"type":"Point"}
 }

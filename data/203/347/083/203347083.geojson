@@ -2,13 +2,14 @@
   "id": 203347083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.162613,-38.339012,175.162613,-38.339012",
     "geom:latitude":-38.339012,
     "geom:longitude":175.162613,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Princess St Te ",
     "sg:city":"Kuiti",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203347083,
-    "wof:lastmodified":1449025830,
+    "wof:lastmodified":1466312383,
     "wof:name":"Fabia Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [175.162613,-38.339012,175.162613,-38.339012],
-  "geometry": {"coordinates":[175.162613,-38.339012],"type":"Point"}
+  "bbox": [
+    175.162613,
+    -38.339012,
+    175.162613,
+    -38.339012
+],
+  "geometry": {"coordinates":[175.16261299999999,-38.339012],"type":"Point"}
 }

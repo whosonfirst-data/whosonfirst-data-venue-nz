@@ -2,13 +2,14 @@
   "id": 203315611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.451782,-36.683231,174.451782,-36.683231",
     "geom:latitude":-36.683231,
     "geom:longitude":174.451782,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"R D 1 Helensville ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203315611,
-    "wof:lastmodified":1449026772,
+    "wof:lastmodified":1466312284,
     "wof:name":"Tan-Ya-Hide",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "suede"
     ]
 },
-  "bbox": [174.451782,-36.683231,174.451782,-36.683231],
-  "geometry": {"coordinates":[174.451782,-36.683231],"type":"Point"}
+  "bbox": [
+    174.451782,
+    -36.683231,
+    174.451782,
+    -36.683231
+],
+  "geometry": {"coordinates":[174.45178200000001,-36.683231],"type":"Point"}
 }

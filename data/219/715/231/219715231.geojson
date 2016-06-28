@@ -2,13 +2,14 @@
   "id": 219715231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.433945,-40.392529,175.433945,-40.392529",
     "geom:latitude":-40.392529,
     "geom:longitude":175.433945,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Highway 56 ",
     "sg:city":"Rangiotu",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219715231,
-    "wof:lastmodified":1449073222,
+    "wof:lastmodified":1466312846,
     "wof:name":"Total MotorCycles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "leasing"
     ]
 },
-  "bbox": [175.433945,-40.392529,175.433945,-40.392529],
-  "geometry": {"coordinates":[175.433945,-40.392529],"type":"Point"}
+  "bbox": [
+    175.433945,
+    -40.392529,
+    175.433945,
+    -40.392529
+],
+  "geometry": {"coordinates":[175.43394499999999,-40.392529],"type":"Point"}
 }

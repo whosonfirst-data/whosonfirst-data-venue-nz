@@ -2,13 +2,14 @@
   "id": 219578047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.327835,-35.702812,174.327835,-35.702812",
     "geom:latitude":-35.702812,
     "geom:longitude":174.327835,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Whareora Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219578047,
-    "wof:lastmodified":1449071286,
+    "wof:lastmodified":1466312434,
     "wof:name":"A2B Auckland Airport Direct Shuttle Service",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.327835,-35.702812,174.327835,-35.702812],
-  "geometry": {"coordinates":[174.327835,-35.702812],"type":"Point"}
+  "bbox": [
+    174.327835,
+    -35.702812,
+    174.327835,
+    -35.702812
+],
+  "geometry": {"coordinates":[174.32783499999999,-35.702812],"type":"Point"}
 }

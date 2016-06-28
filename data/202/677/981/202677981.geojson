@@ -2,13 +2,14 @@
   "id": 202677981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.941849,-37.062366,174.941849,-37.062366",
     "geom:latitude":-37.062366,
     "geom:longitude":174.941849,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Elliot St Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202677981,
-    "wof:lastmodified":1449061023,
+    "wof:lastmodified":1466312276,
     "wof:name":"Baby Factory",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "children"
     ]
 },
-  "bbox": [174.941849,-37.062366,174.941849,-37.062366],
-  "geometry": {"coordinates":[174.941849,-37.062366],"type":"Point"}
+  "bbox": [
+    174.941849,
+    -37.062366,
+    174.941849,
+    -37.062366
+],
+  "geometry": {"coordinates":[174.94184899999999,-37.062366],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203342711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.008057,-40.916641,175.008057,-40.916641",
     "geom:latitude":-40.916641,
     "geom:longitude":175.008057,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Hinemoa St ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203342711,
-    "wof:lastmodified":1449026740,
+    "wof:lastmodified":1466312267,
     "wof:name":"Jim McIntosh-The Shoemaker+",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wear"
     ]
 },
-  "bbox": [175.008057,-40.916641,175.008057,-40.916641],
-  "geometry": {"coordinates":[175.008057,-40.916641],"type":"Point"}
+  "bbox": [
+    175.008057,
+    -40.916641,
+    175.008057,
+    -40.916641
+],
+  "geometry": {"coordinates":[175.00805700000001,-40.916641],"type":"Point"}
 }

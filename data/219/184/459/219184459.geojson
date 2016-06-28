@@ -2,13 +2,14 @@
   "id": 219184459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.908386,-41.206631,174.908386,-41.206631",
     "geom:latitude":-41.206631,
     "geom:longitude":174.908386,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 44098 Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219184459,
-    "wof:lastmodified":1449070984,
+    "wof:lastmodified":1466311276,
     "wof:name":"Dzyner Limousines",
     "wof:parent_id":85781005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.908386,-41.206631,174.908386,-41.206631],
-  "geometry": {"coordinates":[174.908386,-41.206631],"type":"Point"}
+  "bbox": [
+    174.908386,
+    -41.206631,
+    174.908386,
+    -41.206631
+],
+  "geometry": {"coordinates":[174.90838600000001,-41.206631],"type":"Point"}
 }

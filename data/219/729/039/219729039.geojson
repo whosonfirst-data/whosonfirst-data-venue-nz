@@ -2,13 +2,14 @@
   "id": 219729039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.343185,-35.741123,174.343185,-35.741123",
     "geom:latitude":-35.741123,
     "geom:longitude":174.343185,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Hewlett St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219729039,
-    "wof:lastmodified":1449072162,
+    "wof:lastmodified":1466312770,
     "wof:name":"Pete's Towing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.343185,-35.741123,174.343185,-35.741123],
-  "geometry": {"coordinates":[174.343185,-35.741123],"type":"Point"}
+  "bbox": [
+    174.343185,
+    -35.741123,
+    174.343185,
+    -35.741123
+],
+  "geometry": {"coordinates":[174.34318500000001,-35.741123],"type":"Point"}
 }

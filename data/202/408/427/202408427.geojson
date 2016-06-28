@@ -2,13 +2,14 @@
   "id": 202408427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.207199,-42.456165,171.207199,-42.456165",
     "geom:latitude":-42.456165,
     "geom:longitude":171.207199,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Tainui St ",
     "sg:city":"Greymouth",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":202408427,
-    "wof:lastmodified":1449060414,
+    "wof:lastmodified":1466311256,
     "wof:name":"Family Medical Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "beauty"
     ]
 },
-  "bbox": [171.207199,-42.456165,171.207199,-42.456165],
+  "bbox": [
+    171.207199,
+    -42.456165,
+    171.207199,
+    -42.456165
+],
   "geometry": {"coordinates":[171.207199,-42.456165],"type":"Point"}
 }

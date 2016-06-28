@@ -2,13 +2,14 @@
   "id": 169564997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.341187,40.39817,-91.341187,40.39817",
     "geom:latitude":40.39817,
     "geom:longitude":-91.341187,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Robyn Pl ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169564997,
-    "wof:lastmodified":1449035766,
+    "wof:lastmodified":1466311053,
     "wof:name":"Choices One Stop Organisers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.341187,40.39817,-91.341187,40.39817],
-  "geometry": {"coordinates":[-91.341187,40.39817],"type":"Point"}
+  "bbox": [
+    -91.341187,
+    40.39817,
+    -91.341187,
+    40.39817
+],
+  "geometry": {"coordinates":[-91.34118700000001,40.39817],"type":"Point"}
 }

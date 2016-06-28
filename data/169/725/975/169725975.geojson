@@ -2,13 +2,14 @@
   "id": 169725975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.77533,-41.284821,174.77533,-41.284821",
     "geom:latitude":-41.284821,
     "geom:longitude":174.77533,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"312 Lambton Qy ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169725975,
-    "wof:lastmodified":1449033495,
+    "wof:lastmodified":1466311110,
     "wof:name":"Whitcoulls",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.77533,-41.284821,174.77533,-41.284821],
+  "bbox": [
+    174.77533,
+    -41.284821,
+    174.77533,
+    -41.284821
+],
   "geometry": {"coordinates":[174.77533,-41.284821],"type":"Point"}
 }

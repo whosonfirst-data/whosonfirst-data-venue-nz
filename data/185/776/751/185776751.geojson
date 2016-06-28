@@ -2,13 +2,14 @@
   "id": 185776751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.696747,-36.902027,174.696747,-36.902027",
     "geom:latitude":-36.902027,
     "geom:longitude":174.696747,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"St Georges Rd Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185776751,
-    "wof:lastmodified":1449006966,
+    "wof:lastmodified":1466311072,
     "wof:name":"St Ninians Hall",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.696747,-36.902027,174.696747,-36.902027],
-  "geometry": {"coordinates":[174.696747,-36.902027],"type":"Point"}
+  "bbox": [
+    174.696747,
+    -36.902027,
+    174.696747,
+    -36.902027
+],
+  "geometry": {"coordinates":[174.69674699999999,-36.902027],"type":"Point"}
 }

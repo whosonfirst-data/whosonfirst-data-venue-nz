@@ -2,13 +2,14 @@
   "id": 219235417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.034271,-41.138065,175.034271,-41.138065",
     "geom:latitude":-41.138065,
     "geom:longitude":175.034271,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 b Camp St Trentham ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219235417,
-    "wof:lastmodified":1449071002,
+    "wof:lastmodified":1466311830,
     "wof:name":"Trentham Post Shop",
     "wof:parent_id":85773263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.034271,-41.138065,175.034271,-41.138065],
-  "geometry": {"coordinates":[175.034271,-41.138065],"type":"Point"}
+  "bbox": [
+    175.034271,
+    -41.138065,
+    175.034271,
+    -41.138065
+],
+  "geometry": {"coordinates":[175.03427099999999,-41.138065],"type":"Point"}
 }

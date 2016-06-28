@@ -2,13 +2,14 @@
   "id": 202501247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.254532,-37.76545,175.254532,-37.76545",
     "geom:latitude":-37.76545,
     "geom:longitude":175.254532,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202501247,
-    "wof:lastmodified":1449062670,
+    "wof:lastmodified":1466310669,
     "wof:name":"Dr Chad - Chiropractor For Life",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.254532,-37.76545,175.254532,-37.76545],
-  "geometry": {"coordinates":[175.254532,-37.76545],"type":"Point"}
+  "bbox": [
+    175.254532,
+    -37.76545,
+    175.254532,
+    -37.76545
+],
+  "geometry": {"coordinates":[175.25453200000001,-37.76545],"type":"Point"}
 }

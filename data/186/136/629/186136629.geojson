@@ -2,13 +2,14 @@
   "id": 186136629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.858505,-36.868435,174.858505,-36.868435",
     "geom:latitude":-36.868435,
     "geom:longitude":174.858505,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Modena Cre Glendowie ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186136629,
-    "wof:lastmodified":1449052995,
+    "wof:lastmodified":1466310865,
     "wof:name":"Design Engineering Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.858505,-36.868435,174.858505,-36.868435],
-  "geometry": {"coordinates":[174.858505,-36.868435],"type":"Point"}
+  "bbox": [
+    174.858505,
+    -36.868435,
+    174.858505,
+    -36.868435
+],
+  "geometry": {"coordinates":[174.85850500000001,-36.868435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186138797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.888748,-36.942551,174.888748,-36.942551",
     "geom:latitude":-36.942551,
     "geom:longitude":174.888748,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"38A Allens Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186138797,
-    "wof:lastmodified":1449051149,
+    "wof:lastmodified":1466310883,
     "wof:name":"Harvey Timber Products",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.888748,-36.942551,174.888748,-36.942551],
-  "geometry": {"coordinates":[174.888748,-36.942551],"type":"Point"}
+  "bbox": [
+    174.888748,
+    -36.942551,
+    174.888748,
+    -36.942551
+],
+  "geometry": {"coordinates":[174.88874799999999,-36.942551],"type":"Point"}
 }

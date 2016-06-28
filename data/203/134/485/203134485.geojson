@@ -2,13 +2,14 @@
   "id": 203134485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.663254,-45.031445,168.663254,-45.031445",
     "geom:latitude":-45.031445,
     "geom:longitude":168.663254,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"465 Ladies Mile R D 1 ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203134485,
-    "wof:lastmodified":1449026765,
+    "wof:lastmodified":1466310787,
     "wof:name":"Ladies Mile Pet Lodge",
     "wof:parent_id":85782493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "kennel"
     ]
 },
-  "bbox": [168.663254,-45.031445,168.663254,-45.031445],
-  "geometry": {"coordinates":[168.663254,-45.031445],"type":"Point"}
+  "bbox": [
+    168.663254,
+    -45.031445,
+    168.663254,
+    -45.031445
+],
+  "geometry": {"coordinates":[168.66325399999999,-45.031445],"type":"Point"}
 }

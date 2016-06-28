@@ -2,13 +2,14 @@
   "id": 202603655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.162415,-37.694122,176.162415,-37.694122",
     "geom:latitude":-37.694122,
     "geom:longitude":176.162415,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"404 Cameron Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202603655,
-    "wof:lastmodified":1449062266,
+    "wof:lastmodified":1466311549,
     "wof:name":"Cane & Pot Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [176.162415,-37.694122,176.162415,-37.694122],
-  "geometry": {"coordinates":[176.162415,-37.694122],"type":"Point"}
+  "bbox": [
+    176.162415,
+    -37.694122,
+    176.162415,
+    -37.694122
+],
+  "geometry": {"coordinates":[176.16241500000001,-37.694122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220104291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.631622,-40.329754,175.631622,-40.329754",
     "geom:latitude":-40.329754,
     "geom:longitude":175.631622,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1019 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220104291,
-    "wof:lastmodified":1449074367,
+    "wof:lastmodified":1466310635,
     "wof:name":"The Bake House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "-"
     ]
 },
-  "bbox": [175.631622,-40.329754,175.631622,-40.329754],
-  "geometry": {"coordinates":[175.631622,-40.329754],"type":"Point"}
+  "bbox": [
+    175.631622,
+    -40.329754,
+    175.631622,
+    -40.329754
+],
+  "geometry": {"coordinates":[175.63162199999999,-40.329754],"type":"Point"}
 }

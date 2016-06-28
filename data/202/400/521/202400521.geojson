@@ -2,13 +2,14 @@
   "id": 202400521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.779831,-36.862087,174.779831,-36.862087",
     "geom:latitude":-36.862087,
     "geom:longitude":174.779831,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Titoki St Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202400521,
-    "wof:lastmodified":1449060362,
+    "wof:lastmodified":1466311065,
     "wof:name":"Birthcare Auckland Limited",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.779831,-36.862087,174.779831,-36.862087],
+  "bbox": [
+    174.779831,
+    -36.862087,
+    174.779831,
+    -36.862087
+],
   "geometry": {"coordinates":[174.779831,-36.862087],"type":"Point"}
 }

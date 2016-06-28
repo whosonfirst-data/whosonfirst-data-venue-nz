@@ -2,13 +2,14 @@
   "id": 185993627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.367905,-46.396725,168.367905,-46.396725",
     "geom:latitude":-46.396725,
     "geom:longitude":168.367905,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"93 George St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185993627,
-    "wof:lastmodified":1449007328,
+    "wof:lastmodified":1466312313,
     "wof:name":"Bell Olive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [168.367905,-46.396725,168.367905,-46.396725],
-  "geometry": {"coordinates":[168.367905,-46.396725],"type":"Point"}
+  "bbox": [
+    168.367905,
+    -46.396725,
+    168.367905,
+    -46.396725
+],
+  "geometry": {"coordinates":[168.36790500000001,-46.396725],"type":"Point"}
 }

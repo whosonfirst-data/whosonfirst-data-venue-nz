@@ -2,13 +2,14 @@
   "id": 185978021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.879456,-39.629559,176.879456,-39.629559",
     "geom:latitude":-39.629559,
     "geom:longitude":176.879456,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Southampton Street East & Karamu Rd Hastings",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185978021,
-    "wof:lastmodified":1449007532,
+    "wof:lastmodified":1466312230,
     "wof:name":"Self Storage Hawkes Bay",
     "wof:parent_id":85781003,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.879456,-39.629559,176.879456,-39.629559],
+  "bbox": [
+    176.879456,
+    -39.629559,
+    176.879456,
+    -39.629559
+],
   "geometry": {"coordinates":[176.879456,-39.629559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202809803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.87709,-36.988457,174.87709,-36.988457",
     "geom:latitude":-36.988457,
     "geom:longitude":174.87709,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Cavendish Dve Manukau City ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202809803,
-    "wof:lastmodified":1449062214,
+    "wof:lastmodified":1466312561,
     "wof:name":"Bedpost",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bed"
     ]
 },
-  "bbox": [174.87709,-36.988457,174.87709,-36.988457],
-  "geometry": {"coordinates":[174.87709,-36.988457],"type":"Point"}
+  "bbox": [
+    174.87709,
+    -36.988457,
+    174.87709,
+    -36.988457
+],
+  "geometry": {"coordinates":[174.87709000000001,-36.988457],"type":"Point"}
 }

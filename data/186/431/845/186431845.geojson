@@ -2,13 +2,14 @@
   "id": 186431845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.640823,-36.908524,174.640823,-36.908524",
     "geom:latitude":-36.908524,
     "geom:longitude":174.640823,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2/357 West Coast Rd Glen Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186431845,
-    "wof:lastmodified":1449050692,
+    "wof:lastmodified":1466312676,
     "wof:name":"Pinkerton Pile Driving Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.640823,-36.908524,174.640823,-36.908524],
-  "geometry": {"coordinates":[174.640823,-36.908524],"type":"Point"}
+  "bbox": [
+    174.640823,
+    -36.908524,
+    174.640823,
+    -36.908524
+],
+  "geometry": {"coordinates":[174.64082300000001,-36.908524],"type":"Point"}
 }

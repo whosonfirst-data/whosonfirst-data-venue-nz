@@ -2,13 +2,14 @@
   "id": 169685323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.777328,-37.241192,174.777328,-37.241192",
     "geom:latitude":-37.241192,
     "geom:longitude":174.777328,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"446 Bald Hill Rd Waiuku ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169685323,
-    "wof:lastmodified":1449035884,
+    "wof:lastmodified":1466310812,
     "wof:name":"Hilton Park Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.777328,-37.241192,174.777328,-37.241192],
-  "geometry": {"coordinates":[174.777328,-37.241192],"type":"Point"}
+  "bbox": [
+    174.777328,
+    -37.241192,
+    174.777328,
+    -37.241192
+],
+  "geometry": {"coordinates":[174.77732800000001,-37.241192],"type":"Point"}
 }

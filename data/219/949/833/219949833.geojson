@@ -2,13 +2,14 @@
   "id": 219949833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.655426,-40.941772,175.655426,-40.941772",
     "geom:latitude":-40.941772,
     "geom:longitude":175.655426,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Perry St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219949833,
-    "wof:lastmodified":1449072582,
+    "wof:lastmodified":1466313122,
     "wof:name":"Farman Roy S",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.655426,-40.941772,175.655426,-40.941772],
-  "geometry": {"coordinates":[175.655426,-40.941772],"type":"Point"}
+  "bbox": [
+    175.655426,
+    -40.941772,
+    175.655426,
+    -40.941772
+],
+  "geometry": {"coordinates":[175.65542600000001,-40.941772],"type":"Point"}
 }

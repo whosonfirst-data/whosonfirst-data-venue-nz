@@ -2,13 +2,14 @@
   "id": 219620773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.745667,-36.779221,174.745667,-36.779221",
     "geom:latitude":-36.779221,
     "geom:longitude":174.745667,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Auckland & North Shore ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219620773,
-    "wof:lastmodified":1449073615,
+    "wof:lastmodified":1466312578,
     "wof:name":"Goodyear Tyres New Zealand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supply"
     ]
 },
-  "bbox": [174.745667,-36.779221,174.745667,-36.779221],
+  "bbox": [
+    174.745667,
+    -36.779221,
+    174.745667,
+    -36.779221
+],
   "geometry": {"coordinates":[174.745667,-36.779221],"type":"Point"}
 }

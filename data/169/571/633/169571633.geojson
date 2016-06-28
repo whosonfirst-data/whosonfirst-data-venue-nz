@@ -2,13 +2,14 @@
   "id": 169571633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.796204,-36.603333,174.796204,-36.603333",
     "geom:latitude":-36.603333,
     "geom:longitude":174.796204,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Pacific Pde Whangaparaoa Hibiscus ",
     "sg:city":"Hibiscus Coast",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169571633,
-    "wof:lastmodified":1449034948,
+    "wof:lastmodified":1466311156,
     "wof:name":"healthsuccess.net",
     "wof:parent_id":85782539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "health"
     ]
 },
-  "bbox": [174.796204,-36.603333,174.796204,-36.603333],
-  "geometry": {"coordinates":[174.796204,-36.603333],"type":"Point"}
+  "bbox": [
+    174.796204,
+    -36.603333,
+    174.796204,
+    -36.603333
+],
+  "geometry": {"coordinates":[174.79620399999999,-36.603333],"type":"Point"}
 }

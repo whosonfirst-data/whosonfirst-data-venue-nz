@@ -2,13 +2,14 @@
   "id": 202769977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.781509,-41.296795,174.781509,-41.296795",
     "geom:latitude":-41.296795,
     "geom:longitude":174.781509,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6-10 Vivian St ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202769977,
-    "wof:lastmodified":1449060953,
+    "wof:lastmodified":1466312446,
     "wof:name":"G A Lang & Co",
     "wof:parent_id":85778661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fittings"
     ]
 },
-  "bbox": [174.781509,-41.296795,174.781509,-41.296795],
+  "bbox": [
+    174.781509,
+    -41.296795,
+    174.781509,
+    -41.296795
+],
   "geometry": {"coordinates":[174.781509,-41.296795],"type":"Point"}
 }

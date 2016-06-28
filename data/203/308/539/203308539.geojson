@@ -2,13 +2,14 @@
   "id": 203308539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.27887,-37.783649,175.27887,-37.783649",
     "geom:latitude":-37.783649,
     "geom:longitude":175.27887,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 London St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203308539,
-    "wof:lastmodified":1449026897,
+    "wof:lastmodified":1466312262,
     "wof:name":"Knit World",
     "wof:parent_id":85780927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothing"
     ]
 },
-  "bbox": [175.27887,-37.783649,175.27887,-37.783649],
-  "geometry": {"coordinates":[175.27887,-37.783649],"type":"Point"}
+  "bbox": [
+    175.27887,
+    -37.783649,
+    175.27887,
+    -37.783649
+],
+  "geometry": {"coordinates":[175.27887000000001,-37.783649],"type":"Point"}
 }

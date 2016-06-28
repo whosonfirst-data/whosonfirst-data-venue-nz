@@ -2,13 +2,14 @@
   "id": 186430567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.820312,-36.912529,174.820312,-36.912529",
     "geom:latitude":-36.912529,
     "geom:longitude":174.820312,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Great South Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186430567,
-    "wof:lastmodified":1449052090,
+    "wof:lastmodified":1466312503,
     "wof:name":"Hirepool Access & Scaffolding",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.820312,-36.912529,174.820312,-36.912529],
+  "bbox": [
+    174.820312,
+    -36.912529,
+    174.820312,
+    -36.912529
+],
   "geometry": {"coordinates":[174.820312,-36.912529],"type":"Point"}
 }

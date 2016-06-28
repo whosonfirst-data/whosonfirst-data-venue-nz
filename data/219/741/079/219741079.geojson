@@ -2,13 +2,14 @@
   "id": 219741079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.600677,-40.338711,175.600677,-40.338711",
     "geom:latitude":-40.338711,
     "geom:longitude":175.600677,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Jasper Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219741079,
-    "wof:lastmodified":1449070572,
+    "wof:lastmodified":1466312890,
     "wof:name":"Advance Automotive",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "servicing"
     ]
 },
-  "bbox": [175.600677,-40.338711,175.600677,-40.338711],
-  "geometry": {"coordinates":[175.600677,-40.338711],"type":"Point"}
+  "bbox": [
+    175.600677,
+    -40.338711,
+    175.600677,
+    -40.338711
+],
+  "geometry": {"coordinates":[175.60067699999999,-40.338711],"type":"Point"}
 }

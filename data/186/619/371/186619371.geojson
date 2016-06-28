@@ -2,13 +2,14 @@
   "id": 186619371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.90506,-36.901314,174.90506,-36.901314",
     "geom:latitude":-36.901314,
     "geom:longitude":174.90506,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Aviemore Dve Highland Park ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186619371,
-    "wof:lastmodified":1449050898,
+    "wof:lastmodified":1466312990,
     "wof:name":"Eastern Bays Yoga",
     "wof:parent_id":85778943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fitness"
     ]
 },
-  "bbox": [174.90506,-36.901314,174.90506,-36.901314],
-  "geometry": {"coordinates":[174.90506,-36.901314],"type":"Point"}
+  "bbox": [
+    174.90506,
+    -36.901314,
+    174.90506,
+    -36.901314
+],
+  "geometry": {"coordinates":[174.90505999999999,-36.901314],"type":"Point"}
 }

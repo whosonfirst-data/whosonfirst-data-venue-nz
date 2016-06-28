@@ -2,13 +2,14 @@
   "id": 186112117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.055664,-41.129284,175.055664,-41.129284",
     "geom:latitude":-41.129284,
     "geom:longitude":175.055664,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Ward St Wallaceville Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186112117,
-    "wof:lastmodified":1449051607,
+    "wof:lastmodified":1466310643,
     "wof:name":"Bristol Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.055664,-41.129284,175.055664,-41.129284],
-  "geometry": {"coordinates":[175.055664,-41.129284],"type":"Point"}
+  "bbox": [
+    175.055664,
+    -41.129284,
+    175.055664,
+    -41.129284
+],
+  "geometry": {"coordinates":[175.05566400000001,-41.129284],"type":"Point"}
 }

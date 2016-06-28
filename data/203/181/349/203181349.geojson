@@ -2,13 +2,14 @@
   "id": 203181349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.02002,-39.934998,175.02002,-39.934998",
     "geom:latitude":-39.934998,
     "geom:longitude":175.02002,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 a Toi St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203181349,
-    "wof:lastmodified":1449026096,
+    "wof:lastmodified":1466311199,
     "wof:name":"Jan's Sewing Service",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [175.02002,-39.934998,175.02002,-39.934998],
-  "geometry": {"coordinates":[175.02002,-39.934998],"type":"Point"}
+  "bbox": [
+    175.02002,
+    -39.934998,
+    175.02002,
+    -39.934998
+],
+  "geometry": {"coordinates":[175.02001999999999,-39.934998],"type":"Point"}
 }

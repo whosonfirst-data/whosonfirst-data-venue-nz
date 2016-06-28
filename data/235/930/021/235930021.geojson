@@ -2,13 +2,14 @@
   "id": 235930021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-2.511816,52.699959,-2.511816,52.699959",
     "geom:latitude":52.699959,
     "geom:longitude":-2.511816,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 6 Compaq House 86-96 Victoria St PO Box 2833",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235930021,
-    "wof:lastmodified":1449008364,
+    "wof:lastmodified":1466311993,
     "wof:name":"ANZCO Foods Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "meats"
     ]
 },
-  "bbox": [-2.511816,52.699959,-2.511816,52.699959],
+  "bbox": [
+    -2.511816,
+    52.699959,
+    -2.511816,
+    52.699959
+],
   "geometry": {"coordinates":[-2.511816,52.699959],"type":"Point"}
 }

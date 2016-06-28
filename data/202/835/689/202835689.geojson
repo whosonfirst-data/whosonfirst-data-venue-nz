@@ -2,13 +2,14 @@
   "id": 202835689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.754822,-36.860138,174.754822,-36.860138",
     "geom:latitude":-36.860138,
     "geom:longitude":174.754822,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 15 The Plaza 501 Karangahape Rd Newton ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202835689,
-    "wof:lastmodified":1449060470,
+    "wof:lastmodified":1466312717,
     "wof:name":"Curtain Craft Ltd",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.754822,-36.860138,174.754822,-36.860138],
-  "geometry": {"coordinates":[174.754822,-36.860138],"type":"Point"}
+  "bbox": [
+    174.754822,
+    -36.860138,
+    174.754822,
+    -36.860138
+],
+  "geometry": {"coordinates":[174.75482199999999,-36.860138],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203227971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.725006,-36.86145,174.725006,-36.86145",
     "geom:latitude":-36.86145,
     "geom:longitude":174.725006,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1a 19 Garnet Rd Westmere ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203227971,
-    "wof:lastmodified":1449025333,
+    "wof:lastmodified":1466311623,
     "wof:name":"Coleman Enterprises Limited",
     "wof:parent_id":85773319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [174.725006,-36.86145,174.725006,-36.86145],
-  "geometry": {"coordinates":[174.725006,-36.86145],"type":"Point"}
+  "bbox": [
+    174.725006,
+    -36.86145,
+    174.725006,
+    -36.86145
+],
+  "geometry": {"coordinates":[174.72500600000001,-36.86145],"type":"Point"}
 }

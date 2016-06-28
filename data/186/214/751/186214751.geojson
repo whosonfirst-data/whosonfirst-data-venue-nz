@@ -2,13 +2,14 @@
   "id": 186214751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.331726,-35.730679,174.331726,-35.730679",
     "geom:latitude":-35.730679,
     "geom:longitude":174.331726,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Port Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186214751,
-    "wof:lastmodified":1449052950,
+    "wof:lastmodified":1466311533,
     "wof:name":"Hydraulink Whangarei",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [174.331726,-35.730679,174.331726,-35.730679],
+  "bbox": [
+    174.331726,
+    -35.730679,
+    174.331726,
+    -35.730679
+],
   "geometry": {"coordinates":[174.331726,-35.730679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203319191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.637115,-43.449097,172.637115,-43.449097",
     "geom:latitude":-43.449097,
     "geom:longitude":172.637115,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Station Rd Belfast ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203319191,
-    "wof:lastmodified":1449025692,
+    "wof:lastmodified":1466312296,
     "wof:name":"Graeme Lowe Belfast",
     "wof:parent_id":85781163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "skin"
     ]
 },
-  "bbox": [172.637115,-43.449097,172.637115,-43.449097],
-  "geometry": {"coordinates":[172.637115,-43.449097],"type":"Point"}
+  "bbox": [
+    172.637115,
+    -43.449097,
+    172.637115,
+    -43.449097
+],
+  "geometry": {"coordinates":[172.63711499999999,-43.449097],"type":"Point"}
 }

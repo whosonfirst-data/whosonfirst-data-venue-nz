@@ -2,13 +2,14 @@
   "id": 186161919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.045609,-39.938759,175.045609,-39.938759",
     "geom:latitude":-39.938759,
     "geom:longitude":175.045609,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Ridgway St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186161919,
-    "wof:lastmodified":1449051428,
+    "wof:lastmodified":1466311088,
     "wof:name":"Works Infrastructure Limited",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.045609,-39.938759,175.045609,-39.938759],
-  "geometry": {"coordinates":[175.045609,-39.938759],"type":"Point"}
+  "bbox": [
+    175.045609,
+    -39.938759,
+    175.045609,
+    -39.938759
+],
+  "geometry": {"coordinates":[175.04560900000001,-39.938759],"type":"Point"}
 }

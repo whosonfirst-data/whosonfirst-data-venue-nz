@@ -2,13 +2,14 @@
   "id": 186345007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.792297,-36.925316,174.792297,-36.925316",
     "geom:latitude":-36.925316,
     "geom:longitude":174.792297,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Victoria St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186345007,
-    "wof:lastmodified":1449052815,
+    "wof:lastmodified":1466312237,
     "wof:name":"Ward Resource Recovery Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "materials"
     ]
 },
-  "bbox": [174.792297,-36.925316,174.792297,-36.925316],
-  "geometry": {"coordinates":[174.792297,-36.925316],"type":"Point"}
+  "bbox": [
+    174.792297,
+    -36.925316,
+    174.792297,
+    -36.925316
+],
+  "geometry": {"coordinates":[174.79229699999999,-36.925316],"type":"Point"}
 }

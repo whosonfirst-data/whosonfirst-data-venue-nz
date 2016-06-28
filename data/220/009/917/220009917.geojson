@@ -2,13 +2,14 @@
   "id": 220009917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.86734,-38.21928,175.86734,-38.21928",
     "geom:latitude":-38.21928,
     "geom:longitude":175.86734,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Bridge St ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220009917,
-    "wof:lastmodified":1449074862,
+    "wof:lastmodified":1466310861,
     "wof:name":"Tokoroa Money Lenders",
     "wof:parent_id":85782509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "personal"
     ]
 },
-  "bbox": [175.86734,-38.21928,175.86734,-38.21928],
-  "geometry": {"coordinates":[175.86734,-38.21928],"type":"Point"}
+  "bbox": [
+    175.86734,
+    -38.21928,
+    175.86734,
+    -38.21928
+],
+  "geometry": {"coordinates":[175.86734000000001,-38.21928],"type":"Point"}
 }

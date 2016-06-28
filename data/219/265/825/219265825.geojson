@@ -2,13 +2,14 @@
   "id": 219265825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.397217,-39.414413,175.397217,-39.414413",
     "geom:latitude":-39.414413,
     "geom:longitude":175.397217,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Clyde St ",
     "sg:city":"Ohakune",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219265825,
-    "wof:lastmodified":1449071601,
+    "wof:lastmodified":1466310687,
     "wof:name":"Ruapehu Real Estate Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.397217,-39.414413,175.397217,-39.414413],
-  "geometry": {"coordinates":[175.397217,-39.414413],"type":"Point"}
+  "bbox": [
+    175.397217,
+    -39.414413,
+    175.397217,
+    -39.414413
+],
+  "geometry": {"coordinates":[175.39721700000001,-39.414413],"type":"Point"}
 }

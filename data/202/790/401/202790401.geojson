@@ -2,13 +2,14 @@
   "id": 202790401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.776352,-41.279732,174.776352,-41.279732",
     "geom:latitude":-41.279732,
     "geom:longitude":174.776352,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Lambton Quay ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202790401,
-    "wof:lastmodified":1449062070,
+    "wof:lastmodified":1466312512,
     "wof:name":"Pridex Kitchens Wellington",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kitchen"
     ]
 },
-  "bbox": [174.776352,-41.279732,174.776352,-41.279732],
+  "bbox": [
+    174.776352,
+    -41.279732,
+    174.776352,
+    -41.279732
+],
   "geometry": {"coordinates":[174.776352,-41.279732],"type":"Point"}
 }

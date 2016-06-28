@@ -2,13 +2,14 @@
   "id": 202513927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.783417,-38.049374,175.783417,-38.049374",
     "geom:latitude":-38.049374,
     "geom:longitude":175.783417,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Neale St ",
     "sg:city":"Putaruru",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202513927,
-    "wof:lastmodified":1449061767,
+    "wof:lastmodified":1466310774,
     "wof:name":"Medical Laboratory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "specialists"
     ]
 },
-  "bbox": [175.783417,-38.049374,175.783417,-38.049374],
-  "geometry": {"coordinates":[175.783417,-38.049374],"type":"Point"}
+  "bbox": [
+    175.783417,
+    -38.049374,
+    175.783417,
+    -38.049374
+],
+  "geometry": {"coordinates":[175.78341699999999,-38.049374],"type":"Point"}
 }

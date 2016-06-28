@@ -2,13 +2,14 @@
   "id": 219592447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.571655,-39.938202,175.571655,-39.938202",
     "geom:latitude":-39.938202,
     "geom:longitude":175.571655,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main North Rd ",
     "sg:city":"Hunterville",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219592447,
-    "wof:lastmodified":1449072401,
+    "wof:lastmodified":1466312573,
     "wof:name":"BP Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.571655,-39.938202,175.571655,-39.938202],
-  "geometry": {"coordinates":[175.571655,-39.938202],"type":"Point"}
+  "bbox": [
+    175.571655,
+    -39.938202,
+    175.571655,
+    -39.938202
+],
+  "geometry": {"coordinates":[175.57165499999999,-39.938202],"type":"Point"}
 }

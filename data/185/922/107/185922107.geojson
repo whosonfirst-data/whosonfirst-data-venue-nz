@@ -2,13 +2,14 @@
   "id": 185922107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.303497,-38.003548,175.303497,-38.003548",
     "geom:latitude":-38.003548,
     "geom:longitude":175.303497,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Mahana La Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185922107,
-    "wof:lastmodified":1449006752,
+    "wof:lastmodified":1466312006,
     "wof:name":"Te Awamutu School of Dance",
     "wof:parent_id":85782893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sport"
     ]
 },
-  "bbox": [175.303497,-38.003548,175.303497,-38.003548],
-  "geometry": {"coordinates":[175.303497,-38.003548],"type":"Point"}
+  "bbox": [
+    175.303497,
+    -38.003548,
+    175.303497,
+    -38.003548
+],
+  "geometry": {"coordinates":[175.30349699999999,-38.003548],"type":"Point"}
 }

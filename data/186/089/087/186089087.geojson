@@ -2,13 +2,14 @@
   "id": 186089087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.349487,-46.410965,168.349487,-46.410965",
     "geom:latitude":-46.410965,
     "geom:longitude":168.349487,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Don St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186089087,
-    "wof:lastmodified":1449050947,
+    "wof:lastmodified":1466311915,
     "wof:name":"Control Tech NZ",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.349487,-46.410965,168.349487,-46.410965],
-  "geometry": {"coordinates":[168.349487,-46.410965],"type":"Point"}
+  "bbox": [
+    168.349487,
+    -46.410965,
+    168.349487,
+    -46.410965
+],
+  "geometry": {"coordinates":[168.34948700000001,-46.410965],"type":"Point"}
 }

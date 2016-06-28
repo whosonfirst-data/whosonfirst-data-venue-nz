@@ -2,13 +2,14 @@
   "id": 219839443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.315125,41.341152,-86.315125,41.341152",
     "geom:latitude":41.341152,
     "geom:longitude":-86.315125,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"260 Smart Rd RD 2 New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219839443,
-    "wof:lastmodified":1449072511,
+    "wof:lastmodified":1466313057,
     "wof:name":"Elsworth Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.315125,41.341152,-86.315125,41.341152],
-  "geometry": {"coordinates":[-86.315125,41.341152],"type":"Point"}
+  "bbox": [
+    -86.315125,
+    41.341152,
+    -86.315125,
+    41.341152
+],
+  "geometry": {"coordinates":[-86.31512499999999,41.341152],"type":"Point"}
 }

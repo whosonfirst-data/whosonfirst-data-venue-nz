@@ -2,13 +2,14 @@
   "id": 219688439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.650757,-43.541389,172.650757,-43.541389",
     "geom:latitude":-43.541389,
     "geom:longitude":172.650757,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Falsgrave St Waltham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219688439,
-    "wof:lastmodified":1449071703,
+    "wof:lastmodified":1466312802,
     "wof:name":"Corlet Motor Company LMVD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [172.650757,-43.541389,172.650757,-43.541389],
+  "bbox": [
+    172.650757,
+    -43.541389,
+    172.650757,
+    -43.541389
+],
   "geometry": {"coordinates":[172.650757,-43.541389],"type":"Point"}
 }

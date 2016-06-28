@@ -2,13 +2,14 @@
   "id": 202863703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.811707,-41.247898,174.811707,-41.247898",
     "geom:latitude":-41.247898,
     "geom:longitude":174.811707,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Jarden Mle ",
     "sg:city":"Ngauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202863703,
-    "wof:lastmodified":1449061841,
+    "wof:lastmodified":1466312718,
     "wof:name":"Award Office Systems",
     "wof:parent_id":85778225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [174.811707,-41.247898,174.811707,-41.247898],
-  "geometry": {"coordinates":[174.811707,-41.247898],"type":"Point"}
+  "bbox": [
+    174.811707,
+    -41.247898,
+    174.811707,
+    -41.247898
+],
+  "geometry": {"coordinates":[174.81170700000001,-41.247898],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203074323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.769669,-37.809944,175.769669,-37.809944",
     "geom:latitude":-37.809944,
     "geom:longitude":175.769669,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Short St ",
     "sg:city":"Matamata",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203074323,
-    "wof:lastmodified":1449025963,
+    "wof:lastmodified":1466311752,
     "wof:name":"Matamata/Piako StoneCraft",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.769669,-37.809944,175.769669,-37.809944],
-  "geometry": {"coordinates":[175.769669,-37.809944],"type":"Point"}
+  "bbox": [
+    175.769669,
+    -37.809944,
+    175.769669,
+    -37.809944
+],
+  "geometry": {"coordinates":[175.76966899999999,-37.809944],"type":"Point"}
 }

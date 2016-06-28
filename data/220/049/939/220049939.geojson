@@ -2,13 +2,14 @@
   "id": 220049939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.709259,-36.794453,174.709259,-36.794453",
     "geom:latitude":-36.794453,
     "geom:longitude":174.709259,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Verbena Rd Birkdale ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220049939,
-    "wof:lastmodified":1449074430,
+    "wof:lastmodified":1466311602,
     "wof:name":"Coffee Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [174.709259,-36.794453,174.709259,-36.794453],
+  "bbox": [
+    174.709259,
+    -36.794453,
+    174.709259,
+    -36.794453
+],
   "geometry": {"coordinates":[174.709259,-36.794453],"type":"Point"}
 }

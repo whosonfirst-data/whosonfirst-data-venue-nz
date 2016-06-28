@@ -2,13 +2,14 @@
   "id": 185867623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.987564,-40.896328,174.987564,-40.896328",
     "geom:latitude":-40.896328,
     "geom:longitude":174.987564,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10-11 Hurley Rd Paraparaumu Beach ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185867623,
-    "wof:lastmodified":1449007307,
+    "wof:lastmodified":1466311672,
     "wof:name":"Kapiti Mobile Veterinary Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.987564,-40.896328,174.987564,-40.896328],
-  "geometry": {"coordinates":[174.987564,-40.896328],"type":"Point"}
+  "bbox": [
+    174.987564,
+    -40.896328,
+    174.987564,
+    -40.896328
+],
+  "geometry": {"coordinates":[174.98756399999999,-40.896328],"type":"Point"}
 }

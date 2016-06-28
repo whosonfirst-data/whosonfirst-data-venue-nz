@@ -2,13 +2,14 @@
   "id": 186016621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.960953,-41.536018,173.960953,-41.536018",
     "geom:latitude":-41.536018,
     "geom:longitude":173.960953,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Selwyn St Witherlea ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186016621,
-    "wof:lastmodified":1449050885,
+    "wof:lastmodified":1466310813,
     "wof:name":"Marlborough Limousines Ltd",
     "wof:parent_id":85781539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [173.960953,-41.536018,173.960953,-41.536018],
-  "geometry": {"coordinates":[173.960953,-41.536018],"type":"Point"}
+  "bbox": [
+    173.960953,
+    -41.536018,
+    173.960953,
+    -41.536018
+],
+  "geometry": {"coordinates":[173.96095299999999,-41.536018],"type":"Point"}
 }

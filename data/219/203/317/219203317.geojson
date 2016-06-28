@@ -2,13 +2,14 @@
   "id": 219203317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.530457,-36.807678,174.530457,-36.807678",
     "geom:latitude":-36.807678,
     "geom:longitude":174.530457,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"183 Hanham Rd Kumeu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219203317,
-    "wof:lastmodified":1449071961,
+    "wof:lastmodified":1466311502,
     "wof:name":"Bernie Fox Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.530457,-36.807678,174.530457,-36.807678],
-  "geometry": {"coordinates":[174.530457,-36.807678],"type":"Point"}
+  "bbox": [
+    174.530457,
+    -36.807678,
+    174.530457,
+    -36.807678
+],
+  "geometry": {"coordinates":[174.53045700000001,-36.807678],"type":"Point"}
 }

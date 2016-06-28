@@ -2,13 +2,14 @@
   "id": 219253821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.240356,-41.28685,173.240356,-41.28685",
     "geom:latitude":-41.28685,
     "geom:longitude":173.240356,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Green Street, Nelson",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219253821,
-    "wof:lastmodified":1449073483,
+    "wof:lastmodified":1466310580,
     "wof:name":"Best Western Fountain Resort Motel",
     "wof:parent_id":85773207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.240356,-41.28685,173.240356,-41.28685],
-  "geometry": {"coordinates":[173.240356,-41.28685],"type":"Point"}
+  "bbox": [
+    173.240356,
+    -41.28685,
+    173.240356,
+    -41.28685
+],
+  "geometry": {"coordinates":[173.24035599999999,-41.28685],"type":"Point"}
 }

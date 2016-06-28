@@ -2,13 +2,14 @@
   "id": 202968101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.742157,-36.872246,174.742157,-36.872246",
     "geom:latitude":-36.872246,
     "geom:longitude":174.742157,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 First Ave Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202968101,
-    "wof:lastmodified":1449060271,
+    "wof:lastmodified":1466313000,
     "wof:name":"Tohill Daniel",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.742157,-36.872246,174.742157,-36.872246],
-  "geometry": {"coordinates":[174.742157,-36.872246],"type":"Point"}
+  "bbox": [
+    174.742157,
+    -36.872246,
+    174.742157,
+    -36.872246
+],
+  "geometry": {"coordinates":[174.74215699999999,-36.872246],"type":"Point"}
 }

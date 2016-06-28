@@ -2,13 +2,14 @@
   "id": 186343579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.007996,-40.910461,175.007996,-40.910461",
     "geom:latitude":-40.910461,
     "geom:longitude":175.007996,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"King Arthur Dve ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186343579,
-    "wof:lastmodified":1449052260,
+    "wof:lastmodified":1466312344,
     "wof:name":"Sand Quarry & Site Developments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "materials"
     ]
 },
-  "bbox": [175.007996,-40.910461,175.007996,-40.910461],
-  "geometry": {"coordinates":[175.007996,-40.910461],"type":"Point"}
+  "bbox": [
+    175.007996,
+    -40.910461,
+    175.007996,
+    -40.910461
+],
+  "geometry": {"coordinates":[175.00799599999999,-40.910461],"type":"Point"}
 }

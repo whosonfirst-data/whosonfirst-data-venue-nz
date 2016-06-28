@@ -2,13 +2,14 @@
   "id": 203046821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.752632,43.903358,-116.752632,43.903358",
     "geom:latitude":43.903358,
     "geom:longitude":-116.752632,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Pioneer Rd New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":203046821,
-    "wof:lastmodified":1449025998,
+    "wof:lastmodified":1466311440,
     "wof:name":"Macs Mobile Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [-116.752632,43.903358,-116.752632,43.903358],
-  "geometry": {"coordinates":[-116.752632,43.903358],"type":"Point"}
+  "bbox": [
+    -116.752632,
+    43.903358,
+    -116.752632,
+    43.903358
+],
+  "geometry": {"coordinates":[-116.75263200000001,43.903358],"type":"Point"}
 }

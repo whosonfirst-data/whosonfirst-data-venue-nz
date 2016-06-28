@@ -2,13 +2,14 @@
   "id": 220073309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.30806,-43.613522,172.30806,-43.613522",
     "geom:latitude":-43.613522,
     "geom:longitude":172.30806,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Burnham School Rd ",
     "sg:city":"Burnham",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220073309,
-    "wof:lastmodified":1449074139,
+    "wof:lastmodified":1466311844,
     "wof:name":"Giesen Wine Estate Canterbury Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wine"
     ]
 },
-  "bbox": [172.30806,-43.613522,172.30806,-43.613522],
-  "geometry": {"coordinates":[172.30806,-43.613522],"type":"Point"}
+  "bbox": [
+    172.30806,
+    -43.613522,
+    172.30806,
+    -43.613522
+],
+  "geometry": {"coordinates":[172.30806000000001,-43.613522],"type":"Point"}
 }

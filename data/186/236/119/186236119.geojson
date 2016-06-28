@@ -2,13 +2,14 @@
   "id": 186236119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.861618,-36.96899,174.861618,-36.96899",
     "geom:latitude":-36.96899,
     "geom:longitude":174.861618,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Charles St Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186236119,
-    "wof:lastmodified":1449050534,
+    "wof:lastmodified":1466311731,
     "wof:name":"Abstel-Glyde Consultants",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.861618,-36.96899,174.861618,-36.96899],
-  "geometry": {"coordinates":[174.861618,-36.96899],"type":"Point"}
+  "bbox": [
+    174.861618,
+    -36.96899,
+    174.861618,
+    -36.96899
+],
+  "geometry": {"coordinates":[174.86161799999999,-36.96899],"type":"Point"}
 }

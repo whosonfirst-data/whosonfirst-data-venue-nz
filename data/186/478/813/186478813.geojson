@@ -2,13 +2,14 @@
   "id": 186478813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.078354,-39.075394,174.078354,-39.075394",
     "geom:latitude":-39.075394,
     "geom:longitude":174.078354,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Carrington St New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186478813,
-    "wof:lastmodified":1449050353,
+    "wof:lastmodified":1466312690,
     "wof:name":"Cambrian Engineering Co Ltd",
     "wof:parent_id":85780851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.078354,-39.075394,174.078354,-39.075394],
-  "geometry": {"coordinates":[174.078354,-39.075394],"type":"Point"}
+  "bbox": [
+    174.078354,
+    -39.075394,
+    174.078354,
+    -39.075394
+],
+  "geometry": {"coordinates":[174.07835399999999,-39.075394],"type":"Point"}
 }

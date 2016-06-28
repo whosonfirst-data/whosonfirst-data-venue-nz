@@ -2,13 +2,14 @@
   "id": 186598369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.947845,32.799011,-79.947845,32.799011",
     "geom:latitude":32.799011,
     "geom:longitude":-79.947845,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Christchurch PO Box ",
     "sg:city":"29403",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186598369,
-    "wof:lastmodified":1449050412,
+    "wof:lastmodified":1466312963,
     "wof:name":"Lean 4 Life",
     "wof:parent_id":85821043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "diet"
     ]
 },
-  "bbox": [-79.947845,32.799011,-79.947845,32.799011],
+  "bbox": [
+    -79.947845,
+    32.799011,
+    -79.947845,
+    32.799011
+],
   "geometry": {"coordinates":[-79.947845,32.799011],"type":"Point"}
 }

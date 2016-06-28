@@ -2,13 +2,14 @@
   "id": 185990531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.33847,-45.895367,170.33847,-45.895367",
     "geom:latitude":-45.895367,
     "geom:longitude":170.33847,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Gow St East Taieri ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185990531,
-    "wof:lastmodified":1449007669,
+    "wof:lastmodified":1466312395,
     "wof:name":"Arthur Ellis Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [170.33847,-45.895367,170.33847,-45.895367],
+  "bbox": [
+    170.33847,
+    -45.895367,
+    170.33847,
+    -45.895367
+],
   "geometry": {"coordinates":[170.33847,-45.895367],"type":"Point"}
 }

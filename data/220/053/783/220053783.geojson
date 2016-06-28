@@ -2,13 +2,14 @@
   "id": 220053783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.774139,-35.098103,173.774139,-35.098103",
     "geom:latitude":-35.098103,
     "geom:longitude":173.774139,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 38 ",
     "sg:city":"Kaeo",
     "sg:classifiers":[
@@ -45,16 +46,22 @@
         }
     ],
     "wof:id":220053783,
-    "wof:lastmodified":1449074188,
+    "wof:lastmodified":1466311618,
     "wof:name":"Tiger Mountain Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [173.774139,-35.098103,173.774139,-35.098103],
-  "geometry": {"coordinates":[173.774139,-35.098103],"type":"Point"}
+  "bbox": [
+    173.774139,
+    -35.098103,
+    173.774139,
+    -35.098103
+],
+  "geometry": {"coordinates":[173.77413899999999,-35.098103],"type":"Point"}
 }

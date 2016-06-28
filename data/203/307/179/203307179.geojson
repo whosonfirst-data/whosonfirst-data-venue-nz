@@ -2,13 +2,14 @@
   "id": 203307179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.468689,-37.89378,175.468689,-37.89378",
     "geom:latitude":-37.89378,
     "geom:longitude":175.468689,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"73 B Victoria St ",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203307179,
-    "wof:lastmodified":1449025410,
+    "wof:lastmodified":1466312144,
     "wof:name":"Busy Needles",
     "wof:parent_id":85782837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [175.468689,-37.89378,175.468689,-37.89378],
-  "geometry": {"coordinates":[175.468689,-37.89378],"type":"Point"}
+  "bbox": [
+    175.468689,
+    -37.89378,
+    175.468689,
+    -37.89378
+],
+  "geometry": {"coordinates":[175.46868900000001,-37.89378],"type":"Point"}
 }

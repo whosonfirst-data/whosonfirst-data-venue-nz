@@ -2,13 +2,14 @@
   "id": 185948979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.433365,-36.661182,174.433365,-36.661182",
     "geom:latitude":-36.661182,
     "geom:longitude":174.433365,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Parkhurst Rd Parakai ",
     "sg:city":"Helensville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185948979,
-    "wof:lastmodified":1449007891,
+    "wof:lastmodified":1466312336,
     "wof:name":"Palm Springs Thermal Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [174.433365,-36.661182,174.433365,-36.661182],
-  "geometry": {"coordinates":[174.433365,-36.661182],"type":"Point"}
+  "bbox": [
+    174.433365,
+    -36.661182,
+    174.433365,
+    -36.661182
+],
+  "geometry": {"coordinates":[174.43336500000001,-36.661182],"type":"Point"}
 }

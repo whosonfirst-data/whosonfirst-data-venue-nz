@@ -2,13 +2,14 @@
   "id": 169750597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.282654,-39.587265,174.282654,-39.587265",
     "geom:latitude":-39.587265,
     "geom:longitude":174.282654,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Union St ",
     "sg:city":"Hawera",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169750597,
-    "wof:lastmodified":1449034679,
+    "wof:lastmodified":1466311270,
     "wof:name":"Write Price Foodbarn",
     "wof:parent_id":85781023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.282654,-39.587265,174.282654,-39.587265],
-  "geometry": {"coordinates":[174.282654,-39.587265],"type":"Point"}
+  "bbox": [
+    174.282654,
+    -39.587265,
+    174.282654,
+    -39.587265
+],
+  "geometry": {"coordinates":[174.28265400000001,-39.587265],"type":"Point"}
 }

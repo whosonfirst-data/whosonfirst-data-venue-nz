@@ -2,13 +2,14 @@
   "id": 219432467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.879303,-38.232109,175.879303,-38.232109",
     "geom:latitude":-38.232109,
     "geom:longitude":175.879303,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 1 ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219432467,
-    "wof:lastmodified":1449070320,
+    "wof:lastmodified":1466312012,
     "wof:name":"Tokoroa Visitor Information Centre",
     "wof:parent_id":85780831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tourism"
     ]
 },
-  "bbox": [175.879303,-38.232109,175.879303,-38.232109],
-  "geometry": {"coordinates":[175.879303,-38.232109],"type":"Point"}
+  "bbox": [
+    175.879303,
+    -38.232109,
+    175.879303,
+    -38.232109
+],
+  "geometry": {"coordinates":[175.87930299999999,-38.232109],"type":"Point"}
 }

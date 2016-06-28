@@ -2,13 +2,14 @@
   "id": 219364709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.767303,-36.788525,174.767303,-36.788525",
     "geom:latitude":-36.788525,
     "geom:longitude":174.767303,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Anzac St Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219364709,
-    "wof:lastmodified":1449072357,
+    "wof:lastmodified":1466311452,
     "wof:name":"Jet Ski Tours",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [174.767303,-36.788525,174.767303,-36.788525],
+  "bbox": [
+    174.767303,
+    -36.788525,
+    174.767303,
+    -36.788525
+],
   "geometry": {"coordinates":[174.767303,-36.788525],"type":"Point"}
 }

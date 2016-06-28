@@ -2,13 +2,14 @@
   "id": 185802703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.022247,-38.665974,178.022247,-38.665974",
     "geom:latitude":-38.665974,
     "geom:longitude":178.022247,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Grey St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185802703,
-    "wof:lastmodified":1449007926,
+    "wof:lastmodified":1466311237,
     "wof:name":"Trains'N'Planes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [178.022247,-38.665974,178.022247,-38.665974],
-  "geometry": {"coordinates":[178.022247,-38.665974],"type":"Point"}
+  "bbox": [
+    178.022247,
+    -38.665974,
+    178.022247,
+    -38.665974
+],
+  "geometry": {"coordinates":[178.02224699999999,-38.665974],"type":"Point"}
 }

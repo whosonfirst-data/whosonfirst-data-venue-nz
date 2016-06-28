@@ -2,13 +2,14 @@
   "id": 169782875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.867386,-37.20129,175.867386,-37.20129",
     "geom:latitude":-37.20129,
     "geom:longitude":175.867386,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"321 Casement Rd ",
     "sg:city":"Whangamata",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169782875,
-    "wof:lastmodified":1449032672,
+    "wof:lastmodified":1466311517,
     "wof:name":"ICE 4U2",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "shopping"
     ]
 },
-  "bbox": [175.867386,-37.20129,175.867386,-37.20129],
-  "geometry": {"coordinates":[175.867386,-37.20129],"type":"Point"}
+  "bbox": [
+    175.867386,
+    -37.20129,
+    175.867386,
+    -37.20129
+],
+  "geometry": {"coordinates":[175.86738600000001,-37.20129],"type":"Point"}
 }

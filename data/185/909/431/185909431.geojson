@@ -2,13 +2,14 @@
   "id": 185909431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.237396,-44.395432,171.237396,-44.395432",
     "geom:latitude":-44.395432,
     "geom:longitude":171.237396,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 368 Timaru ",
     "sg:city":"Fairlie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185909431,
-    "wof:lastmodified":1449007817,
+    "wof:lastmodified":1466311930,
     "wof:name":"Fox Peak Ski Field",
     "wof:parent_id":85781485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sports"
     ]
 },
-  "bbox": [171.237396,-44.395432,171.237396,-44.395432],
-  "geometry": {"coordinates":[171.237396,-44.395432],"type":"Point"}
+  "bbox": [
+    171.237396,
+    -44.395432,
+    171.237396,
+    -44.395432
+],
+  "geometry": {"coordinates":[171.23739599999999,-44.395432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202981111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.1091,-41.079479,175.1091,-41.079479",
     "geom:latitude":-41.079479,
     "geom:longitude":175.1091,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1945 Akatarawa Rd Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202981111,
-    "wof:lastmodified":1449062702,
+    "wof:lastmodified":1466312940,
     "wof:name":"K Woollett Landscape Construction",
     "wof:parent_id":85780813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.1091,-41.079479,175.1091,-41.079479],
-  "geometry": {"coordinates":[175.1091,-41.079479],"type":"Point"}
+  "bbox": [
+    175.1091,
+    -41.079479,
+    175.1091,
+    -41.079479
+],
+  "geometry": {"coordinates":[175.10910000000001,-41.079479],"type":"Point"}
 }

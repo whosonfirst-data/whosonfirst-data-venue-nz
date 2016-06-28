@@ -2,13 +2,14 @@
   "id": 219528983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.453827,-39.820503,176.453827,-39.820503",
     "geom:latitude":-39.820503,
     "geom:longitude":176.453827,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 18 ",
     "sg:city":"Tikokino",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219528983,
-    "wof:lastmodified":1449071350,
+    "wof:lastmodified":1466312401,
     "wof:name":"Natural Learning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [176.453827,-39.820503,176.453827,-39.820503],
-  "geometry": {"coordinates":[176.453827,-39.820503],"type":"Point"}
+  "bbox": [
+    176.453827,
+    -39.820503,
+    176.453827,
+    -39.820503
+],
+  "geometry": {"coordinates":[176.45382699999999,-39.820503],"type":"Point"}
 }

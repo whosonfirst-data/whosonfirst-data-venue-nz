@@ -2,13 +2,14 @@
   "id": 219663593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.896912,-36.931458,174.896912,-36.931458",
     "geom:latitude":-36.931458,
     "geom:longitude":174.896912,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Harris Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219663593,
-    "wof:lastmodified":1449072999,
+    "wof:lastmodified":1466312734,
     "wof:name":"Harris Road Tyrepower Ltd",
     "wof:parent_id":85781725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.896912,-36.931458,174.896912,-36.931458],
-  "geometry": {"coordinates":[174.896912,-36.931458],"type":"Point"}
+  "bbox": [
+    174.896912,
+    -36.931458,
+    174.896912,
+    -36.931458
+],
+  "geometry": {"coordinates":[174.89691199999999,-36.931458],"type":"Point"}
 }

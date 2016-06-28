@@ -2,13 +2,14 @@
   "id": 219831029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.723099,-37.599113,175.723099,-37.599113",
     "geom:latitude":-37.599113,
     "geom:longitude":175.723099,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Waihekau Rd Te ",
     "sg:city":"Aroha",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219831029,
-    "wof:lastmodified":1449072453,
+    "wof:lastmodified":1466312990,
     "wof:name":"Rural Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.723099,-37.599113,175.723099,-37.599113],
-  "geometry": {"coordinates":[175.723099,-37.599113],"type":"Point"}
+  "bbox": [
+    175.723099,
+    -37.599113,
+    175.723099,
+    -37.599113
+],
+  "geometry": {"coordinates":[175.72309899999999,-37.599113],"type":"Point"}
 }

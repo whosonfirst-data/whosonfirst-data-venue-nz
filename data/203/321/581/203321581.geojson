@@ -2,13 +2,14 @@
   "id": 203321581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.62352,-36.88549,174.62352,-36.88549",
     "geom:latitude":-36.88549,
     "geom:longitude":174.62352,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 a Rupeke Pl Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203321581,
-    "wof:lastmodified":1449024989,
+    "wof:lastmodified":1466312299,
     "wof:name":"West City Leathers",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.62352,-36.88549,174.62352,-36.88549],
-  "geometry": {"coordinates":[174.62352,-36.88549],"type":"Point"}
+  "bbox": [
+    174.62352,
+    -36.88549,
+    174.62352,
+    -36.88549
+],
+  "geometry": {"coordinates":[174.62352000000001,-36.88549],"type":"Point"}
 }

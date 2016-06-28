@@ -2,13 +2,14 @@
   "id": 202653357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.937439,-37.06464,174.937439,-37.06464",
     "geom:latitude":-37.06464,
     "geom:longitude":174.937439,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Ray Small Dve Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202653357,
-    "wof:lastmodified":1449060296,
+    "wof:lastmodified":1466311953,
     "wof:name":"Larry Wade",
     "wof:parent_id":85781393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "plasterer"
     ]
 },
-  "bbox": [174.937439,-37.06464,174.937439,-37.06464],
-  "geometry": {"coordinates":[174.937439,-37.06464],"type":"Point"}
+  "bbox": [
+    174.937439,
+    -37.06464,
+    174.937439,
+    -37.06464
+],
+  "geometry": {"coordinates":[174.93743900000001,-37.06464],"type":"Point"}
 }

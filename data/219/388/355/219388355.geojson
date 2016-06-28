@@ -2,13 +2,14 @@
   "id": 219388355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.835831,-40.458637,175.835831,-40.458637",
     "geom:latitude":-40.458637,
     "geom:longitude":175.835831,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Main St ",
     "sg:city":"Pahiatua",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219388355,
-    "wof:lastmodified":1449070503,
+    "wof:lastmodified":1466311684,
     "wof:name":"Pahiatua Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "broker"
     ]
 },
-  "bbox": [175.835831,-40.458637,175.835831,-40.458637],
-  "geometry": {"coordinates":[175.835831,-40.458637],"type":"Point"}
+  "bbox": [
+    175.835831,
+    -40.458637,
+    175.835831,
+    -40.458637
+],
+  "geometry": {"coordinates":[175.83583100000001,-40.458637],"type":"Point"}
 }

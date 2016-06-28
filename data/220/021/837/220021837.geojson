@@ -2,13 +2,14 @@
   "id": 220021837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.487503,-45.897655,170.487503,-45.897655",
     "geom:latitude":-45.897655,
     "geom:longitude":170.487503,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"530 Hillside Rd Caversham ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220021837,
-    "wof:lastmodified":1449074554,
+    "wof:lastmodified":1466311060,
     "wof:name":"Ace Food Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.487503,-45.897655,170.487503,-45.897655],
+  "bbox": [
+    170.487503,
+    -45.897655,
+    170.487503,
+    -45.897655
+],
   "geometry": {"coordinates":[170.487503,-45.897655],"type":"Point"}
 }

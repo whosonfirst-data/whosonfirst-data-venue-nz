@@ -2,13 +2,14 @@
   "id": 186364425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.64119,-43.545948,172.64119,-43.545948",
     "geom:latitude":-43.545948,
     "geom:longitude":172.64119,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Coleridge St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186364425,
-    "wof:lastmodified":1449051888,
+    "wof:lastmodified":1466312292,
     "wof:name":"Sullivan Packaging Ltd",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.64119,-43.545948,172.64119,-43.545948],
-  "geometry": {"coordinates":[172.64119,-43.545948],"type":"Point"}
+  "bbox": [
+    172.64119,
+    -43.545948,
+    172.64119,
+    -43.545948
+],
+  "geometry": {"coordinates":[172.64118999999999,-43.545948],"type":"Point"}
 }

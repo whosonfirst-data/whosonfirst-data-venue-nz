@@ -2,13 +2,14 @@
   "id": 202941213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.032822,-40.860088,175.032822,-40.860088",
     "geom:latitude":-40.860088,
     "geom:longitude":175.032822,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Atua St Waikanae ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202941213,
-    "wof:lastmodified":1449061631,
+    "wof:lastmodified":1466312869,
     "wof:name":"Professor Turf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "turf"
     ]
 },
-  "bbox": [175.032822,-40.860088,175.032822,-40.860088],
-  "geometry": {"coordinates":[175.032822,-40.860088],"type":"Point"}
+  "bbox": [
+    175.032822,
+    -40.860088,
+    175.032822,
+    -40.860088
+],
+  "geometry": {"coordinates":[175.03282200000001,-40.860088],"type":"Point"}
 }

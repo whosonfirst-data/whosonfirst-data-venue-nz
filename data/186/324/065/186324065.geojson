@@ -2,13 +2,14 @@
   "id": 186324065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.800583,-36.922279,174.800583,-36.922279",
     "geom:latitude":-36.922279,
     "geom:longitude":174.800583,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Captain Springs Rd Te Papapa ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186324065,
-    "wof:lastmodified":1449051941,
+    "wof:lastmodified":1466312282,
     "wof:name":"Morris Sheetmetal Works Ltd",
     "wof:parent_id":85778677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.800583,-36.922279,174.800583,-36.922279],
-  "geometry": {"coordinates":[174.800583,-36.922279],"type":"Point"}
+  "bbox": [
+    174.800583,
+    -36.922279,
+    174.800583,
+    -36.922279
+],
+  "geometry": {"coordinates":[174.80058299999999,-36.922279],"type":"Point"}
 }

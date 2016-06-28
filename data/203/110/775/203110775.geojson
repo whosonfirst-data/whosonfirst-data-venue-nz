@@ -2,13 +2,14 @@
   "id": 203110775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.311707,-41.273041,173.311707,-41.273041",
     "geom:latitude":-41.273041,
     "geom:longitude":173.311707,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Maitai Valley Rd Maitai Valley ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203110775,
-    "wof:lastmodified":1449025542,
+    "wof:lastmodified":1466310612,
     "wof:name":"Phamous Photographs",
     "wof:parent_id":85781545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [173.311707,-41.273041,173.311707,-41.273041],
-  "geometry": {"coordinates":[173.311707,-41.273041],"type":"Point"}
+  "bbox": [
+    173.311707,
+    -41.273041,
+    173.311707,
+    -41.273041
+],
+  "geometry": {"coordinates":[173.31170700000001,-41.273041],"type":"Point"}
 }

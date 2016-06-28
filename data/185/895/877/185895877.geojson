@@ -2,13 +2,14 @@
   "id": 185895877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.585327,-45.874229,170.585327,-45.874229",
     "geom:latitude":-45.874229,
     "geom:longitude":170.585327,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"430 Portobello Rd ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185895877,
-    "wof:lastmodified":1449007288,
+    "wof:lastmodified":1466311832,
     "wof:name":"Glenfalloch Restaurants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sport"
     ]
 },
-  "bbox": [170.585327,-45.874229,170.585327,-45.874229],
-  "geometry": {"coordinates":[170.585327,-45.874229],"type":"Point"}
+  "bbox": [
+    170.585327,
+    -45.874229,
+    170.585327,
+    -45.874229
+],
+  "geometry": {"coordinates":[170.58532700000001,-45.874229],"type":"Point"}
 }

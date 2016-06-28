@@ -2,13 +2,14 @@
   "id": 186588101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.680298,40.537846,-87.680298,40.537846",
     "geom:latitude":40.537846,
     "geom:longitude":-87.680298,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, Advantage House 44 The Terrace ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186588101,
-    "wof:lastmodified":1449052485,
+    "wof:lastmodified":1466312945,
     "wof:name":"Harris Karen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.680298,40.537846,-87.680298,40.537846],
-  "geometry": {"coordinates":[-87.680298,40.537846],"type":"Point"}
+  "bbox": [
+    -87.680298,
+    40.537846,
+    -87.680298,
+    40.537846
+],
+  "geometry": {"coordinates":[-87.68029799999999,40.537846],"type":"Point"}
 }

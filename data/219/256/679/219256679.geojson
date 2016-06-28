@@ -2,13 +2,14 @@
   "id": 219256679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.324066,-35.716862,174.324066,-35.716862",
     "geom:latitude":-35.716862,
     "geom:longitude":174.324066,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Wolfe St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219256679,
-    "wof:lastmodified":1449073088,
+    "wof:lastmodified":1466310605,
     "wof:name":"Aaron Court Motel",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.324066,-35.716862,174.324066,-35.716862],
-  "geometry": {"coordinates":[174.324066,-35.716862],"type":"Point"}
+  "bbox": [
+    174.324066,
+    -35.716862,
+    174.324066,
+    -35.716862
+],
+  "geometry": {"coordinates":[174.32406599999999,-35.716862],"type":"Point"}
 }

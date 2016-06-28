@@ -2,13 +2,14 @@
   "id": 202690481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.49234,-40.140392,175.49234,-40.140392",
     "geom:latitude":-40.140392,
     "geom:longitude":175.49234,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Willoughby St R D 9 Feilding ",
     "sg:city":"Halcombe",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202690481,
-    "wof:lastmodified":1449061450,
+    "wof:lastmodified":1466312208,
     "wof:name":"Halcombe Play Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "children"
     ]
 },
-  "bbox": [175.49234,-40.140392,175.49234,-40.140392],
-  "geometry": {"coordinates":[175.49234,-40.140392],"type":"Point"}
+  "bbox": [
+    175.49234,
+    -40.140392,
+    175.49234,
+    -40.140392
+],
+  "geometry": {"coordinates":[175.49234000000001,-40.140392],"type":"Point"}
 }

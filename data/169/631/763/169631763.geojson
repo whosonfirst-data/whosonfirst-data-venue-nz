@@ -2,13 +2,14 @@
   "id": 169631763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.046135,34.125385,-88.046135,34.125385",
     "geom:latitude":34.125385,
     "geom:longitude":-88.046135,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"NZI Bldg 11 Garden Pl ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169631763,
-    "wof:lastmodified":1449033711,
+    "wof:lastmodified":1466311965,
     "wof:name":"Big Tones CD And Video Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.046135,34.125385,-88.046135,34.125385],
-  "geometry": {"coordinates":[-88.046135,34.125385],"type":"Point"}
+  "bbox": [
+    -88.046135,
+    34.125385,
+    -88.046135,
+    34.125385
+],
+  "geometry": {"coordinates":[-88.04613500000001,34.125385],"type":"Point"}
 }

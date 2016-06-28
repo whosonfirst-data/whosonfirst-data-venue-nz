@@ -2,13 +2,14 @@
   "id": 220166713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.269897,-41.281052,173.269897,-41.281052",
     "geom:latitude":-41.281052,
     "geom:longitude":173.269897,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box ",
     "sg:city":"7046",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220166713,
-    "wof:lastmodified":1449074504,
+    "wof:lastmodified":1466311203,
     "wof:name":"Michaels Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "veges"
     ]
 },
-  "bbox": [173.269897,-41.281052,173.269897,-41.281052],
-  "geometry": {"coordinates":[173.269897,-41.281052],"type":"Point"}
+  "bbox": [
+    173.269897,
+    -41.281052,
+    173.269897,
+    -41.281052
+],
+  "geometry": {"coordinates":[173.26989699999999,-41.281052],"type":"Point"}
 }

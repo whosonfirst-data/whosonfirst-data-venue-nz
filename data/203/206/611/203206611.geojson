@@ -2,13 +2,14 @@
   "id": 203206611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.875839,-37.011375,174.875839,-37.011375",
     "geom:latitude":-37.011375,
     "geom:longitude":174.875839,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Dalgety Dve Wiri ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203206611,
-    "wof:lastmodified":1449026275,
+    "wof:lastmodified":1466311427,
     "wof:name":"Fabri-Cell International Ltd",
     "wof:parent_id":85773349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothing"
     ]
 },
-  "bbox": [174.875839,-37.011375,174.875839,-37.011375],
-  "geometry": {"coordinates":[174.875839,-37.011375],"type":"Point"}
+  "bbox": [
+    174.875839,
+    -37.011375,
+    174.875839,
+    -37.011375
+],
+  "geometry": {"coordinates":[174.87583900000001,-37.011375],"type":"Point"}
 }

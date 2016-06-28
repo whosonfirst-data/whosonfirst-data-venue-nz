@@ -2,13 +2,14 @@
   "id": 169862795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.89212,-36.939438,174.89212,-36.939438",
     "geom:latitude":-36.939438,
     "geom:longitude":174.89212,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3/61 Crooks Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169862795,
-    "wof:lastmodified":1449036046,
+    "wof:lastmodified":1466312032,
     "wof:name":"Geneva's",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.89212,-36.939438,174.89212,-36.939438],
-  "geometry": {"coordinates":[174.89212,-36.939438],"type":"Point"}
+  "bbox": [
+    174.89212,
+    -36.939438,
+    174.89212,
+    -36.939438
+],
+  "geometry": {"coordinates":[174.89212000000001,-36.939438],"type":"Point"}
 }

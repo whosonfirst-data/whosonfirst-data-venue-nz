@@ -2,13 +2,14 @@
   "id": 202657083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.406021,-45.921776,170.406021,-45.921776",
     "geom:latitude":-45.921776,
     "geom:longitude":170.406021,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Brighton Rd Waldronville ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202657083,
-    "wof:lastmodified":1449060390,
+    "wof:lastmodified":1466311979,
     "wof:name":"Plastering Solid",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plasterer"
     ]
 },
-  "bbox": [170.406021,-45.921776,170.406021,-45.921776],
-  "geometry": {"coordinates":[170.406021,-45.921776],"type":"Point"}
+  "bbox": [
+    170.406021,
+    -45.921776,
+    170.406021,
+    -45.921776
+],
+  "geometry": {"coordinates":[170.40602100000001,-45.921776],"type":"Point"}
 }

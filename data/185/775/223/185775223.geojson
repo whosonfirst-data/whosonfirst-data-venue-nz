@@ -2,13 +2,14 @@
   "id": 185775223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.78038,-36.863323,174.78038,-36.863323",
     "geom:latitude":-36.863323,
     "geom:longitude":174.78038,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Parnell Rd Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185775223,
-    "wof:lastmodified":1449007785,
+    "wof:lastmodified":1466311059,
     "wof:name":"Parnell Community Centre",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.78038,-36.863323,174.78038,-36.863323],
-  "geometry": {"coordinates":[174.78038,-36.863323],"type":"Point"}
+  "bbox": [
+    174.78038,
+    -36.863323,
+    174.78038,
+    -36.863323
+],
+  "geometry": {"coordinates":[174.78038000000001,-36.863323],"type":"Point"}
 }

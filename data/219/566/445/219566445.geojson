@@ -2,13 +2,14 @@
   "id": 219566445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.814117,-36.919067,174.814117,-36.919067",
     "geom:latitude":-36.919067,
     "geom:longitude":174.814117,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Beasley Ave Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219566445,
-    "wof:lastmodified":1449070439,
+    "wof:lastmodified":1466312495,
     "wof:name":"Bradleys Transport Ltd",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.814117,-36.919067,174.814117,-36.919067],
-  "geometry": {"coordinates":[174.814117,-36.919067],"type":"Point"}
+  "bbox": [
+    174.814117,
+    -36.919067,
+    174.814117,
+    -36.919067
+],
+  "geometry": {"coordinates":[174.81411700000001,-36.919067],"type":"Point"}
 }

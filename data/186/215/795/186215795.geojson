@@ -2,13 +2,14 @@
   "id": 186215795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.888214,-36.942081,174.888214,-36.942081",
     "geom:latitude":-36.942081,
     "geom:longitude":174.888214,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Allens Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186215795,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466311542,
     "wof:name":"North Hydraulics",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [174.888214,-36.942081,174.888214,-36.942081],
+  "bbox": [
+    174.888214,
+    -36.942081,
+    174.888214,
+    -36.942081
+],
   "geometry": {"coordinates":[174.888214,-36.942081],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219956127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.321243,-38.007996,175.321243,-38.007996",
     "geom:latitude":-38.007996,
     "geom:longitude":175.321243,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Mutu St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219956127,
-    "wof:lastmodified":1449070988,
+    "wof:lastmodified":1466313169,
     "wof:name":"Te Awamutu Veterinary Services",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.321243,-38.007996,175.321243,-38.007996],
-  "geometry": {"coordinates":[175.321243,-38.007996],"type":"Point"}
+  "bbox": [
+    175.321243,
+    -38.007996,
+    175.321243,
+    -38.007996
+],
+  "geometry": {"coordinates":[175.32124300000001,-38.007996],"type":"Point"}
 }

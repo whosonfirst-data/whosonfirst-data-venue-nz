@@ -2,13 +2,14 @@
   "id": 185982935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.282593,-37.821182,175.282593,-37.821182",
     "geom:latitude":-37.821182,
     "geom:longitude":175.282593,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Glenview Hotel Ohaupo Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185982935,
-    "wof:lastmodified":1449006890,
+    "wof:lastmodified":1466312363,
     "wof:name":"Glenview International Hotel",
     "wof:parent_id":85781011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.282593,-37.821182,175.282593,-37.821182],
-  "geometry": {"coordinates":[175.282593,-37.821182],"type":"Point"}
+  "bbox": [
+    175.282593,
+    -37.821182,
+    175.282593,
+    -37.821182
+],
+  "geometry": {"coordinates":[175.28259299999999,-37.821182],"type":"Point"}
 }

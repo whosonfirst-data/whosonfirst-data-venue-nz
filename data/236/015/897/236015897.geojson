@@ -2,13 +2,14 @@
   "id": 236015897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.590286,-43.530502,172.590286,-43.530502",
     "geom:latitude":-43.530502,
     "geom:longitude":172.590286,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Riccarton Rd ",
     "sg:city":"Riccarton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236015897,
-    "wof:lastmodified":1449002244,
+    "wof:lastmodified":1466310904,
     "wof:name":"KFC",
     "wof:parent_id":85778569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "takeaway"
     ]
 },
-  "bbox": [172.590286,-43.530502,172.590286,-43.530502],
-  "geometry": {"coordinates":[172.590286,-43.530502],"type":"Point"}
+  "bbox": [
+    172.590286,
+    -43.530502,
+    172.590286,
+    -43.530502
+],
+  "geometry": {"coordinates":[172.59028599999999,-43.530502],"type":"Point"}
 }

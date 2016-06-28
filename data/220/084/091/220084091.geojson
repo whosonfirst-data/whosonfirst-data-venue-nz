@@ -2,13 +2,14 @@
   "id": 220084091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"151.329056,-33.621712,151.329056,-33.621712",
     "geom:latitude":-33.621712,
     "geom:longitude":151.329056,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit C22/148 Old Pittwater ",
     "sg:city":"Rd",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220084091,
-    "wof:lastmodified":1449074115,
+    "wof:lastmodified":1466311904,
     "wof:name":"Symetec",
     "wof:parent_id":85770623,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "machinery"
     ]
 },
-  "bbox": [151.329056,-33.621712,151.329056,-33.621712],
-  "geometry": {"coordinates":[151.329056,-33.621712],"type":"Point"}
+  "bbox": [
+    151.329056,
+    -33.621712,
+    151.329056,
+    -33.621712
+],
+  "geometry": {"coordinates":[151.32905600000001,-33.621712],"type":"Point"}
 }

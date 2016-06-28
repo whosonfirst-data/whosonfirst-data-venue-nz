@@ -2,13 +2,14 @@
   "id": 202599253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.749969,-36.777733,174.749969,-36.777733",
     "geom:latitude":-36.777733,
     "geom:longitude":174.749969,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Westcity ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202599253,
-    "wof:lastmodified":1449061303,
+    "wof:lastmodified":1466311511,
     "wof:name":"Bed Bath & Beyond - Linen For Less",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.749969,-36.777733,174.749969,-36.777733],
-  "geometry": {"coordinates":[174.749969,-36.777733],"type":"Point"}
+  "bbox": [
+    174.749969,
+    -36.777733,
+    174.749969,
+    -36.777733
+],
+  "geometry": {"coordinates":[174.74996899999999,-36.777733],"type":"Point"}
 }

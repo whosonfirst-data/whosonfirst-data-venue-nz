@@ -2,13 +2,14 @@
   "id": 185814955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.506256,-45.878353,170.506256,-45.878353",
     "geom:latitude":-45.878353,
     "geom:longitude":170.506256,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Phone/Fax 267 King Edward St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185814955,
-    "wof:lastmodified":1449006912,
+    "wof:lastmodified":1466311326,
     "wof:name":"Baylis W A The Chemist Ltd",
     "wof:parent_id":85782381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hobbies"
     ]
 },
-  "bbox": [170.506256,-45.878353,170.506256,-45.878353],
-  "geometry": {"coordinates":[170.506256,-45.878353],"type":"Point"}
+  "bbox": [
+    170.506256,
+    -45.878353,
+    170.506256,
+    -45.878353
+],
+  "geometry": {"coordinates":[170.50625600000001,-45.878353],"type":"Point"}
 }

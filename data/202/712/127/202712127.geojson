@@ -2,13 +2,14 @@
   "id": 202712127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.742584,-36.856464,174.742584,-36.856464",
     "geom:latitude":-36.856464,
     "geom:longitude":174.742584,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 A Brown St Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202712127,
-    "wof:lastmodified":1449061205,
+    "wof:lastmodified":1466312177,
     "wof:name":"Poppetts Nanny Bureau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.742584,-36.856464,174.742584,-36.856464],
-  "geometry": {"coordinates":[174.742584,-36.856464],"type":"Point"}
+  "bbox": [
+    174.742584,
+    -36.856464,
+    174.742584,
+    -36.856464
+],
+  "geometry": {"coordinates":[174.74258399999999,-36.856464],"type":"Point"}
 }

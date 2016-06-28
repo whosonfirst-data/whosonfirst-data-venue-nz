@@ -2,13 +2,14 @@
   "id": 219241711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.272263,-39.429615,175.272263,-39.429615",
     "geom:latitude":-39.429615,
     "geom:longitude":175.272263,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Ballance St ",
     "sg:city":"Raetihi",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219241711,
-    "wof:lastmodified":1449073821,
+    "wof:lastmodified":1466311929,
     "wof:name":"Carmichael Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.272263,-39.429615,175.272263,-39.429615],
-  "geometry": {"coordinates":[175.272263,-39.429615],"type":"Point"}
+  "bbox": [
+    175.272263,
+    -39.429615,
+    175.272263,
+    -39.429615
+],
+  "geometry": {"coordinates":[175.27226300000001,-39.429615],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220123011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.83847,-36.943687,174.83847,-36.943687",
     "geom:latitude":-36.943687,
     "geom:longitude":174.83847,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Station Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220123011,
-    "wof:lastmodified":1449074256,
+    "wof:lastmodified":1466310810,
     "wof:name":"Mama Shop",
     "wof:parent_id":85778867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [174.83847,-36.943687,174.83847,-36.943687],
+  "bbox": [
+    174.83847,
+    -36.943687,
+    174.83847,
+    -36.943687
+],
   "geometry": {"coordinates":[174.83847,-36.943687],"type":"Point"}
 }

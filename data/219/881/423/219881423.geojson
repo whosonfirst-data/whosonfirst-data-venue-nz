@@ -2,13 +2,14 @@
   "id": 219881423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.599579,-41.765736,171.599579,-41.765736",
     "geom:latitude":-41.765736,
     "geom:longitude":171.599579,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Rd RD1 Fairdown ",
     "sg:city":"Westport",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219881423,
-    "wof:lastmodified":1449072426,
+    "wof:lastmodified":1466313154,
     "wof:name":"Orowaiti Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [171.599579,-41.765736,171.599579,-41.765736],
-  "geometry": {"coordinates":[171.599579,-41.765736],"type":"Point"}
+  "bbox": [
+    171.599579,
+    -41.765736,
+    171.599579,
+    -41.765736
+],
+  "geometry": {"coordinates":[171.59957900000001,-41.765736],"type":"Point"}
 }

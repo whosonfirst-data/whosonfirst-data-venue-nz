@@ -2,13 +2,14 @@
   "id": 186563199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.701645,-36.747784,174.701645,-36.747784",
     "geom:latitude":-36.747784,
     "geom:longitude":174.701645,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 D Piermark Dve Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186563199,
-    "wof:lastmodified":1449050297,
+    "wof:lastmodified":1466312916,
     "wof:name":"Petals Wholesale Ltd",
     "wof:parent_id":85772825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.701645,-36.747784,174.701645,-36.747784],
-  "geometry": {"coordinates":[174.701645,-36.747784],"type":"Point"}
+  "bbox": [
+    174.701645,
+    -36.747784,
+    174.701645,
+    -36.747784
+],
+  "geometry": {"coordinates":[174.70164500000001,-36.747784],"type":"Point"}
 }

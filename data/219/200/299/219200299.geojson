@@ -2,13 +2,14 @@
   "id": 219200299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.547501,-43.492039,172.547501,-43.492039",
     "geom:latitude":-43.492039,
     "geom:longitude":172.547501,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Richard Pearse Rd Christchurch Airport ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219200299,
-    "wof:lastmodified":1449071796,
+    "wof:lastmodified":1466311476,
     "wof:name":"DHL Worldwide Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.547501,-43.492039,172.547501,-43.492039],
-  "geometry": {"coordinates":[172.547501,-43.492039],"type":"Point"}
+  "bbox": [
+    172.547501,
+    -43.492039,
+    172.547501,
+    -43.492039
+],
+  "geometry": {"coordinates":[172.54750100000001,-43.492039],"type":"Point"}
 }

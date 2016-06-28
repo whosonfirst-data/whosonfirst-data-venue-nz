@@ -2,13 +2,14 @@
   "id": 202851875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.852158,-36.979259,174.852158,-36.979259",
     "geom:latitude":-36.979259,
     "geom:longitude":174.852158,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Rangitoto Rd Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202851875,
-    "wof:lastmodified":1449061759,
+    "wof:lastmodified":1466312700,
     "wof:name":"Rangitoto House",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "furniture"
     ]
 },
-  "bbox": [174.852158,-36.979259,174.852158,-36.979259],
+  "bbox": [
+    174.852158,
+    -36.979259,
+    174.852158,
+    -36.979259
+],
   "geometry": {"coordinates":[174.852158,-36.979259],"type":"Point"}
 }

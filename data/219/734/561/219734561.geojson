@@ -2,13 +2,14 @@
   "id": 219734561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.28302,-39.587837,174.28302,-39.587837",
     "geom:latitude":-39.587837,
     "geom:longitude":174.28302,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Nelson Sts ",
     "sg:city":"Hawera",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219734561,
-    "wof:lastmodified":1449073470,
+    "wof:lastmodified":1466312958,
     "wof:name":"Hobbs Davy Auto Services Ltd",
     "wof:parent_id":85781023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.28302,-39.587837,174.28302,-39.587837],
-  "geometry": {"coordinates":[174.28302,-39.587837],"type":"Point"}
+  "bbox": [
+    174.28302,
+    -39.587837,
+    174.28302,
+    -39.587837
+],
+  "geometry": {"coordinates":[174.28301999999999,-39.587837],"type":"Point"}
 }

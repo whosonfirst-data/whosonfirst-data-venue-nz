@@ -2,13 +2,14 @@
   "id": 219246871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.837509,-39.636494,176.837509,-39.636494",
     "geom:latitude":-39.636494,
     "geom:longitude":176.837509,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Tomoana Rd ",
     "sg:city":"Hastings",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219246871,
-    "wof:lastmodified":1449070624,
+    "wof:lastmodified":1466310529,
     "wof:name":"Milne R C",
     "wof:parent_id":85782409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.837509,-39.636494,176.837509,-39.636494],
-  "geometry": {"coordinates":[176.837509,-39.636494],"type":"Point"}
+  "bbox": [
+    176.837509,
+    -39.636494,
+    176.837509,
+    -39.636494
+],
+  "geometry": {"coordinates":[176.83750900000001,-39.636494],"type":"Point"}
 }

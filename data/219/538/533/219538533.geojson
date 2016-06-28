@@ -2,13 +2,14 @@
   "id": 219538533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.456871,43.66745,-74.456871,43.66745",
     "geom:latitude":43.66745,
     "geom:longitude":-74.456871,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Ohaupo Rd & Normandy Ave ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219538533,
-    "wof:lastmodified":1449070834,
+    "wof:lastmodified":1466312536,
     "wof:name":"Melville Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [-74.456871,43.66745,-74.456871,43.66745],
-  "geometry": {"coordinates":[-74.456871,43.66745],"type":"Point"}
+  "bbox": [
+    -74.456871,
+    43.66745,
+    -74.456871,
+    43.66745
+],
+  "geometry": {"coordinates":[-74.45687100000001,43.66745],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202947281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.844284,-36.899147,174.844284,-36.899147",
     "geom:latitude":-36.899147,
     "geom:longitude":174.844284,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1-37 Mt Wellington Highway ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202947281,
-    "wof:lastmodified":1449061941,
+    "wof:lastmodified":1466312878,
     "wof:name":"Masport Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.844284,-36.899147,174.844284,-36.899147],
-  "geometry": {"coordinates":[174.844284,-36.899147],"type":"Point"}
+  "bbox": [
+    174.844284,
+    -36.899147,
+    174.844284,
+    -36.899147
+],
+  "geometry": {"coordinates":[174.84428399999999,-36.899147],"type":"Point"}
 }

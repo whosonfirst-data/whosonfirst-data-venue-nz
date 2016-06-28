@@ -2,13 +2,14 @@
   "id": 202596369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.871246,-37.21191,175.871246,-37.21191",
     "geom:latitude":-37.21191,
     "geom:longitude":175.871246,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Wattle Place & Martyn Road ",
     "sg:city":"Whangamata",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202596369,
-    "wof:lastmodified":1449061419,
+    "wof:lastmodified":1466311485,
     "wof:name":"The Kitchen & Cabinet Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.871246,-37.21191,175.871246,-37.21191],
-  "geometry": {"coordinates":[175.871246,-37.21191],"type":"Point"}
+  "bbox": [
+    175.871246,
+    -37.21191,
+    175.871246,
+    -37.21191
+],
+  "geometry": {"coordinates":[175.87124600000001,-37.21191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186337429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.893555,-36.926476,174.893555,-36.926476",
     "geom:latitude":-36.926476,
     "geom:longitude":174.893555,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"269 Ti Rakau Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186337429,
-    "wof:lastmodified":1449051641,
+    "wof:lastmodified":1466312218,
     "wof:name":"Sandvik New Zealand Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [174.893555,-36.926476,174.893555,-36.926476],
-  "geometry": {"coordinates":[174.893555,-36.926476],"type":"Point"}
+  "bbox": [
+    174.893555,
+    -36.926476,
+    174.893555,
+    -36.926476
+],
+  "geometry": {"coordinates":[174.89355499999999,-36.926476],"type":"Point"}
 }

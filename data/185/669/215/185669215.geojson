@@ -2,13 +2,14 @@
   "id": 185669215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.147705,-37.670525,176.147705,-37.670525",
     "geom:latitude":-37.670525,
     "geom:longitude":176.147705,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Darraghs Rd Otumoetai ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185669215,
-    "wof:lastmodified":1449006789,
+    "wof:lastmodified":1466311742,
     "wof:name":"Dr Jaz",
     "wof:parent_id":85781315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leisure"
     ]
 },
-  "bbox": [176.147705,-37.670525,176.147705,-37.670525],
+  "bbox": [
+    176.147705,
+    -37.670525,
+    176.147705,
+    -37.670525
+],
   "geometry": {"coordinates":[176.147705,-37.670525],"type":"Point"}
 }

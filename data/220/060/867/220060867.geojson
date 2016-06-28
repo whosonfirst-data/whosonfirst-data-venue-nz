@@ -2,13 +2,14 @@
   "id": 220060867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.741638,-36.837521,175.741638,-36.837521",
     "geom:latitude":-36.837521,
     "geom:longitude":175.741638,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Captain Cook Rd Cooks Beach ",
     "sg:city":"Whitianga",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":220060867,
-    "wof:lastmodified":1449074804,
+    "wof:lastmodified":1466311732,
     "wof:name":"Cooks Beach Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "outlet"
     ]
 },
-  "bbox": [175.741638,-36.837521,175.741638,-36.837521],
-  "geometry": {"coordinates":[175.741638,-36.837521],"type":"Point"}
+  "bbox": [
+    175.741638,
+    -36.837521,
+    175.741638,
+    -36.837521
+],
+  "geometry": {"coordinates":[175.74163799999999,-36.837521],"type":"Point"}
 }

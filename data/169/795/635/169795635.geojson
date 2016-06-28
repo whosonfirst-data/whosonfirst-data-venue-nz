@@ -2,13 +2,14 @@
   "id": 169795635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.041931,-39.926746,175.041931,-39.926746",
     "geom:latitude":-39.926746,
     "geom:longitude":175.041931,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"346 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169795635,
-    "wof:lastmodified":1449034642,
+    "wof:lastmodified":1466311609,
     "wof:name":"Blind Boutique",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.041931,-39.926746,175.041931,-39.926746],
-  "geometry": {"coordinates":[175.041931,-39.926746],"type":"Point"}
+  "bbox": [
+    175.041931,
+    -39.926746,
+    175.041931,
+    -39.926746
+],
+  "geometry": {"coordinates":[175.04193100000001,-39.926746],"type":"Point"}
 }

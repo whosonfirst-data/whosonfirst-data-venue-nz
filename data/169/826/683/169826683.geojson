@@ -2,13 +2,14 @@
   "id": 169826683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.117775,40.856239,-74.117775,40.856239",
     "geom:latitude":40.856239,
     "geom:longitude":-74.117775,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Mercer St ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169826683,
-    "wof:lastmodified":1449035071,
+    "wof:lastmodified":1466311856,
     "wof:name":"Mainly Tramping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.117775,40.856239,-74.117775,40.856239],
-  "geometry": {"coordinates":[-74.117775,40.856239],"type":"Point"}
+  "bbox": [
+    -74.117775,
+    40.856239,
+    -74.117775,
+    40.856239
+],
+  "geometry": {"coordinates":[-74.11777499999999,40.856239],"type":"Point"}
 }

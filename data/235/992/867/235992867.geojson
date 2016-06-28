@@ -2,13 +2,14 @@
   "id": 235992867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.797638,-36.830372,174.797638,-36.830372",
     "geom:latitude":-36.830372,
     "geom:longitude":174.797638,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Victoria Rd Devonport ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235992867,
-    "wof:lastmodified":1449008408,
+    "wof:lastmodified":1466311549,
     "wof:name":"Delissimo Pizzas",
     "wof:parent_id":85778259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pizza"
     ]
 },
-  "bbox": [174.797638,-36.830372,174.797638,-36.830372],
-  "geometry": {"coordinates":[174.797638,-36.830372],"type":"Point"}
+  "bbox": [
+    174.797638,
+    -36.830372,
+    174.797638,
+    -36.830372
+],
+  "geometry": {"coordinates":[174.79763800000001,-36.830372],"type":"Point"}
 }

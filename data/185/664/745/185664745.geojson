@@ -2,13 +2,14 @@
   "id": 185664745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.15097,-37.714375,176.15097,-37.714375",
     "geom:latitude":-37.714375,
     "geom:longitude":176.15097,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Fraser St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185664745,
-    "wof:lastmodified":1449007199,
+    "wof:lastmodified":1466311685,
     "wof:name":"C.O.I. New Zealand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "camping"
     ]
 },
-  "bbox": [176.15097,-37.714375,176.15097,-37.714375],
+  "bbox": [
+    176.15097,
+    -37.714375,
+    176.15097,
+    -37.714375
+],
   "geometry": {"coordinates":[176.15097,-37.714375],"type":"Point"}
 }

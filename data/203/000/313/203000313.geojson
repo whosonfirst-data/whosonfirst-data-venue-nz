@@ -2,13 +2,14 @@
   "id": 203000313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.482773,-45.885586,170.482773,-45.885586",
     "geom:latitude":-45.885586,
     "geom:longitude":170.482773,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Glen Rd Mornington ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203000313,
-    "wof:lastmodified":1449025237,
+    "wof:lastmodified":1466310511,
     "wof:name":"David Baird Tree Advocate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.482773,-45.885586,170.482773,-45.885586],
-  "geometry": {"coordinates":[170.482773,-45.885586],"type":"Point"}
+  "bbox": [
+    170.482773,
+    -45.885586,
+    170.482773,
+    -45.885586
+],
+  "geometry": {"coordinates":[170.48277300000001,-45.885586],"type":"Point"}
 }

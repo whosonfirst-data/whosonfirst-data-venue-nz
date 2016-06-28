@@ -2,13 +2,14 @@
   "id": 203231935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.046585,-39.934029,175.046585,-39.934029",
     "geom:latitude":-39.934029,
     "geom:longitude":175.046585,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Wilson St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203231935,
-    "wof:lastmodified":1449025902,
+    "wof:lastmodified":1466311665,
     "wof:name":"Oscar Eide Apparel",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [175.046585,-39.934029,175.046585,-39.934029],
-  "geometry": {"coordinates":[175.046585,-39.934029],"type":"Point"}
+  "bbox": [
+    175.046585,
+    -39.934029,
+    175.046585,
+    -39.934029
+],
+  "geometry": {"coordinates":[175.04658499999999,-39.934029],"type":"Point"}
 }

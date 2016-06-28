@@ -2,13 +2,14 @@
   "id": 203080331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.042938,-39.926277,175.042938,-39.926277",
     "geom:latitude":-39.926277,
     "geom:longitude":175.042938,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Wicksteed St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203080331,
-    "wof:lastmodified":1449026829,
+    "wof:lastmodified":1466311811,
     "wof:name":"Pool Clinic",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "spa"
     ]
 },
-  "bbox": [175.042938,-39.926277,175.042938,-39.926277],
-  "geometry": {"coordinates":[175.042938,-39.926277],"type":"Point"}
+  "bbox": [
+    175.042938,
+    -39.926277,
+    175.042938,
+    -39.926277
+],
+  "geometry": {"coordinates":[175.04293799999999,-39.926277],"type":"Point"}
 }

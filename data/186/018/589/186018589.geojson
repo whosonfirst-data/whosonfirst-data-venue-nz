@@ -2,13 +2,14 @@
   "id": 186018589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.211349,-41.303894,173.211349,-41.303894",
     "geom:latitude":-41.303894,
     "geom:longitude":173.211349,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Point Rd Monaco ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186018589,
-    "wof:lastmodified":1449051713,
+    "wof:lastmodified":1466310865,
     "wof:name":"The Honest Lawyer Country Pub",
     "wof:parent_id":85781575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [173.211349,-41.303894,173.211349,-41.303894],
-  "geometry": {"coordinates":[173.211349,-41.303894],"type":"Point"}
+  "bbox": [
+    173.211349,
+    -41.303894,
+    173.211349,
+    -41.303894
+],
+  "geometry": {"coordinates":[173.21134900000001,-41.303894],"type":"Point"}
 }

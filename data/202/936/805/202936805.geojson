@@ -2,13 +2,14 @@
   "id": 202936805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.728516,-37.252129,174.728516,-37.252129",
     "geom:latitude":-37.252129,
     "geom:longitude":174.728516,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17-19 Martyn St Waiuku ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202936805,
-    "wof:lastmodified":1449060954,
+    "wof:lastmodified":1466312763,
     "wof:name":"Faber Glasshouses (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.728516,-37.252129,174.728516,-37.252129],
-  "geometry": {"coordinates":[174.728516,-37.252129],"type":"Point"}
+  "bbox": [
+    174.728516,
+    -37.252129,
+    174.728516,
+    -37.252129
+],
+  "geometry": {"coordinates":[174.72851600000001,-37.252129],"type":"Point"}
 }

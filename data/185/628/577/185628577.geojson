@@ -2,13 +2,14 @@
   "id": 185628577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-3.225619,50.970222,-3.225619,50.970222",
     "geom:latitude":50.970222,
     "geom:longitude":-3.225619,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Queens Wharf Jervois Qy ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185628577,
-    "wof:lastmodified":1449007923,
+    "wof:lastmodified":1466311180,
     "wof:name":"Wellington Museums Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gallery"
     ]
 },
-  "bbox": [-3.225619,50.970222,-3.225619,50.970222],
+  "bbox": [
+    -3.225619,
+    50.970222,
+    -3.225619,
+    50.970222
+],
   "geometry": {"coordinates":[-3.225619,50.970222],"type":"Point"}
 }

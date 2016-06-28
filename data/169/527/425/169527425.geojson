@@ -2,13 +2,14 @@
   "id": 169527425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.775955,-41.285435,174.775955,-41.285435",
     "geom:latitude":-41.285435,
     "geom:longitude":174.775955,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"215-229 Lambton Quay",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169527425,
-    "wof:lastmodified":1449035277,
+    "wof:lastmodified":1466310582,
     "wof:name":"ANZ Banking Group Ltd",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.775955,-41.285435,174.775955,-41.285435],
-  "geometry": {"coordinates":[174.775955,-41.285435],"type":"Point"}
+  "bbox": [
+    174.775955,
+    -41.285435,
+    174.775955,
+    -41.285435
+],
+  "geometry": {"coordinates":[174.77595500000001,-41.285435],"type":"Point"}
 }

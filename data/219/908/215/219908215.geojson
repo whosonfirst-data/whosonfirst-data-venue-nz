@@ -2,13 +2,14 @@
   "id": 219908215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.352341,-46.386425,168.352341,-46.386425",
     "geom:latitude":-46.386425,
     "geom:longitude":168.352341,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Preston St Waikiwi ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219908215,
-    "wof:lastmodified":1449072384,
+    "wof:lastmodified":1466313090,
     "wof:name":"Hecton Products",
     "wof:parent_id":85778907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.352341,-46.386425,168.352341,-46.386425],
+  "bbox": [
+    168.352341,
+    -46.386425,
+    168.352341,
+    -46.386425
+],
   "geometry": {"coordinates":[168.352341,-46.386425],"type":"Point"}
 }

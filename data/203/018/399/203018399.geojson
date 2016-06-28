@@ -2,13 +2,14 @@
   "id": 203018399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.374557,-46.424633,168.374557,-46.424633",
     "geom:latitude":-46.424633,
     "geom:longitude":168.374557,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Conyers St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203018399,
-    "wof:lastmodified":1449025872,
+    "wof:lastmodified":1466310810,
     "wof:name":"Osborne's Handyman Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.374557,-46.424633,168.374557,-46.424633],
-  "geometry": {"coordinates":[168.374557,-46.424633],"type":"Point"}
+  "bbox": [
+    168.374557,
+    -46.424633,
+    168.374557,
+    -46.424633
+],
+  "geometry": {"coordinates":[168.37455700000001,-46.424633],"type":"Point"}
 }

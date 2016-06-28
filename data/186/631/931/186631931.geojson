@@ -2,13 +2,14 @@
   "id": 186631931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-68.321289,44.538879,-68.321289,44.538879",
     "geom:latitude":44.538879,
     "geom:longitude":-68.321289,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Franklin Rd Waitawheta R D 2 ",
     "sg:city":"Waihi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186631931,
-    "wof:lastmodified":1449051207,
+    "wof:lastmodified":1466313014,
     "wof:name":"Waitawheta Clinic",
     "wof:parent_id":85820603,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "acupuncturists"
     ]
 },
-  "bbox": [-68.321289,44.538879,-68.321289,44.538879],
-  "geometry": {"coordinates":[-68.321289,44.538879],"type":"Point"}
+  "bbox": [
+    -68.321289,
+    44.538879,
+    -68.321289,
+    44.538879
+],
+  "geometry": {"coordinates":[-68.32128899999999,44.538879],"type":"Point"}
 }

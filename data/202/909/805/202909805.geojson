@@ -2,13 +2,14 @@
   "id": 202909805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.616211,-43.553249,172.616211,-43.553249",
     "geom:latitude":-43.553249,
     "geom:longitude":172.616211,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Lyttelton St Spreydon ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202909805,
-    "wof:lastmodified":1449062021,
+    "wof:lastmodified":1466312703,
     "wof:name":"Begonia World",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gardening"
     ]
 },
-  "bbox": [172.616211,-43.553249,172.616211,-43.553249],
-  "geometry": {"coordinates":[172.616211,-43.553249],"type":"Point"}
+  "bbox": [
+    172.616211,
+    -43.553249,
+    172.616211,
+    -43.553249
+],
+  "geometry": {"coordinates":[172.61621099999999,-43.553249],"type":"Point"}
 }

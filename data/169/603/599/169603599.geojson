@@ -2,13 +2,14 @@
   "id": 169603599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.405716,-37.792549,175.405716,-37.792549",
     "geom:latitude":-37.792549,
     "geom:longitude":175.405716,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Matangi/Tamahere Rd Hamilton R D ",
     "sg:city":"3",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":169603599,
-    "wof:lastmodified":1449035452,
+    "wof:lastmodified":1466311661,
     "wof:name":"Lotsabooks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.405716,-37.792549,175.405716,-37.792549],
-  "geometry": {"coordinates":[175.405716,-37.792549],"type":"Point"}
+  "bbox": [
+    175.405716,
+    -37.792549,
+    175.405716,
+    -37.792549
+],
+  "geometry": {"coordinates":[175.40571600000001,-37.792549],"type":"Point"}
 }

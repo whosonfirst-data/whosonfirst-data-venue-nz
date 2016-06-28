@@ -2,13 +2,14 @@
   "id": 220073633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.429413,-43.581833,172.429413,-43.581833",
     "geom:latitude":-43.581833,
     "geom:longitude":172.429413,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Larcombs Rd ",
     "sg:city":"Rolleston",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220073633,
-    "wof:lastmodified":1449074141,
+    "wof:lastmodified":1466311848,
     "wof:name":"Larcomb Vineyard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wine"
     ]
 },
-  "bbox": [172.429413,-43.581833,172.429413,-43.581833],
-  "geometry": {"coordinates":[172.429413,-43.581833],"type":"Point"}
+  "bbox": [
+    172.429413,
+    -43.581833,
+    172.429413,
+    -43.581833
+],
+  "geometry": {"coordinates":[172.42941300000001,-43.581833],"type":"Point"}
 }

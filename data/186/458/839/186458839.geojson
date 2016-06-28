@@ -2,13 +2,14 @@
   "id": 186458839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.795547,-41.325188,174.795547,-41.325188",
     "geom:latitude":-41.325188,
     "geom:longitude":174.795547,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Onepu Rd Lyall Bay ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186458839,
-    "wof:lastmodified":1449052266,
+    "wof:lastmodified":1466312640,
     "wof:name":"Wellington Highrise Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.795547,-41.325188,174.795547,-41.325188],
+  "bbox": [
+    174.795547,
+    -41.325188,
+    174.795547,
+    -41.325188
+],
   "geometry": {"coordinates":[174.795547,-41.325188],"type":"Point"}
 }

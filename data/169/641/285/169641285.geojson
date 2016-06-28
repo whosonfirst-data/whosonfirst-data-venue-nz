@@ -2,13 +2,14 @@
   "id": 169641285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.726318,-43.508141,172.726318,-43.508141",
     "geom:latitude":-43.508141,
     "geom:longitude":172.726318,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"109 C Seaview Rd New Brighton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169641285,
-    "wof:lastmodified":1449035168,
+    "wof:lastmodified":1466310563,
     "wof:name":"Caroline Dairy",
     "wof:parent_id":85778899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.726318,-43.508141,172.726318,-43.508141],
-  "geometry": {"coordinates":[172.726318,-43.508141],"type":"Point"}
+  "bbox": [
+    172.726318,
+    -43.508141,
+    172.726318,
+    -43.508141
+],
+  "geometry": {"coordinates":[172.72631799999999,-43.508141],"type":"Point"}
 }

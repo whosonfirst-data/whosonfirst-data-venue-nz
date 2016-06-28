@@ -2,13 +2,14 @@
   "id": 185801235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.588425,-43.509178,172.588425,-43.509178",
     "geom:latitude":-43.509178,
     "geom:longitude":172.588425,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"399 Ilam Rd Fendalton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185801235,
-    "wof:lastmodified":1449007951,
+    "wof:lastmodified":1466311229,
     "wof:name":"Moore Models",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [172.588425,-43.509178,172.588425,-43.509178],
+  "bbox": [
+    172.588425,
+    -43.509178,
+    172.588425,
+    -43.509178
+],
   "geometry": {"coordinates":[172.588425,-43.509178],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236035699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.590302,-43.302959,172.590302,-43.302959",
     "geom:latitude":-43.302959,
     "geom:longitude":172.590302,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 Oxford Rd Rangiora ",
     "sg:city":"Cust",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":236035699,
-    "wof:lastmodified":1449004484,
+    "wof:lastmodified":1466311165,
     "wof:name":"Springbank Vineyard & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dining"
     ]
 },
-  "bbox": [172.590302,-43.302959,172.590302,-43.302959],
-  "geometry": {"coordinates":[172.590302,-43.302959],"type":"Point"}
+  "bbox": [
+    172.590302,
+    -43.302959,
+    172.590302,
+    -43.302959
+],
+  "geometry": {"coordinates":[172.59030200000001,-43.302959],"type":"Point"}
 }

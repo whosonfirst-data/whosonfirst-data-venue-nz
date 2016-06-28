@@ -2,13 +2,14 @@
   "id": 203421329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.823349,-36.91658,174.823349,-36.91658",
     "geom:latitude":-36.91658,
     "geom:longitude":174.823349,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"671 Great South Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203421329,
-    "wof:lastmodified":1449026176,
+    "wof:lastmodified":1466312611,
     "wof:name":"Auckland Marine Centre Ltd",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.823349,-36.91658,174.823349,-36.91658],
-  "geometry": {"coordinates":[174.823349,-36.91658],"type":"Point"}
+  "bbox": [
+    174.823349,
+    -36.91658,
+    174.823349,
+    -36.91658
+],
+  "geometry": {"coordinates":[174.82334900000001,-36.91658],"type":"Point"}
 }

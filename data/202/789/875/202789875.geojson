@@ -2,13 +2,14 @@
   "id": 202789875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.884979,-39.503159,176.884979,-39.503159",
     "geom:latitude":-39.503159,
     "geom:longitude":176.884979,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Dunlop Rd Onekawa ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202789875,
-    "wof:lastmodified":1449061274,
+    "wof:lastmodified":1466312509,
     "wof:name":"Pedlars Building Recyclers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "kitchen"
     ]
 },
-  "bbox": [176.884979,-39.503159,176.884979,-39.503159],
-  "geometry": {"coordinates":[176.884979,-39.503159],"type":"Point"}
+  "bbox": [
+    176.884979,
+    -39.503159,
+    176.884979,
+    -39.503159
+],
+  "geometry": {"coordinates":[176.88497899999999,-39.503159],"type":"Point"}
 }

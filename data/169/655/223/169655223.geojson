@@ -2,13 +2,14 @@
   "id": 169655223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.070587,-39.939186,175.070587,-39.939186",
     "geom:latitude":-39.939186,
     "geom:longitude":175.070587,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Toro St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169655223,
-    "wof:lastmodified":1449034586,
+    "wof:lastmodified":1466310661,
     "wof:name":"Enid Sears Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.070587,-39.939186,175.070587,-39.939186],
-  "geometry": {"coordinates":[175.070587,-39.939186],"type":"Point"}
+  "bbox": [
+    175.070587,
+    -39.939186,
+    175.070587,
+    -39.939186
+],
+  "geometry": {"coordinates":[175.07058699999999,-39.939186],"type":"Point"}
 }

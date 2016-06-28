@@ -2,13 +2,14 @@
   "id": 202420667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.845749,-36.947899,174.845749,-36.947899",
     "geom:latitude":-36.947899,
     "geom:longitude":174.845749,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"541 Gt South Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202420667,
-    "wof:lastmodified":1449061345,
+    "wof:lastmodified":1466311479,
     "wof:name":"Otahuhu Family Medical Centre",
     "wof:parent_id":85778871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.845749,-36.947899,174.845749,-36.947899],
-  "geometry": {"coordinates":[174.845749,-36.947899],"type":"Point"}
+  "bbox": [
+    174.845749,
+    -36.947899,
+    174.845749,
+    -36.947899
+],
+  "geometry": {"coordinates":[174.84574900000001,-36.947899],"type":"Point"}
 }

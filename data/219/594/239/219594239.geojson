@@ -2,13 +2,14 @@
   "id": 219594239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.695343,-39.554165,175.695343,-39.554165",
     "geom:latitude":-39.554165,
     "geom:longitude":175.695343,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 State Highway 1 ",
     "sg:city":"Waiouru",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219594239,
-    "wof:lastmodified":1449070903,
+    "wof:lastmodified":1466312570,
     "wof:name":"BP Waiouru",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.695343,-39.554165,175.695343,-39.554165],
-  "geometry": {"coordinates":[175.695343,-39.554165],"type":"Point"}
+  "bbox": [
+    175.695343,
+    -39.554165,
+    175.695343,
+    -39.554165
+],
+  "geometry": {"coordinates":[175.69534300000001,-39.554165],"type":"Point"}
 }

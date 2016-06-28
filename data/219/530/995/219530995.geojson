@@ -2,13 +2,14 @@
   "id": 219530995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.76355,-36.84779,174.76355,-36.84779",
     "geom:latitude":-36.84779,
     "geom:longitude":174.76355,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Kingston St Auckland ",
     "sg:city":"Central",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219530995,
-    "wof:lastmodified":1449072260,
+    "wof:lastmodified":1466312320,
     "wof:name":"Servilles Academy of Hairdressing",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "hairdressing"
     ]
 },
-  "bbox": [174.76355,-36.84779,174.76355,-36.84779],
-  "geometry": {"coordinates":[174.76355,-36.84779],"type":"Point"}
+  "bbox": [
+    174.76355,
+    -36.84779,
+    174.76355,
+    -36.84779
+],
+  "geometry": {"coordinates":[174.76355000000001,-36.84779],"type":"Point"}
 }

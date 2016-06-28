@@ -2,13 +2,14 @@
   "id": 203210895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.256424,-38.14423,176.256424,-38.14423",
     "geom:latitude":-38.14423,
     "geom:longitude":176.256424,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Ti St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203210895,
-    "wof:lastmodified":1449025555,
+    "wof:lastmodified":1466311469,
     "wof:name":"Groovy Threads",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabric"
     ]
 },
-  "bbox": [176.256424,-38.14423,176.256424,-38.14423],
-  "geometry": {"coordinates":[176.256424,-38.14423],"type":"Point"}
+  "bbox": [
+    176.256424,
+    -38.14423,
+    176.256424,
+    -38.14423
+],
+  "geometry": {"coordinates":[176.25642400000001,-38.14423],"type":"Point"}
 }

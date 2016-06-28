@@ -2,13 +2,14 @@
   "id": 236005655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.619476,-40.350918,175.619476,-40.350918",
     "geom:latitude":-40.350918,
     "geom:longitude":175.619476,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236005655,
-    "wof:lastmodified":1449004927,
+    "wof:lastmodified":1466310702,
     "wof:name":"Steak Out",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dining"
     ]
 },
-  "bbox": [175.619476,-40.350918,175.619476,-40.350918],
-  "geometry": {"coordinates":[175.619476,-40.350918],"type":"Point"}
+  "bbox": [
+    175.619476,
+    -40.350918,
+    175.619476,
+    -40.350918
+],
+  "geometry": {"coordinates":[175.61947599999999,-40.350918],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203111789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.259583,-37.744919,175.259583,-37.744919",
     "geom:latitude":-37.744919,
     "geom:longitude":175.259583,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1060 River Rd, Queenwood ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203111789,
-    "wof:lastmodified":1449026904,
+    "wof:lastmodified":1466310622,
     "wof:name":"River Road Photography",
     "wof:parent_id":85781849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [175.259583,-37.744919,175.259583,-37.744919],
-  "geometry": {"coordinates":[175.259583,-37.744919],"type":"Point"}
+  "bbox": [
+    175.259583,
+    -37.744919,
+    175.259583,
+    -37.744919
+],
+  "geometry": {"coordinates":[175.25958299999999,-37.744919],"type":"Point"}
 }

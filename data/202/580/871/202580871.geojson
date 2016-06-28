@@ -2,13 +2,14 @@
   "id": 202580871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.500809,-45.894512,170.500809,-45.894512",
     "geom:latitude":-45.894512,
     "geom:longitude":170.500809,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 McBride St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202580871,
-    "wof:lastmodified":1449061797,
+    "wof:lastmodified":1466311358,
     "wof:name":"Otago Wire Works Ltd",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.500809,-45.894512,170.500809,-45.894512],
+  "bbox": [
+    170.500809,
+    -45.894512,
+    170.500809,
+    -45.894512
+],
   "geometry": {"coordinates":[170.500809,-45.894512],"type":"Point"}
 }

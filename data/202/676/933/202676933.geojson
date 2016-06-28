@@ -2,13 +2,14 @@
   "id": 202676933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.881592,-38.224358,175.881592,-38.224358",
     "geom:latitude":-38.224358,
     "geom:longitude":175.881592,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Mossop Rd ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202676933,
-    "wof:lastmodified":1449061715,
+    "wof:lastmodified":1466312048,
     "wof:name":"Te Awhi Mai Kohanga Reo",
     "wof:parent_id":85780831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.881592,-38.224358,175.881592,-38.224358],
-  "geometry": {"coordinates":[175.881592,-38.224358],"type":"Point"}
+  "bbox": [
+    175.881592,
+    -38.224358,
+    175.881592,
+    -38.224358
+],
+  "geometry": {"coordinates":[175.88159200000001,-38.224358],"type":"Point"}
 }

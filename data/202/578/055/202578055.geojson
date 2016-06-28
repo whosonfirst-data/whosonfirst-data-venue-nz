@@ -2,13 +2,14 @@
   "id": 202578055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.796005,-41.247021,174.796005,-41.247021",
     "geom:latitude":-41.247021,
     "geom:longitude":174.796005,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Ranui Cre Khandallah ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202578055,
-    "wof:lastmodified":1449060760,
+    "wof:lastmodified":1466311335,
     "wof:name":"The Painted Plate Ceramic Workshop",
     "wof:parent_id":85778225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.796005,-41.247021,174.796005,-41.247021],
-  "geometry": {"coordinates":[174.796005,-41.247021],"type":"Point"}
+  "bbox": [
+    174.796005,
+    -41.247021,
+    174.796005,
+    -41.247021
+],
+  "geometry": {"coordinates":[174.79600500000001,-41.247021],"type":"Point"}
 }

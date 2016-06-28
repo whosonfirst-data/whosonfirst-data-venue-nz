@@ -2,13 +2,14 @@
   "id": 219380037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.972778,-45.098228,170.972778,-45.098228",
     "geom:latitude":-45.098228,
     "geom:longitude":170.972778,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Coquet St ",
     "sg:city":"Oamaru",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219380037,
-    "wof:lastmodified":1449072031,
+    "wof:lastmodified":1466311586,
     "wof:name":"Ritchies Coachlines Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [170.972778,-45.098228,170.972778,-45.098228],
-  "geometry": {"coordinates":[170.972778,-45.098228],"type":"Point"}
+  "bbox": [
+    170.972778,
+    -45.098228,
+    170.972778,
+    -45.098228
+],
+  "geometry": {"coordinates":[170.97277800000001,-45.098228],"type":"Point"}
 }

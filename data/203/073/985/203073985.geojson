@@ -2,13 +2,14 @@
   "id": 203073985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.797226,-36.95845,174.797226,-36.95845",
     "geom:latitude":-36.95845,
     "geom:longitude":174.797226,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Hall Ave Mangere ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203073985,
-    "wof:lastmodified":1449025202,
+    "wof:lastmodified":1466311758,
     "wof:name":"Maile Ua Stonemason Contractor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.797226,-36.95845,174.797226,-36.95845],
-  "geometry": {"coordinates":[174.797226,-36.95845],"type":"Point"}
+  "bbox": [
+    174.797226,
+    -36.95845,
+    174.797226,
+    -36.95845
+],
+  "geometry": {"coordinates":[174.79722599999999,-36.95845],"type":"Point"}
 }

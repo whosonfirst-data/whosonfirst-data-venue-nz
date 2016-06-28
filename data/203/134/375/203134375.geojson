@@ -2,13 +2,14 @@
   "id": 203134375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.12674,-39.077621,174.12674,-39.077621",
     "geom:latitude":-39.077621,
     "geom:longitude":174.12674,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Dorset Rd New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203134375,
-    "wof:lastmodified":1449026763,
+    "wof:lastmodified":1466310786,
     "wof:name":"Home Feed & Pet Taxi Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "kennel"
     ]
 },
-  "bbox": [174.12674,-39.077621,174.12674,-39.077621],
-  "geometry": {"coordinates":[174.12674,-39.077621],"type":"Point"}
+  "bbox": [
+    174.12674,
+    -39.077621,
+    174.12674,
+    -39.077621
+],
+  "geometry": {"coordinates":[174.12674000000001,-39.077621],"type":"Point"}
 }

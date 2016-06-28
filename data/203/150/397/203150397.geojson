@@ -2,13 +2,14 @@
   "id": 203150397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.699417,-36.787579,174.699417,-36.787579",
     "geom:latitude":-36.787579,
     "geom:longitude":174.699417,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 A Kahika Rd Birkdale ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203150397,
-    "wof:lastmodified":1449024965,
+    "wof:lastmodified":1466310912,
     "wof:name":"Beach Haven Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pets"
     ]
 },
-  "bbox": [174.699417,-36.787579,174.699417,-36.787579],
-  "geometry": {"coordinates":[174.699417,-36.787579],"type":"Point"}
+  "bbox": [
+    174.699417,
+    -36.787579,
+    174.699417,
+    -36.787579
+],
+  "geometry": {"coordinates":[174.69941700000001,-36.787579],"type":"Point"}
 }

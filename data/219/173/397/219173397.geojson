@@ -2,13 +2,14 @@
   "id": 219173397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.899567,-41.246059,174.899567,-41.246059",
     "geom:latitude":-41.246059,
     "geom:longitude":174.899567,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Seaview Rd Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219173397,
-    "wof:lastmodified":1449071072,
+    "wof:lastmodified":1466311127,
     "wof:name":"Chempro Ltd",
     "wof:parent_id":85778601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [174.899567,-41.246059,174.899567,-41.246059],
-  "geometry": {"coordinates":[174.899567,-41.246059],"type":"Point"}
+  "bbox": [
+    174.899567,
+    -41.246059,
+    174.899567,
+    -41.246059
+],
+  "geometry": {"coordinates":[174.89956699999999,-41.246059],"type":"Point"}
 }

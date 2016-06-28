@@ -2,13 +2,14 @@
   "id": 203088913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.04248,-44.733082,171.04248,-44.733082",
     "geom:latitude":-44.733082,
     "geom:longitude":171.04248,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Waimate ",
     "sg:city":"Waimate",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203088913,
-    "wof:lastmodified":1449026412,
+    "wof:lastmodified":1466311899,
     "wof:name":"Billie Parker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "counselling"
     ]
 },
-  "bbox": [171.04248,-44.733082,171.04248,-44.733082],
-  "geometry": {"coordinates":[171.04248,-44.733082],"type":"Point"}
+  "bbox": [
+    171.04248,
+    -44.733082,
+    171.04248,
+    -44.733082
+],
+  "geometry": {"coordinates":[171.04248000000001,-44.733082],"type":"Point"}
 }

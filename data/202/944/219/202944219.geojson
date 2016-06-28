@@ -2,13 +2,14 @@
   "id": 202944219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.348526,-46.409874,168.348526,-46.409874",
     "geom:latitude":-46.409874,
     "geom:longitude":168.348526,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Spey St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202944219,
-    "wof:lastmodified":1449061392,
+    "wof:lastmodified":1466312776,
     "wof:name":"Ellis Sutton Ltd M.R.E.I.N.Z.",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.348526,-46.409874,168.348526,-46.409874],
-  "geometry": {"coordinates":[168.348526,-46.409874],"type":"Point"}
+  "bbox": [
+    168.348526,
+    -46.409874,
+    168.348526,
+    -46.409874
+],
+  "geometry": {"coordinates":[168.34852599999999,-46.409874],"type":"Point"}
 }

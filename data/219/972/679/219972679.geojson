@@ -2,13 +2,14 @@
   "id": 219972679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.83847,-41.183739,174.83847,-41.183739",
     "geom:latitude":-41.183739,
     "geom:longitude":174.83847,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Woodburn Dve Grenada North ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219972679,
-    "wof:lastmodified":1449072153,
+    "wof:lastmodified":1466313173,
     "wof:name":"Small Flock Shearing",
     "wof:parent_id":85778641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [174.83847,-41.183739,174.83847,-41.183739],
+  "bbox": [
+    174.83847,
+    -41.183739,
+    174.83847,
+    -41.183739
+],
   "geometry": {"coordinates":[174.83847,-41.183739],"type":"Point"}
 }

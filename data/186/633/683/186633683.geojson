@@ -2,13 +2,14 @@
   "id": 186633683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.165237,-37.689335,176.165237,-37.689335",
     "geom:latitude":-37.689335,
     "geom:longitude":176.165237,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"292 Cameron Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186633683,
-    "wof:lastmodified":1449053011,
+    "wof:lastmodified":1466313011,
     "wof:name":"Johns Photopharmacy Herb Clinic & Dispensary",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [176.165237,-37.689335,176.165237,-37.689335],
-  "geometry": {"coordinates":[176.165237,-37.689335],"type":"Point"}
+  "bbox": [
+    176.165237,
+    -37.689335,
+    176.165237,
+    -37.689335
+],
+  "geometry": {"coordinates":[176.16523699999999,-37.689335],"type":"Point"}
 }

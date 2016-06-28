@@ -2,13 +2,14 @@
   "id": 202743739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.594955,-43.511139,172.594955,-43.511139",
     "geom:latitude":-43.511139,
     "geom:longitude":172.594955,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Bryndwr Rd Fendalton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202743739,
-    "wof:lastmodified":1449062628,
+    "wof:lastmodified":1466312395,
     "wof:name":"Fendalton Retirement Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [172.594955,-43.511139,172.594955,-43.511139],
+  "bbox": [
+    172.594955,
+    -43.511139,
+    172.594955,
+    -43.511139
+],
   "geometry": {"coordinates":[172.594955,-43.511139],"type":"Point"}
 }

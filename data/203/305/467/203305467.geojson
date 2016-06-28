@@ -2,13 +2,14 @@
   "id": 203305467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.498611,-45.893337,170.498611,-45.893337",
     "geom:latitude":-45.893337,
     "geom:longitude":170.498611,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"124 King Edward St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203305467,
-    "wof:lastmodified":1449025225,
+    "wof:lastmodified":1466312134,
     "wof:name":"Tait's Fabric Centre Ltd",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.498611,-45.893337,170.498611,-45.893337],
-  "geometry": {"coordinates":[170.498611,-45.893337],"type":"Point"}
+  "bbox": [
+    170.498611,
+    -45.893337,
+    170.498611,
+    -45.893337
+],
+  "geometry": {"coordinates":[170.49861100000001,-45.893337],"type":"Point"}
 }

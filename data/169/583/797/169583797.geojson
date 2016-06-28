@@ -2,13 +2,14 @@
   "id": 169583797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.661026,-40.950676,175.661026,-40.950676",
     "geom:latitude":-40.950676,
     "geom:longitude":175.661026,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Bannister St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169583797,
-    "wof:lastmodified":1449035270,
+    "wof:lastmodified":1466311430,
     "wof:name":"Perry's Mart Masterton",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.661026,-40.950676,175.661026,-40.950676],
-  "geometry": {"coordinates":[175.661026,-40.950676],"type":"Point"}
+  "bbox": [
+    175.661026,
+    -40.950676,
+    175.661026,
+    -40.950676
+],
+  "geometry": {"coordinates":[175.66102599999999,-40.950676],"type":"Point"}
 }

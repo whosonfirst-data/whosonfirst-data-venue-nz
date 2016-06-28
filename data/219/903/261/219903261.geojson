@@ -2,13 +2,14 @@
   "id": 219903261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.623734,-40.333591,175.623734,-40.333591",
     "geom:latitude":-40.333591,
     "geom:longitude":175.623734,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"886 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219903261,
-    "wof:lastmodified":1449070592,
+    "wof:lastmodified":1466313159,
     "wof:name":"Norwood Farm Machinery Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.623734,-40.333591,175.623734,-40.333591],
-  "geometry": {"coordinates":[175.623734,-40.333591],"type":"Point"}
+  "bbox": [
+    175.623734,
+    -40.333591,
+    175.623734,
+    -40.333591
+],
+  "geometry": {"coordinates":[175.62373400000001,-40.333591],"type":"Point"}
 }

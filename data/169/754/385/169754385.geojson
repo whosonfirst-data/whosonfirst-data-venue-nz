@@ -2,13 +2,14 @@
   "id": 169754385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.902786,-36.902538,174.902786,-36.902538",
     "geom:latitude":-36.902538,
     "geom:longitude":174.902786,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 82161 Highland Park ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169754385,
-    "wof:lastmodified":1449034851,
+    "wof:lastmodified":1466311301,
     "wof:name":"Personality Puppets",
     "wof:parent_id":85778943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.902786,-36.902538,174.902786,-36.902538],
-  "geometry": {"coordinates":[174.902786,-36.902538],"type":"Point"}
+  "bbox": [
+    174.902786,
+    -36.902538,
+    174.902786,
+    -36.902538
+],
+  "geometry": {"coordinates":[174.90278599999999,-36.902538],"type":"Point"}
 }

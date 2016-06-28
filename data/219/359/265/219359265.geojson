@@ -2,13 +2,14 @@
   "id": 219359265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.946869,-39.605087,176.946869,-39.605087",
     "geom:latitude":-39.605087,
     "geom:longitude":176.946869,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"0800 Service Te Awanga ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219359265,
-    "wof:lastmodified":1449070327,
+    "wof:lastmodified":1466311410,
     "wof:name":"Gannet Beach Adventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [176.946869,-39.605087,176.946869,-39.605087],
-  "geometry": {"coordinates":[176.946869,-39.605087],"type":"Point"}
+  "bbox": [
+    176.946869,
+    -39.605087,
+    176.946869,
+    -39.605087
+],
+  "geometry": {"coordinates":[176.94686899999999,-39.605087],"type":"Point"}
 }

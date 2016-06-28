@@ -2,13 +2,14 @@
   "id": 203172323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.052841,-39.933369,175.052841,-39.933369",
     "geom:latitude":-39.933369,
     "geom:longitude":175.052841,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Enterprise House, 187 Victoria Avenue, PO Box 88",
     "sg:city":"WANGANUI",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203172323,
-    "wof:lastmodified":1449025681,
+    "wof:lastmodified":1466311098,
     "wof:name":"Wanganui Chamber of Commerce",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commerce"
     ]
 },
-  "bbox": [175.052841,-39.933369,175.052841,-39.933369],
+  "bbox": [
+    175.052841,
+    -39.933369,
+    175.052841,
+    -39.933369
+],
   "geometry": {"coordinates":[175.052841,-39.933369],"type":"Point"}
 }

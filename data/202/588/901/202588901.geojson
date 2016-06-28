@@ -2,13 +2,14 @@
   "id": 202588901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.743225,-36.848408,174.743225,-36.848408",
     "geom:latitude":-36.848408,
     "geom:longitude":174.743225,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Pompallier Tce Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202588901,
-    "wof:lastmodified":1449062167,
+    "wof:lastmodified":1466311427,
     "wof:name":"Mitre 10",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.743225,-36.848408,174.743225,-36.848408],
+  "bbox": [
+    174.743225,
+    -36.848408,
+    174.743225,
+    -36.848408
+],
   "geometry": {"coordinates":[174.743225,-36.848408],"type":"Point"}
 }

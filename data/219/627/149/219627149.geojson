@@ -2,13 +2,14 @@
   "id": 219627149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.256592,-37.80254,175.256592,-37.80254",
     "geom:latitude":-37.80254,
     "geom:longitude":175.256592,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Woodward St Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219627149,
-    "wof:lastmodified":1449074002,
+    "wof:lastmodified":1466312661,
     "wof:name":"Aussie Spares",
     "wof:parent_id":85781735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.256592,-37.80254,175.256592,-37.80254],
-  "geometry": {"coordinates":[175.256592,-37.80254],"type":"Point"}
+  "bbox": [
+    175.256592,
+    -37.80254,
+    175.256592,
+    -37.80254
+],
+  "geometry": {"coordinates":[175.25659200000001,-37.80254],"type":"Point"}
 }

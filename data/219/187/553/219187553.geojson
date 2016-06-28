@@ -2,13 +2,14 @@
   "id": 219187553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.226288,-38.112537,176.226288,-38.112537",
     "geom:latitude":-38.112537,
     "geom:longitude":176.226288,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Kawaha Point Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219187553,
-    "wof:lastmodified":1449070912,
+    "wof:lastmodified":1466311333,
     "wof:name":"BOP Shuttles",
     "wof:parent_id":85781129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.226288,-38.112537,176.226288,-38.112537],
-  "geometry": {"coordinates":[176.226288,-38.112537],"type":"Point"}
+  "bbox": [
+    176.226288,
+    -38.112537,
+    176.226288,
+    -38.112537
+],
+  "geometry": {"coordinates":[176.22628800000001,-38.112537],"type":"Point"}
 }

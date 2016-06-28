@@ -2,13 +2,14 @@
   "id": 202981605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.883865,-39.673443,176.883865,-39.673443",
     "geom:latitude":-39.673443,
     "geom:longitude":176.883865,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Busby Hill Havelock North ",
     "sg:city":"Hastings",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202981605,
-    "wof:lastmodified":1449062700,
+    "wof:lastmodified":1466312942,
     "wof:name":"Ground Level Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.883865,-39.673443,176.883865,-39.673443],
-  "geometry": {"coordinates":[176.883865,-39.673443],"type":"Point"}
+  "bbox": [
+    176.883865,
+    -39.673443,
+    176.883865,
+    -39.673443
+],
+  "geometry": {"coordinates":[176.88386499999999,-39.673443],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186520553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.28244,-37.788551,175.28244,-37.788551",
     "geom:latitude":-37.788551,
     "geom:longitude":175.28244,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Alexandra St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186520553,
-    "wof:lastmodified":1449051277,
+    "wof:lastmodified":1466312805,
     "wof:name":"Amazing Face",
     "wof:parent_id":85782405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "perfumery"
     ]
 },
-  "bbox": [175.28244,-37.788551,175.28244,-37.788551],
-  "geometry": {"coordinates":[175.28244,-37.788551],"type":"Point"}
+  "bbox": [
+    175.28244,
+    -37.788551,
+    175.28244,
+    -37.788551
+],
+  "geometry": {"coordinates":[175.28244000000001,-37.788551],"type":"Point"}
 }

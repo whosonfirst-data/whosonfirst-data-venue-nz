@@ -2,13 +2,14 @@
   "id": 203325937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.747879,-36.859947,174.747879,-36.859947",
     "geom:latitude":-36.859947,
     "geom:longitude":174.747879,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30-32 Mackelvie St Grey Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203325937,
-    "wof:lastmodified":1449025652,
+    "wof:lastmodified":1466312222,
     "wof:name":"John Rainger Textiles Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.747879,-36.859947,174.747879,-36.859947],
-  "geometry": {"coordinates":[174.747879,-36.859947],"type":"Point"}
+  "bbox": [
+    174.747879,
+    -36.859947,
+    174.747879,
+    -36.859947
+],
+  "geometry": {"coordinates":[174.74787900000001,-36.859947],"type":"Point"}
 }

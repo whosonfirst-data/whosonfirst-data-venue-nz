@@ -2,13 +2,14 @@
   "id": 203096063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.629959,-43.521053,172.629959,-43.521053",
     "geom:latitude":-43.521053,
     "geom:longitude":172.629959,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Bealey Ave ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203096063,
-    "wof:lastmodified":1449025532,
+    "wof:lastmodified":1466311956,
     "wof:name":"Presbyterian Support",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "counselling"
     ]
 },
-  "bbox": [172.629959,-43.521053,172.629959,-43.521053],
-  "geometry": {"coordinates":[172.629959,-43.521053],"type":"Point"}
+  "bbox": [
+    172.629959,
+    -43.521053,
+    172.629959,
+    -43.521053
+],
+  "geometry": {"coordinates":[172.62995900000001,-43.521053],"type":"Point"}
 }

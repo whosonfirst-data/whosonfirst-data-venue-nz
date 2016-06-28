@@ -2,13 +2,14 @@
   "id": 169567495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.949326,-41.458267,173.949326,-41.458267",
     "geom:latitude":-41.458267,
     "geom:longitude":173.949326,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Rapaura Rd ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169567495,
-    "wof:lastmodified":1449035995,
+    "wof:lastmodified":1466311094,
     "wof:name":"Marlborough Olive Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supplier"
     ]
 },
-  "bbox": [173.949326,-41.458267,173.949326,-41.458267],
-  "geometry": {"coordinates":[173.949326,-41.458267],"type":"Point"}
+  "bbox": [
+    173.949326,
+    -41.458267,
+    173.949326,
+    -41.458267
+],
+  "geometry": {"coordinates":[173.94932600000001,-41.458267],"type":"Point"}
 }

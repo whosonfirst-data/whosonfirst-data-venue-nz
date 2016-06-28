@@ -2,13 +2,14 @@
   "id": 219812677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.342072,-46.407593,168.342072,-46.407593",
     "geom:latitude":-46.407593,
     "geom:longitude":168.342072,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Mersey St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219812677,
-    "wof:lastmodified":1449070464,
+    "wof:lastmodified":1466313038,
     "wof:name":"Winston Goble Panelbeater",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "beater"
     ]
 },
-  "bbox": [168.342072,-46.407593,168.342072,-46.407593],
+  "bbox": [
+    168.342072,
+    -46.407593,
+    168.342072,
+    -46.407593
+],
   "geometry": {"coordinates":[168.342072,-46.407593],"type":"Point"}
 }

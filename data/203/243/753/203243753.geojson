@@ -2,13 +2,14 @@
   "id": 203243753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.497849,-45.893578,170.497849,-45.893578",
     "geom:latitude":-45.893578,
     "geom:longitude":170.497849,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Hillside Rd South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203243753,
-    "wof:lastmodified":1449025535,
+    "wof:lastmodified":1466311778,
     "wof:name":"Ann's Collectable Clutter",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabric"
     ]
 },
-  "bbox": [170.497849,-45.893578,170.497849,-45.893578],
+  "bbox": [
+    170.497849,
+    -45.893578,
+    170.497849,
+    -45.893578
+],
   "geometry": {"coordinates":[170.497849,-45.893578],"type":"Point"}
 }

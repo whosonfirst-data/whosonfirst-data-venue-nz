@@ -2,13 +2,14 @@
   "id": 236032955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.49675,-39.591263,176.49675,-39.591263",
     "geom:latitude":-39.591263,
     "geom:longitude":176.49675,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Aorangi Rd ",
     "sg:city":"Maraekakaho",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":236032955,
-    "wof:lastmodified":1449003228,
+    "wof:lastmodified":1466311160,
     "wof:name":"Morton Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dining"
     ]
 },
-  "bbox": [176.49675,-39.591263,176.49675,-39.591263],
-  "geometry": {"coordinates":[176.49675,-39.591263],"type":"Point"}
+  "bbox": [
+    176.49675,
+    -39.591263,
+    176.49675,
+    -39.591263
+],
+  "geometry": {"coordinates":[176.49674999999999,-39.591263],"type":"Point"}
 }

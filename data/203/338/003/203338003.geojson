@@ -2,13 +2,14 @@
   "id": 203338003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.237885,-44.352978,171.237885,-44.352978",
     "geom:latitude":-44.352978,
     "geom:longitude":171.237885,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Hilton Highway Washdyke ",
     "sg:city":"Timaru",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203338003,
-    "wof:lastmodified":1449025574,
+    "wof:lastmodified":1466312462,
     "wof:name":"South Island Black Wool Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fabric"
     ]
 },
-  "bbox": [171.237885,-44.352978,171.237885,-44.352978],
-  "geometry": {"coordinates":[171.237885,-44.352978],"type":"Point"}
+  "bbox": [
+    171.237885,
+    -44.352978,
+    171.237885,
+    -44.352978
+],
+  "geometry": {"coordinates":[171.23788500000001,-44.352978],"type":"Point"}
 }

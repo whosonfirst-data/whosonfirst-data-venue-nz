@@ -2,13 +2,14 @@
   "id": 219170967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.763397,-36.855446,174.763397,-36.855446",
     "geom:latitude":-36.855446,
     "geom:longitude":174.763397,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Turner St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219170967,
-    "wof:lastmodified":1449070723,
+    "wof:lastmodified":1466310987,
     "wof:name":"Traffic Design Group Ltd",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.763397,-36.855446,174.763397,-36.855446],
+  "bbox": [
+    174.763397,
+    -36.855446,
+    174.763397,
+    -36.855446
+],
   "geometry": {"coordinates":[174.763397,-36.855446],"type":"Point"}
 }

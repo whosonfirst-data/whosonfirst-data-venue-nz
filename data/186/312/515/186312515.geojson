@@ -2,13 +2,14 @@
   "id": 186312515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.264069,-37.794243,175.264069,-37.794243",
     "geom:latitude":-37.794243,
     "geom:longitude":175.264069,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Ellis St Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186312515,
-    "wof:lastmodified":1449051725,
+    "wof:lastmodified":1466312240,
     "wof:name":"Rokos 2000 Limited",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.264069,-37.794243,175.264069,-37.794243],
-  "geometry": {"coordinates":[175.264069,-37.794243],"type":"Point"}
+  "bbox": [
+    175.264069,
+    -37.794243,
+    175.264069,
+    -37.794243
+],
+  "geometry": {"coordinates":[175.26406900000001,-37.794243],"type":"Point"}
 }

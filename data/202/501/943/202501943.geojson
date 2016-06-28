@@ -2,13 +2,14 @@
   "id": 202501943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.638687,-36.804199,174.638687,-36.804199",
     "geom:latitude":-36.804199,
     "geom:longitude":174.638687,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Hobsonville Rd Hobsonville ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202501943,
-    "wof:lastmodified":1449062671,
+    "wof:lastmodified":1466310676,
     "wof:name":"Hobsonville Chiropractic Centre",
     "wof:parent_id":85778731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.638687,-36.804199,174.638687,-36.804199],
+  "bbox": [
+    174.638687,
+    -36.804199,
+    174.638687,
+    -36.804199
+],
   "geometry": {"coordinates":[174.638687,-36.804199],"type":"Point"}
 }

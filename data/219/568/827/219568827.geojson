@@ -2,13 +2,14 @@
   "id": 219568827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.242706,-37.754234,175.242706,-37.754234",
     "geom:latitude":-37.754234,
     "geom:longitude":175.242706,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 706 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219568827,
-    "wof:lastmodified":1449070298,
+    "wof:lastmodified":1466312402,
     "wof:name":"Autoflash Car Grooming",
     "wof:parent_id":85773235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.242706,-37.754234,175.242706,-37.754234],
+  "bbox": [
+    175.242706,
+    -37.754234,
+    175.242706,
+    -37.754234
+],
   "geometry": {"coordinates":[175.242706,-37.754234],"type":"Point"}
 }

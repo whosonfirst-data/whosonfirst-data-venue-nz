@@ -2,13 +2,14 @@
   "id": 185765195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.007339,-38.659847,178.007339,-38.659847",
     "geom:latitude":-38.659847,
     "geom:longitude":178.007339,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Childers Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185765195,
-    "wof:lastmodified":1449007536,
+    "wof:lastmodified":1466310995,
     "wof:name":"RSA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.007339,-38.659847,178.007339,-38.659847],
+  "bbox": [
+    178.007339,
+    -38.659847,
+    178.007339,
+    -38.659847
+],
   "geometry": {"coordinates":[178.007339,-38.659847],"type":"Point"}
 }

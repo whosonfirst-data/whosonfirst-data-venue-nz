@@ -2,13 +2,14 @@
   "id": 185948083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.797104,-35.406498,173.797104,-35.406498",
     "geom:latitude":-35.406498,
     "geom:longitude":173.797104,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Hwy 12 Opononi ",
     "sg:city":"Kaikohe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185948083,
-    "wof:lastmodified":1449007892,
+    "wof:lastmodified":1466312334,
     "wof:name":"Opononi Bowling Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "facility"
     ]
 },
-  "bbox": [173.797104,-35.406498,173.797104,-35.406498],
-  "geometry": {"coordinates":[173.797104,-35.406498],"type":"Point"}
+  "bbox": [
+    173.797104,
+    -35.406498,
+    173.797104,
+    -35.406498
+],
+  "geometry": {"coordinates":[173.79710399999999,-35.406498],"type":"Point"}
 }

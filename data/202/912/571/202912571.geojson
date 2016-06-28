@@ -2,13 +2,14 @@
   "id": 202912571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.123337,41.189667,-73.123337,41.189667",
     "geom:latitude":41.189667,
     "geom:longitude":-73.123337,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"277 Broadway ",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202912571,
-    "wof:lastmodified":1449061377,
+    "wof:lastmodified":1466312816,
     "wof:name":"Four Seasons Plant Centre",
     "wof:parent_id":85844831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "gardening"
     ]
 },
-  "bbox": [-73.123337,41.189667,-73.123337,41.189667],
-  "geometry": {"coordinates":[-73.123337,41.189667],"type":"Point"}
+  "bbox": [
+    -73.123337,
+    41.189667,
+    -73.123337,
+    41.189667
+],
+  "geometry": {"coordinates":[-73.12333700000001,41.189667],"type":"Point"}
 }

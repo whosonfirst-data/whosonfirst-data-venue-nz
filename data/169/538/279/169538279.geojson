@@ -2,13 +2,14 @@
   "id": 169538279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.191002,37.663349,-81.191002,37.663349",
     "geom:latitude":37.663349,
     "geom:longitude":-81.191002,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 58-018 ",
     "sg:city":"Whitby",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169538279,
-    "wof:lastmodified":1449033099,
+    "wof:lastmodified":1466310599,
     "wof:name":"Mana FM",
     "wof:parent_id":85805185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"
     ]
 },
-  "bbox": [-81.191002,37.663349,-81.191002,37.663349],
+  "bbox": [
+    -81.191002,
+    37.663349,
+    -81.191002,
+    37.663349
+],
   "geometry": {"coordinates":[-81.191002,37.663349],"type":"Point"}
 }

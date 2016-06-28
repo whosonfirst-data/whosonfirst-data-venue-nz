@@ -2,13 +2,14 @@
   "id": 203277437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.051666,-39.933132,175.051666,-39.933132",
     "geom:latitude":-39.933132,
     "geom:longitude":175.051666,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Maria Pl ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203277437,
-    "wof:lastmodified":1449025158,
+    "wof:lastmodified":1466312119,
     "wof:name":"Sue's Repair & Alteration Services",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.051666,-39.933132,175.051666,-39.933132],
-  "geometry": {"coordinates":[175.051666,-39.933132],"type":"Point"}
+  "bbox": [
+    175.051666,
+    -39.933132,
+    175.051666,
+    -39.933132
+],
+  "geometry": {"coordinates":[175.05166600000001,-39.933132],"type":"Point"}
 }

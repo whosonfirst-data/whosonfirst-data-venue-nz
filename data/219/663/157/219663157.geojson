@@ -2,13 +2,14 @@
   "id": 219663157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.598572,-40.341274,175.598572,-40.341274",
     "geom:latitude":-40.341274,
     "geom:longitude":175.598572,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"428 Rangitikei St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219663157,
-    "wof:lastmodified":1449073000,
+    "wof:lastmodified":1466312729,
     "wof:name":"Goodyear Auto Service Centres",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.598572,-40.341274,175.598572,-40.341274],
-  "geometry": {"coordinates":[175.598572,-40.341274],"type":"Point"}
+  "bbox": [
+    175.598572,
+    -40.341274,
+    175.598572,
+    -40.341274
+],
+  "geometry": {"coordinates":[175.59857199999999,-40.341274],"type":"Point"}
 }

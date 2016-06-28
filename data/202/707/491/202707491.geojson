@@ -2,13 +2,14 @@
   "id": 202707491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.602692,-43.529686,172.602692,-43.529686",
     "geom:latitude":-43.529686,
     "geom:longitude":172.602692,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"91 D Riccarton Rd Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202707491,
-    "wof:lastmodified":1449062259,
+    "wof:lastmodified":1466312265,
     "wof:name":"Once Were Angels",
     "wof:parent_id":85778569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.602692,-43.529686,172.602692,-43.529686],
-  "geometry": {"coordinates":[172.602692,-43.529686],"type":"Point"}
+  "bbox": [
+    172.602692,
+    -43.529686,
+    172.602692,
+    -43.529686
+],
+  "geometry": {"coordinates":[172.60269199999999,-43.529686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202677339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.620636,-40.345779,175.620636,-40.345779",
     "geom:latitude":-40.345779,
     "geom:longitude":175.620636,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Albert St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202677339,
-    "wof:lastmodified":1449061023,
+    "wof:lastmodified":1466312272,
     "wof:name":"Puddleducks' Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.620636,-40.345779,175.620636,-40.345779],
-  "geometry": {"coordinates":[175.620636,-40.345779],"type":"Point"}
+  "bbox": [
+    175.620636,
+    -40.345779,
+    175.620636,
+    -40.345779
+],
+  "geometry": {"coordinates":[175.62063599999999,-40.345779],"type":"Point"}
 }

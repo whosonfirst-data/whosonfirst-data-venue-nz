@@ -2,13 +2,14 @@
   "id": 203168249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.832504,-41.151417,174.832504,-41.151417",
     "geom:latitude":-41.151417,
     "geom:longitude":174.832504,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Wall Pl Linden ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203168249,
-    "wof:lastmodified":1449025927,
+    "wof:lastmodified":1466311060,
     "wof:name":"Leadlight House",
     "wof:parent_id":85773013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fittings"
     ]
 },
-  "bbox": [174.832504,-41.151417,174.832504,-41.151417],
+  "bbox": [
+    174.832504,
+    -41.151417,
+    174.832504,
+    -41.151417
+],
   "geometry": {"coordinates":[174.832504,-41.151417],"type":"Point"}
 }

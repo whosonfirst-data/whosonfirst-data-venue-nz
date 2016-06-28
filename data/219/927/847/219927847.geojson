@@ -2,13 +2,14 @@
   "id": 219927847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.16301,-37.689568,176.16301,-37.689568",
     "geom:latitude":-37.689568,
     "geom:longitude":176.16301,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Third Ave West ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219927847,
-    "wof:lastmodified":1449073547,
+    "wof:lastmodified":1466313027,
     "wof:name":"Airmaps NZ Ltd",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.16301,-37.689568,176.16301,-37.689568],
-  "geometry": {"coordinates":[176.16301,-37.689568],"type":"Point"}
+  "bbox": [
+    176.16301,
+    -37.689568,
+    176.16301,
+    -37.689568
+],
+  "geometry": {"coordinates":[176.16301000000001,-37.689568],"type":"Point"}
 }

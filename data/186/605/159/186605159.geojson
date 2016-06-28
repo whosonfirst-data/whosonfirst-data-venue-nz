@@ -2,13 +2,14 @@
   "id": 186605159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.742737,-36.87278,174.742737,-36.87278",
     "geom:latitude":-36.87278,
     "geom:longitude":174.742737,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"500 New North Rd Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186605159,
-    "wof:lastmodified":1449051678,
+    "wof:lastmodified":1466312965,
     "wof:name":"Marshall Artz",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fitness"
     ]
 },
-  "bbox": [174.742737,-36.87278,174.742737,-36.87278],
-  "geometry": {"coordinates":[174.742737,-36.87278],"type":"Point"}
+  "bbox": [
+    174.742737,
+    -36.87278,
+    174.742737,
+    -36.87278
+],
+  "geometry": {"coordinates":[174.74273700000001,-36.87278],"type":"Point"}
 }

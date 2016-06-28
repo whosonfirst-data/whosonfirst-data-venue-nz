@@ -2,13 +2,14 @@
   "id": 186148745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.10463,-38.689545,176.10463,-38.689545",
     "geom:latitude":-38.689545,
     "geom:longitude":176.10463,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Miro St ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186148745,
-    "wof:lastmodified":1449052585,
+    "wof:lastmodified":1466310974,
     "wof:name":"Ellis Sheet Metal Services (1988) Ltd",
     "wof:parent_id":85781789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "engineer"
     ]
 },
-  "bbox": [176.10463,-38.689545,176.10463,-38.689545],
-  "geometry": {"coordinates":[176.10463,-38.689545],"type":"Point"}
+  "bbox": [
+    176.10463,
+    -38.689545,
+    176.10463,
+    -38.689545
+],
+  "geometry": {"coordinates":[176.10462999999999,-38.689545],"type":"Point"}
 }

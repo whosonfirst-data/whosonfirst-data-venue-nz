@@ -2,13 +2,14 @@
   "id": 169793817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.88295,-41.228836,174.88295,-41.228836",
     "geom:latitude":-41.228836,
     "geom:longitude":174.88295,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14-17 Tory St Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169793817,
-    "wof:lastmodified":1449034507,
+    "wof:lastmodified":1466311591,
     "wof:name":"NZTS",
     "wof:parent_id":85782489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.88295,-41.228836,174.88295,-41.228836],
-  "geometry": {"coordinates":[174.88295,-41.228836],"type":"Point"}
+  "bbox": [
+    174.88295,
+    -41.228836,
+    174.88295,
+    -41.228836
+],
+  "geometry": {"coordinates":[174.88294999999999,-41.228836],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186610207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.676048,44.572186,-116.676048,44.572186",
     "geom:latitude":44.572186,
     "geom:longitude":-116.676048,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Pope Tce ",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186610207,
-    "wof:lastmodified":1449052991,
+    "wof:lastmodified":1466312974,
     "wof:name":"Cambridge Fitness Centre Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [-116.676048,44.572186,-116.676048,44.572186],
-  "geometry": {"coordinates":[-116.676048,44.572186],"type":"Point"}
+  "bbox": [
+    -116.676048,
+    44.572186,
+    -116.676048,
+    44.572186
+],
+  "geometry": {"coordinates":[-116.67604799999999,44.572186],"type":"Point"}
 }

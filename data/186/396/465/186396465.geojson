@@ -2,13 +2,14 @@
   "id": 186396465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.276199,-41.2621,173.276199,-41.2621",
     "geom:latitude":-41.2621,
     "geom:longitude":173.276199,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Carkeek & Graham Sts Port Nelson ",
     "sg:city":"Nelson",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186396465,
-    "wof:lastmodified":1449052129,
+    "wof:lastmodified":1466312408,
     "wof:name":"Steel & Tube Distribution",
     "wof:parent_id":85773133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.276199,-41.2621,173.276199,-41.2621],
-  "geometry": {"coordinates":[173.276199,-41.2621],"type":"Point"}
+  "bbox": [
+    173.276199,
+    -41.2621,
+    173.276199,
+    -41.2621
+],
+  "geometry": {"coordinates":[173.27619899999999,-41.2621],"type":"Point"}
 }

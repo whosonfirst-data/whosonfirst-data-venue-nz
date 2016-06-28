@@ -2,13 +2,14 @@
   "id": 202757025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.008301,-41.148262,175.008301,-41.148262",
     "geom:latitude":-41.148262,
     "geom:longitude":175.008301,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Field St Silverstream Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202757025,
-    "wof:lastmodified":1449061532,
+    "wof:lastmodified":1466312520,
     "wof:name":"Heretaunga Home & Village",
     "wof:parent_id":85773187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "village"
     ]
 },
-  "bbox": [175.008301,-41.148262,175.008301,-41.148262],
-  "geometry": {"coordinates":[175.008301,-41.148262],"type":"Point"}
+  "bbox": [
+    175.008301,
+    -41.148262,
+    175.008301,
+    -41.148262
+],
+  "geometry": {"coordinates":[175.00830099999999,-41.148262],"type":"Point"}
 }

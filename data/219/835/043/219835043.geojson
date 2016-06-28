@@ -2,13 +2,14 @@
   "id": 219835043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.619232,-40.348331,175.619232,-40.348331",
     "geom:latitude":-40.348331,
     "geom:longitude":175.619232,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Grey St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219835043,
-    "wof:lastmodified":1449070898,
+    "wof:lastmodified":1466313138,
     "wof:name":"Neal Gilchrist CPAg",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.619232,-40.348331,175.619232,-40.348331],
-  "geometry": {"coordinates":[175.619232,-40.348331],"type":"Point"}
+  "bbox": [
+    175.619232,
+    -40.348331,
+    175.619232,
+    -40.348331
+],
+  "geometry": {"coordinates":[175.61923200000001,-40.348331],"type":"Point"}
 }

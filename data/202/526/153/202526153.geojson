@@ -2,13 +2,14 @@
   "id": 202526153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.971313,-37.935833,176.971313,-37.935833",
     "geom:latitude":-37.935833,
     "geom:longitude":176.971313,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Panorama Pl ",
     "sg:city":"Whakatane",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202526153,
-    "wof:lastmodified":1449060894,
+    "wof:lastmodified":1466310877,
     "wof:name":"Groothoff D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.971313,-37.935833,176.971313,-37.935833],
-  "geometry": {"coordinates":[176.971313,-37.935833],"type":"Point"}
+  "bbox": [
+    176.971313,
+    -37.935833,
+    176.971313,
+    -37.935833
+],
+  "geometry": {"coordinates":[176.97131300000001,-37.935833],"type":"Point"}
 }

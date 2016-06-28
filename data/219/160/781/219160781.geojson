@@ -2,13 +2,14 @@
   "id": 219160781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.811981,-41.231434,174.811981,-41.231434",
     "geom:latitude":-41.231434,
     "geom:longitude":174.811981,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Newlands Rd ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219160781,
-    "wof:lastmodified":1449073353,
+    "wof:lastmodified":1466310759,
     "wof:name":"Kiwi Self-Storage",
     "wof:parent_id":85778481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.811981,-41.231434,174.811981,-41.231434],
+  "bbox": [
+    174.811981,
+    -41.231434,
+    174.811981,
+    -41.231434
+],
   "geometry": {"coordinates":[174.811981,-41.231434],"type":"Point"}
 }

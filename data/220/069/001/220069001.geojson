@@ -2,13 +2,14 @@
   "id": 220069001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.586685,-40.359928,175.586685,-40.359928",
     "geom:latitude":-40.359928,
     "geom:longitude":175.586685,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Highbury Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220069001,
-    "wof:lastmodified":1449074559,
+    "wof:lastmodified":1466312056,
     "wof:name":"Target Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "outlet"
     ]
 },
-  "bbox": [175.586685,-40.359928,175.586685,-40.359928],
-  "geometry": {"coordinates":[175.586685,-40.359928],"type":"Point"}
+  "bbox": [
+    175.586685,
+    -40.359928,
+    175.586685,
+    -40.359928
+],
+  "geometry": {"coordinates":[175.58668499999999,-40.359928],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219159701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.347794,-46.409874,168.347794,-46.409874",
     "geom:latitude":-46.409874,
     "geom:longitude":168.347794,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Spey St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219159701,
-    "wof:lastmodified":1449070815,
+    "wof:lastmodified":1466310738,
     "wof:name":"Adsteam Agency (NZ) Limited",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.347794,-46.409874,168.347794,-46.409874],
-  "geometry": {"coordinates":[168.347794,-46.409874],"type":"Point"}
+  "bbox": [
+    168.347794,
+    -46.409874,
+    168.347794,
+    -46.409874
+],
+  "geometry": {"coordinates":[168.34779399999999,-46.409874],"type":"Point"}
 }

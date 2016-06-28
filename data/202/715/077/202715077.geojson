@@ -2,13 +2,14 @@
   "id": 202715077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.887436,-36.956711,174.887436,-36.956711",
     "geom:latitude":-36.956711,
     "geom:longitude":174.887436,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 B Neil Park Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202715077,
-    "wof:lastmodified":1449062152,
+    "wof:lastmodified":1466312296,
     "wof:name":"Waste Away Ltd",
     "wof:parent_id":85772895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaning"
     ]
 },
-  "bbox": [174.887436,-36.956711,174.887436,-36.956711],
-  "geometry": {"coordinates":[174.887436,-36.956711],"type":"Point"}
+  "bbox": [
+    174.887436,
+    -36.956711,
+    174.887436,
+    -36.956711
+],
+  "geometry": {"coordinates":[174.88743600000001,-36.956711],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202947191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.82193,-41.308517,174.82193,-41.308517",
     "geom:latitude":-41.308517,
     "geom:longitude":174.82193,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"140 Park Rd Miramar ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202947191,
-    "wof:lastmodified":1449061938,
+    "wof:lastmodified":1466312876,
     "wof:name":"Mowers Ark Ltd",
     "wof:parent_id":85773025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.82193,-41.308517,174.82193,-41.308517],
-  "geometry": {"coordinates":[174.82193,-41.308517],"type":"Point"}
+  "bbox": [
+    174.82193,
+    -41.308517,
+    174.82193,
+    -41.308517
+],
+  "geometry": {"coordinates":[174.82193000000001,-41.308517],"type":"Point"}
 }

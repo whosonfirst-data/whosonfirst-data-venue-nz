@@ -2,13 +2,14 @@
   "id": 202440539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.740753,-36.760098,174.740753,-36.760098",
     "geom:latitude":-36.760098,
     "geom:longitude":174.740753,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Sunnynook Rd Sunnynook ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202440539,
-    "wof:lastmodified":1449061003,
+    "wof:lastmodified":1466311696,
     "wof:name":"North Shore Optometrists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.740753,-36.760098,174.740753,-36.760098],
-  "geometry": {"coordinates":[174.740753,-36.760098],"type":"Point"}
+  "bbox": [
+    174.740753,
+    -36.760098,
+    174.740753,
+    -36.760098
+],
+  "geometry": {"coordinates":[174.74075300000001,-36.760098],"type":"Point"}
 }

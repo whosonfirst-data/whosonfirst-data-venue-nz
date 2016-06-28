@@ -2,13 +2,14 @@
   "id": 236015637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.657333,-40.94931,175.657333,-40.94931",
     "geom:latitude":-40.94931,
     "geom:longitude":175.657333,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Crayne & Chapel Sts ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236015637,
-    "wof:lastmodified":1449002241,
+    "wof:lastmodified":1466310901,
     "wof:name":"KFC",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "takeaway"
     ]
 },
-  "bbox": [175.657333,-40.94931,175.657333,-40.94931],
-  "geometry": {"coordinates":[175.657333,-40.94931],"type":"Point"}
+  "bbox": [
+    175.657333,
+    -40.94931,
+    175.657333,
+    -40.94931
+],
+  "geometry": {"coordinates":[175.65733299999999,-40.94931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219958831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.623337,-36.816399,174.623337,-36.816399",
     "geom:latitude":-36.816399,
     "geom:longitude":174.623337,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Hobsonville Rd West Harbour ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219958831,
-    "wof:lastmodified":1449073157,
+    "wof:lastmodified":1466313122,
     "wof:name":"West Harbour Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.623337,-36.816399,174.623337,-36.816399],
-  "geometry": {"coordinates":[174.623337,-36.816399],"type":"Point"}
+  "bbox": [
+    174.623337,
+    -36.816399,
+    174.623337,
+    -36.816399
+],
+  "geometry": {"coordinates":[174.62333699999999,-36.816399],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219386255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.352173,-46.41185,168.352173,-46.41185",
     "geom:latitude":-46.41185,
     "geom:longitude":168.352173,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Southland Museum & Art Galley 108 Gala St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219386255,
-    "wof:lastmodified":1449072237,
+    "wof:lastmodified":1466311660,
     "wof:name":"Invercargill Information Centre",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broker"
     ]
 },
-  "bbox": [168.352173,-46.41185,168.352173,-46.41185],
-  "geometry": {"coordinates":[168.352173,-46.41185],"type":"Point"}
+  "bbox": [
+    168.352173,
+    -46.41185,
+    168.352173,
+    -46.41185
+],
+  "geometry": {"coordinates":[168.35217299999999,-46.41185],"type":"Point"}
 }

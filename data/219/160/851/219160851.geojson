@@ -2,13 +2,14 @@
   "id": 219160851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.133141,40.104912,-83.133141,40.104912",
     "geom:latitude":40.104912,
     "geom:longitude":-83.133141,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Norwich Qy & Dublin St ",
     "sg:city":"Lyttelton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219160851,
-    "wof:lastmodified":1449073356,
+    "wof:lastmodified":1466310761,
     "wof:name":"Lyttelton Port Company Ltd",
     "wof:parent_id":85847055,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.133141,40.104912,-83.133141,40.104912],
-  "geometry": {"coordinates":[-83.133141,40.104912],"type":"Point"}
+  "bbox": [
+    -83.133141,
+    40.104912,
+    -83.133141,
+    40.104912
+],
+  "geometry": {"coordinates":[-83.13314099999999,40.104912],"type":"Point"}
 }

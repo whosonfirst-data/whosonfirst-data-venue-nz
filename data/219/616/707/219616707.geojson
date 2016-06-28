@@ -2,13 +2,14 @@
   "id": 219616707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.154648,-37.667873,176.154648,-37.667873",
     "geom:latitude":-37.667873,
     "geom:longitude":176.154648,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Ngatai Rd Otumoetai ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219616707,
-    "wof:lastmodified":1449072998,
+    "wof:lastmodified":1466312650,
     "wof:name":"W.O.F. Testing Ngatai Rd",
     "wof:parent_id":85781315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fitness"
     ]
 },
-  "bbox": [176.154648,-37.667873,176.154648,-37.667873],
-  "geometry": {"coordinates":[176.154648,-37.667873],"type":"Point"}
+  "bbox": [
+    176.154648,
+    -37.667873,
+    176.154648,
+    -37.667873
+],
+  "geometry": {"coordinates":[176.15464800000001,-37.667873],"type":"Point"}
 }

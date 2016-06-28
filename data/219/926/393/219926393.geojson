@@ -2,13 +2,14 @@
   "id": 219926393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.325058,-38.013901,175.325058,-38.013901",
     "geom:latitude":-38.013901,
     "geom:longitude":175.325058,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"418 Sloane St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219926393,
-    "wof:lastmodified":1449071624,
+    "wof:lastmodified":1466313160,
     "wof:name":"Intelact Nutrition Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.325058,-38.013901,175.325058,-38.013901],
-  "geometry": {"coordinates":[175.325058,-38.013901],"type":"Point"}
+  "bbox": [
+    175.325058,
+    -38.013901,
+    175.325058,
+    -38.013901
+],
+  "geometry": {"coordinates":[175.32505800000001,-38.013901],"type":"Point"}
 }

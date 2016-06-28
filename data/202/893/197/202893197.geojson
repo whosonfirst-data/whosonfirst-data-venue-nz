@@ -2,13 +2,14 @@
   "id": 202893197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.959213,-41.509277,173.959213,-41.509277",
     "geom:latitude":-41.509277,
     "geom:longitude":173.959213,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Grove Rd ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":202893197,
-    "wof:lastmodified":1449062190,
+    "wof:lastmodified":1466312780,
     "wof:name":"Croads Motor & Mower Services",
     "wof:parent_id":85781477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "cutter"
     ]
 },
-  "bbox": [173.959213,-41.509277,173.959213,-41.509277],
-  "geometry": {"coordinates":[173.959213,-41.509277],"type":"Point"}
+  "bbox": [
+    173.959213,
+    -41.509277,
+    173.959213,
+    -41.509277
+],
+  "geometry": {"coordinates":[173.95921300000001,-41.509277],"type":"Point"}
 }

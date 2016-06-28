@@ -2,13 +2,14 @@
   "id": 219161383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.77272,-36.789501,174.77272,-36.789501",
     "geom:latitude":-36.789501,
     "geom:longitude":174.77272,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"466 Lake Rd ",
     "sg:city":"Takapuna",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219161383,
-    "wof:lastmodified":1449071782,
+    "wof:lastmodified":1466310777,
     "wof:name":"PakMail",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.77272,-36.789501,174.77272,-36.789501],
-  "geometry": {"coordinates":[174.77272,-36.789501],"type":"Point"}
+  "bbox": [
+    174.77272,
+    -36.789501,
+    174.77272,
+    -36.789501
+],
+  "geometry": {"coordinates":[174.77271999999999,-36.789501],"type":"Point"}
 }

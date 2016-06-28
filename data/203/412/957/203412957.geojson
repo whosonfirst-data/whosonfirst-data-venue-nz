@@ -2,13 +2,14 @@
   "id": 203412957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.964172,-41.482822,173.964172,-41.482822",
     "geom:latitude":-41.482822,
     "geom:longitude":173.964172,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Nolans Rd Grovetown ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203412957,
-    "wof:lastmodified":1449025325,
+    "wof:lastmodified":1466312668,
     "wof:name":"Marlborough Mussel Co",
     "wof:parent_id":85781495,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "aquaculture"
     ]
 },
-  "bbox": [173.964172,-41.482822,173.964172,-41.482822],
-  "geometry": {"coordinates":[173.964172,-41.482822],"type":"Point"}
+  "bbox": [
+    173.964172,
+    -41.482822,
+    173.964172,
+    -41.482822
+],
+  "geometry": {"coordinates":[173.96417199999999,-41.482822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202777909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.309311,-35.692184,174.309311,-35.692184",
     "geom:latitude":-35.692184,
     "geom:longitude":174.309311,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"367 Kamo Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202777909,
-    "wof:lastmodified":1449061445,
+    "wof:lastmodified":1466312477,
     "wof:name":"Future Garage Doors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [174.309311,-35.692184,174.309311,-35.692184],
-  "geometry": {"coordinates":[174.309311,-35.692184],"type":"Point"}
+  "bbox": [
+    174.309311,
+    -35.692184,
+    174.309311,
+    -35.692184
+],
+  "geometry": {"coordinates":[174.30931100000001,-35.692184],"type":"Point"}
 }

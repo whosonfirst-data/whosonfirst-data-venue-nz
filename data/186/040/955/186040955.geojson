@@ -2,13 +2,14 @@
   "id": 186040955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.806885,-36.901951,174.806885,-36.901951",
     "geom:latitude":-36.901951,
     "geom:longitude":174.806885,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 3, Bldg 10 666 Gt South Rd Ellerslie ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186040955,
-    "wof:lastmodified":1449052959,
+    "wof:lastmodified":1466311282,
     "wof:name":"Consolidated Chemicals (NZ) Ltd",
     "wof:parent_id":85782385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "compounds"
     ]
 },
-  "bbox": [174.806885,-36.901951,174.806885,-36.901951],
-  "geometry": {"coordinates":[174.806885,-36.901951],"type":"Point"}
+  "bbox": [
+    174.806885,
+    -36.901951,
+    174.806885,
+    -36.901951
+],
+  "geometry": {"coordinates":[174.80688499999999,-36.901951],"type":"Point"}
 }

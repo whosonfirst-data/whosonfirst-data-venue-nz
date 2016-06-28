@@ -2,13 +2,14 @@
   "id": 219990541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.600357,-43.537354,172.600357,-43.537354",
     "geom:latitude":-43.537354,
     "geom:longitude":172.600357,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Blenheim Rd Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219990541,
-    "wof:lastmodified":1449072750,
+    "wof:lastmodified":1466313180,
     "wof:name":"Kendons Scott MacDonald Ltd",
     "wof:parent_id":85778457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finance"
     ]
 },
-  "bbox": [172.600357,-43.537354,172.600357,-43.537354],
+  "bbox": [
+    172.600357,
+    -43.537354,
+    172.600357,
+    -43.537354
+],
   "geometry": {"coordinates":[172.600357,-43.537354],"type":"Point"}
 }

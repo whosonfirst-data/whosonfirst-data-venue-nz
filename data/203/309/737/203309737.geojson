@@ -2,13 +2,14 @@
   "id": 203309737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.775665,-36.910736,174.775665,-36.910736",
     "geom:latitude":-36.910736,
     "geom:longitude":174.775665,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 48, 691 Manukau Rd Royal Oak ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203309737,
-    "wof:lastmodified":1449025341,
+    "wof:lastmodified":1466312157,
     "wof:name":"Sewing & Wool Centre",
     "wof:parent_id":85778583,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "clothing"
     ]
 },
-  "bbox": [174.775665,-36.910736,174.775665,-36.910736],
+  "bbox": [
+    174.775665,
+    -36.910736,
+    174.775665,
+    -36.910736
+],
   "geometry": {"coordinates":[174.775665,-36.910736],"type":"Point"}
 }

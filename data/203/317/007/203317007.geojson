@@ -2,13 +2,14 @@
   "id": 203317007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.785324,-36.921223,174.785324,-36.921223",
     "geom:latitude":-36.921223,
     "geom:longitude":174.785324,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Onehunga Mal Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203317007,
-    "wof:lastmodified":1449025776,
+    "wof:lastmodified":1466312391,
     "wof:name":"Antique Fabric & Lace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [174.785324,-36.921223,174.785324,-36.921223],
+  "bbox": [
+    174.785324,
+    -36.921223,
+    174.785324,
+    -36.921223
+],
   "geometry": {"coordinates":[174.785324,-36.921223],"type":"Point"}
 }

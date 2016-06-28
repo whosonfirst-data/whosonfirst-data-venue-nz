@@ -2,13 +2,14 @@
   "id": 219858763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.282684,-39.600681,174.282684,-39.600681",
     "geom:latitude":-39.600681,
     "geom:longitude":174.282684,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Manawapou Rd ",
     "sg:city":"Hawera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219858763,
-    "wof:lastmodified":1449070742,
+    "wof:lastmodified":1466313069,
     "wof:name":"Fleming's Poultry Farm",
     "wof:parent_id":85782415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.282684,-39.600681,174.282684,-39.600681],
-  "geometry": {"coordinates":[174.282684,-39.600681],"type":"Point"}
+  "bbox": [
+    174.282684,
+    -39.600681,
+    174.282684,
+    -39.600681
+],
+  "geometry": {"coordinates":[174.28268399999999,-39.600681],"type":"Point"}
 }

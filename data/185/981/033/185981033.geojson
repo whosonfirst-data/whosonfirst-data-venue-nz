@@ -2,13 +2,14 @@
   "id": 185981033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.568176,-40.229286,175.568176,-40.229286",
     "geom:latitude":-40.229286,
     "geom:longitude":175.568176,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Gladstone St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":185981033,
-    "wof:lastmodified":1449008243,
+    "wof:lastmodified":1466312350,
     "wof:name":"Fergusson Tanks",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "storage"
     ]
 },
-  "bbox": [175.568176,-40.229286,175.568176,-40.229286],
-  "geometry": {"coordinates":[175.568176,-40.229286],"type":"Point"}
+  "bbox": [
+    175.568176,
+    -40.229286,
+    175.568176,
+    -40.229286
+],
+  "geometry": {"coordinates":[175.56817599999999,-40.229286],"type":"Point"}
 }

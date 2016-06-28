@@ -2,13 +2,14 @@
   "id": 202630249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.296463,-35.64233,174.296463,-35.64233",
     "geom:latitude":-35.64233,
     "geom:longitude":174.296463,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"470 State Highway 1 Kauri ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202630249,
-    "wof:lastmodified":1449061011,
+    "wof:lastmodified":1466311764,
     "wof:name":"The House Company (Whangarei) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "related"
     ]
 },
-  "bbox": [174.296463,-35.64233,174.296463,-35.64233],
-  "geometry": {"coordinates":[174.296463,-35.64233],"type":"Point"}
+  "bbox": [
+    174.296463,
+    -35.64233,
+    174.296463,
+    -35.64233
+],
+  "geometry": {"coordinates":[174.29646299999999,-35.64233],"type":"Point"}
 }

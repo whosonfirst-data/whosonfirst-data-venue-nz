@@ -2,13 +2,14 @@
   "id": 202734019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.629089,-43.450012,172.629089,-43.450012",
     "geom:latitude":-43.450012,
     "geom:longitude":172.629089,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 51 Belfast ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202734019,
-    "wof:lastmodified":1449062337,
+    "wof:lastmodified":1466312259,
     "wof:name":"M T Bins",
     "wof:parent_id":85781163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "home"
     ]
 },
-  "bbox": [172.629089,-43.450012,172.629089,-43.450012],
-  "geometry": {"coordinates":[172.629089,-43.450012],"type":"Point"}
+  "bbox": [
+    172.629089,
+    -43.450012,
+    172.629089,
+    -43.450012
+],
+  "geometry": {"coordinates":[172.62908899999999,-43.450012],"type":"Point"}
 }

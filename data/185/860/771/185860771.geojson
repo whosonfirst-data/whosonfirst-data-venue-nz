@@ -2,13 +2,14 @@
   "id": 185860771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.971649,-37.100063,174.971649,-37.100063",
     "geom:latitude":-37.100063,
     "geom:longitude":174.971649,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Appleby Rd Drury ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185860771,
-    "wof:lastmodified":1449007329,
+    "wof:lastmodified":1466311631,
     "wof:name":"Auckland Gliding Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.971649,-37.100063,174.971649,-37.100063],
-  "geometry": {"coordinates":[174.971649,-37.100063],"type":"Point"}
+  "bbox": [
+    174.971649,
+    -37.100063,
+    174.971649,
+    -37.100063
+],
+  "geometry": {"coordinates":[174.97164900000001,-37.100063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219568763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.621994,-43.541615,172.621994,-43.541615",
     "geom:latitude":-43.541615,
     "geom:longitude":172.621994,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"446 Selwyn St Addington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219568763,
-    "wof:lastmodified":1449070301,
+    "wof:lastmodified":1466312402,
     "wof:name":"Auto Image",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [172.621994,-43.541615,172.621994,-43.541615],
+  "bbox": [
+    172.621994,
+    -43.541615,
+    172.621994,
+    -43.541615
+],
   "geometry": {"coordinates":[172.621994,-43.541615],"type":"Point"}
 }

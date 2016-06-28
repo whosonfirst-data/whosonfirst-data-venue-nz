@@ -2,13 +2,14 @@
   "id": 203264785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.7845,-37.006058,174.7845,-37.006058",
     "geom:latitude":-37.006058,
     "geom:longitude":174.7845,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"G44/7 Queen St Auckland City ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203264785,
-    "wof:lastmodified":1449026211,
+    "wof:lastmodified":1466311981,
     "wof:name":"Crew Headquarters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.7845,-37.006058,174.7845,-37.006058],
-  "geometry": {"coordinates":[174.7845,-37.006058],"type":"Point"}
+  "bbox": [
+    174.7845,
+    -37.006058,
+    174.7845,
+    -37.006058
+],
+  "geometry": {"coordinates":[174.78450000000001,-37.006058],"type":"Point"}
 }

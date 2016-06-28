@@ -2,13 +2,14 @@
   "id": 203389311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.942268,40.818432,-73.942268,40.818432",
     "geom:latitude":40.818432,
     "geom:longitude":-73.942268,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 10030 ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -67,10 +68,11 @@
         }
     ],
     "wof:id":203389311,
-    "wof:lastmodified":1449026438,
+    "wof:lastmodified":1466312432,
     "wof:name":"Destination NZ Cruising Guide",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -81,6 +83,11 @@
         "supply"
     ]
 },
-  "bbox": [-73.942268,40.818432,-73.942268,40.818432],
+  "bbox": [
+    -73.942268,
+    40.818432,
+    -73.942268,
+    40.818432
+],
   "geometry": {"coordinates":[-73.942268,40.818432],"type":"Point"}
 }

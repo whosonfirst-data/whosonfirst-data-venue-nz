@@ -2,13 +2,14 @@
   "id": 185814921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.234146,-41.312775,173.234146,-41.312775",
     "geom:latitude":-41.312775,
     "geom:longitude":173.234146,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"514 Main Rd Stoke ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185814921,
-    "wof:lastmodified":1449006911,
+    "wof:lastmodified":1466311325,
     "wof:name":"Stoke Fast Fotos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "developing"
     ]
 },
-  "bbox": [173.234146,-41.312775,173.234146,-41.312775],
-  "geometry": {"coordinates":[173.234146,-41.312775],"type":"Point"}
+  "bbox": [
+    173.234146,
+    -41.312775,
+    173.234146,
+    -41.312775
+],
+  "geometry": {"coordinates":[173.23414600000001,-41.312775],"type":"Point"}
 }

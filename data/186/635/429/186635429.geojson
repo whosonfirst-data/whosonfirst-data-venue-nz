@@ -2,13 +2,14 @@
   "id": 186635429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.166916,-38.332378,175.166916,-38.332378",
     "geom:latitude":-38.332378,
     "geom:longitude":175.166916,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"48 King St Te ",
     "sg:city":"Kuiti",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186635429,
-    "wof:lastmodified":1449051530,
+    "wof:lastmodified":1466313010,
     "wof:name":"The Herb Patch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [175.166916,-38.332378,175.166916,-38.332378],
-  "geometry": {"coordinates":[175.166916,-38.332378],"type":"Point"}
+  "bbox": [
+    175.166916,
+    -38.332378,
+    175.166916,
+    -38.332378
+],
+  "geometry": {"coordinates":[175.16691599999999,-38.332378],"type":"Point"}
 }

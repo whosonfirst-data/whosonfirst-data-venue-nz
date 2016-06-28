@@ -2,13 +2,14 @@
   "id": 220184953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.74379,-36.848019,174.74379,-36.848019",
     "geom:latitude":-36.848019,
     "geom:longitude":174.74379,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Ponsonby Rd Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220184953,
-    "wof:lastmodified":1449074178,
+    "wof:lastmodified":1466311341,
     "wof:name":"Provencal Meats of Ponsonby Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [174.74379,-36.848019,174.74379,-36.848019],
-  "geometry": {"coordinates":[174.74379,-36.848019],"type":"Point"}
+  "bbox": [
+    174.74379,
+    -36.848019,
+    174.74379,
+    -36.848019
+],
+  "geometry": {"coordinates":[174.74378999999999,-36.848019],"type":"Point"}
 }

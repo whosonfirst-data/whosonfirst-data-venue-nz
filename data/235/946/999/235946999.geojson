@@ -2,13 +2,14 @@
   "id": 235946999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.61795,-43.54319,172.61795,-43.54319",
     "geom:latitude":-43.54319,
     "geom:longitude":172.61795,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Marylands Pl Addington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":235946999,
-    "wof:lastmodified":1449008570,
+    "wof:lastmodified":1466310891,
     "wof:name":"Okains Bay Longline Fishing Company Limited",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sea"
     ]
 },
-  "bbox": [172.61795,-43.54319,172.61795,-43.54319],
-  "geometry": {"coordinates":[172.61795,-43.54319],"type":"Point"}
+  "bbox": [
+    172.61795,
+    -43.54319,
+    172.61795,
+    -43.54319
+],
+  "geometry": {"coordinates":[172.61795000000001,-43.54319],"type":"Point"}
 }

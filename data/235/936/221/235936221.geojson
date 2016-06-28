@@ -2,13 +2,14 @@
   "id": 235936221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.742447,-36.856476,174.742447,-36.856476",
     "geom:latitude":-36.856476,
     "geom:longitude":174.742447,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1, 56 Brown St Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":235936221,
-    "wof:lastmodified":1449008373,
+    "wof:lastmodified":1466310702,
     "wof:name":"Barker Fruit Processors Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "drink"
     ]
 },
-  "bbox": [174.742447,-36.856476,174.742447,-36.856476],
+  "bbox": [
+    174.742447,
+    -36.856476,
+    174.742447,
+    -36.856476
+],
   "geometry": {"coordinates":[174.742447,-36.856476],"type":"Point"}
 }

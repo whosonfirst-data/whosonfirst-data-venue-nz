@@ -2,13 +2,14 @@
   "id": 185926765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.637894,-43.521088,172.637894,-43.521088",
     "geom:latitude":-43.521088,
     "geom:longitude":172.637894,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Bealey Ave ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185926765,
-    "wof:lastmodified":1449007150,
+    "wof:lastmodified":1466312115,
     "wof:name":"Howzat Indoor Sports Centres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sports"
     ]
 },
-  "bbox": [172.637894,-43.521088,172.637894,-43.521088],
-  "geometry": {"coordinates":[172.637894,-43.521088],"type":"Point"}
+  "bbox": [
+    172.637894,
+    -43.521088,
+    172.637894,
+    -43.521088
+],
+  "geometry": {"coordinates":[172.63789399999999,-43.521088],"type":"Point"}
 }

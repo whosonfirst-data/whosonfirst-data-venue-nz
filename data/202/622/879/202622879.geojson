@@ -2,13 +2,14 @@
   "id": 202622879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.895981,-39.504452,176.895981,-39.504452",
     "geom:latitude":-39.504452,
     "geom:longitude":176.895981,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Austin St & Cadbury Rd Onekawa ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202622879,
-    "wof:lastmodified":1449062201,
+    "wof:lastmodified":1466311702,
     "wof:name":"Homeworx Design & Build Ltd",
     "wof:parent_id":85780999,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [176.895981,-39.504452,176.895981,-39.504452],
-  "geometry": {"coordinates":[176.895981,-39.504452],"type":"Point"}
+  "bbox": [
+    176.895981,
+    -39.504452,
+    176.895981,
+    -39.504452
+],
+  "geometry": {"coordinates":[176.89598100000001,-39.504452],"type":"Point"}
 }

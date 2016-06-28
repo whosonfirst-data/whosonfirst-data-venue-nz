@@ -2,13 +2,14 @@
   "id": 185712605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.690506,-43.553299,172.690506,-43.553299",
     "geom:latitude":-43.553299,
     "geom:longitude":172.690506,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4/1004 Ferry Rd Woolston ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185712605,
-    "wof:lastmodified":1449007298,
+    "wof:lastmodified":1466310644,
     "wof:name":"United Gaming Canterbury Westland Ltd",
     "wof:parent_id":85773353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leisure"
     ]
 },
-  "bbox": [172.690506,-43.553299,172.690506,-43.553299],
+  "bbox": [
+    172.690506,
+    -43.553299,
+    172.690506,
+    -43.553299
+],
   "geometry": {"coordinates":[172.690506,-43.553299],"type":"Point"}
 }

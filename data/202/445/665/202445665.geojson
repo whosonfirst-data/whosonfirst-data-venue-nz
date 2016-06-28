@@ -2,13 +2,14 @@
   "id": 202445665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764847,-36.850601,174.764847,-36.850601",
     "geom:latitude":-36.850601,
     "geom:longitude":174.764847,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1 280 Queen St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202445665,
-    "wof:lastmodified":1449060445,
+    "wof:lastmodified":1466311710,
     "wof:name":"A P Saks",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.764847,-36.850601,174.764847,-36.850601],
+  "bbox": [
+    174.764847,
+    -36.850601,
+    174.764847,
+    -36.850601
+],
   "geometry": {"coordinates":[174.764847,-36.850601],"type":"Point"}
 }

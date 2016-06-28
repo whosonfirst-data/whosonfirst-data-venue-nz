@@ -2,13 +2,14 @@
   "id": 203041753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.624451,-40.963123,175.624451,-40.963123",
     "geom:latitude":-40.963123,
     "geom:longitude":175.624451,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Solway Cre ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203041753,
-    "wof:lastmodified":1449025596,
+    "wof:lastmodified":1466311360,
     "wof:name":"Septic Tank Services 2000",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "septic"
     ]
 },
-  "bbox": [175.624451,-40.963123,175.624451,-40.963123],
-  "geometry": {"coordinates":[175.624451,-40.963123],"type":"Point"}
+  "bbox": [
+    175.624451,
+    -40.963123,
+    175.624451,
+    -40.963123
+],
+  "geometry": {"coordinates":[175.62445099999999,-40.963123],"type":"Point"}
 }

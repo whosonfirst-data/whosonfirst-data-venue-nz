@@ -2,13 +2,14 @@
   "id": 219804015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.747513,-36.87151,174.747513,-36.87151",
     "geom:latitude":-36.87151,
     "geom:longitude":174.747513,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"394 New North Rd Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219804015,
-    "wof:lastmodified":1449072847,
+    "wof:lastmodified":1466313105,
     "wof:name":"Greg Gordon Panelbeaters",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "beater"
     ]
 },
-  "bbox": [174.747513,-36.87151,174.747513,-36.87151],
+  "bbox": [
+    174.747513,
+    -36.87151,
+    174.747513,
+    -36.87151
+],
   "geometry": {"coordinates":[174.747513,-36.87151],"type":"Point"}
 }

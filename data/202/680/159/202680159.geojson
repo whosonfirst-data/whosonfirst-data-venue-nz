@@ -2,13 +2,14 @@
   "id": 202680159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.62587,40.123947,-81.62587,40.123947",
     "geom:latitude":40.123947,
     "geom:longitude":-81.62587,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"R/380 Flume Rd ",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202680159,
-    "wof:lastmodified":1449061871,
+    "wof:lastmodified":1466312170,
     "wof:name":"Heart 'N' Home",
     "wof:parent_id":85824595,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "children"
     ]
 },
-  "bbox": [-81.62587,40.123947,-81.62587,40.123947],
-  "geometry": {"coordinates":[-81.62587,40.123947],"type":"Point"}
+  "bbox": [
+    -81.62587,
+    40.123947,
+    -81.62587,
+    40.123947
+],
+  "geometry": {"coordinates":[-81.62587000000001,40.123947],"type":"Point"}
 }

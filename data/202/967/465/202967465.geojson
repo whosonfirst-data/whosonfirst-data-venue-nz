@@ -2,13 +2,14 @@
   "id": 202967465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.644592,-43.574352,172.644592,-43.574352",
     "geom:latitude":-43.574352,
     "geom:longitude":172.644592,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43c Bowenvale Ave Huntsbury ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202967465,
-    "wof:lastmodified":1449062460,
+    "wof:lastmodified":1466313000,
     "wof:name":"Sara Gerard & Associates",
     "wof:parent_id":85778377,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.644592,-43.574352,172.644592,-43.574352],
-  "geometry": {"coordinates":[172.644592,-43.574352],"type":"Point"}
+  "bbox": [
+    172.644592,
+    -43.574352,
+    172.644592,
+    -43.574352
+],
+  "geometry": {"coordinates":[172.64459199999999,-43.574352],"type":"Point"}
 }

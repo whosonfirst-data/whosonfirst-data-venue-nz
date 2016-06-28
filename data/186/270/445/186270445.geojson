@@ -2,13 +2,14 @@
   "id": 186270445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.683212,-43.49828,172.683212,-43.49828",
     "geom:latitude":-43.49828,
     "geom:longitude":172.683212,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 A Burwood Rd Burwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186270445,
-    "wof:lastmodified":1449050894,
+    "wof:lastmodified":1466312197,
     "wof:name":"Dynamic Balancing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.683212,-43.49828,172.683212,-43.49828],
+  "bbox": [
+    172.683212,
+    -43.49828,
+    172.683212,
+    -43.49828
+],
   "geometry": {"coordinates":[172.683212,-43.49828],"type":"Point"}
 }

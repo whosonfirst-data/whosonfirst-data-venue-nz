@@ -2,13 +2,14 @@
   "id": 202574903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.589401,-43.459339,172.589401,-43.459339",
     "geom:latitude":-43.459339,
     "geom:longitude":172.589401,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Johns Rd Harewood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202574903,
-    "wof:lastmodified":1449060092,
+    "wof:lastmodified":1466311309,
     "wof:name":"Tree Makers",
     "wof:parent_id":85772947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "artificial"
     ]
 },
-  "bbox": [172.589401,-43.459339,172.589401,-43.459339],
-  "geometry": {"coordinates":[172.589401,-43.459339],"type":"Point"}
+  "bbox": [
+    172.589401,
+    -43.459339,
+    172.589401,
+    -43.459339
+],
+  "geometry": {"coordinates":[172.58940100000001,-43.459339],"type":"Point"}
 }

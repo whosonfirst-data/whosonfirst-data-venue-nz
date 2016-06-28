@@ -2,13 +2,14 @@
   "id": 186266363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.689301,-36.90435,174.689301,-36.90435",
     "geom:latitude":-36.90435,
     "geom:longitude":174.689301,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4/5 Portage Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186266363,
-    "wof:lastmodified":1449050352,
+    "wof:lastmodified":1466311962,
     "wof:name":"NZ Welder Repair Services Ltd",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "welding"
     ]
 },
-  "bbox": [174.689301,-36.90435,174.689301,-36.90435],
+  "bbox": [
+    174.689301,
+    -36.90435,
+    174.689301,
+    -36.90435
+],
   "geometry": {"coordinates":[174.689301,-36.90435],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219345107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.999329,-38.652023,177.999329,-38.652023",
     "geom:latitude":-38.652023,
     "geom:longitude":177.999329,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"721 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219345107,
-    "wof:lastmodified":1449073635,
+    "wof:lastmodified":1466311293,
     "wof:name":"Travellers Inn Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accommodation"
     ]
 },
-  "bbox": [177.999329,-38.652023,177.999329,-38.652023],
-  "geometry": {"coordinates":[177.999329,-38.652023],"type":"Point"}
+  "bbox": [
+    177.999329,
+    -38.652023,
+    177.999329,
+    -38.652023
+],
+  "geometry": {"coordinates":[177.99932899999999,-38.652023],"type":"Point"}
 }

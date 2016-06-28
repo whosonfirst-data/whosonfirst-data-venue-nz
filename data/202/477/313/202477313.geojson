@@ -2,13 +2,14 @@
   "id": 202477313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.214424,46.331081,-114.214424,46.331081",
     "geom:latitude":46.331081,
     "geom:longitude":-114.214424,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"SHOP 20 K Mart Plaza Bryce St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202477313,
-    "wof:lastmodified":1449060534,
+    "wof:lastmodified":1466311958,
     "wof:name":"Central Hamilton Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.214424,46.331081,-114.214424,46.331081],
-  "geometry": {"coordinates":[-114.214424,46.331081],"type":"Point"}
+  "bbox": [
+    -114.214424,
+    46.331081,
+    -114.214424,
+    46.331081
+],
+  "geometry": {"coordinates":[-114.21442399999999,46.331081],"type":"Point"}
 }

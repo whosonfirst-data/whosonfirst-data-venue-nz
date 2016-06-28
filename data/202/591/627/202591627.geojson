@@ -2,13 +2,14 @@
   "id": 202591627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.175247,-37.720585,176.175247,-37.720585",
     "geom:latitude":-37.720585,
     "geom:longitude":176.175247,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Maungatapu Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202591627,
-    "wof:lastmodified":1449061471,
+    "wof:lastmodified":1466311448,
     "wof:name":"Small Pac Distributors Ltd",
     "wof:parent_id":85782081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.175247,-37.720585,176.175247,-37.720585],
-  "geometry": {"coordinates":[176.175247,-37.720585],"type":"Point"}
+  "bbox": [
+    176.175247,
+    -37.720585,
+    176.175247,
+    -37.720585
+],
+  "geometry": {"coordinates":[176.17524700000001,-37.720585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236000053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.253983,-38.138294,176.253983,-38.138294",
     "geom:latitude":-38.138294,
     "geom:longitude":176.253983,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1262 Fenton St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236000053,
-    "wof:lastmodified":1449002071,
+    "wof:lastmodified":1466311995,
     "wof:name":"Ciccio Italian Restaurant",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dining"
     ]
 },
-  "bbox": [176.253983,-38.138294,176.253983,-38.138294],
-  "geometry": {"coordinates":[176.253983,-38.138294],"type":"Point"}
+  "bbox": [
+    176.253983,
+    -38.138294,
+    176.253983,
+    -38.138294
+],
+  "geometry": {"coordinates":[176.25398300000001,-38.138294],"type":"Point"}
 }

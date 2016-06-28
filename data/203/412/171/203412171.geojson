@@ -2,13 +2,14 @@
   "id": 203412171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.796906,-41.312599,174.796906,-41.312599",
     "geom:latitude":-41.312599,
     "geom:longitude":174.796906,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Evans Bay ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203412171,
-    "wof:lastmodified":1449025325,
+    "wof:lastmodified":1466312582,
     "wof:name":"Totally Marine Ltd",
     "wof:parent_id":85778277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "transport"
     ]
 },
-  "bbox": [174.796906,-41.312599,174.796906,-41.312599],
-  "geometry": {"coordinates":[174.796906,-41.312599],"type":"Point"}
+  "bbox": [
+    174.796906,
+    -41.312599,
+    174.796906,
+    -41.312599
+],
+  "geometry": {"coordinates":[174.79690600000001,-41.312599],"type":"Point"}
 }

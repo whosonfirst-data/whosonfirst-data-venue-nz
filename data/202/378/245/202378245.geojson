@@ -2,13 +2,14 @@
   "id": 202378245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.746262,-36.845631,174.746262,-36.845631",
     "geom:latitude":-36.845631,
     "geom:longitude":174.746262,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 St Marys Rd St Marys Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202378245,
-    "wof:lastmodified":1449061805,
+    "wof:lastmodified":1466310550,
     "wof:name":"Karen McCallum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.746262,-36.845631,174.746262,-36.845631],
+  "bbox": [
+    174.746262,
+    -36.845631,
+    174.746262,
+    -36.845631
+],
   "geometry": {"coordinates":[174.746262,-36.845631],"type":"Point"}
 }

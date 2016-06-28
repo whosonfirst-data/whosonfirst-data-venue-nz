@@ -2,13 +2,14 @@
   "id": 185807885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.943451,-37.064514,174.943451,-37.064514",
     "geom:latitude":-37.064514,
     "geom:longitude":174.943451,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Great South Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185807885,
-    "wof:lastmodified":1449007019,
+    "wof:lastmodified":1466311274,
     "wof:name":"Kodak Express",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "developing"
     ]
 },
-  "bbox": [174.943451,-37.064514,174.943451,-37.064514],
-  "geometry": {"coordinates":[174.943451,-37.064514],"type":"Point"}
+  "bbox": [
+    174.943451,
+    -37.064514,
+    174.943451,
+    -37.064514
+],
+  "geometry": {"coordinates":[174.94345100000001,-37.064514],"type":"Point"}
 }

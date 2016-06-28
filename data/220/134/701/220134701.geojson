@@ -2,13 +2,14 @@
   "id": 220134701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.822647,-41.222748,174.822647,-41.222748",
     "geom:latitude":-41.222748,
     "geom:longitude":174.822647,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30/8 McMillan Ct Newlands ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220134701,
-    "wof:lastmodified":1449074842,
+    "wof:lastmodified":1466310929,
     "wof:name":"Asian Bulk Food & Spice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [174.822647,-41.222748,174.822647,-41.222748],
-  "geometry": {"coordinates":[174.822647,-41.222748],"type":"Point"}
+  "bbox": [
+    174.822647,
+    -41.222748,
+    174.822647,
+    -41.222748
+],
+  "geometry": {"coordinates":[174.82264699999999,-41.222748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186425205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.481216,-45.899586,170.481216,-45.899586",
     "geom:latitude":-45.899586,
     "geom:longitude":170.481216,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Hazel Ave Caversham ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186425205,
-    "wof:lastmodified":1449051339,
+    "wof:lastmodified":1466312587,
     "wof:name":"Pall New Zealand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.481216,-45.899586,170.481216,-45.899586],
-  "geometry": {"coordinates":[170.481216,-45.899586],"type":"Point"}
+  "bbox": [
+    170.481216,
+    -45.899586,
+    170.481216,
+    -45.899586
+],
+  "geometry": {"coordinates":[170.48121599999999,-45.899586],"type":"Point"}
 }

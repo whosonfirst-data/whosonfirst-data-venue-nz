@@ -2,13 +2,14 @@
   "id": 236052631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.785645,-36.926151,174.785645,-36.926151",
     "geom:latitude":-36.926151,
     "geom:longitude":174.785645,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"104-106 Onehunga Mall ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236052631,
-    "wof:lastmodified":1449003090,
+    "wof:lastmodified":1466311251,
     "wof:name":"Parkinson & Bouskill Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "headstone"
     ]
 },
-  "bbox": [174.785645,-36.926151,174.785645,-36.926151],
-  "geometry": {"coordinates":[174.785645,-36.926151],"type":"Point"}
+  "bbox": [
+    174.785645,
+    -36.926151,
+    174.785645,
+    -36.926151
+],
+  "geometry": {"coordinates":[174.78564499999999,-36.926151],"type":"Point"}
 }

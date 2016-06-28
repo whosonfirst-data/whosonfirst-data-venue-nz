@@ -2,13 +2,14 @@
   "id": 203224755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.982025,-37.96088,176.982025,-37.96088",
     "geom:latitude":-37.96088,
     "geom:longitude":176.982025,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"48 King St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203224755,
-    "wof:lastmodified":1449026353,
+    "wof:lastmodified":1466311592,
     "wof:name":"Pattersons Apparel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.982025,-37.96088,176.982025,-37.96088],
-  "geometry": {"coordinates":[176.982025,-37.96088],"type":"Point"}
+  "bbox": [
+    176.982025,
+    -37.96088,
+    176.982025,
+    -37.96088
+],
+  "geometry": {"coordinates":[176.98202499999999,-37.96088],"type":"Point"}
 }

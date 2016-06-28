@@ -2,13 +2,14 @@
   "id": 219833269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.675629,-43.562538,172.675629,-43.562538",
     "geom:latitude":-43.562538,
     "geom:longitude":172.675629,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Whaka Tce Hillsborough ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219833269,
-    "wof:lastmodified":1449070845,
+    "wof:lastmodified":1466313137,
     "wof:name":"Crop Solutions Ltd",
     "wof:parent_id":85778365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.675629,-43.562538,172.675629,-43.562538],
-  "geometry": {"coordinates":[172.675629,-43.562538],"type":"Point"}
+  "bbox": [
+    172.675629,
+    -43.562538,
+    172.675629,
+    -43.562538
+],
+  "geometry": {"coordinates":[172.67562899999999,-43.562538],"type":"Point"}
 }

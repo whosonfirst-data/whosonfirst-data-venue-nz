@@ -2,13 +2,14 @@
   "id": 219551551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.268127,-37.787601,175.268127,-37.787601",
     "geom:latitude":-37.787601,
     "geom:longitude":175.268127,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 King St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219551551,
-    "wof:lastmodified":1449071102,
+    "wof:lastmodified":1466312467,
     "wof:name":"Auto Point",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.268127,-37.787601,175.268127,-37.787601],
-  "geometry": {"coordinates":[175.268127,-37.787601],"type":"Point"}
+  "bbox": [
+    175.268127,
+    -37.787601,
+    175.268127,
+    -37.787601
+],
+  "geometry": {"coordinates":[175.26812699999999,-37.787601],"type":"Point"}
 }

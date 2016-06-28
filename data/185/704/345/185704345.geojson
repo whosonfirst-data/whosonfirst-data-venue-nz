@@ -2,13 +2,14 @@
   "id": 185704345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.707352,-43.576729,172.707352,-43.576729",
     "geom:latitude":-43.576729,
     "geom:longitude":172.707352,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Ferrymead HeritagePark Ferrymead Park Dve Heathcote",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185704345,
-    "wof:lastmodified":1449007028,
+    "wof:lastmodified":1466310586,
     "wof:name":"Cooperage Function Centre",
     "wof:parent_id":85778281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "sport"
     ]
 },
-  "bbox": [172.707352,-43.576729,172.707352,-43.576729],
-  "geometry": {"coordinates":[172.707352,-43.576729],"type":"Point"}
+  "bbox": [
+    172.707352,
+    -43.576729,
+    172.707352,
+    -43.576729
+],
+  "geometry": {"coordinates":[172.70735199999999,-43.576729],"type":"Point"}
 }

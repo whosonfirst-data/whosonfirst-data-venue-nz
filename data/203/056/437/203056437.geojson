@@ -2,13 +2,14 @@
   "id": 203056437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.845108,-36.915924,174.845108,-36.915924",
     "geom:latitude":-36.915924,
     "geom:longitude":174.845108,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Arthur Brown Pl Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203056437,
-    "wof:lastmodified":1449025442,
+    "wof:lastmodified":1466311580,
     "wof:name":"McCormack Asphalts Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.845108,-36.915924,174.845108,-36.915924],
-  "geometry": {"coordinates":[174.845108,-36.915924],"type":"Point"}
+  "bbox": [
+    174.845108,
+    -36.915924,
+    174.845108,
+    -36.915924
+],
+  "geometry": {"coordinates":[174.84510800000001,-36.915924],"type":"Point"}
 }

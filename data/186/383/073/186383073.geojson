@@ -2,13 +2,14 @@
   "id": 186383073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.623184,-40.331715,175.623184,-40.331715",
     "geom:latitude":-40.331715,
     "geom:longitude":175.623184,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Malden St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186383073,
-    "wof:lastmodified":1449051510,
+    "wof:lastmodified":1466312363,
     "wof:name":"Steel & Tube Distribution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.623184,-40.331715,175.623184,-40.331715],
-  "geometry": {"coordinates":[175.623184,-40.331715],"type":"Point"}
+  "bbox": [
+    175.623184,
+    -40.331715,
+    175.623184,
+    -40.331715
+],
+  "geometry": {"coordinates":[175.62318400000001,-40.331715],"type":"Point"}
 }

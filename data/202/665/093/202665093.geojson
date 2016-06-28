@@ -2,13 +2,14 @@
   "id": 202665093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.650177,-40.955681,175.650177,-40.955681",
     "geom:latitude":-40.955681,
     "geom:longitude":175.650177,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Chapel St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":202665093,
-    "wof:lastmodified":1449060886,
+    "wof:lastmodified":1466312220,
     "wof:name":"Groombridge & Forsyth Plumbers Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "related"
     ]
 },
-  "bbox": [175.650177,-40.955681,175.650177,-40.955681],
-  "geometry": {"coordinates":[175.650177,-40.955681],"type":"Point"}
+  "bbox": [
+    175.650177,
+    -40.955681,
+    175.650177,
+    -40.955681
+],
+  "geometry": {"coordinates":[175.65017700000001,-40.955681],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169707705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.351883,-46.408783,168.351883,-46.408783",
     "geom:latitude":-46.408783,
     "geom:longitude":168.351883,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Yarrow St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169707705,
-    "wof:lastmodified":1449035443,
+    "wof:lastmodified":1466310965,
     "wof:name":"Smiths City Ltd",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.351883,-46.408783,168.351883,-46.408783],
-  "geometry": {"coordinates":[168.351883,-46.408783],"type":"Point"}
+  "bbox": [
+    168.351883,
+    -46.408783,
+    168.351883,
+    -46.408783
+],
+  "geometry": {"coordinates":[168.35188299999999,-46.408783],"type":"Point"}
 }

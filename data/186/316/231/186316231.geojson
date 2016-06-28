@@ -2,13 +2,14 @@
   "id": 186316231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.576172,-43.542641,172.576172,-43.542641",
     "geom:latitude":-43.542641,
     "geom:longitude":172.576172,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Lunns Rd Middleton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186316231,
-    "wof:lastmodified":1449052189,
+    "wof:lastmodified":1466312244,
     "wof:name":"Fletcher Easysteel",
     "wof:parent_id":85778457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.576172,-43.542641,172.576172,-43.542641],
-  "geometry": {"coordinates":[172.576172,-43.542641],"type":"Point"}
+  "bbox": [
+    172.576172,
+    -43.542641,
+    172.576172,
+    -43.542641
+],
+  "geometry": {"coordinates":[172.57617200000001,-43.542641],"type":"Point"}
 }

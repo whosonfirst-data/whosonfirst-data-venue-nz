@@ -2,13 +2,14 @@
   "id": 202875499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.821579,-41.309311,174.821579,-41.309311",
     "geom:latitude":-41.309311,
     "geom:longitude":174.821579,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Park Rd Miramar ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202875499,
-    "wof:lastmodified":1449061986,
+    "wof:lastmodified":1466312751,
     "wof:name":"Darlington Chair Services",
     "wof:parent_id":85773025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [174.821579,-41.309311,174.821579,-41.309311],
-  "geometry": {"coordinates":[174.821579,-41.309311],"type":"Point"}
+  "bbox": [
+    174.821579,
+    -41.309311,
+    174.821579,
+    -41.309311
+],
+  "geometry": {"coordinates":[174.82157900000001,-41.309311],"type":"Point"}
 }

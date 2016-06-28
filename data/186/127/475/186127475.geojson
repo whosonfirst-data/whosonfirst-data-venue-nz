@@ -2,13 +2,14 @@
   "id": 186127475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.606735,-43.535194,172.606735,-43.535194",
     "geom:latitude":-43.535194,
     "geom:longitude":172.606735,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Mandeville St Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186127475,
-    "wof:lastmodified":1449052807,
+    "wof:lastmodified":1466310785,
     "wof:name":"South Pacific Electronic Design Associates Limited",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.606735,-43.535194,172.606735,-43.535194],
-  "geometry": {"coordinates":[172.606735,-43.535194],"type":"Point"}
+  "bbox": [
+    172.606735,
+    -43.535194,
+    172.606735,
+    -43.535194
+],
+  "geometry": {"coordinates":[172.60673499999999,-43.535194],"type":"Point"}
 }

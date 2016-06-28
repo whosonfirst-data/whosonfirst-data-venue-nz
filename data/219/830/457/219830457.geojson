@@ -2,13 +2,14 @@
   "id": 219830457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.991959,-37.95665,176.991959,-37.95665",
     "geom:latitude":-37.95665,
     "geom:longitude":176.991959,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Merritt St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219830457,
-    "wof:lastmodified":1449071145,
+    "wof:lastmodified":1466313137,
     "wof:name":"Tonya Greig Consulting Ltd",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.991959,-37.95665,176.991959,-37.95665],
-  "geometry": {"coordinates":[176.991959,-37.95665],"type":"Point"}
+  "bbox": [
+    176.991959,
+    -37.95665,
+    176.991959,
+    -37.95665
+],
+  "geometry": {"coordinates":[176.99195900000001,-37.95665],"type":"Point"}
 }

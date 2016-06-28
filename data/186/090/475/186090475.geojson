@@ -2,13 +2,14 @@
   "id": 186090475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.837021,-36.892525,174.837021,-36.892525",
     "geom:latitude":-36.892525,
     "geom:longitude":174.837021,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Lunn Ave Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186090475,
-    "wof:lastmodified":1449052465,
+    "wof:lastmodified":1466311923,
     "wof:name":"Electronic Data Manufacturing Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.837021,-36.892525,174.837021,-36.892525],
-  "geometry": {"coordinates":[174.837021,-36.892525],"type":"Point"}
+  "bbox": [
+    174.837021,
+    -36.892525,
+    174.837021,
+    -36.892525
+],
+  "geometry": {"coordinates":[174.83702099999999,-36.892525],"type":"Point"}
 }

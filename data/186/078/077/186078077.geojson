@@ -2,13 +2,14 @@
   "id": 186078077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.585785,-43.54459,172.585785,-43.54459",
     "geom:latitude":-43.54459,
     "geom:longitude":172.585785,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Vulcan Pl Middleton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186078077,
-    "wof:lastmodified":1449052586,
+    "wof:lastmodified":1466311834,
     "wof:name":"ABB Limited",
     "wof:parent_id":85778457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.585785,-43.54459,172.585785,-43.54459],
-  "geometry": {"coordinates":[172.585785,-43.54459],"type":"Point"}
+  "bbox": [
+    172.585785,
+    -43.54459,
+    172.585785,
+    -43.54459
+],
+  "geometry": {"coordinates":[172.58578499999999,-43.54459],"type":"Point"}
 }

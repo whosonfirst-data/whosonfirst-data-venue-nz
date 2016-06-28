@@ -2,13 +2,14 @@
   "id": 202750979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.773621,-36.879425,174.773621,-36.879425",
     "geom:latitude":-36.879425,
     "geom:longitude":174.773621,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Kipling Ave Epsom ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202750979,
-    "wof:lastmodified":1449061660,
+    "wof:lastmodified":1466312312,
     "wof:name":"Rossmore Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [174.773621,-36.879425,174.773621,-36.879425],
-  "geometry": {"coordinates":[174.773621,-36.879425],"type":"Point"}
+  "bbox": [
+    174.773621,
+    -36.879425,
+    174.773621,
+    -36.879425
+],
+  "geometry": {"coordinates":[174.77362099999999,-36.879425],"type":"Point"}
 }

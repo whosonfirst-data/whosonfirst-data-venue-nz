@@ -2,13 +2,14 @@
   "id": 185981027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.479324,-36.983673,174.479324,-36.983673",
     "geom:latitude":-36.983673,
     "geom:longitude":174.479324,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Karekare Rd ",
     "sg:city":"Karekare",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":185981027,
-    "wof:lastmodified":1449008244,
+    "wof:lastmodified":1466312246,
     "wof:name":"Water Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "storage"
     ]
 },
-  "bbox": [174.479324,-36.983673,174.479324,-36.983673],
-  "geometry": {"coordinates":[174.479324,-36.983673],"type":"Point"}
+  "bbox": [
+    174.479324,
+    -36.983673,
+    174.479324,
+    -36.983673
+],
+  "geometry": {"coordinates":[174.47932399999999,-36.983673],"type":"Point"}
 }

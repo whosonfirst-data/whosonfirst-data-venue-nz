@@ -2,13 +2,14 @@
   "id": 203062663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.327209,-45.947781,170.327209,-45.947781",
     "geom:latitude":-45.947781,
     "geom:longitude":170.327209,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Taieri Mouth Rd R D 1 Brighton ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203062663,
-    "wof:lastmodified":1449026734,
+    "wof:lastmodified":1466311623,
     "wof:name":"Kim Rapley Fencing Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [170.327209,-45.947781,170.327209,-45.947781],
-  "geometry": {"coordinates":[170.327209,-45.947781],"type":"Point"}
+  "bbox": [
+    170.327209,
+    -45.947781,
+    170.327209,
+    -45.947781
+],
+  "geometry": {"coordinates":[170.32720900000001,-45.947781],"type":"Point"}
 }

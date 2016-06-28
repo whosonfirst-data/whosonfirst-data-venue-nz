@@ -2,13 +2,14 @@
   "id": 186140267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.782516,-36.927471,174.782516,-36.927471",
     "geom:latitude":-36.927471,
     "geom:longitude":174.782516,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Gloucester Park Rd Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186140267,
-    "wof:lastmodified":1449050757,
+    "wof:lastmodified":1466310898,
     "wof:name":"CNC - 5 Axis Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.782516,-36.927471,174.782516,-36.927471],
-  "geometry": {"coordinates":[174.782516,-36.927471],"type":"Point"}
+  "bbox": [
+    174.782516,
+    -36.927471,
+    174.782516,
+    -36.927471
+],
+  "geometry": {"coordinates":[174.78251599999999,-36.927471],"type":"Point"}
 }

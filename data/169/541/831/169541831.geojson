@@ -2,13 +2,14 @@
   "id": 169541831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.361481,-46.43576,168.361481,-46.43576",
     "geom:latitude":-46.43576,
     "geom:longitude":168.361481,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Elles Rd Kew ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169541831,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466310676,
     "wof:name":"Tudor House Of Flowers",
     "wof:parent_id":85778911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.361481,-46.43576,168.361481,-46.43576],
+  "bbox": [
+    168.361481,
+    -46.43576,
+    168.361481,
+    -46.43576
+],
   "geometry": {"coordinates":[168.361481,-46.43576],"type":"Point"}
 }

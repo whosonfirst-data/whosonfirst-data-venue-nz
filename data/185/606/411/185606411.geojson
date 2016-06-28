@@ -2,13 +2,14 @@
   "id": 185606411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.326279,-35.724876,174.326279,-35.724876",
     "geom:latitude":-35.724876,
     "geom:longitude":174.326279,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 A Quayside Town Basin ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185606411,
-    "wof:lastmodified":1449006861,
+    "wof:lastmodified":1466310730,
     "wof:name":"McClelland Galleries",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.326279,-35.724876,174.326279,-35.724876],
+  "bbox": [
+    174.326279,
+    -35.724876,
+    174.326279,
+    -35.724876
+],
   "geometry": {"coordinates":[174.326279,-35.724876],"type":"Point"}
 }

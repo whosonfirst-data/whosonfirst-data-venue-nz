@@ -2,13 +2,14 @@
   "id": 219256279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.607697,-40.349411,175.607697,-40.349411",
     "geom:latitude":-40.349411,
     "geom:longitude":175.607697,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"250-256 Featherston St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219256279,
-    "wof:lastmodified":1449073088,
+    "wof:lastmodified":1466310602,
     "wof:name":"Sherwood On Featherston",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "tourism"
     ]
 },
-  "bbox": [175.607697,-40.349411,175.607697,-40.349411],
+  "bbox": [
+    175.607697,
+    -40.349411,
+    175.607697,
+    -40.349411
+],
   "geometry": {"coordinates":[175.607697,-40.349411],"type":"Point"}
 }

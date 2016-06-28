@@ -2,13 +2,14 @@
   "id": 203148097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.780075,-36.923504,174.780075,-36.923504",
     "geom:latitude":-36.923504,
     "geom:longitude":174.780075,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Church St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203148097,
-    "wof:lastmodified":1449026549,
+    "wof:lastmodified":1466310892,
     "wof:name":"Onehunga Mall Vet & Pet Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pets"
     ]
 },
-  "bbox": [174.780075,-36.923504,174.780075,-36.923504],
-  "geometry": {"coordinates":[174.780075,-36.923504],"type":"Point"}
+  "bbox": [
+    174.780075,
+    -36.923504,
+    174.780075,
+    -36.923504
+],
+  "geometry": {"coordinates":[174.78007500000001,-36.923504],"type":"Point"}
 }

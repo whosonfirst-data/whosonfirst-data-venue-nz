@@ -2,13 +2,14 @@
   "id": 169648121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.315216,-37.797108,175.315216,-37.797108",
     "geom:latitude":-37.797108,
     "geom:longitude":175.315216,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"265 Clyde Rd Hillcrest ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169648121,
-    "wof:lastmodified":1449033587,
+    "wof:lastmodified":1466310610,
     "wof:name":"The Warehouse Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.315216,-37.797108,175.315216,-37.797108],
-  "geometry": {"coordinates":[175.315216,-37.797108],"type":"Point"}
+  "bbox": [
+    175.315216,
+    -37.797108,
+    175.315216,
+    -37.797108
+],
+  "geometry": {"coordinates":[175.31521599999999,-37.797108],"type":"Point"}
 }

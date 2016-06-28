@@ -2,13 +2,14 @@
   "id": 202700585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.3881,39.5453,-76.3881,39.5453",
     "geom:latitude":39.5453,
     "geom:longitude":-76.3881,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Aniseed Gro ",
     "sg:city":"Timberlea",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202700585,
-    "wof:lastmodified":1449062431,
+    "wof:lastmodified":1466312109,
     "wof:name":"Upper Hutt District Kindergartens",
     "wof:parent_id":85851131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "children"
     ]
 },
-  "bbox": [-76.3881,39.5453,-76.3881,39.5453],
-  "geometry": {"coordinates":[-76.3881,39.5453],"type":"Point"}
+  "bbox": [
+    -76.3881,
+    39.5453,
+    -76.3881,
+    39.5453
+],
+  "geometry": {"coordinates":[-76.38809999999999,39.5453],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219212993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.160271,45.715504,-95.160271,45.715504",
     "geom:latitude":45.715504,
     "geom:longitude":-95.160271,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 33 ",
     "sg:city":"Westport",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219212993,
-    "wof:lastmodified":1449072671,
+    "wof:lastmodified":1466311622,
     "wof:name":"North-West Freight",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-95.160271,45.715504,-95.160271,45.715504],
-  "geometry": {"coordinates":[-95.160271,45.715504],"type":"Point"}
+  "bbox": [
+    -95.160271,
+    45.715504,
+    -95.160271,
+    45.715504
+],
+  "geometry": {"coordinates":[-95.16027099999999,45.715504],"type":"Point"}
 }

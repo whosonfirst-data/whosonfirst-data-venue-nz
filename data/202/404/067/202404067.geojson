@@ -2,13 +2,14 @@
   "id": 202404067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.166473,-37.686142,176.166473,-37.686142",
     "geom:latitude":-37.686142,
     "geom:longitude":176.166473,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Waihi Rd Tauranga ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202404067,
-    "wof:lastmodified":1449061769,
+    "wof:lastmodified":1466312025,
     "wof:name":"Presbyterian Support (Northern)",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.166473,-37.686142,176.166473,-37.686142],
+  "bbox": [
+    176.166473,
+    -37.686142,
+    176.166473,
+    -37.686142
+],
   "geometry": {"coordinates":[176.166473,-37.686142],"type":"Point"}
 }

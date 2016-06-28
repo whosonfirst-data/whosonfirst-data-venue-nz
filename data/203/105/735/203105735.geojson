@@ -2,13 +2,14 @@
   "id": 203105735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.663483,-40.948826,175.663483,-40.948826",
     "geom:latitude":-40.948826,
     "geom:longitude":175.663483,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Queen St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203105735,
-    "wof:lastmodified":1449025643,
+    "wof:lastmodified":1466310571,
     "wof:name":"Donald Yee Photographer",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [175.663483,-40.948826,175.663483,-40.948826],
-  "geometry": {"coordinates":[175.663483,-40.948826],"type":"Point"}
+  "bbox": [
+    175.663483,
+    -40.948826,
+    175.663483,
+    -40.948826
+],
+  "geometry": {"coordinates":[175.66348300000001,-40.948826],"type":"Point"}
 }

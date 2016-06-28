@@ -2,13 +2,14 @@
   "id": 186531583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.024399,-39.932228,175.024399,-39.932228",
     "geom:latitude":-39.932228,
     "geom:longitude":175.024399,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 fitzherbert Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186531583,
-    "wof:lastmodified":1449051037,
+    "wof:lastmodified":1466312845,
     "wof:name":"Art & Grace",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.024399,-39.932228,175.024399,-39.932228],
-  "geometry": {"coordinates":[175.024399,-39.932228],"type":"Point"}
+  "bbox": [
+    175.024399,
+    -39.932228,
+    175.024399,
+    -39.932228
+],
+  "geometry": {"coordinates":[175.02439899999999,-39.932228],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203221541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.251389,-38.139206,176.251389,-38.139206",
     "geom:latitude":-38.139206,
     "geom:longitude":176.251389,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1293 Tutanekai St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203221541,
-    "wof:lastmodified":1449025745,
+    "wof:lastmodified":1466311561,
     "wof:name":"Jay Jays",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.251389,-38.139206,176.251389,-38.139206],
-  "geometry": {"coordinates":[176.251389,-38.139206],"type":"Point"}
+  "bbox": [
+    176.251389,
+    -38.139206,
+    176.251389,
+    -38.139206
+],
+  "geometry": {"coordinates":[176.25138899999999,-38.139206],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186166555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.595367,-40.375809,175.595367,-40.375809",
     "geom:latitude":-40.375809,
     "geom:longitude":175.595367,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Pitama Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186166555,
-    "wof:lastmodified":1449051883,
+    "wof:lastmodified":1466311126,
     "wof:name":"David Napier & Associates Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.595367,-40.375809,175.595367,-40.375809],
-  "geometry": {"coordinates":[175.595367,-40.375809],"type":"Point"}
+  "bbox": [
+    175.595367,
+    -40.375809,
+    175.595367,
+    -40.375809
+],
+  "geometry": {"coordinates":[175.59536700000001,-40.375809],"type":"Point"}
 }

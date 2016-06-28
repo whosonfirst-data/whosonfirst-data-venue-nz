@@ -2,13 +2,14 @@
   "id": 235985557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.049149,-39.931351,175.049149,-39.931351",
     "geom:latitude":-39.931351,
     "geom:longitude":175.049149,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235985557,
-    "wof:lastmodified":1449008415,
+    "wof:lastmodified":1466311464,
     "wof:name":"T JAYZ",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cafe"
     ]
 },
-  "bbox": [175.049149,-39.931351,175.049149,-39.931351],
+  "bbox": [
+    175.049149,
+    -39.931351,
+    175.049149,
+    -39.931351
+],
   "geometry": {"coordinates":[175.049149,-39.931351],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202510871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.733795,-36.769768,174.733795,-36.769768",
     "geom:latitude":-36.769768,
     "geom:longitude":174.733795,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"212 Wairau Rd Glenfield ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202510871,
-    "wof:lastmodified":1449061649,
+    "wof:lastmodified":1466310746,
     "wof:name":"The Northern Vein Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.733795,-36.769768,174.733795,-36.769768],
-  "geometry": {"coordinates":[174.733795,-36.769768],"type":"Point"}
+  "bbox": [
+    174.733795,
+    -36.769768,
+    174.733795,
+    -36.769768
+],
+  "geometry": {"coordinates":[174.73379499999999,-36.769768],"type":"Point"}
 }

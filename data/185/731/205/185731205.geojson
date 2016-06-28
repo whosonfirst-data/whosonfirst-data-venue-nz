@@ -2,13 +2,14 @@
   "id": 185731205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.499771,-45.89275,170.499771,-45.89275",
     "geom:latitude":-45.89275,
     "geom:longitude":170.499771,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Hillside Rd South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185731205,
-    "wof:lastmodified":1449008040,
+    "wof:lastmodified":1466310775,
     "wof:name":"Civic Video",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "entertainment"
     ]
 },
-  "bbox": [170.499771,-45.89275,170.499771,-45.89275],
-  "geometry": {"coordinates":[170.499771,-45.89275],"type":"Point"}
+  "bbox": [
+    170.499771,
+    -45.89275,
+    170.499771,
+    -45.89275
+],
+  "geometry": {"coordinates":[170.49977100000001,-45.89275],"type":"Point"}
 }

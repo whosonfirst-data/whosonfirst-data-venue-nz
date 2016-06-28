@@ -2,13 +2,14 @@
   "id": 203053457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.797531,-41.255539,174.797531,-41.255539",
     "geom:latitude":-41.255539,
     "geom:longitude":174.797531,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"188 Hutt Rd ",
     "sg:city":"Kaiwharawhara",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203053457,
-    "wof:lastmodified":1449025295,
+    "wof:lastmodified":1466311559,
     "wof:name":"PlaceMakers",
     "wof:parent_id":85778225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "paving"
     ]
 },
-  "bbox": [174.797531,-41.255539,174.797531,-41.255539],
-  "geometry": {"coordinates":[174.797531,-41.255539],"type":"Point"}
+  "bbox": [
+    174.797531,
+    -41.255539,
+    174.797531,
+    -41.255539
+],
+  "geometry": {"coordinates":[174.79753099999999,-41.255539],"type":"Point"}
 }

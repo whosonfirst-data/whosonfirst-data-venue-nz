@@ -2,13 +2,14 @@
   "id": 169846777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.73822,-36.704906,174.73822,-36.704906",
     "geom:latitude":-36.704906,
     "geom:longitude":174.73822,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Weatherly Rd Torbay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169846777,
-    "wof:lastmodified":1449035217,
+    "wof:lastmodified":1466311994,
     "wof:name":"Johnson Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "award"
     ]
 },
-  "bbox": [174.73822,-36.704906,174.73822,-36.704906],
-  "geometry": {"coordinates":[174.73822,-36.704906],"type":"Point"}
+  "bbox": [
+    174.73822,
+    -36.704906,
+    174.73822,
+    -36.704906
+],
+  "geometry": {"coordinates":[174.73822000000001,-36.704906],"type":"Point"}
 }

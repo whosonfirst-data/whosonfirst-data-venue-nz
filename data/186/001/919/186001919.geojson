@@ -2,13 +2,14 @@
   "id": 186001919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.680313,-45.59082,170.680313,-45.59082",
     "geom:latitude":-45.59082,
     "geom:longitude":170.680313,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Main Rd ",
     "sg:city":"Waikouaiti",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186001919,
-    "wof:lastmodified":1449051010,
+    "wof:lastmodified":1466310560,
     "wof:name":"Inglis J K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [170.680313,-45.59082,170.680313,-45.59082],
-  "geometry": {"coordinates":[170.680313,-45.59082],"type":"Point"}
+  "bbox": [
+    170.680313,
+    -45.59082,
+    170.680313,
+    -45.59082
+],
+  "geometry": {"coordinates":[170.68031300000001,-45.59082],"type":"Point"}
 }

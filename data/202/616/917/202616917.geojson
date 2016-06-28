@@ -2,13 +2,14 @@
   "id": 202616917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.656799,-40.336926,175.656799,-40.336926",
     "geom:latitude":-40.336926,
     "geom:longitude":175.656799,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Roberts Line Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202616917,
-    "wof:lastmodified":1449061964,
+    "wof:lastmodified":1466311652,
     "wof:name":"McCosh G N",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.656799,-40.336926,175.656799,-40.336926],
-  "geometry": {"coordinates":[175.656799,-40.336926],"type":"Point"}
+  "bbox": [
+    175.656799,
+    -40.336926,
+    175.656799,
+    -40.336926
+],
+  "geometry": {"coordinates":[175.65679900000001,-40.336926],"type":"Point"}
 }

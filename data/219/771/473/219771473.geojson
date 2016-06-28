@@ -2,13 +2,14 @@
   "id": 219771473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.592651,-43.545506,172.592651,-43.545506",
     "geom:latitude":-43.545506,
     "geom:longitude":172.592651,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Halls Pl Middleton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219771473,
-    "wof:lastmodified":1449072291,
+    "wof:lastmodified":1466312968,
     "wof:name":"Upper Classics",
     "wof:parent_id":85778457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "car"
     ]
 },
-  "bbox": [172.592651,-43.545506,172.592651,-43.545506],
-  "geometry": {"coordinates":[172.592651,-43.545506],"type":"Point"}
+  "bbox": [
+    172.592651,
+    -43.545506,
+    172.592651,
+    -43.545506
+],
+  "geometry": {"coordinates":[172.59265099999999,-43.545506],"type":"Point"}
 }

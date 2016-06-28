@@ -2,13 +2,14 @@
   "id": 186454221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.896759,-36.930676,174.896759,-36.930676",
     "geom:latitude":-36.930676,
     "geom:longitude":174.896759,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Harris Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186454221,
-    "wof:lastmodified":1449052768,
+    "wof:lastmodified":1466312630,
     "wof:name":"Big Colour",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.896759,-36.930676,174.896759,-36.930676],
+  "bbox": [
+    174.896759,
+    -36.930676,
+    174.896759,
+    -36.930676
+],
   "geometry": {"coordinates":[174.896759,-36.930676],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169576703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.731232,-36.815849,174.731232,-36.815849",
     "geom:latitude":-36.815849,
     "geom:longitude":174.731232,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Hinemoa St Birkenhead ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169576703,
-    "wof:lastmodified":1449035196,
+    "wof:lastmodified":1466311323,
     "wof:name":"Patchwork Barn",
     "wof:parent_id":85778355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.731232,-36.815849,174.731232,-36.815849],
-  "geometry": {"coordinates":[174.731232,-36.815849],"type":"Point"}
+  "bbox": [
+    174.731232,
+    -36.815849,
+    174.731232,
+    -36.815849
+],
+  "geometry": {"coordinates":[174.73123200000001,-36.815849],"type":"Point"}
 }

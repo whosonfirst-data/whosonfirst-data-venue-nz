@@ -2,13 +2,14 @@
   "id": 219211005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.66156,-40.948116,175.66156,-40.948116",
     "geom:latitude":-40.948116,
     "geom:longitude":175.66156,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Albert St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219211005,
-    "wof:lastmodified":1449071269,
+    "wof:lastmodified":1466312046,
     "wof:name":"Fastway Couriers Wairarapa",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.66156,-40.948116,175.66156,-40.948116],
-  "geometry": {"coordinates":[175.66156,-40.948116],"type":"Point"}
+  "bbox": [
+    175.66156,
+    -40.948116,
+    175.66156,
+    -40.948116
+],
+  "geometry": {"coordinates":[175.66156000000001,-40.948116],"type":"Point"}
 }

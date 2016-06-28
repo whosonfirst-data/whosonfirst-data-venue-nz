@@ -2,13 +2,14 @@
   "id": 203075997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.774658,-41.253857,174.774658,-41.253857",
     "geom:latitude":-41.253857,
     "geom:longitude":174.774658,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Crofton Rd Ngaio ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203075997,
-    "wof:lastmodified":1449025975,
+    "wof:lastmodified":1466311777,
     "wof:name":"Wairau Stone Wellington",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.774658,-41.253857,174.774658,-41.253857],
-  "geometry": {"coordinates":[174.774658,-41.253857],"type":"Point"}
+  "bbox": [
+    174.774658,
+    -41.253857,
+    174.774658,
+    -41.253857
+],
+  "geometry": {"coordinates":[174.77465799999999,-41.253857],"type":"Point"}
 }

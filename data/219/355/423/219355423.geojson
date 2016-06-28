@@ -2,13 +2,14 @@
   "id": 219355423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.916428,-39.49107,176.916428,-39.49107",
     "geom:latitude":-39.49107,
     "geom:longitude":176.916428,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Mid City Plaza Emerson St ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219355423,
-    "wof:lastmodified":1449071391,
+    "wof:lastmodified":1466311378,
     "wof:name":"Souvenirs NZ",
     "wof:parent_id":85782461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "tourism"
     ]
 },
-  "bbox": [176.916428,-39.49107,176.916428,-39.49107],
+  "bbox": [
+    176.916428,
+    -39.49107,
+    176.916428,
+    -39.49107
+],
   "geometry": {"coordinates":[176.916428,-39.49107],"type":"Point"}
 }

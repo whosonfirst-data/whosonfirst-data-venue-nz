@@ -2,13 +2,14 @@
   "id": 236011901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.798004,-36.829937,174.798004,-36.829937",
     "geom:latitude":-36.829937,
     "geom:longitude":174.798004,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Victoria Rd Devonport ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236011901,
-    "wof:lastmodified":1449004522,
+    "wof:lastmodified":1466310823,
     "wof:name":"Crossroads Cafe & Takeaways",
     "wof:parent_id":85778259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "takeaway"
     ]
 },
-  "bbox": [174.798004,-36.829937,174.798004,-36.829937],
-  "geometry": {"coordinates":[174.798004,-36.829937],"type":"Point"}
+  "bbox": [
+    174.798004,
+    -36.829937,
+    174.798004,
+    -36.829937
+],
+  "geometry": {"coordinates":[174.79800399999999,-36.829937],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219952419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.565948,-40.227814,175.565948,-40.227814",
     "geom:latitude":-40.227814,
     "geom:longitude":175.565948,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43-45 Manchester St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219952419,
-    "wof:lastmodified":1449072944,
+    "wof:lastmodified":1466313169,
     "wof:name":"Manawatu Veterinary Services Ltd",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.565948,-40.227814,175.565948,-40.227814],
-  "geometry": {"coordinates":[175.565948,-40.227814],"type":"Point"}
+  "bbox": [
+    175.565948,
+    -40.227814,
+    175.565948,
+    -40.227814
+],
+  "geometry": {"coordinates":[175.56594799999999,-40.227814],"type":"Point"}
 }

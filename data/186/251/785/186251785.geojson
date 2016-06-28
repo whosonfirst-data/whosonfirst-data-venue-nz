@@ -2,13 +2,14 @@
   "id": 186251785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.747025,40.21349,-74.747025,40.21349",
     "geom:latitude":40.21349,
     "geom:longitude":-74.747025,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Kent St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186251785,
-    "wof:lastmodified":1449050314,
+    "wof:lastmodified":1466311854,
     "wof:name":"Sewing Machine Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.747025,40.21349,-74.747025,40.21349],
-  "geometry": {"coordinates":[-74.747025,40.21349],"type":"Point"}
+  "bbox": [
+    -74.747025,
+    40.21349,
+    -74.747025,
+    40.21349
+],
+  "geometry": {"coordinates":[-74.74702499999999,40.21349],"type":"Point"}
 }

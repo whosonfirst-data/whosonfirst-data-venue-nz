@@ -2,13 +2,14 @@
   "id": 169546777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.007996,-40.910461,175.007996,-40.910461",
     "geom:latitude":-40.910461,
     "geom:longitude":175.007996,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Coastlands ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169546777,
-    "wof:lastmodified":1449032680,
+    "wof:lastmodified":1466310765,
     "wof:name":"Just In Case",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.007996,-40.910461,175.007996,-40.910461],
-  "geometry": {"coordinates":[175.007996,-40.910461],"type":"Point"}
+  "bbox": [
+    175.007996,
+    -40.910461,
+    175.007996,
+    -40.910461
+],
+  "geometry": {"coordinates":[175.00799599999999,-40.910461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185891467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.214828,-41.319088,173.214828,-41.319088",
     "geom:latitude":-41.319088,
     "geom:longitude":173.214828,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"453 Nayland Rd Stoke ",
     "sg:city":"Nelson",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185891467,
-    "wof:lastmodified":1449007585,
+    "wof:lastmodified":1466311812,
     "wof:name":"Golf Driving Range Nelson",
     "wof:parent_id":85781765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.214828,-41.319088,173.214828,-41.319088],
-  "geometry": {"coordinates":[173.214828,-41.319088],"type":"Point"}
+  "bbox": [
+    173.214828,
+    -41.319088,
+    173.214828,
+    -41.319088
+],
+  "geometry": {"coordinates":[173.21482800000001,-41.319088],"type":"Point"}
 }

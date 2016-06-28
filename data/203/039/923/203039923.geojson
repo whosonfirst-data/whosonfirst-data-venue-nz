@@ -2,13 +2,14 @@
   "id": 203039923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.302094,-37.703758,176.302094,-37.703758",
     "geom:latitude":-37.703758,
     "geom:longitude":176.302094,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"722 Papamoa Beach Rd ",
     "sg:city":"Papamoa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203039923,
-    "wof:lastmodified":1449026627,
+    "wof:lastmodified":1466311312,
     "wof:name":"Kiwi Waste Organics",
     "wof:parent_id":85778979,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "septic"
     ]
 },
-  "bbox": [176.302094,-37.703758,176.302094,-37.703758],
-  "geometry": {"coordinates":[176.302094,-37.703758],"type":"Point"}
+  "bbox": [
+    176.302094,
+    -37.703758,
+    176.302094,
+    -37.703758
+],
+  "geometry": {"coordinates":[176.30209400000001,-37.703758],"type":"Point"}
 }

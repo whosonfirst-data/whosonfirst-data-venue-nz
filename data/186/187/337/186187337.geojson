@@ -2,13 +2,14 @@
   "id": 186187337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.664383,-40.94532,175.664383,-40.94532",
     "geom:latitude":-40.94532,
     "geom:longitude":175.664383,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Hope St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186187337,
-    "wof:lastmodified":1449050790,
+    "wof:lastmodified":1466311294,
     "wof:name":"Simonsen & Yardley Ltd",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.664383,-40.94532,175.664383,-40.94532],
-  "geometry": {"coordinates":[175.664383,-40.94532],"type":"Point"}
+  "bbox": [
+    175.664383,
+    -40.94532,
+    175.664383,
+    -40.94532
+],
+  "geometry": {"coordinates":[175.66438299999999,-40.94532],"type":"Point"}
 }

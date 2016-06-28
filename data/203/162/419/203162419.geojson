@@ -2,13 +2,14 @@
   "id": 203162419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.607025,-40.340767,175.607025,-40.340767",
     "geom:latitude":-40.340767,
     "geom:longitude":175.607025,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"637 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203162419,
-    "wof:lastmodified":1449026577,
+    "wof:lastmodified":1466311007,
     "wof:name":"City Glass Palmerston North Ltd",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fitting"
     ]
 },
-  "bbox": [175.607025,-40.340767,175.607025,-40.340767],
-  "geometry": {"coordinates":[175.607025,-40.340767],"type":"Point"}
+  "bbox": [
+    175.607025,
+    -40.340767,
+    175.607025,
+    -40.340767
+],
+  "geometry": {"coordinates":[175.60702499999999,-40.340767],"type":"Point"}
 }

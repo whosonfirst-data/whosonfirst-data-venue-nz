@@ -2,13 +2,14 @@
   "id": 186235269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.89798,-36.934982,174.89798,-36.934982",
     "geom:latitude":-36.934982,
     "geom:longitude":174.89798,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6-10 Greenmount Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186235269,
-    "wof:lastmodified":1449050876,
+    "wof:lastmodified":1466311723,
     "wof:name":"Cookes",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lifting"
     ]
 },
-  "bbox": [174.89798,-36.934982,174.89798,-36.934982],
-  "geometry": {"coordinates":[174.89798,-36.934982],"type":"Point"}
+  "bbox": [
+    174.89798,
+    -36.934982,
+    174.89798,
+    -36.934982
+],
+  "geometry": {"coordinates":[174.89797999999999,-36.934982],"type":"Point"}
 }

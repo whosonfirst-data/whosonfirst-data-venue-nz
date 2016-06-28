@@ -2,13 +2,14 @@
   "id": 185650225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.545189,37.882751,-83.545189,37.882751",
     "geom:latitude":37.882751,
     "geom:longitude":-83.545189,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Courtenay Pl ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185650225,
-    "wof:lastmodified":1449007595,
+    "wof:lastmodified":1466311513,
     "wof:name":"Paramount Theatre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.545189,37.882751,-83.545189,37.882751],
-  "geometry": {"coordinates":[-83.545189,37.882751],"type":"Point"}
+  "bbox": [
+    -83.545189,
+    37.882751,
+    -83.545189,
+    37.882751
+],
+  "geometry": {"coordinates":[-83.54518899999999,37.882751],"type":"Point"}
 }

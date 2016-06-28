@@ -2,13 +2,14 @@
   "id": 220041479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.613937,-40.337681,175.613937,-40.337681",
     "geom:latitude":-40.337681,
     "geom:longitude":175.613937,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"711 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220041479,
-    "wof:lastmodified":1449074312,
+    "wof:lastmodified":1466311481,
     "wof:name":"Chilltech",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.613937,-40.337681,175.613937,-40.337681],
-  "geometry": {"coordinates":[175.613937,-40.337681],"type":"Point"}
+  "bbox": [
+    175.613937,
+    -40.337681,
+    175.613937,
+    -40.337681
+],
+  "geometry": {"coordinates":[175.61393699999999,-40.337681],"type":"Point"}
 }

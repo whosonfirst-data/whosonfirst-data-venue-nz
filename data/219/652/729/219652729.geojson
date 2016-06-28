@@ -2,13 +2,14 @@
   "id": 219652729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.638382,-43.544056,172.638382,-43.544056",
     "geom:latitude":-43.544056,
     "geom:longitude":172.638382,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Buchan St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219652729,
-    "wof:lastmodified":1449072659,
+    "wof:lastmodified":1466312636,
     "wof:name":"Christchurch Radiators",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "supplies"
     ]
 },
-  "bbox": [172.638382,-43.544056,172.638382,-43.544056],
-  "geometry": {"coordinates":[172.638382,-43.544056],"type":"Point"}
+  "bbox": [
+    172.638382,
+    -43.544056,
+    172.638382,
+    -43.544056
+],
+  "geometry": {"coordinates":[172.63838200000001,-43.544056],"type":"Point"}
 }

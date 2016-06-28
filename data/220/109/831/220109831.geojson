@@ -2,13 +2,14 @@
   "id": 220109831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.802185,-36.827755,174.802185,-36.827755",
     "geom:latitude":-36.827755,
     "geom:longitude":174.802185,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 b Church St Devonport ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220109831,
-    "wof:lastmodified":1449074295,
+    "wof:lastmodified":1466310688,
     "wof:name":"Ice It!",
     "wof:parent_id":85778259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "-"
     ]
 },
-  "bbox": [174.802185,-36.827755,174.802185,-36.827755],
-  "geometry": {"coordinates":[174.802185,-36.827755],"type":"Point"}
+  "bbox": [
+    174.802185,
+    -36.827755,
+    174.802185,
+    -36.827755
+],
+  "geometry": {"coordinates":[174.80218500000001,-36.827755],"type":"Point"}
 }

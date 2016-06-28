@@ -2,13 +2,14 @@
   "id": 186108569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.775436,-41.283409,174.775436,-41.283409",
     "geom:latitude":-41.283409,
     "geom:longitude":174.775436,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 13, Forsyth Barr House, cnr Lambton Quay &, Johnston St ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186108569,
-    "wof:lastmodified":1449050310,
+    "wof:lastmodified":1466310605,
     "wof:name":"e-gas Group",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "utilities"
     ]
 },
-  "bbox": [174.775436,-41.283409,174.775436,-41.283409],
-  "geometry": {"coordinates":[174.775436,-41.283409],"type":"Point"}
+  "bbox": [
+    174.775436,
+    -41.283409,
+    174.775436,
+    -41.283409
+],
+  "geometry": {"coordinates":[174.77543600000001,-41.283409],"type":"Point"}
 }

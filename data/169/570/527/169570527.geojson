@@ -2,13 +2,14 @@
   "id": 169570527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-101.291153,19.911659,-101.291153,19.911659",
     "geom:latitude":19.911659,
     "geom:longitude":-101.291153,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 97-588 South Auckl Mail ",
     "sg:city":"Cen",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":169570527,
-    "wof:lastmodified":1449034646,
+    "wof:lastmodified":1466311150,
     "wof:name":"Apex Health & Nutrition Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "health"
     ]
 },
-  "bbox": [-101.291153,19.911659,-101.291153,19.911659],
-  "geometry": {"coordinates":[-101.291153,19.911659],"type":"Point"}
+  "bbox": [
+    -101.291153,
+    19.911659,
+    -101.291153,
+    19.911659
+],
+  "geometry": {"coordinates":[-101.29115299999999,19.911659],"type":"Point"}
 }

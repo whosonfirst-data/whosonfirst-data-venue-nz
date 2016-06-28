@@ -2,13 +2,14 @@
   "id": 169741691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.993927,-39.942421,174.993927,-39.942421",
     "geom:latitude":-39.942421,
     "geom:longitude":174.993927,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Polson St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169741691,
-    "wof:lastmodified":1449032860,
+    "wof:lastmodified":1466311215,
     "wof:name":"Polson St Foodmarket",
     "wof:parent_id":85772875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.993927,-39.942421,174.993927,-39.942421],
-  "geometry": {"coordinates":[174.993927,-39.942421],"type":"Point"}
+  "bbox": [
+    174.993927,
+    -39.942421,
+    174.993927,
+    -39.942421
+],
+  "geometry": {"coordinates":[174.99392700000001,-39.942421],"type":"Point"}
 }

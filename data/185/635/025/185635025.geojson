@@ -2,13 +2,14 @@
   "id": 185635025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.301102,-35.683422,174.301102,-35.683422",
     "geom:latitude":-35.683422,
     "geom:longitude":174.301102,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Kamo Rd Kamo ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185635025,
-    "wof:lastmodified":1449007315,
+    "wof:lastmodified":1466312033,
     "wof:name":"Frames",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.301102,-35.683422,174.301102,-35.683422],
-  "geometry": {"coordinates":[174.301102,-35.683422],"type":"Point"}
+  "bbox": [
+    174.301102,
+    -35.683422,
+    174.301102,
+    -35.683422
+],
+  "geometry": {"coordinates":[174.30110199999999,-35.683422],"type":"Point"}
 }

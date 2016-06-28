@@ -2,13 +2,14 @@
   "id": 203164703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.329865,-46.151173,168.329865,-46.151173",
     "geom:latitude":-46.151173,
     "geom:longitude":168.329865,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Great North Rd ",
     "sg:city":"Winton",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":203164703,
-    "wof:lastmodified":1449025169,
+    "wof:lastmodified":1466311028,
     "wof:name":"Nigel Molloy Joinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "fitting"
     ]
 },
-  "bbox": [168.329865,-46.151173,168.329865,-46.151173],
-  "geometry": {"coordinates":[168.329865,-46.151173],"type":"Point"}
+  "bbox": [
+    168.329865,
+    -46.151173,
+    168.329865,
+    -46.151173
+],
+  "geometry": {"coordinates":[168.32986500000001,-46.151173],"type":"Point"}
 }

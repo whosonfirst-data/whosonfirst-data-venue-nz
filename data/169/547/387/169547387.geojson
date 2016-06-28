@@ -2,13 +2,14 @@
   "id": 169547387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.742599,-36.872532,174.742599,-36.872532",
     "geom:latitude":-36.872532,
     "geom:longitude":174.742599,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"513A New North Rd Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169547387,
-    "wof:lastmodified":1449033009,
+    "wof:lastmodified":1466310761,
     "wof:name":"Moana",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.742599,-36.872532,174.742599,-36.872532],
-  "geometry": {"coordinates":[174.742599,-36.872532],"type":"Point"}
+  "bbox": [
+    174.742599,
+    -36.872532,
+    174.742599,
+    -36.872532
+],
+  "geometry": {"coordinates":[174.74259900000001,-36.872532],"type":"Point"}
 }

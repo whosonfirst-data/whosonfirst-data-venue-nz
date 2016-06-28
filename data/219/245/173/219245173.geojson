@@ -2,13 +2,14 @@
   "id": 219245173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.835831,-36.9263,174.835831,-36.9263",
     "geom:latitude":-36.9263,
     "geom:longitude":174.835831,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Lockhart Pl Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219245173,
-    "wof:lastmodified":1449073796,
+    "wof:lastmodified":1466310516,
     "wof:name":"Leightons Transport Ltd",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.835831,-36.9263,174.835831,-36.9263],
-  "geometry": {"coordinates":[174.835831,-36.9263],"type":"Point"}
+  "bbox": [
+    174.835831,
+    -36.9263,
+    174.835831,
+    -36.9263
+],
+  "geometry": {"coordinates":[174.83583100000001,-36.9263],"type":"Point"}
 }

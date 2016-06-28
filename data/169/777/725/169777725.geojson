@@ -2,13 +2,14 @@
   "id": 169777725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.16478,-37.709442,176.16478,-37.709442",
     "geom:latitude":-37.709442,
     "geom:longitude":176.16478,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Burrows St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169777725,
-    "wof:lastmodified":1449034427,
+    "wof:lastmodified":1466311479,
     "wof:name":"Fishtech Tackle",
     "wof:parent_id":85782817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "retailers"
     ]
 },
-  "bbox": [176.16478,-37.709442,176.16478,-37.709442],
-  "geometry": {"coordinates":[176.16478,-37.709442],"type":"Point"}
+  "bbox": [
+    176.16478,
+    -37.709442,
+    176.16478,
+    -37.709442
+],
+  "geometry": {"coordinates":[176.16478000000001,-37.709442],"type":"Point"}
 }

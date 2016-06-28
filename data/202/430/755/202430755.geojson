@@ -2,13 +2,14 @@
   "id": 202430755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.777153,28.052778,-82.777153,28.052778",
     "geom:latitude":28.052778,
     "geom:longitude":-82.777153,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 6 John Wickliffe House 265 Princes St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202430755,
-    "wof:lastmodified":1449061700,
+    "wof:lastmodified":1466311621,
     "wof:name":"David Mellor Registered Psychologist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.777153,28.052778,-82.777153,28.052778],
+  "bbox": [
+    -82.777153,
+    28.052778,
+    -82.777153,
+    28.052778
+],
   "geometry": {"coordinates":[-82.777153,28.052778],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219528751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.34874,-46.40873,168.34874,-46.40873",
     "geom:latitude":-46.40873,
     "geom:longitude":168.34874,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Yarrow St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219528751,
-    "wof:lastmodified":1449071345,
+    "wof:lastmodified":1466312400,
     "wof:name":"School Supplies",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "training"
     ]
 },
-  "bbox": [168.34874,-46.40873,168.34874,-46.40873],
-  "geometry": {"coordinates":[168.34874,-46.40873],"type":"Point"}
+  "bbox": [
+    168.34874,
+    -46.40873,
+    168.34874,
+    -46.40873
+],
+  "geometry": {"coordinates":[168.34873999999999,-46.40873],"type":"Point"}
 }

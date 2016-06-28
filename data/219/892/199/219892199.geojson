@@ -2,13 +2,14 @@
   "id": 219892199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.793411,-41.329029,174.793411,-41.329029",
     "geom:latitude":-41.329029,
     "geom:longitude":174.793411,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Kingsford Smith St Lyall Bay ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219892199,
-    "wof:lastmodified":1449070907,
+    "wof:lastmodified":1466313081,
     "wof:name":"Flight Plastics Ltd",
     "wof:parent_id":85778423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.793411,-41.329029,174.793411,-41.329029],
-  "geometry": {"coordinates":[174.793411,-41.329029],"type":"Point"}
+  "bbox": [
+    174.793411,
+    -41.329029,
+    174.793411,
+    -41.329029
+],
+  "geometry": {"coordinates":[174.79341099999999,-41.329029],"type":"Point"}
 }

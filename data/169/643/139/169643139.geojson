@@ -2,13 +2,14 @@
   "id": 169643139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.839264,-41.131008,174.839264,-41.131008",
     "geom:latitude":-41.131008,
     "geom:longitude":174.839264,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Parumoana St Porirua ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169643139,
-    "wof:lastmodified":1449035522,
+    "wof:lastmodified":1466310575,
     "wof:name":"Briscoes Homeware",
     "wof:parent_id":85778653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.839264,-41.131008,174.839264,-41.131008],
-  "geometry": {"coordinates":[174.839264,-41.131008],"type":"Point"}
+  "bbox": [
+    174.839264,
+    -41.131008,
+    174.839264,
+    -41.131008
+],
+  "geometry": {"coordinates":[174.83926399999999,-41.131008],"type":"Point"}
 }

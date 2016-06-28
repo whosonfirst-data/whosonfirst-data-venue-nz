@@ -2,13 +2,14 @@
   "id": 202722871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.258926,-38.156658,176.258926,-38.156658",
     "geom:latitude":-38.156658,
     "geom:longitude":176.258926,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Barron Cre ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202722871,
-    "wof:lastmodified":1449060991,
+    "wof:lastmodified":1466312333,
     "wof:name":"Simplicity Consumer Awareness Message",
     "wof:parent_id":85781243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "furniture"
     ]
 },
-  "bbox": [176.258926,-38.156658,176.258926,-38.156658],
+  "bbox": [
+    176.258926,
+    -38.156658,
+    176.258926,
+    -38.156658
+],
   "geometry": {"coordinates":[176.258926,-38.156658],"type":"Point"}
 }

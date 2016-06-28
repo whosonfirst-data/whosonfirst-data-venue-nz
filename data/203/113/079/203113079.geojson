@@ -2,13 +2,14 @@
   "id": 203113079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.916443,-39.49107,176.916443,-39.49107",
     "geom:latitude":-39.49107,
     "geom:longitude":176.916443,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Dickens & Hastings St ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203113079,
-    "wof:lastmodified":1449026704,
+    "wof:lastmodified":1466310632,
     "wof:name":"The Photographers",
     "wof:parent_id":85782461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [176.916443,-39.49107,176.916443,-39.49107],
-  "geometry": {"coordinates":[176.916443,-39.49107],"type":"Point"}
+  "bbox": [
+    176.916443,
+    -39.49107,
+    176.916443,
+    -39.49107
+],
+  "geometry": {"coordinates":[176.91644299999999,-39.49107],"type":"Point"}
 }

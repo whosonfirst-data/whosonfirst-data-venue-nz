@@ -2,13 +2,14 @@
   "id": 186451921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.68924,-36.909386,174.68924,-36.909386",
     "geom:latitude":-36.909386,
     "geom:longitude":174.68924,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Puriri St New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186451921,
-    "wof:lastmodified":1449051543,
+    "wof:lastmodified":1466312634,
     "wof:name":"Reynolds Refrigeration",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.68924,-36.909386,174.68924,-36.909386],
-  "geometry": {"coordinates":[174.68924,-36.909386],"type":"Point"}
+  "bbox": [
+    174.68924,
+    -36.909386,
+    174.68924,
+    -36.909386
+],
+  "geometry": {"coordinates":[174.68924000000001,-36.909386],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220120851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.835266,-36.898422,174.835266,-36.898422",
     "geom:latitude":-36.898422,
     "geom:longitude":174.835266,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Banks Rd Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220120851,
-    "wof:lastmodified":1449074759,
+    "wof:lastmodified":1466310790,
     "wof:name":"Wrigley Company (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [174.835266,-36.898422,174.835266,-36.898422],
-  "geometry": {"coordinates":[174.835266,-36.898422],"type":"Point"}
+  "bbox": [
+    174.835266,
+    -36.898422,
+    174.835266,
+    -36.898422
+],
+  "geometry": {"coordinates":[174.83526599999999,-36.898422],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203179493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.048904,-39.930866,175.048904,-39.930866",
     "geom:latitude":-39.930866,
     "geom:longitude":175.048904,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203179493,
-    "wof:lastmodified":1449026672,
+    "wof:lastmodified":1466311180,
     "wof:name":"Alma's Sewing",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [175.048904,-39.930866,175.048904,-39.930866],
-  "geometry": {"coordinates":[175.048904,-39.930866],"type":"Point"}
+  "bbox": [
+    175.048904,
+    -39.930866,
+    175.048904,
+    -39.930866
+],
+  "geometry": {"coordinates":[175.04890399999999,-39.930866],"type":"Point"}
 }

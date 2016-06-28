@@ -2,13 +2,14 @@
   "id": 236056153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.707882,-36.891501,174.707882,-36.891501",
     "geom:latitude":-36.891501,
     "geom:longitude":174.707882,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO BOX 5536  Wellesley Street",
     "sg:city":"Auckland ",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":236056153,
-    "wof:lastmodified":1449002417,
+    "wof:lastmodified":1466311261,
     "wof:name":"Serendipity IT ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -76,6 +78,11 @@
         "prototyping"
     ]
 },
-  "bbox": [174.707882,-36.891501,174.707882,-36.891501],
-  "geometry": {"coordinates":[174.707882,-36.891501],"type":"Point"}
+  "bbox": [
+    174.707882,
+    -36.891501,
+    174.707882,
+    -36.891501
+],
+  "geometry": {"coordinates":[174.70788200000001,-36.891501],"type":"Point"}
 }

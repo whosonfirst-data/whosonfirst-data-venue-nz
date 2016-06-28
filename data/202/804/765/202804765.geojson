@@ -2,13 +2,14 @@
   "id": 202804765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.805038,-36.906193,174.805038,-36.906193",
     "geom:latitude":-36.906193,
     "geom:longitude":174.805038,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Rockfield Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202804765,
-    "wof:lastmodified":1449061859,
+    "wof:lastmodified":1466312456,
     "wof:name":"Blob BeanBags",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.805038,-36.906193,174.805038,-36.906193],
+  "bbox": [
+    174.805038,
+    -36.906193,
+    174.805038,
+    -36.906193
+],
   "geometry": {"coordinates":[174.805038,-36.906193],"type":"Point"}
 }

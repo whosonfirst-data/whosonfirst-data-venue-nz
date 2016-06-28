@@ -2,13 +2,14 @@
   "id": 203124787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.135529,-38.15115,175.135529,-38.15115",
     "geom:latitude":-38.15115,
     "geom:longitude":175.135529,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Honikiwi Rd ",
     "sg:city":"Otorohanga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203124787,
-    "wof:lastmodified":1449026724,
+    "wof:lastmodified":1466310733,
     "wof:name":"Otoheelers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "animal"
     ]
 },
-  "bbox": [175.135529,-38.15115,175.135529,-38.15115],
-  "geometry": {"coordinates":[175.135529,-38.15115],"type":"Point"}
+  "bbox": [
+    175.135529,
+    -38.15115,
+    175.135529,
+    -38.15115
+],
+  "geometry": {"coordinates":[175.13552899999999,-38.15115],"type":"Point"}
 }

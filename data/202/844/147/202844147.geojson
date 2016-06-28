@@ -2,13 +2,14 @@
   "id": 202844147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.601791,-40.360252,175.601791,-40.360252",
     "geom:latitude":-40.360252,
     "geom:longitude":175.601791,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"199 Main St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202844147,
-    "wof:lastmodified":1449061199,
+    "wof:lastmodified":1466312671,
     "wof:name":"Spotlight Stores (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.601791,-40.360252,175.601791,-40.360252],
-  "geometry": {"coordinates":[175.601791,-40.360252],"type":"Point"}
+  "bbox": [
+    175.601791,
+    -40.360252,
+    175.601791,
+    -40.360252
+],
+  "geometry": {"coordinates":[175.60179099999999,-40.360252],"type":"Point"}
 }

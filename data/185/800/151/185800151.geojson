@@ -2,13 +2,14 @@
   "id": 185800151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.23999,-36.958897,175.23999,-36.958897",
     "geom:latitude":-36.958897,
     "geom:longitude":175.23999,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop B Tamariki Ave Orewa ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185800151,
-    "wof:lastmodified":1449006732,
+    "wof:lastmodified":1466311220,
     "wof:name":"High Performance Models",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [175.23999,-36.958897,175.23999,-36.958897],
-  "geometry": {"coordinates":[175.23999,-36.958897],"type":"Point"}
+  "bbox": [
+    175.23999,
+    -36.958897,
+    175.23999,
+    -36.958897
+],
+  "geometry": {"coordinates":[175.23999000000001,-36.958897],"type":"Point"}
 }

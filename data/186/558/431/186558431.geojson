@@ -2,13 +2,14 @@
   "id": 186558431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.457779,-41.214485,175.457779,-41.214485",
     "geom:latitude":-41.214485,
     "geom:longitude":175.457779,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Strasbourge St ",
     "sg:city":"Martinborough",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186558431,
-    "wof:lastmodified":1449051113,
+    "wof:lastmodified":1466312819,
     "wof:name":"Au Spa Belge (Day Spa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.457779,-41.214485,175.457779,-41.214485],
-  "geometry": {"coordinates":[175.457779,-41.214485],"type":"Point"}
+  "bbox": [
+    175.457779,
+    -41.214485,
+    175.457779,
+    -41.214485
+],
+  "geometry": {"coordinates":[175.45777899999999,-41.214485],"type":"Point"}
 }

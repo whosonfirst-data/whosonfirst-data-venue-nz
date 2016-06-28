@@ -2,13 +2,14 @@
   "id": 185908195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.414948,-43.69537,171.414948,-43.69537",
     "geom:latitude":-43.69537,
     "geom:longitude":171.414948,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Mt Potts Station Mt ",
     "sg:city":"Somers",
     "sg:classifiers":[],
@@ -36,14 +37,20 @@
         }
     ],
     "wof:id":185908195,
-    "wof:lastmodified":1449007518,
+    "wof:lastmodified":1466311923,
     "wof:name":"Mt Potts Alpine Lodge & Snowfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [171.414948,-43.69537,171.414948,-43.69537],
-  "geometry": {"coordinates":[171.414948,-43.69537],"type":"Point"}
+  "bbox": [
+    171.414948,
+    -43.69537,
+    171.414948,
+    -43.69537
+],
+  "geometry": {"coordinates":[171.41494800000001,-43.69537],"type":"Point"}
 }

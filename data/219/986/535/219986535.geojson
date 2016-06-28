@@ -2,13 +2,14 @@
   "id": 219986535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.070801,-38.688007,176.070801,-38.688007",
     "geom:latitude":-38.688007,
     "geom:longitude":176.070801,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Heuheu St ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219986535,
-    "wof:lastmodified":1449073243,
+    "wof:lastmodified":1466313137,
     "wof:name":"Coffey Davidson Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "finance"
     ]
 },
-  "bbox": [176.070801,-38.688007,176.070801,-38.688007],
-  "geometry": {"coordinates":[176.070801,-38.688007],"type":"Point"}
+  "bbox": [
+    176.070801,
+    -38.688007,
+    176.070801,
+    -38.688007
+],
+  "geometry": {"coordinates":[176.07080099999999,-38.688007],"type":"Point"}
 }

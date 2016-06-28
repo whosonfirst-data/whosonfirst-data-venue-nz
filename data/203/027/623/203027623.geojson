@@ -2,13 +2,14 @@
   "id": 203027623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.339981,-40.575191,175.339981,-40.575191",
     "geom:latitude":-40.575191,
     "geom:longitude":175.339981,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Koputaroa ",
     "sg:city":"Rd",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":203027623,
-    "wof:lastmodified":1449025288,
+    "wof:lastmodified":1466311115,
     "wof:name":"Gulley Runners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "garden"
     ]
 },
-  "bbox": [175.339981,-40.575191,175.339981,-40.575191],
-  "geometry": {"coordinates":[175.339981,-40.575191],"type":"Point"}
+  "bbox": [
+    175.339981,
+    -40.575191,
+    175.339981,
+    -40.575191
+],
+  "geometry": {"coordinates":[175.33998099999999,-40.575191],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203042611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.986679,-37.949059,176.986679,-37.949059",
     "geom:latitude":-37.949059,
     "geom:longitude":176.986679,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Gateway Dve ",
     "sg:city":"Whakatane",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203042611,
-    "wof:lastmodified":1449026384,
+    "wof:lastmodified":1466311386,
     "wof:name":"Tankman Waste Disposal",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "septic"
     ]
 },
-  "bbox": [176.986679,-37.949059,176.986679,-37.949059],
-  "geometry": {"coordinates":[176.986679,-37.949059],"type":"Point"}
+  "bbox": [
+    176.986679,
+    -37.949059,
+    176.986679,
+    -37.949059
+],
+  "geometry": {"coordinates":[176.98667900000001,-37.949059],"type":"Point"}
 }

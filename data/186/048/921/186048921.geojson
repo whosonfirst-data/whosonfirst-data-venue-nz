@@ -2,13 +2,14 @@
   "id": 186048921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.331146,-38.002827,175.331146,-38.002827",
     "geom:latitude":-38.002827,
     "geom:longitude":175.331146,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"469 Bond Rd Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186048921,
-    "wof:lastmodified":1449051329,
+    "wof:lastmodified":1466311448,
     "wof:name":"Waikato Fibreglass Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "compounds"
     ]
 },
-  "bbox": [175.331146,-38.002827,175.331146,-38.002827],
-  "geometry": {"coordinates":[175.331146,-38.002827],"type":"Point"}
+  "bbox": [
+    175.331146,
+    -38.002827,
+    175.331146,
+    -38.002827
+],
+  "geometry": {"coordinates":[175.33114599999999,-38.002827],"type":"Point"}
 }

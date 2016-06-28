@@ -2,13 +2,14 @@
   "id": 203142047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.96254,-46.087608,168.96254,-46.087608",
     "geom:latitude":-46.087608,
     "geom:longitude":168.96254,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Walker Cre ",
     "sg:city":"Gore",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203142047,
-    "wof:lastmodified":1449026452,
+    "wof:lastmodified":1466310843,
     "wof:name":"Four Paws Rural",
     "wof:parent_id":85782851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pets"
     ]
 },
-  "bbox": [168.96254,-46.087608,168.96254,-46.087608],
-  "geometry": {"coordinates":[168.96254,-46.087608],"type":"Point"}
+  "bbox": [
+    168.96254,
+    -46.087608,
+    168.96254,
+    -46.087608
+],
+  "geometry": {"coordinates":[168.96253999999999,-46.087608],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185841651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.761017,-36.789391,174.761017,-36.789391",
     "geom:latitude":-36.789391,
     "geom:longitude":174.761017,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Taharoto Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185841651,
-    "wof:lastmodified":1449006953,
+    "wof:lastmodified":1466311505,
     "wof:name":"Mainline Music Works",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.761017,-36.789391,174.761017,-36.789391],
-  "geometry": {"coordinates":[174.761017,-36.789391],"type":"Point"}
+  "bbox": [
+    174.761017,
+    -36.789391,
+    174.761017,
+    -36.789391
+],
+  "geometry": {"coordinates":[174.76101700000001,-36.789391],"type":"Point"}
 }

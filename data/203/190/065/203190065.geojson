@@ -2,13 +2,14 @@
   "id": 203190065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.266174,-37.789642,175.266174,-37.789642",
     "geom:latitude":-37.789642,
     "geom:longitude":175.266174,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"77 King St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203190065,
-    "wof:lastmodified":1449026757,
+    "wof:lastmodified":1466311281,
     "wof:name":"SmartCare Property Services",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaner"
     ]
 },
-  "bbox": [175.266174,-37.789642,175.266174,-37.789642],
-  "geometry": {"coordinates":[175.266174,-37.789642],"type":"Point"}
+  "bbox": [
+    175.266174,
+    -37.789642,
+    175.266174,
+    -37.789642
+],
+  "geometry": {"coordinates":[175.26617400000001,-37.789642],"type":"Point"}
 }

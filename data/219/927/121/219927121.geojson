@@ -2,13 +2,14 @@
   "id": 219927121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.330902,-37.785164,176.330902,-37.785164",
     "geom:latitude":-37.785164,
     "geom:longitude":176.330902,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 King St Te ",
     "sg:city":"Puke",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219927121,
-    "wof:lastmodified":1449073549,
+    "wof:lastmodified":1466313026,
     "wof:name":"Electroquip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.330902,-37.785164,176.330902,-37.785164],
-  "geometry": {"coordinates":[176.330902,-37.785164],"type":"Point"}
+  "bbox": [
+    176.330902,
+    -37.785164,
+    176.330902,
+    -37.785164
+],
+  "geometry": {"coordinates":[176.33090200000001,-37.785164],"type":"Point"}
 }

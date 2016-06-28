@@ -2,13 +2,14 @@
   "id": 203042299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.804443,-38.982426,175.804443,-38.982426",
     "geom:latitude":-38.982426,
     "geom:longitude":175.804443,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Takinga St ",
     "sg:city":"Turangi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203042299,
-    "wof:lastmodified":1449026382,
+    "wof:lastmodified":1466311384,
     "wof:name":"Plateau Liquid Waste Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "septic"
     ]
 },
-  "bbox": [175.804443,-38.982426,175.804443,-38.982426],
-  "geometry": {"coordinates":[175.804443,-38.982426],"type":"Point"}
+  "bbox": [
+    175.804443,
+    -38.982426,
+    175.804443,
+    -38.982426
+],
+  "geometry": {"coordinates":[175.80444299999999,-38.982426],"type":"Point"}
 }

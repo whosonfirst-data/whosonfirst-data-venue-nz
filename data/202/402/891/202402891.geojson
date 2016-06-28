@@ -2,13 +2,14 @@
   "id": 202402891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.069031,-41.12458,175.069031,-41.12458",
     "geom:latitude":-41.12458,
     "geom:longitude":175.069031,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11-17 Gibbons St Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202402891,
-    "wof:lastmodified":1449060925,
+    "wof:lastmodified":1466311083,
     "wof:name":"Mercy Rest Home",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.069031,-41.12458,175.069031,-41.12458],
+  "bbox": [
+    175.069031,
+    -41.12458,
+    175.069031,
+    -41.12458
+],
   "geometry": {"coordinates":[175.069031,-41.12458],"type":"Point"}
 }

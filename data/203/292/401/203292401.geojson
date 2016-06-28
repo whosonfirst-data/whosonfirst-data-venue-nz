@@ -2,13 +2,14 @@
   "id": 203292401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.169067,-37.688332,176.169067,-37.688332",
     "geom:latitude":-37.688332,
     "geom:longitude":176.169067,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Devonport Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203292401,
-    "wof:lastmodified":1449025093,
+    "wof:lastmodified":1466312076,
     "wof:name":"PostiePlus",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.169067,-37.688332,176.169067,-37.688332],
-  "geometry": {"coordinates":[176.169067,-37.688332],"type":"Point"}
+  "bbox": [
+    176.169067,
+    -37.688332,
+    176.169067,
+    -37.688332
+],
+  "geometry": {"coordinates":[176.16906700000001,-37.688332],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219186623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.603561,-43.528027,172.603561,-43.528027",
     "geom:latitude":-43.528027,
     "geom:longitude":172.603561,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Bradshaw Tce ",
     "sg:city":"Riccarton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219186623,
-    "wof:lastmodified":1449073164,
+    "wof:lastmodified":1466311311,
     "wof:name":"A Shuttle 4 U",
     "wof:parent_id":85778569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.603561,-43.528027,172.603561,-43.528027],
-  "geometry": {"coordinates":[172.603561,-43.528027],"type":"Point"}
+  "bbox": [
+    172.603561,
+    -43.528027,
+    172.603561,
+    -43.528027
+],
+  "geometry": {"coordinates":[172.60356100000001,-43.528027],"type":"Point"}
 }

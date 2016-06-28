@@ -2,13 +2,14 @@
   "id": 235985345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.490036,-45.911179,170.490036,-45.911179",
     "geom:latitude":-45.911179,
     "geom:longitude":170.490036,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"7/240 Forbury Rd Saint Clair ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235985345,
-    "wof:lastmodified":1449008416,
+    "wof:lastmodified":1466311462,
     "wof:name":"St Clair Cafe & Bar",
     "wof:parent_id":85773171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cafe"
     ]
 },
-  "bbox": [170.490036,-45.911179,170.490036,-45.911179],
+  "bbox": [
+    170.490036,
+    -45.911179,
+    170.490036,
+    -45.911179
+],
   "geometry": {"coordinates":[170.490036,-45.911179],"type":"Point"}
 }

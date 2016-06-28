@@ -2,13 +2,14 @@
   "id": 219162769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.227188,-41.297222,173.227188,-41.297222",
     "geom:latitude":-41.297222,
     "geom:longitude":173.227188,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Calwell Slipway Port Nelson ",
     "sg:city":"Nelson",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219162769,
-    "wof:lastmodified":1449073399,
+    "wof:lastmodified":1466310806,
     "wof:name":"Nelson Ship Repair Group Ltd",
     "wof:parent_id":85773207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.227188,-41.297222,173.227188,-41.297222],
-  "geometry": {"coordinates":[173.227188,-41.297222],"type":"Point"}
+  "bbox": [
+    173.227188,
+    -41.297222,
+    173.227188,
+    -41.297222
+],
+  "geometry": {"coordinates":[173.22718800000001,-41.297222],"type":"Point"}
 }

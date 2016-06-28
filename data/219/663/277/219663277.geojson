@@ -2,13 +2,14 @@
   "id": 219663277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.019684,-38.660637,178.019684,-38.660637",
     "geom:latitude":-38.660637,
     "geom:longitude":178.019684,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Carnarvon St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219663277,
-    "wof:lastmodified":1449072998,
+    "wof:lastmodified":1466312842,
     "wof:name":"Gisborne Tyres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.019684,-38.660637,178.019684,-38.660637],
-  "geometry": {"coordinates":[178.019684,-38.660637],"type":"Point"}
+  "bbox": [
+    178.019684,
+    -38.660637,
+    178.019684,
+    -38.660637
+],
+  "geometry": {"coordinates":[178.01968400000001,-38.660637],"type":"Point"}
 }

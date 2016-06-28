@@ -2,13 +2,14 @@
   "id": 219462371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.591919,-43.30336,172.591919,-43.30336",
     "geom:latitude":-43.30336,
     "geom:longitude":172.591919,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Durham St ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219462371,
-    "wof:lastmodified":1449073777,
+    "wof:lastmodified":1466312201,
     "wof:name":"Heurisko Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "training"
     ]
 },
-  "bbox": [172.591919,-43.30336,172.591919,-43.30336],
-  "geometry": {"coordinates":[172.591919,-43.30336],"type":"Point"}
+  "bbox": [
+    172.591919,
+    -43.30336,
+    172.591919,
+    -43.30336
+],
+  "geometry": {"coordinates":[172.59191899999999,-43.30336],"type":"Point"}
 }

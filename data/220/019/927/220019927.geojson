@@ -2,13 +2,14 @@
   "id": 220019927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.704224,-36.742111,174.704224,-36.742111",
     "geom:latitude":-36.742111,
     "geom:longitude":174.704224,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Building 4 106 Bush Rd Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220019927,
-    "wof:lastmodified":1449074516,
+    "wof:lastmodified":1466311032,
     "wof:name":"Overseas Pension Transfers Ltd",
     "wof:parent_id":85772825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "finance"
     ]
 },
-  "bbox": [174.704224,-36.742111,174.704224,-36.742111],
-  "geometry": {"coordinates":[174.704224,-36.742111],"type":"Point"}
+  "bbox": [
+    174.704224,
+    -36.742111,
+    174.704224,
+    -36.742111
+],
+  "geometry": {"coordinates":[174.70422400000001,-36.742111],"type":"Point"}
 }

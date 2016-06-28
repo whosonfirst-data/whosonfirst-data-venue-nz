@@ -2,13 +2,14 @@
   "id": 202473219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.732697,-36.878799,174.732697,-36.878799",
     "geom:latitude":-36.878799,
     "geom:longitude":174.732697,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Exeter Rd Morningside ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202473219,
-    "wof:lastmodified":1449060642,
+    "wof:lastmodified":1466311932,
     "wof:name":"Zepter International New Zealand Ltd",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [174.732697,-36.878799,174.732697,-36.878799],
+  "bbox": [
+    174.732697,
+    -36.878799,
+    174.732697,
+    -36.878799
+],
   "geometry": {"coordinates":[174.732697,-36.878799],"type":"Point"}
 }

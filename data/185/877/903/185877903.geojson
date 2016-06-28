@@ -2,13 +2,14 @@
   "id": 185877903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.480347,-37.894413,175.480347,-37.894413",
     "geom:latitude":-37.894413,
     "geom:longitude":175.480347,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 1 ",
     "sg:city":"Cambridge",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185877903,
-    "wof:lastmodified":1449007729,
+    "wof:lastmodified":1466311721,
     "wof:name":"Wentwood Grange",
     "wof:parent_id":85782837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.480347,-37.894413,175.480347,-37.894413],
-  "geometry": {"coordinates":[175.480347,-37.894413],"type":"Point"}
+  "bbox": [
+    175.480347,
+    -37.894413,
+    175.480347,
+    -37.894413
+],
+  "geometry": {"coordinates":[175.48034699999999,-37.894413],"type":"Point"}
 }

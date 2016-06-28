@@ -2,13 +2,14 @@
   "id": 185986607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.600891,-43.529552,172.600891,-43.529552",
     "geom:latitude":-43.529552,
     "geom:longitude":172.600891,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"104 b Riccarton Rd Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185986607,
-    "wof:lastmodified":1449007911,
+    "wof:lastmodified":1466312378,
     "wof:name":"Davis Bridal Shop",
     "wof:parent_id":85778569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wedding"
     ]
 },
-  "bbox": [172.600891,-43.529552,172.600891,-43.529552],
-  "geometry": {"coordinates":[172.600891,-43.529552],"type":"Point"}
+  "bbox": [
+    172.600891,
+    -43.529552,
+    172.600891,
+    -43.529552
+],
+  "geometry": {"coordinates":[172.60089099999999,-43.529552],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203141743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.60202,-40.969578,175.60202,-40.969578",
     "geom:latitude":-40.969578,
     "geom:longitude":175.60202,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Norfolk Rd Waingawa ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203141743,
-    "wof:lastmodified":1449025591,
+    "wof:lastmodified":1466310840,
     "wof:name":"Farm Meats 2000 Ltd",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pets"
     ]
 },
-  "bbox": [175.60202,-40.969578,175.60202,-40.969578],
-  "geometry": {"coordinates":[175.60202,-40.969578],"type":"Point"}
+  "bbox": [
+    175.60202,
+    -40.969578,
+    175.60202,
+    -40.969578
+],
+  "geometry": {"coordinates":[175.60202000000001,-40.969578],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219219541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.783157,-36.850094,174.783157,-36.850094",
     "geom:latitude":-36.850094,
     "geom:longitude":174.783157,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Kenwyn St Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219219541,
-    "wof:lastmodified":1449073765,
+    "wof:lastmodified":1466311661,
     "wof:name":"Pengelly's",
     "wof:parent_id":85782027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.783157,-36.850094,174.783157,-36.850094],
-  "geometry": {"coordinates":[174.783157,-36.850094],"type":"Point"}
+  "bbox": [
+    174.783157,
+    -36.850094,
+    174.783157,
+    -36.850094
+],
+  "geometry": {"coordinates":[174.78315699999999,-36.850094],"type":"Point"}
 }

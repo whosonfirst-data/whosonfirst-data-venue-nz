@@ -2,13 +2,14 @@
   "id": 219845365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.982414,41.996204,-72.982414,41.996204",
     "geom:latitude":41.996204,
     "geom:longitude":-72.982414,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Riverton-Otautau Rd ",
     "sg:city":"Riverton",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219845365,
-    "wof:lastmodified":1449070958,
+    "wof:lastmodified":1466313144,
     "wof:name":"Shearing Brendon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.982414,41.996204,-72.982414,41.996204],
-  "geometry": {"coordinates":[-72.982414,41.996204],"type":"Point"}
+  "bbox": [
+    -72.982414,
+    41.996204,
+    -72.982414,
+    41.996204
+],
+  "geometry": {"coordinates":[-72.98241400000001,41.996204],"type":"Point"}
 }

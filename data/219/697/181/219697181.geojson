@@ -2,13 +2,14 @@
   "id": 219697181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.596573,-43.541981,172.596573,-43.541981",
     "geom:latitude":-43.541981,
     "geom:longitude":172.596573,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Wrights Rd Middleton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219697181,
-    "wof:lastmodified":1449072613,
+    "wof:lastmodified":1466312711,
     "wof:name":"Canterbury Car Fair",
     "wof:parent_id":85778457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [172.596573,-43.541981,172.596573,-43.541981],
-  "geometry": {"coordinates":[172.596573,-43.541981],"type":"Point"}
+  "bbox": [
+    172.596573,
+    -43.541981,
+    172.596573,
+    -43.541981
+],
+  "geometry": {"coordinates":[172.59657300000001,-43.541981],"type":"Point"}
 }

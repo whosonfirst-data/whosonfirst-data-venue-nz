@@ -2,13 +2,14 @@
   "id": 185626963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.802917,-35.410767,173.802917,-35.410767",
     "geom:latitude":-35.410767,
     "geom:longitude":173.802917,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Recreation Rd ",
     "sg:city":"Kaikohe",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185626963,
-    "wof:lastmodified":1449008207,
+    "wof:lastmodified":1466311138,
     "wof:name":"Pioneer Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "gallery"
     ]
 },
-  "bbox": [173.802917,-35.410767,173.802917,-35.410767],
-  "geometry": {"coordinates":[173.802917,-35.410767],"type":"Point"}
+  "bbox": [
+    173.802917,
+    -35.410767,
+    173.802917,
+    -35.410767
+],
+  "geometry": {"coordinates":[173.80291700000001,-35.410767],"type":"Point"}
 }

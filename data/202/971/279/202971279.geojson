@@ -2,13 +2,14 @@
   "id": 202971279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.360077,-35.773983,174.360077,-35.773983",
     "geom:latitude":-35.773983,
     "geom:longitude":174.360077,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Weir Cre Onerahi ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202971279,
-    "wof:lastmodified":1449061404,
+    "wof:lastmodified":1466312849,
     "wof:name":"Garden Works",
     "wof:parent_id":85773083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.360077,-35.773983,174.360077,-35.773983],
-  "geometry": {"coordinates":[174.360077,-35.773983],"type":"Point"}
+  "bbox": [
+    174.360077,
+    -35.773983,
+    174.360077,
+    -35.773983
+],
+  "geometry": {"coordinates":[174.36007699999999,-35.773983],"type":"Point"}
 }

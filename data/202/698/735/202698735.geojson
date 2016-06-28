@@ -2,13 +2,14 @@
   "id": 202698735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.648727,-36.86237,174.648727,-36.86237",
     "geom:latitude":-36.86237,
     "geom:longitude":174.648727,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Vera Rd Te Atatu South ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202698735,
-    "wof:lastmodified":1449062497,
+    "wof:lastmodified":1466312098,
     "wof:name":"Te Atatu South Childcare",
     "wof:parent_id":85778669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "children"
     ]
 },
-  "bbox": [174.648727,-36.86237,174.648727,-36.86237],
-  "geometry": {"coordinates":[174.648727,-36.86237],"type":"Point"}
+  "bbox": [
+    174.648727,
+    -36.86237,
+    174.648727,
+    -36.86237
+],
+  "geometry": {"coordinates":[174.64872700000001,-36.86237],"type":"Point"}
 }

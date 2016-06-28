@@ -2,13 +2,14 @@
   "id": 202505811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.949036,-35.229191,173.949036,-35.229191",
     "geom:latitude":-35.229191,
     "geom:longitude":173.949036,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Hobson Ave ",
     "sg:city":"Kerikeri",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202505811,
-    "wof:lastmodified":1449062239,
+    "wof:lastmodified":1466310713,
     "wof:name":"Robb Dr W N",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.949036,-35.229191,173.949036,-35.229191],
-  "geometry": {"coordinates":[173.949036,-35.229191],"type":"Point"}
+  "bbox": [
+    173.949036,
+    -35.229191,
+    173.949036,
+    -35.229191
+],
+  "geometry": {"coordinates":[173.94903600000001,-35.229191],"type":"Point"}
 }

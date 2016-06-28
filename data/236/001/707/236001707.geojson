@@ -2,13 +2,14 @@
   "id": 236001707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.619965,-40.367931,175.619965,-40.367931",
     "geom:latitude":-40.367931,
     "geom:longitude":175.619965,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Fitzherbert Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":236001707,
-    "wof:lastmodified":1449002242,
+    "wof:lastmodified":1466310631,
     "wof:name":"Emma's Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "dining"
     ]
 },
-  "bbox": [175.619965,-40.367931,175.619965,-40.367931],
-  "geometry": {"coordinates":[175.619965,-40.367931],"type":"Point"}
+  "bbox": [
+    175.619965,
+    -40.367931,
+    175.619965,
+    -40.367931
+],
+  "geometry": {"coordinates":[175.61996500000001,-40.367931],"type":"Point"}
 }

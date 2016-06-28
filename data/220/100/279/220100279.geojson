@@ -2,13 +2,14 @@
   "id": 220100279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.550446,-43.534962,172.550446,-43.534962",
     "geom:latitude":-43.534962,
     "geom:longitude":172.550446,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Parkhouse & Treffers Rds Sockburn ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220100279,
-    "wof:lastmodified":1449074639,
+    "wof:lastmodified":1466310606,
     "wof:name":"Montana Bakery Ltd",
     "wof:parent_id":85778617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [172.550446,-43.534962,172.550446,-43.534962],
-  "geometry": {"coordinates":[172.550446,-43.534962],"type":"Point"}
+  "bbox": [
+    172.550446,
+    -43.534962,
+    172.550446,
+    -43.534962
+],
+  "geometry": {"coordinates":[172.55044599999999,-43.534962],"type":"Point"}
 }

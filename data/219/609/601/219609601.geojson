@@ -2,13 +2,14 @@
   "id": 219609601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.004288,41.583519,-92.004288,41.583519",
     "geom:latitude":41.583519,
     "geom:longitude":-92.004288,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 37041 ",
     "sg:city":"Parnell",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219609601,
-    "wof:lastmodified":1449071701,
+    "wof:lastmodified":1466312627,
     "wof:name":"Vehicle Information Reports Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.004288,41.583519,-92.004288,41.583519],
+  "bbox": [
+    -92.004288,
+    41.583519,
+    -92.004288,
+    41.583519
+],
   "geometry": {"coordinates":[-92.004288,41.583519],"type":"Point"}
 }

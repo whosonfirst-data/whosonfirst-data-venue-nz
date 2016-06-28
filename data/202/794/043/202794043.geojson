@@ -2,13 +2,14 @@
   "id": 202794043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.866104,-37.203037,175.866104,-37.203037",
     "geom:latitude":-37.203037,
     "geom:longitude":175.866104,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Lindsay Rd ",
     "sg:city":"Whangamata",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202794043,
-    "wof:lastmodified":1449061349,
+    "wof:lastmodified":1466312518,
     "wof:name":"Whangamata Woodworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "kitchen"
     ]
 },
-  "bbox": [175.866104,-37.203037,175.866104,-37.203037],
-  "geometry": {"coordinates":[175.866104,-37.203037],"type":"Point"}
+  "bbox": [
+    175.866104,
+    -37.203037,
+    175.866104,
+    -37.203037
+],
+  "geometry": {"coordinates":[175.86610400000001,-37.203037],"type":"Point"}
 }

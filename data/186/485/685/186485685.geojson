@@ -2,13 +2,14 @@
   "id": 186485685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.490433,-45.896515,170.490433,-45.896515",
     "geom:latitude":-45.896515,
     "geom:longitude":170.490433,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hillside Rd South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186485685,
-    "wof:lastmodified":1449052000,
+    "wof:lastmodified":1466312643,
     "wof:name":"Tranz Rail Hillside",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.490433,-45.896515,170.490433,-45.896515],
+  "bbox": [
+    170.490433,
+    -45.896515,
+    170.490433,
+    -45.896515
+],
   "geometry": {"coordinates":[170.490433,-45.896515],"type":"Point"}
 }

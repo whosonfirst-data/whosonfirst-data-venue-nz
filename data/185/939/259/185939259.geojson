@@ -2,13 +2,14 @@
   "id": 185939259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.701752,-36.8619,174.701752,-36.8619",
     "geom:latitude":-36.8619,
     "geom:longitude":174.701752,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 A St Michaels Ave Point Chevalier ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185939259,
-    "wof:lastmodified":1449007086,
+    "wof:lastmodified":1466312196,
     "wof:name":"True Blue Pool Tables",
     "wof:parent_id":85773121,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "pool"
     ]
 },
-  "bbox": [174.701752,-36.8619,174.701752,-36.8619],
+  "bbox": [
+    174.701752,
+    -36.8619,
+    174.701752,
+    -36.8619
+],
   "geometry": {"coordinates":[174.701752,-36.8619],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169802727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.819427,-41.171539,174.819427,-41.171539",
     "geom:latitude":-41.171539,
     "geom:longitude":174.819427,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Lyndhurst Rd Tawa ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169802727,
-    "wof:lastmodified":1449035340,
+    "wof:lastmodified":1466311665,
     "wof:name":"Pirouette",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.819427,-41.171539,174.819427,-41.171539],
-  "geometry": {"coordinates":[174.819427,-41.171539],"type":"Point"}
+  "bbox": [
+    174.819427,
+    -41.171539,
+    174.819427,
+    -41.171539
+],
+  "geometry": {"coordinates":[174.81942699999999,-41.171539],"type":"Point"}
 }

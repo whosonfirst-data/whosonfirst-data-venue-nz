@@ -2,13 +2,14 @@
   "id": 186172771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.625061,-40.358849,175.625061,-40.358849",
     "geom:latitude":-40.358849,
     "geom:longitude":175.625061,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Victoria Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186172771,
-    "wof:lastmodified":1449051452,
+    "wof:lastmodified":1466311182,
     "wof:name":"Philpott John & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.625061,-40.358849,175.625061,-40.358849],
-  "geometry": {"coordinates":[175.625061,-40.358849],"type":"Point"}
+  "bbox": [
+    175.625061,
+    -40.358849,
+    175.625061,
+    -40.358849
+],
+  "geometry": {"coordinates":[175.62506099999999,-40.358849],"type":"Point"}
 }

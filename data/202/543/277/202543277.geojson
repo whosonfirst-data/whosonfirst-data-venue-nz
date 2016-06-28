@@ -2,13 +2,14 @@
   "id": 202543277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.257736,-38.139038,176.257736,-38.139038",
     "geom:latitude":-38.139038,
     "geom:longitude":176.257736,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Eruera St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202543277,
-    "wof:lastmodified":1449060604,
+    "wof:lastmodified":1466311026,
     "wof:name":"Caudwell Suellyn",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.257736,-38.139038,176.257736,-38.139038],
-  "geometry": {"coordinates":[176.257736,-38.139038],"type":"Point"}
+  "bbox": [
+    176.257736,
+    -38.139038,
+    176.257736,
+    -38.139038
+],
+  "geometry": {"coordinates":[176.25773599999999,-38.139038],"type":"Point"}
 }

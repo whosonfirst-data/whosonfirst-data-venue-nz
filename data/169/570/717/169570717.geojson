@@ -2,13 +2,14 @@
   "id": 169570717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.597351,-43.532143,172.597351,-43.532143",
     "geom:latitude":-43.532143,
     "geom:longitude":172.597351,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Peerswick Mall Upper Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169570717,
-    "wof:lastmodified":1449034644,
+    "wof:lastmodified":1466311156,
     "wof:name":"Church Corner Natural Foods",
     "wof:parent_id":85778569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "health"
     ]
 },
-  "bbox": [172.597351,-43.532143,172.597351,-43.532143],
+  "bbox": [
+    172.597351,
+    -43.532143,
+    172.597351,
+    -43.532143
+],
   "geometry": {"coordinates":[172.597351,-43.532143],"type":"Point"}
 }

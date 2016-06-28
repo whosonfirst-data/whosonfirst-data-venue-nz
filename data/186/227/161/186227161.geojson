@@ -2,13 +2,14 @@
   "id": 186227161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.702072,-36.750568,174.702072,-36.750568",
     "geom:latitude":-36.750568,
     "geom:longitude":174.702072,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Armstrong Rd, North Harbour Industrial Estate Albany",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186227161,
-    "wof:lastmodified":1449050981,
+    "wof:lastmodified":1466311649,
     "wof:name":"RapidAllmark Labels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "label"
     ]
 },
-  "bbox": [174.702072,-36.750568,174.702072,-36.750568],
-  "geometry": {"coordinates":[174.702072,-36.750568],"type":"Point"}
+  "bbox": [
+    174.702072,
+    -36.750568,
+    174.702072,
+    -36.750568
+],
+  "geometry": {"coordinates":[174.70207199999999,-36.750568],"type":"Point"}
 }

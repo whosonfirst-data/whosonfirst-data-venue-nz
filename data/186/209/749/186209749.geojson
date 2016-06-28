@@ -2,13 +2,14 @@
   "id": 186209749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.74102,28.023609,-82.74102,28.023609",
     "geom:latitude":28.023609,
     "geom:longitude":-82.74102,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cumberland St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186209749,
-    "wof:lastmodified":1449052733,
+    "wof:lastmodified":1466311486,
     "wof:name":"Hirequip",
     "wof:parent_id":85888641,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.74102,28.023609,-82.74102,28.023609],
-  "geometry": {"coordinates":[-82.74102,28.023609],"type":"Point"}
+  "bbox": [
+    -82.74102,
+    28.023609,
+    -82.74102,
+    28.023609
+],
+  "geometry": {"coordinates":[-82.74102000000001,28.023609],"type":"Point"}
 }

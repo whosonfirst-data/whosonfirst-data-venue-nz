@@ -2,13 +2,14 @@
   "id": 203038825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.238785,-37.757339,175.238785,-37.757339",
     "geom:latitude":-37.757339,
     "geom:longitude":175.238785,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Northway St Te Rapa ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203038825,
-    "wof:lastmodified":1449026189,
+    "wof:lastmodified":1466311310,
     "wof:name":"Environmental Liquid Wastes Ltd",
     "wof:parent_id":85773235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "septic"
     ]
 },
-  "bbox": [175.238785,-37.757339,175.238785,-37.757339],
-  "geometry": {"coordinates":[175.238785,-37.757339],"type":"Point"}
+  "bbox": [
+    175.238785,
+    -37.757339,
+    175.238785,
+    -37.757339
+],
+  "geometry": {"coordinates":[175.23878500000001,-37.757339],"type":"Point"}
 }

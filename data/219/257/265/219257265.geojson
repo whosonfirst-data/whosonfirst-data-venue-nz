@@ -2,13 +2,14 @@
   "id": 219257265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.610199,-40.36079,175.610199,-40.36079",
     "geom:latitude":-40.36079,
     "geom:longitude":175.610199,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Ferguson St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219257265,
-    "wof:lastmodified":1449071442,
+    "wof:lastmodified":1466311994,
     "wof:name":"Camelot Motor Lodge",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.610199,-40.36079,175.610199,-40.36079],
-  "geometry": {"coordinates":[175.610199,-40.36079],"type":"Point"}
+  "bbox": [
+    175.610199,
+    -40.36079,
+    175.610199,
+    -40.36079
+],
+  "geometry": {"coordinates":[175.61019899999999,-40.36079],"type":"Point"}
 }

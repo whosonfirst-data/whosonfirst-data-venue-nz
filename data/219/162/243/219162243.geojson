@@ -2,13 +2,14 @@
   "id": 219162243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.767792,-36.790535,174.767792,-36.790535",
     "geom:latitude":-36.790535,
     "geom:longitude":174.767792,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 2/ Huron St Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219162243,
-    "wof:lastmodified":1449073399,
+    "wof:lastmodified":1466310802,
     "wof:name":"Chartering & Shipping Solutions Ltd",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.767792,-36.790535,174.767792,-36.790535],
-  "geometry": {"coordinates":[174.767792,-36.790535],"type":"Point"}
+  "bbox": [
+    174.767792,
+    -36.790535,
+    174.767792,
+    -36.790535
+],
+  "geometry": {"coordinates":[174.76779199999999,-36.790535],"type":"Point"}
 }

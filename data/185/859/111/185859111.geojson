@@ -2,13 +2,14 @@
   "id": 185859111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.054184,-44.99852,171.054184,-44.99852",
     "geom:latitude":-44.99852,
     "geom:longitude":171.054184,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 144 ",
     "sg:city":"Hilderthorpe",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":185859111,
-    "wof:lastmodified":1449007747,
+    "wof:lastmodified":1466311621,
     "wof:name":"North Otago Aero Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [171.054184,-44.99852,171.054184,-44.99852],
-  "geometry": {"coordinates":[171.054184,-44.99852],"type":"Point"}
+  "bbox": [
+    171.054184,
+    -44.99852,
+    171.054184,
+    -44.99852
+],
+  "geometry": {"coordinates":[171.05418399999999,-44.99852],"type":"Point"}
 }

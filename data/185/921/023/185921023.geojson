@@ -2,13 +2,14 @@
   "id": 185921023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.763321,-37.814323,175.763321,-37.814323",
     "geom:latitude":-37.814323,
     "geom:longitude":175.763321,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 York Pl ",
     "sg:city":"Matamata",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185921023,
-    "wof:lastmodified":1449007631,
+    "wof:lastmodified":1466311999,
     "wof:name":"Matamata Rock & Roll Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sport"
     ]
 },
-  "bbox": [175.763321,-37.814323,175.763321,-37.814323],
-  "geometry": {"coordinates":[175.763321,-37.814323],"type":"Point"}
+  "bbox": [
+    175.763321,
+    -37.814323,
+    175.763321,
+    -37.814323
+],
+  "geometry": {"coordinates":[175.76332099999999,-37.814323],"type":"Point"}
 }

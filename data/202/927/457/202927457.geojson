@@ -2,13 +2,14 @@
   "id": 202927457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.159103,-37.555229,175.159103,-37.555229",
     "geom:latitude":-37.555229,
     "geom:longitude":175.159103,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Main St ",
     "sg:city":"Huntly",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202927457,
-    "wof:lastmodified":1449062380,
+    "wof:lastmodified":1466312735,
     "wof:name":"The Concrete Garden",
     "wof:parent_id":85780799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.159103,-37.555229,175.159103,-37.555229],
-  "geometry": {"coordinates":[175.159103,-37.555229],"type":"Point"}
+  "bbox": [
+    175.159103,
+    -37.555229,
+    175.159103,
+    -37.555229
+],
+  "geometry": {"coordinates":[175.15910299999999,-37.555229],"type":"Point"}
 }

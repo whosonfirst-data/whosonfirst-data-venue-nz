@@ -2,13 +2,14 @@
   "id": 186269885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.626877,-40.330711,175.626877,-40.330711",
     "geom:latitude":-40.330711,
     "geom:longitude":175.626877,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Malden St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186269885,
-    "wof:lastmodified":1449052055,
+    "wof:lastmodified":1466312072,
     "wof:name":"Biolab Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.626877,-40.330711,175.626877,-40.330711],
-  "geometry": {"coordinates":[175.626877,-40.330711],"type":"Point"}
+  "bbox": [
+    175.626877,
+    -40.330711,
+    175.626877,
+    -40.330711
+],
+  "geometry": {"coordinates":[175.62687700000001,-40.330711],"type":"Point"}
 }

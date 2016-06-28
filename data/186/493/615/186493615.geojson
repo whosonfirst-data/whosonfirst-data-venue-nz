@@ -2,13 +2,14 @@
   "id": 186493615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.593002,-40.347054,175.593002,-40.347054",
     "geom:latitude":-40.347054,
     "geom:longitude":175.593002,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"471 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186493615,
-    "wof:lastmodified":1449051237,
+    "wof:lastmodified":1466312747,
     "wof:name":"Kiwi Karts",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.593002,-40.347054,175.593002,-40.347054],
-  "geometry": {"coordinates":[175.593002,-40.347054],"type":"Point"}
+  "bbox": [
+    175.593002,
+    -40.347054,
+    175.593002,
+    -40.347054
+],
+  "geometry": {"coordinates":[175.59300200000001,-40.347054],"type":"Point"}
 }

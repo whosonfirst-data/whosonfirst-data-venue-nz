@@ -2,13 +2,14 @@
   "id": 220015455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.658997,-40.948711,175.658997,-40.948711",
     "geom:latitude":-40.948711,
     "geom:longitude":175.658997,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Perry St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220015455,
-    "wof:lastmodified":1449074231,
+    "wof:lastmodified":1466310964,
     "wof:name":"Mortgage Link (WAI) Ltd",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mortgage"
     ]
 },
-  "bbox": [175.658997,-40.948711,175.658997,-40.948711],
+  "bbox": [
+    175.658997,
+    -40.948711,
+    175.658997,
+    -40.948711
+],
   "geometry": {"coordinates":[175.658997,-40.948711],"type":"Point"}
 }

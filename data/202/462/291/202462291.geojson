@@ -2,13 +2,14 @@
   "id": 202462291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.626175,-40.937801,175.626175,-40.937801",
     "geom:latitude":-40.937801,
     "geom:longitude":175.626175,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Upper Plain Rd ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202462291,
-    "wof:lastmodified":1449062540,
+    "wof:lastmodified":1466311828,
     "wof:name":"Heaven Sent Resources Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "aid"
     ]
 },
-  "bbox": [175.626175,-40.937801,175.626175,-40.937801],
-  "geometry": {"coordinates":[175.626175,-40.937801],"type":"Point"}
+  "bbox": [
+    175.626175,
+    -40.937801,
+    175.626175,
+    -40.937801
+],
+  "geometry": {"coordinates":[175.62617499999999,-40.937801],"type":"Point"}
 }

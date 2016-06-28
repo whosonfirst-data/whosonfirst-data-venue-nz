@@ -2,13 +2,14 @@
   "id": 202856225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.566116,-40.225658,175.566116,-40.225658",
     "geom:latitude":-40.225658,
     "geom:longitude":175.566116,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"83-85 Kimbolton Rd ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202856225,
-    "wof:lastmodified":1449060842,
+    "wof:lastmodified":1466312806,
     "wof:name":"Furniture Court",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "furnishing"
     ]
 },
-  "bbox": [175.566116,-40.225658,175.566116,-40.225658],
-  "geometry": {"coordinates":[175.566116,-40.225658],"type":"Point"}
+  "bbox": [
+    175.566116,
+    -40.225658,
+    175.566116,
+    -40.225658
+],
+  "geometry": {"coordinates":[175.56611599999999,-40.225658],"type":"Point"}
 }

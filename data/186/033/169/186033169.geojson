@@ -2,13 +2,14 @@
   "id": 186033169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.809433,-36.906769,174.809433,-36.906769",
     "geom:latitude":-36.906769,
     "geom:longitude":174.809433,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Greenpark Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186033169,
-    "wof:lastmodified":1449050956,
+    "wof:lastmodified":1466311134,
     "wof:name":"Kerrick Industries",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.809433,-36.906769,174.809433,-36.906769],
-  "geometry": {"coordinates":[174.809433,-36.906769],"type":"Point"}
+  "bbox": [
+    174.809433,
+    -36.906769,
+    174.809433,
+    -36.906769
+],
+  "geometry": {"coordinates":[174.80943300000001,-36.906769],"type":"Point"}
 }

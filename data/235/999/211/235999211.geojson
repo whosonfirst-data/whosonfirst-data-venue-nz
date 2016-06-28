@@ -2,13 +2,14 @@
   "id": 235999211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.796799,-41.316483,174.796799,-41.316483",
     "geom:latitude":-41.316483,
     "geom:longitude":174.796799,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Kemp St Kilbirnie ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235999211,
-    "wof:lastmodified":1449008566,
+    "wof:lastmodified":1466311574,
     "wof:name":"Brentwood Hotel",
     "wof:parent_id":85778277,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dining"
     ]
 },
-  "bbox": [174.796799,-41.316483,174.796799,-41.316483],
-  "geometry": {"coordinates":[174.796799,-41.316483],"type":"Point"}
+  "bbox": [
+    174.796799,
+    -41.316483,
+    174.796799,
+    -41.316483
+],
+  "geometry": {"coordinates":[174.79679899999999,-41.316483],"type":"Point"}
 }

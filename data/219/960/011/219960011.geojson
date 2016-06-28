@@ -2,13 +2,14 @@
   "id": 219960011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.163727,-37.710194,176.163727,-37.710194",
     "geom:latitude":-37.710194,
     "geom:longitude":176.163727,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Burrows St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219960011,
-    "wof:lastmodified":1449072941,
+    "wof:lastmodified":1466313169,
     "wof:name":"NZ Hydroponics International Ltd",
     "wof:parent_id":85782817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.163727,-37.710194,176.163727,-37.710194],
-  "geometry": {"coordinates":[176.163727,-37.710194],"type":"Point"}
+  "bbox": [
+    176.163727,
+    -37.710194,
+    176.163727,
+    -37.710194
+],
+  "geometry": {"coordinates":[176.16372699999999,-37.710194],"type":"Point"}
 }

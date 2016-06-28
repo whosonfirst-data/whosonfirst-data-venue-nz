@@ -2,13 +2,14 @@
   "id": 219468769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.349258,-46.416866,168.349258,-46.416866",
     "geom:latitude":-46.416866,
     "geom:longitude":168.349258,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21-25 Eye St West Invercargill ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219468769,
-    "wof:lastmodified":1449072929,
+    "wof:lastmodified":1466312093,
     "wof:name":"Te Waitawa Enterprises Limited Academic Services",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "training"
     ]
 },
-  "bbox": [168.349258,-46.416866,168.349258,-46.416866],
-  "geometry": {"coordinates":[168.349258,-46.416866],"type":"Point"}
+  "bbox": [
+    168.349258,
+    -46.416866,
+    168.349258,
+    -46.416866
+],
+  "geometry": {"coordinates":[168.34925799999999,-46.416866],"type":"Point"}
 }

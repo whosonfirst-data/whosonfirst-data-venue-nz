@@ -2,13 +2,14 @@
   "id": 186582271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.480423,-45.911243,170.480423,-45.911243",
     "geom:latitude":-45.911243,
     "geom:longitude":170.480423,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Aberdeen Rd Saint Clair ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186582271,
-    "wof:lastmodified":1449051824,
+    "wof:lastmodified":1466312945,
     "wof:name":"South Dunedin Dental Laboratory",
     "wof:parent_id":85773171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "beauty"
     ]
 },
-  "bbox": [170.480423,-45.911243,170.480423,-45.911243],
+  "bbox": [
+    170.480423,
+    -45.911243,
+    170.480423,
+    -45.911243
+],
   "geometry": {"coordinates":[170.480423,-45.911243],"type":"Point"}
 }

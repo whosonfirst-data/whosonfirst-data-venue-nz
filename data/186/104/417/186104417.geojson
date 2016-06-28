@@ -2,13 +2,14 @@
   "id": 186104417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.962448,-37.076645,174.962448,-37.076645",
     "geom:latitude":-37.076645,
     "geom:longitude":174.962448,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Boundary Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186104417,
-    "wof:lastmodified":1449051482,
+    "wof:lastmodified":1466310576,
     "wof:name":"Pioneer Solid Fuels",
     "wof:parent_id":85781093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "coke"
     ]
 },
-  "bbox": [174.962448,-37.076645,174.962448,-37.076645],
-  "geometry": {"coordinates":[174.962448,-37.076645],"type":"Point"}
+  "bbox": [
+    174.962448,
+    -37.076645,
+    174.962448,
+    -37.076645
+],
+  "geometry": {"coordinates":[174.96244799999999,-37.076645],"type":"Point"}
 }

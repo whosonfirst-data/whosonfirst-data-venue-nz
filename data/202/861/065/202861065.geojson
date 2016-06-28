@@ -2,13 +2,14 @@
   "id": 202861065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.798782,-41.255211,174.798782,-41.255211",
     "geom:latitude":-41.255211,
     "geom:longitude":174.798782,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"202 Hutt Rd Kaiwharawhara ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202861065,
-    "wof:lastmodified":1449062625,
+    "wof:lastmodified":1466312707,
     "wof:name":"Wade House",
     "wof:parent_id":85778225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "furnishing"
     ]
 },
-  "bbox": [174.798782,-41.255211,174.798782,-41.255211],
-  "geometry": {"coordinates":[174.798782,-41.255211],"type":"Point"}
+  "bbox": [
+    174.798782,
+    -41.255211,
+    174.798782,
+    -41.255211
+],
+  "geometry": {"coordinates":[174.79878199999999,-41.255211],"type":"Point"}
 }

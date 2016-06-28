@@ -2,13 +2,14 @@
   "id": 219320211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.509995,-45.868717,170.509995,-45.868717",
     "geom:latitude":-45.868717,
     "geom:longitude":170.509995,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"833 Cumberland St Dunedin North ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219320211,
-    "wof:lastmodified":1449071286,
+    "wof:lastmodified":1466311111,
     "wof:name":"Cable Court Motel",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accommodation"
     ]
 },
-  "bbox": [170.509995,-45.868717,170.509995,-45.868717],
+  "bbox": [
+    170.509995,
+    -45.868717,
+    170.509995,
+    -45.868717
+],
   "geometry": {"coordinates":[170.509995,-45.868717],"type":"Point"}
 }

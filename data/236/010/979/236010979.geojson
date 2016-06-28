@@ -2,13 +2,14 @@
   "id": 236010979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.277618,-41.264797,173.277618,-41.264797",
     "geom:latitude":-41.264797,
     "geom:longitude":173.277618,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Vickerman St Port Nelson ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236010979,
-    "wof:lastmodified":1449003760,
+    "wof:lastmodified":1466310818,
     "wof:name":"Captains Cabin",
     "wof:parent_id":85773133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "takeaway"
     ]
 },
-  "bbox": [173.277618,-41.264797,173.277618,-41.264797],
-  "geometry": {"coordinates":[173.277618,-41.264797],"type":"Point"}
+  "bbox": [
+    173.277618,
+    -41.264797,
+    173.277618,
+    -41.264797
+],
+  "geometry": {"coordinates":[173.27761799999999,-41.264797],"type":"Point"}
 }

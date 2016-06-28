@@ -2,13 +2,14 @@
   "id": 202681497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.626556,-43.563282,172.626556,-43.563282",
     "geom:latitude":-43.563282,
     "geom:longitude":172.626556,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Somerfield St Somerfield ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202681497,
-    "wof:lastmodified":1449061675,
+    "wof:lastmodified":1466312284,
     "wof:name":"Jelly Baby Cottage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "children"
     ]
 },
-  "bbox": [172.626556,-43.563282,172.626556,-43.563282],
-  "geometry": {"coordinates":[172.626556,-43.563282],"type":"Point"}
+  "bbox": [
+    172.626556,
+    -43.563282,
+    172.626556,
+    -43.563282
+],
+  "geometry": {"coordinates":[172.62655599999999,-43.563282],"type":"Point"}
 }

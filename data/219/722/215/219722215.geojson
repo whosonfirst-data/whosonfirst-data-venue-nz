@@ -2,13 +2,14 @@
   "id": 219722215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.92926,-37.050194,174.92926,-37.050194",
     "geom:latitude":-37.050194,
     "geom:longitude":174.92926,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Walters Rd Takanini ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219722215,
-    "wof:lastmodified":1449071632,
+    "wof:lastmodified":1466312854,
     "wof:name":"Clevedon Truck Sales",
     "wof:parent_id":85781393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automotive"
     ]
 },
-  "bbox": [174.92926,-37.050194,174.92926,-37.050194],
+  "bbox": [
+    174.92926,
+    -37.050194,
+    174.92926,
+    -37.050194
+],
   "geometry": {"coordinates":[174.92926,-37.050194],"type":"Point"}
 }

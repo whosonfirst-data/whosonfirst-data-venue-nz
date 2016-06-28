@@ -2,13 +2,14 @@
   "id": 203317431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.744324,-36.714409,174.744324,-36.714409",
     "geom:latitude":-36.714409,
     "geom:longitude":174.744324,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 35535 Browns Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203317431,
-    "wof:lastmodified":1449025774,
+    "wof:lastmodified":1466312294,
     "wof:name":"Flair Accessories Ltd",
     "wof:parent_id":85772855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [174.744324,-36.714409,174.744324,-36.714409],
-  "geometry": {"coordinates":[174.744324,-36.714409],"type":"Point"}
+  "bbox": [
+    174.744324,
+    -36.714409,
+    174.744324,
+    -36.714409
+],
+  "geometry": {"coordinates":[174.74432400000001,-36.714409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202383073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.775513,-36.884193,174.775513,-36.884193",
     "geom:latitude":-36.884193,
     "geom:longitude":174.775513,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2/227 Manukau Rd Epsom ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202383073,
-    "wof:lastmodified":1449061184,
+    "wof:lastmodified":1466311997,
     "wof:name":"Quigley Richard;",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.775513,-36.884193,174.775513,-36.884193],
-  "geometry": {"coordinates":[174.775513,-36.884193],"type":"Point"}
+  "bbox": [
+    174.775513,
+    -36.884193,
+    174.775513,
+    -36.884193
+],
+  "geometry": {"coordinates":[174.77551299999999,-36.884193],"type":"Point"}
 }

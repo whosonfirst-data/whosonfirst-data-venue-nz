@@ -2,13 +2,14 @@
   "id": 220065881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.648422,-40.958115,175.648422,-40.958115",
     "geom:latitude":-40.958115,
     "geom:longitude":175.648422,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"450 Queen St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220065881,
-    "wof:lastmodified":1449074871,
+    "wof:lastmodified":1466311789,
     "wof:name":"N Tuohy & Son Ltd",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "outlet"
     ]
 },
-  "bbox": [175.648422,-40.958115,175.648422,-40.958115],
-  "geometry": {"coordinates":[175.648422,-40.958115],"type":"Point"}
+  "bbox": [
+    175.648422,
+    -40.958115,
+    175.648422,
+    -40.958115
+],
+  "geometry": {"coordinates":[175.64842200000001,-40.958115],"type":"Point"}
 }

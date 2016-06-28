@@ -2,13 +2,14 @@
   "id": 185781641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.935623,-41.201031,174.935623,-41.201031",
     "geom:latitude":-41.201031,
     "geom:longitude":174.935623,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Roberts St Linden ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":185781641,
-    "wof:lastmodified":1449006923,
+    "wof:lastmodified":1466311103,
     "wof:name":"Crossroads Genealogy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.935623,-41.201031,174.935623,-41.201031],
-  "geometry": {"coordinates":[174.935623,-41.201031],"type":"Point"}
+  "bbox": [
+    174.935623,
+    -41.201031,
+    174.935623,
+    -41.201031
+],
+  "geometry": {"coordinates":[174.93562299999999,-41.201031],"type":"Point"}
 }

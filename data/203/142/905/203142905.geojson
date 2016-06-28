@@ -2,13 +2,14 @@
   "id": 203142905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.328995,-46.14748,168.328995,-46.14748",
     "geom:latitude":-46.14748,
     "geom:longitude":168.328995,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Moores Rd ",
     "sg:city":"Winton",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203142905,
-    "wof:lastmodified":1449026454,
+    "wof:lastmodified":1466310849,
     "wof:name":"Central Pet Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pets"
     ]
 },
-  "bbox": [168.328995,-46.14748,168.328995,-46.14748],
-  "geometry": {"coordinates":[168.328995,-46.14748],"type":"Point"}
+  "bbox": [
+    168.328995,
+    -46.14748,
+    168.328995,
+    -46.14748
+],
+  "geometry": {"coordinates":[168.32899499999999,-46.14748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220191463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.773621,-41.334053,174.773621,-41.334053",
     "geom:latitude":-41.334053,
     "geom:longitude":174.773621,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"127 The Parade Island Bay ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220191463,
-    "wof:lastmodified":1449074522,
+    "wof:lastmodified":1466311396,
     "wof:name":"Island Bay Butchery",
     "wof:parent_id":85772975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.773621,-41.334053,174.773621,-41.334053],
-  "geometry": {"coordinates":[174.773621,-41.334053],"type":"Point"}
+  "bbox": [
+    174.773621,
+    -41.334053,
+    174.773621,
+    -41.334053
+],
+  "geometry": {"coordinates":[174.77362099999999,-41.334053],"type":"Point"}
 }

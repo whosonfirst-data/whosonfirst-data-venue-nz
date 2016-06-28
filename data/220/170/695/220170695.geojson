@@ -2,13 +2,14 @@
   "id": 220170695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.738297,-36.876362,174.738297,-36.876362",
     "geom:latitude":-36.876362,
     "geom:longitude":174.738297,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Collins St Morningside ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220170695,
-    "wof:lastmodified":1449074100,
+    "wof:lastmodified":1466311233,
     "wof:name":"Vege Express",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "veges"
     ]
 },
-  "bbox": [174.738297,-36.876362,174.738297,-36.876362],
-  "geometry": {"coordinates":[174.738297,-36.876362],"type":"Point"}
+  "bbox": [
+    174.738297,
+    -36.876362,
+    174.738297,
+    -36.876362
+],
+  "geometry": {"coordinates":[174.73829699999999,-36.876362],"type":"Point"}
 }

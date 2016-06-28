@@ -2,13 +2,14 @@
   "id": 203203265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.25061,-38.138729,176.25061,-38.138729",
     "geom:latitude":-38.138729,
     "geom:longitude":176.25061,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1193 Eruera St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203203265,
-    "wof:lastmodified":1449025753,
+    "wof:lastmodified":1466311400,
     "wof:name":"Sambiino",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.25061,-38.138729,176.25061,-38.138729],
-  "geometry": {"coordinates":[176.25061,-38.138729],"type":"Point"}
+  "bbox": [
+    176.25061,
+    -38.138729,
+    176.25061,
+    -38.138729
+],
+  "geometry": {"coordinates":[176.25060999999999,-38.138729],"type":"Point"}
 }

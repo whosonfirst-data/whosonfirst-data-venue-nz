@@ -2,13 +2,14 @@
   "id": 202591783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.53006,-43.54287,172.53006,-43.54287",
     "geom:latitude":-43.54287,
     "geom:longitude":172.53006,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Main South Rd Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202591783,
-    "wof:lastmodified":1449061469,
+    "wof:lastmodified":1466311449,
     "wof:name":"Smiths Mitre 10",
     "wof:parent_id":85772967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.53006,-43.54287,172.53006,-43.54287],
-  "geometry": {"coordinates":[172.53006,-43.54287],"type":"Point"}
+  "bbox": [
+    172.53006,
+    -43.54287,
+    172.53006,
+    -43.54287
+],
+  "geometry": {"coordinates":[172.53005999999999,-43.54287],"type":"Point"}
 }

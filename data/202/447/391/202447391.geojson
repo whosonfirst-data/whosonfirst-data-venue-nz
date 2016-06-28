@@ -2,13 +2,14 @@
   "id": 202447391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.276993,-37.783211,175.276993,-37.783211",
     "geom:latitude":-37.783211,
     "geom:longitude":175.276993,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Downtown Plaza-Shop 1 cnr Worley Pl & Ward St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202447391,
-    "wof:lastmodified":1449061885,
+    "wof:lastmodified":1466311711,
     "wof:name":"Eyewear Collection",
     "wof:parent_id":85780927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.276993,-37.783211,175.276993,-37.783211],
+  "bbox": [
+    175.276993,
+    -37.783211,
+    175.276993,
+    -37.783211
+],
   "geometry": {"coordinates":[175.276993,-37.783211],"type":"Point"}
 }

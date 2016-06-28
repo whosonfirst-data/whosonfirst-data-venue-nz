@@ -2,13 +2,14 @@
   "id": 219307027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.477005,-41.218315,175.477005,-41.218315",
     "geom:latitude":-41.218315,
     "geom:longitude":175.477005,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Puruatanga Rd ",
     "sg:city":"Martinborough",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219307027,
-    "wof:lastmodified":1449071312,
+    "wof:lastmodified":1466310993,
     "wof:name":"Aig An Taigh Farmstay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.477005,-41.218315,175.477005,-41.218315],
-  "geometry": {"coordinates":[175.477005,-41.218315],"type":"Point"}
+  "bbox": [
+    175.477005,
+    -41.218315,
+    175.477005,
+    -41.218315
+],
+  "geometry": {"coordinates":[175.47700499999999,-41.218315],"type":"Point"}
 }

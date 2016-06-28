@@ -2,13 +2,14 @@
   "id": 186404041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.703964,-36.741528,174.703964,-36.741528",
     "geom:latitude":-36.741528,
     "geom:longitude":174.703964,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Rosedale Rd Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186404041,
-    "wof:lastmodified":1449052147,
+    "wof:lastmodified":1466312619,
     "wof:name":"PSP Ltd",
     "wof:parent_id":85772825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [174.703964,-36.741528,174.703964,-36.741528],
-  "geometry": {"coordinates":[174.703964,-36.741528],"type":"Point"}
+  "bbox": [
+    174.703964,
+    -36.741528,
+    174.703964,
+    -36.741528
+],
+  "geometry": {"coordinates":[174.70396400000001,-36.741528],"type":"Point"}
 }

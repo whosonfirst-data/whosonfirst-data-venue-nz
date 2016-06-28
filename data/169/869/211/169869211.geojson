@@ -2,13 +2,14 @@
   "id": 169869211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.870422,-38.21685,175.870422,-38.21685",
     "geom:latitude":-38.21685,
     "geom:longitude":175.870422,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Logan St ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169869211,
-    "wof:lastmodified":1449035696,
+    "wof:lastmodified":1466312170,
     "wof:name":"Tokoroa Cinema 3",
     "wof:parent_id":85782509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.870422,-38.21685,175.870422,-38.21685],
-  "geometry": {"coordinates":[175.870422,-38.21685],"type":"Point"}
+  "bbox": [
+    175.870422,
+    -38.21685,
+    175.870422,
+    -38.21685
+],
+  "geometry": {"coordinates":[175.87042199999999,-38.21685],"type":"Point"}
 }

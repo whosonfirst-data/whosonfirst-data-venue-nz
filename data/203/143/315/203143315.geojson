@@ -2,13 +2,14 @@
   "id": 203143315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.317566,39.329933,-82.317566,39.329933",
     "geom:latitude":39.329933,
     "geom:longitude":-82.317566,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"The Richmond Centre 4 Egmont St New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203143315,
-    "wof:lastmodified":1449026530,
+    "wof:lastmodified":1466310853,
     "wof:name":"Pet Essentials",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pets"
     ]
 },
-  "bbox": [-82.317566,39.329933,-82.317566,39.329933],
+  "bbox": [
+    -82.317566,
+    39.329933,
+    -82.317566,
+    39.329933
+],
   "geometry": {"coordinates":[-82.317566,39.329933],"type":"Point"}
 }

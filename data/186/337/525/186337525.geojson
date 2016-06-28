@@ -2,13 +2,14 @@
   "id": 186337525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.06192,-38.654095,176.06192,-38.654095",
     "geom:latitude":-38.654095,
     "geom:longitude":176.06192,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Poihipi Rd ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186337525,
-    "wof:lastmodified":1449051642,
+    "wof:lastmodified":1466312220,
     "wof:name":"Byford's Construction Co. Ltd",
     "wof:parent_id":85781797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "materials"
     ]
 },
-  "bbox": [176.06192,-38.654095,176.06192,-38.654095],
-  "geometry": {"coordinates":[176.06192,-38.654095],"type":"Point"}
+  "bbox": [
+    176.06192,
+    -38.654095,
+    176.06192,
+    -38.654095
+],
+  "geometry": {"coordinates":[176.06191999999999,-38.654095],"type":"Point"}
 }

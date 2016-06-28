@@ -2,13 +2,14 @@
   "id": 186543653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.358597,-46.426064,168.358597,-46.426064",
     "geom:latitude":-46.426064,
     "geom:longitude":168.358597,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Dalrymple St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186543653,
-    "wof:lastmodified":1449050930,
+    "wof:lastmodified":1466312783,
     "wof:name":"Salon Triple One",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.358597,-46.426064,168.358597,-46.426064],
+  "bbox": [
+    168.358597,
+    -46.426064,
+    168.358597,
+    -46.426064
+],
   "geometry": {"coordinates":[168.358597,-46.426064],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169536351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.746765,-36.856407,174.746765,-36.856407",
     "geom:latitude":-36.856407,
     "geom:longitude":174.746765,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 2 63 Ponsonby Rd Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169536351,
-    "wof:lastmodified":1449034659,
+    "wof:lastmodified":1466310573,
     "wof:name":"Auckland Film Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "producer"
     ]
 },
-  "bbox": [174.746765,-36.856407,174.746765,-36.856407],
-  "geometry": {"coordinates":[174.746765,-36.856407],"type":"Point"}
+  "bbox": [
+    174.746765,
+    -36.856407,
+    174.746765,
+    -36.856407
+],
+  "geometry": {"coordinates":[174.74676500000001,-36.856407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203338613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.347382,-46.389229,168.347382,-46.389229",
     "geom:latitude":-46.389229,
     "geom:longitude":168.347382,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bay Rd Waikiwi ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203338613,
-    "wof:lastmodified":1449025572,
+    "wof:lastmodified":1466312362,
     "wof:name":"Waikiwi Wool Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fabric"
     ]
 },
-  "bbox": [168.347382,-46.389229,168.347382,-46.389229],
-  "geometry": {"coordinates":[168.347382,-46.389229],"type":"Point"}
+  "bbox": [
+    168.347382,
+    -46.389229,
+    168.347382,
+    -46.389229
+],
+  "geometry": {"coordinates":[168.34738200000001,-46.389229],"type":"Point"}
 }

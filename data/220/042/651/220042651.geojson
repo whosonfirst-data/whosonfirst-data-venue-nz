@@ -2,13 +2,14 @@
   "id": 220042651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.48999,-45.867069,170.48999,-45.867069",
     "geom:latitude":-45.867069,
     "geom:longitude":170.48999,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"297 Highgate Roslyn ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":220042651,
-    "wof:lastmodified":1449074648,
+    "wof:lastmodified":1466311485,
     "wof:name":"Kramer Wines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.48999,-45.867069,170.48999,-45.867069],
-  "geometry": {"coordinates":[170.48999,-45.867069],"type":"Point"}
+  "bbox": [
+    170.48999,
+    -45.867069,
+    170.48999,
+    -45.867069
+],
+  "geometry": {"coordinates":[170.48999000000001,-45.867069],"type":"Point"}
 }

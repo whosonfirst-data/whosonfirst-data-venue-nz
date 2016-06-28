@@ -2,13 +2,14 @@
   "id": 202400965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.784515,-36.804943,174.784515,-36.804943",
     "geom:latitude":-36.804943,
     "geom:longitude":174.784515,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Coronation St Belmont ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202400965,
-    "wof:lastmodified":1449060362,
+    "wof:lastmodified":1466311069,
     "wof:name":"Belmont Hospital (Takapuna)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.784515,-36.804943,174.784515,-36.804943],
+  "bbox": [
+    174.784515,
+    -36.804943,
+    174.784515,
+    -36.804943
+],
   "geometry": {"coordinates":[174.784515,-36.804943],"type":"Point"}
 }

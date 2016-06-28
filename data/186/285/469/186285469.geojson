@@ -2,13 +2,14 @@
   "id": 186285469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.801865,-41.326797,174.801865,-41.326797",
     "geom:latitude":-41.326797,
     "geom:longitude":174.801865,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"126-130 Tirangi Rd Rongotai ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186285469,
-    "wof:lastmodified":1449050343,
+    "wof:lastmodified":1466312134,
     "wof:name":"Holyoake Industries Limited",
     "wof:parent_id":85778573,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.801865,-41.326797,174.801865,-41.326797],
-  "geometry": {"coordinates":[174.801865,-41.326797],"type":"Point"}
+  "bbox": [
+    174.801865,
+    -41.326797,
+    174.801865,
+    -41.326797
+],
+  "geometry": {"coordinates":[174.80186499999999,-41.326797],"type":"Point"}
 }

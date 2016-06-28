@@ -2,13 +2,14 @@
   "id": 202753689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.861191,-36.868752,174.861191,-36.868752",
     "geom:latitude":-36.868752,
     "geom:longitude":174.861191,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Troy Pl Glendowie ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202753689,
-    "wof:lastmodified":1449060405,
+    "wof:lastmodified":1466312317,
     "wof:name":"Troy Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [174.861191,-36.868752,174.861191,-36.868752],
-  "geometry": {"coordinates":[174.861191,-36.868752],"type":"Point"}
+  "bbox": [
+    174.861191,
+    -36.868752,
+    174.861191,
+    -36.868752
+],
+  "geometry": {"coordinates":[174.86119099999999,-36.868752],"type":"Point"}
 }

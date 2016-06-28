@@ -2,13 +2,14 @@
   "id": 203357309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.50061,-45.87344,170.50061,-45.87344",
     "geom:latitude":-45.87344,
     "geom:longitude":170.50061,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"247 Stuart St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203357309,
-    "wof:lastmodified":1449026630,
+    "wof:lastmodified":1466312332,
     "wof:name":"Ayers Shoe Repairs",
     "wof:parent_id":85782381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wear"
     ]
 },
-  "bbox": [170.50061,-45.87344,170.50061,-45.87344],
-  "geometry": {"coordinates":[170.50061,-45.87344],"type":"Point"}
+  "bbox": [
+    170.50061,
+    -45.87344,
+    170.50061,
+    -45.87344
+],
+  "geometry": {"coordinates":[170.50060999999999,-45.87344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203144687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.716019,-43.489101,172.716019,-43.489101",
     "geom:latitude":-43.489101,
     "geom:longitude":172.716019,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Royalist Ave North New Brighton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203144687,
-    "wof:lastmodified":1449026359,
+    "wof:lastmodified":1466310864,
     "wof:name":"Catz Only",
     "wof:parent_id":85778899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pets"
     ]
 },
-  "bbox": [172.716019,-43.489101,172.716019,-43.489101],
-  "geometry": {"coordinates":[172.716019,-43.489101],"type":"Point"}
+  "bbox": [
+    172.716019,
+    -43.489101,
+    172.716019,
+    -43.489101
+],
+  "geometry": {"coordinates":[172.71601899999999,-43.489101],"type":"Point"}
 }

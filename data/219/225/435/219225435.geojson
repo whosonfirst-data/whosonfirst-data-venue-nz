@@ -2,13 +2,14 @@
   "id": 219225435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.812469,-36.911636,174.812469,-36.911636",
     "geom:latitude":-36.911636,
     "geom:longitude":174.812469,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Olive Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219225435,
-    "wof:lastmodified":1449071496,
+    "wof:lastmodified":1466311740,
     "wof:name":"Grace Removals Group",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.812469,-36.911636,174.812469,-36.911636],
-  "geometry": {"coordinates":[174.812469,-36.911636],"type":"Point"}
+  "bbox": [
+    174.812469,
+    -36.911636,
+    174.812469,
+    -36.911636
+],
+  "geometry": {"coordinates":[174.81246899999999,-36.911636],"type":"Point"}
 }

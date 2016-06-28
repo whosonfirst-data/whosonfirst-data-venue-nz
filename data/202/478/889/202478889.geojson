@@ -2,13 +2,14 @@
   "id": 202478889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.901169,-37.202335,174.901169,-37.202335",
     "geom:latitude":-37.202335,
     "geom:longitude":174.901169,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Queen St Waiuku ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202478889,
-    "wof:lastmodified":1449060175,
+    "wof:lastmodified":1466311980,
     "wof:name":"Grahams Pharmacy Ltd",
     "wof:parent_id":85782491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.901169,-37.202335,174.901169,-37.202335],
-  "geometry": {"coordinates":[174.901169,-37.202335],"type":"Point"}
+  "bbox": [
+    174.901169,
+    -37.202335,
+    174.901169,
+    -37.202335
+],
+  "geometry": {"coordinates":[174.90116900000001,-37.202335],"type":"Point"}
 }

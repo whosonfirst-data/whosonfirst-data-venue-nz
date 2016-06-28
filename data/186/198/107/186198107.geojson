@@ -2,13 +2,14 @@
   "id": 186198107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.836441,-36.892139,174.836441,-36.892139",
     "geom:latitude":-36.892139,
     "geom:longitude":174.836441,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Lunn Ave Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186198107,
-    "wof:lastmodified":1449051356,
+    "wof:lastmodified":1466311375,
     "wof:name":"Sulco Tools & Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.836441,-36.892139,174.836441,-36.892139],
-  "geometry": {"coordinates":[174.836441,-36.892139],"type":"Point"}
+  "bbox": [
+    174.836441,
+    -36.892139,
+    174.836441,
+    -36.892139
+],
+  "geometry": {"coordinates":[174.83644100000001,-36.892139],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220093249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.564407,-40.227024,175.564407,-40.227024",
     "geom:latitude":-40.227024,
     "geom:longitude":175.564407,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Manchester Sq ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220093249,
-    "wof:lastmodified":1449074053,
+    "wof:lastmodified":1466310544,
     "wof:name":"Beresford Bakery",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [175.564407,-40.227024,175.564407,-40.227024],
-  "geometry": {"coordinates":[175.564407,-40.227024],"type":"Point"}
+  "bbox": [
+    175.564407,
+    -40.227024,
+    175.564407,
+    -40.227024
+],
+  "geometry": {"coordinates":[175.56440699999999,-40.227024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202787473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.079132,-41.123875,175.079132,-41.123875",
     "geom:latitude":-41.123875,
     "geom:longitude":175.079132,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4/34 Park St Totara Park Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202787473,
-    "wof:lastmodified":1449061275,
+    "wof:lastmodified":1466312393,
     "wof:name":"Maidstone Kitchens & Panal Effects",
     "wof:parent_id":85778403,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kitchen"
     ]
 },
-  "bbox": [175.079132,-41.123875,175.079132,-41.123875],
-  "geometry": {"coordinates":[175.079132,-41.123875],"type":"Point"}
+  "bbox": [
+    175.079132,
+    -41.123875,
+    175.079132,
+    -41.123875
+],
+  "geometry": {"coordinates":[175.07913199999999,-41.123875],"type":"Point"}
 }

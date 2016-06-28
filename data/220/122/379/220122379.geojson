@@ -2,13 +2,14 @@
   "id": 220122379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.16861,-37.682133,176.16861,-37.682133",
     "geom:latitude":-37.682133,
     "geom:longitude":176.16861,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Willow St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220122379,
-    "wof:lastmodified":1449074510,
+    "wof:lastmodified":1466310803,
     "wof:name":"Harringtons Cafe & Dutch Shop",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [176.16861,-37.682133,176.16861,-37.682133],
+  "bbox": [
+    176.16861,
+    -37.682133,
+    176.16861,
+    -37.682133
+],
   "geometry": {"coordinates":[176.16861,-37.682133],"type":"Point"}
 }

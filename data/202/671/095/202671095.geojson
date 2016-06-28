@@ -2,13 +2,14 @@
   "id": 202671095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.35231,-46.420364,168.35231,-46.420364",
     "geom:latitude":-46.420364,
     "geom:longitude":168.35231,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Ettrick St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202671095,
-    "wof:lastmodified":1449060691,
+    "wof:lastmodified":1466312242,
     "wof:name":"Ryder Plumbing Ltd",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "related"
     ]
 },
-  "bbox": [168.35231,-46.420364,168.35231,-46.420364],
-  "geometry": {"coordinates":[168.35231,-46.420364],"type":"Point"}
+  "bbox": [
+    168.35231,
+    -46.420364,
+    168.35231,
+    -46.420364
+],
+  "geometry": {"coordinates":[168.35230999999999,-46.420364],"type":"Point"}
 }

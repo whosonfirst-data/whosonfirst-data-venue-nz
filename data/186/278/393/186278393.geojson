@@ -2,13 +2,14 @@
   "id": 186278393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.563126,-40.203026,175.563126,-40.203026",
     "geom:latitude":-40.203026,
     "geom:longitude":175.563126,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Heatherlea Hts Feilding ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186278393,
-    "wof:lastmodified":1449051860,
+    "wof:lastmodified":1466312000,
     "wof:name":"Birchler Industriel Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.563126,-40.203026,175.563126,-40.203026],
-  "geometry": {"coordinates":[175.563126,-40.203026],"type":"Point"}
+  "bbox": [
+    175.563126,
+    -40.203026,
+    175.563126,
+    -40.203026
+],
+  "geometry": {"coordinates":[175.56312600000001,-40.203026],"type":"Point"}
 }

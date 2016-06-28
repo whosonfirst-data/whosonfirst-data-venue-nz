@@ -2,13 +2,14 @@
   "id": 186109663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.047638,-39.931866,175.047638,-39.931866",
     "geom:latitude":-39.931866,
     "geom:longitude":175.047638,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"179 St Hill St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186109663,
-    "wof:lastmodified":1449051328,
+    "wof:lastmodified":1466310617,
     "wof:name":"Wanganui Gas",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "utilities"
     ]
 },
-  "bbox": [175.047638,-39.931866,175.047638,-39.931866],
-  "geometry": {"coordinates":[175.047638,-39.931866],"type":"Point"}
+  "bbox": [
+    175.047638,
+    -39.931866,
+    175.047638,
+    -39.931866
+],
+  "geometry": {"coordinates":[175.04763800000001,-39.931866],"type":"Point"}
 }

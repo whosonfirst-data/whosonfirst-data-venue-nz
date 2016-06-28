@@ -2,13 +2,14 @@
   "id": 202440613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.59404,-43.305614,172.59404,-43.305614",
     "geom:latitude":-43.305614,
     "geom:longitude":172.59404,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1/130 Percival St ",
     "sg:city":"Rangiora",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202440613,
-    "wof:lastmodified":1449061000,
+    "wof:lastmodified":1466311696,
     "wof:name":"MacDougall Lindsay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "beauty"
     ]
 },
-  "bbox": [172.59404,-43.305614,172.59404,-43.305614],
-  "geometry": {"coordinates":[172.59404,-43.305614],"type":"Point"}
+  "bbox": [
+    172.59404,
+    -43.305614,
+    172.59404,
+    -43.305614
+],
+  "geometry": {"coordinates":[172.59404000000001,-43.305614],"type":"Point"}
 }

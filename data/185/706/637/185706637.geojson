@@ -2,13 +2,14 @@
   "id": 185706637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.604401,-40.359089,175.604401,-40.359089",
     "geom:latitude":-40.359089,
     "geom:longitude":175.604401,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"249 Main St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":185706637,
-    "wof:lastmodified":1449006713,
+    "wof:lastmodified":1466310602,
     "wof:name":"Masonic Hotel",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "sport"
     ]
 },
-  "bbox": [175.604401,-40.359089,175.604401,-40.359089],
+  "bbox": [
+    175.604401,
+    -40.359089,
+    175.604401,
+    -40.359089
+],
   "geometry": {"coordinates":[175.604401,-40.359089],"type":"Point"}
 }

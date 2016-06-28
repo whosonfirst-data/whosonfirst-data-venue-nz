@@ -2,13 +2,14 @@
   "id": 220170079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.507019,-43.585819,172.507019,-43.585819",
     "geom:latitude":-43.585819,
     "geom:longitude":172.507019,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Trents Rd Prebbleton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220170079,
-    "wof:lastmodified":1449074100,
+    "wof:lastmodified":1466311229,
     "wof:name":"Trents Road Berry Farm",
     "wof:parent_id":85773137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "veges"
     ]
 },
-  "bbox": [172.507019,-43.585819,172.507019,-43.585819],
-  "geometry": {"coordinates":[172.507019,-43.585819],"type":"Point"}
+  "bbox": [
+    172.507019,
+    -43.585819,
+    172.507019,
+    -43.585819
+],
+  "geometry": {"coordinates":[172.50701900000001,-43.585819],"type":"Point"}
 }

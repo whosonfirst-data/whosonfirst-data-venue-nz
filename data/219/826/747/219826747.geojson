@@ -2,13 +2,14 @@
   "id": 219826747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.627975,-40.33139,175.627975,-40.33139",
     "geom:latitude":-40.33139,
     "geom:longitude":175.627975,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"931 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219826747,
-    "wof:lastmodified":1449072962,
+    "wof:lastmodified":1466313049,
     "wof:name":"Allflex New Zealand Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.627975,-40.33139,175.627975,-40.33139],
-  "geometry": {"coordinates":[175.627975,-40.33139],"type":"Point"}
+  "bbox": [
+    175.627975,
+    -40.33139,
+    175.627975,
+    -40.33139
+],
+  "geometry": {"coordinates":[175.62797499999999,-40.33139],"type":"Point"}
 }

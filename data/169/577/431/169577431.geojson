@@ -2,13 +2,14 @@
   "id": 169577431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.04895,-39.931232,175.04895,-39.931232",
     "geom:latitude":-39.931232,
     "geom:longitude":175.04895,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169577431,
-    "wof:lastmodified":1449036065,
+    "wof:lastmodified":1466311338,
     "wof:name":"Wanganui Home Sewing Centre",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.04895,-39.931232,175.04895,-39.931232],
-  "geometry": {"coordinates":[175.04895,-39.931232],"type":"Point"}
+  "bbox": [
+    175.04895,
+    -39.931232,
+    175.04895,
+    -39.931232
+],
+  "geometry": {"coordinates":[175.04894999999999,-39.931232],"type":"Point"}
 }

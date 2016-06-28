@@ -2,13 +2,14 @@
   "id": 235983777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.04895,-39.93211,175.04895,-39.93211",
     "geom:latitude":-39.93211,
     "geom:longitude":175.04895,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Guyton St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235983777,
-    "wof:lastmodified":1449008590,
+    "wof:lastmodified":1466311445,
     "wof:name":"Red Eye Cafe",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cafe"
     ]
 },
-  "bbox": [175.04895,-39.93211,175.04895,-39.93211],
-  "geometry": {"coordinates":[175.04895,-39.93211],"type":"Point"}
+  "bbox": [
+    175.04895,
+    -39.93211,
+    175.04895,
+    -39.93211
+],
+  "geometry": {"coordinates":[175.04894999999999,-39.93211],"type":"Point"}
 }

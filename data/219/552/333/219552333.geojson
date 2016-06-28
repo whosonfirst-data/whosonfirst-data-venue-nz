@@ -2,13 +2,14 @@
   "id": 219552333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.82373,-36.916039,174.82373,-36.916039",
     "geom:latitude":-36.916039,
     "geom:longitude":174.82373,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Sims Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219552333,
-    "wof:lastmodified":1449071863,
+    "wof:lastmodified":1466312463,
     "wof:name":"Civic Wholesale (2000) Limited",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.82373,-36.916039,174.82373,-36.916039],
-  "geometry": {"coordinates":[174.82373,-36.916039],"type":"Point"}
+  "bbox": [
+    174.82373,
+    -36.916039,
+    174.82373,
+    -36.916039
+],
+  "geometry": {"coordinates":[174.82373000000001,-36.916039],"type":"Point"}
 }

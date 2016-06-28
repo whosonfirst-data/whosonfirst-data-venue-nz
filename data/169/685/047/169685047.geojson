@@ -2,13 +2,14 @@
   "id": 169685047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.692513,41.978073,-70.692513,41.978073",
     "geom:latitude":41.978073,
     "geom:longitude":-70.692513,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Govett Ave New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169685047,
-    "wof:lastmodified":1449035886,
+    "wof:lastmodified":1466310801,
     "wof:name":"The Barn Equestrian Supplies",
     "wof:parent_id":85812279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.692513,41.978073,-70.692513,41.978073],
-  "geometry": {"coordinates":[-70.692513,41.978073],"type":"Point"}
+  "bbox": [
+    -70.692513,
+    41.978073,
+    -70.692513,
+    41.978073
+],
+  "geometry": {"coordinates":[-70.69251300000001,41.978073],"type":"Point"}
 }

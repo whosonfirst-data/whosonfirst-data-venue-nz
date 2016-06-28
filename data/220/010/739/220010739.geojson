@@ -2,13 +2,14 @@
   "id": 220010739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.766861,-43.909218,171.766861,-43.909218",
     "geom:latitude":-43.909218,
     "geom:longitude":171.766861,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Wakanui Rd ",
     "sg:city":"Ashburton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220010739,
-    "wof:lastmodified":1449074540,
+    "wof:lastmodified":1466310887,
     "wof:name":"Ashburton Mortgage Solutions",
     "wof:parent_id":85781501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mortgage"
     ]
 },
-  "bbox": [171.766861,-43.909218,171.766861,-43.909218],
-  "geometry": {"coordinates":[171.766861,-43.909218],"type":"Point"}
+  "bbox": [
+    171.766861,
+    -43.909218,
+    171.766861,
+    -43.909218
+],
+  "geometry": {"coordinates":[171.76686100000001,-43.909218],"type":"Point"}
 }

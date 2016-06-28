@@ -2,13 +2,14 @@
   "id": 202803247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.005295,-37.177998,175.005295,-37.177998",
     "geom:latitude":-37.177998,
     "geom:longitude":175.005295,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Bombay to Hibiscus Coast ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202803247,
-    "wof:lastmodified":1449062684,
+    "wof:lastmodified":1466312448,
     "wof:name":"Stair Company Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "handrail"
     ]
 },
-  "bbox": [175.005295,-37.177998,175.005295,-37.177998],
-  "geometry": {"coordinates":[175.005295,-37.177998],"type":"Point"}
+  "bbox": [
+    175.005295,
+    -37.177998,
+    175.005295,
+    -37.177998
+],
+  "geometry": {"coordinates":[175.00529499999999,-37.177998],"type":"Point"}
 }

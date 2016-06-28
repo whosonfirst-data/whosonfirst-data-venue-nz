@@ -2,13 +2,14 @@
   "id": 202798065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.639725,-43.546795,172.639725,-43.546795",
     "geom:latitude":-43.546795,
     "geom:longitude":172.639725,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Maldon St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202798065,
-    "wof:lastmodified":1449060584,
+    "wof:lastmodified":1466312429,
     "wof:name":"Architectural Engineering Ltd",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "handrail"
     ]
 },
-  "bbox": [172.639725,-43.546795,172.639725,-43.546795],
+  "bbox": [
+    172.639725,
+    -43.546795,
+    172.639725,
+    -43.546795
+],
   "geometry": {"coordinates":[172.639725,-43.546795],"type":"Point"}
 }

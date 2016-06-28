@@ -2,13 +2,14 @@
   "id": 203354189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.051071,-39.932495,175.051071,-39.932495",
     "geom:latitude":-39.932495,
     "geom:longitude":175.051071,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"113 A Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203354189,
-    "wof:lastmodified":1449026658,
+    "wof:lastmodified":1466312407,
     "wof:name":"Pfeffers Shoe Store",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "wear"
     ]
 },
-  "bbox": [175.051071,-39.932495,175.051071,-39.932495],
-  "geometry": {"coordinates":[175.051071,-39.932495],"type":"Point"}
+  "bbox": [
+    175.051071,
+    -39.932495,
+    175.051071,
+    -39.932495
+],
+  "geometry": {"coordinates":[175.05107100000001,-39.932495],"type":"Point"}
 }

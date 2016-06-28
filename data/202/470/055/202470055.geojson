@@ -2,13 +2,14 @@
   "id": 202470055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.25087,-37.762959,175.25087,-37.762959",
     "geom:latitude":-37.762959,
     "geom:longitude":175.25087,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"431 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202470055,
-    "wof:lastmodified":1449060725,
+    "wof:lastmodified":1466311926,
     "wof:name":"Keyport",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [175.25087,-37.762959,175.25087,-37.762959],
-  "geometry": {"coordinates":[175.25087,-37.762959],"type":"Point"}
+  "bbox": [
+    175.25087,
+    -37.762959,
+    175.25087,
+    -37.762959
+],
+  "geometry": {"coordinates":[175.25086999999999,-37.762959],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220125273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.450363,-41.223949,175.450363,-41.223949",
     "geom:latitude":-41.223949,
     "geom:longitude":175.450363,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Jellicoe St ",
     "sg:city":"Martinborough",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":220125273,
-    "wof:lastmodified":1449074846,
+    "wof:lastmodified":1466310835,
     "wof:name":"Providore Food & Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "-"
     ]
 },
-  "bbox": [175.450363,-41.223949,175.450363,-41.223949],
-  "geometry": {"coordinates":[175.450363,-41.223949],"type":"Point"}
+  "bbox": [
+    175.450363,
+    -41.223949,
+    175.450363,
+    -41.223949
+],
+  "geometry": {"coordinates":[175.45036300000001,-41.223949],"type":"Point"}
 }

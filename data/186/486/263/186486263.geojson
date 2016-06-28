@@ -2,13 +2,14 @@
   "id": 186486263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.834183,-36.94437,174.834183,-36.94437",
     "geom:latitude":-36.94437,
     "geom:longitude":174.834183,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Saleyards Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186486263,
-    "wof:lastmodified":1449051878,
+    "wof:lastmodified":1466312837,
     "wof:name":"ABB Limited",
     "wof:parent_id":85778867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.834183,-36.94437,174.834183,-36.94437],
+  "bbox": [
+    174.834183,
+    -36.94437,
+    174.834183,
+    -36.94437
+],
   "geometry": {"coordinates":[174.834183,-36.94437],"type":"Point"}
 }

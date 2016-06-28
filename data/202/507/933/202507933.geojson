@@ -2,13 +2,14 @@
   "id": 202507933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.061005,-40.87318,175.061005,-40.87318",
     "geom:latitude":-40.87318,
     "geom:longitude":175.061005,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Kapiti Coast ",
     "sg:city":"Waikanae",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202507933,
-    "wof:lastmodified":1449061421,
+    "wof:lastmodified":1466310729,
     "wof:name":"Pauline Senior",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "treatment"
     ]
 },
-  "bbox": [175.061005,-40.87318,175.061005,-40.87318],
-  "geometry": {"coordinates":[175.061005,-40.87318],"type":"Point"}
+  "bbox": [
+    175.061005,
+    -40.87318,
+    175.061005,
+    -40.87318
+],
+  "geometry": {"coordinates":[175.06100499999999,-40.87318],"type":"Point"}
 }

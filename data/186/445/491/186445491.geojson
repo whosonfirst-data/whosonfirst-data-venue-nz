@@ -2,13 +2,14 @@
   "id": 186445491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.500061,-45.892681,170.500061,-45.892681",
     "geom:latitude":-45.892681,
     "geom:longitude":170.500061,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Hillside Rd South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186445491,
-    "wof:lastmodified":1449050666,
+    "wof:lastmodified":1466312690,
     "wof:name":"Dunedin Refrigeration (1998) Ltd",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.500061,-45.892681,170.500061,-45.892681],
-  "geometry": {"coordinates":[170.500061,-45.892681],"type":"Point"}
+  "bbox": [
+    170.500061,
+    -45.892681,
+    170.500061,
+    -45.892681
+],
+  "geometry": {"coordinates":[170.50006099999999,-45.892681],"type":"Point"}
 }

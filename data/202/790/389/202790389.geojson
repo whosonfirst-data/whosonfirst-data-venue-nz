@@ -2,13 +2,14 @@
   "id": 202790389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.003876,-40.91259,175.003876,-40.91259",
     "geom:latitude":-40.91259,
     "geom:longitude":175.003876,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Kapiti Rd ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202790389,
-    "wof:lastmodified":1449062069,
+    "wof:lastmodified":1466312512,
     "wof:name":"PlaceMakers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "kitchen"
     ]
 },
-  "bbox": [175.003876,-40.91259,175.003876,-40.91259],
-  "geometry": {"coordinates":[175.003876,-40.91259],"type":"Point"}
+  "bbox": [
+    175.003876,
+    -40.91259,
+    175.003876,
+    -40.91259
+],
+  "geometry": {"coordinates":[175.00387599999999,-40.91259],"type":"Point"}
 }

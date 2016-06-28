@@ -2,13 +2,14 @@
   "id": 186272839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.601334,-40.353207,175.601334,-40.353207",
     "geom:latitude":-40.353207,
     "geom:longitude":175.601334,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Waldegrave St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186272839,
-    "wof:lastmodified":1449052848,
+    "wof:lastmodified":1466312080,
     "wof:name":"Aero & General Instruments Ltd",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.601334,-40.353207,175.601334,-40.353207],
-  "geometry": {"coordinates":[175.601334,-40.353207],"type":"Point"}
+  "bbox": [
+    175.601334,
+    -40.353207,
+    175.601334,
+    -40.353207
+],
+  "geometry": {"coordinates":[175.60133400000001,-40.353207],"type":"Point"}
 }

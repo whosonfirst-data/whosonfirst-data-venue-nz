@@ -2,13 +2,14 @@
   "id": 220077541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.777069,-36.876522,174.777069,-36.876522",
     "geom:latitude":-36.876522,
     "geom:longitude":174.777069,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 3 24 Manukau Rd Epsom ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220077541,
-    "wof:lastmodified":1449074160,
+    "wof:lastmodified":1466311859,
     "wof:name":"Vintage Wines & Spirits Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distributor"
     ]
 },
-  "bbox": [174.777069,-36.876522,174.777069,-36.876522],
-  "geometry": {"coordinates":[174.777069,-36.876522],"type":"Point"}
+  "bbox": [
+    174.777069,
+    -36.876522,
+    174.777069,
+    -36.876522
+],
+  "geometry": {"coordinates":[174.77706900000001,-36.876522],"type":"Point"}
 }

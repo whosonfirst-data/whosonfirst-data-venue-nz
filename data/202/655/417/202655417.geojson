@@ -2,13 +2,14 @@
   "id": 202655417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.606354,-40.351894,175.606354,-40.351894",
     "geom:latitude":-40.351894,
     "geom:longitude":175.606354,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Maire St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202655417,
-    "wof:lastmodified":1449061560,
+    "wof:lastmodified":1466311969,
     "wof:name":"Plaster Decor",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plasterer"
     ]
 },
-  "bbox": [175.606354,-40.351894,175.606354,-40.351894],
-  "geometry": {"coordinates":[175.606354,-40.351894],"type":"Point"}
+  "bbox": [
+    175.606354,
+    -40.351894,
+    175.606354,
+    -40.351894
+],
+  "geometry": {"coordinates":[175.60635400000001,-40.351894],"type":"Point"}
 }

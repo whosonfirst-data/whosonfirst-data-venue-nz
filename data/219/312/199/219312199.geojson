@@ -2,13 +2,14 @@
   "id": 219312199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.451157,-41.089573,175.451157,-41.089573",
     "geom:latitude":-41.089573,
     "geom:longitude":175.451157,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Hospital Rd ",
     "sg:city":"Greytown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219312199,
-    "wof:lastmodified":1449072163,
+    "wof:lastmodified":1466311039,
     "wof:name":"Oak Estate Motor Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.451157,-41.089573,175.451157,-41.089573],
-  "geometry": {"coordinates":[175.451157,-41.089573],"type":"Point"}
+  "bbox": [
+    175.451157,
+    -41.089573,
+    175.451157,
+    -41.089573
+],
+  "geometry": {"coordinates":[175.45115699999999,-41.089573],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186498487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.348694,-45.876129,170.348694,-45.876129",
     "geom:latitude":-45.876129,
     "geom:longitude":170.348694,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Gordon Rd Mosgiel ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":186498487,
-    "wof:lastmodified":1449052356,
+    "wof:lastmodified":1466312763,
     "wof:name":"Healthworld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beauty"
     ]
 },
-  "bbox": [170.348694,-45.876129,170.348694,-45.876129],
-  "geometry": {"coordinates":[170.348694,-45.876129],"type":"Point"}
+  "bbox": [
+    170.348694,
+    -45.876129,
+    170.348694,
+    -45.876129
+],
+  "geometry": {"coordinates":[170.34869399999999,-45.876129],"type":"Point"}
 }

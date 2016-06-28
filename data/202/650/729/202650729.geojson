@@ -2,13 +2,14 @@
   "id": 202650729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.117981,-37.7104,176.117981,-37.7104",
     "geom:latitude":-37.7104,
     "geom:longitude":176.117981,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Barnsley Clo Bethlehem ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202650729,
-    "wof:lastmodified":1449061668,
+    "wof:lastmodified":1466311931,
     "wof:name":"Design Plasterers",
     "wof:parent_id":85772841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plasterer"
     ]
 },
-  "bbox": [176.117981,-37.7104,176.117981,-37.7104],
-  "geometry": {"coordinates":[176.117981,-37.7104],"type":"Point"}
+  "bbox": [
+    176.117981,
+    -37.7104,
+    176.117981,
+    -37.7104
+],
+  "geometry": {"coordinates":[176.11798099999999,-37.7104],"type":"Point"}
 }

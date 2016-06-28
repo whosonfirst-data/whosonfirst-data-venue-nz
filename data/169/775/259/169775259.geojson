@@ -2,13 +2,14 @@
   "id": 169775259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.440857,-36.67382,174.440857,-36.67382",
     "geom:latitude":-36.67382,
     "geom:longitude":174.440857,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2294 State Highway 16 ",
     "sg:city":"Helensville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169775259,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466311459,
     "wof:name":"Envy Shamrock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "retailers"
     ]
 },
-  "bbox": [174.440857,-36.67382,174.440857,-36.67382],
-  "geometry": {"coordinates":[174.440857,-36.67382],"type":"Point"}
+  "bbox": [
+    174.440857,
+    -36.67382,
+    174.440857,
+    -36.67382
+],
+  "geometry": {"coordinates":[174.44085699999999,-36.67382],"type":"Point"}
 }

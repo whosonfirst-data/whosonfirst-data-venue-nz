@@ -2,13 +2,14 @@
   "id": 185810771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.052475,-39.932995,175.052475,-39.932995",
     "geom:latitude":-39.932995,
     "geom:longitude":175.052475,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185810771,
-    "wof:lastmodified":1449007081,
+    "wof:lastmodified":1466311293,
     "wof:name":"Maxilab Wanganui Ltd",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "developing"
     ]
 },
-  "bbox": [175.052475,-39.932995,175.052475,-39.932995],
-  "geometry": {"coordinates":[175.052475,-39.932995],"type":"Point"}
+  "bbox": [
+    175.052475,
+    -39.932995,
+    175.052475,
+    -39.932995
+],
+  "geometry": {"coordinates":[175.05247499999999,-39.932995],"type":"Point"}
 }

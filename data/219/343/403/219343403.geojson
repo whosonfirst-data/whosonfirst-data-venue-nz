@@ -2,13 +2,14 @@
   "id": 219343403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.008362,-43.462543,170.008362,-43.462543",
     "geom:latitude":-43.462543,
     "geom:longitude":170.008362,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Cook Flat Rd Fox ",
     "sg:city":"Glacier",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219343403,
-    "wof:lastmodified":1449072908,
+    "wof:lastmodified":1466311282,
     "wof:name":"Rainforest Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accommodation"
     ]
 },
-  "bbox": [170.008362,-43.462543,170.008362,-43.462543],
-  "geometry": {"coordinates":[170.008362,-43.462543],"type":"Point"}
+  "bbox": [
+    170.008362,
+    -43.462543,
+    170.008362,
+    -43.462543
+],
+  "geometry": {"coordinates":[170.00836200000001,-43.462543],"type":"Point"}
 }

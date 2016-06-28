@@ -2,13 +2,14 @@
   "id": 202857115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.036865,-39.926743,175.036865,-39.926743",
     "geom:latitude":-39.926743,
     "geom:longitude":175.036865,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"178 Glasgow St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202857115,
-    "wof:lastmodified":1449061732,
+    "wof:lastmodified":1466312700,
     "wof:name":"Kitchen Creations",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "furnishing"
     ]
 },
-  "bbox": [175.036865,-39.926743,175.036865,-39.926743],
-  "geometry": {"coordinates":[175.036865,-39.926743],"type":"Point"}
+  "bbox": [
+    175.036865,
+    -39.926743,
+    175.036865,
+    -39.926743
+],
+  "geometry": {"coordinates":[175.03686500000001,-39.926743],"type":"Point"}
 }

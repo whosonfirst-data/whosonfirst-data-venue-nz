@@ -2,13 +2,14 @@
   "id": 203259629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.831482,-36.924507,174.831482,-36.924507",
     "geom:latitude":-36.924507,
     "geom:longitude":174.831482,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 C Gt South Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203259629,
-    "wof:lastmodified":1449025371,
+    "wof:lastmodified":1466311935,
     "wof:name":"Caprice Intimates",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [174.831482,-36.924507,174.831482,-36.924507],
-  "geometry": {"coordinates":[174.831482,-36.924507],"type":"Point"}
+  "bbox": [
+    174.831482,
+    -36.924507,
+    174.831482,
+    -36.924507
+],
+  "geometry": {"coordinates":[174.83148199999999,-36.924507],"type":"Point"}
 }

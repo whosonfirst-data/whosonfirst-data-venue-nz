@@ -2,13 +2,14 @@
   "id": 186131737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.793686,-37.815094,175.793686,-37.815094",
     "geom:latitude":-37.815094,
     "geom:longitude":175.793686,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Garland St ",
     "sg:city":"Matamata",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186131737,
-    "wof:lastmodified":1449051189,
+    "wof:lastmodified":1466310823,
     "wof:name":"Juno Engineering Matamata Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.793686,-37.815094,175.793686,-37.815094],
-  "geometry": {"coordinates":[175.793686,-37.815094],"type":"Point"}
+  "bbox": [
+    175.793686,
+    -37.815094,
+    175.793686,
+    -37.815094
+],
+  "geometry": {"coordinates":[175.79368600000001,-37.815094],"type":"Point"}
 }

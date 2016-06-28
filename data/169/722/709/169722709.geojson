@@ -2,13 +2,14 @@
   "id": 169722709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.361298,-46.427601,168.361298,-46.427601",
     "geom:latitude":-46.427601,
     "geom:longitude":168.361298,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"253 Elles Rd ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169722709,
-    "wof:lastmodified":1449033844,
+    "wof:lastmodified":1466311087,
     "wof:name":"South City Lotto & Stationers Ltd",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.361298,-46.427601,168.361298,-46.427601],
-  "geometry": {"coordinates":[168.361298,-46.427601],"type":"Point"}
+  "bbox": [
+    168.361298,
+    -46.427601,
+    168.361298,
+    -46.427601
+],
+  "geometry": {"coordinates":[168.36129800000001,-46.427601],"type":"Point"}
 }

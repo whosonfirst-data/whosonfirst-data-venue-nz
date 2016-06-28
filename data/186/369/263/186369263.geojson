@@ -2,13 +2,14 @@
   "id": 186369263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.882156,-41.220833,174.882156,-41.220833",
     "geom:latitude":-41.220833,
     "geom:longitude":174.882156,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21-27 Udy St Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186369263,
-    "wof:lastmodified":1449052905,
+    "wof:lastmodified":1466312406,
     "wof:name":"CPI Papers",
     "wof:parent_id":85782489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.882156,-41.220833,174.882156,-41.220833],
-  "geometry": {"coordinates":[174.882156,-41.220833],"type":"Point"}
+  "bbox": [
+    174.882156,
+    -41.220833,
+    174.882156,
+    -41.220833
+],
+  "geometry": {"coordinates":[174.88215600000001,-41.220833],"type":"Point"}
 }

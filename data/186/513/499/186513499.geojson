@@ -2,13 +2,14 @@
   "id": 186513499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.607895,-40.323399,175.607895,-40.323399",
     "geom:latitude":-40.323399,
     "geom:longitude":175.607895,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Madison Avenue MILSON Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186513499,
-    "wof:lastmodified":1449052139,
+    "wof:lastmodified":1466312796,
     "wof:name":"il Mio Cielo Salon",
     "wof:parent_id":85781015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "health"
     ]
 },
-  "bbox": [175.607895,-40.323399,175.607895,-40.323399],
-  "geometry": {"coordinates":[175.607895,-40.323399],"type":"Point"}
+  "bbox": [
+    175.607895,
+    -40.323399,
+    175.607895,
+    -40.323399
+],
+  "geometry": {"coordinates":[175.60789500000001,-40.323399],"type":"Point"}
 }

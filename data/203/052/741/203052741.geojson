@@ -2,13 +2,14 @@
   "id": 203052741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.626038,-36.889187,174.626038,-36.889187",
     "geom:latitude":-36.889187,
     "geom:longitude":174.626038,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Henderson Valley Rd ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203052741,
-    "wof:lastmodified":1449025766,
+    "wof:lastmodified":1466311561,
     "wof:name":"Modtezz Ltd",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [174.626038,-36.889187,174.626038,-36.889187],
-  "geometry": {"coordinates":[174.626038,-36.889187],"type":"Point"}
+  "bbox": [
+    174.626038,
+    -36.889187,
+    174.626038,
+    -36.889187
+],
+  "geometry": {"coordinates":[174.62603799999999,-36.889187],"type":"Point"}
 }

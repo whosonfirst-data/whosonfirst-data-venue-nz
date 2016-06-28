@@ -2,13 +2,14 @@
   "id": 219200611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.794235,-36.943462,174.794235,-36.943462",
     "geom:latitude":-36.943462,
     "geom:longitude":174.794235,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 A Mahunga Dve Mangere ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219200611,
-    "wof:lastmodified":1449071800,
+    "wof:lastmodified":1466311481,
     "wof:name":"New Zealand Van Lines Ltd",
     "wof:parent_id":85778435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.794235,-36.943462,174.794235,-36.943462],
-  "geometry": {"coordinates":[174.794235,-36.943462],"type":"Point"}
+  "bbox": [
+    174.794235,
+    -36.943462,
+    174.794235,
+    -36.943462
+],
+  "geometry": {"coordinates":[174.79423499999999,-36.943462],"type":"Point"}
 }

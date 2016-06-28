@@ -2,13 +2,14 @@
   "id": 169577925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.868423,-36.873055,174.868423,-36.873055",
     "geom:latitude":-36.873055,
     "geom:longitude":174.868423,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 18337 Glen Innes ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169577925,
-    "wof:lastmodified":1449036064,
+    "wof:lastmodified":1466311353,
     "wof:name":"Kiwi Stamp Circuit",
     "wof:parent_id":85778303,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hobby"
     ]
 },
-  "bbox": [174.868423,-36.873055,174.868423,-36.873055],
-  "geometry": {"coordinates":[174.868423,-36.873055],"type":"Point"}
+  "bbox": [
+    174.868423,
+    -36.873055,
+    174.868423,
+    -36.873055
+],
+  "geometry": {"coordinates":[174.86842300000001,-36.873055],"type":"Point"}
 }

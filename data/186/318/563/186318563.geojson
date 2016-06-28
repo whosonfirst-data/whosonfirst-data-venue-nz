@@ -2,13 +2,14 @@
   "id": 186318563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.814468,-36.918484,174.814468,-36.918484",
     "geom:latitude":-36.918484,
     "geom:longitude":174.814468,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Beasley Ave Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186318563,
-    "wof:lastmodified":1449050984,
+    "wof:lastmodified":1466312139,
     "wof:name":"Reoco Ltd",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.814468,-36.918484,174.814468,-36.918484],
-  "geometry": {"coordinates":[174.814468,-36.918484],"type":"Point"}
+  "bbox": [
+    174.814468,
+    -36.918484,
+    174.814468,
+    -36.918484
+],
+  "geometry": {"coordinates":[174.81446800000001,-36.918484],"type":"Point"}
 }

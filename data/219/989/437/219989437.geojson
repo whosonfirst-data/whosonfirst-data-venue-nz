@@ -2,13 +2,14 @@
   "id": 219989437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.835831,-40.458637,175.835831,-40.458637",
     "geom:latitude":-40.458637,
     "geom:longitude":175.835831,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"139 A Main St ",
     "sg:city":"Pahiatua",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219989437,
-    "wof:lastmodified":1449072992,
+    "wof:lastmodified":1466313179,
     "wof:name":"Greer Tony",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "finance"
     ]
 },
-  "bbox": [175.835831,-40.458637,175.835831,-40.458637],
-  "geometry": {"coordinates":[175.835831,-40.458637],"type":"Point"}
+  "bbox": [
+    175.835831,
+    -40.458637,
+    175.835831,
+    -40.458637
+],
+  "geometry": {"coordinates":[175.83583100000001,-40.458637],"type":"Point"}
 }

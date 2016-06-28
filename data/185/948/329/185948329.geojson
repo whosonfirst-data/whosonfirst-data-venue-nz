@@ -2,13 +2,14 @@
   "id": 185948329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.704742,-43.49366,172.704742,-43.49366",
     "geom:latitude":-43.49366,
     "geom:longitude":172.704742,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Travis Rd North New Brighton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185948329,
-    "wof:lastmodified":1449007892,
+    "wof:lastmodified":1466312335,
     "wof:name":"QEII Park",
     "wof:parent_id":85778899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "facility"
     ]
 },
-  "bbox": [172.704742,-43.49366,172.704742,-43.49366],
-  "geometry": {"coordinates":[172.704742,-43.49366],"type":"Point"}
+  "bbox": [
+    172.704742,
+    -43.49366,
+    172.704742,
+    -43.49366
+],
+  "geometry": {"coordinates":[172.70474200000001,-43.49366],"type":"Point"}
 }

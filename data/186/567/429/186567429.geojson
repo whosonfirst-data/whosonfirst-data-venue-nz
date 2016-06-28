@@ -2,13 +2,14 @@
   "id": 186567429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.932449,-41.509144,173.932449,-41.509144",
     "geom:latitude":-41.509144,
     "geom:longitude":173.932449,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Middle Renwick Rd Springlands ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186567429,
-    "wof:lastmodified":1449053045,
+    "wof:lastmodified":1466312928,
     "wof:name":"Springlands Dental Practice",
     "wof:parent_id":85781567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "beauty"
     ]
 },
-  "bbox": [173.932449,-41.509144,173.932449,-41.509144],
-  "geometry": {"coordinates":[173.932449,-41.509144],"type":"Point"}
+  "bbox": [
+    173.932449,
+    -41.509144,
+    173.932449,
+    -41.509144
+],
+  "geometry": {"coordinates":[173.93244899999999,-41.509144],"type":"Point"}
 }

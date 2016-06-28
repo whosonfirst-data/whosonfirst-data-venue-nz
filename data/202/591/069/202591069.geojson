@@ -2,13 +2,14 @@
   "id": 202591069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.945419,-41.261173,174.945419,-41.261173",
     "geom:latitude":-41.261173,
     "geom:longitude":174.945419,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Queen St Wainuiomata Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202591069,
-    "wof:lastmodified":1449061470,
+    "wof:lastmodified":1466311443,
     "wof:name":"Paulik Decorating and Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.945419,-41.261173,174.945419,-41.261173],
-  "geometry": {"coordinates":[174.945419,-41.261173],"type":"Point"}
+  "bbox": [
+    174.945419,
+    -41.261173,
+    174.945419,
+    -41.261173
+],
+  "geometry": {"coordinates":[174.94541899999999,-41.261173],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219852725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.240356,-37.7756,175.240356,-37.7756",
     "geom:latitude":-37.7756,
     "geom:longitude":175.240356,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Karaka St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219852725,
-    "wof:lastmodified":1449073319,
+    "wof:lastmodified":1466312999,
     "wof:name":"Rainbow Honey & Hiveware",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.240356,-37.7756,175.240356,-37.7756],
-  "geometry": {"coordinates":[175.240356,-37.7756],"type":"Point"}
+  "bbox": [
+    175.240356,
+    -37.7756,
+    175.240356,
+    -37.7756
+],
+  "geometry": {"coordinates":[175.24035599999999,-37.7756],"type":"Point"}
 }

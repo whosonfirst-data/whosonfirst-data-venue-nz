@@ -2,13 +2,14 @@
   "id": 220184353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.825256,-36.966888,174.825256,-36.966888",
     "geom:latitude":-36.966888,
     "geom:longitude":174.825256,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"376 Massey Rd Mangere ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220184353,
-    "wof:lastmodified":1449074177,
+    "wof:lastmodified":1466311335,
     "wof:name":"Meat World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [174.825256,-36.966888,174.825256,-36.966888],
+  "bbox": [
+    174.825256,
+    -36.966888,
+    174.825256,
+    -36.966888
+],
   "geometry": {"coordinates":[174.825256,-36.966888],"type":"Point"}
 }

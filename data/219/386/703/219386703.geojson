@@ -2,13 +2,14 @@
   "id": 219386703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.900635,-36.927757,174.900635,-36.927757",
     "geom:latitude":-36.927757,
     "geom:longitude":174.900635,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"333 Ti Rakau Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219386703,
-    "wof:lastmodified":1449072233,
+    "wof:lastmodified":1466311666,
     "wof:name":"Katrina Cole House Of Travel",
     "wof:parent_id":85781725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broker"
     ]
 },
-  "bbox": [174.900635,-36.927757,174.900635,-36.927757],
-  "geometry": {"coordinates":[174.900635,-36.927757],"type":"Point"}
+  "bbox": [
+    174.900635,
+    -36.927757,
+    174.900635,
+    -36.927757
+],
+  "geometry": {"coordinates":[174.90063499999999,-36.927757],"type":"Point"}
 }

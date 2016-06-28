@@ -2,13 +2,14 @@
   "id": 203344997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.732697,-36.878799,174.732697,-36.878799",
     "geom:latitude":-36.878799,
     "geom:longitude":174.732697,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Morningside Dve Morningside ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203344997,
-    "wof:lastmodified":1449025046,
+    "wof:lastmodified":1466312381,
     "wof:name":"Texon New Zealand Ltd",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "footwear"
     ]
 },
-  "bbox": [174.732697,-36.878799,174.732697,-36.878799],
+  "bbox": [
+    174.732697,
+    -36.878799,
+    174.732697,
+    -36.878799
+],
   "geometry": {"coordinates":[174.732697,-36.878799],"type":"Point"}
 }

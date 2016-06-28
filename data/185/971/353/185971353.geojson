@@ -2,13 +2,14 @@
   "id": 185971353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.288483,-38.023323,177.288483,-38.023323",
     "geom:latitude":-38.023323,
     "geom:longitude":177.288483,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Waioeka Rd ",
     "sg:city":"Opotiki",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":185971353,
-    "wof:lastmodified":1449007447,
+    "wof:lastmodified":1466312405,
     "wof:name":"Riverloch Packhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "cool"
     ]
 },
-  "bbox": [177.288483,-38.023323,177.288483,-38.023323],
-  "geometry": {"coordinates":[177.288483,-38.023323],"type":"Point"}
+  "bbox": [
+    177.288483,
+    -38.023323,
+    177.288483,
+    -38.023323
+],
+  "geometry": {"coordinates":[177.28848300000001,-38.023323],"type":"Point"}
 }

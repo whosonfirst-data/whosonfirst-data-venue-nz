@@ -2,13 +2,14 @@
   "id": 220094143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.347626,-46.374653,168.347626,-46.374653",
     "geom:latitude":-46.374653,
     "geom:longitude":168.347626,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"332 North Rd Waikiwi ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220094143,
-    "wof:lastmodified":1449074550,
+    "wof:lastmodified":1466310555,
     "wof:name":"Bells Bakery Waikiwi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "-"
     ]
 },
-  "bbox": [168.347626,-46.374653,168.347626,-46.374653],
-  "geometry": {"coordinates":[168.347626,-46.374653],"type":"Point"}
+  "bbox": [
+    168.347626,
+    -46.374653,
+    168.347626,
+    -46.374653
+],
+  "geometry": {"coordinates":[168.34762599999999,-46.374653],"type":"Point"}
 }

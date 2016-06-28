@@ -2,13 +2,14 @@
   "id": 236027431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.90976,-39.670765,176.90976,-39.670765",
     "geom:latitude":-39.670765,
     "geom:longitude":176.90976,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Te Mata Rd Havelock North ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236027431,
-    "wof:lastmodified":1449002137,
+    "wof:lastmodified":1466311085,
     "wof:name":"Bradshaw Estate Winery & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [176.90976,-39.670765,176.90976,-39.670765],
-  "geometry": {"coordinates":[176.90976,-39.670765],"type":"Point"}
+  "bbox": [
+    176.90976,
+    -39.670765,
+    176.90976,
+    -39.670765
+],
+  "geometry": {"coordinates":[176.90976000000001,-39.670765],"type":"Point"}
 }

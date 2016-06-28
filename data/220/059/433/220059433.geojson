@@ -2,13 +2,14 @@
   "id": 220059433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.630264,-43.567249,172.630264,-43.567249",
     "geom:latitude":-43.567249,
     "geom:longitude":172.630264,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Cashmere Rd Cashmere ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220059433,
-    "wof:lastmodified":1449074236,
+    "wof:lastmodified":1466311724,
     "wof:name":"Cashmere Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "outlet"
     ]
 },
-  "bbox": [172.630264,-43.567249,172.630264,-43.567249],
-  "geometry": {"coordinates":[172.630264,-43.567249],"type":"Point"}
+  "bbox": [
+    172.630264,
+    -43.567249,
+    172.630264,
+    -43.567249
+],
+  "geometry": {"coordinates":[172.63026400000001,-43.567249],"type":"Point"}
 }

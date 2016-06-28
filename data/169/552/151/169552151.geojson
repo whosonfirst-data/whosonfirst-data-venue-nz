@@ -2,13 +2,14 @@
   "id": 169552151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.275253,-37.737537,175.275253,-37.737537",
     "geom:latitude":-37.737537,
     "geom:longitude":175.275253,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 206 Chartwell Sq ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169552151,
-    "wof:lastmodified":1449034053,
+    "wof:lastmodified":1466310830,
     "wof:name":"House Of Lingerie",
     "wof:parent_id":85781849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.275253,-37.737537,175.275253,-37.737537],
-  "geometry": {"coordinates":[175.275253,-37.737537],"type":"Point"}
+  "bbox": [
+    175.275253,
+    -37.737537,
+    175.275253,
+    -37.737537
+],
+  "geometry": {"coordinates":[175.27525299999999,-37.737537],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169580459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.621017,-45.849312,170.621017,-45.849312",
     "geom:latitude":-45.849312,
     "geom:longitude":170.621017,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Waikana St Broad Bay ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169580459,
-    "wof:lastmodified":1449034914,
+    "wof:lastmodified":1466311395,
     "wof:name":"Broad Bay China",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.621017,-45.849312,170.621017,-45.849312],
-  "geometry": {"coordinates":[170.621017,-45.849312],"type":"Point"}
+  "bbox": [
+    170.621017,
+    -45.849312,
+    170.621017,
+    -45.849312
+],
+  "geometry": {"coordinates":[170.62101699999999,-45.849312],"type":"Point"}
 }

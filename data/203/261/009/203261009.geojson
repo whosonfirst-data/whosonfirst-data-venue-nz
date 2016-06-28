@@ -2,13 +2,14 @@
   "id": 203261009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764801,-36.791775,174.764801,-36.791775",
     "geom:latitude":-36.791775,
     "geom:longitude":174.764801,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Barry Point Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203261009,
-    "wof:lastmodified":1449024976,
+    "wof:lastmodified":1466311949,
     "wof:name":"Maternity Essentials",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wear"
     ]
 },
-  "bbox": [174.764801,-36.791775,174.764801,-36.791775],
-  "geometry": {"coordinates":[174.764801,-36.791775],"type":"Point"}
+  "bbox": [
+    174.764801,
+    -36.791775,
+    174.764801,
+    -36.791775
+],
+  "geometry": {"coordinates":[174.76480100000001,-36.791775],"type":"Point"}
 }

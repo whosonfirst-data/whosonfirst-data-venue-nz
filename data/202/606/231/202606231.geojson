@@ -2,13 +2,14 @@
   "id": 202606231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.665115,-36.401459,174.665115,-36.401459",
     "geom:latitude":-36.401459,
     "geom:longitude":174.665115,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Tongue Farm Rd Matakana ",
     "sg:city":"Warkworth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202606231,
-    "wof:lastmodified":1449060499,
+    "wof:lastmodified":1466311569,
     "wof:name":"Morris & James Pottery Tileworks Cafe-Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [174.665115,-36.401459,174.665115,-36.401459],
-  "geometry": {"coordinates":[174.665115,-36.401459],"type":"Point"}
+  "bbox": [
+    174.665115,
+    -36.401459,
+    174.665115,
+    -36.401459
+],
+  "geometry": {"coordinates":[174.66511499999999,-36.401459],"type":"Point"}
 }

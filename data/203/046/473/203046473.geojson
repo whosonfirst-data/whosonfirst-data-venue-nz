@@ -2,13 +2,14 @@
   "id": 203046473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.916443,-39.49107,176.916443,-39.49107",
     "geom:latitude":-39.49107,
     "geom:longitude":176.916443,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hawkes Bay ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203046473,
-    "wof:lastmodified":1449025996,
+    "wof:lastmodified":1466311436,
     "wof:name":"Moduline Fencing",
     "wof:parent_id":85782461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [176.916443,-39.49107,176.916443,-39.49107],
-  "geometry": {"coordinates":[176.916443,-39.49107],"type":"Point"}
+  "bbox": [
+    176.916443,
+    -39.49107,
+    176.916443,
+    -39.49107
+],
+  "geometry": {"coordinates":[176.91644299999999,-39.49107],"type":"Point"}
 }

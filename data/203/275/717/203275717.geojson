@@ -2,13 +2,14 @@
   "id": 203275717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.169159,-37.683529,176.169159,-37.683529",
     "geom:latitude":-37.683529,
     "geom:longitude":176.169159,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Wharf St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203275717,
-    "wof:lastmodified":1449025521,
+    "wof:lastmodified":1466312114,
     "wof:name":"Allen's Tailoring",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.169159,-37.683529,176.169159,-37.683529],
-  "geometry": {"coordinates":[176.169159,-37.683529],"type":"Point"}
+  "bbox": [
+    176.169159,
+    -37.683529,
+    176.169159,
+    -37.683529
+],
+  "geometry": {"coordinates":[176.16915900000001,-37.683529],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169819153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.320496,-35.725101,174.320496,-35.725101",
     "geom:latitude":-35.725101,
     "geom:longitude":174.320496,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Rathbone St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169819153,
-    "wof:lastmodified":1449033480,
+    "wof:lastmodified":1466311796,
     "wof:name":"Canterbury Of Whangarei",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.320496,-35.725101,174.320496,-35.725101],
-  "geometry": {"coordinates":[174.320496,-35.725101],"type":"Point"}
+  "bbox": [
+    174.320496,
+    -35.725101,
+    174.320496,
+    -35.725101
+],
+  "geometry": {"coordinates":[174.32049599999999,-35.725101],"type":"Point"}
 }

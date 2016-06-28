@@ -2,13 +2,14 @@
   "id": 219975239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.545395,-36.77232,174.545395,-36.77232",
     "geom:latitude":-36.77232,
     "geom:longitude":174.545395,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 16 ",
     "sg:city":"Kumeu",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219975239,
-    "wof:lastmodified":1449073423,
+    "wof:lastmodified":1466313174,
     "wof:name":"Wrightson Agricentre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "supply"
     ]
 },
-  "bbox": [174.545395,-36.77232,174.545395,-36.77232],
-  "geometry": {"coordinates":[174.545395,-36.77232],"type":"Point"}
+  "bbox": [
+    174.545395,
+    -36.77232,
+    174.545395,
+    -36.77232
+],
+  "geometry": {"coordinates":[174.54539500000001,-36.77232],"type":"Point"}
 }

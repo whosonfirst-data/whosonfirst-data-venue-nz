@@ -2,13 +2,14 @@
   "id": 219238195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.781525,-36.976902,174.781525,-36.976902",
     "geom:latitude":-36.976902,
     "geom:longitude":174.781525,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Rennie Dve Mangere ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219238195,
-    "wof:lastmodified":1449071711,
+    "wof:lastmodified":1466311903,
     "wof:name":"Crayford Freight Services (NZ) Ltd",
     "wof:parent_id":85781401,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.781525,-36.976902,174.781525,-36.976902],
-  "geometry": {"coordinates":[174.781525,-36.976902],"type":"Point"}
+  "bbox": [
+    174.781525,
+    -36.976902,
+    174.781525,
+    -36.976902
+],
+  "geometry": {"coordinates":[174.78152499999999,-36.976902],"type":"Point"}
 }

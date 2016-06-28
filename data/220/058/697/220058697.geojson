@@ -2,13 +2,14 @@
   "id": 220058697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.254196,-38.153084,176.254196,-38.153084",
     "geom:latitude":-38.153084,
     "geom:longitude":176.254196,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Maidavale St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220058697,
-    "wof:lastmodified":1449074152,
+    "wof:lastmodified":1466311723,
     "wof:name":"Cheep Liquor Drive In",
     "wof:parent_id":85781243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "outlet"
     ]
 },
-  "bbox": [176.254196,-38.153084,176.254196,-38.153084],
-  "geometry": {"coordinates":[176.254196,-38.153084],"type":"Point"}
+  "bbox": [
+    176.254196,
+    -38.153084,
+    176.254196,
+    -38.153084
+],
+  "geometry": {"coordinates":[176.25419600000001,-38.153084],"type":"Point"}
 }

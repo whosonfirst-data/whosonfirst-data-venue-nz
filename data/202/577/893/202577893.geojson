@@ -2,13 +2,14 @@
   "id": 202577893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.743912,-36.871429,174.743912,-36.871429",
     "geom:latitude":-36.871429,
     "geom:longitude":174.743912,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 First Ave Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202577893,
-    "wof:lastmodified":1449062751,
+    "wof:lastmodified":1466311334,
     "wof:name":"Steiner Studios Ltd",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.743912,-36.871429,174.743912,-36.871429],
-  "geometry": {"coordinates":[174.743912,-36.871429],"type":"Point"}
+  "bbox": [
+    174.743912,
+    -36.871429,
+    174.743912,
+    -36.871429
+],
+  "geometry": {"coordinates":[174.74391199999999,-36.871429],"type":"Point"}
 }

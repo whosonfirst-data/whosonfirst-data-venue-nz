@@ -2,13 +2,14 @@
   "id": 219472601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.264648,-45.916931,170.264648,-45.916931",
     "geom:latitude":-45.916931,
     "geom:longitude":170.264648,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Bardsey St Allanton ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219472601,
-    "wof:lastmodified":1449070665,
+    "wof:lastmodified":1466312110,
     "wof:name":"Allanton School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.264648,-45.916931,170.264648,-45.916931],
-  "geometry": {"coordinates":[170.264648,-45.916931],"type":"Point"}
+  "bbox": [
+    170.264648,
+    -45.916931,
+    170.264648,
+    -45.916931
+],
+  "geometry": {"coordinates":[170.26464799999999,-45.916931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219673663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.925903,-36.904961,174.925903,-36.904961",
     "geom:latitude":-36.904961,
     "geom:longitude":174.925903,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"247 Moore St Howick ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219673663,
-    "wof:lastmodified":1449071755,
+    "wof:lastmodified":1466312751,
     "wof:name":"Hayne's Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.925903,-36.904961,174.925903,-36.904961],
-  "geometry": {"coordinates":[174.925903,-36.904961],"type":"Point"}
+  "bbox": [
+    174.925903,
+    -36.904961,
+    174.925903,
+    -36.904961
+],
+  "geometry": {"coordinates":[174.92590300000001,-36.904961],"type":"Point"}
 }

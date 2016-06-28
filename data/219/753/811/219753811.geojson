@@ -2,13 +2,14 @@
   "id": 219753811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-107.724693,35.066238,-107.724693,35.066238",
     "geom:latitude":35.066238,
     "geom:longitude":-107.724693,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Anzac Pde & Jones ",
     "sg:city":"St",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219753811,
-    "wof:lastmodified":1449070805,
+    "wof:lastmodified":1466312997,
     "wof:name":"Wanganui East Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "servicing"
     ]
 },
-  "bbox": [-107.724693,35.066238,-107.724693,35.066238],
+  "bbox": [
+    -107.724693,
+    35.066238,
+    -107.724693,
+    35.066238
+],
   "geometry": {"coordinates":[-107.724693,35.066238],"type":"Point"}
 }

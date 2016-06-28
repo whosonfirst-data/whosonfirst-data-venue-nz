@@ -2,13 +2,14 @@
   "id": 219973701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.227692,-38.165966,176.227692,-38.165966",
     "geom:latitude":-38.165966,
     "geom:longitude":176.227692,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Tihi Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219973701,
-    "wof:lastmodified":1449072506,
+    "wof:lastmodified":1466313174,
     "wof:name":"Wheadon M C",
     "wof:parent_id":85781243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [176.227692,-38.165966,176.227692,-38.165966],
-  "geometry": {"coordinates":[176.227692,-38.165966],"type":"Point"}
+  "bbox": [
+    176.227692,
+    -38.165966,
+    176.227692,
+    -38.165966
+],
+  "geometry": {"coordinates":[176.22769199999999,-38.165966],"type":"Point"}
 }

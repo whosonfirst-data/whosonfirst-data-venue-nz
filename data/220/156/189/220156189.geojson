@@ -2,13 +2,14 @@
   "id": 220156189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.77948,-41.312023,174.77948,-41.312023",
     "geom:latitude":-41.312023,
     "geom:longitude":174.77948,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Riddiford St Newtown ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220156189,
-    "wof:lastmodified":1449074201,
+    "wof:lastmodified":1466311118,
     "wof:name":"Hoons Foodmarket",
     "wof:parent_id":85778491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "veges"
     ]
 },
-  "bbox": [174.77948,-41.312023,174.77948,-41.312023],
-  "geometry": {"coordinates":[174.77948,-41.312023],"type":"Point"}
+  "bbox": [
+    174.77948,
+    -41.312023,
+    174.77948,
+    -41.312023
+],
+  "geometry": {"coordinates":[174.77948000000001,-41.312023],"type":"Point"}
 }

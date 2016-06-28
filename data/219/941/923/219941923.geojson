@@ -2,13 +2,14 @@
   "id": 219941923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.609299,-40.354008,175.609299,-40.354008",
     "geom:latitude":-40.354008,
     "geom:longitude":175.609299,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Rangitikei St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219941923,
-    "wof:lastmodified":1449072495,
+    "wof:lastmodified":1466313111,
     "wof:name":"United Bloodstock Ltd",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.609299,-40.354008,175.609299,-40.354008],
-  "geometry": {"coordinates":[175.609299,-40.354008],"type":"Point"}
+  "bbox": [
+    175.609299,
+    -40.354008,
+    175.609299,
+    -40.354008
+],
+  "geometry": {"coordinates":[175.60929899999999,-40.354008],"type":"Point"}
 }

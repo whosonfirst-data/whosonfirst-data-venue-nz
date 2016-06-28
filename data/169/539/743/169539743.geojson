@@ -2,13 +2,14 @@
   "id": 169539743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.972031,-45.096149,170.972031,-45.096149",
     "geom:latitude":-45.096149,
     "geom:longitude":170.972031,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"207 A Thames St ",
     "sg:city":"Oamaru",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169539743,
-    "wof:lastmodified":1449036038,
+    "wof:lastmodified":1466310632,
     "wof:name":"Whitestone 100 FM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"
     ]
 },
-  "bbox": [170.972031,-45.096149,170.972031,-45.096149],
-  "geometry": {"coordinates":[170.972031,-45.096149],"type":"Point"}
+  "bbox": [
+    170.972031,
+    -45.096149,
+    170.972031,
+    -45.096149
+],
+  "geometry": {"coordinates":[170.97203099999999,-45.096149],"type":"Point"}
 }

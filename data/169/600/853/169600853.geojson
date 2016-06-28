@@ -2,13 +2,14 @@
   "id": 169600853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.77774,-41.281788,174.77774,-41.281788",
     "geom:latitude":-41.281788,
     "geom:longitude":174.77774,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Featherston St ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169600853,
-    "wof:lastmodified":1449032971,
+    "wof:lastmodified":1466311650,
     "wof:name":"Crossroads Bookshop and Gallery",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.77774,-41.281788,174.77774,-41.281788],
-  "geometry": {"coordinates":[174.77774,-41.281788],"type":"Point"}
+  "bbox": [
+    174.77774,
+    -41.281788,
+    174.77774,
+    -41.281788
+],
+  "geometry": {"coordinates":[174.77773999999999,-41.281788],"type":"Point"}
 }

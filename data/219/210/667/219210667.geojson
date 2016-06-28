@@ -2,13 +2,14 @@
   "id": 219210667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.314857,40.952808,-75.314857,40.952808",
     "geom:latitude":40.952808,
     "geom:longitude":-75.314857,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 469 ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219210667,
-    "wof:lastmodified":1449071600,
+    "wof:lastmodified":1466311593,
     "wof:name":"Courier Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.314857,40.952808,-75.314857,40.952808],
+  "bbox": [
+    -75.314857,
+    40.952808,
+    -75.314857,
+    40.952808
+],
   "geometry": {"coordinates":[-75.314857,40.952808],"type":"Point"}
 }

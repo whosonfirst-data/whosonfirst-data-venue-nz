@@ -2,13 +2,14 @@
   "id": 219641891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.87825,-39.501522,176.87825,-39.501522",
     "geom:latitude":-39.501522,
     "geom:longitude":176.87825,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Lipton Pl Onekawa ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219641891,
-    "wof:lastmodified":1449073083,
+    "wof:lastmodified":1466312610,
     "wof:name":"Classic Autoworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "supplies"
     ]
 },
-  "bbox": [176.87825,-39.501522,176.87825,-39.501522],
-  "geometry": {"coordinates":[176.87825,-39.501522],"type":"Point"}
+  "bbox": [
+    176.87825,
+    -39.501522,
+    176.87825,
+    -39.501522
+],
+  "geometry": {"coordinates":[176.87825000000001,-39.501522],"type":"Point"}
 }

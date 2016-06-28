@@ -2,13 +2,14 @@
   "id": 203119005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.210434,-39.059711,174.210434,-39.059711",
     "geom:latitude":-39.059711,
     "geom:longitude":174.210434,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"318 Mountain Rd New Plymouth ",
     "sg:city":"Lepperton",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":203119005,
-    "wof:lastmodified":1449026322,
+    "wof:lastmodified":1466310687,
     "wof:name":"Ashcote Boarding Cattery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "garden"
     ]
 },
-  "bbox": [174.210434,-39.059711,174.210434,-39.059711],
-  "geometry": {"coordinates":[174.210434,-39.059711],"type":"Point"}
+  "bbox": [
+    174.210434,
+    -39.059711,
+    174.210434,
+    -39.059711
+],
+  "geometry": {"coordinates":[174.21043399999999,-39.059711],"type":"Point"}
 }

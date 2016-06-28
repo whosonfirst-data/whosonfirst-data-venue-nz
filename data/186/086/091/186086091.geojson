@@ -2,13 +2,14 @@
   "id": 186086091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.738594,40.22834,-74.738594,40.22834",
     "geom:latitude":40.22834,
     "geom:longitude":-74.738594,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"131-135 Ward St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186086091,
-    "wof:lastmodified":1449052164,
+    "wof:lastmodified":1466311909,
     "wof:name":"Dick Smith Electronics",
     "wof:parent_id":85848949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.738594,40.22834,-74.738594,40.22834],
-  "geometry": {"coordinates":[-74.738594,40.22834],"type":"Point"}
+  "bbox": [
+    -74.738594,
+    40.22834,
+    -74.738594,
+    40.22834
+],
+  "geometry": {"coordinates":[-74.73859400000001,40.22834],"type":"Point"}
 }

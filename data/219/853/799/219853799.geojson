@@ -2,13 +2,14 @@
   "id": 219853799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.290207,-44.141129,171.290207,-44.141129",
     "geom:latitude":-44.141129,
     "geom:longitude":171.290207,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Gladstone St S Orari ",
     "sg:city":"Geraldine",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219853799,
-    "wof:lastmodified":1449071814,
+    "wof:lastmodified":1466313145,
     "wof:name":"New Zealand Beeswax Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [171.290207,-44.141129,171.290207,-44.141129],
-  "geometry": {"coordinates":[171.290207,-44.141129],"type":"Point"}
+  "bbox": [
+    171.290207,
+    -44.141129,
+    171.290207,
+    -44.141129
+],
+  "geometry": {"coordinates":[171.29020700000001,-44.141129],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202850607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.227173,-38.121674,176.227173,-38.121674",
     "geom:latitude":-38.121674,
     "geom:longitude":176.227173,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Maisey Pl ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202850607,
-    "wof:lastmodified":1449061579,
+    "wof:lastmodified":1466312617,
     "wof:name":"The Polish Shop",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "finishing"
     ]
 },
-  "bbox": [176.227173,-38.121674,176.227173,-38.121674],
-  "geometry": {"coordinates":[176.227173,-38.121674],"type":"Point"}
+  "bbox": [
+    176.227173,
+    -38.121674,
+    176.227173,
+    -38.121674
+],
+  "geometry": {"coordinates":[176.22717299999999,-38.121674],"type":"Point"}
 }

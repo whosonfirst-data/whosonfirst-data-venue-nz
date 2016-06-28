@@ -2,13 +2,14 @@
   "id": 219693163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.250916,-37.762356,175.250916,-37.762356",
     "geom:latitude":-37.762356,
     "geom:longitude":175.250916,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"438 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219693163,
-    "wof:lastmodified":1449070587,
+    "wof:lastmodified":1466312811,
     "wof:name":"Colin Walker Wholesale Ltd",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.250916,-37.762356,175.250916,-37.762356],
-  "geometry": {"coordinates":[175.250916,-37.762356],"type":"Point"}
+  "bbox": [
+    175.250916,
+    -37.762356,
+    175.250916,
+    -37.762356
+],
+  "geometry": {"coordinates":[175.25091599999999,-37.762356],"type":"Point"}
 }

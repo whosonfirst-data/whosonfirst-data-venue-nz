@@ -2,13 +2,14 @@
   "id": 169599437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.050354,-39.931145,175.050354,-39.931145",
     "geom:latitude":-39.931145,
     "geom:longitude":175.050354,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Guyton St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169599437,
-    "wof:lastmodified":1449034207,
+    "wof:lastmodified":1466311623,
     "wof:name":"Bookman's Quality Books & Records",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.050354,-39.931145,175.050354,-39.931145],
+  "bbox": [
+    175.050354,
+    -39.931145,
+    175.050354,
+    -39.931145
+],
   "geometry": {"coordinates":[175.050354,-39.931145],"type":"Point"}
 }

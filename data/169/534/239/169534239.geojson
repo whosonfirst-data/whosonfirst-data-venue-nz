@@ -2,13 +2,14 @@
   "id": 169534239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.728653,-43.657902,172.728653,-43.657902",
     "geom:latitude":-43.657902,
     "geom:longitude":172.728653,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"University of Canterbury",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169534239,
-    "wof:lastmodified":1449033545,
+    "wof:lastmodified":1466310548,
     "wof:name":"Westpac Banking Corp.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.728653,-43.657902,172.728653,-43.657902],
-  "geometry": {"coordinates":[172.728653,-43.657902],"type":"Point"}
+  "bbox": [
+    172.728653,
+    -43.657902,
+    172.728653,
+    -43.657902
+],
+  "geometry": {"coordinates":[172.72865300000001,-43.657902],"type":"Point"}
 }

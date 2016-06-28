@@ -2,13 +2,14 @@
   "id": 219723753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.821747,-36.915318,174.821747,-36.915318",
     "geom:latitude":-36.915318,
     "geom:longitude":174.821747,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Gt South Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219723753,
-    "wof:lastmodified":1449072445,
+    "wof:lastmodified":1466312927,
     "wof:name":"Ray Vincent Ltd",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [174.821747,-36.915318,174.821747,-36.915318],
-  "geometry": {"coordinates":[174.821747,-36.915318],"type":"Point"}
+  "bbox": [
+    174.821747,
+    -36.915318,
+    174.821747,
+    -36.915318
+],
+  "geometry": {"coordinates":[174.82174699999999,-36.915318],"type":"Point"}
 }

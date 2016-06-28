@@ -2,13 +2,14 @@
   "id": 202909629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.884811,-38.23695,175.884811,-38.23695",
     "geom:latitude":-38.23695,
     "geom:longitude":175.884811,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Lochmaben Rd ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202909629,
-    "wof:lastmodified":1449062022,
+    "wof:lastmodified":1466312808,
     "wof:name":"B & M Growers",
     "wof:parent_id":85780831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gardening"
     ]
 },
-  "bbox": [175.884811,-38.23695,175.884811,-38.23695],
-  "geometry": {"coordinates":[175.884811,-38.23695],"type":"Point"}
+  "bbox": [
+    175.884811,
+    -38.23695,
+    175.884811,
+    -38.23695
+],
+  "geometry": {"coordinates":[175.88481100000001,-38.23695],"type":"Point"}
 }

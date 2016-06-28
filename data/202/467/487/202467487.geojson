@@ -2,13 +2,14 @@
   "id": 202467487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.794754,-36.892223,174.794754,-36.892223",
     "geom:latitude":-36.892223,
     "geom:longitude":174.794754,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Puriri Ave Greenlane ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202467487,
-    "wof:lastmodified":1449062110,
+    "wof:lastmodified":1466311886,
     "wof:name":"B V Medical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.794754,-36.892223,174.794754,-36.892223],
-  "geometry": {"coordinates":[174.794754,-36.892223],"type":"Point"}
+  "bbox": [
+    174.794754,
+    -36.892223,
+    174.794754,
+    -36.892223
+],
+  "geometry": {"coordinates":[174.79475400000001,-36.892223],"type":"Point"}
 }

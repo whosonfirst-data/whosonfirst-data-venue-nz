@@ -2,13 +2,14 @@
   "id": 219678585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.737396,-36.770279,174.737396,-36.770279",
     "geom:latitude":-36.770279,
     "geom:longitude":174.737396,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Wairau Rd Glenfield ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219678585,
-    "wof:lastmodified":1449072095,
+    "wof:lastmodified":1466312867,
     "wof:name":"DAEWOO Auckland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sale"
     ]
 },
-  "bbox": [174.737396,-36.770279,174.737396,-36.770279],
-  "geometry": {"coordinates":[174.737396,-36.770279],"type":"Point"}
+  "bbox": [
+    174.737396,
+    -36.770279,
+    174.737396,
+    -36.770279
+],
+  "geometry": {"coordinates":[174.73739599999999,-36.770279],"type":"Point"}
 }

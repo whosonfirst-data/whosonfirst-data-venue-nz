@@ -2,13 +2,14 @@
   "id": 186215201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.876465,-37.012569,174.876465,-37.012569",
     "geom:latitude":-37.012569,
     "geom:longitude":174.876465,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 B Dalgety Dve Wiri ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186215201,
-    "wof:lastmodified":1449052542,
+    "wof:lastmodified":1466311536,
     "wof:name":"Kasco Hydraulics 1992 Ltd",
     "wof:parent_id":85773349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [174.876465,-37.012569,174.876465,-37.012569],
+  "bbox": [
+    174.876465,
+    -37.012569,
+    174.876465,
+    -37.012569
+],
   "geometry": {"coordinates":[174.876465,-37.012569],"type":"Point"}
 }

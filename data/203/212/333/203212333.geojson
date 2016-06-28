@@ -2,13 +2,14 @@
   "id": 203212333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.87059,-38.219139,175.87059,-38.219139",
     "geom:latitude":-38.219139,
     "geom:longitude":175.87059,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Dreghorn Pl ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203212333,
-    "wof:lastmodified":1449026206,
+    "wof:lastmodified":1466311482,
     "wof:name":"Mr Bo Jumbles",
     "wof:parent_id":85782509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.87059,-38.219139,175.87059,-38.219139],
-  "geometry": {"coordinates":[175.87059,-38.219139],"type":"Point"}
+  "bbox": [
+    175.87059,
+    -38.219139,
+    175.87059,
+    -38.219139
+],
+  "geometry": {"coordinates":[175.87058999999999,-38.219139],"type":"Point"}
 }

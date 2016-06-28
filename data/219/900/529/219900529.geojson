@@ -2,13 +2,14 @@
   "id": 219900529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.560211,-36.777275,174.560211,-36.777275",
     "geom:latitude":-36.777275,
     "geom:longitude":174.560211,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Weza La Kumeu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219900529,
-    "wof:lastmodified":1449071909,
+    "wof:lastmodified":1466313023,
     "wof:name":"Aotea Steam Company Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.560211,-36.777275,174.560211,-36.777275],
-  "geometry": {"coordinates":[174.560211,-36.777275],"type":"Point"}
+  "bbox": [
+    174.560211,
+    -36.777275,
+    174.560211,
+    -36.777275
+],
+  "geometry": {"coordinates":[174.56021100000001,-36.777275],"type":"Point"}
 }

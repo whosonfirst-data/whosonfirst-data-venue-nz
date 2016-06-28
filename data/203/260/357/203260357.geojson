@@ -2,13 +2,14 @@
   "id": 203260357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.960236,-41.535198,173.960236,-41.535198",
     "geom:latitude":-41.535198,
     "geom:longitude":173.960236,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Belvue Cre Witherlea ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203260357,
-    "wof:lastmodified":1449025263,
+    "wof:lastmodified":1466311942,
     "wof:name":"Ben-Lee Maternity",
     "wof:parent_id":85781539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wear"
     ]
 },
-  "bbox": [173.960236,-41.535198,173.960236,-41.535198],
-  "geometry": {"coordinates":[173.960236,-41.535198],"type":"Point"}
+  "bbox": [
+    173.960236,
+    -41.535198,
+    173.960236,
+    -41.535198
+],
+  "geometry": {"coordinates":[173.96023600000001,-41.535198],"type":"Point"}
 }

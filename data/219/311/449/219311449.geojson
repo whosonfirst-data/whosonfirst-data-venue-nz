@@ -2,13 +2,14 @@
   "id": 219311449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.919037,-36.031929,173.919037,-36.031929",
     "geom:latitude":-36.031929,
     "geom:longitude":173.919037,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Pouto Rd RD1 Te Kopuru ",
     "sg:city":"Dargaville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219311449,
-    "wof:lastmodified":1449071222,
+    "wof:lastmodified":1466311034,
     "wof:name":"Lighthouse Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accommodation"
     ]
 },
-  "bbox": [173.919037,-36.031929,173.919037,-36.031929],
+  "bbox": [
+    173.919037,
+    -36.031929,
+    173.919037,
+    -36.031929
+],
   "geometry": {"coordinates":[173.919037,-36.031929],"type":"Point"}
 }

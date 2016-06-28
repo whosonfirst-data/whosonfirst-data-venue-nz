@@ -2,13 +2,14 @@
   "id": 186311675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.889038,-36.940769,174.889038,-36.940769",
     "geom:latitude":-36.940769,
     "geom:longitude":174.889038,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Blackburn Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186311675,
-    "wof:lastmodified":1449051027,
+    "wof:lastmodified":1466312345,
     "wof:name":"Sika Technology Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.889038,-36.940769,174.889038,-36.940769],
+  "bbox": [
+    174.889038,
+    -36.940769,
+    174.889038,
+    -36.940769
+],
   "geometry": {"coordinates":[174.889038,-36.940769],"type":"Point"}
 }

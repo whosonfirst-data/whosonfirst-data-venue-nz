@@ -2,13 +2,14 @@
   "id": 220066327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.78183,-36.847874,174.78183,-36.847874",
     "geom:latitude":-36.847874,
     "geom:longitude":174.78183,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19/8 Quay St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220066327,
-    "wof:lastmodified":1449074248,
+    "wof:lastmodified":1466311786,
     "wof:name":"Q-Liquor",
     "wof:parent_id":85782027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "outlet"
     ]
 },
-  "bbox": [174.78183,-36.847874,174.78183,-36.847874],
-  "geometry": {"coordinates":[174.78183,-36.847874],"type":"Point"}
+  "bbox": [
+    174.78183,
+    -36.847874,
+    174.78183,
+    -36.847874
+],
+  "geometry": {"coordinates":[174.78183000000001,-36.847874],"type":"Point"}
 }

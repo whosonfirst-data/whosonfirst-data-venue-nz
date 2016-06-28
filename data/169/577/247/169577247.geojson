@@ -2,13 +2,14 @@
   "id": 169577247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.809006,-36.897686,174.809006,-36.897686",
     "geom:latitude":-36.897686,
     "geom:longitude":174.809006,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Main Highway Ellerslie ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169577247,
-    "wof:lastmodified":1449036066,
+    "wof:lastmodified":1466311331,
     "wof:name":"The Ribbon Rose Ltd",
     "wof:parent_id":85782385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.809006,-36.897686,174.809006,-36.897686],
-  "geometry": {"coordinates":[174.809006,-36.897686],"type":"Point"}
+  "bbox": [
+    174.809006,
+    -36.897686,
+    174.809006,
+    -36.897686
+],
+  "geometry": {"coordinates":[174.80900600000001,-36.897686],"type":"Point"}
 }

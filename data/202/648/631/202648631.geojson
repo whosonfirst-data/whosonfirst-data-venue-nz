@@ -2,13 +2,14 @@
   "id": 202648631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.060684,-41.128117,175.060684,-41.128117",
     "geom:latitude":-41.128117,
     "geom:longitude":175.060684,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Murray St Wallaceville ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202648631,
-    "wof:lastmodified":1449060813,
+    "wof:lastmodified":1466311915,
     "wof:name":"B Gray Plasterers",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plasterer"
     ]
 },
-  "bbox": [175.060684,-41.128117,175.060684,-41.128117],
-  "geometry": {"coordinates":[175.060684,-41.128117],"type":"Point"}
+  "bbox": [
+    175.060684,
+    -41.128117,
+    175.060684,
+    -41.128117
+],
+  "geometry": {"coordinates":[175.06068400000001,-41.128117],"type":"Point"}
 }

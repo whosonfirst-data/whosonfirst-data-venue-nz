@@ -2,13 +2,14 @@
   "id": 203264737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.783485,28.04352,-82.783485,28.04352",
     "geom:latitude":28.04352,
     "geom:longitude":-82.783485,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20-24 Hanover St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":203264737,
-    "wof:lastmodified":1449026209,
+    "wof:lastmodified":1466311981,
     "wof:name":"Flint Menswear",
     "wof:parent_id":85888753,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.783485,28.04352,-82.783485,28.04352],
+  "bbox": [
+    -82.783485,
+    28.04352,
+    -82.783485,
+    28.04352
+],
   "geometry": {"coordinates":[-82.783485,28.04352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169547801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.504883,-45.858406,170.504883,-45.858406",
     "geom:latitude":-45.858406,
     "geom:longitude":170.504883,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Chamberlain St Maori Hill ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169547801,
-    "wof:lastmodified":1449033009,
+    "wof:lastmodified":1466310776,
     "wof:name":"Brewer Stephen Clockmaker",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.504883,-45.858406,170.504883,-45.858406],
-  "geometry": {"coordinates":[170.504883,-45.858406],"type":"Point"}
+  "bbox": [
+    170.504883,
+    -45.858406,
+    170.504883,
+    -45.858406
+],
+  "geometry": {"coordinates":[170.50488300000001,-45.858406],"type":"Point"}
 }

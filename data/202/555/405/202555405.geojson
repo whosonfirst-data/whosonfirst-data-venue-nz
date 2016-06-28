@@ -2,13 +2,14 @@
   "id": 202555405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.471222,-37.89497,175.471222,-37.89497",
     "geom:latitude":-37.89497,
     "geom:longitude":175.471222,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Duke St ",
     "sg:city":"Cambridge",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202555405,
-    "wof:lastmodified":1449062293,
+    "wof:lastmodified":1466311129,
     "wof:name":"Cambridge Foot Clinic",
     "wof:parent_id":85782837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.471222,-37.89497,175.471222,-37.89497],
-  "geometry": {"coordinates":[175.471222,-37.89497],"type":"Point"}
+  "bbox": [
+    175.471222,
+    -37.89497,
+    175.471222,
+    -37.89497
+],
+  "geometry": {"coordinates":[175.47122200000001,-37.89497],"type":"Point"}
 }

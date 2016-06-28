@@ -2,13 +2,14 @@
   "id": 219971123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.930252,-37.195728,174.930252,-37.195728",
     "geom:latitude":-37.195728,
     "geom:longitude":174.930252,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Native Rd Pukekawa R D 1 ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219971123,
-    "wof:lastmodified":1449072170,
+    "wof:lastmodified":1466313042,
     "wof:name":"Logan R N",
     "wof:parent_id":85773145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [174.930252,-37.195728,174.930252,-37.195728],
+  "bbox": [
+    174.930252,
+    -37.195728,
+    174.930252,
+    -37.195728
+],
   "geometry": {"coordinates":[174.930252,-37.195728],"type":"Point"}
 }

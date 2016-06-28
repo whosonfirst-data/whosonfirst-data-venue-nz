@@ -2,13 +2,14 @@
   "id": 169662005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.027435,-38.667019,178.027435,-38.667019",
     "geom:latitude":-38.667019,
     "geom:longitude":178.027435,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Lowe St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169662005,
-    "wof:lastmodified":1449034924,
+    "wof:lastmodified":1466310705,
     "wof:name":"Country Garden Flowers",
     "wof:parent_id":85781347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.027435,-38.667019,178.027435,-38.667019],
+  "bbox": [
+    178.027435,
+    -38.667019,
+    178.027435,
+    -38.667019
+],
   "geometry": {"coordinates":[178.027435,-38.667019],"type":"Point"}
 }

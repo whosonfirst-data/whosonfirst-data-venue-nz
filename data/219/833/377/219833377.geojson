@@ -2,13 +2,14 @@
   "id": 219833377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.320923,-38.010773,175.320923,-38.010773",
     "geom:latitude":-38.010773,
     "geom:longitude":175.320923,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"254 Teasdale St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219833377,
-    "wof:lastmodified":1449070845,
+    "wof:lastmodified":1466313137,
     "wof:name":"Dairy Production Systems Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.320923,-38.010773,175.320923,-38.010773],
-  "geometry": {"coordinates":[175.320923,-38.010773],"type":"Point"}
+  "bbox": [
+    175.320923,
+    -38.010773,
+    175.320923,
+    -38.010773
+],
+  "geometry": {"coordinates":[175.32092299999999,-38.010773],"type":"Point"}
 }

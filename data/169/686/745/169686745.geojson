@@ -2,13 +2,14 @@
   "id": 169686745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.533295,-43.546867,172.533295,-43.546867",
     "geom:latitude":-43.546867,
     "geom:longitude":172.533295,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Oakhampton St Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169686745,
-    "wof:lastmodified":1449035159,
+    "wof:lastmodified":1466310864,
     "wof:name":"Sew What",
     "wof:parent_id":85772967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.533295,-43.546867,172.533295,-43.546867],
-  "geometry": {"coordinates":[172.533295,-43.546867],"type":"Point"}
+  "bbox": [
+    172.533295,
+    -43.546867,
+    172.533295,
+    -43.546867
+],
+  "geometry": {"coordinates":[172.53329500000001,-43.546867],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185694709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.242996,-41.283409,173.242996,-41.283409",
     "geom:latitude":-41.283409,
     "geom:longitude":173.242996,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Beach Rd Tahunanui ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185694709,
-    "wof:lastmodified":1449007059,
+    "wof:lastmodified":1466310527,
     "wof:name":"Nelson Fun Park Hydroslide",
     "wof:parent_id":85773207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [173.242996,-41.283409,173.242996,-41.283409],
-  "geometry": {"coordinates":[173.242996,-41.283409],"type":"Point"}
+  "bbox": [
+    173.242996,
+    -41.283409,
+    173.242996,
+    -41.283409
+],
+  "geometry": {"coordinates":[173.24299600000001,-41.283409],"type":"Point"}
 }

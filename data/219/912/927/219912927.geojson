@@ -2,13 +2,14 @@
   "id": 219912927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.765503,-35.323444,173.765503,-35.323444",
     "geom:latitude":-35.323444,
     "geom:longitude":173.765503,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 80 ",
     "sg:city":"Okaihau",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219912927,
-    "wof:lastmodified":1449072128,
+    "wof:lastmodified":1466313096,
     "wof:name":"The Cowcatcha Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.765503,-35.323444,173.765503,-35.323444],
+  "bbox": [
+    173.765503,
+    -35.323444,
+    173.765503,
+    -35.323444
+],
   "geometry": {"coordinates":[173.765503,-35.323444],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203166907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.508041,-45.892002,170.508041,-45.892002",
     "geom:latitude":-45.892002,
     "geom:longitude":170.508041,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Otaki St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203166907,
-    "wof:lastmodified":1449026015,
+    "wof:lastmodified":1466311048,
     "wof:name":"Aburns Glass Industries Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fittings"
     ]
 },
-  "bbox": [170.508041,-45.892002,170.508041,-45.892002],
-  "geometry": {"coordinates":[170.508041,-45.892002],"type":"Point"}
+  "bbox": [
+    170.508041,
+    -45.892002,
+    170.508041,
+    -45.892002
+],
+  "geometry": {"coordinates":[170.50804099999999,-45.892002],"type":"Point"}
 }

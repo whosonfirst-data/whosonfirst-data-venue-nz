@@ -2,13 +2,14 @@
   "id": 219707583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.242371,-37.753914,175.242371,-37.753914",
     "geom:latitude":-37.753914,
     "geom:longitude":175.242371,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"718 A Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219707583,
-    "wof:lastmodified":1449073359,
+    "wof:lastmodified":1466312834,
     "wof:name":"H D Cycles",
     "wof:parent_id":85773235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leasing"
     ]
 },
-  "bbox": [175.242371,-37.753914,175.242371,-37.753914],
-  "geometry": {"coordinates":[175.242371,-37.753914],"type":"Point"}
+  "bbox": [
+    175.242371,
+    -37.753914,
+    175.242371,
+    -37.753914
+],
+  "geometry": {"coordinates":[175.24237099999999,-37.753914],"type":"Point"}
 }

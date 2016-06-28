@@ -2,13 +2,14 @@
   "id": 219777465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.874435,-41.225868,174.874435,-41.225868",
     "geom:latitude":-41.225868,
     "geom:longitude":174.874435,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Union St Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219777465,
-    "wof:lastmodified":1449072239,
+    "wof:lastmodified":1466312982,
     "wof:name":"De-Bug Worldwide Limited",
     "wof:parent_id":85782489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.874435,-41.225868,174.874435,-41.225868],
-  "geometry": {"coordinates":[174.874435,-41.225868],"type":"Point"}
+  "bbox": [
+    174.874435,
+    -41.225868,
+    174.874435,
+    -41.225868
+],
+  "geometry": {"coordinates":[174.87443500000001,-41.225868],"type":"Point"}
 }

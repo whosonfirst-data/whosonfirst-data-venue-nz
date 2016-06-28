@@ -2,13 +2,14 @@
   "id": 203348913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.683578,-40.942154,175.683578,-40.942154",
     "geom:latitude":-40.942154,
     "geom:longitude":175.683578,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 b Raglan St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203348913,
-    "wof:lastmodified":1449025033,
+    "wof:lastmodified":1466312282,
     "wof:name":"Bigfoot Sox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wear"
     ]
 },
-  "bbox": [175.683578,-40.942154,175.683578,-40.942154],
-  "geometry": {"coordinates":[175.683578,-40.942154],"type":"Point"}
+  "bbox": [
+    175.683578,
+    -40.942154,
+    175.683578,
+    -40.942154
+],
+  "geometry": {"coordinates":[175.68357800000001,-40.942154],"type":"Point"}
 }

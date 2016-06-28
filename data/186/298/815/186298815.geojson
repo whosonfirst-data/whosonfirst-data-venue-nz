@@ -2,13 +2,14 @@
   "id": 186298815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.279846,-40.632061,175.279846,-40.632061",
     "geom:latitude":-40.632061,
     "geom:longitude":175.279846,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Totara St ",
     "sg:city":"Levin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186298815,
-    "wof:lastmodified":1449051111,
+    "wof:lastmodified":1466312057,
     "wof:name":"Newport Aluminium",
     "wof:parent_id":85782865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.279846,-40.632061,175.279846,-40.632061],
-  "geometry": {"coordinates":[175.279846,-40.632061],"type":"Point"}
+  "bbox": [
+    175.279846,
+    -40.632061,
+    175.279846,
+    -40.632061
+],
+  "geometry": {"coordinates":[175.27984599999999,-40.632061],"type":"Point"}
 }

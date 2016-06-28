@@ -2,13 +2,14 @@
   "id": 203357903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.877319,-39.669819,176.877319,-39.669819",
     "geom:latitude":-39.669819,
     "geom:longitude":176.877319,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Napier Rd Havelock North ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203357903,
-    "wof:lastmodified":1449026630,
+    "wof:lastmodified":1466312422,
     "wof:name":"Village Kumfs Naturally",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wear"
     ]
 },
-  "bbox": [176.877319,-39.669819,176.877319,-39.669819],
+  "bbox": [
+    176.877319,
+    -39.669819,
+    176.877319,
+    -39.669819
+],
   "geometry": {"coordinates":[176.877319,-39.669819],"type":"Point"}
 }

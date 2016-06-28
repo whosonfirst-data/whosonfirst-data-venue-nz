@@ -2,13 +2,14 @@
   "id": 186036657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.001801,-38.65065,178.001801,-38.65065",
     "geom:latitude":-38.65065,
     "geom:longitude":178.001801,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Mill Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186036657,
-    "wof:lastmodified":1449050993,
+    "wof:lastmodified":1466311180,
     "wof:name":"Custom Fibreglass",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [178.001801,-38.65065,178.001801,-38.65065],
+  "bbox": [
+    178.001801,
+    -38.65065,
+    178.001801,
+    -38.65065
+],
   "geometry": {"coordinates":[178.001801,-38.65065],"type":"Point"}
 }

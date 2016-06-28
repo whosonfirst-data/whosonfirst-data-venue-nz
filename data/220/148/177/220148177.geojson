@@ -2,13 +2,14 @@
   "id": 220148177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.777664,-36.87001,174.777664,-36.87001",
     "geom:latitude":-36.87001,
     "geom:longitude":174.777664,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"272 Broadway Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220148177,
-    "wof:lastmodified":1449074743,
+    "wof:lastmodified":1466311048,
     "wof:name":"Gelato Magic",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "-"
     ]
 },
-  "bbox": [174.777664,-36.87001,174.777664,-36.87001],
-  "geometry": {"coordinates":[174.777664,-36.87001],"type":"Point"}
+  "bbox": [
+    174.777664,
+    -36.87001,
+    174.777664,
+    -36.87001
+],
+  "geometry": {"coordinates":[174.77766399999999,-36.87001],"type":"Point"}
 }

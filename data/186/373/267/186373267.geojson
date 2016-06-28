@@ -2,13 +2,14 @@
   "id": 186373267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.640213,-40.325912,175.640213,-40.325912",
     "geom:latitude":-40.325912,
     "geom:longitude":175.640213,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Kelvin Grove Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186373267,
-    "wof:lastmodified":1449051757,
+    "wof:lastmodified":1466312420,
     "wof:name":"McBean Manawatu Sack Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.640213,-40.325912,175.640213,-40.325912],
-  "geometry": {"coordinates":[175.640213,-40.325912],"type":"Point"}
+  "bbox": [
+    175.640213,
+    -40.325912,
+    175.640213,
+    -40.325912
+],
+  "geometry": {"coordinates":[175.64021299999999,-40.325912],"type":"Point"}
 }

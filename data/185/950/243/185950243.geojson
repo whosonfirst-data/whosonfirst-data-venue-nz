@@ -2,13 +2,14 @@
   "id": 185950243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.762466,-36.888638,174.762466,-36.888638",
     "geom:latitude":-36.888638,
     "geom:longitude":174.762466,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Penrhyn Rd Mt Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185950243,
-    "wof:lastmodified":1449007246,
+    "wof:lastmodified":1466312230,
     "wof:name":"Squash Auckland Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [174.762466,-36.888638,174.762466,-36.888638],
-  "geometry": {"coordinates":[174.762466,-36.888638],"type":"Point"}
+  "bbox": [
+    174.762466,
+    -36.888638,
+    174.762466,
+    -36.888638
+],
+  "geometry": {"coordinates":[174.76246599999999,-36.888638],"type":"Point"}
 }

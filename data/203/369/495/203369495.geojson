@@ -2,13 +2,14 @@
   "id": 203369495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"26.85688,-31.89448,26.85688,-31.89448",
     "geom:latitude":-31.89448,
     "geom:longitude":26.85688,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Queenstown ",
     "sg:city":"Queenstown",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203369495,
-    "wof:lastmodified":1449026776,
+    "wof:lastmodified":1466312472,
     "wof:name":"Air Milford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [26.85688,-31.89448,26.85688,-31.89448],
+  "bbox": [
+    26.85688,
+    -31.89448,
+    26.85688,
+    -31.89448
+],
   "geometry": {"coordinates":[26.85688,-31.89448],"type":"Point"}
 }

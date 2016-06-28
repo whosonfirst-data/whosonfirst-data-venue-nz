@@ -2,13 +2,14 @@
   "id": 219363837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.901611,-41.112083,174.901611,-41.112083",
     "geom:latitude":-41.112083,
     "geom:longitude":174.901611,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 James Cook Dve Whitby ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219363837,
-    "wof:lastmodified":1449073490,
+    "wof:lastmodified":1466311447,
     "wof:name":"Claybusters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [174.901611,-41.112083,174.901611,-41.112083],
+  "bbox": [
+    174.901611,
+    -41.112083,
+    174.901611,
+    -41.112083
+],
   "geometry": {"coordinates":[174.901611,-41.112083],"type":"Point"}
 }

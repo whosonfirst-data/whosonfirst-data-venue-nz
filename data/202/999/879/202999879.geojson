@@ -2,13 +2,14 @@
   "id": 202999879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.515182,-45.873329,170.515182,-45.873329",
     "geom:latitude":-45.873329,
     "geom:longitude":170.515182,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Sturdee St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202999879,
-    "wof:lastmodified":1449062340,
+    "wof:lastmodified":1466313053,
     "wof:name":"DELTA",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.515182,-45.873329,170.515182,-45.873329],
-  "geometry": {"coordinates":[170.515182,-45.873329],"type":"Point"}
+  "bbox": [
+    170.515182,
+    -45.873329,
+    170.515182,
+    -45.873329
+],
+  "geometry": {"coordinates":[170.51518200000001,-45.873329],"type":"Point"}
 }

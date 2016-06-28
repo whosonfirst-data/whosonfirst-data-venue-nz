@@ -2,13 +2,14 @@
   "id": 219485153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.808395,-39.2785,173.808395,-39.2785",
     "geom:latitude":-39.2785,
     "geom:longitude":173.808395,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Rd Pungarehu ",
     "sg:city":"Rahotu",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219485153,
-    "wof:lastmodified":1449072546,
+    "wof:lastmodified":1466312151,
     "wof:name":"Pungarehu School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.808395,-39.2785,173.808395,-39.2785],
-  "geometry": {"coordinates":[173.808395,-39.2785],"type":"Point"}
+  "bbox": [
+    173.808395,
+    -39.2785,
+    173.808395,
+    -39.2785
+],
+  "geometry": {"coordinates":[173.80839499999999,-39.2785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203264833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.843643,-36.944389,174.843643,-36.944389",
     "geom:latitude":-36.944389,
     "geom:longitude":174.843643,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"401 Gt South Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203264833,
-    "wof:lastmodified":1449026208,
+    "wof:lastmodified":1466311982,
     "wof:name":"Economic Menswear Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.843643,-36.944389,174.843643,-36.944389],
-  "geometry": {"coordinates":[174.843643,-36.944389],"type":"Point"}
+  "bbox": [
+    174.843643,
+    -36.944389,
+    174.843643,
+    -36.944389
+],
+  "geometry": {"coordinates":[174.84364299999999,-36.944389],"type":"Point"}
 }

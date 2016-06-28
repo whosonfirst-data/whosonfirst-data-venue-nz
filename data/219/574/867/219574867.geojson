@@ -2,13 +2,14 @@
   "id": 219574867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.617004,-40.356537,175.617004,-40.356537",
     "geom:latitude":-40.356537,
     "geom:longitude":175.617004,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Princess St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219574867,
-    "wof:lastmodified":1449070353,
+    "wof:lastmodified":1466312524,
     "wof:name":"The Grooming Men",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.617004,-40.356537,175.617004,-40.356537],
-  "geometry": {"coordinates":[175.617004,-40.356537],"type":"Point"}
+  "bbox": [
+    175.617004,
+    -40.356537,
+    175.617004,
+    -40.356537
+],
+  "geometry": {"coordinates":[175.61700400000001,-40.356537],"type":"Point"}
 }

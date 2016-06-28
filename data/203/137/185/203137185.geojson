@@ -2,13 +2,14 @@
   "id": 203137185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.471313,-37.893059,175.471313,-37.893059",
     "geom:latitude":-37.893059,
     "geom:longitude":175.471313,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr S H 1 & Discombe Rd Cambridge R.D.3 Hamilton",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203137185,
-    "wof:lastmodified":1449026599,
+    "wof:lastmodified":1466310806,
     "wof:name":"Purrzazz Boarding Cattery",
     "wof:parent_id":85782837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "kennel"
     ]
 },
-  "bbox": [175.471313,-37.893059,175.471313,-37.893059],
-  "geometry": {"coordinates":[175.471313,-37.893059],"type":"Point"}
+  "bbox": [
+    175.471313,
+    -37.893059,
+    175.471313,
+    -37.893059
+],
+  "geometry": {"coordinates":[175.47131300000001,-37.893059],"type":"Point"}
 }

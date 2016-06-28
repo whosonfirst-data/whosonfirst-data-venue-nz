@@ -2,13 +2,14 @@
   "id": 202779979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.745621,40.22065,-74.745621,40.22065",
     "geom:latitude":40.22065,
     "geom:longitude":-74.745621,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Euclid Ave ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202779979,
-    "wof:lastmodified":1449060492,
+    "wof:lastmodified":1466312375,
     "wof:name":"Waikato Door Specialists Ltd",
     "wof:parent_id":85848949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "garage"
     ]
 },
-  "bbox": [-74.745621,40.22065,-74.745621,40.22065],
+  "bbox": [
+    -74.745621,
+    40.22065,
+    -74.745621,
+    40.22065
+],
   "geometry": {"coordinates":[-74.745621,40.22065],"type":"Point"}
 }

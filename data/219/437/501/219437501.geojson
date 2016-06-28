@@ -2,13 +2,14 @@
   "id": 219437501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.240921,-37.718346,176.240921,-37.718346",
     "geom:latitude":-37.718346,
     "geom:longitude":176.240921,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"749 Welcome Bay Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219437501,
-    "wof:lastmodified":1449072953,
+    "wof:lastmodified":1466312248,
     "wof:name":"Faith Bible College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.240921,-37.718346,176.240921,-37.718346],
-  "geometry": {"coordinates":[176.240921,-37.718346],"type":"Point"}
+  "bbox": [
+    176.240921,
+    -37.718346,
+    176.240921,
+    -37.718346
+],
+  "geometry": {"coordinates":[176.24092099999999,-37.718346],"type":"Point"}
 }

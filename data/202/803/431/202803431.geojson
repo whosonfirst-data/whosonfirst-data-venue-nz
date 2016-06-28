@@ -2,13 +2,14 @@
   "id": 202803431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.869797,-37.203979,175.869797,-37.203979",
     "geom:latitude":-37.203979,
     "geom:longitude":175.869797,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"310 Aickin Rd ",
     "sg:city":"Whangamata",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202803431,
-    "wof:lastmodified":1449062684,
+    "wof:lastmodified":1466312543,
     "wof:name":"Storey Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "handrail"
     ]
 },
-  "bbox": [175.869797,-37.203979,175.869797,-37.203979],
-  "geometry": {"coordinates":[175.869797,-37.203979],"type":"Point"}
+  "bbox": [
+    175.869797,
+    -37.203979,
+    175.869797,
+    -37.203979
+],
+  "geometry": {"coordinates":[175.86979700000001,-37.203979],"type":"Point"}
 }

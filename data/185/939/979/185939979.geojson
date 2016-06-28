@@ -2,13 +2,14 @@
   "id": 185939979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.850586,-37.378563,175.850586,-37.378563",
     "geom:latitude":-37.378563,
     "geom:longitude":175.850586,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Boundary Rd ",
     "sg:city":"Waihi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185939979,
-    "wof:lastmodified":1449007086,
+    "wof:lastmodified":1466312200,
     "wof:name":"Sportz Pro Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pool"
     ]
 },
-  "bbox": [175.850586,-37.378563,175.850586,-37.378563],
-  "geometry": {"coordinates":[175.850586,-37.378563],"type":"Point"}
+  "bbox": [
+    175.850586,
+    -37.378563,
+    175.850586,
+    -37.378563
+],
+  "geometry": {"coordinates":[175.85058599999999,-37.378563],"type":"Point"}
 }

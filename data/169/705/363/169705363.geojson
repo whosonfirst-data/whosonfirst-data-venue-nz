@@ -2,13 +2,14 @@
   "id": 169705363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.326263,-35.685532,174.326263,-35.685532",
     "geom:latitude":-35.685532,
     "geom:longitude":174.326263,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 7/8 Paramount Pde Tikipunga ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169705363,
-    "wof:lastmodified":1449035993,
+    "wof:lastmodified":1466310945,
     "wof:name":"Paramount Furnishings",
     "wof:parent_id":85781183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.326263,-35.685532,174.326263,-35.685532],
-  "geometry": {"coordinates":[174.326263,-35.685532],"type":"Point"}
+  "bbox": [
+    174.326263,
+    -35.685532,
+    174.326263,
+    -35.685532
+],
+  "geometry": {"coordinates":[174.32626300000001,-35.685532],"type":"Point"}
 }

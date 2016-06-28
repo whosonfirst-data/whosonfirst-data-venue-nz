@@ -2,13 +2,14 @@
   "id": 185771899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.739426,-36.86718,174.739426,-36.86718",
     "geom:latitude":-36.86718,
     "geom:longitude":174.739426,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"474 Gt Nth Rd Grey Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185771899,
-    "wof:lastmodified":1449007485,
+    "wof:lastmodified":1466311037,
     "wof:name":"Grey Lynn Library Hall",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.739426,-36.86718,174.739426,-36.86718],
-  "geometry": {"coordinates":[174.739426,-36.86718],"type":"Point"}
+  "bbox": [
+    174.739426,
+    -36.86718,
+    174.739426,
+    -36.86718
+],
+  "geometry": {"coordinates":[174.73942600000001,-36.86718],"type":"Point"}
 }

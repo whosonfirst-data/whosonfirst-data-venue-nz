@@ -2,13 +2,14 @@
   "id": 219224171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.312759,-37.786175,175.312759,-37.786175",
     "geom:latitude":-37.786175,
     "geom:longitude":175.312759,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Waikato Wide ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219224171,
-    "wof:lastmodified":1449072983,
+    "wof:lastmodified":1466311735,
     "wof:name":"Central Relocation Services",
     "wof:parent_id":85782885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.312759,-37.786175,175.312759,-37.786175],
+  "bbox": [
+    175.312759,
+    -37.786175,
+    175.312759,
+    -37.786175
+],
   "geometry": {"coordinates":[175.312759,-37.786175],"type":"Point"}
 }

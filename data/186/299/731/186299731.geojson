@@ -2,13 +2,14 @@
   "id": 186299731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.606262,-40.341423,175.606262,-40.341423",
     "geom:latitude":-40.341423,
     "geom:longitude":175.606262,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"648 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186299731,
-    "wof:lastmodified":1449051078,
+    "wof:lastmodified":1466312178,
     "wof:name":"Rylock Windows & Doors",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.606262,-40.341423,175.606262,-40.341423],
-  "geometry": {"coordinates":[175.606262,-40.341423],"type":"Point"}
+  "bbox": [
+    175.606262,
+    -40.341423,
+    175.606262,
+    -40.341423
+],
+  "geometry": {"coordinates":[175.60626199999999,-40.341423],"type":"Point"}
 }

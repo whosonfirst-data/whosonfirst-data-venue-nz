@@ -2,13 +2,14 @@
   "id": 186281527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.700851,-36.808968,174.700851,-36.808968",
     "geom:latitude":-36.808968,
     "geom:longitude":174.700851,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 a Rangatira Rd Beach Haven ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186281527,
-    "wof:lastmodified":1449052600,
+    "wof:lastmodified":1466312110,
     "wof:name":"Spectro NZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.700851,-36.808968,174.700851,-36.808968],
+  "bbox": [
+    174.700851,
+    -36.808968,
+    174.700851,
+    -36.808968
+],
   "geometry": {"coordinates":[174.700851,-36.808968],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202388015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.629318,-40.353851,175.629318,-40.353851",
     "geom:latitude":-40.353851,
     "geom:longitude":175.629318,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Stewart Cre Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202388015,
-    "wof:lastmodified":1449060190,
+    "wof:lastmodified":1466310703,
     "wof:name":"MidWay Occupational Health Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "health"
     ]
 },
-  "bbox": [175.629318,-40.353851,175.629318,-40.353851],
-  "geometry": {"coordinates":[175.629318,-40.353851],"type":"Point"}
+  "bbox": [
+    175.629318,
+    -40.353851,
+    175.629318,
+    -40.353851
+],
+  "geometry": {"coordinates":[175.62931800000001,-40.353851],"type":"Point"}
 }

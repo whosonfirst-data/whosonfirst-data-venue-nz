@@ -2,13 +2,14 @@
   "id": 235977547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.262955,-38.883659,175.262955,-38.883659",
     "geom:latitude":-38.883659,
     "geom:longitude":175.262955,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Manuate St ",
     "sg:city":"Taumarunui",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":235977547,
-    "wof:lastmodified":1449008609,
+    "wof:lastmodified":1466311365,
     "wof:name":"Copper Kettle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cafe"
     ]
 },
-  "bbox": [175.262955,-38.883659,175.262955,-38.883659],
-  "geometry": {"coordinates":[175.262955,-38.883659],"type":"Point"}
+  "bbox": [
+    175.262955,
+    -38.883659,
+    175.262955,
+    -38.883659
+],
+  "geometry": {"coordinates":[175.26295500000001,-38.883659],"type":"Point"}
 }

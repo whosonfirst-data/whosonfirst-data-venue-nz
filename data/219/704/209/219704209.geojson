@@ -2,13 +2,14 @@
   "id": 219704209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.61702,-36.783955,174.61702,-36.783955",
     "geom:latitude":-36.783955,
     "geom:longitude":174.61702,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Totara Rd Whenuapai ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219704209,
-    "wof:lastmodified":1449071319,
+    "wof:lastmodified":1466312830,
     "wof:name":"Western Caravan Hire",
     "wof:parent_id":85773335,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [174.61702,-36.783955,174.61702,-36.783955],
+  "bbox": [
+    174.61702,
+    -36.783955,
+    174.61702,
+    -36.783955
+],
   "geometry": {"coordinates":[174.61702,-36.783955],"type":"Point"}
 }

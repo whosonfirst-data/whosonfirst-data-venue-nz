@@ -2,13 +2,14 @@
   "id": 203159265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.994476,-37.952747,176.994476,-37.952747",
     "geom:latitude":-37.952747,
     "geom:longitude":176.994476,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Boon St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203159265,
-    "wof:lastmodified":1449025174,
+    "wof:lastmodified":1466310982,
     "wof:name":"The Pet Shop",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pets"
     ]
 },
-  "bbox": [176.994476,-37.952747,176.994476,-37.952747],
-  "geometry": {"coordinates":[176.994476,-37.952747],"type":"Point"}
+  "bbox": [
+    176.994476,
+    -37.952747,
+    176.994476,
+    -37.952747
+],
+  "geometry": {"coordinates":[176.99447599999999,-37.952747],"type":"Point"}
 }

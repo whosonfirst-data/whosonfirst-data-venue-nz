@@ -2,13 +2,14 @@
   "id": 203191021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.776291,-41.284847,174.776291,-41.284847",
     "geom:latitude":-41.284847,
     "geom:longitude":174.776291,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Featherston St ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203191021,
-    "wof:lastmodified":1449026086,
+    "wof:lastmodified":1466311291,
     "wof:name":"Taylors Drycleaners",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaner"
     ]
 },
-  "bbox": [174.776291,-41.284847,174.776291,-41.284847],
-  "geometry": {"coordinates":[174.776291,-41.284847],"type":"Point"}
+  "bbox": [
+    174.776291,
+    -41.284847,
+    174.776291,
+    -41.284847
+],
+  "geometry": {"coordinates":[174.77629099999999,-41.284847],"type":"Point"}
 }

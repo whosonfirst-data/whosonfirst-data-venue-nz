@@ -2,13 +2,14 @@
   "id": 219807561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.046188,-39.933781,175.046188,-39.933781",
     "geom:latitude":-39.933781,
     "geom:longitude":175.046188,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Wilson St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219807561,
-    "wof:lastmodified":1449071303,
+    "wof:lastmodified":1466313108,
     "wof:name":"Murdoch Terry",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beater"
     ]
 },
-  "bbox": [175.046188,-39.933781,175.046188,-39.933781],
+  "bbox": [
+    175.046188,
+    -39.933781,
+    175.046188,
+    -39.933781
+],
   "geometry": {"coordinates":[175.046188,-39.933781],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219414439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.255249,-38.880814,175.255249,-38.880814",
     "geom:latitude":-38.880814,
     "geom:longitude":175.255249,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Miro St ",
     "sg:city":"Taumarunui",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219414439,
-    "wof:lastmodified":1449072041,
+    "wof:lastmodified":1466311927,
     "wof:name":"McGrath Buses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tourism"
     ]
 },
-  "bbox": [175.255249,-38.880814,175.255249,-38.880814],
-  "geometry": {"coordinates":[175.255249,-38.880814],"type":"Point"}
+  "bbox": [
+    175.255249,
+    -38.880814,
+    175.255249,
+    -38.880814
+],
+  "geometry": {"coordinates":[175.25524899999999,-38.880814],"type":"Point"}
 }

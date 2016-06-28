@@ -2,13 +2,14 @@
   "id": 202810197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.738678,-45.028645,168.738678,-45.028645",
     "geom:latitude":-45.028645,
     "geom:longitude":168.738678,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Remarkables Park Shopping Centre Frankton ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202810197,
-    "wof:lastmodified":1449060859,
+    "wof:lastmodified":1466312476,
     "wof:name":"Big Scotty's",
     "wof:parent_id":85781785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [168.738678,-45.028645,168.738678,-45.028645],
-  "geometry": {"coordinates":[168.738678,-45.028645],"type":"Point"}
+  "bbox": [
+    168.738678,
+    -45.028645,
+    168.738678,
+    -45.028645
+],
+  "geometry": {"coordinates":[168.73867799999999,-45.028645],"type":"Point"}
 }

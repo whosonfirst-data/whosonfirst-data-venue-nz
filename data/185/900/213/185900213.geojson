@@ -2,13 +2,14 @@
   "id": 185900213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.157516,-37.652569,175.157516,-37.652569",
     "geom:latitude":-37.652569,
     "geom:longitude":175.157516,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Gt South Rd ",
     "sg:city":"Ngaruawahia",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":185900213,
-    "wof:lastmodified":1449007301,
+    "wof:lastmodified":1466311862,
     "wof:name":"Ngaruawahia Golf Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.157516,-37.652569,175.157516,-37.652569],
-  "geometry": {"coordinates":[175.157516,-37.652569],"type":"Point"}
+  "bbox": [
+    175.157516,
+    -37.652569,
+    175.157516,
+    -37.652569
+],
+  "geometry": {"coordinates":[175.15751599999999,-37.652569],"type":"Point"}
 }

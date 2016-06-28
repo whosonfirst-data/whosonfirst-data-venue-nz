@@ -2,13 +2,14 @@
   "id": 219690773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.102524,-39.049065,174.102524,-39.049065",
     "geom:latitude":-39.049065,
     "geom:longitude":174.102524,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Clemow Rd Fitzroy New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219690773,
-    "wof:lastmodified":1449072242,
+    "wof:lastmodified":1466312810,
     "wof:name":"Royale Cars",
     "wof:parent_id":85772911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automotive"
     ]
 },
-  "bbox": [174.102524,-39.049065,174.102524,-39.049065],
-  "geometry": {"coordinates":[174.102524,-39.049065],"type":"Point"}
+  "bbox": [
+    174.102524,
+    -39.049065,
+    174.102524,
+    -39.049065
+],
+  "geometry": {"coordinates":[174.10252399999999,-39.049065],"type":"Point"}
 }

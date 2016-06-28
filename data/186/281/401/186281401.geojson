@@ -2,13 +2,14 @@
   "id": 186281401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.693069,-43.538574,172.693069,-43.538574",
     "geom:latitude":-43.538574,
     "geom:longitude":172.693069,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Maces Rd Bromley ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186281401,
-    "wof:lastmodified":1449052601,
+    "wof:lastmodified":1466312015,
     "wof:name":"Christchurch Wool Dumpers",
     "wof:parent_id":85772845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.693069,-43.538574,172.693069,-43.538574],
-  "geometry": {"coordinates":[172.693069,-43.538574],"type":"Point"}
+  "bbox": [
+    172.693069,
+    -43.538574,
+    172.693069,
+    -43.538574
+],
+  "geometry": {"coordinates":[172.69306900000001,-43.538574],"type":"Point"}
 }

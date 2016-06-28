@@ -2,13 +2,14 @@
   "id": 203075913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.32634,-35.726894,174.32634,-35.726894",
     "geom:latitude":-35.726894,
     "geom:longitude":174.32634,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32-34 Reyburn St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203075913,
-    "wof:lastmodified":1449025973,
+    "wof:lastmodified":1466311776,
     "wof:name":"B B Q Factory",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "spa"
     ]
 },
-  "bbox": [174.32634,-35.726894,174.32634,-35.726894],
-  "geometry": {"coordinates":[174.32634,-35.726894],"type":"Point"}
+  "bbox": [
+    174.32634,
+    -35.726894,
+    174.32634,
+    -35.726894
+],
+  "geometry": {"coordinates":[174.32633999999999,-35.726894],"type":"Point"}
 }

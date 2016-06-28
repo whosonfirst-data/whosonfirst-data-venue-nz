@@ -2,13 +2,14 @@
   "id": 186144393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.69986,-36.748421,174.69986,-36.748421",
     "geom:latitude":-36.748421,
     "geom:longitude":174.69986,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 302-420 North ",
     "sg:city":"Harbour",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186144393,
-    "wof:lastmodified":1449052323,
+    "wof:lastmodified":1466310931,
     "wof:name":"RPM Engineering Ltd",
     "wof:parent_id":85772825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.69986,-36.748421,174.69986,-36.748421],
+  "bbox": [
+    174.69986,
+    -36.748421,
+    174.69986,
+    -36.748421
+],
   "geometry": {"coordinates":[174.69986,-36.748421],"type":"Point"}
 }

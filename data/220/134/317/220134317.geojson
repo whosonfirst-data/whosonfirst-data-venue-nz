@@ -2,13 +2,14 @@
   "id": 220134317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.054321,-39.909595,175.054321,-39.909595",
     "geom:latitude":-39.909595,
     "geom:longitude":175.054321,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"149 A Somme Pde ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220134317,
-    "wof:lastmodified":1449074842,
+    "wof:lastmodified":1466310926,
     "wof:name":"Bulk Barn Whanganui",
     "wof:parent_id":85781217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "-"
     ]
 },
-  "bbox": [175.054321,-39.909595,175.054321,-39.909595],
-  "geometry": {"coordinates":[175.054321,-39.909595],"type":"Point"}
+  "bbox": [
+    175.054321,
+    -39.909595,
+    175.054321,
+    -39.909595
+],
+  "geometry": {"coordinates":[175.05432099999999,-39.909595],"type":"Point"}
 }

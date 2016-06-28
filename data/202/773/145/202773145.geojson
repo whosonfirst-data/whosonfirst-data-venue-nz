@@ -2,13 +2,14 @@
   "id": 202773145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.241867,-37.753429,175.241867,-37.753429",
     "geom:latitude":-37.753429,
     "geom:longitude":175.241867,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202773145,
-    "wof:lastmodified":1449060424,
+    "wof:lastmodified":1466312354,
     "wof:name":"Three Brothers ITM Hamilton Ltd",
     "wof:parent_id":85773235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fittings"
     ]
 },
-  "bbox": [175.241867,-37.753429,175.241867,-37.753429],
-  "geometry": {"coordinates":[175.241867,-37.753429],"type":"Point"}
+  "bbox": [
+    175.241867,
+    -37.753429,
+    175.241867,
+    -37.753429
+],
+  "geometry": {"coordinates":[175.24186700000001,-37.753429],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203075453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.390732,-38.168404,176.390732,-38.168404",
     "geom:latitude":-38.168404,
     "geom:longitude":176.390732,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"490 Spencer Rd Lake Tarawera ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203075453,
-    "wof:lastmodified":1449025976,
+    "wof:lastmodified":1466311773,
     "wof:name":"Stone Images",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.390732,-38.168404,176.390732,-38.168404],
-  "geometry": {"coordinates":[176.390732,-38.168404],"type":"Point"}
+  "bbox": [
+    176.390732,
+    -38.168404,
+    176.390732,
+    -38.168404
+],
+  "geometry": {"coordinates":[176.39073200000001,-38.168404],"type":"Point"}
 }

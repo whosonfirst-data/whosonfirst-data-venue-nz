@@ -2,13 +2,14 @@
   "id": 186122365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.781067,-41.269169,174.781067,-41.269169",
     "geom:latitude":-41.269169,
     "geom:longitude":174.781067,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Thorndon Qy ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186122365,
-    "wof:lastmodified":1449051898,
+    "wof:lastmodified":1466310738,
     "wof:name":"Ormond Stock Associates Ltd",
     "wof:parent_id":85778683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.781067,-41.269169,174.781067,-41.269169],
-  "geometry": {"coordinates":[174.781067,-41.269169],"type":"Point"}
+  "bbox": [
+    174.781067,
+    -41.269169,
+    174.781067,
+    -41.269169
+],
+  "geometry": {"coordinates":[174.78106700000001,-41.269169],"type":"Point"}
 }

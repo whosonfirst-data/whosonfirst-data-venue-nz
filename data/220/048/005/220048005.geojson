@@ -2,13 +2,14 @@
   "id": 220048005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.96965,-45.100773,170.96965,-45.100773",
     "geom:latitude":-45.100773,
     "geom:longitude":170.96965,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Thames Street Phone/Fax ",
     "sg:city":"Oamaru",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220048005,
-    "wof:lastmodified":1449074300,
+    "wof:lastmodified":1466312045,
     "wof:name":"Brewers World Hop Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "supply"
     ]
 },
-  "bbox": [170.96965,-45.100773,170.96965,-45.100773],
+  "bbox": [
+    170.96965,
+    -45.100773,
+    170.96965,
+    -45.100773
+],
   "geometry": {"coordinates":[170.96965,-45.100773],"type":"Point"}
 }

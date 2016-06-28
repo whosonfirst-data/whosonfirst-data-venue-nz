@@ -2,13 +2,14 @@
   "id": 236008191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.044907,-39.926071,175.044907,-39.926071",
     "geom:latitude":-39.926071,
     "geom:longitude":175.044907,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Campbell St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236008191,
-    "wof:lastmodified":1449002528,
+    "wof:lastmodified":1466310762,
     "wof:name":"Wanganui UCOL",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dining"
     ]
 },
-  "bbox": [175.044907,-39.926071,175.044907,-39.926071],
-  "geometry": {"coordinates":[175.044907,-39.926071],"type":"Point"}
+  "bbox": [
+    175.044907,
+    -39.926071,
+    175.044907,
+    -39.926071
+],
+  "geometry": {"coordinates":[175.04490699999999,-39.926071],"type":"Point"}
 }

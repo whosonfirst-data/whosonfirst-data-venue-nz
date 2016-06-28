@@ -2,13 +2,14 @@
   "id": 186614529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.509048,-45.866165,170.509048,-45.866165",
     "geom:latitude":-45.866165,
     "geom:longitude":170.509048,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27-29 Albany St Dunedin North ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186614529,
-    "wof:lastmodified":1449053092,
+    "wof:lastmodified":1466312980,
     "wof:name":"Pilates Studio - Back In Motion",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [170.509048,-45.866165,170.509048,-45.866165],
-  "geometry": {"coordinates":[170.509048,-45.866165],"type":"Point"}
+  "bbox": [
+    170.509048,
+    -45.866165,
+    170.509048,
+    -45.866165
+],
+  "geometry": {"coordinates":[170.50904800000001,-45.866165],"type":"Point"}
 }

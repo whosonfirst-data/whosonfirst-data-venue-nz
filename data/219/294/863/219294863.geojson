@@ -2,13 +2,14 @@
   "id": 219294863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.028458,-39.933159,175.028458,-39.933159",
     "geom:latitude":-39.933159,
     "geom:longitude":175.028458,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"183 London St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219294863,
-    "wof:lastmodified":1449072918,
+    "wof:lastmodified":1466310895,
     "wof:name":"Rosewood Manor Bed & Breakfast",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.028458,-39.933159,175.028458,-39.933159],
+  "bbox": [
+    175.028458,
+    -39.933159,
+    175.028458,
+    -39.933159
+],
   "geometry": {"coordinates":[175.028458,-39.933159],"type":"Point"}
 }

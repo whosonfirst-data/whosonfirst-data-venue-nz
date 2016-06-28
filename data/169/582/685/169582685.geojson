@@ -2,13 +2,14 @@
   "id": 169582685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.722427,-43.509075,172.722427,-43.509075",
     "geom:latitude":-43.509075,
     "geom:longitude":172.722427,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Seaview Rd New Brighton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169582685,
-    "wof:lastmodified":1449034466,
+    "wof:lastmodified":1466311428,
     "wof:name":"Menage A Trois",
     "wof:parent_id":85781433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.722427,-43.509075,172.722427,-43.509075],
-  "geometry": {"coordinates":[172.722427,-43.509075],"type":"Point"}
+  "bbox": [
+    172.722427,
+    -43.509075,
+    172.722427,
+    -43.509075
+],
+  "geometry": {"coordinates":[172.72242700000001,-43.509075],"type":"Point"}
 }

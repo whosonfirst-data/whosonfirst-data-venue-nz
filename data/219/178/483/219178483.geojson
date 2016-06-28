@@ -2,13 +2,14 @@
   "id": 219178483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.61541,38.751991,-122.61541,38.751991",
     "geom:latitude":38.751991,
     "geom:longitude":-122.61541,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 a Vulcan Pl ",
     "sg:city":"Middleton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219178483,
-    "wof:lastmodified":1449072935,
+    "wof:lastmodified":1466311225,
     "wof:name":"Online Distribution Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.61541,38.751991,-122.61541,38.751991],
+  "bbox": [
+    -122.61541,
+    38.751991,
+    -122.61541,
+    38.751991
+],
   "geometry": {"coordinates":[-122.61541,38.751991],"type":"Point"}
 }

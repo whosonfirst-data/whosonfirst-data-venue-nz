@@ -2,13 +2,14 @@
   "id": 186513929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.619904,-40.352577,175.619904,-40.352577",
     "geom:latitude":-40.352577,
     "geom:longitude":175.619904,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Victoria Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186513929,
-    "wof:lastmodified":1449052141,
+    "wof:lastmodified":1466312800,
     "wof:name":"Isobels",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "health"
     ]
 },
-  "bbox": [175.619904,-40.352577,175.619904,-40.352577],
-  "geometry": {"coordinates":[175.619904,-40.352577],"type":"Point"}
+  "bbox": [
+    175.619904,
+    -40.352577,
+    175.619904,
+    -40.352577
+],
+  "geometry": {"coordinates":[175.61990399999999,-40.352577],"type":"Point"}
 }

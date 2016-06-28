@@ -2,13 +2,14 @@
   "id": 202954901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.746552,-43.547768,172.746552,-43.547768",
     "geom:latitude":-43.547768,
     "geom:longitude":172.746552,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Rockinghorse Rd Southshore ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202954901,
-    "wof:lastmodified":1449062328,
+    "wof:lastmodified":1466312893,
     "wof:name":"Ace Garden Services",
     "wof:parent_id":85778629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.746552,-43.547768,172.746552,-43.547768],
-  "geometry": {"coordinates":[172.746552,-43.547768],"type":"Point"}
+  "bbox": [
+    172.746552,
+    -43.547768,
+    172.746552,
+    -43.547768
+],
+  "geometry": {"coordinates":[172.74655200000001,-43.547768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186234445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.45311,-45.900257,170.45311,-45.900257",
     "geom:latitude":-45.900257,
     "geom:longitude":170.45311,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Main South Rd Burnside ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186234445,
-    "wof:lastmodified":1449052888,
+    "wof:lastmodified":1466311715,
     "wof:name":"Titan Cranes Ltd",
     "wof:parent_id":85772859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "lifting"
     ]
 },
-  "bbox": [170.45311,-45.900257,170.45311,-45.900257],
-  "geometry": {"coordinates":[170.45311,-45.900257],"type":"Point"}
+  "bbox": [
+    170.45311,
+    -45.900257,
+    170.45311,
+    -45.900257
+],
+  "geometry": {"coordinates":[170.45311000000001,-45.900257],"type":"Point"}
 }

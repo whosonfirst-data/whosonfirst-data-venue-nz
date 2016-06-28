@@ -2,13 +2,14 @@
   "id": 203031731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.292938,-46.445789,168.292938,-46.445789",
     "geom:latitude":-46.445789,
     "geom:longitude":168.292938,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Aicken Rd Ph/Fax ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203031731,
-    "wof:lastmodified":1449025625,
+    "wof:lastmodified":1466311158,
     "wof:name":"Safeway Spraying & Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "garden"
     ]
 },
-  "bbox": [168.292938,-46.445789,168.292938,-46.445789],
-  "geometry": {"coordinates":[168.292938,-46.445789],"type":"Point"}
+  "bbox": [
+    168.292938,
+    -46.445789,
+    168.292938,
+    -46.445789
+],
+  "geometry": {"coordinates":[168.29293799999999,-46.445789],"type":"Point"}
 }

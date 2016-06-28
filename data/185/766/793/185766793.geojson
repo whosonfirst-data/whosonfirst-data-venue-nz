@@ -2,13 +2,14 @@
   "id": 185766793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.159607,-37.702888,176.159607,-37.702888",
     "geom:latitude":-37.702888,
     "geom:longitude":176.159607,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Thirteenth Ave ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185766793,
-    "wof:lastmodified":1449006577,
+    "wof:lastmodified":1466311005,
     "wof:name":"Tauranga Citizens Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.159607,-37.702888,176.159607,-37.702888],
-  "geometry": {"coordinates":[176.159607,-37.702888],"type":"Point"}
+  "bbox": [
+    176.159607,
+    -37.702888,
+    176.159607,
+    -37.702888
+],
+  "geometry": {"coordinates":[176.15960699999999,-37.702888],"type":"Point"}
 }

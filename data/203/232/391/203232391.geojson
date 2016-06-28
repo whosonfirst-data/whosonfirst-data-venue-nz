@@ -2,13 +2,14 @@
   "id": 203232391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.15332,-37.668743,176.15332,-37.668743",
     "geom:latitude":-37.668743,
     "geom:longitude":176.15332,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Bureta Rd Otumoetai ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203232391,
-    "wof:lastmodified":1449025530,
+    "wof:lastmodified":1466311669,
     "wof:name":"Play Clothes & PC's Wholesale Clothing",
     "wof:parent_id":85781315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [176.15332,-37.668743,176.15332,-37.668743],
-  "geometry": {"coordinates":[176.15332,-37.668743],"type":"Point"}
+  "bbox": [
+    176.15332,
+    -37.668743,
+    176.15332,
+    -37.668743
+],
+  "geometry": {"coordinates":[176.15332000000001,-37.668743],"type":"Point"}
 }

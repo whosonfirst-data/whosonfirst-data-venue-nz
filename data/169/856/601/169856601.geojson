@@ -2,13 +2,14 @@
   "id": 169856601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.760284,-36.863766,174.760284,-36.863766",
     "geom:latitude":-36.863766,
     "geom:longitude":174.760284,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Newton Rd ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169856601,
-    "wof:lastmodified":1449033617,
+    "wof:lastmodified":1466312117,
     "wof:name":"Newton Video",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.760284,-36.863766,174.760284,-36.863766],
-  "geometry": {"coordinates":[174.760284,-36.863766],"type":"Point"}
+  "bbox": [
+    174.760284,
+    -36.863766,
+    174.760284,
+    -36.863766
+],
+  "geometry": {"coordinates":[174.76028400000001,-36.863766],"type":"Point"}
 }

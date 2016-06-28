@@ -2,13 +2,14 @@
   "id": 203068165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.663223,-40.947418,175.663223,-40.947418",
     "geom:latitude":-40.947418,
     "geom:longitude":175.663223,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 King St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203068165,
-    "wof:lastmodified":1449025905,
+    "wof:lastmodified":1466311695,
     "wof:name":"Jemee Engineering Ltd",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outdoor"
     ]
 },
-  "bbox": [175.663223,-40.947418,175.663223,-40.947418],
-  "geometry": {"coordinates":[175.663223,-40.947418],"type":"Point"}
+  "bbox": [
+    175.663223,
+    -40.947418,
+    175.663223,
+    -40.947418
+],
+  "geometry": {"coordinates":[175.66322299999999,-40.947418],"type":"Point"}
 }

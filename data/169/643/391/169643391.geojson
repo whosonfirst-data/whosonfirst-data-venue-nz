@@ -2,13 +2,14 @@
   "id": 169643391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.025085,-38.666931,178.025085,-38.666931",
     "geom:latitude":-38.666931,
     "geom:longitude":178.025085,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Peel St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169643391,
-    "wof:lastmodified":1449035523,
+    "wof:lastmodified":1466310578,
     "wof:name":"Briscoes Homeware",
     "wof:parent_id":85781347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.025085,-38.666931,178.025085,-38.666931],
-  "geometry": {"coordinates":[178.025085,-38.666931],"type":"Point"}
+  "bbox": [
+    178.025085,
+    -38.666931,
+    178.025085,
+    -38.666931
+],
+  "geometry": {"coordinates":[178.02508499999999,-38.666931],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219212393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.932159,-41.505253,173.932159,-41.505253",
     "geom:latitude":-41.505253,
     "geom:longitude":173.932159,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"35 A Murphys Rd Springlands ",
     "sg:city":"Blenheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219212393,
-    "wof:lastmodified":1449072665,
+    "wof:lastmodified":1466311617,
     "wof:name":"Nichols Freight",
     "wof:parent_id":85781567,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.932159,-41.505253,173.932159,-41.505253],
-  "geometry": {"coordinates":[173.932159,-41.505253],"type":"Point"}
+  "bbox": [
+    173.932159,
+    -41.505253,
+    173.932159,
+    -41.505253
+],
+  "geometry": {"coordinates":[173.93215900000001,-41.505253],"type":"Point"}
 }

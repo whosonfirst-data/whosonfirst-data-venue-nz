@@ -2,13 +2,14 @@
   "id": 186046861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.696945,-43.536835,172.696945,-43.536835",
     "geom:latitude":-43.536835,
     "geom:longitude":172.696945,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Wickham St Bromley ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186046861,
-    "wof:lastmodified":1449051867,
+    "wof:lastmodified":1466311422,
     "wof:name":"Glass Repros Fibreglass",
     "wof:parent_id":85772845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "compounds"
     ]
 },
-  "bbox": [172.696945,-43.536835,172.696945,-43.536835],
+  "bbox": [
+    172.696945,
+    -43.536835,
+    172.696945,
+    -43.536835
+],
   "geometry": {"coordinates":[172.696945,-43.536835],"type":"Point"}
 }

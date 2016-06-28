@@ -2,13 +2,14 @@
   "id": 219345155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.403839,-39.412289,175.403839,-39.412289",
     "geom:latitude":-39.412289,
     "geom:longitude":175.403839,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Mangawhero Tce ",
     "sg:city":"Ohakune",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219345155,
-    "wof:lastmodified":1449073637,
+    "wof:lastmodified":1466311294,
     "wof:name":"The Peaks Motor Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.403839,-39.412289,175.403839,-39.412289],
+  "bbox": [
+    175.403839,
+    -39.412289,
+    175.403839,
+    -39.412289
+],
   "geometry": {"coordinates":[175.403839,-39.412289],"type":"Point"}
 }

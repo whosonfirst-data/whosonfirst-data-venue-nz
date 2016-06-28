@@ -2,13 +2,14 @@
   "id": 219748885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.88443,-36.991192,174.88443,-36.991192",
     "geom:latitude":-36.991192,
     "geom:longitude":174.88443,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"702-708 Gt South Rd Manukau City ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219748885,
-    "wof:lastmodified":1449073049,
+    "wof:lastmodified":1466312992,
     "wof:name":"Manukau City Toyota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.88443,-36.991192,174.88443,-36.991192],
-  "geometry": {"coordinates":[174.88443,-36.991192],"type":"Point"}
+  "bbox": [
+    174.88443,
+    -36.991192,
+    174.88443,
+    -36.991192
+],
+  "geometry": {"coordinates":[174.88443000000001,-36.991192],"type":"Point"}
 }

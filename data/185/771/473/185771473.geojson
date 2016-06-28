@@ -2,13 +2,14 @@
   "id": 185771473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.641815,-36.855518,174.641815,-36.855518",
     "geom:latitude":-36.855518,
     "geom:longitude":174.641815,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Flanshaw Rd Te Atatu South ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185771473,
-    "wof:lastmodified":1449007484,
+    "wof:lastmodified":1466311034,
     "wof:name":"Flanshaw Road Community Hall",
     "wof:parent_id":85778669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.641815,-36.855518,174.641815,-36.855518],
-  "geometry": {"coordinates":[174.641815,-36.855518],"type":"Point"}
+  "bbox": [
+    174.641815,
+    -36.855518,
+    174.641815,
+    -36.855518
+],
+  "geometry": {"coordinates":[174.64181500000001,-36.855518],"type":"Point"}
 }

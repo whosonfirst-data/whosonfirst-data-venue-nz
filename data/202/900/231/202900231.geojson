@@ -2,13 +2,14 @@
   "id": 202900231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.186279,-37.641048,176.186279,-37.641048",
     "geom:latitude":-37.641048,
     "geom:longitude":176.186279,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"119 c Aviation Ave Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202900231,
-    "wof:lastmodified":1449061210,
+    "wof:lastmodified":1466312787,
     "wof:name":"Fertco Limited",
     "wof:parent_id":85773039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.186279,-37.641048,176.186279,-37.641048],
-  "geometry": {"coordinates":[176.186279,-37.641048],"type":"Point"}
+  "bbox": [
+    176.186279,
+    -37.641048,
+    176.186279,
+    -37.641048
+],
+  "geometry": {"coordinates":[176.18627900000001,-37.641048],"type":"Point"}
 }

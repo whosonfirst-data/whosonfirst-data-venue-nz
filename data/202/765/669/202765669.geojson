@@ -2,13 +2,14 @@
   "id": 202765669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.597336,-43.532139,172.597336,-43.532139",
     "geom:latitude":-43.532139,
     "geom:longitude":172.597336,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Mandeville St & Blenheim Rd Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202765669,
-    "wof:lastmodified":1449061572,
+    "wof:lastmodified":1466312438,
     "wof:name":"PlaceMakers",
     "wof:parent_id":85778569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fitting"
     ]
 },
-  "bbox": [172.597336,-43.532139,172.597336,-43.532139],
-  "geometry": {"coordinates":[172.597336,-43.532139],"type":"Point"}
+  "bbox": [
+    172.597336,
+    -43.532139,
+    172.597336,
+    -43.532139
+],
+  "geometry": {"coordinates":[172.59733600000001,-43.532139],"type":"Point"}
 }

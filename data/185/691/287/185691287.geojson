@@ -2,13 +2,14 @@
   "id": 185691287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.761261,-41.21875,174.761261,-41.21875",
     "geom:latitude":-41.21875,
     "geom:longitude":174.761261,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Takarau Gorge Rd Ohariu Valley ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185691287,
-    "wof:lastmodified":1449006735,
+    "wof:lastmodified":1466311956,
     "wof:name":"All Track Adventures Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.761261,-41.21875,174.761261,-41.21875],
-  "geometry": {"coordinates":[174.761261,-41.21875],"type":"Point"}
+  "bbox": [
+    174.761261,
+    -41.21875,
+    174.761261,
+    -41.21875
+],
+  "geometry": {"coordinates":[174.76126099999999,-41.21875],"type":"Point"}
 }

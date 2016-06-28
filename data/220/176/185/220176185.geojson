@@ -2,13 +2,14 @@
   "id": 220176185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.761261,-36.784794,174.761261,-36.784794",
     "geom:latitude":-36.784794,
     "geom:longitude":174.761261,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"49 A Lake View Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220176185,
-    "wof:lastmodified":1449074582,
+    "wof:lastmodified":1466311275,
     "wof:name":"Global Organics New Zealand Ltd",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "veges"
     ]
 },
-  "bbox": [174.761261,-36.784794,174.761261,-36.784794],
-  "geometry": {"coordinates":[174.761261,-36.784794],"type":"Point"}
+  "bbox": [
+    174.761261,
+    -36.784794,
+    174.761261,
+    -36.784794
+],
+  "geometry": {"coordinates":[174.76126099999999,-36.784794],"type":"Point"}
 }

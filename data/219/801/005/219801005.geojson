@@ -2,13 +2,14 @@
   "id": 219801005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.651642,-36.846275,174.651642,-36.846275",
     "geom:latitude":-36.846275,
     "geom:longitude":174.651642,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"477 Te Atatu Rd Te Atatu Peninsula ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219801005,
-    "wof:lastmodified":1449073307,
+    "wof:lastmodified":1466313101,
     "wof:name":"Autocourt Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beater"
     ]
 },
-  "bbox": [174.651642,-36.846275,174.651642,-36.846275],
-  "geometry": {"coordinates":[174.651642,-36.846275],"type":"Point"}
+  "bbox": [
+    174.651642,
+    -36.846275,
+    174.651642,
+    -36.846275
+],
+  "geometry": {"coordinates":[174.65164200000001,-36.846275],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186394911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.25795,-37.782715,175.25795,-37.782715",
     "geom:latitude":-37.782715,
     "geom:longitude":175.25795,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Maeroa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186394911,
-    "wof:lastmodified":1449050928,
+    "wof:lastmodified":1466312403,
     "wof:name":"Hynds Pipe Systems Ltd",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.25795,-37.782715,175.25795,-37.782715],
-  "geometry": {"coordinates":[175.25795,-37.782715],"type":"Point"}
+  "bbox": [
+    175.25795,
+    -37.782715,
+    175.25795,
+    -37.782715
+],
+  "geometry": {"coordinates":[175.25794999999999,-37.782715],"type":"Point"}
 }

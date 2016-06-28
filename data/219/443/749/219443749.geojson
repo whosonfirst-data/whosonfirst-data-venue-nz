@@ -2,13 +2,14 @@
   "id": 219443749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.661194,-40.950874,175.661194,-40.950874",
     "geom:latitude":-40.950874,
     "geom:longitude":175.661194,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Bannister St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -59,16 +60,22 @@
         }
     ],
     "wof:id":219443749,
-    "wof:lastmodified":1449073271,
+    "wof:lastmodified":1466312138,
     "wof:name":"Wairarapa Whanui",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "driver"
     ]
 },
-  "bbox": [175.661194,-40.950874,175.661194,-40.950874],
-  "geometry": {"coordinates":[175.661194,-40.950874],"type":"Point"}
+  "bbox": [
+    175.661194,
+    -40.950874,
+    175.661194,
+    -40.950874
+],
+  "geometry": {"coordinates":[175.66119399999999,-40.950874],"type":"Point"}
 }

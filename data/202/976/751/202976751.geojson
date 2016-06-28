@@ -2,13 +2,14 @@
   "id": 202976751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.108658,-38.683678,176.108658,-38.683678",
     "geom:latitude":-38.683678,
     "geom:longitude":176.108658,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"674 Broadlands Rd ",
     "sg:city":"Taupo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202976751,
-    "wof:lastmodified":1449061161,
+    "wof:lastmodified":1466313021,
     "wof:name":"Bark Products Ltd",
     "wof:parent_id":85781171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.108658,-38.683678,176.108658,-38.683678],
-  "geometry": {"coordinates":[176.108658,-38.683678],"type":"Point"}
+  "bbox": [
+    176.108658,
+    -38.683678,
+    176.108658,
+    -38.683678
+],
+  "geometry": {"coordinates":[176.10865799999999,-38.683678],"type":"Point"}
 }

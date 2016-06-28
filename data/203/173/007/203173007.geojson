@@ -2,13 +2,14 @@
   "id": 203173007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.630798,-43.545998,172.630798,-43.545998",
     "geom:latitude":-43.545998,
     "geom:longitude":172.630798,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Montreal St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203173007,
-    "wof:lastmodified":1449025299,
+    "wof:lastmodified":1466311107,
     "wof:name":"Canterbury International Ltd",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [172.630798,-43.545998,172.630798,-43.545998],
+  "bbox": [
+    172.630798,
+    -43.545998,
+    172.630798,
+    -43.545998
+],
   "geometry": {"coordinates":[172.630798,-43.545998],"type":"Point"}
 }

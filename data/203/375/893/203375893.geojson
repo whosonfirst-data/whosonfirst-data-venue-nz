@@ -2,13 +2,14 @@
   "id": 203375893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764877,-36.792583,174.764877,-36.792583",
     "geom:latitude":-36.792583,
     "geom:longitude":174.764877,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Barrys Point Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203375893,
-    "wof:lastmodified":1449025020,
+    "wof:lastmodified":1466312391,
     "wof:name":"Boat Bits Ltd",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "boat"
     ]
 },
-  "bbox": [174.764877,-36.792583,174.764877,-36.792583],
-  "geometry": {"coordinates":[174.764877,-36.792583],"type":"Point"}
+  "bbox": [
+    174.764877,
+    -36.792583,
+    174.764877,
+    -36.792583
+],
+  "geometry": {"coordinates":[174.76487700000001,-36.792583],"type":"Point"}
 }

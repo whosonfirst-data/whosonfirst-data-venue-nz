@@ -2,13 +2,14 @@
   "id": 169686547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.23822,-37.750973,175.23822,-37.750973",
     "geom:latitude":-37.750973,
     "geom:longitude":175.23822,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"789 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169686547,
-    "wof:lastmodified":1449035155,
+    "wof:lastmodified":1466310857,
     "wof:name":"Horseland Stores",
     "wof:parent_id":85773235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.23822,-37.750973,175.23822,-37.750973],
-  "geometry": {"coordinates":[175.23822,-37.750973],"type":"Point"}
+  "bbox": [
+    175.23822,
+    -37.750973,
+    175.23822,
+    -37.750973
+],
+  "geometry": {"coordinates":[175.23822000000001,-37.750973],"type":"Point"}
 }

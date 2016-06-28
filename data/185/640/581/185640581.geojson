@@ -2,13 +2,14 @@
   "id": 185640581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.262115,-35.113323,173.262115,-35.113323",
     "geom:latitude":-35.113323,
     "geom:longitude":173.262115,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Taaffe St ",
     "sg:city":"Kaitaia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185640581,
-    "wof:lastmodified":1449007316,
+    "wof:lastmodified":1466311352,
     "wof:name":"Pictorial Frames",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leisure"
     ]
 },
-  "bbox": [173.262115,-35.113323,173.262115,-35.113323],
-  "geometry": {"coordinates":[173.262115,-35.113323],"type":"Point"}
+  "bbox": [
+    173.262115,
+    -35.113323,
+    173.262115,
+    -35.113323
+],
+  "geometry": {"coordinates":[173.26211499999999,-35.113323],"type":"Point"}
 }

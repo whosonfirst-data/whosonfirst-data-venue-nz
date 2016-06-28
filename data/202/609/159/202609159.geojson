@@ -2,13 +2,14 @@
   "id": 202609159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.700806,-42.9678,172.700806,-42.9678",
     "geom:latitude":-42.9678,
     "geom:longitude":172.700806,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Karaka Rd Waikari ",
     "sg:city":"Hawarden",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202609159,
-    "wof:lastmodified":1449061055,
+    "wof:lastmodified":1466311595,
     "wof:name":"Waikari Pottery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [172.700806,-42.9678,172.700806,-42.9678],
+  "bbox": [
+    172.700806,
+    -42.9678,
+    172.700806,
+    -42.9678
+],
   "geometry": {"coordinates":[172.700806,-42.9678],"type":"Point"}
 }

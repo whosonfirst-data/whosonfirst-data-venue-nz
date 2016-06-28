@@ -2,13 +2,14 @@
   "id": 219675721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.385498,-46.389942,168.385498,-46.389942",
     "geom:latitude":-46.389942,
     "geom:longitude":168.385498,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"373 Racecourse Rd Rosedale ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219675721,
-    "wof:lastmodified":1449072180,
+    "wof:lastmodified":1466312659,
     "wof:name":"Novus Windscreen Repairs Southland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.385498,-46.389942,168.385498,-46.389942],
-  "geometry": {"coordinates":[168.385498,-46.389942],"type":"Point"}
+  "bbox": [
+    168.385498,
+    -46.389942,
+    168.385498,
+    -46.389942
+],
+  "geometry": {"coordinates":[168.38549800000001,-46.389942],"type":"Point"}
 }

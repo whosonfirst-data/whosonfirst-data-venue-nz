@@ -2,13 +2,14 @@
   "id": 185883925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.046555,-41.14423,175.046555,-41.14423",
     "geom:latitude":-41.14423,
     "geom:longitude":175.046555,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Dante Rd Trentham Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185883925,
-    "wof:lastmodified":1449007846,
+    "wof:lastmodified":1466311760,
     "wof:name":"Trentham Camp Golf Club Shop",
     "wof:parent_id":85773263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.046555,-41.14423,175.046555,-41.14423],
-  "geometry": {"coordinates":[175.046555,-41.14423],"type":"Point"}
+  "bbox": [
+    175.046555,
+    -41.14423,
+    175.046555,
+    -41.14423
+],
+  "geometry": {"coordinates":[175.04655500000001,-41.14423],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186480867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.046265,-39.933483,175.046265,-39.933483",
     "geom:latitude":-39.933483,
     "geom:longitude":175.046265,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Wilson St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186480867,
-    "wof:lastmodified":1449051264,
+    "wof:lastmodified":1466312618,
     "wof:name":"Wanganui Electroplating Mnfng Co Ltd",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.046265,-39.933483,175.046265,-39.933483],
-  "geometry": {"coordinates":[175.046265,-39.933483],"type":"Point"}
+  "bbox": [
+    175.046265,
+    -39.933483,
+    175.046265,
+    -39.933483
+],
+  "geometry": {"coordinates":[175.04626500000001,-39.933483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169575365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.274658,-40.628841,175.274658,-40.628841",
     "geom:latitude":-40.628841,
     "geom:longitude":175.274658,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 McKenzie St ",
     "sg:city":"Levin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169575365,
-    "wof:lastmodified":1449033640,
+    "wof:lastmodified":1466311275,
     "wof:name":"Argy Bargy Crafts",
     "wof:parent_id":85782865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.274658,-40.628841,175.274658,-40.628841],
-  "geometry": {"coordinates":[175.274658,-40.628841],"type":"Point"}
+  "bbox": [
+    175.274658,
+    -40.628841,
+    175.274658,
+    -40.628841
+],
+  "geometry": {"coordinates":[175.27465799999999,-40.628841],"type":"Point"}
 }

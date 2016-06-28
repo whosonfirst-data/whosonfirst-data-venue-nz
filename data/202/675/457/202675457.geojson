@@ -2,13 +2,14 @@
   "id": 202675457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.649277,-43.545826,172.649277,-43.545826",
     "geom:latitude":-43.545826,
     "geom:longitude":172.649277,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Shakespeare Rd Waltham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202675457,
-    "wof:lastmodified":1449061413,
+    "wof:lastmodified":1466312149,
     "wof:name":"Carousel Childcare & Education Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.649277,-43.545826,172.649277,-43.545826],
-  "geometry": {"coordinates":[172.649277,-43.545826],"type":"Point"}
+  "bbox": [
+    172.649277,
+    -43.545826,
+    172.649277,
+    -43.545826
+],
+  "geometry": {"coordinates":[172.64927700000001,-43.545826],"type":"Point"}
 }

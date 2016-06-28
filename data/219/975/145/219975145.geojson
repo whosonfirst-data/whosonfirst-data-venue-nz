@@ -2,13 +2,14 @@
   "id": 219975145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.536331,-43.534431,172.536331,-43.534431",
     "geom:latitude":-43.534431,
     "geom:longitude":172.536331,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"593 Halswell Junction Rd Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219975145,
-    "wof:lastmodified":1449073425,
+    "wof:lastmodified":1466313127,
     "wof:name":"Dawes Grain & Stockfeeds Ltd",
     "wof:parent_id":85778617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.536331,-43.534431,172.536331,-43.534431],
-  "geometry": {"coordinates":[172.536331,-43.534431],"type":"Point"}
+  "bbox": [
+    172.536331,
+    -43.534431,
+    172.536331,
+    -43.534431
+],
+  "geometry": {"coordinates":[172.53633099999999,-43.534431],"type":"Point"}
 }

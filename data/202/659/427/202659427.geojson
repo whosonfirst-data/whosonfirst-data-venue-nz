@@ -2,13 +2,14 @@
   "id": 202659427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.313553,-41.251465,173.313553,-41.251465",
     "geom:latitude":-41.251465,
     "geom:longitude":173.313553,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bayview Rd Atawhai ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202659427,
-    "wof:lastmodified":1449060376,
+    "wof:lastmodified":1466311988,
     "wof:name":"Andy Bennett Plumbing",
     "wof:parent_id":85781579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "related"
     ]
 },
-  "bbox": [173.313553,-41.251465,173.313553,-41.251465],
-  "geometry": {"coordinates":[173.313553,-41.251465],"type":"Point"}
+  "bbox": [
+    173.313553,
+    -41.251465,
+    173.313553,
+    -41.251465
+],
+  "geometry": {"coordinates":[173.31355300000001,-41.251465],"type":"Point"}
 }

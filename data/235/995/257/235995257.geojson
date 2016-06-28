@@ -2,13 +2,14 @@
   "id": 235995257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.045532,-36.795601,175.045532,-36.795601",
     "geom:latitude":-36.795601,
     "geom:longitude":175.045532,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Belgium St Ostend ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235995257,
-    "wof:lastmodified":1449008575,
+    "wof:lastmodified":1466311567,
     "wof:name":"Mangrove Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pizza"
     ]
 },
-  "bbox": [175.045532,-36.795601,175.045532,-36.795601],
-  "geometry": {"coordinates":[175.045532,-36.795601],"type":"Point"}
+  "bbox": [
+    175.045532,
+    -36.795601,
+    175.045532,
+    -36.795601
+],
+  "geometry": {"coordinates":[175.04553200000001,-36.795601],"type":"Point"}
 }

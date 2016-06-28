@@ -2,13 +2,14 @@
   "id": 185601731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.593689,-43.481956,172.593689,-43.481956",
     "geom:latitude":-43.481956,
     "geom:longitude":172.593689,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"245 a Sawyers Arms Rd Bishopdale ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185601731,
-    "wof:lastmodified":1449007335,
+    "wof:lastmodified":1466310587,
     "wof:name":"Artzone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [172.593689,-43.481956,172.593689,-43.481956],
-  "geometry": {"coordinates":[172.593689,-43.481956],"type":"Point"}
+  "bbox": [
+    172.593689,
+    -43.481956,
+    172.593689,
+    -43.481956
+],
+  "geometry": {"coordinates":[172.59368900000001,-43.481956],"type":"Point"}
 }

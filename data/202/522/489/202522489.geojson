@@ -2,13 +2,14 @@
   "id": 202522489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.749756,-36.804329,174.749756,-36.804329",
     "geom:latitude":-36.804329,
     "geom:longitude":174.749756,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Exmouth St Northcote ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202522489,
-    "wof:lastmodified":1449061335,
+    "wof:lastmodified":1466310847,
     "wof:name":"Ashby Kathy",
     "wof:parent_id":85778503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.749756,-36.804329,174.749756,-36.804329],
-  "geometry": {"coordinates":[174.749756,-36.804329],"type":"Point"}
+  "bbox": [
+    174.749756,
+    -36.804329,
+    174.749756,
+    -36.804329
+],
+  "geometry": {"coordinates":[174.74975599999999,-36.804329],"type":"Point"}
 }

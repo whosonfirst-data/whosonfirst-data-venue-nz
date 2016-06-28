@@ -2,13 +2,14 @@
   "id": 203272781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.844467,-36.945225,174.844467,-36.945225",
     "geom:latitude":-36.945225,
     "geom:longitude":174.844467,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Gt South Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203272781,
-    "wof:lastmodified":1449026750,
+    "wof:lastmodified":1466312006,
     "wof:name":"Universal Sportswear Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.844467,-36.945225,174.844467,-36.945225],
-  "geometry": {"coordinates":[174.844467,-36.945225],"type":"Point"}
+  "bbox": [
+    174.844467,
+    -36.945225,
+    174.844467,
+    -36.945225
+],
+  "geometry": {"coordinates":[174.84446700000001,-36.945225],"type":"Point"}
 }

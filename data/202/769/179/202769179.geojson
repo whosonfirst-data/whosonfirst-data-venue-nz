@@ -2,13 +2,14 @@
   "id": 202769179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.325562,-35.730915,174.325562,-35.730915",
     "geom:latitude":-35.730915,
     "geom:longitude":174.325562,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Commerce St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202769179,
-    "wof:lastmodified":1449060952,
+    "wof:lastmodified":1466312439,
     "wof:name":"Doors Northland Ltd",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fittings"
     ]
 },
-  "bbox": [174.325562,-35.730915,174.325562,-35.730915],
-  "geometry": {"coordinates":[174.325562,-35.730915],"type":"Point"}
+  "bbox": [
+    174.325562,
+    -35.730915,
+    174.325562,
+    -35.730915
+],
+  "geometry": {"coordinates":[174.32556199999999,-35.730915],"type":"Point"}
 }

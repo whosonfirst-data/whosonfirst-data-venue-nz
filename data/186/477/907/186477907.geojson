@@ -2,13 +2,14 @@
   "id": 186477907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.63829,-43.547421,172.63829,-43.547421",
     "geom:latitude":-43.547421,
     "geom:longitude":172.63829,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"319 Brougham St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186477907,
-    "wof:lastmodified":1449050875,
+    "wof:lastmodified":1466312691,
     "wof:name":"Newton Engineering Ltd",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.63829,-43.547421,172.63829,-43.547421],
-  "geometry": {"coordinates":[172.63829,-43.547421],"type":"Point"}
+  "bbox": [
+    172.63829,
+    -43.547421,
+    172.63829,
+    -43.547421
+],
+  "geometry": {"coordinates":[172.63829000000001,-43.547421],"type":"Point"}
 }

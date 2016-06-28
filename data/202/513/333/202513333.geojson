@@ -2,13 +2,14 @@
   "id": 202513333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.213097,19.6873,-99.213097,19.6873",
     "geom:latitude":19.6873,
     "geom:longitude":-99.213097,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"547 Grey St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202513333,
-    "wof:lastmodified":1449061767,
+    "wof:lastmodified":1466312008,
     "wof:name":"Medical Laboratory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialists"
     ]
 },
-  "bbox": [-99.213097,19.6873,-99.213097,19.6873],
+  "bbox": [
+    -99.213097,
+    19.6873,
+    -99.213097,
+    19.6873
+],
   "geometry": {"coordinates":[-99.213097,19.6873],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202501355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.070023,-41.125301,175.070023,-41.125301",
     "geom:latitude":-41.125301,
     "geom:longitude":175.070023,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Princes St Upper Hutt ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202501355,
-    "wof:lastmodified":1449062671,
+    "wof:lastmodified":1466310671,
     "wof:name":"Giles Dr Gary N",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.070023,-41.125301,175.070023,-41.125301],
-  "geometry": {"coordinates":[175.070023,-41.125301],"type":"Point"}
+  "bbox": [
+    175.070023,
+    -41.125301,
+    175.070023,
+    -41.125301
+],
+  "geometry": {"coordinates":[175.07002299999999,-41.125301],"type":"Point"}
 }

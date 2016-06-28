@@ -2,13 +2,14 @@
   "id": 219339167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.614334,-40.360592,175.614334,-40.360592",
     "geom:latitude":-40.360592,
     "geom:longitude":175.614334,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Fitzherbert Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219339167,
-    "wof:lastmodified":1449071971,
+    "wof:lastmodified":1466311254,
     "wof:name":"Fitzherbert Castle Motel",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.614334,-40.360592,175.614334,-40.360592],
-  "geometry": {"coordinates":[175.614334,-40.360592],"type":"Point"}
+  "bbox": [
+    175.614334,
+    -40.360592,
+    175.614334,
+    -40.360592
+],
+  "geometry": {"coordinates":[175.61433400000001,-40.360592],"type":"Point"}
 }

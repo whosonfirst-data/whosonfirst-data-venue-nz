@@ -2,13 +2,14 @@
   "id": 219778153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.014343,-39.949329,175.014343,-39.949329",
     "geom:latitude":-39.949329,
     "geom:longitude":175.014343,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Heads Rd ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219778153,
-    "wof:lastmodified":1449070438,
+    "wof:lastmodified":1466312981,
     "wof:name":"Emmetts Service Centre",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "servicing"
     ]
 },
-  "bbox": [175.014343,-39.949329,175.014343,-39.949329],
+  "bbox": [
+    175.014343,
+    -39.949329,
+    175.014343,
+    -39.949329
+],
   "geometry": {"coordinates":[175.014343,-39.949329],"type":"Point"}
 }

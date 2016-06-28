@@ -2,13 +2,14 @@
   "id": 219393331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.932556,-36.888187,174.932556,-36.888187",
     "geom:latitude":-36.888187,
     "geom:longitude":174.932556,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Solent St Mechanics Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219393331,
-    "wof:lastmodified":1449071503,
+    "wof:lastmodified":1466311743,
     "wof:name":"Helilink Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tourism"
     ]
 },
-  "bbox": [174.932556,-36.888187,174.932556,-36.888187],
-  "geometry": {"coordinates":[174.932556,-36.888187],"type":"Point"}
+  "bbox": [
+    174.932556,
+    -36.888187,
+    174.932556,
+    -36.888187
+],
+  "geometry": {"coordinates":[174.93255600000001,-36.888187],"type":"Point"}
 }

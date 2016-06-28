@@ -2,13 +2,14 @@
   "id": 203174281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.505157,-45.875378,170.505157,-45.875378",
     "geom:latitude":-45.875378,
     "geom:longitude":170.505157,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"407 Moray Pl ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203174281,
-    "wof:lastmodified":1449025198,
+    "wof:lastmodified":1466311125,
     "wof:name":"Presbyterian Support (Otago)",
     "wof:parent_id":85782381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [170.505157,-45.875378,170.505157,-45.875378],
+  "bbox": [
+    170.505157,
+    -45.875378,
+    170.505157,
+    -45.875378
+],
   "geometry": {"coordinates":[170.505157,-45.875378],"type":"Point"}
 }

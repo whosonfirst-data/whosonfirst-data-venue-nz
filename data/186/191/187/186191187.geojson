@@ -2,13 +2,14 @@
   "id": 186191187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.459015,-41.213127,175.459015,-41.213127",
     "geom:latitude":-41.213127,
     "geom:longitude":175.459015,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Princess St ",
     "sg:city":"Martinborough",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":186191187,
-    "wof:lastmodified":1449051982,
+    "wof:lastmodified":1466311320,
     "wof:name":"Waugh Engineering Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.459015,-41.213127,175.459015,-41.213127],
-  "geometry": {"coordinates":[175.459015,-41.213127],"type":"Point"}
+  "bbox": [
+    175.459015,
+    -41.213127,
+    175.459015,
+    -41.213127
+],
+  "geometry": {"coordinates":[175.45901499999999,-41.213127],"type":"Point"}
 }

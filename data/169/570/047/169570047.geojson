@@ -2,13 +2,14 @@
   "id": 169570047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.405716,-37.792549,175.405716,-37.792549",
     "geom:latitude":-37.792549,
     "geom:longitude":175.405716,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 33 Matangi ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169570047,
-    "wof:lastmodified":1449034647,
+    "wof:lastmodified":1466311141,
     "wof:name":"Merino Sheepskin Company Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.405716,-37.792549,175.405716,-37.792549],
-  "geometry": {"coordinates":[175.405716,-37.792549],"type":"Point"}
+  "bbox": [
+    175.405716,
+    -37.792549,
+    175.405716,
+    -37.792549
+],
+  "geometry": {"coordinates":[175.40571600000001,-37.792549],"type":"Point"}
 }

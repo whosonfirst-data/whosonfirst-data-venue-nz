@@ -2,13 +2,14 @@
   "id": 203203693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.614151,-40.353622,175.614151,-40.353622",
     "geom:latitude":-40.353622,
     "geom:longitude":175.614151,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203203693,
-    "wof:lastmodified":1449025750,
+    "wof:lastmodified":1466311403,
     "wof:name":"T & T Childrenswear",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.614151,-40.353622,175.614151,-40.353622],
-  "geometry": {"coordinates":[175.614151,-40.353622],"type":"Point"}
+  "bbox": [
+    175.614151,
+    -40.353622,
+    175.614151,
+    -40.353622
+],
+  "geometry": {"coordinates":[175.61415099999999,-40.353622],"type":"Point"}
 }

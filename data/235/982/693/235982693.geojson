@@ -2,13 +2,14 @@
   "id": 235982693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"77.580002,12.97405,77.580002,12.97405",
     "geom:latitude":12.97405,
     "geom:longitude":77.580002,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Cinema Building 91 Trafalgar St ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235982693,
-    "wof:lastmodified":1449008319,
+    "wof:lastmodified":1466311418,
     "wof:name":"Oscars",
     "wof:parent_id":85930877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cafe"
     ]
 },
-  "bbox": [77.580002,12.97405,77.580002,12.97405],
-  "geometry": {"coordinates":[77.580002,12.97405],"type":"Point"}
+  "bbox": [
+    77.580002,
+    12.97405,
+    77.580002,
+    12.97405
+],
+  "geometry": {"coordinates":[77.58000199999999,12.97405],"type":"Point"}
 }

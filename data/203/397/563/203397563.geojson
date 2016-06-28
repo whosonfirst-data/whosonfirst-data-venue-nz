@@ -2,13 +2,14 @@
   "id": 203397563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.767883,-41.286598,173.767883,-41.286598",
     "geom:latitude":-41.286598,
     "geom:longitude":173.767883,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Rd ",
     "sg:city":"Havelock",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":203397563,
-    "wof:lastmodified":1449025670,
+    "wof:lastmodified":1466312559,
     "wof:name":"Newman Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.767883,-41.286598,173.767883,-41.286598],
-  "geometry": {"coordinates":[173.767883,-41.286598],"type":"Point"}
+  "bbox": [
+    173.767883,
+    -41.286598,
+    173.767883,
+    -41.286598
+],
+  "geometry": {"coordinates":[173.76788300000001,-41.286598],"type":"Point"}
 }

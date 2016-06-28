@@ -2,13 +2,14 @@
   "id": 169776915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.893768,-37.555637,175.893768,-37.555637",
     "geom:latitude":-37.555637,
     "geom:longitude":175.893768,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Busby Rd ",
     "sg:city":"Katikati",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169776915,
-    "wof:lastmodified":1449033407,
+    "wof:lastmodified":1466311472,
     "wof:name":"Penguin Sea & Surf",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "retailers"
     ]
 },
-  "bbox": [175.893768,-37.555637,175.893768,-37.555637],
-  "geometry": {"coordinates":[175.893768,-37.555637],"type":"Point"}
+  "bbox": [
+    175.893768,
+    -37.555637,
+    175.893768,
+    -37.555637
+],
+  "geometry": {"coordinates":[175.89376799999999,-37.555637],"type":"Point"}
 }

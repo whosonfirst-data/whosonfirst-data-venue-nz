@@ -2,13 +2,14 @@
   "id": 185946637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.597885,-40.354946,175.597885,-40.354946",
     "geom:latitude":-40.354946,
     "geom:longitude":175.597885,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 A Pascal St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185946637,
-    "wof:lastmodified":1449008025,
+    "wof:lastmodified":1466312332,
     "wof:name":"Marist Sports Club (PN) Inc",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "facility"
     ]
 },
-  "bbox": [175.597885,-40.354946,175.597885,-40.354946],
-  "geometry": {"coordinates":[175.597885,-40.354946],"type":"Point"}
+  "bbox": [
+    175.597885,
+    -40.354946,
+    175.597885,
+    -40.354946
+],
+  "geometry": {"coordinates":[175.59788499999999,-40.354946],"type":"Point"}
 }

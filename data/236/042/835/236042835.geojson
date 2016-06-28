@@ -2,13 +2,14 @@
   "id": 236042835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.785095,-41.296368,174.785095,-41.296368",
     "geom:latitude":-41.296368,
     "geom:longitude":174.785095,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"H/11 Hawker St Mt Victoria ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236042835,
-    "wof:lastmodified":1449004288,
+    "wof:lastmodified":1466311208,
     "wof:name":"Logan Bill",
     "wof:parent_id":85778473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "arrangement"
     ]
 },
-  "bbox": [174.785095,-41.296368,174.785095,-41.296368],
-  "geometry": {"coordinates":[174.785095,-41.296368],"type":"Point"}
+  "bbox": [
+    174.785095,
+    -41.296368,
+    174.785095,
+    -41.296368
+],
+  "geometry": {"coordinates":[174.78509500000001,-41.296368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185606413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.766632,-36.847088,174.766632,-36.847088",
     "geom:latitude":-36.847088,
     "geom:longitude":174.766632,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2nd Floor 14 Vulcan La Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185606413,
-    "wof:lastmodified":1449006860,
+    "wof:lastmodified":1466310731,
     "wof:name":"McPherson Gallery",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.766632,-36.847088,174.766632,-36.847088],
-  "geometry": {"coordinates":[174.766632,-36.847088],"type":"Point"}
+  "bbox": [
+    174.766632,
+    -36.847088,
+    174.766632,
+    -36.847088
+],
+  "geometry": {"coordinates":[174.76663199999999,-36.847088],"type":"Point"}
 }

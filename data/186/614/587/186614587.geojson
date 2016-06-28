@@ -2,13 +2,14 @@
   "id": 186614587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.623901,-36.890961,174.623901,-36.890961",
     "geom:latitude":-36.890961,
     "geom:longitude":174.623901,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"118 Henderson Valley Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186614587,
-    "wof:lastmodified":1449053092,
+    "wof:lastmodified":1466312981,
     "wof:name":"Planet Health Fitness Ltd",
     "wof:parent_id":85781035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fitness"
     ]
 },
-  "bbox": [174.623901,-36.890961,174.623901,-36.890961],
-  "geometry": {"coordinates":[174.623901,-36.890961],"type":"Point"}
+  "bbox": [
+    174.623901,
+    -36.890961,
+    174.623901,
+    -36.890961
+],
+  "geometry": {"coordinates":[174.62390099999999,-36.890961],"type":"Point"}
 }

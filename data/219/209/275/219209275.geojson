@@ -2,13 +2,14 @@
   "id": 219209275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.816055,-36.902607,174.816055,-36.902607",
     "geom:latitude":-36.902607,
     "geom:longitude":174.816055,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2/19 Gavin St Ellerslie ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219209275,
-    "wof:lastmodified":1449073544,
+    "wof:lastmodified":1466311546,
     "wof:name":"A1 Couriers",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.816055,-36.902607,174.816055,-36.902607],
-  "geometry": {"coordinates":[174.816055,-36.902607],"type":"Point"}
+  "bbox": [
+    174.816055,
+    -36.902607,
+    174.816055,
+    -36.902607
+],
+  "geometry": {"coordinates":[174.81605500000001,-36.902607],"type":"Point"}
 }

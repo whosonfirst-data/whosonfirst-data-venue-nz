@@ -2,13 +2,14 @@
   "id": 202628581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.500763,-45.892872,170.500763,-45.892872",
     "geom:latitude":-45.892872,
     "geom:longitude":170.500763,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Waverley St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202628581,
-    "wof:lastmodified":1449062183,
+    "wof:lastmodified":1466311749,
     "wof:name":"Sneddon Graeme Ltd",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [170.500763,-45.892872,170.500763,-45.892872],
-  "geometry": {"coordinates":[170.500763,-45.892872],"type":"Point"}
+  "bbox": [
+    170.500763,
+    -45.892872,
+    170.500763,
+    -45.892872
+],
+  "geometry": {"coordinates":[170.50076300000001,-45.892872],"type":"Point"}
 }

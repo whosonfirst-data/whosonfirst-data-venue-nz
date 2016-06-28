@@ -2,13 +2,14 @@
   "id": 169851621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.692413,-36.893391,174.692413,-36.893391",
     "geom:latitude":-36.893391,
     "geom:longitude":174.692413,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 119 Rosebank Rd Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169851621,
-    "wof:lastmodified":1449034863,
+    "wof:lastmodified":1466312226,
     "wof:name":"Visions Mobile Disco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.692413,-36.893391,174.692413,-36.893391],
-  "geometry": {"coordinates":[174.692413,-36.893391],"type":"Point"}
+  "bbox": [
+    174.692413,
+    -36.893391,
+    174.692413,
+    -36.893391
+],
+  "geometry": {"coordinates":[174.69241299999999,-36.893391],"type":"Point"}
 }

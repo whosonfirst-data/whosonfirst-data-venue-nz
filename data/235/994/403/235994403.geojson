@@ -2,13 +2,14 @@
   "id": 235994403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.838699,-36.90834,174.838699,-36.90834",
     "geom:latitude":-36.90834,
     "geom:longitude":174.838699,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"284 Penrose Rd Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235994403,
-    "wof:lastmodified":1449008288,
+    "wof:lastmodified":1466311567,
     "wof:name":"Koh's Roast Takeaways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pizza"
     ]
 },
-  "bbox": [174.838699,-36.90834,174.838699,-36.90834],
-  "geometry": {"coordinates":[174.838699,-36.90834],"type":"Point"}
+  "bbox": [
+    174.838699,
+    -36.90834,
+    174.838699,
+    -36.90834
+],
+  "geometry": {"coordinates":[174.83869899999999,-36.90834],"type":"Point"}
 }

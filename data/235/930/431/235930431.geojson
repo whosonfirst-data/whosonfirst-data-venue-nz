@@ -2,13 +2,14 @@
   "id": 235930431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.228806,-38.133656,176.228806,-38.133656",
     "geom:latitude":-38.133656,
     "geom:longitude":176.228806,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"82-84 Pururu St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235930431,
-    "wof:lastmodified":1449008363,
+    "wof:lastmodified":1466310606,
     "wof:name":"Bay of Plenty Meat Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "meats"
     ]
 },
-  "bbox": [176.228806,-38.133656,176.228806,-38.133656],
-  "geometry": {"coordinates":[176.228806,-38.133656],"type":"Point"}
+  "bbox": [
+    176.228806,
+    -38.133656,
+    176.228806,
+    -38.133656
+],
+  "geometry": {"coordinates":[176.22880599999999,-38.133656],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203047189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-109.546745,37.286579,-109.546745,37.286579",
     "geom:latitude":37.286579,
     "geom:longitude":-109.546745,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Foreshore Rd ",
     "sg:city":"Bluff",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":203047189,
-    "wof:lastmodified":1449026196,
+    "wof:lastmodified":1466311448,
     "wof:name":"Osborn Engineering Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [-109.546745,37.286579,-109.546745,37.286579],
+  "bbox": [
+    -109.546745,
+    37.286579,
+    -109.546745,
+    37.286579
+],
   "geometry": {"coordinates":[-109.546745,37.286579],"type":"Point"}
 }

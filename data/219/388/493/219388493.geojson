@@ -2,13 +2,14 @@
   "id": 219388493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.330215,-35.803238,174.330215,-35.803238",
     "geom:latitude":-35.803238,
     "geom:longitude":174.330215,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"McGill Rd Portland ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219388493,
-    "wof:lastmodified":1449070504,
+    "wof:lastmodified":1466311686,
     "wof:name":"Portland Recreation Centre Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "broker"
     ]
 },
-  "bbox": [174.330215,-35.803238,174.330215,-35.803238],
-  "geometry": {"coordinates":[174.330215,-35.803238],"type":"Point"}
+  "bbox": [
+    174.330215,
+    -35.803238,
+    174.330215,
+    -35.803238
+],
+  "geometry": {"coordinates":[174.33021500000001,-35.803238],"type":"Point"}
 }

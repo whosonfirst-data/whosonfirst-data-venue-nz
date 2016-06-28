@@ -2,13 +2,14 @@
   "id": 202807381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.710922,-43.493866,172.710922,-43.493866",
     "geom:latitude":-43.493866,
     "geom:longitude":172.710922,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"223 Bower Ave North New Brighton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202807381,
-    "wof:lastmodified":1449060762,
+    "wof:lastmodified":1466312553,
     "wof:name":"A Better Waterbed Service",
     "wof:parent_id":85778899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [172.710922,-43.493866,172.710922,-43.493866],
-  "geometry": {"coordinates":[172.710922,-43.493866],"type":"Point"}
+  "bbox": [
+    172.710922,
+    -43.493866,
+    172.710922,
+    -43.493866
+],
+  "geometry": {"coordinates":[172.71092200000001,-43.493866],"type":"Point"}
 }

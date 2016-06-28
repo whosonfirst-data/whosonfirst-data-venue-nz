@@ -2,13 +2,14 @@
   "id": 202465375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.699661,-36.745281,174.699661,-36.745281",
     "geom:latitude":-36.745281,
     "geom:longitude":174.699661,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 a Douglas Alexander Pde Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202465375,
-    "wof:lastmodified":1449061794,
+    "wof:lastmodified":1466311839,
     "wof:name":"Plega Healthcare NZ Ltd",
     "wof:parent_id":85772825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.699661,-36.745281,174.699661,-36.745281],
-  "geometry": {"coordinates":[174.699661,-36.745281],"type":"Point"}
+  "bbox": [
+    174.699661,
+    -36.745281,
+    174.699661,
+    -36.745281
+],
+  "geometry": {"coordinates":[174.69966099999999,-36.745281],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202410605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.486298,-45.88348,170.486298,-45.88348",
     "geom:latitude":-45.88348,
     "geom:longitude":170.486298,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 McGeorge Ave Mornington ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202410605,
-    "wof:lastmodified":1449060141,
+    "wof:lastmodified":1466311334,
     "wof:name":"Miramare Needs Assessment & Service Co-Ordination",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "beauty"
     ]
 },
-  "bbox": [170.486298,-45.88348,170.486298,-45.88348],
-  "geometry": {"coordinates":[170.486298,-45.88348],"type":"Point"}
+  "bbox": [
+    170.486298,
+    -45.88348,
+    170.486298,
+    -45.88348
+],
+  "geometry": {"coordinates":[170.48629800000001,-45.88348],"type":"Point"}
 }

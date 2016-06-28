@@ -2,13 +2,14 @@
   "id": 202576439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.561569,-40.22234,175.561569,-40.22234",
     "geom:latitude":-40.22234,
     "geom:longitude":175.561569,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Manchester St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202576439,
-    "wof:lastmodified":1449062077,
+    "wof:lastmodified":1466311322,
     "wof:name":"Creations of Nala",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.561569,-40.22234,175.561569,-40.22234],
-  "geometry": {"coordinates":[175.561569,-40.22234],"type":"Point"}
+  "bbox": [
+    175.561569,
+    -40.22234,
+    175.561569,
+    -40.22234
+],
+  "geometry": {"coordinates":[175.56156899999999,-40.22234],"type":"Point"}
 }

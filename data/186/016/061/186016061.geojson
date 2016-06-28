@@ -2,13 +2,14 @@
   "id": 186016061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.640869,-36.801636,174.640869,-36.801636",
     "geom:latitude":-36.801636,
     "geom:longitude":174.640869,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Hobsonville Rd Hobsonville ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186016061,
-    "wof:lastmodified":1449050880,
+    "wof:lastmodified":1466310808,
     "wof:name":"Hobson Motor Inn",
     "wof:parent_id":85778731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [174.640869,-36.801636,174.640869,-36.801636],
-  "geometry": {"coordinates":[174.640869,-36.801636],"type":"Point"}
+  "bbox": [
+    174.640869,
+    -36.801636,
+    174.640869,
+    -36.801636
+],
+  "geometry": {"coordinates":[174.64086900000001,-36.801636],"type":"Point"}
 }

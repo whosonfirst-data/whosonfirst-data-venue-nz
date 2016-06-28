@@ -2,13 +2,14 @@
   "id": 169601639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.514252,-45.858559,170.514252,-45.858559",
     "geom:latitude":-45.858559,
     "geom:longitude":170.514252,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"841 Great King St Nth Dunedin North ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169601639,
-    "wof:lastmodified":1449034148,
+    "wof:lastmodified":1466311651,
     "wof:name":"Galaxy Books of Otago",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.514252,-45.858559,170.514252,-45.858559],
+  "bbox": [
+    170.514252,
+    -45.858559,
+    170.514252,
+    -45.858559
+],
   "geometry": {"coordinates":[170.514252,-45.858559],"type":"Point"}
 }

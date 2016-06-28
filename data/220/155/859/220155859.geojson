@@ -2,13 +2,14 @@
   "id": 220155859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.645905,-36.873886,174.645905,-36.873886",
     "geom:latitude":-36.873886,
     "geom:longitude":174.645905,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"149 Te Atatu Rd Te Atatu South ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220155859,
-    "wof:lastmodified":1449074712,
+    "wof:lastmodified":1466311114,
     "wof:name":"Happy Cabbage",
     "wof:parent_id":85778669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "veges"
     ]
 },
-  "bbox": [174.645905,-36.873886,174.645905,-36.873886],
+  "bbox": [
+    174.645905,
+    -36.873886,
+    174.645905,
+    -36.873886
+],
   "geometry": {"coordinates":[174.645905,-36.873886],"type":"Point"}
 }

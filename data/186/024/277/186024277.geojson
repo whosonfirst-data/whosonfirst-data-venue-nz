@@ -2,13 +2,14 @@
   "id": 186024277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.59343,-40.346863,175.59343,-40.346863",
     "geom:latitude":-40.346863,
     "geom:longitude":175.59343,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"481 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186024277,
-    "wof:lastmodified":1449051669,
+    "wof:lastmodified":1466310978,
     "wof:name":"Blasting P.N. Ltd",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.59343,-40.346863,175.59343,-40.346863],
-  "geometry": {"coordinates":[175.59343,-40.346863],"type":"Point"}
+  "bbox": [
+    175.59343,
+    -40.346863,
+    175.59343,
+    -40.346863
+],
+  "geometry": {"coordinates":[175.59343000000001,-40.346863],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219570187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.76651,-37.634743,175.76651,-37.634743",
     "geom:latitude":-37.634743,
     "geom:longitude":175.76651,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Manawaru Road Te ",
     "sg:city":"Aroha",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219570187,
-    "wof:lastmodified":1449072477,
+    "wof:lastmodified":1466312601,
     "wof:name":"Autogleem Car Groomers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.76651,-37.634743,175.76651,-37.634743],
-  "geometry": {"coordinates":[175.76651,-37.634743],"type":"Point"}
+  "bbox": [
+    175.76651,
+    -37.634743,
+    175.76651,
+    -37.634743
+],
+  "geometry": {"coordinates":[175.76651000000001,-37.634743],"type":"Point"}
 }

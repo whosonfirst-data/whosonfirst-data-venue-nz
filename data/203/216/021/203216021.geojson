@@ -2,13 +2,14 @@
   "id": 203216021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.682281,-36.908554,174.682281,-36.908554",
     "geom:latitude":-36.908554,
     "geom:longitude":174.682281,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3088 Gt North Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203216021,
-    "wof:lastmodified":1449026651,
+    "wof:lastmodified":1466311513,
     "wof:name":"Second Generation +",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabric"
     ]
 },
-  "bbox": [174.682281,-36.908554,174.682281,-36.908554],
-  "geometry": {"coordinates":[174.682281,-36.908554],"type":"Point"}
+  "bbox": [
+    174.682281,
+    -36.908554,
+    174.682281,
+    -36.908554
+],
+  "geometry": {"coordinates":[174.68228099999999,-36.908554],"type":"Point"}
 }

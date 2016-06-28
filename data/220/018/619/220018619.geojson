@@ -2,13 +2,14 @@
   "id": 220018619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.169083,-37.684242,176.169083,-37.684242",
     "geom:latitude":-37.684242,
     "geom:longitude":176.169083,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Willow St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220018619,
-    "wof:lastmodified":1449074438,
+    "wof:lastmodified":1466311010,
     "wof:name":"AMP Centre Tauranga",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "finance"
     ]
 },
-  "bbox": [176.169083,-37.684242,176.169083,-37.684242],
+  "bbox": [
+    176.169083,
+    -37.684242,
+    176.169083,
+    -37.684242
+],
   "geometry": {"coordinates":[176.169083,-37.684242],"type":"Point"}
 }

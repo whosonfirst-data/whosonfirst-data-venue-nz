@@ -2,13 +2,14 @@
   "id": 219508041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.600677,-40.338383,175.600677,-40.338383",
     "geom:latitude":-40.338383,
     "geom:longitude":175.600677,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"155 a Fairs Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219508041,
-    "wof:lastmodified":1449072354,
+    "wof:lastmodified":1466312412,
     "wof:name":"Paneke Community Development & Training Organisation (Inc)",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "education"
     ]
 },
-  "bbox": [175.600677,-40.338383,175.600677,-40.338383],
-  "geometry": {"coordinates":[175.600677,-40.338383],"type":"Point"}
+  "bbox": [
+    175.600677,
+    -40.338383,
+    175.600677,
+    -40.338383
+],
+  "geometry": {"coordinates":[175.60067699999999,-40.338383],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219699085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.098328,-41.105091,175.098328,-41.105091",
     "geom:latitude":-41.105091,
     "geom:longitude":175.098328,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1292 Fergusson Dve Brown Owl Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219699085,
-    "wof:lastmodified":1449070881,
+    "wof:lastmodified":1466312905,
     "wof:name":"Caravan Hire",
     "wof:parent_id":85781759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.098328,-41.105091,175.098328,-41.105091],
-  "geometry": {"coordinates":[175.098328,-41.105091],"type":"Point"}
+  "bbox": [
+    175.098328,
+    -41.105091,
+    175.098328,
+    -41.105091
+],
+  "geometry": {"coordinates":[175.09832800000001,-41.105091],"type":"Point"}
 }

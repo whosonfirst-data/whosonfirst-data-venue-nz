@@ -2,13 +2,14 @@
   "id": 186119915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.892731,-36.939678,174.892731,-36.939678",
     "geom:latitude":-36.939678,
     "geom:longitude":174.892731,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Crooks Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186119915,
-    "wof:lastmodified":1449052279,
+    "wof:lastmodified":1466310714,
     "wof:name":"A H Gears Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.892731,-36.939678,174.892731,-36.939678],
+  "bbox": [
+    174.892731,
+    -36.939678,
+    174.892731,
+    -36.939678
+],
   "geometry": {"coordinates":[174.892731,-36.939678],"type":"Point"}
 }

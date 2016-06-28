@@ -2,13 +2,14 @@
   "id": 185799173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.746323,40.213909,-74.746323,40.213909",
     "geom:latitude":40.213909,
     "geom:longitude":-74.746323,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Kent St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185799173,
-    "wof:lastmodified":1449008215,
+    "wof:lastmodified":1466311214,
     "wof:name":"Frankton Model Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-74.746323,40.213909,-74.746323,40.213909],
+  "bbox": [
+    -74.746323,
+    40.213909,
+    -74.746323,
+    40.213909
+],
   "geometry": {"coordinates":[-74.746323,40.213909],"type":"Point"}
 }

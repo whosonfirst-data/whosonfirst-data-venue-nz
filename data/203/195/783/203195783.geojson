@@ -2,13 +2,14 @@
   "id": 203195783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.833679,-41.156563,174.833679,-41.156563",
     "geom:latitude":-41.156563,
     "geom:longitude":174.833679,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Handyside St Linden ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203195783,
-    "wof:lastmodified":1449026227,
+    "wof:lastmodified":1466311334,
     "wof:name":"Regalia Supplies Ltd",
     "wof:parent_id":85773013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fabric"
     ]
 },
-  "bbox": [174.833679,-41.156563,174.833679,-41.156563],
-  "geometry": {"coordinates":[174.833679,-41.156563],"type":"Point"}
+  "bbox": [
+    174.833679,
+    -41.156563,
+    174.833679,
+    -41.156563
+],
+  "geometry": {"coordinates":[174.83367899999999,-41.156563],"type":"Point"}
 }

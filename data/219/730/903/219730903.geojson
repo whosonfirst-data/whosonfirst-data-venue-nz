@@ -2,13 +2,14 @@
   "id": 219730903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.316589,-35.729359,174.316589,-35.729359",
     "geom:latitude":-35.729359,
     "geom:longitude":174.316589,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Porowini Ave ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219730903,
-    "wof:lastmodified":1449073344,
+    "wof:lastmodified":1466312876,
     "wof:name":"Barrie Eyles Electrical Ltd",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.316589,-35.729359,174.316589,-35.729359],
-  "geometry": {"coordinates":[174.316589,-35.729359],"type":"Point"}
+  "bbox": [
+    174.316589,
+    -35.729359,
+    174.316589,
+    -35.729359
+],
+  "geometry": {"coordinates":[174.31658899999999,-35.729359],"type":"Point"}
 }

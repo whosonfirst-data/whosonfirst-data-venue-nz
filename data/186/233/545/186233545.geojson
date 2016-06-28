@@ -2,13 +2,14 @@
   "id": 186233545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.34433,-46.386845,168.34433,-46.386845",
     "geom:latitude":-46.386845,
     "geom:longitude":168.34433,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Dudley St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186233545,
-    "wof:lastmodified":1449053065,
+    "wof:lastmodified":1466311707,
     "wof:name":"McLean Cranes Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lifting"
     ]
 },
-  "bbox": [168.34433,-46.386845,168.34433,-46.386845],
-  "geometry": {"coordinates":[168.34433,-46.386845],"type":"Point"}
+  "bbox": [
+    168.34433,
+    -46.386845,
+    168.34433,
+    -46.386845
+],
+  "geometry": {"coordinates":[168.34433000000001,-46.386845],"type":"Point"}
 }

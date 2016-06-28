@@ -2,13 +2,14 @@
   "id": 202508621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.827087,-36.870098,174.827087,-36.870098",
     "geom:latitude":-36.870098,
     "geom:longitude":174.827087,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop10/35 St Johns Rd Meadowbank ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202508621,
-    "wof:lastmodified":1449061530,
+    "wof:lastmodified":1466312009,
     "wof:name":"Caci Clinic Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.827087,-36.870098,174.827087,-36.870098],
-  "geometry": {"coordinates":[174.827087,-36.870098],"type":"Point"}
+  "bbox": [
+    174.827087,
+    -36.870098,
+    174.827087,
+    -36.870098
+],
+  "geometry": {"coordinates":[174.82708700000001,-36.870098],"type":"Point"}
 }

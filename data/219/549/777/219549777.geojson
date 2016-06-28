@@ -2,13 +2,14 @@
   "id": 219549777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.602051,-40.338013,175.602051,-40.338013",
     "geom:latitude":-40.338013,
     "geom:longitude":175.602051,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Fairs Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219549777,
-    "wof:lastmodified":1449071373,
+    "wof:lastmodified":1466312465,
     "wof:name":"Mobile Auto Dynamics Ltd",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.602051,-40.338013,175.602051,-40.338013],
-  "geometry": {"coordinates":[175.602051,-40.338013],"type":"Point"}
+  "bbox": [
+    175.602051,
+    -40.338013,
+    175.602051,
+    -40.338013
+],
+  "geometry": {"coordinates":[175.60205099999999,-40.338013],"type":"Point"}
 }

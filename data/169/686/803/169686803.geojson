@@ -2,13 +2,14 @@
   "id": 169686803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.083008,44.813019,-73.083008,44.813019",
     "geom:latitude":44.813019,
     "geom:longitude":-73.083008,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 St Albans St ",
     "sg:city":"Kaitangata",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169686803,
-    "wof:lastmodified":1449035159,
+    "wof:lastmodified":1466310867,
     "wof:name":"South Otago Saddlery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.083008,44.813019,-73.083008,44.813019],
-  "geometry": {"coordinates":[-73.083008,44.813019],"type":"Point"}
+  "bbox": [
+    -73.083008,
+    44.813019,
+    -73.083008,
+    44.813019
+],
+  "geometry": {"coordinates":[-73.08300800000001,44.813019],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219511101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.631226,-36.881828,174.631226,-36.881828",
     "geom:latitude":-36.881828,
     "geom:longitude":174.631226,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Great North & Edmonton Rds Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219511101,
-    "wof:lastmodified":1449072024,
+    "wof:lastmodified":1466312330,
     "wof:name":"Waipareira Trust",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "education"
     ]
 },
-  "bbox": [174.631226,-36.881828,174.631226,-36.881828],
+  "bbox": [
+    174.631226,
+    -36.881828,
+    174.631226,
+    -36.881828
+],
   "geometry": {"coordinates":[174.631226,-36.881828],"type":"Point"}
 }

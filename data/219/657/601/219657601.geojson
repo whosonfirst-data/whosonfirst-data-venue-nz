@@ -2,13 +2,14 @@
   "id": 219657601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.929565,-37.050705,174.929565,-37.050705",
     "geom:latitude":-37.050705,
     "geom:longitude":174.929565,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"254 Gt South Rd Takanini ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219657601,
-    "wof:lastmodified":1449070782,
+    "wof:lastmodified":1466312723,
     "wof:name":"Barry's Tyre Shop",
     "wof:parent_id":85781393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.929565,-37.050705,174.929565,-37.050705],
+  "bbox": [
+    174.929565,
+    -37.050705,
+    174.929565,
+    -37.050705
+],
   "geometry": {"coordinates":[174.929565,-37.050705],"type":"Point"}
 }

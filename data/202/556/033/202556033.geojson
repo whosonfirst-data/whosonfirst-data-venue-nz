@@ -2,13 +2,14 @@
   "id": 202556033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.63765,-43.521107,172.63765,-43.521107",
     "geom:latitude":-43.521107,
     "geom:longitude":172.63765,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"156 Bealey Ave ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202556033,
-    "wof:lastmodified":1449060745,
+    "wof:lastmodified":1466311135,
     "wof:name":"Baxter Bruce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.63765,-43.521107,172.63765,-43.521107],
-  "geometry": {"coordinates":[172.63765,-43.521107],"type":"Point"}
+  "bbox": [
+    172.63765,
+    -43.521107,
+    172.63765,
+    -43.521107
+],
+  "geometry": {"coordinates":[172.63765000000001,-43.521107],"type":"Point"}
 }

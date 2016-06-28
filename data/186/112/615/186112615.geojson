@@ -2,13 +2,14 @@
   "id": 186112615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.60437,-43.560154,172.60437,-43.560154",
     "geom:latitude":-43.560154,
     "geom:longitude":172.60437,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"111 a Hoon Hay Rd Hoon ",
     "sg:city":"Hay",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":186112615,
-    "wof:lastmodified":1449051605,
+    "wof:lastmodified":1466310647,
     "wof:name":"Canterbury Gas Refills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.60437,-43.560154,172.60437,-43.560154],
-  "geometry": {"coordinates":[172.60437,-43.560154],"type":"Point"}
+  "bbox": [
+    172.60437,
+    -43.560154,
+    172.60437,
+    -43.560154
+],
+  "geometry": {"coordinates":[172.60436999999999,-43.560154],"type":"Point"}
 }

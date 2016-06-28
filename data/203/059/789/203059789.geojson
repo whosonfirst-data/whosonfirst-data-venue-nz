@@ -2,13 +2,14 @@
   "id": 203059789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.747849,-36.801125,174.747849,-36.801125",
     "geom:latitude":-36.801125,
     "geom:longitude":174.747849,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Ocean View Rd Northcote ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203059789,
-    "wof:lastmodified":1449025426,
+    "wof:lastmodified":1466311595,
     "wof:name":"Fencing Solutions Ltd",
     "wof:parent_id":85778503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [174.747849,-36.801125,174.747849,-36.801125],
+  "bbox": [
+    174.747849,
+    -36.801125,
+    174.747849,
+    -36.801125
+],
   "geometry": {"coordinates":[174.747849,-36.801125],"type":"Point"}
 }

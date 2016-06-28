@@ -2,13 +2,14 @@
   "id": 186544041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.22316,-38.117359,176.22316,-38.117359",
     "geom:latitude":-38.117359,
     "geom:longitude":176.22316,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Kokako St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186544041,
-    "wof:lastmodified":1449053020,
+    "wof:lastmodified":1466312881,
     "wof:name":"Selwyn Hairstylists",
     "wof:parent_id":85781129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.22316,-38.117359,176.22316,-38.117359],
-  "geometry": {"coordinates":[176.22316,-38.117359],"type":"Point"}
+  "bbox": [
+    176.22316,
+    -38.117359,
+    176.22316,
+    -38.117359
+],
+  "geometry": {"coordinates":[176.22316000000001,-38.117359],"type":"Point"}
 }

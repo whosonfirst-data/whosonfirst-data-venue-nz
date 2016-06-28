@@ -2,13 +2,14 @@
   "id": 202658237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.662506,-45.017673,168.662506,-45.017673",
     "geom:latitude":-45.017673,
     "geom:longitude":168.662506,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Industrial Pl ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202658237,
-    "wof:lastmodified":1449060053,
+    "wof:lastmodified":1466312073,
     "wof:name":"4 Seasons Home & Leisure",
     "wof:parent_id":85781443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "related"
     ]
 },
-  "bbox": [168.662506,-45.017673,168.662506,-45.017673],
-  "geometry": {"coordinates":[168.662506,-45.017673],"type":"Point"}
+  "bbox": [
+    168.662506,
+    -45.017673,
+    168.662506,
+    -45.017673
+],
+  "geometry": {"coordinates":[168.66250600000001,-45.017673],"type":"Point"}
 }

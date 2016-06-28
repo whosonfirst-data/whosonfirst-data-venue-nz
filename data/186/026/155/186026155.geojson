@@ -2,13 +2,14 @@
   "id": 186026155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.590714,-40.346992,175.590714,-40.346992",
     "geom:latitude":-40.346992,
     "geom:longitude":175.590714,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19-25 Pirani Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186026155,
-    "wof:lastmodified":1449051951,
+    "wof:lastmodified":1466311014,
     "wof:name":"Manawatu Blasting Limited",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.590714,-40.346992,175.590714,-40.346992],
-  "geometry": {"coordinates":[175.590714,-40.346992],"type":"Point"}
+  "bbox": [
+    175.590714,
+    -40.346992,
+    175.590714,
+    -40.346992
+],
+  "geometry": {"coordinates":[175.59071399999999,-40.346992],"type":"Point"}
 }

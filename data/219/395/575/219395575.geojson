@@ -2,13 +2,14 @@
   "id": 219395575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.977783,-38.659969,177.977783,-38.659969",
     "geom:latitude":-38.659969,
     "geom:longitude":177.977783,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Gisborne Airport ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219395575,
-    "wof:lastmodified":1449073394,
+    "wof:lastmodified":1466311770,
     "wof:name":"Eagle Air",
     "wof:parent_id":85781855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tourism"
     ]
 },
-  "bbox": [177.977783,-38.659969,177.977783,-38.659969],
-  "geometry": {"coordinates":[177.977783,-38.659969],"type":"Point"}
+  "bbox": [
+    177.977783,
+    -38.659969,
+    177.977783,
+    -38.659969
+],
+  "geometry": {"coordinates":[177.97778299999999,-38.659969],"type":"Point"}
 }

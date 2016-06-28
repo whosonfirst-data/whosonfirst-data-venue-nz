@@ -2,13 +2,14 @@
   "id": 203416755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.242599,-37.754559,175.242599,-37.754559",
     "geom:latitude":-37.754559,
     "geom:longitude":175.242599,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"681 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203416755,
-    "wof:lastmodified":1449025763,
+    "wof:lastmodified":1466312587,
     "wof:name":"Roger Gill Marine Ltd",
     "wof:parent_id":85773235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.242599,-37.754559,175.242599,-37.754559],
-  "geometry": {"coordinates":[175.242599,-37.754559],"type":"Point"}
+  "bbox": [
+    175.242599,
+    -37.754559,
+    175.242599,
+    -37.754559
+],
+  "geometry": {"coordinates":[175.24259900000001,-37.754559],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220163897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-94.860168,36.205189,-94.860168,36.205189",
     "geom:latitude":36.205189,
     "geom:longitude":-94.860168,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Twin Oaks Main Rd ",
     "sg:city":"Manakau",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220163897,
-    "wof:lastmodified":1449074860,
+    "wof:lastmodified":1466311182,
     "wof:name":"Home Grown Company",
     "wof:parent_id":85852913,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "veges"
     ]
 },
-  "bbox": [-94.860168,36.205189,-94.860168,36.205189],
+  "bbox": [
+    -94.860168,
+    36.205189,
+    -94.860168,
+    36.205189
+],
   "geometry": {"coordinates":[-94.860168,36.205189],"type":"Point"}
 }

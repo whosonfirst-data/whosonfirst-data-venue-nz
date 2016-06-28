@@ -2,13 +2,14 @@
   "id": 169732401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.159271,-37.706753,176.159271,-37.706753",
     "geom:latitude":-37.706753,
     "geom:longitude":176.159271,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"124 D Fraser St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169732401,
-    "wof:lastmodified":1449036073,
+    "wof:lastmodified":1466311156,
     "wof:name":"Fraser Street Foodmarket",
     "wof:parent_id":85782817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.159271,-37.706753,176.159271,-37.706753],
-  "geometry": {"coordinates":[176.159271,-37.706753],"type":"Point"}
+  "bbox": [
+    176.159271,
+    -37.706753,
+    176.159271,
+    -37.706753
+],
+  "geometry": {"coordinates":[176.15927099999999,-37.706753],"type":"Point"}
 }

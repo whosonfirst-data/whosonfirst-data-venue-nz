@@ -2,13 +2,14 @@
   "id": 202991781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.238892,-44.371227,171.238892,-44.371227",
     "geom:latitude":-44.371227,
     "geom:longitude":171.238892,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Ellesmere Pl ",
     "sg:city":"Timaru",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202991781,
-    "wof:lastmodified":1449060905,
+    "wof:lastmodified":1466312981,
     "wof:name":"Lawns 'R' Us",
     "wof:parent_id":85781627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [171.238892,-44.371227,171.238892,-44.371227],
-  "geometry": {"coordinates":[171.238892,-44.371227],"type":"Point"}
+  "bbox": [
+    171.238892,
+    -44.371227,
+    171.238892,
+    -44.371227
+],
+  "geometry": {"coordinates":[171.23889199999999,-44.371227],"type":"Point"}
 }

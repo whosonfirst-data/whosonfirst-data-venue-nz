@@ -2,13 +2,14 @@
   "id": 219811463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.262344,-38.150719,176.262344,-38.150719",
     "geom:latitude":-38.150719,
     "geom:longitude":176.262344,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"44 White St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219811463,
-    "wof:lastmodified":1449072092,
+    "wof:lastmodified":1466312968,
     "wof:name":"Te Ngae Panelbeaters",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beater"
     ]
 },
-  "bbox": [176.262344,-38.150719,176.262344,-38.150719],
-  "geometry": {"coordinates":[176.262344,-38.150719],"type":"Point"}
+  "bbox": [
+    176.262344,
+    -38.150719,
+    176.262344,
+    -38.150719
+],
+  "geometry": {"coordinates":[176.26234400000001,-38.150719],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236010053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.520012,35.331444,-82.520012,35.331444",
     "geom:latitude":35.331444,
     "geom:longitude":-82.520012,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop/96 Ellis St ",
     "sg:city":"Brightwater",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236010053,
-    "wof:lastmodified":1449003758,
+    "wof:lastmodified":1466310809,
     "wof:name":"Brightwater Dairy & Takeaways",
     "wof:parent_id":85847699,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "takeaway"
     ]
 },
-  "bbox": [-82.520012,35.331444,-82.520012,35.331444],
-  "geometry": {"coordinates":[-82.520012,35.331444],"type":"Point"}
+  "bbox": [
+    -82.520012,
+    35.331444,
+    -82.520012,
+    35.331444
+],
+  "geometry": {"coordinates":[-82.52001199999999,35.331444],"type":"Point"}
 }

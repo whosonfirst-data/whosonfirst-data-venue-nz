@@ -2,13 +2,14 @@
   "id": 203141937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.216187,-38.123104,176.216187,-38.123104",
     "geom:latitude":-38.123104,
     "geom:longitude":176.216187,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Gordon Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203141937,
-    "wof:lastmodified":1449025586,
+    "wof:lastmodified":1466310842,
     "wof:name":"Four Paws Rural Rotorua",
     "wof:parent_id":85781129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pets"
     ]
 },
-  "bbox": [176.216187,-38.123104,176.216187,-38.123104],
-  "geometry": {"coordinates":[176.216187,-38.123104],"type":"Point"}
+  "bbox": [
+    176.216187,
+    -38.123104,
+    176.216187,
+    -38.123104
+],
+  "geometry": {"coordinates":[176.21618699999999,-38.123104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186561151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.7211,-43.602421,172.7211,-43.602421",
     "geom:latitude":-43.602421,
     "geom:longitude":172.7211,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 London St ",
     "sg:city":"Lyttelton",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186561151,
-    "wof:lastmodified":1449052256,
+    "wof:lastmodified":1466312830,
     "wof:name":"Latitude",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "beauty"
     ]
 },
-  "bbox": [172.7211,-43.602421,172.7211,-43.602421],
-  "geometry": {"coordinates":[172.7211,-43.602421],"type":"Point"}
+  "bbox": [
+    172.7211,
+    -43.602421,
+    172.7211,
+    -43.602421
+],
+  "geometry": {"coordinates":[172.72110000000001,-43.602421],"type":"Point"}
 }

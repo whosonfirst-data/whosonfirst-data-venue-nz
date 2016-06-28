@@ -2,13 +2,14 @@
   "id": 185961513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.105286,-38.684055,176.105286,-38.684055",
     "geom:latitude":-38.684055,
     "geom:longitude":176.105286,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"231 Tauhara Rd ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":185961513,
-    "wof:lastmodified":1449008159,
+    "wof:lastmodified":1466312273,
     "wof:name":"Alcatraz Self Storage",
     "wof:parent_id":85781171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.105286,-38.684055,176.105286,-38.684055],
-  "geometry": {"coordinates":[176.105286,-38.684055],"type":"Point"}
+  "bbox": [
+    176.105286,
+    -38.684055,
+    176.105286,
+    -38.684055
+],
+  "geometry": {"coordinates":[176.10528600000001,-38.684055],"type":"Point"}
 }

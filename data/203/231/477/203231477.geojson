@@ -2,13 +2,14 @@
   "id": 203231477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.27504,-40.628025,175.27504,-40.628025",
     "geom:latitude":-40.628025,
     "geom:longitude":175.27504,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 McKenzie St ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203231477,
-    "wof:lastmodified":1449025899,
+    "wof:lastmodified":1466311660,
     "wof:name":"MTS Apparel",
     "wof:parent_id":85782865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [175.27504,-40.628025,175.27504,-40.628025],
-  "geometry": {"coordinates":[175.27504,-40.628025],"type":"Point"}
+  "bbox": [
+    175.27504,
+    -40.628025,
+    175.27504,
+    -40.628025
+],
+  "geometry": {"coordinates":[175.27503999999999,-40.628025],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169648201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.969818,-45.096329,170.969818,-45.096329",
     "geom:latitude":-45.096329,
     "geom:longitude":170.969818,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Eden St ",
     "sg:city":"Oamaru",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169648201,
-    "wof:lastmodified":1449033587,
+    "wof:lastmodified":1466311995,
     "wof:name":"The Warehouse Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.969818,-45.096329,170.969818,-45.096329],
+  "bbox": [
+    170.969818,
+    -45.096329,
+    170.969818,
+    -45.096329
+],
   "geometry": {"coordinates":[170.969818,-45.096329],"type":"Point"}
 }

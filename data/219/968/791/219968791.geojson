@@ -2,13 +2,14 @@
   "id": 219968791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.565475,-40.227734,175.565475,-40.227734",
     "geom:latitude":-40.227734,
     "geom:longitude":175.565475,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Manchester St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219968791,
-    "wof:lastmodified":1449070608,
+    "wof:lastmodified":1466313172,
     "wof:name":"Farmlands Trading Society Ltd",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [175.565475,-40.227734,175.565475,-40.227734],
-  "geometry": {"coordinates":[175.565475,-40.227734],"type":"Point"}
+  "bbox": [
+    175.565475,
+    -40.227734,
+    175.565475,
+    -40.227734
+],
+  "geometry": {"coordinates":[175.56547499999999,-40.227734],"type":"Point"}
 }

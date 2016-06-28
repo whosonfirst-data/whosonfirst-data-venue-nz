@@ -2,13 +2,14 @@
   "id": 219642965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.599976,-43.55769,172.599976,-43.55769",
     "geom:latitude":-43.55769,
     "geom:longitude":172.599976,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Hoon Hay Rd Hoon ",
     "sg:city":"Hay",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219642965,
-    "wof:lastmodified":1449070588,
+    "wof:lastmodified":1466312790,
     "wof:name":"Gaslift Reco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "supplies"
     ]
 },
-  "bbox": [172.599976,-43.55769,172.599976,-43.55769],
+  "bbox": [
+    172.599976,
+    -43.55769,
+    172.599976,
+    -43.55769
+],
   "geometry": {"coordinates":[172.599976,-43.55769],"type":"Point"}
 }

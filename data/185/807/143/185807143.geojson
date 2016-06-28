@@ -2,13 +2,14 @@
   "id": 185807143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.566925,-40.226349,175.566925,-40.226349",
     "geom:latitude":-40.226349,
     "geom:longitude":175.566925,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Ferguson St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185807143,
-    "wof:lastmodified":1449007019,
+    "wof:lastmodified":1466311268,
     "wof:name":"Kodak Express",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "developing"
     ]
 },
-  "bbox": [175.566925,-40.226349,175.566925,-40.226349],
+  "bbox": [
+    175.566925,
+    -40.226349,
+    175.566925,
+    -40.226349
+],
   "geometry": {"coordinates":[175.566925,-40.226349],"type":"Point"}
 }

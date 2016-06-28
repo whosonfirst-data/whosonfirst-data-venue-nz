@@ -2,13 +2,14 @@
   "id": 169686383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.349091,-46.422478,168.349091,-46.422478",
     "geom:latitude":-46.422478,
     "geom:longitude":168.349091,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Crinan St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169686383,
-    "wof:lastmodified":1449035156,
+    "wof:lastmodified":1466310851,
     "wof:name":"Custom Canvas & Watsons Saddlery Ltd",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.349091,-46.422478,168.349091,-46.422478],
-  "geometry": {"coordinates":[168.349091,-46.422478],"type":"Point"}
+  "bbox": [
+    168.349091,
+    -46.422478,
+    168.349091,
+    -46.422478
+],
+  "geometry": {"coordinates":[168.34909099999999,-46.422478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235958267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.187119,-37.643375,176.187119,-37.643375",
     "geom:latitude":-37.643375,
     "geom:longitude":176.187119,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"344 Maunganui Rd Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235958267,
-    "wof:lastmodified":1449008524,
+    "wof:lastmodified":1466311022,
     "wof:name":"Pacific Seafoods",
     "wof:parent_id":85773039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sea"
     ]
 },
-  "bbox": [176.187119,-37.643375,176.187119,-37.643375],
+  "bbox": [
+    176.187119,
+    -37.643375,
+    176.187119,
+    -37.643375
+],
   "geometry": {"coordinates":[176.187119,-37.643375],"type":"Point"}
 }

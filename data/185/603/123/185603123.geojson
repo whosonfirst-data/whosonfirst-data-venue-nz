@@ -2,13 +2,14 @@
   "id": 185603123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.597595,-43.529842,172.597595,-43.529842",
     "geom:latitude":-43.529842,
     "geom:longitude":172.597595,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Riccarton Rd Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185603123,
-    "wof:lastmodified":1449007985,
+    "wof:lastmodified":1466310616,
     "wof:name":"Fisher's Fine Arts",
     "wof:parent_id":85778569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leisure"
     ]
 },
-  "bbox": [172.597595,-43.529842,172.597595,-43.529842],
-  "geometry": {"coordinates":[172.597595,-43.529842],"type":"Point"}
+  "bbox": [
+    172.597595,
+    -43.529842,
+    172.597595,
+    -43.529842
+],
+  "geometry": {"coordinates":[172.59759500000001,-43.529842],"type":"Point"}
 }

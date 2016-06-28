@@ -2,13 +2,14 @@
   "id": 202960543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.282852,-37.75515,175.282852,-37.75515",
     "geom:latitude":-37.75515,
     "geom:longitude":175.282852,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Hukanui Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202960543,
-    "wof:lastmodified":1449061921,
+    "wof:lastmodified":1466312910,
     "wof:name":"Prestige Garden Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.282852,-37.75515,175.282852,-37.75515],
-  "geometry": {"coordinates":[175.282852,-37.75515],"type":"Point"}
+  "bbox": [
+    175.282852,
+    -37.75515,
+    175.282852,
+    -37.75515
+],
+  "geometry": {"coordinates":[175.28285199999999,-37.75515],"type":"Point"}
 }

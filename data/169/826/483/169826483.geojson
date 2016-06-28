@@ -2,13 +2,14 @@
   "id": 169826483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.521561,-35.614391,174.521561,-35.614391",
     "geom:latitude":-35.614391,
     "geom:longitude":174.521561,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"441 Marina Rd Tutukaka ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169826483,
-    "wof:lastmodified":1449035072,
+    "wof:lastmodified":1466311855,
     "wof:name":"Dive! Tutukaka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.521561,-35.614391,174.521561,-35.614391],
-  "geometry": {"coordinates":[174.521561,-35.614391],"type":"Point"}
+  "bbox": [
+    174.521561,
+    -35.614391,
+    174.521561,
+    -35.614391
+],
+  "geometry": {"coordinates":[174.52156099999999,-35.614391],"type":"Point"}
 }

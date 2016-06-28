@@ -2,13 +2,14 @@
   "id": 169527873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.765732,-36.847382,174.765732,-36.847382",
     "geom:latitude":-36.847382,
     "geom:longitude":174.765732,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 35, ASB Bank Centre, 135 Albert Street, Auckland ",
     "sg:city":"1015",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169527873,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466310592,
     "wof:name":"ASB Bank Ltd",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.765732,-36.847382,174.765732,-36.847382],
-  "geometry": {"coordinates":[174.765732,-36.847382],"type":"Point"}
+  "bbox": [
+    174.765732,
+    -36.847382,
+    174.765732,
+    -36.847382
+],
+  "geometry": {"coordinates":[174.76573200000001,-36.847382],"type":"Point"}
 }

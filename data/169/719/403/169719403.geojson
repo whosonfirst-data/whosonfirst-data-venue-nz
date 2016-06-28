@@ -2,13 +2,14 @@
   "id": 169719403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.941086,-37.061356,174.941086,-37.061356",
     "geom:latitude":-37.061356,
     "geom:longitude":174.941086,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Gt South Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169719403,
-    "wof:lastmodified":1449033112,
+    "wof:lastmodified":1466311059,
     "wof:name":"Papakura Office Products Depot",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.941086,-37.061356,174.941086,-37.061356],
-  "geometry": {"coordinates":[174.941086,-37.061356],"type":"Point"}
+  "bbox": [
+    174.941086,
+    -37.061356,
+    174.941086,
+    -37.061356
+],
+  "geometry": {"coordinates":[174.94108600000001,-37.061356],"type":"Point"}
 }

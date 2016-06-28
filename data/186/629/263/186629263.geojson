@@ -2,13 +2,14 @@
   "id": 186629263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.620728,-40.345371,175.620728,-40.345371",
     "geom:latitude":-40.345371,
     "geom:longitude":175.620728,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Albert St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186629263,
-    "wof:lastmodified":1449052380,
+    "wof:lastmodified":1466313006,
     "wof:name":"Ling Shu Acupuncture Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "acupuncturists"
     ]
 },
-  "bbox": [175.620728,-40.345371,175.620728,-40.345371],
-  "geometry": {"coordinates":[175.620728,-40.345371],"type":"Point"}
+  "bbox": [
+    175.620728,
+    -40.345371,
+    175.620728,
+    -40.345371
+],
+  "geometry": {"coordinates":[175.62072800000001,-40.345371],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169685715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.614319,-36.685219,174.614319,-36.685219",
     "geom:latitude":-36.685219,
     "geom:longitude":174.614319,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"252 Blackbridge Rd Dairy Flat Hibiscus ",
     "sg:city":"Hibiscus Coast",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169685715,
-    "wof:lastmodified":1449035887,
+    "wof:lastmodified":1466310827,
     "wof:name":"Blackbridge Stables",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.614319,-36.685219,174.614319,-36.685219],
-  "geometry": {"coordinates":[174.614319,-36.685219],"type":"Point"}
+  "bbox": [
+    174.614319,
+    -36.685219,
+    174.614319,
+    -36.685219
+],
+  "geometry": {"coordinates":[174.61431899999999,-36.685219],"type":"Point"}
 }

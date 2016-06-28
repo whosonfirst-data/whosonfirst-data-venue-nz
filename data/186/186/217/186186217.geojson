@@ -2,13 +2,14 @@
   "id": 186186217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.631897,-40.329632,175.631897,-40.329632",
     "geom:latitude":-40.329632,
     "geom:longitude":175.631897,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1023 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186186217,
-    "wof:lastmodified":1449052423,
+    "wof:lastmodified":1466311285,
     "wof:name":"Owen Brunton Engineering Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.631897,-40.329632,175.631897,-40.329632],
-  "geometry": {"coordinates":[175.631897,-40.329632],"type":"Point"}
+  "bbox": [
+    175.631897,
+    -40.329632,
+    175.631897,
+    -40.329632
+],
+  "geometry": {"coordinates":[175.63189700000001,-40.329632],"type":"Point"}
 }

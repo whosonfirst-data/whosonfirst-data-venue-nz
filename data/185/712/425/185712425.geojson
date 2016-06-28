@@ -2,13 +2,14 @@
   "id": 185712425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.65448,-36.886917,174.65448,-36.886917",
     "geom:latitude":-36.886917,
     "geom:longitude":174.65448,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 69173 ",
     "sg:city":"Glendene",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185712425,
-    "wof:lastmodified":1449007299,
+    "wof:lastmodified":1466310644,
     "wof:name":"Pacitic Gaming Pty",
     "wof:parent_id":85780905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.65448,-36.886917,174.65448,-36.886917],
-  "geometry": {"coordinates":[174.65448,-36.886917],"type":"Point"}
+  "bbox": [
+    174.65448,
+    -36.886917,
+    174.65448,
+    -36.886917
+],
+  "geometry": {"coordinates":[174.65448000000001,-36.886917],"type":"Point"}
 }

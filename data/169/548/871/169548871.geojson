@@ -2,13 +2,14 @@
   "id": 169548871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.457397,-45.902618,170.457397,-45.902618",
     "geom:latitude":-45.902618,
     "geom:longitude":170.457397,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Ensor St Concord ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169548871,
-    "wof:lastmodified":1449034973,
+    "wof:lastmodified":1466310797,
     "wof:name":"Hogg Jewellers",
     "wof:parent_id":85772859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.457397,-45.902618,170.457397,-45.902618],
-  "geometry": {"coordinates":[170.457397,-45.902618],"type":"Point"}
+  "bbox": [
+    170.457397,
+    -45.902618,
+    170.457397,
+    -45.902618
+],
+  "geometry": {"coordinates":[170.45739699999999,-45.902618],"type":"Point"}
 }

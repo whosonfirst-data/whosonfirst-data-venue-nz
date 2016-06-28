@@ -2,13 +2,14 @@
   "id": 219158755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.944046,-36.904232,174.944046,-36.904232",
     "geom:latitude":-36.904232,
     "geom:longitude":174.944046,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Advene Rd Cockle Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219158755,
-    "wof:lastmodified":1449072741,
+    "wof:lastmodified":1466310721,
     "wof:name":"Pristine Marine Valet",
     "wof:parent_id":85781299,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.944046,-36.904232,174.944046,-36.904232],
-  "geometry": {"coordinates":[174.944046,-36.904232],"type":"Point"}
+  "bbox": [
+    174.944046,
+    -36.904232,
+    174.944046,
+    -36.904232
+],
+  "geometry": {"coordinates":[174.94404599999999,-36.904232],"type":"Point"}
 }

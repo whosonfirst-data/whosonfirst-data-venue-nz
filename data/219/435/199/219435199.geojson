@@ -2,13 +2,14 @@
   "id": 219435199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.882278,-41.100353,174.882278,-41.100353",
     "geom:latitude":-41.100353,
     "geom:longitude":174.882278,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Seaview Rd Paremata ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219435199,
-    "wof:lastmodified":1449073594,
+    "wof:lastmodified":1466312117,
     "wof:name":"Mainline Steam Trust",
     "wof:parent_id":85781159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "transport"
     ]
 },
-  "bbox": [174.882278,-41.100353,174.882278,-41.100353],
-  "geometry": {"coordinates":[174.882278,-41.100353],"type":"Point"}
+  "bbox": [
+    174.882278,
+    -41.100353,
+    174.882278,
+    -41.100353
+],
+  "geometry": {"coordinates":[174.88227800000001,-41.100353],"type":"Point"}
 }

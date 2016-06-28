@@ -2,13 +2,14 @@
   "id": 219437467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.844208,-36.94183,174.844208,-36.94183",
     "geom:latitude":-36.94183,
     "geom:longitude":174.844208,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Atkinson Ave Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219437467,
-    "wof:lastmodified":1449072951,
+    "wof:lastmodified":1466312127,
     "wof:name":"Institute of Applied Learing Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.844208,-36.94183,174.844208,-36.94183],
-  "geometry": {"coordinates":[174.844208,-36.94183],"type":"Point"}
+  "bbox": [
+    174.844208,
+    -36.94183,
+    174.844208,
+    -36.94183
+],
+  "geometry": {"coordinates":[174.84420800000001,-36.94183],"type":"Point"}
 }

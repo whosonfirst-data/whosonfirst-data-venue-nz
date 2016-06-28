@@ -2,13 +2,14 @@
   "id": 202673353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.013809,-38.664814,178.013809,-38.664814",
     "geom:latitude":-38.664814,
     "geom:longitude":178.013809,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Anzac St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202673353,
-    "wof:lastmodified":1449061100,
+    "wof:lastmodified":1466312128,
     "wof:name":"Thompson I K (Tiny)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [178.013809,-38.664814,178.013809,-38.664814],
-  "geometry": {"coordinates":[178.013809,-38.664814],"type":"Point"}
+  "bbox": [
+    178.013809,
+    -38.664814,
+    178.013809,
+    -38.664814
+],
+  "geometry": {"coordinates":[178.01380900000001,-38.664814],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202520323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.379585,43.017044,-73.379585,43.017044",
     "geom:latitude":43.017044,
     "geom:longitude":-73.379585,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Duke St Medical Centre 71 Duke St ",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202520323,
-    "wof:lastmodified":1449060940,
+    "wof:lastmodified":1466310830,
     "wof:name":"Pinfold Dr A E",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialists"
     ]
 },
-  "bbox": [-73.379585,43.017044,-73.379585,43.017044],
-  "geometry": {"coordinates":[-73.379585,43.017044],"type":"Point"}
+  "bbox": [
+    -73.379585,
+    43.017044,
+    -73.379585,
+    43.017044
+],
+  "geometry": {"coordinates":[-73.37958500000001,43.017044],"type":"Point"}
 }

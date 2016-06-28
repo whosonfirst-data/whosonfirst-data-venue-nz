@@ -2,13 +2,14 @@
   "id": 169563661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.815308,-36.90007,174.815308,-36.90007",
     "geom:latitude":-36.90007,
     "geom:longitude":174.815308,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"121 A Ellerslie Panmure Hwy Ellerslie ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169563661,
-    "wof:lastmodified":1449032734,
+    "wof:lastmodified":1466311010,
     "wof:name":"Baksho",
     "wof:parent_id":85782385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.815308,-36.90007,174.815308,-36.90007],
-  "geometry": {"coordinates":[174.815308,-36.90007],"type":"Point"}
+  "bbox": [
+    174.815308,
+    -36.90007,
+    174.815308,
+    -36.90007
+],
+  "geometry": {"coordinates":[174.81530799999999,-36.90007],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202603953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.098129,-41.255661,173.098129,-41.255661",
     "geom:latitude":-41.255661,
     "geom:longitude":173.098129,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Bronte Rd East RD 1 Coastal Highway 60 ",
     "sg:city":"Mapua",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202603953,
-    "wof:lastmodified":1449062266,
+    "wof:lastmodified":1466311552,
     "wof:name":"Bronte Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [173.098129,-41.255661,173.098129,-41.255661],
+  "bbox": [
+    173.098129,
+    -41.255661,
+    173.098129,
+    -41.255661
+],
   "geometry": {"coordinates":[173.098129,-41.255661],"type":"Point"}
 }

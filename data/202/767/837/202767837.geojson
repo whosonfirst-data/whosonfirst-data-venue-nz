@@ -2,13 +2,14 @@
   "id": 202767837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.959457,-37.059521,174.959457,-37.059521",
     "geom:latitude":-37.059521,
     "geom:longitude":174.959457,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Elliott St ",
     "sg:city":"Papakura",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202767837,
-    "wof:lastmodified":1449060849,
+    "wof:lastmodified":1466312447,
     "wof:name":"Alastair Cunningham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fittings"
     ]
 },
-  "bbox": [174.959457,-37.059521,174.959457,-37.059521],
-  "geometry": {"coordinates":[174.959457,-37.059521],"type":"Point"}
+  "bbox": [
+    174.959457,
+    -37.059521,
+    174.959457,
+    -37.059521
+],
+  "geometry": {"coordinates":[174.95945699999999,-37.059521],"type":"Point"}
 }

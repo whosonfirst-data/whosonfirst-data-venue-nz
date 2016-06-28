@@ -2,13 +2,14 @@
   "id": 185948983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.085556,-35.278419,174.085556,-35.278419",
     "geom:latitude":-35.278419,
     "geom:longitude":174.085556,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Marsden Rd ",
     "sg:city":"Paihia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185948983,
-    "wof:lastmodified":1449007893,
+    "wof:lastmodified":1466312229,
     "wof:name":"Paihia Gym",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [174.085556,-35.278419,174.085556,-35.278419],
+  "bbox": [
+    174.085556,
+    -35.278419,
+    174.085556,
+    -35.278419
+],
   "geometry": {"coordinates":[174.085556,-35.278419],"type":"Point"}
 }

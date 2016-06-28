@@ -2,13 +2,14 @@
   "id": 202480629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.321198,-35.708427,174.321198,-35.708427",
     "geom:latitude":-35.708427,
     "geom:longitude":174.321198,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Kensington Ave ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202480629,
-    "wof:lastmodified":1449060931,
+    "wof:lastmodified":1466311977,
     "wof:name":"Kensington Pharmacy Ltd",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.321198,-35.708427,174.321198,-35.708427],
-  "geometry": {"coordinates":[174.321198,-35.708427],"type":"Point"}
+  "bbox": [
+    174.321198,
+    -35.708427,
+    174.321198,
+    -35.708427
+],
+  "geometry": {"coordinates":[174.32119800000001,-35.708427],"type":"Point"}
 }

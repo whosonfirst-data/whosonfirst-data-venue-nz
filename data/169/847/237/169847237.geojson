@@ -2,13 +2,14 @@
   "id": 169847237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.756622,-36.866241,174.756622,-36.866241",
     "geom:latitude":-36.866241,
     "geom:longitude":174.756622,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 A Charlotte St Eden Terrace ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169847237,
-    "wof:lastmodified":1449033888,
+    "wof:lastmodified":1466311999,
     "wof:name":"Xpress Awards (NZ) Ltd",
     "wof:parent_id":85780877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "award"
     ]
 },
-  "bbox": [174.756622,-36.866241,174.756622,-36.866241],
-  "geometry": {"coordinates":[174.756622,-36.866241],"type":"Point"}
+  "bbox": [
+    174.756622,
+    -36.866241,
+    174.756622,
+    -36.866241
+],
+  "geometry": {"coordinates":[174.75662199999999,-36.866241],"type":"Point"}
 }

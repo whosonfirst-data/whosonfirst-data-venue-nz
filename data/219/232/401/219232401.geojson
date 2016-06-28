@@ -2,13 +2,14 @@
   "id": 219232401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.563583,-40.380459,175.563583,-40.380459",
     "geom:latitude":-40.380459,
     "geom:longitude":175.563583,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Shirriffs Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219232401,
-    "wof:lastmodified":1449071536,
+    "wof:lastmodified":1466311796,
     "wof:name":"Ware J B & Sons Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.563583,-40.380459,175.563583,-40.380459],
-  "geometry": {"coordinates":[175.563583,-40.380459],"type":"Point"}
+  "bbox": [
+    175.563583,
+    -40.380459,
+    175.563583,
+    -40.380459
+],
+  "geometry": {"coordinates":[175.56358299999999,-40.380459],"type":"Point"}
 }

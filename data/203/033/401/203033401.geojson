@@ -2,13 +2,14 @@
   "id": 203033401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.781433,-36.857281,174.781433,-36.857281",
     "geom:latitude":-36.857281,
     "geom:longitude":174.781433,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"317 Parnell Rd Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203033401,
-    "wof:lastmodified":1449025329,
+    "wof:lastmodified":1466311186,
     "wof:name":"City Construction Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "garden"
     ]
 },
-  "bbox": [174.781433,-36.857281,174.781433,-36.857281],
-  "geometry": {"coordinates":[174.781433,-36.857281],"type":"Point"}
+  "bbox": [
+    174.781433,
+    -36.857281,
+    174.781433,
+    -36.857281
+],
+  "geometry": {"coordinates":[174.78143299999999,-36.857281],"type":"Point"}
 }

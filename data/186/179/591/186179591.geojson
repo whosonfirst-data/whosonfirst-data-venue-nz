@@ -2,13 +2,14 @@
   "id": 186179591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.738403,-45.012768,168.738403,-45.012768",
     "geom:latitude":-45.012768,
     "geom:longitude":168.738403,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"67 State Highway 6 Frankton ",
     "sg:city":"Queenstown",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186179591,
-    "wof:lastmodified":1449052743,
+    "wof:lastmodified":1466311236,
     "wof:name":"Dart Marine & Engineering Ltd",
     "wof:parent_id":85781785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.738403,-45.012768,168.738403,-45.012768],
-  "geometry": {"coordinates":[168.738403,-45.012768],"type":"Point"}
+  "bbox": [
+    168.738403,
+    -45.012768,
+    168.738403,
+    -45.012768
+],
+  "geometry": {"coordinates":[168.73840300000001,-45.012768],"type":"Point"}
 }

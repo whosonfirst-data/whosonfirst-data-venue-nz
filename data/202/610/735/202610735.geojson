@@ -2,13 +2,14 @@
   "id": 202610735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.750107,-36.868954,174.750107,-36.868954",
     "geom:latitude":-36.868954,
     "geom:longitude":174.750107,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"345 New North Rd Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202610735,
-    "wof:lastmodified":1449062597,
+    "wof:lastmodified":1466311604,
     "wof:name":"Wooden Lace Co",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accessories"
     ]
 },
-  "bbox": [174.750107,-36.868954,174.750107,-36.868954],
-  "geometry": {"coordinates":[174.750107,-36.868954],"type":"Point"}
+  "bbox": [
+    174.750107,
+    -36.868954,
+    174.750107,
+    -36.868954
+],
+  "geometry": {"coordinates":[174.75010700000001,-36.868954],"type":"Point"}
 }

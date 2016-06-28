@@ -2,13 +2,14 @@
   "id": 203162875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.263657,-37.785259,175.263657,-37.785259",
     "geom:latitude":-37.785259,
     "geom:longitude":175.263657,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Lake Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203162875,
-    "wof:lastmodified":1449026576,
+    "wof:lastmodified":1466311012,
     "wof:name":"Hamilton Stripes & Signs",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fitting"
     ]
 },
-  "bbox": [175.263657,-37.785259,175.263657,-37.785259],
-  "geometry": {"coordinates":[175.263657,-37.785259],"type":"Point"}
+  "bbox": [
+    175.263657,
+    -37.785259,
+    175.263657,
+    -37.785259
+],
+  "geometry": {"coordinates":[175.26365699999999,-37.785259],"type":"Point"}
 }

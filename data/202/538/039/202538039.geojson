@@ -2,13 +2,14 @@
   "id": 202538039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.283752,-41.273232,173.283752,-41.273232",
     "geom:latitude":-41.273232,
     "geom:longitude":173.283752,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Trafalgar St ",
     "sg:city":"Nelson",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202538039,
-    "wof:lastmodified":1449060422,
+    "wof:lastmodified":1466310979,
     "wof:name":"Nelson Osteopathic Clinic",
     "wof:parent_id":85782467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.283752,-41.273232,173.283752,-41.273232],
-  "geometry": {"coordinates":[173.283752,-41.273232],"type":"Point"}
+  "bbox": [
+    173.283752,
+    -41.273232,
+    173.283752,
+    -41.273232
+],
+  "geometry": {"coordinates":[173.28375199999999,-41.273232],"type":"Point"}
 }

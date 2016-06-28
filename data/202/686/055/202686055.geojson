@@ -2,13 +2,14 @@
   "id": 202686055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.030411,-38.663265,178.030411,-38.663265",
     "geom:latitude":-38.663265,
     "geom:longitude":178.030411,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25-27 Ormond Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202686055,
-    "wof:lastmodified":1449062038,
+    "wof:lastmodified":1466312187,
     "wof:name":"Barnardos New Zealand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "children"
     ]
 },
-  "bbox": [178.030411,-38.663265,178.030411,-38.663265],
-  "geometry": {"coordinates":[178.030411,-38.663265],"type":"Point"}
+  "bbox": [
+    178.030411,
+    -38.663265,
+    178.030411,
+    -38.663265
+],
+  "geometry": {"coordinates":[178.03041099999999,-38.663265],"type":"Point"}
 }

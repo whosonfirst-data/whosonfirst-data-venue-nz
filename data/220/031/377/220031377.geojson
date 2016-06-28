@@ -2,13 +2,14 @@
   "id": 220031377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.734818,-36.776958,174.734818,-36.776958",
     "geom:latitude":-36.776958,
     "geom:longitude":174.734818,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"77 A Hillside Rd Glenfield ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":220031377,
-    "wof:lastmodified":1449074334,
+    "wof:lastmodified":1466311299,
     "wof:name":"Generation Foods Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.734818,-36.776958,174.734818,-36.776958],
-  "geometry": {"coordinates":[174.734818,-36.776958],"type":"Point"}
+  "bbox": [
+    174.734818,
+    -36.776958,
+    174.734818,
+    -36.776958
+],
+  "geometry": {"coordinates":[174.73481799999999,-36.776958],"type":"Point"}
 }

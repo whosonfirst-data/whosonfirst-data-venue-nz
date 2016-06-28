@@ -2,13 +2,14 @@
   "id": 220180305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.808517,-36.928604,174.808517,-36.928604",
     "geom:latitude":-36.928604,
     "geom:longitude":174.808517,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Pukemiro St Te Papapa ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220180305,
-    "wof:lastmodified":1449074085,
+    "wof:lastmodified":1466311306,
     "wof:name":"Auckland Casing Co Ltd",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [174.808517,-36.928604,174.808517,-36.928604],
-  "geometry": {"coordinates":[174.808517,-36.928604],"type":"Point"}
+  "bbox": [
+    174.808517,
+    -36.928604,
+    174.808517,
+    -36.928604
+],
+  "geometry": {"coordinates":[174.80851699999999,-36.928604],"type":"Point"}
 }

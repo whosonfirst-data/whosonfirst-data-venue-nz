@@ -2,13 +2,14 @@
   "id": 169592755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.024323,-38.665401,178.024323,-38.665401",
     "geom:latitude":-38.665401,
     "geom:longitude":178.024323,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"166 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169592755,
-    "wof:lastmodified":1449034582,
+    "wof:lastmodified":1466311534,
     "wof:name":"Books & More New Zealand Post",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.024323,-38.665401,178.024323,-38.665401],
-  "geometry": {"coordinates":[178.024323,-38.665401],"type":"Point"}
+  "bbox": [
+    178.024323,
+    -38.665401,
+    178.024323,
+    -38.665401
+],
+  "geometry": {"coordinates":[178.02432300000001,-38.665401],"type":"Point"}
 }

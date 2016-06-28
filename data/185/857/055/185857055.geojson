@@ -2,13 +2,14 @@
   "id": 185857055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.90123,-39.482967,176.90123,-39.482967",
     "geom:latitude":-39.482967,
     "geom:longitude":176.90123,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 12118 Ahuriri ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185857055,
-    "wof:lastmodified":1449007641,
+    "wof:lastmodified":1466311612,
     "wof:name":"Napier Aero Club Inc",
     "wof:parent_id":85773129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.90123,-39.482967,176.90123,-39.482967],
+  "bbox": [
+    176.90123,
+    -39.482967,
+    176.90123,
+    -39.482967
+],
   "geometry": {"coordinates":[176.90123,-39.482967],"type":"Point"}
 }

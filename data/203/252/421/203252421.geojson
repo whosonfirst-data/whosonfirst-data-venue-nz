@@ -2,13 +2,14 @@
   "id": 203252421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.996918,-37.950912,176.996918,-37.950912",
     "geom:latitude":-37.950912,
     "geom:longitude":176.996918,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"130 The Strand ",
     "sg:city":"Whakatane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203252421,
-    "wof:lastmodified":1449025191,
+    "wof:lastmodified":1466311868,
     "wof:name":"Just Jeans",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.996918,-37.950912,176.996918,-37.950912],
-  "geometry": {"coordinates":[176.996918,-37.950912],"type":"Point"}
+  "bbox": [
+    176.996918,
+    -37.950912,
+    176.996918,
+    -37.950912
+],
+  "geometry": {"coordinates":[176.99691799999999,-37.950912],"type":"Point"}
 }

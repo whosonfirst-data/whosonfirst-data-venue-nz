@@ -2,13 +2,14 @@
   "id": 169776195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.320526,-35.725399,174.320526,-35.725399",
     "geom:latitude":-35.725399,
     "geom:longitude":174.320526,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Vine & Walton Sts ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169776195,
-    "wof:lastmodified":1449033406,
+    "wof:lastmodified":1466311467,
     "wof:name":"Sportsman's Choice Sportspower",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "retailers"
     ]
 },
-  "bbox": [174.320526,-35.725399,174.320526,-35.725399],
+  "bbox": [
+    174.320526,
+    -35.725399,
+    174.320526,
+    -35.725399
+],
   "geometry": {"coordinates":[174.320526,-35.725399],"type":"Point"}
 }

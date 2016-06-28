@@ -2,13 +2,14 @@
   "id": 202718771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.619888,-43.476757,172.619888,-43.476757",
     "geom:latitude":-43.476757,
     "geom:longitude":172.619888,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 a Dunedin St Redwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202718771,
-    "wof:lastmodified":1449060669,
+    "wof:lastmodified":1466312200,
     "wof:name":"Discount Carpet Cleaning",
     "wof:parent_id":85778561,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "furniture"
     ]
 },
-  "bbox": [172.619888,-43.476757,172.619888,-43.476757],
+  "bbox": [
+    172.619888,
+    -43.476757,
+    172.619888,
+    -43.476757
+],
   "geometry": {"coordinates":[172.619888,-43.476757],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219897043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.12851,-37.734783,176.12851,-37.734783",
     "geom:latitude":-37.734783,
     "geom:longitude":176.12851,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"135 A Maleme St Greerton ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219897043,
-    "wof:lastmodified":1449073341,
+    "wof:lastmodified":1466313023,
     "wof:name":"Veg-Gro Supplies Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.12851,-37.734783,176.12851,-37.734783],
-  "geometry": {"coordinates":[176.12851,-37.734783],"type":"Point"}
+  "bbox": [
+    176.12851,
+    -37.734783,
+    176.12851,
+    -37.734783
+],
+  "geometry": {"coordinates":[176.12851000000001,-37.734783],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219994501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.995499,-37.954079,176.995499,-37.954079",
     "geom:latitude":-37.954079,
     "geom:longitude":176.995499,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Commerce St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219994501,
-    "wof:lastmodified":1449070553,
+    "wof:lastmodified":1466313183,
     "wof:name":"RSL Limited",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finance"
     ]
 },
-  "bbox": [176.995499,-37.954079,176.995499,-37.954079],
+  "bbox": [
+    176.995499,
+    -37.954079,
+    176.995499,
+    -37.954079
+],
   "geometry": {"coordinates":[176.995499,-37.954079],"type":"Point"}
 }

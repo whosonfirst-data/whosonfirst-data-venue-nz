@@ -2,13 +2,14 @@
   "id": 219492273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.683746,-43.489346,172.683746,-43.489346",
     "geom:latitude":-43.489346,
     "geom:longitude":172.683746,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Burwood Rd Burwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219492273,
-    "wof:lastmodified":1449070375,
+    "wof:lastmodified":1466312282,
     "wof:name":"Windsor Primary School",
     "wof:parent_id":85772863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.683746,-43.489346,172.683746,-43.489346],
-  "geometry": {"coordinates":[172.683746,-43.489346],"type":"Point"}
+  "bbox": [
+    172.683746,
+    -43.489346,
+    172.683746,
+    -43.489346
+],
+  "geometry": {"coordinates":[172.68374600000001,-43.489346],"type":"Point"}
 }

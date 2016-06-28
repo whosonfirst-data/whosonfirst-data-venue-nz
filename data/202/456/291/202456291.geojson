@@ -2,13 +2,14 @@
   "id": 202456291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.251648,-38.135002,176.251648,-38.135002",
     "geom:latitude":-38.135002,
     "geom:longitude":176.251648,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1154 Tutanekai St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202456291,
-    "wof:lastmodified":1449060868,
+    "wof:lastmodified":1466311803,
     "wof:name":"Odeon Pharmacy",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "beauty"
     ]
 },
-  "bbox": [176.251648,-38.135002,176.251648,-38.135002],
-  "geometry": {"coordinates":[176.251648,-38.135002],"type":"Point"}
+  "bbox": [
+    176.251648,
+    -38.135002,
+    176.251648,
+    -38.135002
+],
+  "geometry": {"coordinates":[176.25164799999999,-38.135002],"type":"Point"}
 }

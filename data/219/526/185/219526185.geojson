@@ -2,13 +2,14 @@
   "id": 219526185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.879517,-39.669399,176.879517,-39.669399",
     "geom:latitude":-39.669399,
     "geom:longitude":176.879517,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 8565 Havelock North ",
     "sg:city":"Okawa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219526185,
-    "wof:lastmodified":1449071477,
+    "wof:lastmodified":1466312393,
     "wof:name":"Blackboard Jungle Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [176.879517,-39.669399,176.879517,-39.669399],
-  "geometry": {"coordinates":[176.879517,-39.669399],"type":"Point"}
+  "bbox": [
+    176.879517,
+    -39.669399,
+    176.879517,
+    -39.669399
+],
+  "geometry": {"coordinates":[176.87951699999999,-39.669399],"type":"Point"}
 }

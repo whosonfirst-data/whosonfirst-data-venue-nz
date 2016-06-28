@@ -2,13 +2,14 @@
   "id": 219405043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.669281,-36.731548,175.669281,-36.731548",
     "geom:latitude":-36.731548,
     "geom:longitude":175.669281,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"274 Kenwood Dve Matarangi ",
     "sg:city":"Whitianga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219405043,
-    "wof:lastmodified":1449073628,
+    "wof:lastmodified":1466311853,
     "wof:name":"Matarangi Charters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [175.669281,-36.731548,175.669281,-36.731548],
-  "geometry": {"coordinates":[175.669281,-36.731548],"type":"Point"}
+  "bbox": [
+    175.669281,
+    -36.731548,
+    175.669281,
+    -36.731548
+],
+  "geometry": {"coordinates":[175.66928100000001,-36.731548],"type":"Point"}
 }

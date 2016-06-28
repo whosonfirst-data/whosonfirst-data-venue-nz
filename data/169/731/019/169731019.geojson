@@ -2,13 +2,14 @@
   "id": 169731019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.361572,-46.427261,168.361572,-46.427261",
     "geom:latitude":-46.427261,
     "geom:longitude":168.361572,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"244 Elles Rd ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169731019,
-    "wof:lastmodified":1449035585,
+    "wof:lastmodified":1466311149,
     "wof:name":"Elles Road New World",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.361572,-46.427261,168.361572,-46.427261],
+  "bbox": [
+    168.361572,
+    -46.427261,
+    168.361572,
+    -46.427261
+],
   "geometry": {"coordinates":[168.361572,-46.427261],"type":"Point"}
 }

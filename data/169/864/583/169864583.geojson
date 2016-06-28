@@ -2,13 +2,14 @@
   "id": 169864583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.915588,-41.243462,174.915588,-41.243462",
     "geom:latitude":-41.243462,
     "geom:longitude":174.915588,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Gracefield Rd Gracefield Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169864583,
-    "wof:lastmodified":1449036011,
+    "wof:lastmodified":1466312036,
     "wof:name":"The Quarry Inn",
     "wof:parent_id":85772919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.915588,-41.243462,174.915588,-41.243462],
-  "geometry": {"coordinates":[174.915588,-41.243462],"type":"Point"}
+  "bbox": [
+    174.915588,
+    -41.243462,
+    174.915588,
+    -41.243462
+],
+  "geometry": {"coordinates":[174.91558800000001,-41.243462],"type":"Point"}
 }

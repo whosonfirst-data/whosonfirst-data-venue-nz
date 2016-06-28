@@ -2,13 +2,14 @@
   "id": 203108347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.631241,-40.338531,175.631241,-40.338531",
     "geom:latitude":-40.338531,
     "geom:longitude":175.631241,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"615 Featherston St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203108347,
-    "wof:lastmodified":1449024981,
+    "wof:lastmodified":1466310592,
     "wof:name":"Imaginn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [175.631241,-40.338531,175.631241,-40.338531],
-  "geometry": {"coordinates":[175.631241,-40.338531],"type":"Point"}
+  "bbox": [
+    175.631241,
+    -40.338531,
+    175.631241,
+    -40.338531
+],
+  "geometry": {"coordinates":[175.63124099999999,-40.338531],"type":"Point"}
 }

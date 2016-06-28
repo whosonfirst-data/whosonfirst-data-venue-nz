@@ -2,13 +2,14 @@
   "id": 220092287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.696869,-36.894958,174.696869,-36.894958",
     "geom:latitude":-36.894958,
     "geom:longitude":174.696869,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1880 Gt North Rd Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220092287,
-    "wof:lastmodified":1449074698,
+    "wof:lastmodified":1466311981,
     "wof:name":"Avondale Home Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "-"
     ]
 },
-  "bbox": [174.696869,-36.894958,174.696869,-36.894958],
-  "geometry": {"coordinates":[174.696869,-36.894958],"type":"Point"}
+  "bbox": [
+    174.696869,
+    -36.894958,
+    174.696869,
+    -36.894958
+],
+  "geometry": {"coordinates":[174.69686899999999,-36.894958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202529641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.39592,40.595703,-98.39592,40.595703",
     "geom:latitude":40.595703,
     "geom:longitude":-98.39592,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1104 Williams St ",
     "sg:city":"Hastings",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202529641,
-    "wof:lastmodified":1449061234,
+    "wof:lastmodified":1466310905,
     "wof:name":"The Midwives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-98.39592,40.595703,-98.39592,40.595703],
+  "bbox": [
+    -98.39592,
+    40.595703,
+    -98.39592,
+    40.595703
+],
   "geometry": {"coordinates":[-98.39592,40.595703],"type":"Point"}
 }

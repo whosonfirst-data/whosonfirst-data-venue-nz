@@ -2,13 +2,14 @@
   "id": 202659787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.001144,-38.640182,178.001144,-38.640182",
     "geom:latitude":-38.640182,
     "geom:longitude":178.001144,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Potae Ave ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202659787,
-    "wof:lastmodified":1449060378,
+    "wof:lastmodified":1466311991,
     "wof:name":"B C Norman Plumbing Division",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "related"
     ]
 },
-  "bbox": [178.001144,-38.640182,178.001144,-38.640182],
-  "geometry": {"coordinates":[178.001144,-38.640182],"type":"Point"}
+  "bbox": [
+    178.001144,
+    -38.640182,
+    178.001144,
+    -38.640182
+],
+  "geometry": {"coordinates":[178.00114400000001,-38.640182],"type":"Point"}
 }

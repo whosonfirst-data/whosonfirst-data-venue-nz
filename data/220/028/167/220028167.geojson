@@ -2,13 +2,14 @@
   "id": 220028167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.921051,-37.555534,175.921051,-37.555534",
     "geom:latitude":-37.555534,
     "geom:longitude":175.921051,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Woodlands Rd ",
     "sg:city":"Katikati",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":220028167,
-    "wof:lastmodified":1449074487,
+    "wof:lastmodified":1466311290,
     "wof:name":"B's Knees Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.921051,-37.555534,175.921051,-37.555534],
-  "geometry": {"coordinates":[175.921051,-37.555534],"type":"Point"}
+  "bbox": [
+    175.921051,
+    -37.555534,
+    175.921051,
+    -37.555534
+],
+  "geometry": {"coordinates":[175.92105100000001,-37.555534],"type":"Point"}
 }

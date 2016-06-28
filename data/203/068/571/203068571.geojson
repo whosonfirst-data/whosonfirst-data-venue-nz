@@ -2,13 +2,14 @@
   "id": 203068571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.650085,-43.624989,172.650085,-43.624989",
     "geom:latitude":-43.624989,
     "geom:longitude":172.650085,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Merlincote Cre R D 1 Lyttelton Governors ",
     "sg:city":"Bay",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203068571,
-    "wof:lastmodified":1449025903,
+    "wof:lastmodified":1466311699,
     "wof:name":"Gates Of The Future",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "outdoor"
     ]
 },
-  "bbox": [172.650085,-43.624989,172.650085,-43.624989],
-  "geometry": {"coordinates":[172.650085,-43.624989],"type":"Point"}
+  "bbox": [
+    172.650085,
+    -43.624989,
+    172.650085,
+    -43.624989
+],
+  "geometry": {"coordinates":[172.65008499999999,-43.624989],"type":"Point"}
 }

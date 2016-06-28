@@ -2,13 +2,14 @@
   "id": 186628677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.760513,-36.775078,174.760513,-36.775078",
     "geom:latitude":-36.775078,
     "geom:longitude":174.760513,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Shakespeare Rd Milford ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186628677,
-    "wof:lastmodified":1449052503,
+    "wof:lastmodified":1466313005,
     "wof:name":"M H Tizard",
     "wof:parent_id":85778459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "acupuncturists"
     ]
 },
-  "bbox": [174.760513,-36.775078,174.760513,-36.775078],
+  "bbox": [
+    174.760513,
+    -36.775078,
+    174.760513,
+    -36.775078
+],
   "geometry": {"coordinates":[174.760513,-36.775078],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202788381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.011108,-39.948071,175.011108,-39.948071",
     "geom:latitude":-39.948071,
     "geom:longitude":175.011108,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"383 Heads Rd ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202788381,
-    "wof:lastmodified":1449061423,
+    "wof:lastmodified":1466312504,
     "wof:name":"Osman M R",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kitchen"
     ]
 },
-  "bbox": [175.011108,-39.948071,175.011108,-39.948071],
-  "geometry": {"coordinates":[175.011108,-39.948071],"type":"Point"}
+  "bbox": [
+    175.011108,
+    -39.948071,
+    175.011108,
+    -39.948071
+],
+  "geometry": {"coordinates":[175.01110800000001,-39.948071],"type":"Point"}
 }

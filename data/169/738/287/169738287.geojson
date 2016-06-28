@@ -2,13 +2,14 @@
   "id": 169738287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.022858,-39.942799,175.022858,-39.942799",
     "geom:latitude":-39.942799,
     "geom:longitude":175.022858,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Abbot St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169738287,
-    "wof:lastmodified":1449035097,
+    "wof:lastmodified":1466311195,
     "wof:name":"New World Supermarkets",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.022858,-39.942799,175.022858,-39.942799],
-  "geometry": {"coordinates":[175.022858,-39.942799],"type":"Point"}
+  "bbox": [
+    175.022858,
+    -39.942799,
+    175.022858,
+    -39.942799
+],
+  "geometry": {"coordinates":[175.02285800000001,-39.942799],"type":"Point"}
 }

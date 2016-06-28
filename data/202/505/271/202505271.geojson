@@ -2,13 +2,14 @@
   "id": 202505271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.239197,-38.128044,176.239197,-38.128044",
     "geom:latitude":-38.128044,
     "geom:longitude":176.239197,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Lake Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202505271,
-    "wof:lastmodified":1449062239,
+    "wof:lastmodified":1466310707,
     "wof:name":"Sise Dr Lelie",
     "wof:parent_id":85773075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.239197,-38.128044,176.239197,-38.128044],
-  "geometry": {"coordinates":[176.239197,-38.128044],"type":"Point"}
+  "bbox": [
+    176.239197,
+    -38.128044,
+    176.239197,
+    -38.128044
+],
+  "geometry": {"coordinates":[176.23919699999999,-38.128044],"type":"Point"}
 }

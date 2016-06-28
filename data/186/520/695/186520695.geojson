@@ -2,13 +2,14 @@
   "id": 186520695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.789032,-41.254387,174.789032,-41.254387",
     "geom:latitude":-41.254387,
     "geom:longitude":174.789032,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Bengal St ",
     "sg:city":"Khandallah",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186520695,
-    "wof:lastmodified":1449051276,
+    "wof:lastmodified":1466312806,
     "wof:name":"Hercus Daphne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [174.789032,-41.254387,174.789032,-41.254387],
-  "geometry": {"coordinates":[174.789032,-41.254387],"type":"Point"}
+  "bbox": [
+    174.789032,
+    -41.254387,
+    174.789032,
+    -41.254387
+],
+  "geometry": {"coordinates":[174.78903199999999,-41.254387],"type":"Point"}
 }

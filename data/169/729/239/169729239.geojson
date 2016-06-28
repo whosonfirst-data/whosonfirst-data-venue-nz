@@ -2,13 +2,14 @@
   "id": 169729239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.771088,-36.845711,174.771088,-36.845711",
     "geom:latitude":-36.845711,
     "geom:longitude":174.771088,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Beach Rd Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169729239,
-    "wof:lastmodified":1449034343,
+    "wof:lastmodified":1466311132,
     "wof:name":"City Mart",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.771088,-36.845711,174.771088,-36.845711],
-  "geometry": {"coordinates":[174.771088,-36.845711],"type":"Point"}
+  "bbox": [
+    174.771088,
+    -36.845711,
+    174.771088,
+    -36.845711
+],
+  "geometry": {"coordinates":[174.77108799999999,-36.845711],"type":"Point"}
 }

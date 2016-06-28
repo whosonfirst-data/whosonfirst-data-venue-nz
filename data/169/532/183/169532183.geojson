@@ -2,13 +2,14 @@
   "id": 169532183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.572403,-43.531773,172.572403,-43.531773",
     "geom:latitude":-43.531773,
     "geom:longitude":172.572403,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"394 Riccarton Rd",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169532183,
-    "wof:lastmodified":1449033795,
+    "wof:lastmodified":1466310515,
     "wof:name":"Postbank",
     "wof:parent_id":85778697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.572403,-43.531773,172.572403,-43.531773],
-  "geometry": {"coordinates":[172.572403,-43.531773],"type":"Point"}
+  "bbox": [
+    172.572403,
+    -43.531773,
+    172.572403,
+    -43.531773
+],
+  "geometry": {"coordinates":[172.57240300000001,-43.531773],"type":"Point"}
 }

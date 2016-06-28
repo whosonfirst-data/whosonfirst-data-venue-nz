@@ -2,13 +2,14 @@
   "id": 185672643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.621246,-43.500465,172.621246,-43.500465",
     "geom:latitude":-43.500465,
     "geom:longitude":172.621246,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Tomes Rd Papanui ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185672643,
-    "wof:lastmodified":1449006705,
+    "wof:lastmodified":1466311776,
     "wof:name":"Balloons 'n' Baskets",
     "wof:parent_id":85773111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.621246,-43.500465,172.621246,-43.500465],
-  "geometry": {"coordinates":[172.621246,-43.500465],"type":"Point"}
+  "bbox": [
+    172.621246,
+    -43.500465,
+    172.621246,
+    -43.500465
+],
+  "geometry": {"coordinates":[172.62124600000001,-43.500465],"type":"Point"}
 }

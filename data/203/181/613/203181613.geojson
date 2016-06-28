@@ -2,13 +2,14 @@
   "id": 203181613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.655273,-43.387112,172.655273,-43.387112",
     "geom:latitude":-43.387112,
     "geom:longitude":172.655273,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Williams St ",
     "sg:city":"Kaiapoi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203181613,
-    "wof:lastmodified":1449026097,
+    "wof:lastmodified":1466311203,
     "wof:name":"Kiri's Clothing Repairs & Alterations",
     "wof:parent_id":85782425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaning"
     ]
 },
-  "bbox": [172.655273,-43.387112,172.655273,-43.387112],
-  "geometry": {"coordinates":[172.655273,-43.387112],"type":"Point"}
+  "bbox": [
+    172.655273,
+    -43.387112,
+    172.655273,
+    -43.387112
+],
+  "geometry": {"coordinates":[172.65527299999999,-43.387112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220056555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.734741,-36.861408,174.734741,-36.861408",
     "geom:latitude":-36.861408,
     "geom:longitude":174.734741,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 78 126 Grey Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220056555,
-    "wof:lastmodified":1449074243,
+    "wof:lastmodified":1466311693,
     "wof:name":"Beer Force Int'l 1993 Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "drink"
     ]
 },
-  "bbox": [174.734741,-36.861408,174.734741,-36.861408],
-  "geometry": {"coordinates":[174.734741,-36.861408],"type":"Point"}
+  "bbox": [
+    174.734741,
+    -36.861408,
+    174.734741,
+    -36.861408
+],
+  "geometry": {"coordinates":[174.73474100000001,-36.861408],"type":"Point"}
 }

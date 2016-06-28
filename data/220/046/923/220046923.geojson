@@ -2,13 +2,14 @@
   "id": 220046923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.960388,-41.178745,174.960388,-41.178745",
     "geom:latitude":-41.178745,
     "geom:longitude":174.960388,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Tocker St Taita Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220046923,
-    "wof:lastmodified":1449074503,
+    "wof:lastmodified":1466311546,
     "wof:name":"Strongcroft Brewery",
     "wof:parent_id":85773211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brewer"
     ]
 },
-  "bbox": [174.960388,-41.178745,174.960388,-41.178745],
-  "geometry": {"coordinates":[174.960388,-41.178745],"type":"Point"}
+  "bbox": [
+    174.960388,
+    -41.178745,
+    174.960388,
+    -41.178745
+],
+  "geometry": {"coordinates":[174.96038799999999,-41.178745],"type":"Point"}
 }

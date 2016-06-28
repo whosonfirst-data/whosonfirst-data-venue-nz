@@ -2,13 +2,14 @@
   "id": 186308895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.69075,-36.907097,174.69075,-36.907097",
     "geom:latitude":-36.907097,
     "geom:longitude":174.69075,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Portage Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186308895,
-    "wof:lastmodified":1449053088,
+    "wof:lastmodified":1466312103,
     "wof:name":"Western Scrap Metals Ltd",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.69075,-36.907097,174.69075,-36.907097],
-  "geometry": {"coordinates":[174.69075,-36.907097],"type":"Point"}
+  "bbox": [
+    174.69075,
+    -36.907097,
+    174.69075,
+    -36.907097
+],
+  "geometry": {"coordinates":[174.69075000000001,-36.907097],"type":"Point"}
 }

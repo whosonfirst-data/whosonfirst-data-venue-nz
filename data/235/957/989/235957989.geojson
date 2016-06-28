@@ -2,13 +2,14 @@
   "id": 235957989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.901245,-39.482971,176.901245,-39.482971",
     "geom:latitude":-39.482971,
     "geom:longitude":176.901245,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Pandora & West Qy Ahuriri ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235957989,
-    "wof:lastmodified":1449008546,
+    "wof:lastmodified":1466311029,
     "wof:name":"Hawkes Bay Seafoods Ltd",
     "wof:parent_id":85773129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sea"
     ]
 },
-  "bbox": [176.901245,-39.482971,176.901245,-39.482971],
-  "geometry": {"coordinates":[176.901245,-39.482971],"type":"Point"}
+  "bbox": [
+    176.901245,
+    -39.482971,
+    176.901245,
+    -39.482971
+],
+  "geometry": {"coordinates":[176.90124499999999,-39.482971],"type":"Point"}
 }

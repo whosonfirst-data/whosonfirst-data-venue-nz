@@ -2,13 +2,14 @@
   "id": 219456851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.980042,-40.930645,174.980042,-40.930645",
     "geom:latitude":-40.930645,
     "geom:longitude":174.980042,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 16-115 Wellington South ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219456851,
-    "wof:lastmodified":1449071454,
+    "wof:lastmodified":1466312181,
     "wof:name":"Extraskills",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "education"
     ]
 },
-  "bbox": [174.980042,-40.930645,174.980042,-40.930645],
+  "bbox": [
+    174.980042,
+    -40.930645,
+    174.980042,
+    -40.930645
+],
   "geometry": {"coordinates":[174.980042,-40.930645],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219512149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.347321,-46.392628,168.347321,-46.392628",
     "geom:latitude":-46.392628,
     "geom:longitude":168.347321,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Flr 1 2-10 Dee St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":219512149,
-    "wof:lastmodified":1449072969,
+    "wof:lastmodified":1466312225,
     "wof:name":"Whare Akoranga Tops Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "education"
     ]
 },
-  "bbox": [168.347321,-46.392628,168.347321,-46.392628],
-  "geometry": {"coordinates":[168.347321,-46.392628],"type":"Point"}
+  "bbox": [
+    168.347321,
+    -46.392628,
+    168.347321,
+    -46.392628
+],
+  "geometry": {"coordinates":[168.34732099999999,-46.392628],"type":"Point"}
 }

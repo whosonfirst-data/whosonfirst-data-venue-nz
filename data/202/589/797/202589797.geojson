@@ -2,13 +2,14 @@
   "id": 202589797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.281647,-40.476124,175.281647,-40.476124",
     "geom:latitude":-40.476124,
     "geom:longitude":175.281647,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Main St ",
     "sg:city":"Foxton",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":202589797,
-    "wof:lastmodified":1449061469,
+    "wof:lastmodified":1466311434,
     "wof:name":"Mitre 10",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.281647,-40.476124,175.281647,-40.476124],
-  "geometry": {"coordinates":[175.281647,-40.476124],"type":"Point"}
+  "bbox": [
+    175.281647,
+    -40.476124,
+    175.281647,
+    -40.476124
+],
+  "geometry": {"coordinates":[175.28164699999999,-40.476124],"type":"Point"}
 }

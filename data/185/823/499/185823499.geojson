@@ -2,13 +2,14 @@
   "id": 185823499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.321098,34.175114,-86.321098,34.175114",
     "geom:latitude":34.175114,
     "geom:longitude":-86.321098,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"779 Makuri Rd Huiroa RD 22 Stratford ",
     "sg:city":"Douglas",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185823499,
-    "wof:lastmodified":1449008178,
+    "wof:lastmodified":1466311387,
     "wof:name":"Lee Richard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.321098,34.175114,-86.321098,34.175114],
-  "geometry": {"coordinates":[-86.321098,34.175114],"type":"Point"}
+  "bbox": [
+    -86.321098,
+    34.175114,
+    -86.321098,
+    34.175114
+],
+  "geometry": {"coordinates":[-86.32109800000001,34.175114],"type":"Point"}
 }

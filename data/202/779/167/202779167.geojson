@@ -2,13 +2,14 @@
   "id": 202779167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.629669,-40.329567,175.629669,-40.329567",
     "geom:latitude":-40.329567,
     "geom:longitude":175.629669,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Railway Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202779167,
-    "wof:lastmodified":1449060493,
+    "wof:lastmodified":1466312480,
     "wof:name":"Manawatu Garage Door Centre Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [175.629669,-40.329567,175.629669,-40.329567],
-  "geometry": {"coordinates":[175.629669,-40.329567],"type":"Point"}
+  "bbox": [
+    175.629669,
+    -40.329567,
+    175.629669,
+    -40.329567
+],
+  "geometry": {"coordinates":[175.62966900000001,-40.329567],"type":"Point"}
 }

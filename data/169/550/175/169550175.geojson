@@ -2,13 +2,14 @@
   "id": 169550175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764999,-36.771809,174.764999,-36.771809",
     "geom:latitude":-36.771809,
     "geom:longitude":174.764999,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor D'Anvers Building 2 B Dodson Ave Milford",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169550175,
-    "wof:lastmodified":1449034479,
+    "wof:lastmodified":1466310798,
     "wof:name":"Nationwide Jewellers Ltd",
     "wof:parent_id":85778459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.764999,-36.771809,174.764999,-36.771809],
-  "geometry": {"coordinates":[174.764999,-36.771809],"type":"Point"}
+  "bbox": [
+    174.764999,
+    -36.771809,
+    174.764999,
+    -36.771809
+],
+  "geometry": {"coordinates":[174.76499899999999,-36.771809],"type":"Point"}
 }

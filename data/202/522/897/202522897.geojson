@@ -2,13 +2,14 @@
   "id": 202522897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.151199,44.165798,-72.151199,44.165798",
     "geom:latitude":44.165798,
     "geom:longitude":-72.151199,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"364 Swamp Rd Fernhill ",
     "sg:city":"RD3",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":202522897,
-    "wof:lastmodified":1449061337,
+    "wof:lastmodified":1466310851,
     "wof:name":"Anneke Knegtmans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.151199,44.165798,-72.151199,44.165798],
-  "geometry": {"coordinates":[-72.151199,44.165798],"type":"Point"}
+  "bbox": [
+    -72.151199,
+    44.165798,
+    -72.151199,
+    44.165798
+],
+  "geometry": {"coordinates":[-72.15119900000001,44.165798],"type":"Point"}
 }

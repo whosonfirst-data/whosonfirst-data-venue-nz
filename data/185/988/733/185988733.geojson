@@ -2,13 +2,14 @@
   "id": 185988733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.610931,-40.353752,175.610931,-40.353752",
     "geom:latitude":-40.353752,
     "geom:longitude":175.610931,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 King St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185988733,
-    "wof:lastmodified":1449007143,
+    "wof:lastmodified":1466312389,
     "wof:name":"Simpson Suit & Bridal Formal Wear",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.610931,-40.353752,175.610931,-40.353752],
-  "geometry": {"coordinates":[175.610931,-40.353752],"type":"Point"}
+  "bbox": [
+    175.610931,
+    -40.353752,
+    175.610931,
+    -40.353752
+],
+  "geometry": {"coordinates":[175.61093099999999,-40.353752],"type":"Point"}
 }

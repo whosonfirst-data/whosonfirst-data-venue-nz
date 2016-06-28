@@ -2,13 +2,14 @@
   "id": 203222641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.07045,-38.687927,176.07045,-38.687927",
     "geom:latitude":-38.687927,
     "geom:longitude":176.07045,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 A Heu Heu St ",
     "sg:city":"Taupo",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203222641,
-    "wof:lastmodified":1449026249,
+    "wof:lastmodified":1466311572,
     "wof:name":"Jay Jays",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.07045,-38.687927,176.07045,-38.687927],
-  "geometry": {"coordinates":[176.07045,-38.687927],"type":"Point"}
+  "bbox": [
+    176.07045,
+    -38.687927,
+    176.07045,
+    -38.687927
+],
+  "geometry": {"coordinates":[176.07044999999999,-38.687927],"type":"Point"}
 }

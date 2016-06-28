@@ -2,13 +2,14 @@
   "id": 185914605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.365021,33.958141,-83.365021,33.958141",
     "geom:latitude":33.958141,
     "geom:longitude":-83.365021,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Dudley Park 43 Church St ",
     "sg:city":"Rangiora",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185914605,
-    "wof:lastmodified":1449007221,
+    "wof:lastmodified":1466311972,
     "wof:name":"Waimakariri District Council",
     "wof:parent_id":85851137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sports"
     ]
 },
-  "bbox": [-83.365021,33.958141,-83.365021,33.958141],
+  "bbox": [
+    -83.365021,
+    33.958141,
+    -83.365021,
+    33.958141
+],
   "geometry": {"coordinates":[-83.365021,33.958141],"type":"Point"}
 }

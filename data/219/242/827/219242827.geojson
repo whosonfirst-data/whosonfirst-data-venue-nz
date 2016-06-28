@@ -2,13 +2,14 @@
   "id": 219242827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.499512,-45.890186,170.499512,-45.890186",
     "geom:latitude":-45.890186,
     "geom:longitude":170.499512,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Bridgman St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219242827,
-    "wof:lastmodified":1449073504,
+    "wof:lastmodified":1466311954,
     "wof:name":"Foote H A Haulage Ltd",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.499512,-45.890186,170.499512,-45.890186],
-  "geometry": {"coordinates":[170.499512,-45.890186],"type":"Point"}
+  "bbox": [
+    170.499512,
+    -45.890186,
+    170.499512,
+    -45.890186
+],
+  "geometry": {"coordinates":[170.49951200000001,-45.890186],"type":"Point"}
 }

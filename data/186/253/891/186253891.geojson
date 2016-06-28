@@ -2,13 +2,14 @@
   "id": 186253891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.148804,-40.75914,175.148804,-40.75914",
     "geom:latitude":-40.75914,
     "geom:longitude":175.148804,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 46 Otaki Railway ",
     "sg:city":"Otaki",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186253891,
-    "wof:lastmodified":1449052684,
+    "wof:lastmodified":1466311873,
     "wof:name":"Met Instruments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "equipment"
     ]
 },
-  "bbox": [175.148804,-40.75914,175.148804,-40.75914],
-  "geometry": {"coordinates":[175.148804,-40.75914],"type":"Point"}
+  "bbox": [
+    175.148804,
+    -40.75914,
+    175.148804,
+    -40.75914
+],
+  "geometry": {"coordinates":[175.14880400000001,-40.75914],"type":"Point"}
 }

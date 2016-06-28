@@ -2,13 +2,14 @@
   "id": 219609821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.635651,-43.542744,172.635651,-43.542744",
     "geom:latitude":-43.542744,
     "geom:longitude":172.635651,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Sandyford St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219609821,
-    "wof:lastmodified":1449071700,
+    "wof:lastmodified":1466312705,
     "wof:name":"Autocare Service Centre",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fitness"
     ]
 },
-  "bbox": [172.635651,-43.542744,172.635651,-43.542744],
+  "bbox": [
+    172.635651,
+    -43.542744,
+    172.635651,
+    -43.542744
+],
   "geometry": {"coordinates":[172.635651,-43.542744],"type":"Point"}
 }

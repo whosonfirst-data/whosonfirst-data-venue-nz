@@ -2,13 +2,14 @@
   "id": 202809691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.844238,-36.89922,174.844238,-36.89922",
     "geom:latitude":-36.89922,
     "geom:longitude":174.844238,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Mount Wellington Highway Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202809691,
-    "wof:lastmodified":1449062209,
+    "wof:lastmodified":1466312561,
     "wof:name":"Bedpost",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bed"
     ]
 },
-  "bbox": [174.844238,-36.89922,174.844238,-36.89922],
-  "geometry": {"coordinates":[174.844238,-36.89922],"type":"Point"}
+  "bbox": [
+    174.844238,
+    -36.89922,
+    174.844238,
+    -36.89922
+],
+  "geometry": {"coordinates":[174.84423799999999,-36.89922],"type":"Point"}
 }

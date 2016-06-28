@@ -2,13 +2,14 @@
   "id": 203168509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.77803,-41.307404,174.77803,-41.307404",
     "geom:latitude":-41.307404,
     "geom:longitude":174.77803,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Riddiford St Newtown ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203168509,
-    "wof:lastmodified":1449025926,
+    "wof:lastmodified":1466311062,
     "wof:name":"Main Glassworks",
     "wof:parent_id":85778471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fittings"
     ]
 },
-  "bbox": [174.77803,-41.307404,174.77803,-41.307404],
+  "bbox": [
+    174.77803,
+    -41.307404,
+    174.77803,
+    -41.307404
+],
   "geometry": {"coordinates":[174.77803,-41.307404],"type":"Point"}
 }

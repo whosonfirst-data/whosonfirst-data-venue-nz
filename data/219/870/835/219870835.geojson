@@ -2,13 +2,14 @@
   "id": 219870835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.871796,-38.21769,175.871796,-38.21769",
     "geom:latitude":-38.21769,
     "geom:longitude":175.871796,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Bridge St ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219870835,
-    "wof:lastmodified":1449071326,
+    "wof:lastmodified":1466313070,
     "wof:name":"KG Forestry Planners Ltd",
     "wof:parent_id":85782509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.871796,-38.21769,175.871796,-38.21769],
-  "geometry": {"coordinates":[175.871796,-38.21769],"type":"Point"}
+  "bbox": [
+    175.871796,
+    -38.21769,
+    175.871796,
+    -38.21769
+],
+  "geometry": {"coordinates":[175.87179599999999,-38.21769],"type":"Point"}
 }

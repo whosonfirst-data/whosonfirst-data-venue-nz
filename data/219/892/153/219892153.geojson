@@ -2,13 +2,14 @@
   "id": 219892153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.292511,-40.635857,175.292511,-40.635857",
     "geom:latitude":-40.635857,
     "geom:longitude":175.292511,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Cargill St ",
     "sg:city":"Levin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219892153,
-    "wof:lastmodified":1449070908,
+    "wof:lastmodified":1466313081,
     "wof:name":"Arbor Lane",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.292511,-40.635857,175.292511,-40.635857],
-  "geometry": {"coordinates":[175.292511,-40.635857],"type":"Point"}
+  "bbox": [
+    175.292511,
+    -40.635857,
+    175.292511,
+    -40.635857
+],
+  "geometry": {"coordinates":[175.29251099999999,-40.635857],"type":"Point"}
 }

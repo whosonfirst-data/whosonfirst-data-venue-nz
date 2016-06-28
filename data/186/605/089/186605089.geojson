@@ -2,13 +2,14 @@
   "id": 186605089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.630295,-40.341,175.630295,-40.341",
     "geom:latitude":-40.341,
     "geom:longitude":175.630295,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Kings Ct Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186605089,
-    "wof:lastmodified":1449051678,
+    "wof:lastmodified":1466313035,
     "wof:name":"Christine Lough Studio 7",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "fitness"
     ]
 },
-  "bbox": [175.630295,-40.341,175.630295,-40.341],
-  "geometry": {"coordinates":[175.630295,-40.341],"type":"Point"}
+  "bbox": [
+    175.630295,
+    -40.341,
+    175.630295,
+    -40.341
+],
+  "geometry": {"coordinates":[175.63029499999999,-40.341],"type":"Point"}
 }

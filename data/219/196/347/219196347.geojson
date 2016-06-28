@@ -2,13 +2,14 @@
   "id": 219196347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.853424,-36.978703,174.853424,-36.978703",
     "geom:latitude":-36.978703,
     "geom:longitude":174.853424,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Dunnotar Rd Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219196347,
-    "wof:lastmodified":1449071192,
+    "wof:lastmodified":1466311426,
     "wof:name":"South Auckland Taxi Association Ltd",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.853424,-36.978703,174.853424,-36.978703],
-  "geometry": {"coordinates":[174.853424,-36.978703],"type":"Point"}
+  "bbox": [
+    174.853424,
+    -36.978703,
+    174.853424,
+    -36.978703
+],
+  "geometry": {"coordinates":[174.85342399999999,-36.978703],"type":"Point"}
 }

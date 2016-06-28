@@ -2,13 +2,14 @@
   "id": 203067645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.821289,-41.309135,174.821289,-41.309135",
     "geom:latitude":-41.309135,
     "geom:longitude":174.821289,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Park Rd Miramar ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203067645,
-    "wof:lastmodified":1449025060,
+    "wof:lastmodified":1466311679,
     "wof:name":"Heartlands",
     "wof:parent_id":85773025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "outdoor"
     ]
 },
-  "bbox": [174.821289,-41.309135,174.821289,-41.309135],
-  "geometry": {"coordinates":[174.821289,-41.309135],"type":"Point"}
+  "bbox": [
+    174.821289,
+    -41.309135,
+    174.821289,
+    -41.309135
+],
+  "geometry": {"coordinates":[174.82128900000001,-41.309135],"type":"Point"}
 }

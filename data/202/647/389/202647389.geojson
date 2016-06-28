@@ -2,13 +2,14 @@
   "id": 202647389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.056335,-39.906353,175.056335,-39.906353",
     "geom:latitude":-39.906353,
     "geom:longitude":175.056335,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 George St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202647389,
-    "wof:lastmodified":1449061327,
+    "wof:lastmodified":1466311905,
     "wof:name":"Skelsey T M Ltd",
     "wof:parent_id":85781217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "related"
     ]
 },
-  "bbox": [175.056335,-39.906353,175.056335,-39.906353],
-  "geometry": {"coordinates":[175.056335,-39.906353],"type":"Point"}
+  "bbox": [
+    175.056335,
+    -39.906353,
+    175.056335,
+    -39.906353
+],
+  "geometry": {"coordinates":[175.05633499999999,-39.906353],"type":"Point"}
 }

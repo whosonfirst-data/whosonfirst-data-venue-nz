@@ -2,13 +2,14 @@
   "id": 219978665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.85498,-36.922905,174.85498,-36.922905",
     "geom:latitude":-36.922905,
     "geom:longitude":174.85498,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Fisher Cre Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219978665,
-    "wof:lastmodified":1449072416,
+    "wof:lastmodified":1466313133,
     "wof:name":"Nutritech International Limited",
     "wof:parent_id":85773103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.85498,-36.922905,174.85498,-36.922905],
-  "geometry": {"coordinates":[174.85498,-36.922905],"type":"Point"}
+  "bbox": [
+    174.85498,
+    -36.922905,
+    174.85498,
+    -36.922905
+],
+  "geometry": {"coordinates":[174.85498000000001,-36.922905],"type":"Point"}
 }

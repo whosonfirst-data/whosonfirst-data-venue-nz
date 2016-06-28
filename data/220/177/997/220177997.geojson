@@ -2,13 +2,14 @@
   "id": 220177997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.62355,-36.891575,174.62355,-36.891575",
     "geom:latitude":-36.891575,
     "geom:longitude":174.62355,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1/2 Corban Ave Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220177997,
-    "wof:lastmodified":1449074878,
+    "wof:lastmodified":1466311289,
     "wof:name":"Organic Soy Company",
     "wof:parent_id":85781035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "veges"
     ]
 },
-  "bbox": [174.62355,-36.891575,174.62355,-36.891575],
-  "geometry": {"coordinates":[174.62355,-36.891575],"type":"Point"}
+  "bbox": [
+    174.62355,
+    -36.891575,
+    174.62355,
+    -36.891575
+],
+  "geometry": {"coordinates":[174.62354999999999,-36.891575],"type":"Point"}
 }

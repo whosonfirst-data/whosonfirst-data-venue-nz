@@ -2,13 +2,14 @@
   "id": 219740563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.632278,-36.885757,174.632278,-36.885757",
     "geom:latitude":-36.885757,
     "geom:longitude":174.632278,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 View Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219740563,
-    "wof:lastmodified":1449071995,
+    "wof:lastmodified":1466312974,
     "wof:name":"Westcity Vehicle Electrix LTD",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.632278,-36.885757,174.632278,-36.885757],
-  "geometry": {"coordinates":[174.632278,-36.885757],"type":"Point"}
+  "bbox": [
+    174.632278,
+    -36.885757,
+    174.632278,
+    -36.885757
+],
+  "geometry": {"coordinates":[174.63227800000001,-36.885757],"type":"Point"}
 }

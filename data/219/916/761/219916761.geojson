@@ -2,13 +2,14 @@
   "id": 219916761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.346985,-46.403912,168.346985,-46.403912",
     "geom:latitude":-46.403912,
     "geom:longitude":168.346985,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"228 Dee St Avenal ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219916761,
-    "wof:lastmodified":1449072311,
+    "wof:lastmodified":1466313160,
     "wof:name":"Southland Farm Services Ltd",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.346985,-46.403912,168.346985,-46.403912],
-  "geometry": {"coordinates":[168.346985,-46.403912],"type":"Point"}
+  "bbox": [
+    168.346985,
+    -46.403912,
+    168.346985,
+    -46.403912
+],
+  "geometry": {"coordinates":[168.34698499999999,-46.403912],"type":"Point"}
 }

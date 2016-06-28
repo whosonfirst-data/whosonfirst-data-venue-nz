@@ -2,13 +2,14 @@
   "id": 186620957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.661591,-36.918701,174.661591,-36.918701",
     "geom:latitude":-36.918701,
     "geom:longitude":174.661591,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Fairmount Rd Titirangi ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186620957,
-    "wof:lastmodified":1449052789,
+    "wof:lastmodified":1466312994,
     "wof:name":"Ratna Kutir",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fitness"
     ]
 },
-  "bbox": [174.661591,-36.918701,174.661591,-36.918701],
-  "geometry": {"coordinates":[174.661591,-36.918701],"type":"Point"}
+  "bbox": [
+    174.661591,
+    -36.918701,
+    174.661591,
+    -36.918701
+],
+  "geometry": {"coordinates":[174.66159099999999,-36.918701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203191483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.24617,-37.795288,175.24617,-37.795288",
     "geom:latitude":-37.795288,
     "geom:longitude":175.24617,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Whatawhata Rd Dinsdale ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203191483,
-    "wof:lastmodified":1449026085,
+    "wof:lastmodified":1466311294,
     "wof:name":"Valet Drycleaners",
     "wof:parent_id":85781735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaner"
     ]
 },
-  "bbox": [175.24617,-37.795288,175.24617,-37.795288],
-  "geometry": {"coordinates":[175.24617,-37.795288],"type":"Point"}
+  "bbox": [
+    175.24617,
+    -37.795288,
+    175.24617,
+    -37.795288
+],
+  "geometry": {"coordinates":[175.24617000000001,-37.795288],"type":"Point"}
 }

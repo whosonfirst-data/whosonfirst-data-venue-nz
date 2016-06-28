@@ -2,13 +2,14 @@
   "id": 219662119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.689377,-36.909725,174.689377,-36.909725",
     "geom:latitude":-36.909725,
     "geom:longitude":174.689377,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 a Portage Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219662119,
-    "wof:lastmodified":1449072775,
+    "wof:lastmodified":1466312729,
     "wof:name":"Frank Allen Tyres",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.689377,-36.909725,174.689377,-36.909725],
-  "geometry": {"coordinates":[174.689377,-36.909725],"type":"Point"}
+  "bbox": [
+    174.689377,
+    -36.909725,
+    174.689377,
+    -36.909725
+],
+  "geometry": {"coordinates":[174.68937700000001,-36.909725],"type":"Point"}
 }

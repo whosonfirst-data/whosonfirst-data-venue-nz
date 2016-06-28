@@ -2,13 +2,14 @@
   "id": 219791823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.616104,-40.335754,175.616104,-40.335754",
     "geom:latitude":-40.335754,
     "geom:longitude":175.616104,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 - 7 Moa St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219791823,
-    "wof:lastmodified":1449073117,
+    "wof:lastmodified":1466312922,
     "wof:name":"Coachwork Central Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.616104,-40.335754,175.616104,-40.335754],
-  "geometry": {"coordinates":[175.616104,-40.335754],"type":"Point"}
+  "bbox": [
+    175.616104,
+    -40.335754,
+    175.616104,
+    -40.335754
+],
+  "geometry": {"coordinates":[175.61610400000001,-40.335754],"type":"Point"}
 }

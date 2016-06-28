@@ -2,13 +2,14 @@
   "id": 220176263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.641083,-36.908749,174.641083,-36.908749",
     "geom:latitude":-36.908749,
     "geom:longitude":174.641083,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"356 West Coast Rd Glen Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220176263,
-    "wof:lastmodified":1449074584,
+    "wof:lastmodified":1466311276,
     "wof:name":"Clarks Organic Butchery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "veges"
     ]
 },
-  "bbox": [174.641083,-36.908749,174.641083,-36.908749],
-  "geometry": {"coordinates":[174.641083,-36.908749],"type":"Point"}
+  "bbox": [
+    174.641083,
+    -36.908749,
+    174.641083,
+    -36.908749
+],
+  "geometry": {"coordinates":[174.64108300000001,-36.908749],"type":"Point"}
 }

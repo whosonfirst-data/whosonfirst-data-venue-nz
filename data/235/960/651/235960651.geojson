@@ -2,13 +2,14 @@
   "id": 235960651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.818436,-41.506195,173.818436,-41.506195",
     "geom:latitude":-41.506195,
     "geom:longitude":173.818436,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Terrace Rd Renwick ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235960651,
-    "wof:lastmodified":1449008491,
+    "wof:lastmodified":1466311061,
     "wof:name":"Cellier Le Brun Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dining"
     ]
 },
-  "bbox": [173.818436,-41.506195,173.818436,-41.506195],
-  "geometry": {"coordinates":[173.818436,-41.506195],"type":"Point"}
+  "bbox": [
+    173.818436,
+    -41.506195,
+    173.818436,
+    -41.506195
+],
+  "geometry": {"coordinates":[173.81843599999999,-41.506195],"type":"Point"}
 }

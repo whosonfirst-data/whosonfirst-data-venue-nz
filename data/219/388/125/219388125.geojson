@@ -2,13 +2,14 @@
   "id": 219388125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.767807,-36.773468,174.767807,-36.773468",
     "geom:latitude":-36.773468,
     "geom:longitude":174.767807,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Kitchener Rd Milford ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219388125,
-    "wof:lastmodified":1449070505,
+    "wof:lastmodified":1466311682,
     "wof:name":"Seymour Travel North Shore",
     "wof:parent_id":85778459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broker"
     ]
 },
-  "bbox": [174.767807,-36.773468,174.767807,-36.773468],
+  "bbox": [
+    174.767807,
+    -36.773468,
+    174.767807,
+    -36.773468
+],
   "geometry": {"coordinates":[174.767807,-36.773468],"type":"Point"}
 }

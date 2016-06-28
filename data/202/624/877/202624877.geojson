@@ -2,13 +2,14 @@
   "id": 202624877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.056824,-39.904179,175.056824,-39.904179",
     "geom:latitude":-39.904179,
     "geom:longitude":175.056824,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Gibson Rd ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202624877,
-    "wof:lastmodified":1449061831,
+    "wof:lastmodified":1466311718,
     "wof:name":"Lockwood",
     "wof:parent_id":85781217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [175.056824,-39.904179,175.056824,-39.904179],
-  "geometry": {"coordinates":[175.056824,-39.904179],"type":"Point"}
+  "bbox": [
+    175.056824,
+    -39.904179,
+    175.056824,
+    -39.904179
+],
+  "geometry": {"coordinates":[175.05682400000001,-39.904179],"type":"Point"}
 }

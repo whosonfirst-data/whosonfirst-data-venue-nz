@@ -2,13 +2,14 @@
   "id": 185927375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.750397,-36.873867,174.750397,-36.873867",
     "geom:latitude":-36.873867,
     "geom:longitude":174.750397,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 a Onslow Rd Mt Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185927375,
-    "wof:lastmodified":1449008052,
+    "wof:lastmodified":1466312018,
     "wof:name":"Aikido Auckland Aikikai",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sports"
     ]
 },
-  "bbox": [174.750397,-36.873867,174.750397,-36.873867],
-  "geometry": {"coordinates":[174.750397,-36.873867],"type":"Point"}
+  "bbox": [
+    174.750397,
+    -36.873867,
+    174.750397,
+    -36.873867
+],
+  "geometry": {"coordinates":[174.75039699999999,-36.873867],"type":"Point"}
 }

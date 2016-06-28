@@ -2,13 +2,14 @@
   "id": 219222987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.328354,-35.728119,174.328354,-35.728119",
     "geom:latitude":-35.728119,
     "geom:longitude":174.328354,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Herekino St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219222987,
-    "wof:lastmodified":1449072749,
+    "wof:lastmodified":1466311707,
     "wof:name":"B.K. Movers",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.328354,-35.728119,174.328354,-35.728119],
-  "geometry": {"coordinates":[174.328354,-35.728119],"type":"Point"}
+  "bbox": [
+    174.328354,
+    -35.728119,
+    174.328354,
+    -35.728119
+],
+  "geometry": {"coordinates":[174.32835399999999,-35.728119],"type":"Point"}
 }

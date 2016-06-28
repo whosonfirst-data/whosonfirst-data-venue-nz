@@ -2,13 +2,14 @@
   "id": 186142507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.789291,-37.81509,175.789291,-37.81509",
     "geom:latitude":-37.81509,
     "geom:longitude":175.789291,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Waihou St ",
     "sg:city":"Matamata",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186142507,
-    "wof:lastmodified":1449052474,
+    "wof:lastmodified":1466310915,
     "wof:name":"Colchester Engineering Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.789291,-37.81509,175.789291,-37.81509],
-  "geometry": {"coordinates":[175.789291,-37.81509],"type":"Point"}
+  "bbox": [
+    175.789291,
+    -37.81509,
+    175.789291,
+    -37.81509
+],
+  "geometry": {"coordinates":[175.78929099999999,-37.81509],"type":"Point"}
 }

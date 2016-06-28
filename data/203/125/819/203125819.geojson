@@ -2,13 +2,14 @@
   "id": 203125819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.767151,-41.28054,174.767151,-41.28054",
     "geom:latitude":-41.28054,
     "geom:longitude":174.767151,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Paekakariki Hill Rd R D 1 Plimmerton ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203125819,
-    "wof:lastmodified":1449026804,
+    "wof:lastmodified":1466310740,
     "wof:name":"Acacia Cattery",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "kennel"
     ]
 },
-  "bbox": [174.767151,-41.28054,174.767151,-41.28054],
-  "geometry": {"coordinates":[174.767151,-41.28054],"type":"Point"}
+  "bbox": [
+    174.767151,
+    -41.28054,
+    174.767151,
+    -41.28054
+],
+  "geometry": {"coordinates":[174.76715100000001,-41.28054],"type":"Point"}
 }

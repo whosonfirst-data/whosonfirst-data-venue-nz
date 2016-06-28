@@ -2,13 +2,14 @@
   "id": 236048087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.507889,-45.896507,170.507889,-45.896507",
     "geom:latitude":-45.896507,
     "geom:longitude":170.507889,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"523 Andersons Bay Rd ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236048087,
-    "wof:lastmodified":1449002662,
+    "wof:lastmodified":1466312030,
     "wof:name":"Hope And Sons Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "arrangements"
     ]
 },
-  "bbox": [170.507889,-45.896507,170.507889,-45.896507],
-  "geometry": {"coordinates":[170.507889,-45.896507],"type":"Point"}
+  "bbox": [
+    170.507889,
+    -45.896507,
+    170.507889,
+    -45.896507
+],
+  "geometry": {"coordinates":[170.50788900000001,-45.896507],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235974163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.778397,-36.870758,174.778397,-36.870758",
     "geom:latitude":-36.870758,
     "geom:longitude":174.778397,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Remuera Rd Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235974163,
-    "wof:lastmodified":1449008559,
+    "wof:lastmodified":1466311353,
     "wof:name":"Cafe Monet",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cafe"
     ]
 },
-  "bbox": [174.778397,-36.870758,174.778397,-36.870758],
-  "geometry": {"coordinates":[174.778397,-36.870758],"type":"Point"}
+  "bbox": [
+    174.778397,
+    -36.870758,
+    174.778397,
+    -36.870758
+],
+  "geometry": {"coordinates":[174.77839700000001,-36.870758],"type":"Point"}
 }

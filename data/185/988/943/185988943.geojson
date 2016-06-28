@@ -2,13 +2,14 @@
   "id": 185988943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.69632,-43.556171,172.69632,-43.556171",
     "geom:latitude":-43.556171,
     "geom:longitude":172.69632,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"945 Ferry Rd Ferrymead ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185988943,
-    "wof:lastmodified":1449007146,
+    "wof:lastmodified":1466312389,
     "wof:name":"The Clothing Studio",
     "wof:parent_id":85778281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wedding"
     ]
 },
-  "bbox": [172.69632,-43.556171,172.69632,-43.556171],
-  "geometry": {"coordinates":[172.69632,-43.556171],"type":"Point"}
+  "bbox": [
+    172.69632,
+    -43.556171,
+    172.69632,
+    -43.556171
+],
+  "geometry": {"coordinates":[172.69631999999999,-43.556171],"type":"Point"}
 }

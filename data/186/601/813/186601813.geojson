@@ -2,13 +2,14 @@
   "id": 186601813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.011475,-41.147579,175.011475,-41.147579",
     "geom:latitude":-41.147579,
     "geom:longitude":175.011475,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Dunns Rd Silverstream Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186601813,
-    "wof:lastmodified":1449051575,
+    "wof:lastmodified":1466312965,
     "wof:name":"Herbalife (NZ) Limited",
     "wof:parent_id":85773187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "weight"
     ]
 },
-  "bbox": [175.011475,-41.147579,175.011475,-41.147579],
-  "geometry": {"coordinates":[175.011475,-41.147579],"type":"Point"}
+  "bbox": [
+    175.011475,
+    -41.147579,
+    175.011475,
+    -41.147579
+],
+  "geometry": {"coordinates":[175.01147499999999,-41.147579],"type":"Point"}
 }

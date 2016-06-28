@@ -2,13 +2,14 @@
   "id": 219715249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.59108,-40.347942,175.59108,-40.347942",
     "geom:latitude":-40.347942,
     "geom:longitude":175.59108,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219715249,
-    "wof:lastmodified":1449073220,
+    "wof:lastmodified":1466312736,
     "wof:name":"Alro",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.59108,-40.347942,175.59108,-40.347942],
-  "geometry": {"coordinates":[175.59108,-40.347942],"type":"Point"}
+  "bbox": [
+    175.59108,
+    -40.347942,
+    175.59108,
+    -40.347942
+],
+  "geometry": {"coordinates":[175.59108000000001,-40.347942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186633807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.725983,-43.508221,172.725983,-43.508221",
     "geom:latitude":-43.508221,
     "geom:longitude":172.725983,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Seaview Rd New Brighton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186633807,
-    "wof:lastmodified":1449053011,
+    "wof:lastmodified":1466313012,
     "wof:name":"Marshall's Health",
     "wof:parent_id":85778899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [172.725983,-43.508221,172.725983,-43.508221],
-  "geometry": {"coordinates":[172.725983,-43.508221],"type":"Point"}
+  "bbox": [
+    172.725983,
+    -43.508221,
+    172.725983,
+    -43.508221
+],
+  "geometry": {"coordinates":[172.72598300000001,-43.508221],"type":"Point"}
 }

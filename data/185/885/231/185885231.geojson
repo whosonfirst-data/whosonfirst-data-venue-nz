@@ -2,13 +2,14 @@
   "id": 185885231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.320084,-37.786819,176.320084,-37.786819",
     "geom:latitude":-37.786819,
     "geom:longitude":176.320084,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Maungarangi Rd Paengaroa Te ",
     "sg:city":"Puke",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185885231,
-    "wof:lastmodified":1449007479,
+    "wof:lastmodified":1466311766,
     "wof:name":"The GolfWorks NZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.320084,-37.786819,176.320084,-37.786819],
-  "geometry": {"coordinates":[176.320084,-37.786819],"type":"Point"}
+  "bbox": [
+    176.320084,
+    -37.786819,
+    176.320084,
+    -37.786819
+],
+  "geometry": {"coordinates":[176.32008400000001,-37.786819],"type":"Point"}
 }

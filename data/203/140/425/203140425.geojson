@@ -2,13 +2,14 @@
   "id": 203140425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.14975,-40.756622,175.14975,-40.756622",
     "geom:latitude":-40.756622,
     "geom:longitude":175.14975,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Mill Rd ",
     "sg:city":"Otaki",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203140425,
-    "wof:lastmodified":1449025204,
+    "wof:lastmodified":1466310830,
     "wof:name":"The Oaks Cattery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kennel"
     ]
 },
-  "bbox": [175.14975,-40.756622,175.14975,-40.756622],
-  "geometry": {"coordinates":[175.14975,-40.756622],"type":"Point"}
+  "bbox": [
+    175.14975,
+    -40.756622,
+    175.14975,
+    -40.756622
+],
+  "geometry": {"coordinates":[175.14975000000001,-40.756622],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169605489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.567047,-40.226322,175.567047,-40.226322",
     "geom:latitude":-40.226322,
     "geom:longitude":175.567047,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Stafford St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169605489,
-    "wof:lastmodified":1449034288,
+    "wof:lastmodified":1466311673,
     "wof:name":"Trash & Treasures Too",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.567047,-40.226322,175.567047,-40.226322],
+  "bbox": [
+    175.567047,
+    -40.226322,
+    175.567047,
+    -40.226322
+],
   "geometry": {"coordinates":[175.567047,-40.226322],"type":"Point"}
 }

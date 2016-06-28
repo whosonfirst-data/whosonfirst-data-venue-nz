@@ -2,13 +2,14 @@
   "id": 219918599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.027344,-39.947632,175.027344,-39.947632",
     "geom:latitude":-39.947632,
     "geom:longitude":175.027344,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Gunn St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219918599,
-    "wof:lastmodified":1449072788,
+    "wof:lastmodified":1466313101,
     "wof:name":"Agrepairs",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.027344,-39.947632,175.027344,-39.947632],
+  "bbox": [
+    175.027344,
+    -39.947632,
+    175.027344,
+    -39.947632
+],
   "geometry": {"coordinates":[175.027344,-39.947632],"type":"Point"}
 }

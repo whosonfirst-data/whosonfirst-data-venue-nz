@@ -2,13 +2,14 @@
   "id": 202400277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.669281,-40.956444,175.669281,-40.956444",
     "geom:latitude":-40.956444,
     "geom:longitude":175.669281,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"107-109 Church St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202400277,
-    "wof:lastmodified":1449060359,
+    "wof:lastmodified":1466311062,
     "wof:name":"Whaiora Whanui Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.669281,-40.956444,175.669281,-40.956444],
-  "geometry": {"coordinates":[175.669281,-40.956444],"type":"Point"}
+  "bbox": [
+    175.669281,
+    -40.956444,
+    175.669281,
+    -40.956444
+],
+  "geometry": {"coordinates":[175.66928100000001,-40.956444],"type":"Point"}
 }

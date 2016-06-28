@@ -2,13 +2,14 @@
   "id": 202409519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.779175,-36.865265,174.779175,-36.865265",
     "geom:latitude":-36.865265,
     "geom:longitude":174.779175,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Broadway Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202409519,
-    "wof:lastmodified":1449061154,
+    "wof:lastmodified":1466311301,
     "wof:name":"L'unova",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.779175,-36.865265,174.779175,-36.865265],
-  "geometry": {"coordinates":[174.779175,-36.865265],"type":"Point"}
+  "bbox": [
+    174.779175,
+    -36.865265,
+    174.779175,
+    -36.865265
+],
+  "geometry": {"coordinates":[174.77917500000001,-36.865265],"type":"Point"}
 }

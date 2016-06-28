@@ -2,13 +2,14 @@
   "id": 169577601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.350479,-46.410091,168.350479,-46.410091",
     "geom:latitude":-46.410091,
     "geom:longitude":168.350479,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Kelvin St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169577601,
-    "wof:lastmodified":1449036067,
+    "wof:lastmodified":1466311343,
     "wof:name":"Whichcraft Southland",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.350479,-46.410091,168.350479,-46.410091],
-  "geometry": {"coordinates":[168.350479,-46.410091],"type":"Point"}
+  "bbox": [
+    168.350479,
+    -46.410091,
+    168.350479,
+    -46.410091
+],
+  "geometry": {"coordinates":[168.35047900000001,-46.410091],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235934705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.807938,-40.853371,172.807938,-40.853371",
     "geom:latitude":-40.853371,
     "geom:longitude":172.807938,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 60 Urewhenua ",
     "sg:city":"Takaka",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235934705,
-    "wof:lastmodified":1449008294,
+    "wof:lastmodified":1466310667,
     "wof:name":"Takaka Abattoir",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "slaughtering"
     ]
 },
-  "bbox": [172.807938,-40.853371,172.807938,-40.853371],
-  "geometry": {"coordinates":[172.807938,-40.853371],"type":"Point"}
+  "bbox": [
+    172.807938,
+    -40.853371,
+    172.807938,
+    -40.853371
+],
+  "geometry": {"coordinates":[172.80793800000001,-40.853371],"type":"Point"}
 }

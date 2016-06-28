@@ -2,13 +2,14 @@
   "id": 186114337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.256622,-37.786674,175.256622,-37.786674",
     "geom:latitude":-37.786674,
     "geom:longitude":175.256622,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Lincoln St Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186114337,
-    "wof:lastmodified":1449051495,
+    "wof:lastmodified":1466310662,
     "wof:name":"Supagas",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.256622,-37.786674,175.256622,-37.786674],
-  "geometry": {"coordinates":[175.256622,-37.786674],"type":"Point"}
+  "bbox": [
+    175.256622,
+    -37.786674,
+    175.256622,
+    -37.786674
+],
+  "geometry": {"coordinates":[175.25662199999999,-37.786674],"type":"Point"}
 }

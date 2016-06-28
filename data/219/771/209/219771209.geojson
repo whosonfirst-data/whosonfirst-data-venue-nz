@@ -2,13 +2,14 @@
   "id": 219771209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.842392,-36.903419,174.842392,-36.903419",
     "geom:latitude":-36.903419,
     "geom:longitude":174.842392,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Triangle Rd Mt ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219771209,
-    "wof:lastmodified":1449072293,
+    "wof:lastmodified":1466312965,
     "wof:name":"Platinum Speedsters Ltd",
     "wof:parent_id":85773109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "car"
     ]
 },
-  "bbox": [174.842392,-36.903419,174.842392,-36.903419],
-  "geometry": {"coordinates":[174.842392,-36.903419],"type":"Point"}
+  "bbox": [
+    174.842392,
+    -36.903419,
+    174.842392,
+    -36.903419
+],
+  "geometry": {"coordinates":[174.84239199999999,-36.903419],"type":"Point"}
 }

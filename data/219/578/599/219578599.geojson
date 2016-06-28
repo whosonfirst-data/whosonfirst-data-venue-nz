@@ -2,13 +2,14 @@
   "id": 219578599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.517105,-37.6651,175.517105,-37.6651",
     "geom:latitude":-37.6651,
     "geom:longitude":175.517105,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 West St ",
     "sg:city":"Morrinsville",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219578599,
-    "wof:lastmodified":1449071286,
+    "wof:lastmodified":1466312439,
     "wof:name":"Paton & Black Motorworld Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.517105,-37.6651,175.517105,-37.6651],
-  "geometry": {"coordinates":[175.517105,-37.6651],"type":"Point"}
+  "bbox": [
+    175.517105,
+    -37.6651,
+    175.517105,
+    -37.6651
+],
+  "geometry": {"coordinates":[175.51710499999999,-37.6651],"type":"Point"}
 }

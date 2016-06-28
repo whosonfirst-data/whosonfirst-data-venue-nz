@@ -2,13 +2,14 @@
   "id": 202462665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.638138,-43.543076,172.638138,-43.543076",
     "geom:latitude":-43.543076,
     "geom:longitude":172.638138,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Buchan St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202462665,
-    "wof:lastmodified":1449062540,
+    "wof:lastmodified":1466311830,
     "wof:name":"NZCare Group Ltd",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "aid"
     ]
 },
-  "bbox": [172.638138,-43.543076,172.638138,-43.543076],
+  "bbox": [
+    172.638138,
+    -43.543076,
+    172.638138,
+    -43.543076
+],
   "geometry": {"coordinates":[172.638138,-43.543076],"type":"Point"}
 }

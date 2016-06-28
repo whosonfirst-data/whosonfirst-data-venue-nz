@@ -2,13 +2,14 @@
   "id": 202745335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.037872,-39.930538,175.037872,-39.930538",
     "geom:latitude":-39.930538,
     "geom:longitude":175.037872,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"115-117 Liverpool St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202745335,
-    "wof:lastmodified":1449062532,
+    "wof:lastmodified":1466312398,
     "wof:name":"Loma Linda Private Rest Home",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "care"
     ]
 },
-  "bbox": [175.037872,-39.930538,175.037872,-39.930538],
-  "geometry": {"coordinates":[175.037872,-39.930538],"type":"Point"}
+  "bbox": [
+    175.037872,
+    -39.930538,
+    175.037872,
+    -39.930538
+],
+  "geometry": {"coordinates":[175.03787199999999,-39.930538],"type":"Point"}
 }

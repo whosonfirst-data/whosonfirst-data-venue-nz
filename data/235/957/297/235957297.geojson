@@ -2,13 +2,14 @@
   "id": 235957297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.044357,-36.794655,175.044357,-36.794655",
     "geom:latitude":-36.794655,
     "geom:longitude":175.044357,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Wharf Rd Chatham ",
     "sg:city":"Islands",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":235957297,
-    "wof:lastmodified":1449008547,
+    "wof:lastmodified":1466311022,
     "wof:name":"Chatham Processing Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "sea"
     ]
 },
-  "bbox": [175.044357,-36.794655,175.044357,-36.794655],
-  "geometry": {"coordinates":[175.044357,-36.794655],"type":"Point"}
+  "bbox": [
+    175.044357,
+    -36.794655,
+    175.044357,
+    -36.794655
+],
+  "geometry": {"coordinates":[175.04435699999999,-36.794655],"type":"Point"}
 }

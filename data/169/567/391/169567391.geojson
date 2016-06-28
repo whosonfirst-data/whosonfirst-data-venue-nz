@@ -2,13 +2,14 @@
   "id": 169567391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.621964,-43.512157,172.621964,-43.512157",
     "geom:latitude":-43.512157,
     "geom:longitude":172.621964,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"196 a Papanui Rd Merivale ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169567391,
-    "wof:lastmodified":1449035994,
+    "wof:lastmodified":1466311087,
     "wof:name":"Love in a Basket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supplier"
     ]
 },
-  "bbox": [172.621964,-43.512157,172.621964,-43.512157],
-  "geometry": {"coordinates":[172.621964,-43.512157],"type":"Point"}
+  "bbox": [
+    172.621964,
+    -43.512157,
+    172.621964,
+    -43.512157
+],
+  "geometry": {"coordinates":[172.62196399999999,-43.512157],"type":"Point"}
 }

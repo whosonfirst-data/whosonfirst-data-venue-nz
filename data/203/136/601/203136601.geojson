@@ -2,13 +2,14 @@
   "id": 203136601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.891159,-41.038185,174.891159,-41.038185",
     "geom:latitude":-41.038185,
     "geom:longitude":174.891159,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Muri Rd Pukerua ",
     "sg:city":"Bay",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203136601,
-    "wof:lastmodified":1449026852,
+    "wof:lastmodified":1466310802,
     "wof:name":"Moggie Lodge Cattery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kennel"
     ]
 },
-  "bbox": [174.891159,-41.038185,174.891159,-41.038185],
-  "geometry": {"coordinates":[174.891159,-41.038185],"type":"Point"}
+  "bbox": [
+    174.891159,
+    -41.038185,
+    174.891159,
+    -41.038185
+],
+  "geometry": {"coordinates":[174.89115899999999,-41.038185],"type":"Point"}
 }

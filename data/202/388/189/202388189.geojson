@@ -2,13 +2,14 @@
   "id": 202388189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.353745,-46.41103,168.353745,-46.41103",
     "geom:latitude":-46.41103,
     "geom:longitude":168.353745,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Southland, Invercargill, Gore, Te Anau ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202388189,
-    "wof:lastmodified":1449060192,
+    "wof:lastmodified":1466310706,
     "wof:name":"Southern Cross Healthcare",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "health"
     ]
 },
-  "bbox": [168.353745,-46.41103,168.353745,-46.41103],
+  "bbox": [
+    168.353745,
+    -46.41103,
+    168.353745,
+    -46.41103
+],
   "geometry": {"coordinates":[168.353745,-46.41103],"type":"Point"}
 }

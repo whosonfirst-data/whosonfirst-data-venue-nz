@@ -2,13 +2,14 @@
   "id": 186492795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.647705,-43.521049,172.647705,-43.521049",
     "geom:latitude":-43.521049,
     "geom:longitude":172.647705,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"302 Bealey Ave ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186492795,
-    "wof:lastmodified":1449050250,
+    "wof:lastmodified":1466312741,
     "wof:name":"Aotea Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.647705,-43.521049,172.647705,-43.521049],
+  "bbox": [
+    172.647705,
+    -43.521049,
+    172.647705,
+    -43.521049
+],
   "geometry": {"coordinates":[172.647705,-43.521049],"type":"Point"}
 }

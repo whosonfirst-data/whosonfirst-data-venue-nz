@@ -2,13 +2,14 @@
   "id": 219721559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.924377,-37.047085,174.924377,-37.047085",
     "geom:latitude":-37.047085,
     "geom:longitude":174.924377,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Great South Rd Takanini ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219721559,
-    "wof:lastmodified":1449073906,
+    "wof:lastmodified":1466312754,
     "wof:name":"Total Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.924377,-37.047085,174.924377,-37.047085],
-  "geometry": {"coordinates":[174.924377,-37.047085],"type":"Point"}
+  "bbox": [
+    174.924377,
+    -37.047085,
+    174.924377,
+    -37.047085
+],
+  "geometry": {"coordinates":[174.92437699999999,-37.047085],"type":"Point"}
 }

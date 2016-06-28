@@ -2,13 +2,14 @@
   "id": 203344123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.776733,-41.283546,174.776733,-41.283546",
     "geom:latitude":-41.283546,
     "geom:longitude":174.776733,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Featherston St ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203344123,
-    "wof:lastmodified":1449025045,
+    "wof:lastmodified":1466312275,
     "wof:name":"Timberland Footwear & Clothing",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wear"
     ]
 },
-  "bbox": [174.776733,-41.283546,174.776733,-41.283546],
-  "geometry": {"coordinates":[174.776733,-41.283546],"type":"Point"}
+  "bbox": [
+    174.776733,
+    -41.283546,
+    174.776733,
+    -41.283546
+],
+  "geometry": {"coordinates":[174.77673300000001,-41.283546],"type":"Point"}
 }

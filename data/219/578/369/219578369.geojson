@@ -2,13 +2,14 @@
   "id": 219578369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.642563,-40.961067,175.642563,-40.961067",
     "geom:latitude":-40.961067,
     "geom:longitude":175.642563,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Harley St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219578369,
-    "wof:lastmodified":1449071285,
+    "wof:lastmodified":1466312436,
     "wof:name":"Able Rentals",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.642563,-40.961067,175.642563,-40.961067],
+  "bbox": [
+    175.642563,
+    -40.961067,
+    175.642563,
+    -40.961067
+],
   "geometry": {"coordinates":[175.642563,-40.961067],"type":"Point"}
 }

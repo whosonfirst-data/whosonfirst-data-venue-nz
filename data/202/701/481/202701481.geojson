@@ -2,13 +2,14 @@
   "id": 202701481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.78804,-41.332561,174.78804,-41.332561",
     "geom:latitude":-41.332561,
     "geom:longitude":174.78804,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Houghton Bay Rd Houghton Bay ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202701481,
-    "wof:lastmodified":1449062132,
+    "wof:lastmodified":1466312116,
     "wof:name":"Wellington Playcentre Association",
     "wof:parent_id":85778423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "children"
     ]
 },
-  "bbox": [174.78804,-41.332561,174.78804,-41.332561],
+  "bbox": [
+    174.78804,
+    -41.332561,
+    174.78804,
+    -41.332561
+],
   "geometry": {"coordinates":[174.78804,-41.332561],"type":"Point"}
 }

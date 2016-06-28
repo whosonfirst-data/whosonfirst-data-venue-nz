@@ -2,13 +2,14 @@
   "id": 220013925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.743362,-36.866497,174.743362,-36.866497",
     "geom:latitude":-36.866497,
     "geom:longitude":174.743362,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 A Commercial Rd Helensville ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220013925,
-    "wof:lastmodified":1449074596,
+    "wof:lastmodified":1466310936,
     "wof:name":"Kaipara Loan & Finance Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [174.743362,-36.866497,174.743362,-36.866497],
-  "geometry": {"coordinates":[174.743362,-36.866497],"type":"Point"}
+  "bbox": [
+    174.743362,
+    -36.866497,
+    174.743362,
+    -36.866497
+],
+  "geometry": {"coordinates":[174.74336199999999,-36.866497],"type":"Point"}
 }

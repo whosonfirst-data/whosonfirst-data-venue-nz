@@ -2,13 +2,14 @@
   "id": 203267035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.325394,-38.010155,175.325394,-38.010155",
     "geom:latitude":-38.010155,
     "geom:longitude":175.325394,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Alexandra St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203267035,
-    "wof:lastmodified":1449026694,
+    "wof:lastmodified":1466312205,
     "wof:name":"John Starnes Menswear",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.325394,-38.010155,175.325394,-38.010155],
-  "geometry": {"coordinates":[175.325394,-38.010155],"type":"Point"}
+  "bbox": [
+    175.325394,
+    -38.010155,
+    175.325394,
+    -38.010155
+],
+  "geometry": {"coordinates":[175.32539399999999,-38.010155],"type":"Point"}
 }

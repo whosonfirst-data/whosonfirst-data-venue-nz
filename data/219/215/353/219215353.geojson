@@ -2,13 +2,14 @@
   "id": 219215353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.81221,-41.246609,174.81221,-41.246609",
     "geom:latitude":-41.246609,
     "geom:longitude":174.81221,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 McCormack Pl Ngauranga ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219215353,
-    "wof:lastmodified":1449073310,
+    "wof:lastmodified":1466311639,
     "wof:name":"Accord International Freight Ltd",
     "wof:parent_id":85778225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.81221,-41.246609,174.81221,-41.246609],
-  "geometry": {"coordinates":[174.81221,-41.246609],"type":"Point"}
+  "bbox": [
+    174.81221,
+    -41.246609,
+    174.81221,
+    -41.246609
+],
+  "geometry": {"coordinates":[174.81220999999999,-41.246609],"type":"Point"}
 }

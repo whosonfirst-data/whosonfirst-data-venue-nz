@@ -2,13 +2,14 @@
   "id": 219221701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.833603,-36.940678,174.833603,-36.940678",
     "geom:latitude":-36.940678,
     "geom:longitude":174.833603,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Saleyards Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219221701,
-    "wof:lastmodified":1449071944,
+    "wof:lastmodified":1466311686,
     "wof:name":"Total Freight Solutions Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.833603,-36.940678,174.833603,-36.940678],
-  "geometry": {"coordinates":[174.833603,-36.940678],"type":"Point"}
+  "bbox": [
+    174.833603,
+    -36.940678,
+    174.833603,
+    -36.940678
+],
+  "geometry": {"coordinates":[174.83360300000001,-36.940678],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202536833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.120888,30.63155,-86.120888,30.63155",
     "geom:latitude":30.63155,
     "geom:longitude":-86.120888,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PCF Gnd Fl 1 Walton Leigh Ave ",
     "sg:city":"Porirua",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202536833,
-    "wof:lastmodified":1449061627,
+    "wof:lastmodified":1466310968,
     "wof:name":"Grant Morgan D.O.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.120888,30.63155,-86.120888,30.63155],
-  "geometry": {"coordinates":[-86.120888,30.63155],"type":"Point"}
+  "bbox": [
+    -86.120888,
+    30.63155,
+    -86.120888,
+    30.63155
+],
+  "geometry": {"coordinates":[-86.12088799999999,30.63155],"type":"Point"}
 }

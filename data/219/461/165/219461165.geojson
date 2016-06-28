@@ -2,13 +2,14 @@
   "id": 219461165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.288345,-40.623734,175.288345,-40.623734",
     "geom:latitude":-40.623734,
     "geom:longitude":175.288345,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 9 Kent St ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219461165,
-    "wof:lastmodified":1449071721,
+    "wof:lastmodified":1466312066,
     "wof:name":"Horowhenua Adult Literacy Scheme",
     "wof:parent_id":85782859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [175.288345,-40.623734,175.288345,-40.623734],
-  "geometry": {"coordinates":[175.288345,-40.623734],"type":"Point"}
+  "bbox": [
+    175.288345,
+    -40.623734,
+    175.288345,
+    -40.623734
+],
+  "geometry": {"coordinates":[175.28834499999999,-40.623734],"type":"Point"}
 }

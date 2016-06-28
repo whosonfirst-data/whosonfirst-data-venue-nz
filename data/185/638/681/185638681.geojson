@@ -2,13 +2,14 @@
   "id": 185638681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.732605,-36.81768,174.732605,-36.81768",
     "geom:latitude":-36.81768,
     "geom:longitude":174.732605,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"84 c Hinemoa St Birkenhead ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":185638681,
-    "wof:lastmodified":1449006674,
+    "wof:lastmodified":1466311350,
     "wof:name":"Pacific Framers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.732605,-36.81768,174.732605,-36.81768],
-  "geometry": {"coordinates":[174.732605,-36.81768],"type":"Point"}
+  "bbox": [
+    174.732605,
+    -36.81768,
+    174.732605,
+    -36.81768
+],
+  "geometry": {"coordinates":[174.73260500000001,-36.81768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169731197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.567627,-40.22617,175.567627,-40.22617",
     "geom:latitude":-40.22617,
     "geom:longitude":175.567627,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Fergusson St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169731197,
-    "wof:lastmodified":1449035587,
+    "wof:lastmodified":1466311150,
     "wof:name":"Feilding New World",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.567627,-40.22617,175.567627,-40.22617],
-  "geometry": {"coordinates":[175.567627,-40.22617],"type":"Point"}
+  "bbox": [
+    175.567627,
+    -40.22617,
+    175.567627,
+    -40.22617
+],
+  "geometry": {"coordinates":[175.56762699999999,-40.22617],"type":"Point"}
 }

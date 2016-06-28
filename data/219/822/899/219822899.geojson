@@ -2,13 +2,14 @@
   "id": 219822899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.930244,41.258484,-75.930244,41.258484",
     "geom:latitude":41.258484,
     "geom:longitude":-75.930244,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Liardet St., 2nd Fl., Council Bldg., New Plymouth",
     "sg:city":"New Plymouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219822899,
-    "wof:lastmodified":1449073810,
+    "wof:lastmodified":1466313052,
     "wof:name":"Powerco Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "private"
     ]
 },
-  "bbox": [-75.930244,41.258484,-75.930244,41.258484],
+  "bbox": [
+    -75.930244,
+    41.258484,
+    -75.930244,
+    41.258484
+],
   "geometry": {"coordinates":[-75.930244,41.258484],"type":"Point"}
 }

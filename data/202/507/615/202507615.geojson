@@ -2,13 +2,14 @@
   "id": 202507615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.703445,-36.836338,175.703445,-36.836338",
     "geom:latitude":-36.836338,
     "geom:longitude":175.703445,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Owen St ",
     "sg:city":"Whitianga",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":202507615,
-    "wof:lastmodified":1449061421,
+    "wof:lastmodified":1466312004,
     "wof:name":"Whitianga Chiropractic Health Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.703445,-36.836338,175.703445,-36.836338],
-  "geometry": {"coordinates":[175.703445,-36.836338],"type":"Point"}
+  "bbox": [
+    175.703445,
+    -36.836338,
+    175.703445,
+    -36.836338
+],
+  "geometry": {"coordinates":[175.70344499999999,-36.836338],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186236983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.899582,-36.916721,174.899582,-36.916721",
     "geom:latitude":-36.916721,
     "geom:longitude":174.899582,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Ben Lomond Cre Pakuranga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186236983,
-    "wof:lastmodified":1449050534,
+    "wof:lastmodified":1466311740,
     "wof:name":"Pakuranga Engineering Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "machinery"
     ]
 },
-  "bbox": [174.899582,-36.916721,174.899582,-36.916721],
-  "geometry": {"coordinates":[174.899582,-36.916721],"type":"Point"}
+  "bbox": [
+    174.899582,
+    -36.916721,
+    174.899582,
+    -36.916721
+],
+  "geometry": {"coordinates":[174.89958200000001,-36.916721],"type":"Point"}
 }

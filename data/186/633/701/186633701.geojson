@@ -2,13 +2,14 @@
   "id": 186633701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.575745,-43.603016,172.575745,-43.603016",
     "geom:latitude":-43.603016,
     "geom:longitude":172.575745,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Kennedys Bush Rd ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186633701,
-    "wof:lastmodified":1449053013,
+    "wof:lastmodified":1466313075,
     "wof:name":"Market New Zealand Limited",
     "wof:parent_id":85781783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "supply"
     ]
 },
-  "bbox": [172.575745,-43.603016,172.575745,-43.603016],
-  "geometry": {"coordinates":[172.575745,-43.603016],"type":"Point"}
+  "bbox": [
+    172.575745,
+    -43.603016,
+    172.575745,
+    -43.603016
+],
+  "geometry": {"coordinates":[172.57574500000001,-43.603016],"type":"Point"}
 }

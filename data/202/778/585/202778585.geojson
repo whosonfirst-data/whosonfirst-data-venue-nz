@@ -2,13 +2,14 @@
   "id": 202778585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.561844,-43.538548,172.561844,-43.538548",
     "geom:latitude":-43.538548,
     "geom:longitude":172.561844,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Watts Rd Sockburn ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202778585,
-    "wof:lastmodified":1449060154,
+    "wof:lastmodified":1466312479,
     "wof:name":"Nightingale Products (1983) Ltd",
     "wof:parent_id":85778617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "garage"
     ]
 },
-  "bbox": [172.561844,-43.538548,172.561844,-43.538548],
-  "geometry": {"coordinates":[172.561844,-43.538548],"type":"Point"}
+  "bbox": [
+    172.561844,
+    -43.538548,
+    172.561844,
+    -43.538548
+],
+  "geometry": {"coordinates":[172.56184400000001,-43.538548],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235942897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.011749,-41.530869,174.011749,-41.530869",
     "geom:latitude":-41.530869,
     "geom:longitude":174.011749,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Bristol St Riverlands ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235942897,
-    "wof:lastmodified":1449008406,
+    "wof:lastmodified":1466310825,
     "wof:name":"En'Zaq Aquaculture Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "processor"
     ]
 },
-  "bbox": [174.011749,-41.530869,174.011749,-41.530869],
-  "geometry": {"coordinates":[174.011749,-41.530869],"type":"Point"}
+  "bbox": [
+    174.011749,
+    -41.530869,
+    174.011749,
+    -41.530869
+],
+  "geometry": {"coordinates":[174.01174900000001,-41.530869],"type":"Point"}
 }

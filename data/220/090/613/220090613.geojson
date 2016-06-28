@@ -2,13 +2,14 @@
   "id": 220090613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.752396,-36.871304,174.752396,-36.871304",
     "geom:latitude":-36.871304,
     "geom:longitude":174.752396,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Dominion Rd Mt Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220090613,
-    "wof:lastmodified":1449074674,
+    "wof:lastmodified":1466310533,
     "wof:name":"Tofu Shop",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "asian"
     ]
 },
-  "bbox": [174.752396,-36.871304,174.752396,-36.871304],
+  "bbox": [
+    174.752396,
+    -36.871304,
+    174.752396,
+    -36.871304
+],
   "geometry": {"coordinates":[174.752396,-36.871304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220111495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.095108,-38.684406,176.095108,-38.684406",
     "geom:latitude":-38.684406,
     "geom:longitude":176.095108,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"199 Rifle Range Rd ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220111495,
-    "wof:lastmodified":1449074897,
+    "wof:lastmodified":1466310703,
     "wof:name":"Paetiki Bakery Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [176.095108,-38.684406,176.095108,-38.684406],
-  "geometry": {"coordinates":[176.095108,-38.684406],"type":"Point"}
+  "bbox": [
+    176.095108,
+    -38.684406,
+    176.095108,
+    -38.684406
+],
+  "geometry": {"coordinates":[176.09510800000001,-38.684406],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169835781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.972626,-36.922619,174.972626,-36.922619",
     "geom:latitude":-36.922619,
     "geom:longitude":174.972626,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Potts Rd Whitford ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169835781,
-    "wof:lastmodified":1449033158,
+    "wof:lastmodified":1466311921,
     "wof:name":"Dive Doctor Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.972626,-36.922619,174.972626,-36.922619],
-  "geometry": {"coordinates":[174.972626,-36.922619],"type":"Point"}
+  "bbox": [
+    174.972626,
+    -36.922619,
+    174.972626,
+    -36.922619
+],
+  "geometry": {"coordinates":[174.97262599999999,-36.922619],"type":"Point"}
 }

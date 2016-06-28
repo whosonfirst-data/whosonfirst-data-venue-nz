@@ -2,13 +2,14 @@
   "id": 185947777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.520416,-45.865406,170.520416,-45.865406",
     "geom:latitude":-45.865406,
     "geom:longitude":170.520416,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Harbour Tce Dunedin North ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185947777,
-    "wof:lastmodified":1449007757,
+    "wof:lastmodified":1466312099,
     "wof:name":"McMillan Multi Sports Centre",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "facility"
     ]
 },
-  "bbox": [170.520416,-45.865406,170.520416,-45.865406],
-  "geometry": {"coordinates":[170.520416,-45.865406],"type":"Point"}
+  "bbox": [
+    170.520416,
+    -45.865406,
+    170.520416,
+    -45.865406
+],
+  "geometry": {"coordinates":[170.52041600000001,-45.865406],"type":"Point"}
 }

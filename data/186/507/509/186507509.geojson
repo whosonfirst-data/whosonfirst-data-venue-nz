@@ -2,13 +2,14 @@
   "id": 186507509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.286453,-40.621613,175.286453,-40.621613",
     "geom:latitude":-40.621613,
     "geom:longitude":175.286453,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Queen St ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186507509,
-    "wof:lastmodified":1449051744,
+    "wof:lastmodified":1466312784,
     "wof:name":"Adele Charles Beauty Therapy & Electrology",
     "wof:parent_id":85782859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "health"
     ]
 },
-  "bbox": [175.286453,-40.621613,175.286453,-40.621613],
-  "geometry": {"coordinates":[175.286453,-40.621613],"type":"Point"}
+  "bbox": [
+    175.286453,
+    -40.621613,
+    175.286453,
+    -40.621613
+],
+  "geometry": {"coordinates":[175.28645299999999,-40.621613],"type":"Point"}
 }

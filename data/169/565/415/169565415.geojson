@@ -2,13 +2,14 @@
   "id": 169565415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.835464,-41.326241,174.835464,-41.326241",
     "geom:latitude":-41.326241,
     "geom:longitude":174.835464,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Burnham St Seatoun ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169565415,
-    "wof:lastmodified":1449035666,
+    "wof:lastmodified":1466311049,
     "wof:name":"Prezence (Corporate Gifts)",
     "wof:parent_id":85773181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.835464,-41.326241,174.835464,-41.326241],
+  "bbox": [
+    174.835464,
+    -41.326241,
+    174.835464,
+    -41.326241
+],
   "geometry": {"coordinates":[174.835464,-41.326241],"type":"Point"}
 }

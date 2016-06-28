@@ -2,13 +2,14 @@
   "id": 219257321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.041138,-39.940845,175.041138,-39.940845",
     "geom:latitude":-39.940845,
     "geom:longitude":175.041138,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Liffiton St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219257321,
-    "wof:lastmodified":1449071443,
+    "wof:lastmodified":1466311995,
     "wof:name":"Coachmans Lodge Motel",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.041138,-39.940845,175.041138,-39.940845],
-  "geometry": {"coordinates":[175.041138,-39.940845],"type":"Point"}
+  "bbox": [
+    175.041138,
+    -39.940845,
+    175.041138,
+    -39.940845
+],
+  "geometry": {"coordinates":[175.04113799999999,-39.940845],"type":"Point"}
 }

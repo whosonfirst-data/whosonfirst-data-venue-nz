@@ -2,13 +2,14 @@
   "id": 185917719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.781265,-38.049763,175.781265,-38.049763",
     "geom:latitude":-38.049763,
     "geom:longitude":175.781265,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Commerce St ",
     "sg:city":"Putaruru",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185917719,
-    "wof:lastmodified":1449008005,
+    "wof:lastmodified":1466312078,
     "wof:name":"Central Motors (1991)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sport"
     ]
 },
-  "bbox": [175.781265,-38.049763,175.781265,-38.049763],
-  "geometry": {"coordinates":[175.781265,-38.049763],"type":"Point"}
+  "bbox": [
+    175.781265,
+    -38.049763,
+    175.781265,
+    -38.049763
+],
+  "geometry": {"coordinates":[175.78126499999999,-38.049763],"type":"Point"}
 }

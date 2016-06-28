@@ -2,13 +2,14 @@
   "id": 202501749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.854599,-36.900391,174.854599,-36.900391",
     "geom:latitude":-36.900391,
     "geom:longitude":174.854599,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10-17 Basin View La Panmure ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202501749,
-    "wof:lastmodified":1449062671,
+    "wof:lastmodified":1466310674,
     "wof:name":"Chiropractic Wellness Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.854599,-36.900391,174.854599,-36.900391],
-  "geometry": {"coordinates":[174.854599,-36.900391],"type":"Point"}
+  "bbox": [
+    174.854599,
+    -36.900391,
+    174.854599,
+    -36.900391
+],
+  "geometry": {"coordinates":[174.85459900000001,-36.900391],"type":"Point"}
 }

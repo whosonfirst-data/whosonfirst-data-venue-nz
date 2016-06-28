@@ -2,13 +2,14 @@
   "id": 220192211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.863419,-36.972336,174.863419,-36.972336",
     "geom:latitude":-36.972336,
     "geom:longitude":174.863419,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"308 Great South Rd Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220192211,
-    "wof:lastmodified":1449074618,
+    "wof:lastmodified":1466311403,
     "wof:name":"Mad Butcher",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.863419,-36.972336,174.863419,-36.972336],
-  "geometry": {"coordinates":[174.863419,-36.972336],"type":"Point"}
+  "bbox": [
+    174.863419,
+    -36.972336,
+    174.863419,
+    -36.972336
+],
+  "geometry": {"coordinates":[174.86341899999999,-36.972336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186000053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.812729,-38.982136,175.812729,-38.982136",
     "geom:latitude":-38.982136,
     "geom:longitude":175.812729,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Rangipoia Pl ",
     "sg:city":"Turangi",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186000053,
-    "wof:lastmodified":1449050828,
+    "wof:lastmodified":1466310536,
     "wof:name":"Green Janeve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.812729,-38.982136,175.812729,-38.982136],
-  "geometry": {"coordinates":[175.812729,-38.982136],"type":"Point"}
+  "bbox": [
+    175.812729,
+    -38.982136,
+    175.812729,
+    -38.982136
+],
+  "geometry": {"coordinates":[175.81272899999999,-38.982136],"type":"Point"}
 }

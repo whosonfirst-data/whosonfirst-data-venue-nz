@@ -2,13 +2,14 @@
   "id": 186213831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.998016,-38.669266,177.998016,-38.669266",
     "geom:latitude":-38.669266,
     "geom:longitude":177.998016,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Lytton Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186213831,
-    "wof:lastmodified":1449050288,
+    "wof:lastmodified":1466311524,
     "wof:name":"Gisborne Hydraulic Services",
     "wof:parent_id":85781859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [177.998016,-38.669266,177.998016,-38.669266],
-  "geometry": {"coordinates":[177.998016,-38.669266],"type":"Point"}
+  "bbox": [
+    177.998016,
+    -38.669266,
+    177.998016,
+    -38.669266
+],
+  "geometry": {"coordinates":[177.99801600000001,-38.669266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203128787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.106308,-35.311543,174.106308,-35.311543",
     "geom:latitude":-35.311543,
     "geom:longitude":174.106308,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosella Rd Opua ",
     "sg:city":"Paihia",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203128787,
-    "wof:lastmodified":1449025650,
+    "wof:lastmodified":1466310759,
     "wof:name":"Bay Of Islands Boarding Cattery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "kennel"
     ]
 },
-  "bbox": [174.106308,-35.311543,174.106308,-35.311543],
-  "geometry": {"coordinates":[174.106308,-35.311543],"type":"Point"}
+  "bbox": [
+    174.106308,
+    -35.311543,
+    174.106308,
+    -35.311543
+],
+  "geometry": {"coordinates":[174.10630800000001,-35.311543],"type":"Point"}
 }

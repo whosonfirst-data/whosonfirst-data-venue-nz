@@ -2,13 +2,14 @@
   "id": 169649503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.711609,-36.887699,174.711609,-36.887699",
     "geom:latitude":-36.887699,
     "geom:longitude":174.711609,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"955 New North Rd Mt Albert ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169649503,
-    "wof:lastmodified":1449034943,
+    "wof:lastmodified":1466310620,
     "wof:name":"The Warehouse Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.711609,-36.887699,174.711609,-36.887699],
-  "geometry": {"coordinates":[174.711609,-36.887699],"type":"Point"}
+  "bbox": [
+    174.711609,
+    -36.887699,
+    174.711609,
+    -36.887699
+],
+  "geometry": {"coordinates":[174.71160900000001,-36.887699],"type":"Point"}
 }

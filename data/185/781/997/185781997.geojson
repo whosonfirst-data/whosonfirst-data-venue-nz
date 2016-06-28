@@ -2,13 +2,14 @@
   "id": 185781997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.758698,-36.861858,174.758698,-36.861858",
     "geom:latitude":-36.861858,
     "geom:longitude":174.758698,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Karaka St Newton ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185781997,
-    "wof:lastmodified":1449006925,
+    "wof:lastmodified":1466311105,
     "wof:name":"Labtec Photographic Processing Ltd",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.758698,-36.861858,174.758698,-36.861858],
-  "geometry": {"coordinates":[174.758698,-36.861858],"type":"Point"}
+  "bbox": [
+    174.758698,
+    -36.861858,
+    174.758698,
+    -36.861858
+],
+  "geometry": {"coordinates":[174.75869800000001,-36.861858],"type":"Point"}
 }

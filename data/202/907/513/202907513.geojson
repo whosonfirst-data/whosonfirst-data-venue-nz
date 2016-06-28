@@ -2,13 +2,14 @@
   "id": 202907513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.00296,-41.370647,173.00296,-41.370647",
     "geom:latitude":-41.370647,
     "geom:longitude":173.00296,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Waiiti R D 1 ",
     "sg:city":"Wakefield",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":202907513,
-    "wof:lastmodified":1449062456,
+    "wof:lastmodified":1466312806,
     "wof:name":"Ryders Groundspread",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.00296,-41.370647,173.00296,-41.370647],
+  "bbox": [
+    173.00296,
+    -41.370647,
+    173.00296,
+    -41.370647
+],
   "geometry": {"coordinates":[173.00296,-41.370647],"type":"Point"}
 }

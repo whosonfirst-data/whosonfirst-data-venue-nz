@@ -2,13 +2,14 @@
   "id": 219395029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"167.717056,-45.414738,167.717056,-45.414738",
     "geom:latitude":-45.414738,
     "geom:longitude":167.717056,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Town Centre Te ",
     "sg:city":"Anau",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219395029,
-    "wof:lastmodified":1449073395,
+    "wof:lastmodified":1466311763,
     "wof:name":"Air Fiordland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "tourism"
     ]
 },
-  "bbox": [167.717056,-45.414738,167.717056,-45.414738],
-  "geometry": {"coordinates":[167.717056,-45.414738],"type":"Point"}
+  "bbox": [
+    167.717056,
+    -45.414738,
+    167.717056,
+    -45.414738
+],
+  "geometry": {"coordinates":[167.71705600000001,-45.414738],"type":"Point"}
 }

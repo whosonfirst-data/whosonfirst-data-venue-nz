@@ -2,13 +2,14 @@
   "id": 186448035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.891541,-36.927288,174.891541,-36.927288",
     "geom:latitude":-36.927288,
     "geom:longitude":174.891541,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Trugood Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186448035,
-    "wof:lastmodified":1449052911,
+    "wof:lastmodified":1466312534,
     "wof:name":"Transcold Industries Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.891541,-36.927288,174.891541,-36.927288],
-  "geometry": {"coordinates":[174.891541,-36.927288],"type":"Point"}
+  "bbox": [
+    174.891541,
+    -36.927288,
+    174.891541,
+    -36.927288
+],
+  "geometry": {"coordinates":[174.89154099999999,-36.927288],"type":"Point"}
 }

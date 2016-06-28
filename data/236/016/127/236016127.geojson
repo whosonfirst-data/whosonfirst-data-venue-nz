@@ -2,13 +2,14 @@
   "id": 236016127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.6483,-40.957375,175.6483,-40.957375",
     "geom:latitude":-40.957375,
     "geom:longitude":175.6483,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Crayne St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236016127,
-    "wof:lastmodified":1449002105,
+    "wof:lastmodified":1466310914,
     "wof:name":"Kuripuni Takeaways",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "takeaway"
     ]
 },
-  "bbox": [175.6483,-40.957375,175.6483,-40.957375],
-  "geometry": {"coordinates":[175.6483,-40.957375],"type":"Point"}
+  "bbox": [
+    175.6483,
+    -40.957375,
+    175.6483,
+    -40.957375
+],
+  "geometry": {"coordinates":[175.64830000000001,-40.957375],"type":"Point"}
 }

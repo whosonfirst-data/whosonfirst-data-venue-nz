@@ -2,13 +2,14 @@
   "id": 236020863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.31189,-38.00544,175.31189,-38.00544",
     "geom:latitude":-38.00544,
     "geom:longitude":175.31189,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1328 Alexandra St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236020863,
-    "wof:lastmodified":1449003140,
+    "wof:lastmodified":1466310991,
     "wof:name":"Railway Cafe",
     "wof:parent_id":85782893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "takeaway"
     ]
 },
-  "bbox": [175.31189,-38.00544,175.31189,-38.00544],
-  "geometry": {"coordinates":[175.31189,-38.00544],"type":"Point"}
+  "bbox": [
+    175.31189,
+    -38.00544,
+    175.31189,
+    -38.00544
+],
+  "geometry": {"coordinates":[175.31189000000001,-38.00544],"type":"Point"}
 }

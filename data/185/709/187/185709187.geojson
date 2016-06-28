@@ -2,13 +2,14 @@
   "id": 185709187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.655212,-37.789093,177.655212,-37.789093",
     "geom:latitude":-37.789093,
     "geom:longitude":177.655212,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 35 Te ",
     "sg:city":"Kaha",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185709187,
-    "wof:lastmodified":1449006933,
+    "wof:lastmodified":1466310616,
     "wof:name":"Pahaoa Marae",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sport"
     ]
 },
-  "bbox": [177.655212,-37.789093,177.655212,-37.789093],
-  "geometry": {"coordinates":[177.655212,-37.789093],"type":"Point"}
+  "bbox": [
+    177.655212,
+    -37.789093,
+    177.655212,
+    -37.789093
+],
+  "geometry": {"coordinates":[177.65521200000001,-37.789093],"type":"Point"}
 }

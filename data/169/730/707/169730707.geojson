@@ -2,13 +2,14 @@
   "id": 169730707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.182236,-37.635944,176.182236,-37.635944",
     "geom:latitude":-37.635944,
     "geom:longitude":176.182236,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Maunganui Rd Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169730707,
-    "wof:lastmodified":1449035430,
+    "wof:lastmodified":1466311145,
     "wof:name":"Downtown Price Cutter",
     "wof:parent_id":85773039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.182236,-37.635944,176.182236,-37.635944],
-  "geometry": {"coordinates":[176.182236,-37.635944],"type":"Point"}
+  "bbox": [
+    176.182236,
+    -37.635944,
+    176.182236,
+    -37.635944
+],
+  "geometry": {"coordinates":[176.18223599999999,-37.635944],"type":"Point"}
 }

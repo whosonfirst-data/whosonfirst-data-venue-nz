@@ -2,13 +2,14 @@
   "id": 219345803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.907913,-37.619038,177.907913,-37.619038",
     "geom:latitude":-37.619038,
     "geom:longitude":177.907913,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Waihau ",
     "sg:city":"Bay",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219345803,
-    "wof:lastmodified":1449073637,
+    "wof:lastmodified":1466311298,
     "wof:name":"Waihau Bay Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accommodation"
     ]
 },
-  "bbox": [177.907913,-37.619038,177.907913,-37.619038],
-  "geometry": {"coordinates":[177.907913,-37.619038],"type":"Point"}
+  "bbox": [
+    177.907913,
+    -37.619038,
+    177.907913,
+    -37.619038
+],
+  "geometry": {"coordinates":[177.90791300000001,-37.619038],"type":"Point"}
 }

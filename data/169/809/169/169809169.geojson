@@ -2,13 +2,14 @@
   "id": 169809169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.048569,-39.930672,175.048569,-39.930672",
     "geom:latitude":-39.930672,
     "geom:longitude":175.048569,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169809169,
-    "wof:lastmodified":1449035370,
+    "wof:lastmodified":1466311715,
     "wof:name":"Eides Sportsworld",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.048569,-39.930672,175.048569,-39.930672],
-  "geometry": {"coordinates":[175.048569,-39.930672],"type":"Point"}
+  "bbox": [
+    175.048569,
+    -39.930672,
+    175.048569,
+    -39.930672
+],
+  "geometry": {"coordinates":[175.04856899999999,-39.930672],"type":"Point"}
 }

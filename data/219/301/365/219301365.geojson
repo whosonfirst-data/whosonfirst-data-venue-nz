@@ -2,13 +2,14 @@
   "id": 219301365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.205948,-38.042007,176.205948,-38.042007",
     "geom:latitude":-38.042007,
     "geom:longitude":176.205948,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Central Rd Kaharoa ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219301365,
-    "wof:lastmodified":1449071295,
+    "wof:lastmodified":1466310944,
     "wof:name":"Farmhouse (The) Horse Riding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.205948,-38.042007,176.205948,-38.042007],
-  "geometry": {"coordinates":[176.205948,-38.042007],"type":"Point"}
+  "bbox": [
+    176.205948,
+    -38.042007,
+    176.205948,
+    -38.042007
+],
+  "geometry": {"coordinates":[176.20594800000001,-38.042007],"type":"Point"}
 }

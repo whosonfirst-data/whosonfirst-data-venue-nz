@@ -2,13 +2,14 @@
   "id": 235971161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.329407,-37.784958,176.329407,-37.784958",
     "geom:latitude":-37.784958,
     "geom:longitude":176.329407,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Palmer Pl Te ",
     "sg:city":"Puke",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235971161,
-    "wof:lastmodified":1449008427,
+    "wof:lastmodified":1466311240,
     "wof:name":"The Reverend's Nest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "brasserie"
     ]
 },
-  "bbox": [176.329407,-37.784958,176.329407,-37.784958],
+  "bbox": [
+    176.329407,
+    -37.784958,
+    176.329407,
+    -37.784958
+],
   "geometry": {"coordinates":[176.329407,-37.784958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202655399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.717819,-36.738342,174.717819,-36.738342",
     "geom:latitude":-36.738342,
     "geom:longitude":174.717819,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 G Miro Pl Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202655399,
-    "wof:lastmodified":1449061560,
+    "wof:lastmodified":1466311969,
     "wof:name":"Plastabrick",
     "wof:parent_id":85781107,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plasterer"
     ]
 },
-  "bbox": [174.717819,-36.738342,174.717819,-36.738342],
-  "geometry": {"coordinates":[174.717819,-36.738342],"type":"Point"}
+  "bbox": [
+    174.717819,
+    -36.738342,
+    174.717819,
+    -36.738342
+],
+  "geometry": {"coordinates":[174.71781899999999,-36.738342],"type":"Point"}
 }

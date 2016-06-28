@@ -2,13 +2,14 @@
   "id": 169551943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.696457,-43.480804,172.696457,-43.480804",
     "geom:latitude":-43.480804,
     "geom:longitude":172.696457,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 / 415 Mairehau Rd Parklands ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169551943,
-    "wof:lastmodified":1449033353,
+    "wof:lastmodified":1466310829,
     "wof:name":"Designo",
     "wof:parent_id":85778535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.696457,-43.480804,172.696457,-43.480804],
-  "geometry": {"coordinates":[172.696457,-43.480804],"type":"Point"}
+  "bbox": [
+    172.696457,
+    -43.480804,
+    172.696457,
+    -43.480804
+],
+  "geometry": {"coordinates":[172.69645700000001,-43.480804],"type":"Point"}
 }

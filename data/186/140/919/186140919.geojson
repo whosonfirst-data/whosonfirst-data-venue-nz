@@ -2,13 +2,14 @@
   "id": 186140919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.625046,-43.541367,172.625046,-43.541367",
     "geom:latitude":-43.541367,
     "geom:longitude":172.625046,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Hazeldean Rd Addington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186140919,
-    "wof:lastmodified":1449050758,
+    "wof:lastmodified":1466310905,
     "wof:name":"Cantec Engineering",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.625046,-43.541367,172.625046,-43.541367],
+  "bbox": [
+    172.625046,
+    -43.541367,
+    172.625046,
+    -43.541367
+],
   "geometry": {"coordinates":[172.625046,-43.541367],"type":"Point"}
 }

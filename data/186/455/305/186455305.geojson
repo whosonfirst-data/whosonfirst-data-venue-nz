@@ -2,13 +2,14 @@
   "id": 186455305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.899445,-41.245834,174.899445,-41.245834",
     "geom:latitude":-41.245834,
     "geom:longitude":174.899445,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Port Rd Seaview Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186455305,
-    "wof:lastmodified":1449052572,
+    "wof:lastmodified":1466312634,
     "wof:name":"Environmental Laboratory Services Ltd",
     "wof:parent_id":85778601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.899445,-41.245834,174.899445,-41.245834],
-  "geometry": {"coordinates":[174.899445,-41.245834],"type":"Point"}
+  "bbox": [
+    174.899445,
+    -41.245834,
+    174.899445,
+    -41.245834
+],
+  "geometry": {"coordinates":[174.89944499999999,-41.245834],"type":"Point"}
 }

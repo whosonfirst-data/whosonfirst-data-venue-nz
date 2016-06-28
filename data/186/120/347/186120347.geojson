@@ -2,13 +2,14 @@
   "id": 186120347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.778946,-36.854195,174.778946,-36.854195",
     "geom:latitude":-36.854195,
     "geom:longitude":174.778946,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11-13 Falcon St Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186120347,
-    "wof:lastmodified":1449052629,
+    "wof:lastmodified":1466310718,
     "wof:name":"Johnson Matthey (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.778946,-36.854195,174.778946,-36.854195],
-  "geometry": {"coordinates":[174.778946,-36.854195],"type":"Point"}
+  "bbox": [
+    174.778946,
+    -36.854195,
+    174.778946,
+    -36.854195
+],
+  "geometry": {"coordinates":[174.77894599999999,-36.854195],"type":"Point"}
 }

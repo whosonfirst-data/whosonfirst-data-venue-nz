@@ -2,13 +2,14 @@
   "id": 203320421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.984604,-37.978237,176.984604,-37.978237",
     "geom:latitude":-37.978237,
     "geom:longitude":176.984604,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Te Tahi St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203320421,
-    "wof:lastmodified":1449025395,
+    "wof:lastmodified":1466312299,
     "wof:name":"Bay Hides & Skins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "skin"
     ]
 },
-  "bbox": [176.984604,-37.978237,176.984604,-37.978237],
-  "geometry": {"coordinates":[176.984604,-37.978237],"type":"Point"}
+  "bbox": [
+    176.984604,
+    -37.978237,
+    176.984604,
+    -37.978237
+],
+  "geometry": {"coordinates":[176.98460399999999,-37.978237],"type":"Point"}
 }

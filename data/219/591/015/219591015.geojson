@@ -2,13 +2,14 @@
   "id": 219591015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.585724,-36.865608,174.585724,-36.865608",
     "geom:latitude":-36.865608,
     "geom:longitude":174.585724,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"654 Swanson Rd Swanson ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219591015,
-    "wof:lastmodified":1449072265,
+    "wof:lastmodified":1466312570,
     "wof:name":"BP Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.585724,-36.865608,174.585724,-36.865608],
+  "bbox": [
+    174.585724,
+    -36.865608,
+    174.585724,
+    -36.865608
+],
   "geometry": {"coordinates":[174.585724,-36.865608],"type":"Point"}
 }

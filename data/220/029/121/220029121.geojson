@@ -2,13 +2,14 @@
   "id": 220029121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.329742,-35.680992,174.329742,-35.680992",
     "geom:latitude":-35.680992,
     "geom:longitude":174.329742,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Reed St Tikipunga ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220029121,
-    "wof:lastmodified":1449074380,
+    "wof:lastmodified":1466311291,
     "wof:name":"Denby Caterers",
     "wof:parent_id":85781183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.329742,-35.680992,174.329742,-35.680992],
-  "geometry": {"coordinates":[174.329742,-35.680992],"type":"Point"}
+  "bbox": [
+    174.329742,
+    -35.680992,
+    174.329742,
+    -35.680992
+],
+  "geometry": {"coordinates":[174.32974200000001,-35.680992],"type":"Point"}
 }

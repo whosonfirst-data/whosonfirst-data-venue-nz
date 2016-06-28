@@ -2,13 +2,14 @@
   "id": 169534019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.599884,-43.496449,172.599884,-43.496449",
     "geom:latitude":-43.496449,
     "geom:longitude":172.599884,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Papanui & Office Rds",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169534019,
-    "wof:lastmodified":1449033548,
+    "wof:lastmodified":1466311979,
     "wof:name":"Westpac Banking Corp.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.599884,-43.496449,172.599884,-43.496449],
+  "bbox": [
+    172.599884,
+    -43.496449,
+    172.599884,
+    -43.496449
+],
   "geometry": {"coordinates":[172.599884,-43.496449],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202656005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.049545,-39.908478,175.049545,-39.908478",
     "geom:latitude":-39.908478,
     "geom:longitude":175.049545,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Ward St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202656005,
-    "wof:lastmodified":1449061738,
+    "wof:lastmodified":1466311974,
     "wof:name":"Pritchard Masonry",
     "wof:parent_id":85781217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plasterer"
     ]
 },
-  "bbox": [175.049545,-39.908478,175.049545,-39.908478],
-  "geometry": {"coordinates":[175.049545,-39.908478],"type":"Point"}
+  "bbox": [
+    175.049545,
+    -39.908478,
+    175.049545,
+    -39.908478
+],
+  "geometry": {"coordinates":[175.04954499999999,-39.908478],"type":"Point"}
 }

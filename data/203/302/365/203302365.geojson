@@ -2,13 +2,14 @@
   "id": 203302365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.480148,-45.89629,170.480148,-45.89629",
     "geom:latitude":-45.89629,
     "geom:longitude":170.480148,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"297 South Rd Caversham ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203302365,
-    "wof:lastmodified":1449025552,
+    "wof:lastmodified":1466312250,
     "wof:name":"Caversham Drapery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.480148,-45.89629,170.480148,-45.89629],
-  "geometry": {"coordinates":[170.480148,-45.89629],"type":"Point"}
+  "bbox": [
+    170.480148,
+    -45.89629,
+    170.480148,
+    -45.89629
+],
+  "geometry": {"coordinates":[170.48014800000001,-45.89629],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202489845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.715424,-45.4851,170.715424,-45.4851",
     "geom:latitude":-45.4851,
     "geom:longitude":170.715424,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Sanday St ",
     "sg:city":"Palmerston",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":202489845,
-    "wof:lastmodified":1449061495,
+    "wof:lastmodified":1466312077,
     "wof:name":"Waihemo Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.715424,-45.4851,170.715424,-45.4851],
-  "geometry": {"coordinates":[170.715424,-45.4851],"type":"Point"}
+  "bbox": [
+    170.715424,
+    -45.4851,
+    170.715424,
+    -45.4851
+],
+  "geometry": {"coordinates":[170.71542400000001,-45.4851],"type":"Point"}
 }

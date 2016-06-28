@@ -2,13 +2,14 @@
   "id": 219182015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.234192,-41.312859,173.234192,-41.312859",
     "geom:latitude":-41.312859,
     "geom:longitude":173.234192,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Nelson PO Box 2266 ",
     "sg:city":"Stoke",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219182015,
-    "wof:lastmodified":1449072615,
+    "wof:lastmodified":1466311264,
     "wof:name":"Sunrise Holidays Campervan Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.234192,-41.312859,173.234192,-41.312859],
-  "geometry": {"coordinates":[173.234192,-41.312859],"type":"Point"}
+  "bbox": [
+    173.234192,
+    -41.312859,
+    173.234192,
+    -41.312859
+],
+  "geometry": {"coordinates":[173.23419200000001,-41.312859],"type":"Point"}
 }

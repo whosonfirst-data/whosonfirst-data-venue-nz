@@ -2,13 +2,14 @@
   "id": 202961849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.007904,-39.93845,175.007904,-39.93845",
     "geom:latitude":-39.93845,
     "geom:longitude":175.007904,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Rogers St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202961849,
-    "wof:lastmodified":1449062578,
+    "wof:lastmodified":1466312910,
     "wof:name":"T & T Kerbing",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.007904,-39.93845,175.007904,-39.93845],
+  "bbox": [
+    175.007904,
+    -39.93845,
+    175.007904,
+    -39.93845
+],
   "geometry": {"coordinates":[175.007904,-39.93845],"type":"Point"}
 }

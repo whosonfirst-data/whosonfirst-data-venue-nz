@@ -2,13 +2,14 @@
   "id": 219338187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.314789,-38.126328,178.314789,-38.126328",
     "geom:latitude":-38.126328,
     "geom:longitude":178.314789,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Rd Tokomaru ",
     "sg:city":"Bay",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219338187,
-    "wof:lastmodified":1449071622,
+    "wof:lastmodified":1466311244,
     "wof:name":"Blue Marlin Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accommodation"
     ]
 },
-  "bbox": [178.314789,-38.126328,178.314789,-38.126328],
-  "geometry": {"coordinates":[178.314789,-38.126328],"type":"Point"}
+  "bbox": [
+    178.314789,
+    -38.126328,
+    178.314789,
+    -38.126328
+],
+  "geometry": {"coordinates":[178.31478899999999,-38.126328],"type":"Point"}
 }

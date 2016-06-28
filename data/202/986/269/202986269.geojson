@@ -2,13 +2,14 @@
   "id": 202986269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.849609,-39.544514,176.849609,-39.544514",
     "geom:latitude":-39.544514,
     "geom:longitude":176.849609,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Frickleton St Taradale ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202986269,
-    "wof:lastmodified":1449062177,
+    "wof:lastmodified":1466312952,
     "wof:name":"A B'S Lawn & Tree Services",
     "wof:parent_id":85773225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.849609,-39.544514,176.849609,-39.544514],
-  "geometry": {"coordinates":[176.849609,-39.544514],"type":"Point"}
+  "bbox": [
+    176.849609,
+    -39.544514,
+    176.849609,
+    -39.544514
+],
+  "geometry": {"coordinates":[176.84960899999999,-39.544514],"type":"Point"}
 }

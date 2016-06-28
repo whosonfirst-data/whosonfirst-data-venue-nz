@@ -2,13 +2,14 @@
   "id": 219244639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.229324,-37.250801,175.229324,-37.250801",
     "geom:latitude":-37.250801,
     "geom:longitude":175.229324,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Rd Maramarua ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219244639,
-    "wof:lastmodified":1449071792,
+    "wof:lastmodified":1466310511,
     "wof:name":"Hale W E (Mark)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.229324,-37.250801,175.229324,-37.250801],
-  "geometry": {"coordinates":[175.229324,-37.250801],"type":"Point"}
+  "bbox": [
+    175.229324,
+    -37.250801,
+    175.229324,
+    -37.250801
+],
+  "geometry": {"coordinates":[175.22932399999999,-37.250801],"type":"Point"}
 }

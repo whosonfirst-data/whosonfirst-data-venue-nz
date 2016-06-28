@@ -2,13 +2,14 @@
   "id": 202382713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.830139,-36.914642,174.830139,-36.914642",
     "geom:latitude":-36.914642,
     "geom:longitude":174.830139,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"81 A Aranui Rd Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202382713,
-    "wof:lastmodified":1449060795,
+    "wof:lastmodified":1466310606,
     "wof:name":"Angel Educator",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "professional"
     ]
 },
-  "bbox": [174.830139,-36.914642,174.830139,-36.914642],
+  "bbox": [
+    174.830139,
+    -36.914642,
+    174.830139,
+    -36.914642
+],
   "geometry": {"coordinates":[174.830139,-36.914642],"type":"Point"}
 }

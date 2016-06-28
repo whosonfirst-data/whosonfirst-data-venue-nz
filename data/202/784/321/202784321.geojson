@@ -2,13 +2,14 @@
   "id": 202784321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.500229,-45.893661,170.500229,-45.893661",
     "geom:latitude":-45.893661,
     "geom:longitude":170.500229,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Lorne St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202784321,
-    "wof:lastmodified":1449061778,
+    "wof:lastmodified":1466312497,
     "wof:name":"Gray's Joinery",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kitchen"
     ]
 },
-  "bbox": [170.500229,-45.893661,170.500229,-45.893661],
-  "geometry": {"coordinates":[170.500229,-45.893661],"type":"Point"}
+  "bbox": [
+    170.500229,
+    -45.893661,
+    170.500229,
+    -45.893661
+],
+  "geometry": {"coordinates":[170.50022899999999,-45.893661],"type":"Point"}
 }

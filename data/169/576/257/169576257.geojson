@@ -2,13 +2,14 @@
   "id": 169576257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.135422,-37.727802,176.135422,-37.727802",
     "geom:latitude":-37.727802,
     "geom:longitude":176.135422,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Chadwick Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169576257,
-    "wof:lastmodified":1449035196,
+    "wof:lastmodified":1466311310,
     "wof:name":"Greerton Sewing & Craft Centre",
     "wof:parent_id":85781323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.135422,-37.727802,176.135422,-37.727802],
-  "geometry": {"coordinates":[176.135422,-37.727802],"type":"Point"}
+  "bbox": [
+    176.135422,
+    -37.727802,
+    176.135422,
+    -37.727802
+],
+  "geometry": {"coordinates":[176.13542200000001,-37.727802],"type":"Point"}
 }

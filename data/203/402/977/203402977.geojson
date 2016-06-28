@@ -2,13 +2,14 @@
   "id": 203402977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.703796,-36.83868,175.703796,-36.83868",
     "geom:latitude":-36.83868,
     "geom:longitude":175.703796,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Dundas St ",
     "sg:city":"Whitianga",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":203402977,
-    "wof:lastmodified":1449025521,
+    "wof:lastmodified":1466312657,
     "wof:name":"H & M Pascoe Boat Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.703796,-36.83868,175.703796,-36.83868],
-  "geometry": {"coordinates":[175.703796,-36.83868],"type":"Point"}
+  "bbox": [
+    175.703796,
+    -36.83868,
+    175.703796,
+    -36.83868
+],
+  "geometry": {"coordinates":[175.70379600000001,-36.83868],"type":"Point"}
 }

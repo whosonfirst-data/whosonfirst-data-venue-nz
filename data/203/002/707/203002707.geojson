@@ -2,13 +2,14 @@
   "id": 203002707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.284683,-46.434551,168.284683,-46.434551",
     "geom:latitude":-46.434551,
     "geom:longitude":168.284683,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Oreti Rd Otatara R D ",
     "sg:city":"9",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203002707,
-    "wof:lastmodified":1449026499,
+    "wof:lastmodified":1466310551,
     "wof:name":"Peter Simpson",
     "wof:parent_id":85778905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.284683,-46.434551,168.284683,-46.434551],
+  "bbox": [
+    168.284683,
+    -46.434551,
+    168.284683,
+    -46.434551
+],
   "geometry": {"coordinates":[168.284683,-46.434551],"type":"Point"}
 }

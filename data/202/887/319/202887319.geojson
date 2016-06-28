@@ -2,13 +2,14 @@
   "id": 202887319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.820724,-41.328465,174.820724,-41.328465",
     "geom:latitude":-41.328465,
     "geom:longitude":174.820724,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Strathmore Ave Strathmore Park ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202887319,
-    "wof:lastmodified":1449062162,
+    "wof:lastmodified":1466312769,
     "wof:name":"Trees R...our business",
     "wof:parent_id":85773181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "gardening"
     ]
 },
-  "bbox": [174.820724,-41.328465,174.820724,-41.328465],
-  "geometry": {"coordinates":[174.820724,-41.328465],"type":"Point"}
+  "bbox": [
+    174.820724,
+    -41.328465,
+    174.820724,
+    -41.328465
+],
+  "geometry": {"coordinates":[174.82072400000001,-41.328465],"type":"Point"}
 }

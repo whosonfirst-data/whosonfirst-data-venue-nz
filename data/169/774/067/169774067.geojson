@@ -2,13 +2,14 @@
   "id": 169774067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.261826,-38.151344,176.261826,-38.151344",
     "geom:latitude":-38.151344,
     "geom:longitude":176.261826,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"62 White St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169774067,
-    "wof:lastmodified":1449033961,
+    "wof:lastmodified":1466311451,
     "wof:name":"Fishermans Workshop Limited",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "retailers"
     ]
 },
-  "bbox": [176.261826,-38.151344,176.261826,-38.151344],
-  "geometry": {"coordinates":[176.261826,-38.151344],"type":"Point"}
+  "bbox": [
+    176.261826,
+    -38.151344,
+    176.261826,
+    -38.151344
+],
+  "geometry": {"coordinates":[176.26182600000001,-38.151344],"type":"Point"}
 }

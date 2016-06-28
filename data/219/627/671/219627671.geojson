@@ -2,13 +2,14 @@
   "id": 219627671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.641235,-40.33783,175.641235,-40.33783",
     "geom:latitude":-40.33783,
     "geom:longitude":175.641235,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Keith St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219627671,
-    "wof:lastmodified":1449074002,
+    "wof:lastmodified":1466312666,
     "wof:name":"Ace Auto Dismantlers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.641235,-40.33783,175.641235,-40.33783],
-  "geometry": {"coordinates":[175.641235,-40.33783],"type":"Point"}
+  "bbox": [
+    175.641235,
+    -40.33783,
+    175.641235,
+    -40.33783
+],
+  "geometry": {"coordinates":[175.64123499999999,-40.33783],"type":"Point"}
 }

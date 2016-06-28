@@ -2,13 +2,14 @@
   "id": 203250509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.741272,-45.029789,168.741272,-45.029789",
     "geom:latitude":-45.029789,
     "geom:longitude":168.741272,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Kawarau Pl Frankton ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203250509,
-    "wof:lastmodified":1449026033,
+    "wof:lastmodified":1466311843,
     "wof:name":"Queenstown Costume Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fabric"
     ]
 },
-  "bbox": [168.741272,-45.029789,168.741272,-45.029789],
-  "geometry": {"coordinates":[168.741272,-45.029789],"type":"Point"}
+  "bbox": [
+    168.741272,
+    -45.029789,
+    168.741272,
+    -45.029789
+],
+  "geometry": {"coordinates":[168.74127200000001,-45.029789],"type":"Point"}
 }

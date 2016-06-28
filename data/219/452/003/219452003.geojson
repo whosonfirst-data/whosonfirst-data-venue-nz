@@ -2,13 +2,14 @@
   "id": 219452003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.329285,-35.684635,174.329285,-35.684635",
     "geom:latitude":-35.684635,
     "geom:longitude":174.329285,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Kiripaka Rd Tikipunga ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219452003,
-    "wof:lastmodified":1449071226,
+    "wof:lastmodified":1466312054,
     "wof:name":"Community Education Tikipunga",
     "wof:parent_id":85781183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "adult"
     ]
 },
-  "bbox": [174.329285,-35.684635,174.329285,-35.684635],
+  "bbox": [
+    174.329285,
+    -35.684635,
+    174.329285,
+    -35.684635
+],
   "geometry": {"coordinates":[174.329285,-35.684635],"type":"Point"}
 }

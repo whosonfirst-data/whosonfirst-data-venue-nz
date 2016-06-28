@@ -2,13 +2,14 @@
   "id": 219262615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.775375,-41.283783,174.775375,-41.283783",
     "geom:latitude":-41.283783,
     "geom:longitude":174.775375,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"256 Lambton Quay ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219262615,
-    "wof:lastmodified":1449072580,
+    "wof:lastmodified":1466310652,
     "wof:name":"Housing New Zealand Corporation",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.775375,-41.283783,174.775375,-41.283783],
+  "bbox": [
+    174.775375,
+    -41.283783,
+    174.775375,
+    -41.283783
+],
   "geometry": {"coordinates":[174.775375,-41.283783],"type":"Point"}
 }

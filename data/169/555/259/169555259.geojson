@@ -2,13 +2,14 @@
   "id": 169555259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.554359,45.51231,-73.554359,45.51231",
     "geom:latitude":45.51231,
     "geom:longitude":-73.554359,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Montreal & Brougham St ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169555259,
-    "wof:lastmodified":1449035494,
+    "wof:lastmodified":1466310881,
     "wof:name":"LWR Factory Shop",
     "wof:parent_id":85866483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.554359,45.51231,-73.554359,45.51231],
-  "geometry": {"coordinates":[-73.554359,45.51231],"type":"Point"}
+  "bbox": [
+    -73.554359,
+    45.51231,
+    -73.554359,
+    45.51231
+],
+  "geometry": {"coordinates":[-73.55435900000001,45.51231],"type":"Point"}
 }

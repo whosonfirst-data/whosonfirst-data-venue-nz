@@ -2,13 +2,14 @@
   "id": 202596449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.795425,-36.906345,174.795425,-36.906345",
     "geom:latitude":-36.906345,
     "geom:longitude":174.795425,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Tawhiri Rd Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202596449,
-    "wof:lastmodified":1449061419,
+    "wof:lastmodified":1466311486,
     "wof:name":"Post Impressions",
     "wof:parent_id":85782385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "letter"
     ]
 },
-  "bbox": [174.795425,-36.906345,174.795425,-36.906345],
-  "geometry": {"coordinates":[174.795425,-36.906345],"type":"Point"}
+  "bbox": [
+    174.795425,
+    -36.906345,
+    174.795425,
+    -36.906345
+],
+  "geometry": {"coordinates":[174.79542499999999,-36.906345],"type":"Point"}
 }

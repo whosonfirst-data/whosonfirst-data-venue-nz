@@ -2,13 +2,14 @@
   "id": 185924751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.813171,-36.908092,174.813171,-36.908092",
     "geom:latitude":-36.908092,
     "geom:longitude":174.813171,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"555 Great South Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185924751,
-    "wof:lastmodified":1449007050,
+    "wof:lastmodified":1466312110,
     "wof:name":"Serious Shooters",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "gunsmith"
     ]
 },
-  "bbox": [174.813171,-36.908092,174.813171,-36.908092],
-  "geometry": {"coordinates":[174.813171,-36.908092],"type":"Point"}
+  "bbox": [
+    174.813171,
+    -36.908092,
+    174.813171,
+    -36.908092
+],
+  "geometry": {"coordinates":[174.81317100000001,-36.908092],"type":"Point"}
 }

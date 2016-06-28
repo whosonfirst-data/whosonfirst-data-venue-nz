@@ -2,13 +2,14 @@
   "id": 185676317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.614685,-40.354851,175.614685,-40.354851",
     "geom:latitude":-40.354851,
     "geom:longitude":175.614685,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"514-516 Main St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185676317,
-    "wof:lastmodified":1449007626,
+    "wof:lastmodified":1466311818,
     "wof:name":"Deano's Bar & Casino",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.614685,-40.354851,175.614685,-40.354851],
-  "geometry": {"coordinates":[175.614685,-40.354851],"type":"Point"}
+  "bbox": [
+    175.614685,
+    -40.354851,
+    175.614685,
+    -40.354851
+],
+  "geometry": {"coordinates":[175.61468500000001,-40.354851],"type":"Point"}
 }

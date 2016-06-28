@@ -2,13 +2,14 @@
   "id": 185986375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.14476,-37.703152,176.14476,-37.703152",
     "geom:latitude":-37.703152,
     "geom:longitude":176.14476,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shp 10 Eleventh Ave Shopping Plaza ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185986375,
-    "wof:lastmodified":1449007906,
+    "wof:lastmodified":1466312375,
     "wof:name":"Bridal Concepts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "wedding"
     ]
 },
-  "bbox": [176.14476,-37.703152,176.14476,-37.703152],
-  "geometry": {"coordinates":[176.14476,-37.703152],"type":"Point"}
+  "bbox": [
+    176.14476,
+    -37.703152,
+    176.14476,
+    -37.703152
+],
+  "geometry": {"coordinates":[176.14475999999999,-37.703152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169717915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.812225,-41.242535,174.812225,-41.242535",
     "geom:latitude":-41.242535,
     "geom:longitude":174.812225,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Centennial Highway Ngauranga ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169717915,
-    "wof:lastmodified":1449032777,
+    "wof:lastmodified":1466311049,
     "wof:name":"Leigh-Mardon",
     "wof:parent_id":85773059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.812225,-41.242535,174.812225,-41.242535],
-  "geometry": {"coordinates":[174.812225,-41.242535],"type":"Point"}
+  "bbox": [
+    174.812225,
+    -41.242535,
+    174.812225,
+    -41.242535
+],
+  "geometry": {"coordinates":[174.81222500000001,-41.242535],"type":"Point"}
 }

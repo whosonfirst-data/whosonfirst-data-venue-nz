@@ -2,13 +2,14 @@
   "id": 186123895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.350876,-46.385273,168.350876,-46.385273",
     "geom:latitude":-46.385273,
     "geom:longitude":168.350876,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Howorth St Waikiwi ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186123895,
-    "wof:lastmodified":1449051180,
+    "wof:lastmodified":1466310754,
     "wof:name":"Classic Car Developments",
     "wof:parent_id":85778907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.350876,-46.385273,168.350876,-46.385273],
+  "bbox": [
+    168.350876,
+    -46.385273,
+    168.350876,
+    -46.385273
+],
   "geometry": {"coordinates":[168.350876,-46.385273],"type":"Point"}
 }

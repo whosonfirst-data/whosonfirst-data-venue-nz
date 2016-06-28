@@ -2,13 +2,14 @@
   "id": 186470927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.574341,-40.363335,175.574341,-40.363335",
     "geom:latitude":-40.363335,
     "geom:longitude":175.574341,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Amberley Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186470927,
-    "wof:lastmodified":1449051046,
+    "wof:lastmodified":1466312590,
     "wof:name":"Gas Care",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.574341,-40.363335,175.574341,-40.363335],
+  "bbox": [
+    175.574341,
+    -40.363335,
+    175.574341,
+    -40.363335
+],
   "geometry": {"coordinates":[175.574341,-40.363335],"type":"Point"}
 }

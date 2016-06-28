@@ -2,13 +2,14 @@
   "id": 220069601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.014313,-38.646088,178.014313,-38.646088",
     "geom:latitude":-38.646088,
     "geom:longitude":178.014313,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"272 Ormond Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220069601,
-    "wof:lastmodified":1449074561,
+    "wof:lastmodified":1466311796,
     "wof:name":"Thirsty's Liquor",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "outlet"
     ]
 },
-  "bbox": [178.014313,-38.646088,178.014313,-38.646088],
-  "geometry": {"coordinates":[178.014313,-38.646088],"type":"Point"}
+  "bbox": [
+    178.014313,
+    -38.646088,
+    178.014313,
+    -38.646088
+],
+  "geometry": {"coordinates":[178.01431299999999,-38.646088],"type":"Point"}
 }

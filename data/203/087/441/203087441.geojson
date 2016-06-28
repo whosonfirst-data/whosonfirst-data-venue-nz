@@ -2,13 +2,14 @@
   "id": 203087441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.620941,-40.348358,175.620941,-40.348358",
     "geom:latitude":-40.348358,
     "geom:longitude":175.620941,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Rangitane St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203087441,
-    "wof:lastmodified":1449025788,
+    "wof:lastmodified":1466311894,
     "wof:name":"Jillian Whyte",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garden"
     ]
 },
-  "bbox": [175.620941,-40.348358,175.620941,-40.348358],
-  "geometry": {"coordinates":[175.620941,-40.348358],"type":"Point"}
+  "bbox": [
+    175.620941,
+    -40.348358,
+    175.620941,
+    -40.348358
+],
+  "geometry": {"coordinates":[175.62094099999999,-40.348358],"type":"Point"}
 }

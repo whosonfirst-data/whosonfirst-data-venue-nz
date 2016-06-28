@@ -2,13 +2,14 @@
   "id": 235995383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.253662,-38.136215,176.253662,-38.136215",
     "geom:latitude":-38.136215,
     "geom:longitude":176.253662,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1197 Fenton St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235995383,
-    "wof:lastmodified":1449008574,
+    "wof:lastmodified":1466311569,
     "wof:name":"Pizza Haven",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pizza"
     ]
 },
-  "bbox": [176.253662,-38.136215,176.253662,-38.136215],
-  "geometry": {"coordinates":[176.253662,-38.136215],"type":"Point"}
+  "bbox": [
+    176.253662,
+    -38.136215,
+    176.253662,
+    -38.136215
+],
+  "geometry": {"coordinates":[176.25366199999999,-38.136215],"type":"Point"}
 }

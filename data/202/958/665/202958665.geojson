@@ -2,13 +2,14 @@
   "id": 202958665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.774094,-39.622787,176.774094,-39.622787",
     "geom:latitude":-39.622787,
     "geom:longitude":176.774094,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Burton Pl Flaxmere ",
     "sg:city":"Hastings",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202958665,
-    "wof:lastmodified":1449062098,
+    "wof:lastmodified":1466312909,
     "wof:name":"Home & Garden Valet Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.774094,-39.622787,176.774094,-39.622787],
-  "geometry": {"coordinates":[176.774094,-39.622787],"type":"Point"}
+  "bbox": [
+    176.774094,
+    -39.622787,
+    176.774094,
+    -39.622787
+],
+  "geometry": {"coordinates":[176.77409399999999,-39.622787],"type":"Point"}
 }

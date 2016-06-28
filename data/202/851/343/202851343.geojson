@@ -2,13 +2,14 @@
   "id": 202851343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.775925,-36.870098,174.775925,-36.870098",
     "geom:latitude":-36.870098,
     "geom:longitude":174.775925,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Morrow St Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202851343,
-    "wof:lastmodified":1449061757,
+    "wof:lastmodified":1466312695,
     "wof:name":"Cornwall Traders",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "furniture"
     ]
 },
-  "bbox": [174.775925,-36.870098,174.775925,-36.870098],
+  "bbox": [
+    174.775925,
+    -36.870098,
+    174.775925,
+    -36.870098
+],
   "geometry": {"coordinates":[174.775925,-36.870098],"type":"Point"}
 }

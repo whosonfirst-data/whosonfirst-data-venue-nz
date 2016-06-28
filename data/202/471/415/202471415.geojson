@@ -2,13 +2,14 @@
   "id": 202471415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.253693,-37.76527,175.253693,-37.76527",
     "geom:latitude":-37.76527,
     "geom:longitude":175.253693,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"351 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202471415,
-    "wof:lastmodified":1449061133,
+    "wof:lastmodified":1466311931,
     "wof:name":"Naturalwear",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "supply"
     ]
 },
-  "bbox": [175.253693,-37.76527,175.253693,-37.76527],
+  "bbox": [
+    175.253693,
+    -37.76527,
+    175.253693,
+    -37.76527
+],
   "geometry": {"coordinates":[175.253693,-37.76527],"type":"Point"}
 }

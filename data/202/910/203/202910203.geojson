@@ -2,13 +2,14 @@
   "id": 202910203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.003448,-45.057823,171.003448,-45.057823",
     "geom:latitude":-45.057823,
     "geom:longitude":171.003448,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main North Road ",
     "sg:city":"Oamaru",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202910203,
-    "wof:lastmodified":1449061170,
+    "wof:lastmodified":1466312897,
     "wof:name":"Boundary Creek Nurseries",
     "wof:parent_id":85781453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gardening"
     ]
 },
-  "bbox": [171.003448,-45.057823,171.003448,-45.057823],
-  "geometry": {"coordinates":[171.003448,-45.057823],"type":"Point"}
+  "bbox": [
+    171.003448,
+    -45.057823,
+    171.003448,
+    -45.057823
+],
+  "geometry": {"coordinates":[171.00344799999999,-45.057823],"type":"Point"}
 }

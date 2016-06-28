@@ -2,13 +2,14 @@
   "id": 202518125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.285477,-40.619907,175.285477,-40.619907",
     "geom:latitude":-40.619907,
     "geom:longitude":175.285477,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Stanley St ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202518125,
-    "wof:lastmodified":1449061537,
+    "wof:lastmodified":1466310810,
     "wof:name":"Levin Healthcare",
     "wof:parent_id":85782859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "specialists"
     ]
 },
-  "bbox": [175.285477,-40.619907,175.285477,-40.619907],
-  "geometry": {"coordinates":[175.285477,-40.619907],"type":"Point"}
+  "bbox": [
+    175.285477,
+    -40.619907,
+    175.285477,
+    -40.619907
+],
+  "geometry": {"coordinates":[175.28547699999999,-40.619907],"type":"Point"}
 }

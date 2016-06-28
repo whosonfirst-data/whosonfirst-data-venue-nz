@@ -2,13 +2,14 @@
   "id": 203100055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.980042,-40.930641,174.980042,-40.930641",
     "geom:latitude":-40.930641,
     "geom:longitude":174.980042,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Raumati South ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203100055,
-    "wof:lastmodified":1449026364,
+    "wof:lastmodified":1466310518,
     "wof:name":"Whisker Craig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "counselling"
     ]
 },
-  "bbox": [174.980042,-40.930641,174.980042,-40.930641],
+  "bbox": [
+    174.980042,
+    -40.930641,
+    174.980042,
+    -40.930641
+],
   "geometry": {"coordinates":[174.980042,-40.930641],"type":"Point"}
 }

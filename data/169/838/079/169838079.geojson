@@ -2,13 +2,14 @@
   "id": 169838079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.089218,-38.671314,178.089218,-38.671314",
     "geom:latitude":-38.671314,
     "geom:longitude":178.089218,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Moana Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169838079,
-    "wof:lastmodified":1449033083,
+    "wof:lastmodified":1466311938,
     "wof:name":"Chalet Surf Lodge",
     "wof:parent_id":85781353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.089218,-38.671314,178.089218,-38.671314],
-  "geometry": {"coordinates":[178.089218,-38.671314],"type":"Point"}
+  "bbox": [
+    178.089218,
+    -38.671314,
+    178.089218,
+    -38.671314
+],
+  "geometry": {"coordinates":[178.08921799999999,-38.671314],"type":"Point"}
 }

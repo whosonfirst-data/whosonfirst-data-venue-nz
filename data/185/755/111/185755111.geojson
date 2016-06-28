@@ -2,13 +2,14 @@
   "id": 185755111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.637482,-43.561802,172.637482,-43.561802",
     "geom:latitude":-43.561802,
     "geom:longitude":172.637482,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Hunter Tce Cashmere ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185755111,
-    "wof:lastmodified":1449007068,
+    "wof:lastmodified":1466310931,
     "wof:name":"Cashmere Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.637482,-43.561802,172.637482,-43.561802],
-  "geometry": {"coordinates":[172.637482,-43.561802],"type":"Point"}
+  "bbox": [
+    172.637482,
+    -43.561802,
+    172.637482,
+    -43.561802
+],
+  "geometry": {"coordinates":[172.63748200000001,-43.561802],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203110521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.655334,-40.942734,175.655334,-40.942734",
     "geom:latitude":-40.942734,
     "geom:longitude":175.655334,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Perry St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203110521,
-    "wof:lastmodified":1449025544,
+    "wof:lastmodified":1466310611,
     "wof:name":"Pete Nikolaison Photographer & Picture Framer",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [175.655334,-40.942734,175.655334,-40.942734],
-  "geometry": {"coordinates":[175.655334,-40.942734],"type":"Point"}
+  "bbox": [
+    175.655334,
+    -40.942734,
+    175.655334,
+    -40.942734
+],
+  "geometry": {"coordinates":[175.65533400000001,-40.942734],"type":"Point"}
 }

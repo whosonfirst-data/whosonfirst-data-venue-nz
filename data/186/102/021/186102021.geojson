@@ -2,13 +2,14 @@
   "id": 186102021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.661865,-43.432606,172.661865,-43.432606",
     "geom:latitude":-43.432606,
     "geom:longitude":172.661865,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"7 B Spencerville Rd Spencerville ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186102021,
-    "wof:lastmodified":1449052825,
+    "wof:lastmodified":1466312073,
     "wof:name":"Chris Davies & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "coke"
     ]
 },
-  "bbox": [172.661865,-43.432606,172.661865,-43.432606],
-  "geometry": {"coordinates":[172.661865,-43.432606],"type":"Point"}
+  "bbox": [
+    172.661865,
+    -43.432606,
+    172.661865,
+    -43.432606
+],
+  "geometry": {"coordinates":[172.66186500000001,-43.432606],"type":"Point"}
 }

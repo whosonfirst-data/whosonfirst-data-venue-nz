@@ -2,13 +2,14 @@
   "id": 202603163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.139435,-37.736763,176.139435,-37.736763",
     "geom:latitude":-37.736763,
     "geom:longitude":176.139435,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Maleme St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202603163,
-    "wof:lastmodified":1449062269,
+    "wof:lastmodified":1466311547,
     "wof:name":"Bennett Mirror & Glass Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.139435,-37.736763,176.139435,-37.736763],
-  "geometry": {"coordinates":[176.139435,-37.736763],"type":"Point"}
+  "bbox": [
+    176.139435,
+    -37.736763,
+    176.139435,
+    -37.736763
+],
+  "geometry": {"coordinates":[176.13943499999999,-37.736763],"type":"Point"}
 }

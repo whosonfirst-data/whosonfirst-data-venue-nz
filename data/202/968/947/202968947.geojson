@@ -2,13 +2,14 @@
   "id": 202968947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.558517,-36.85445,174.558517,-36.85445",
     "geom:latitude":-36.85445,
     "geom:longitude":174.558517,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"95 McEntee Rd Waitakere ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202968947,
-    "wof:lastmodified":1449060271,
+    "wof:lastmodified":1466312922,
     "wof:name":"Ted Smyth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.558517,-36.85445,174.558517,-36.85445],
-  "geometry": {"coordinates":[174.558517,-36.85445],"type":"Point"}
+  "bbox": [
+    174.558517,
+    -36.85445,
+    174.558517,
+    -36.85445
+],
+  "geometry": {"coordinates":[174.55851699999999,-36.85445],"type":"Point"}
 }

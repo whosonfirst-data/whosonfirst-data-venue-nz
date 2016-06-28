@@ -2,13 +2,14 @@
   "id": 202926097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.365723,-46.39806,168.365723,-46.39806",
     "geom:latitude":-46.39806,
     "geom:longitude":168.365723,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Windsor St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202926097,
-    "wof:lastmodified":1449060990,
+    "wof:lastmodified":1466312843,
     "wof:name":"Windsor Garden Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "gardening"
     ]
 },
-  "bbox": [168.365723,-46.39806,168.365723,-46.39806],
+  "bbox": [
+    168.365723,
+    -46.39806,
+    168.365723,
+    -46.39806
+],
   "geometry": {"coordinates":[168.365723,-46.39806],"type":"Point"}
 }

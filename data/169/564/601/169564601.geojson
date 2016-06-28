@@ -2,13 +2,14 @@
   "id": 169564601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.757019,-37.977913,175.757019,-37.977913",
     "geom:latitude":-37.977913,
     "geom:longitude":175.757019,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1/25 Main Road ",
     "sg:city":"Tirau",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169564601,
-    "wof:lastmodified":1449035763,
+    "wof:lastmodified":1466311040,
     "wof:name":"The Hobbits Hollow",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.757019,-37.977913,175.757019,-37.977913],
-  "geometry": {"coordinates":[175.757019,-37.977913],"type":"Point"}
+  "bbox": [
+    175.757019,
+    -37.977913,
+    175.757019,
+    -37.977913
+],
+  "geometry": {"coordinates":[175.75701900000001,-37.977913],"type":"Point"}
 }

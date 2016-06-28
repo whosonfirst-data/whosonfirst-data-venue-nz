@@ -2,13 +2,14 @@
   "id": 202819569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.888107,-36.904434,174.888107,-36.904434",
     "geom:latitude":-36.904434,
     "geom:longitude":174.888107,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Meadway Pakuranga ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202819569,
-    "wof:lastmodified":1449060712,
+    "wof:lastmodified":1466312505,
     "wof:name":"Fashion On Windows",
     "wof:parent_id":85778943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.888107,-36.904434,174.888107,-36.904434],
-  "geometry": {"coordinates":[174.888107,-36.904434],"type":"Point"}
+  "bbox": [
+    174.888107,
+    -36.904434,
+    174.888107,
+    -36.904434
+],
+  "geometry": {"coordinates":[174.88810699999999,-36.904434],"type":"Point"}
 }

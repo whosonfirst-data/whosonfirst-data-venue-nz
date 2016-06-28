@@ -2,13 +2,14 @@
   "id": 220013251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.320984,-35.725307,174.320984,-35.725307",
     "geom:latitude":-35.725307,
     "geom:longitude":174.320984,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1/5 James St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220013251,
-    "wof:lastmodified":1449074597,
+    "wof:lastmodified":1466310928,
     "wof:name":"Kia Ora Ngapuhi Housing Company Ltd",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mortgage"
     ]
 },
-  "bbox": [174.320984,-35.725307,174.320984,-35.725307],
-  "geometry": {"coordinates":[174.320984,-35.725307],"type":"Point"}
+  "bbox": [
+    174.320984,
+    -35.725307,
+    174.320984,
+    -35.725307
+],
+  "geometry": {"coordinates":[174.32098400000001,-35.725307],"type":"Point"}
 }

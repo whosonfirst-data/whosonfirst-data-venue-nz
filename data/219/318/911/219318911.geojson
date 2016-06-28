@@ -2,13 +2,14 @@
   "id": 219318911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.634125,-45.038322,168.634125,-45.038322",
     "geom:latitude":-45.038322,
     "geom:longitude":168.634125,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Fernhill Rd Fernhill ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219318911,
-    "wof:lastmodified":1449071183,
+    "wof:lastmodified":1466311100,
     "wof:name":"Aspen On Queenstown",
     "wof:parent_id":85781459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accommodation"
     ]
 },
-  "bbox": [168.634125,-45.038322,168.634125,-45.038322],
-  "geometry": {"coordinates":[168.634125,-45.038322],"type":"Point"}
+  "bbox": [
+    168.634125,
+    -45.038322,
+    168.634125,
+    -45.038322
+],
+  "geometry": {"coordinates":[168.63412500000001,-45.038322],"type":"Point"}
 }

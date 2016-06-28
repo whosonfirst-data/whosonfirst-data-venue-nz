@@ -2,13 +2,14 @@
   "id": 203029861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.784889,39.639027,-123.784889,39.639027",
     "geom:latitude":39.639027,
     "geom:longitude":-123.784889,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Palmerston St ",
     "sg:city":"Westport",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203029861,
-    "wof:lastmodified":1449025725,
+    "wof:lastmodified":1466311154,
     "wof:name":"Protek Insect Control Service",
     "wof:parent_id":85821783,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "garden"
     ]
 },
-  "bbox": [-123.784889,39.639027,-123.784889,39.639027],
-  "geometry": {"coordinates":[-123.784889,39.639027],"type":"Point"}
+  "bbox": [
+    -123.784889,
+    39.639027,
+    -123.784889,
+    39.639027
+],
+  "geometry": {"coordinates":[-123.78488900000001,39.639027],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202619497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.080643,-37.976067,177.080643,-37.976067",
     "geom:latitude":-37.976067,
     "geom:longitude":177.080643,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"142 Ocean Rd Ohope ",
     "sg:city":"Whakatane",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202619497,
-    "wof:lastmodified":1449060561,
+    "wof:lastmodified":1466311673,
     "wof:name":"Beach House Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "related"
     ]
 },
-  "bbox": [177.080643,-37.976067,177.080643,-37.976067],
-  "geometry": {"coordinates":[177.080643,-37.976067],"type":"Point"}
+  "bbox": [
+    177.080643,
+    -37.976067,
+    177.080643,
+    -37.976067
+],
+  "geometry": {"coordinates":[177.08064300000001,-37.976067],"type":"Point"}
 }

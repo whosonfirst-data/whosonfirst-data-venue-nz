@@ -2,13 +2,14 @@
   "id": 202823057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.164658,-37.689583,176.164658,-37.689583",
     "geom:latitude":-37.689583,
     "geom:longitude":176.164658,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Cameron Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202823057,
-    "wof:lastmodified":1449062615,
+    "wof:lastmodified":1466312613,
     "wof:name":"Weathermaster",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.164658,-37.689583,176.164658,-37.689583],
+  "bbox": [
+    176.164658,
+    -37.689583,
+    176.164658,
+    -37.689583
+],
   "geometry": {"coordinates":[176.164658,-37.689583],"type":"Point"}
 }

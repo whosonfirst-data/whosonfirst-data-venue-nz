@@ -2,13 +2,14 @@
   "id": 186367467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.704483,-36.752453,174.704483,-36.752453",
     "geom:latitude":-36.752453,
     "geom:longitude":174.704483,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 B Beatrice Tinsley Cre Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186367467,
-    "wof:lastmodified":1449051958,
+    "wof:lastmodified":1466312508,
     "wof:name":"Sealing Technology Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.704483,-36.752453,174.704483,-36.752453],
-  "geometry": {"coordinates":[174.704483,-36.752453],"type":"Point"}
+  "bbox": [
+    174.704483,
+    -36.752453,
+    174.704483,
+    -36.752453
+],
+  "geometry": {"coordinates":[174.70448300000001,-36.752453],"type":"Point"}
 }

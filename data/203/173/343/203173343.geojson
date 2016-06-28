@@ -2,13 +2,14 @@
   "id": 203173343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.915573,-39.492981,176.915573,-39.492981",
     "geom:latitude":-39.492981,
     "geom:longitude":176.915573,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Station St ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203173343,
-    "wof:lastmodified":1449025300,
+    "wof:lastmodified":1466311112,
     "wof:name":"Gemtime Jewellers( Located Throughout NZ )",
     "wof:parent_id":85782461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [176.915573,-39.492981,176.915573,-39.492981],
-  "geometry": {"coordinates":[176.915573,-39.492981],"type":"Point"}
+  "bbox": [
+    176.915573,
+    -39.492981,
+    176.915573,
+    -39.492981
+],
+  "geometry": {"coordinates":[176.91557299999999,-39.492981],"type":"Point"}
 }

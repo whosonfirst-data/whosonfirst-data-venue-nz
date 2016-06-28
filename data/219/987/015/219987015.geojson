@@ -2,13 +2,14 @@
   "id": 219987015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.051498,-39.931095,175.051498,-39.931095",
     "geom:latitude":-39.931095,
     "geom:longitude":175.051498,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Wicksteed Tce ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219987015,
-    "wof:lastmodified":1449072348,
+    "wof:lastmodified":1466313054,
     "wof:name":"Doyle Venter Limited",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finance"
     ]
 },
-  "bbox": [175.051498,-39.931095,175.051498,-39.931095],
-  "geometry": {"coordinates":[175.051498,-39.931095],"type":"Point"}
+  "bbox": [
+    175.051498,
+    -39.931095,
+    175.051498,
+    -39.931095
+],
+  "geometry": {"coordinates":[175.05149800000001,-39.931095],"type":"Point"}
 }

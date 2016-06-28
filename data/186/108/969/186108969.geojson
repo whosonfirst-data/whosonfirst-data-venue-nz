@@ -2,13 +2,14 @@
   "id": 186108969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.605675,41.329346,-98.605675,41.329346",
     "geom:latitude":41.329346,
     "geom:longitude":-98.605675,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8-10 Gordon St ",
     "sg:city":"Dannevirke",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186108969,
-    "wof:lastmodified":1449050309,
+    "wof:lastmodified":1466310610,
     "wof:name":"Scanpower",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-98.605675,41.329346,-98.605675,41.329346],
-  "geometry": {"coordinates":[-98.605675,41.329346],"type":"Point"}
+  "bbox": [
+    -98.605675,
+    41.329346,
+    -98.605675,
+    41.329346
+],
+  "geometry": {"coordinates":[-98.60567500000001,41.329346],"type":"Point"}
 }

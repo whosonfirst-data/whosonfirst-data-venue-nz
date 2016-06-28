@@ -2,13 +2,14 @@
   "id": 219594643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.040115,-39.925678,175.040115,-39.925678",
     "geom:latitude":-39.925678,
     "geom:longitude":175.040115,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219594643,
-    "wof:lastmodified":1449070905,
+    "wof:lastmodified":1466312574,
     "wof:name":"Caltex Star Mart Victoria Ave",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.040115,-39.925678,175.040115,-39.925678],
-  "geometry": {"coordinates":[175.040115,-39.925678],"type":"Point"}
+  "bbox": [
+    175.040115,
+    -39.925678,
+    175.040115,
+    -39.925678
+],
+  "geometry": {"coordinates":[175.04011499999999,-39.925678],"type":"Point"}
 }

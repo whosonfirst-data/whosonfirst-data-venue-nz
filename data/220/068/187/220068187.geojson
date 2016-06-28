@@ -2,13 +2,14 @@
   "id": 220068187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.848099,-39.538158,176.848099,-39.538158",
     "geom:latitude":-39.538158,
     "geom:longitude":176.848099,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Gloucester St Taradale ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220068187,
-    "wof:lastmodified":1449074446,
+    "wof:lastmodified":1466311789,
     "wof:name":"Taradale Cellars",
     "wof:parent_id":85773225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "outlet"
     ]
 },
-  "bbox": [176.848099,-39.538158,176.848099,-39.538158],
-  "geometry": {"coordinates":[176.848099,-39.538158],"type":"Point"}
+  "bbox": [
+    176.848099,
+    -39.538158,
+    176.848099,
+    -39.538158
+],
+  "geometry": {"coordinates":[176.84809899999999,-39.538158],"type":"Point"}
 }

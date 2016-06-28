@@ -2,13 +2,14 @@
   "id": 220064045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.580597,-40.370117,175.580597,-40.370117",
     "geom:latitude":-40.370117,
     "geom:longitude":175.580597,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"520 Pioneer Highway Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220064045,
-    "wof:lastmodified":1449074309,
+    "wof:lastmodified":1466312055,
     "wof:name":"Liquorland",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "outlet"
     ]
 },
-  "bbox": [175.580597,-40.370117,175.580597,-40.370117],
-  "geometry": {"coordinates":[175.580597,-40.370117],"type":"Point"}
+  "bbox": [
+    175.580597,
+    -40.370117,
+    175.580597,
+    -40.370117
+],
+  "geometry": {"coordinates":[175.58059700000001,-40.370117],"type":"Point"}
 }

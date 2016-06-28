@@ -2,13 +2,14 @@
   "id": 220002121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.167236,39.054932,-77.167236,39.054932",
     "geom:latitude":39.054932,
     "geom:longitude":-77.167236,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Dowsons Arcade Montgomery Sq Nelson ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220002121,
-    "wof:lastmodified":1449074707,
+    "wof:lastmodified":1466310652,
     "wof:name":"Independent Financial Consultants",
     "wof:parent_id":85842935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "finance"
     ]
 },
-  "bbox": [-77.167236,39.054932,-77.167236,39.054932],
+  "bbox": [
+    -77.167236,
+    39.054932,
+    -77.167236,
+    39.054932
+],
   "geometry": {"coordinates":[-77.167236,39.054932],"type":"Point"}
 }

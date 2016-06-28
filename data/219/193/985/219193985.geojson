@@ -2,13 +2,14 @@
   "id": 219193985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.957153,-46.090416,168.957153,-46.090416",
     "geom:latitude":-46.090416,
     "geom:longitude":168.957153,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Waverley St East Gore ",
     "sg:city":"Gore",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219193985,
-    "wof:lastmodified":1449070957,
+    "wof:lastmodified":1466311380,
     "wof:name":"Gore Taxis",
     "wof:parent_id":85782851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.957153,-46.090416,168.957153,-46.090416],
-  "geometry": {"coordinates":[168.957153,-46.090416],"type":"Point"}
+  "bbox": [
+    168.957153,
+    -46.090416,
+    168.957153,
+    -46.090416
+],
+  "geometry": {"coordinates":[168.95715300000001,-46.090416],"type":"Point"}
 }

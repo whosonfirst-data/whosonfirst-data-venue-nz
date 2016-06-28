@@ -2,13 +2,14 @@
   "id": 186369517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.663025,39.135532,-77.663025,39.135532",
     "geom:latitude":39.135532,
     "geom:longitude":-77.663025,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"61 King St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186369517,
-    "wof:lastmodified":1449052902,
+    "wof:lastmodified":1466312315,
     "wof:name":"B & F Papers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.663025,39.135532,-77.663025,39.135532],
+  "bbox": [
+    -77.663025,
+    39.135532,
+    -77.663025,
+    39.135532
+],
   "geometry": {"coordinates":[-77.663025,39.135532],"type":"Point"}
 }

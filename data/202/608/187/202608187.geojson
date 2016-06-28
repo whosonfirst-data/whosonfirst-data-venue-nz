@@ -2,13 +2,14 @@
   "id": 202608187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.64978,-36.865822,174.64978,-36.865822",
     "geom:latitude":-36.865822,
     "geom:longitude":174.64978,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Lyndhurst Rd Te Atatu South ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202608187,
-    "wof:lastmodified":1449061200,
+    "wof:lastmodified":1466311585,
     "wof:name":"Precious Metal Services 1990 Ltd",
     "wof:parent_id":85778669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.64978,-36.865822,174.64978,-36.865822],
-  "geometry": {"coordinates":[174.64978,-36.865822],"type":"Point"}
+  "bbox": [
+    174.64978,
+    -36.865822,
+    174.64978,
+    -36.865822
+],
+  "geometry": {"coordinates":[174.64977999999999,-36.865822],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202811801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.795837,-41.317944,174.795837,-41.317944",
     "geom:latitude":-41.317944,
     "geom:longitude":174.795837,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Rongotai Rd Kilbirnie ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202811801,
-    "wof:lastmodified":1449061354,
+    "wof:lastmodified":1466312567,
     "wof:name":"Cut Price Beds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bed"
     ]
 },
-  "bbox": [174.795837,-41.317944,174.795837,-41.317944],
-  "geometry": {"coordinates":[174.795837,-41.317944],"type":"Point"}
+  "bbox": [
+    174.795837,
+    -41.317944,
+    174.795837,
+    -41.317944
+],
+  "geometry": {"coordinates":[174.79583700000001,-41.317944],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169770921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.608658,-40.358593,175.608658,-40.358593",
     "geom:latitude":-40.358593,
     "geom:longitude":175.608658,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Church St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169770921,
-    "wof:lastmodified":1449036035,
+    "wof:lastmodified":1466311428,
     "wof:name":"Pedal Pushers Cyclery",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cycles"
     ]
 },
-  "bbox": [175.608658,-40.358593,175.608658,-40.358593],
-  "geometry": {"coordinates":[175.608658,-40.358593],"type":"Point"}
+  "bbox": [
+    175.608658,
+    -40.358593,
+    175.608658,
+    -40.358593
+],
+  "geometry": {"coordinates":[175.60865799999999,-40.358593],"type":"Point"}
 }

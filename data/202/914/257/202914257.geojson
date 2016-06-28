@@ -2,13 +2,14 @@
   "id": 202914257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.910286,41.538616,-84.910286,41.538616",
     "geom:latitude":41.538616,
     "geom:longitude":-84.910286,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Rototuna Rd R D 1 ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202914257,
-    "wof:lastmodified":1449061083,
+    "wof:lastmodified":1466312816,
     "wof:name":"Hukanui Commercial Seedlings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gardening"
     ]
 },
-  "bbox": [-84.910286,41.538616,-84.910286,41.538616],
+  "bbox": [
+    -84.910286,
+    41.538616,
+    -84.910286,
+    41.538616
+],
   "geometry": {"coordinates":[-84.910286,41.538616],"type":"Point"}
 }

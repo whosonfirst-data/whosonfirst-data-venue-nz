@@ -2,13 +2,14 @@
   "id": 203179793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.78093,-41.270016,174.78093,-41.270016",
     "geom:latitude":-41.270016,
     "geom:longitude":174.78093,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Thorndon Qy ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203179793,
-    "wof:lastmodified":1449026676,
+    "wof:lastmodified":1466311183,
     "wof:name":"Aureah Mothibe",
     "wof:parent_id":85778683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaning"
     ]
 },
-  "bbox": [174.78093,-41.270016,174.78093,-41.270016],
-  "geometry": {"coordinates":[174.78093,-41.270016],"type":"Point"}
+  "bbox": [
+    174.78093,
+    -41.270016,
+    174.78093,
+    -41.270016
+],
+  "geometry": {"coordinates":[174.78093000000001,-41.270016],"type":"Point"}
 }

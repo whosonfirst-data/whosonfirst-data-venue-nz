@@ -2,13 +2,14 @@
   "id": 185607335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.747681,-36.856815,174.747681,-36.856815",
     "geom:latitude":-36.856815,
     "geom:longitude":174.747681,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Ponsonby Rd ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185607335,
-    "wof:lastmodified":1449006817,
+    "wof:lastmodified":1466310754,
     "wof:name":"MasterWorks Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.747681,-36.856815,174.747681,-36.856815],
+  "bbox": [
+    174.747681,
+    -36.856815,
+    174.747681,
+    -36.856815
+],
   "geometry": {"coordinates":[174.747681,-36.856815],"type":"Point"}
 }

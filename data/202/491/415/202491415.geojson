@@ -2,13 +2,14 @@
   "id": 202491415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.950653,-41.539963,173.950653,-41.539963",
     "geom:latitude":-41.539963,
     "geom:longitude":173.950653,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Howick Rd Witherlea ",
     "sg:city":"Blenheim",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202491415,
-    "wof:lastmodified":1449060071,
+    "wof:lastmodified":1466310590,
     "wof:name":"Amos G E & C M",
     "wof:parent_id":85781539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.950653,-41.539963,173.950653,-41.539963],
-  "geometry": {"coordinates":[173.950653,-41.539963],"type":"Point"}
+  "bbox": [
+    173.950653,
+    -41.539963,
+    173.950653,
+    -41.539963
+],
+  "geometry": {"coordinates":[173.95065299999999,-41.539963],"type":"Point"}
 }

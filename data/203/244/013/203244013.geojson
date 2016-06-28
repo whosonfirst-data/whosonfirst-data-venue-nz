@@ -2,13 +2,14 @@
   "id": 203244013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.465515,-37.895172,175.465515,-37.895172",
     "geom:latitude":-37.895172,
     "geom:longitude":175.465515,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Duke St ",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203244013,
-    "wof:lastmodified":1449025669,
+    "wof:lastmodified":1466311779,
     "wof:name":"Cambridge Menswear",
     "wof:parent_id":85782837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.465515,-37.895172,175.465515,-37.895172],
-  "geometry": {"coordinates":[175.465515,-37.895172],"type":"Point"}
+  "bbox": [
+    175.465515,
+    -37.895172,
+    175.465515,
+    -37.895172
+],
+  "geometry": {"coordinates":[175.46551500000001,-37.895172],"type":"Point"}
 }

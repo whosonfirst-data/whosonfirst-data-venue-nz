@@ -2,13 +2,14 @@
   "id": 202541203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.163544,-37.703339,176.163544,-37.703339",
     "geom:latitude":-37.703339,
     "geom:longitude":176.163544,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Harvey St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202541203,
-    "wof:lastmodified":1449060387,
+    "wof:lastmodified":1466311009,
     "wof:name":"Ingram Christopher S",
     "wof:parent_id":85782817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.163544,-37.703339,176.163544,-37.703339],
+  "bbox": [
+    176.163544,
+    -37.703339,
+    176.163544,
+    -37.703339
+],
   "geometry": {"coordinates":[176.163544,-37.703339],"type":"Point"}
 }

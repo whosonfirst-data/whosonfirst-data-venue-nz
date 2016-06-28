@@ -2,13 +2,14 @@
   "id": 186146897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.17025,46.25325,-114.17025,46.25325",
     "geom:latitude":46.25325,
     "geom:longitude":-114.17025,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 968 ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186146897,
-    "wof:lastmodified":1449051489,
+    "wof:lastmodified":1466310955,
     "wof:name":"Downer MBL Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.17025,46.25325,-114.17025,46.25325],
+  "bbox": [
+    -114.17025,
+    46.25325,
+    -114.17025,
+    46.25325
+],
   "geometry": {"coordinates":[-114.17025,46.25325],"type":"Point"}
 }

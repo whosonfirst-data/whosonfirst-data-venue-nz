@@ -2,13 +2,14 @@
   "id": 219712837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.590302,-43.302963,172.590302,-43.302963",
     "geom:latitude":-43.302963,
     "geom:longitude":172.590302,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 660 ",
     "sg:city":"Rangiora",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219712837,
-    "wof:lastmodified":1449071899,
+    "wof:lastmodified":1466312723,
     "wof:name":"Polaris Sales New Zealand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leasing"
     ]
 },
-  "bbox": [172.590302,-43.302963,172.590302,-43.302963],
-  "geometry": {"coordinates":[172.590302,-43.302963],"type":"Point"}
+  "bbox": [
+    172.590302,
+    -43.302963,
+    172.590302,
+    -43.302963
+],
+  "geometry": {"coordinates":[172.59030200000001,-43.302963],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219375731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"167.714706,-45.439266,167.714706,-45.439266",
     "geom:latitude":-45.439266,
     "geom:longitude":167.714706,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Manapouri-Te Anau Rd Te ",
     "sg:city":"Anau",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219375731,
-    "wof:lastmodified":1449070497,
+    "wof:lastmodified":1466311548,
     "wof:name":"Deepwater Cruises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [167.714706,-45.439266,167.714706,-45.439266],
-  "geometry": {"coordinates":[167.714706,-45.439266],"type":"Point"}
+  "bbox": [
+    167.714706,
+    -45.439266,
+    167.714706,
+    -45.439266
+],
+  "geometry": {"coordinates":[167.71470600000001,-45.439266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186342689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.142288,-37.66531,175.142288,-37.66531",
     "geom:latitude":-37.66531,
     "geom:longitude":175.142288,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Waingaro Rd Ngaruawahia ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186342689,
-    "wof:lastmodified":1449052842,
+    "wof:lastmodified":1466312234,
     "wof:name":"Perry Quarries Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "materials"
     ]
 },
-  "bbox": [175.142288,-37.66531,175.142288,-37.66531],
-  "geometry": {"coordinates":[175.142288,-37.66531],"type":"Point"}
+  "bbox": [
+    175.142288,
+    -37.66531,
+    175.142288,
+    -37.66531
+],
+  "geometry": {"coordinates":[175.14228800000001,-37.66531],"type":"Point"}
 }

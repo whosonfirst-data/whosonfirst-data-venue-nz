@@ -2,13 +2,14 @@
   "id": 202830715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.060837,-39.917431,175.060837,-39.917431",
     "geom:latitude":-39.917431,
     "geom:longitude":175.060837,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"74-76 Duncan St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202830715,
-    "wof:lastmodified":1449060658,
+    "wof:lastmodified":1466312704,
     "wof:name":"Ruscoe Tyrell Ltd",
     "wof:parent_id":85781217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.060837,-39.917431,175.060837,-39.917431],
-  "geometry": {"coordinates":[175.060837,-39.917431],"type":"Point"}
+  "bbox": [
+    175.060837,
+    -39.917431,
+    175.060837,
+    -39.917431
+],
+  "geometry": {"coordinates":[175.06083699999999,-39.917431],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202430063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.318314,-37.794559,175.318314,-37.794559",
     "geom:latitude":-37.794559,
     "geom:longitude":175.318314,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Aurora Tce Hillcrest ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202430063,
-    "wof:lastmodified":1449061700,
+    "wof:lastmodified":1466311615,
     "wof:name":"Annick Janson",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.318314,-37.794559,175.318314,-37.794559],
-  "geometry": {"coordinates":[175.318314,-37.794559],"type":"Point"}
+  "bbox": [
+    175.318314,
+    -37.794559,
+    175.318314,
+    -37.794559
+],
+  "geometry": {"coordinates":[175.31831399999999,-37.794559],"type":"Point"}
 }

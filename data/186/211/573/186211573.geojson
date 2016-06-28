@@ -2,13 +2,14 @@
   "id": 186211573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.527954,-43.538448,172.527954,-43.538448",
     "geom:latitude":-43.538448,
     "geom:longitude":172.527954,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8/193 Waterloo Rd Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186211573,
-    "wof:lastmodified":1449051053,
+    "wof:lastmodified":1466311504,
     "wof:name":"Alpine Hydraulics Ltd",
     "wof:parent_id":85772967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [172.527954,-43.538448,172.527954,-43.538448],
-  "geometry": {"coordinates":[172.527954,-43.538448],"type":"Point"}
+  "bbox": [
+    172.527954,
+    -43.538448,
+    172.527954,
+    -43.538448
+],
+  "geometry": {"coordinates":[172.52795399999999,-43.538448],"type":"Point"}
 }

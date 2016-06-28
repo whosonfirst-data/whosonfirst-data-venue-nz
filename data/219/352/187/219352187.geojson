@@ -2,13 +2,14 @@
   "id": 219352187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764389,-36.853519,174.764389,-36.853519",
     "geom:latitude":-36.853519,
     "geom:longitude":174.764389,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Mayoral Dve Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219352187,
-    "wof:lastmodified":1449072563,
+    "wof:lastmodified":1466311352,
     "wof:name":"Magpie Souvenirs",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "tourism"
     ]
 },
-  "bbox": [174.764389,-36.853519,174.764389,-36.853519],
-  "geometry": {"coordinates":[174.764389,-36.853519],"type":"Point"}
+  "bbox": [
+    174.764389,
+    -36.853519,
+    174.764389,
+    -36.853519
+],
+  "geometry": {"coordinates":[174.76438899999999,-36.853519],"type":"Point"}
 }

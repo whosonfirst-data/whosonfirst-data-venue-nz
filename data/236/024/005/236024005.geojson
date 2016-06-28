@@ -2,13 +2,14 @@
   "id": 236024005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.714569,-36.885212,174.714569,-36.885212",
     "geom:latitude":-36.885212,
     "geom:longitude":174.714569,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"942 New North Rd Mt Albert ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236024005,
-    "wof:lastmodified":1449003191,
+    "wof:lastmodified":1466312022,
     "wof:name":"Thai Cuisine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "takeaway"
     ]
 },
-  "bbox": [174.714569,-36.885212,174.714569,-36.885212],
-  "geometry": {"coordinates":[174.714569,-36.885212],"type":"Point"}
+  "bbox": [
+    174.714569,
+    -36.885212,
+    174.714569,
+    -36.885212
+],
+  "geometry": {"coordinates":[174.71456900000001,-36.885212],"type":"Point"}
 }

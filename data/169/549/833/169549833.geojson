@@ -2,13 +2,14 @@
   "id": 169549833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.612183,-40.3545,175.612183,-40.3545",
     "geom:latitude":-40.3545,
     "geom:longitude":175.612183,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169549833,
-    "wof:lastmodified":1449033590,
+    "wof:lastmodified":1466310796,
     "wof:name":"Mason's City Watches",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.612183,-40.3545,175.612183,-40.3545],
-  "geometry": {"coordinates":[175.612183,-40.3545],"type":"Point"}
+  "bbox": [
+    175.612183,
+    -40.3545,
+    175.612183,
+    -40.3545
+],
+  "geometry": {"coordinates":[175.61218299999999,-40.3545],"type":"Point"}
 }

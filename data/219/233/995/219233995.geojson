@@ -2,13 +2,14 @@
   "id": 219233995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.636185,-43.511974,172.636185,-43.511974",
     "geom:latitude":-43.511974,
     "geom:longitude":172.636185,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Edgeware Rd St Albans ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219233995,
-    "wof:lastmodified":1449073986,
+    "wof:lastmodified":1466311809,
     "wof:name":"Kiwi Bookshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.636185,-43.511974,172.636185,-43.511974],
-  "geometry": {"coordinates":[172.636185,-43.511974],"type":"Point"}
+  "bbox": [
+    172.636185,
+    -43.511974,
+    172.636185,
+    -43.511974
+],
+  "geometry": {"coordinates":[172.63618500000001,-43.511974],"type":"Point"}
 }

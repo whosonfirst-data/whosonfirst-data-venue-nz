@@ -2,13 +2,14 @@
   "id": 219819747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.185944,-37.643536,176.185944,-37.643536",
     "geom:latitude":-37.643536,
     "geom:longitude":176.185944,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Totara St Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219819747,
-    "wof:lastmodified":1449071231,
+    "wof:lastmodified":1466313047,
     "wof:name":"Mount Wheel Alignment & Service Centre",
     "wof:parent_id":85773039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alignment"
     ]
 },
-  "bbox": [176.185944,-37.643536,176.185944,-37.643536],
-  "geometry": {"coordinates":[176.185944,-37.643536],"type":"Point"}
+  "bbox": [
+    176.185944,
+    -37.643536,
+    176.185944,
+    -37.643536
+],
+  "geometry": {"coordinates":[176.18594400000001,-37.643536],"type":"Point"}
 }

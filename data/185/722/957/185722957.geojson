@@ -2,13 +2,14 @@
   "id": 185722957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.653229,-36.407192,174.653229,-36.407192",
     "geom:latitude":-36.407192,
     "geom:longitude":174.653229,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Woodcocks Rd ",
     "sg:city":"Warkworth",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185722957,
-    "wof:lastmodified":1449007156,
+    "wof:lastmodified":1466310718,
     "wof:name":"Warkworth Hire Centre Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.653229,-36.407192,174.653229,-36.407192],
-  "geometry": {"coordinates":[174.653229,-36.407192],"type":"Point"}
+  "bbox": [
+    174.653229,
+    -36.407192,
+    174.653229,
+    -36.407192
+],
+  "geometry": {"coordinates":[174.65322900000001,-36.407192],"type":"Point"}
 }

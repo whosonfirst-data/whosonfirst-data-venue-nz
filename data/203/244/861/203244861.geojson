@@ -2,13 +2,14 @@
   "id": 203244861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.506027,-45.869705,170.506027,-45.869705",
     "geom:latitude":-45.869705,
     "geom:longitude":170.506027,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"301 George St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203244861,
-    "wof:lastmodified":1449025672,
+    "wof:lastmodified":1466311787,
     "wof:name":"Bob Shepherd Suit Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fabric"
     ]
 },
-  "bbox": [170.506027,-45.869705,170.506027,-45.869705],
-  "geometry": {"coordinates":[170.506027,-45.869705],"type":"Point"}
+  "bbox": [
+    170.506027,
+    -45.869705,
+    170.506027,
+    -45.869705
+],
+  "geometry": {"coordinates":[170.50602699999999,-45.869705],"type":"Point"}
 }

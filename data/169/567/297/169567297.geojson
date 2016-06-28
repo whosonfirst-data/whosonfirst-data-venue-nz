@@ -2,13 +2,14 @@
   "id": 169567297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.612686,-40.357899,175.612686,-40.357899",
     "geom:latitude":-40.357899,
     "geom:longitude":175.612686,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Fitzherbert Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169567297,
-    "wof:lastmodified":1449035994,
+    "wof:lastmodified":1466311083,
     "wof:name":"Lotz of Potz",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supplier"
     ]
 },
-  "bbox": [175.612686,-40.357899,175.612686,-40.357899],
+  "bbox": [
+    175.612686,
+    -40.357899,
+    175.612686,
+    -40.357899
+],
   "geometry": {"coordinates":[175.612686,-40.357899],"type":"Point"}
 }

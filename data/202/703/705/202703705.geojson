@@ -2,13 +2,14 @@
   "id": 202703705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.797226,-36.831173,174.797226,-36.831173",
     "geom:latitude":-36.831173,
     "geom:longitude":174.797226,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Victoria Rd Devonport ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202703705,
-    "wof:lastmodified":1449060886,
+    "wof:lastmodified":1466312131,
     "wof:name":"Little Tikes Toys",
     "wof:parent_id":85778259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.797226,-36.831173,174.797226,-36.831173],
-  "geometry": {"coordinates":[174.797226,-36.831173],"type":"Point"}
+  "bbox": [
+    174.797226,
+    -36.831173,
+    174.797226,
+    -36.831173
+],
+  "geometry": {"coordinates":[174.79722599999999,-36.831173],"type":"Point"}
 }

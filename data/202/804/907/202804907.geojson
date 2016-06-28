@@ -2,13 +2,14 @@
   "id": 202804907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.825287,-41.168224,174.825287,-41.168224",
     "geom:latitude":-41.168224,
     "geom:longitude":174.825287,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"242 Main Rd Tawa ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202804907,
-    "wof:lastmodified":1449061862,
+    "wof:lastmodified":1466312547,
     "wof:name":"Tawa Heating",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.825287,-41.168224,174.825287,-41.168224],
+  "bbox": [
+    174.825287,
+    -41.168224,
+    174.825287,
+    -41.168224
+],
   "geometry": {"coordinates":[174.825287,-41.168224],"type":"Point"}
 }

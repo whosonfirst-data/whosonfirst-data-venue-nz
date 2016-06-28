@@ -2,13 +2,14 @@
   "id": 219160901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.276337,-41.263725,173.276337,-41.263725",
     "geom:latitude":-41.263725,
     "geom:longitude":173.276337,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Low St PrtNn Nelson ",
     "sg:city":"Nelson",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219160901,
-    "wof:lastmodified":1449073354,
+    "wof:lastmodified":1466310761,
     "wof:name":"McKay Shipping Ltd",
     "wof:parent_id":85773133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.276337,-41.263725,173.276337,-41.263725],
-  "geometry": {"coordinates":[173.276337,-41.263725],"type":"Point"}
+  "bbox": [
+    173.276337,
+    -41.263725,
+    173.276337,
+    -41.263725
+],
+  "geometry": {"coordinates":[173.27633700000001,-41.263725],"type":"Point"}
 }

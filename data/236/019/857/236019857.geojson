@@ -2,13 +2,14 @@
   "id": 236019857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.083313,-38.675606,178.083313,-38.675606",
     "geom:latitude":-38.675606,
     "geom:longitude":178.083313,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Moana Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236019857,
-    "wof:lastmodified":1449003558,
+    "wof:lastmodified":1466310972,
     "wof:name":"Pines Takeaways",
     "wof:parent_id":85781353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "takeaway"
     ]
 },
-  "bbox": [178.083313,-38.675606,178.083313,-38.675606],
+  "bbox": [
+    178.083313,
+    -38.675606,
+    178.083313,
+    -38.675606
+],
   "geometry": {"coordinates":[178.083313,-38.675606],"type":"Point"}
 }

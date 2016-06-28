@@ -2,13 +2,14 @@
   "id": 185999595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.113388,-35.555592,174.113388,-35.555592",
     "geom:latitude":-35.555592,
     "geom:longitude":174.113388,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Marlow Rd Maromaku ",
     "sg:city":"Towai",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185999595,
-    "wof:lastmodified":1449008026,
+    "wof:lastmodified":1466312432,
     "wof:name":"Going L N",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [174.113388,-35.555592,174.113388,-35.555592],
-  "geometry": {"coordinates":[174.113388,-35.555592],"type":"Point"}
+  "bbox": [
+    174.113388,
+    -35.555592,
+    174.113388,
+    -35.555592
+],
+  "geometry": {"coordinates":[174.11338799999999,-35.555592],"type":"Point"}
 }

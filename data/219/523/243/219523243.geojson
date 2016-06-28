@@ -2,13 +2,14 @@
   "id": 219523243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.678635,-43.502426,172.678635,-43.502426",
     "geom:latitude":-43.502426,
     "geom:longitude":172.678635,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Reaby St Burwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219523243,
-    "wof:lastmodified":1449072411,
+    "wof:lastmodified":1466312279,
     "wof:name":"SLT Services Christchurch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "language"
     ]
 },
-  "bbox": [172.678635,-43.502426,172.678635,-43.502426],
-  "geometry": {"coordinates":[172.678635,-43.502426],"type":"Point"}
+  "bbox": [
+    172.678635,
+    -43.502426,
+    172.678635,
+    -43.502426
+],
+  "geometry": {"coordinates":[172.67863500000001,-43.502426],"type":"Point"}
 }

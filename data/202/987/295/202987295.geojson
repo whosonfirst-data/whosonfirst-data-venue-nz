@@ -2,13 +2,14 @@
   "id": 202987295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.965775,-37.961071,176.965775,-37.961071",
     "geom:latitude":-37.961071,
     "geom:longitude":176.965775,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"151 b James St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202987295,
-    "wof:lastmodified":1449061522,
+    "wof:lastmodified":1466312952,
     "wof:name":"ABC Mowing Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.965775,-37.961071,176.965775,-37.961071],
-  "geometry": {"coordinates":[176.965775,-37.961071],"type":"Point"}
+  "bbox": [
+    176.965775,
+    -37.961071,
+    176.965775,
+    -37.961071
+],
+  "geometry": {"coordinates":[176.96577500000001,-37.961071],"type":"Point"}
 }

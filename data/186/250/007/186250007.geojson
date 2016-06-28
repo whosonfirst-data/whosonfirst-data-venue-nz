@@ -2,13 +2,14 @@
   "id": 186250007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.634583,-40.332504,175.634583,-40.332504",
     "geom:latitude":-40.332504,
     "geom:longitude":175.634583,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Rata St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186250007,
-    "wof:lastmodified":1449051912,
+    "wof:lastmodified":1466311842,
     "wof:name":"Independent Sewing Machine Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.634583,-40.332504,175.634583,-40.332504],
-  "geometry": {"coordinates":[175.634583,-40.332504],"type":"Point"}
+  "bbox": [
+    175.634583,
+    -40.332504,
+    175.634583,
+    -40.332504
+],
+  "geometry": {"coordinates":[175.63458299999999,-40.332504],"type":"Point"}
 }

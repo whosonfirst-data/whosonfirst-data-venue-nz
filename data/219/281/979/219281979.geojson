@@ -2,13 +2,14 @@
   "id": 219281979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.788055,-41.298855,174.788055,-41.298855",
     "geom:latitude":-41.298855,
     "geom:longitude":174.788055,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Pirie St Mt Victoria ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219281979,
-    "wof:lastmodified":1449073374,
+    "wof:lastmodified":1466310796,
     "wof:name":"123 Pirie",
     "wof:parent_id":85778473,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.788055,-41.298855,174.788055,-41.298855],
-  "geometry": {"coordinates":[174.788055,-41.298855],"type":"Point"}
+  "bbox": [
+    174.788055,
+    -41.298855,
+    174.788055,
+    -41.298855
+],
+  "geometry": {"coordinates":[174.78805500000001,-41.298855],"type":"Point"}
 }

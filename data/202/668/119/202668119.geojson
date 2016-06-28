@@ -2,13 +2,14 @@
   "id": 202668119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.007996,-40.910461,175.007996,-40.910461",
     "geom:latitude":-40.910461,
     "geom:longitude":175.007996,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 5 & 6 11 Hurley Rd PO Box 1593 Paraparaumu, Beach ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202668119,
-    "wof:lastmodified":1449061864,
+    "wof:lastmodified":1466312231,
     "wof:name":"Klee Plumbers Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [175.007996,-40.910461,175.007996,-40.910461],
-  "geometry": {"coordinates":[175.007996,-40.910461],"type":"Point"}
+  "bbox": [
+    175.007996,
+    -40.910461,
+    175.007996,
+    -40.910461
+],
+  "geometry": {"coordinates":[175.00799599999999,-40.910461],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219707301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.52655,-43.54195,172.52655,-43.54195",
     "geom:latitude":-43.54195,
     "geom:longitude":172.52655,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Carmen Rd Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219707301,
-    "wof:lastmodified":1449073358,
+    "wof:lastmodified":1466312833,
     "wof:name":"European Motor Centre Ltd",
     "wof:parent_id":85772967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leasing"
     ]
 },
-  "bbox": [172.52655,-43.54195,172.52655,-43.54195],
-  "geometry": {"coordinates":[172.52655,-43.54195],"type":"Point"}
+  "bbox": [
+    172.52655,
+    -43.54195,
+    172.52655,
+    -43.54195
+],
+  "geometry": {"coordinates":[172.52654999999999,-43.54195],"type":"Point"}
 }

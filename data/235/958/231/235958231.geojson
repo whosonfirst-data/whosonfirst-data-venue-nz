@@ -2,13 +2,14 @@
   "id": 235958231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.690536,-36.905727,174.690536,-36.905727",
     "geom:latitude":-36.905727,
     "geom:longitude":174.690536,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 b Portage Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235958231,
-    "wof:lastmodified":1449008523,
+    "wof:lastmodified":1466311022,
     "wof:name":"New Zealand Seafoods Ltd",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sea"
     ]
 },
-  "bbox": [174.690536,-36.905727,174.690536,-36.905727],
-  "geometry": {"coordinates":[174.690536,-36.905727],"type":"Point"}
+  "bbox": [
+    174.690536,
+    -36.905727,
+    174.690536,
+    -36.905727
+],
+  "geometry": {"coordinates":[174.69053600000001,-36.905727],"type":"Point"}
 }

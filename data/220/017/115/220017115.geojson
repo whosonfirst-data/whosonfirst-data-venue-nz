@@ -2,13 +2,14 @@
   "id": 220017115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.151978,-37.705631,176.151978,-37.705631",
     "geom:latitude":-37.705631,
     "geom:longitude":176.151978,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"777 Cameron Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220017115,
-    "wof:lastmodified":1449074472,
+    "wof:lastmodified":1466310987,
     "wof:name":"Mortgage Strategies Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [176.151978,-37.705631,176.151978,-37.705631],
-  "geometry": {"coordinates":[176.151978,-37.705631],"type":"Point"}
+  "bbox": [
+    176.151978,
+    -37.705631,
+    176.151978,
+    -37.705631
+],
+  "geometry": {"coordinates":[176.15197800000001,-37.705631],"type":"Point"}
 }

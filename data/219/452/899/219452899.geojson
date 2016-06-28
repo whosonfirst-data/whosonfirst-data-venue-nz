@@ -2,13 +2,14 @@
   "id": 219452899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.069702,-41.124371,175.069702,-41.124371",
     "geom:latitude":-41.124371,
     "geom:longitude":175.069702,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"95 Main St Upper Hutt ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219452899,
-    "wof:lastmodified":1449071225,
+    "wof:lastmodified":1466312171,
     "wof:name":"Archibalds - The Art Place",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "art"
     ]
 },
-  "bbox": [175.069702,-41.124371,175.069702,-41.124371],
-  "geometry": {"coordinates":[175.069702,-41.124371],"type":"Point"}
+  "bbox": [
+    175.069702,
+    -41.124371,
+    175.069702,
+    -41.124371
+],
+  "geometry": {"coordinates":[175.06970200000001,-41.124371],"type":"Point"}
 }

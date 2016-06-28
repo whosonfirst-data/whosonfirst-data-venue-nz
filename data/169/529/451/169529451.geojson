@@ -2,13 +2,14 @@
   "id": 169529451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.07016,-41.124573,175.07016,-41.124573",
     "geom:latitude":-41.124573,
     "geom:longitude":175.07016,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"102-104 Main St, Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169529451,
-    "wof:lastmodified":1449034115,
+    "wof:lastmodified":1466310726,
     "wof:name":"Bank of New Zealand",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.07016,-41.124573,175.07016,-41.124573],
-  "geometry": {"coordinates":[175.07016,-41.124573],"type":"Point"}
+  "bbox": [
+    175.07016,
+    -41.124573,
+    175.07016,
+    -41.124573
+],
+  "geometry": {"coordinates":[175.07015999999999,-41.124573],"type":"Point"}
 }

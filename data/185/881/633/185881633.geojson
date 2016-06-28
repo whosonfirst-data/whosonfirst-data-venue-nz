@@ -2,13 +2,14 @@
   "id": 185881633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.833847,-39.557011,176.833847,-39.557011",
     "geom:latitude":-39.557011,
     "geom:longitude":176.833847,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Waiohiki Links State Hwy 50 Waiohiki ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185881633,
-    "wof:lastmodified":1449007545,
+    "wof:lastmodified":1466311745,
     "wof:name":"Napier Golf Club",
     "wof:parent_id":85773221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.833847,-39.557011,176.833847,-39.557011],
-  "geometry": {"coordinates":[176.833847,-39.557011],"type":"Point"}
+  "bbox": [
+    176.833847,
+    -39.557011,
+    176.833847,
+    -39.557011
+],
+  "geometry": {"coordinates":[176.83384699999999,-39.557011],"type":"Point"}
 }

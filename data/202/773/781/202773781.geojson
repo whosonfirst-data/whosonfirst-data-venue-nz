@@ -2,13 +2,14 @@
   "id": 202773781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.141754,-37.699928,176.141754,-37.699928",
     "geom:latitude":-37.699928,
     "geom:longitude":176.141754,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Birch Ave Judea ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202773781,
-    "wof:lastmodified":1449060424,
+    "wof:lastmodified":1466312360,
     "wof:name":"Supreme Lock & Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fittings"
     ]
 },
-  "bbox": [176.141754,-37.699928,176.141754,-37.699928],
-  "geometry": {"coordinates":[176.141754,-37.699928],"type":"Point"}
+  "bbox": [
+    176.141754,
+    -37.699928,
+    176.141754,
+    -37.699928
+],
+  "geometry": {"coordinates":[176.14175399999999,-37.699928],"type":"Point"}
 }

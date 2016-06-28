@@ -2,13 +2,14 @@
   "id": 220063623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.311012,38.778893,-75.311012,38.778893",
     "geom:latitude":38.778893,
     "geom:longitude":-75.311012,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Union St ",
     "sg:city":"Milton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220063623,
-    "wof:lastmodified":1449074095,
+    "wof:lastmodified":1466311749,
     "wof:name":"Liquorland",
     "wof:parent_id":85823997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "outlet"
     ]
 },
-  "bbox": [-75.311012,38.778893,-75.311012,38.778893],
-  "geometry": {"coordinates":[-75.311012,38.778893],"type":"Point"}
+  "bbox": [
+    -75.311012,
+    38.778893,
+    -75.311012,
+    38.778893
+],
+  "geometry": {"coordinates":[-75.31101200000001,38.778893],"type":"Point"}
 }

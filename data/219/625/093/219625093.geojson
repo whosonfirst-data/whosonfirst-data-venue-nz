@@ -2,13 +2,14 @@
   "id": 219625093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.787468,46.521141,-95.787468,46.521141",
     "geom:latitude":46.521141,
     "geom:longitude":-95.787468,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 56528 Dominion ",
     "sg:city":"Road",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219625093,
-    "wof:lastmodified":1449073980,
+    "wof:lastmodified":1466312662,
     "wof:name":"European Auto Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "supplies"
     ]
 },
-  "bbox": [-95.787468,46.521141,-95.787468,46.521141],
+  "bbox": [
+    -95.787468,
+    46.521141,
+    -95.787468,
+    46.521141
+],
   "geometry": {"coordinates":[-95.787468,46.521141],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219702007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.441605,-45.901833,170.441605,-45.901833",
     "geom:latitude":-45.901833,
     "geom:longitude":170.441605,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"131 A Main South Rd Green Island ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219702007,
-    "wof:lastmodified":1449072143,
+    "wof:lastmodified":1466312905,
     "wof:name":"Otago Caravan Centre",
     "wof:parent_id":85772859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [170.441605,-45.901833,170.441605,-45.901833],
-  "geometry": {"coordinates":[170.441605,-45.901833],"type":"Point"}
+  "bbox": [
+    170.441605,
+    -45.901833,
+    170.441605,
+    -45.901833
+],
+  "geometry": {"coordinates":[170.44160500000001,-45.901833],"type":"Point"}
 }

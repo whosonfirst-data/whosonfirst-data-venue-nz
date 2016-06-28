@@ -2,13 +2,14 @@
   "id": 186051077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.6073,-40.340958,175.6073,-40.340958",
     "geom:latitude":-40.340958,
     "geom:longitude":175.6073,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"662 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186051077,
-    "wof:lastmodified":1449052021,
+    "wof:lastmodified":1466311524,
     "wof:name":"The Paint Factory",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "compounds"
     ]
 },
-  "bbox": [175.6073,-40.340958,175.6073,-40.340958],
-  "geometry": {"coordinates":[175.6073,-40.340958],"type":"Point"}
+  "bbox": [
+    175.6073,
+    -40.340958,
+    175.6073,
+    -40.340958
+],
+  "geometry": {"coordinates":[175.60730000000001,-40.340958],"type":"Point"}
 }

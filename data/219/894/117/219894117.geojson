@@ -2,13 +2,14 @@
   "id": 219894117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.367569,-35.750248,174.367569,-35.750248",
     "geom:latitude":-35.750248,
     "geom:longitude":174.367569,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"96 Onerahi Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219894117,
-    "wof:lastmodified":1449071845,
+    "wof:lastmodified":1466313081,
     "wof:name":"Northern Natives",
     "wof:parent_id":85773083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.367569,-35.750248,174.367569,-35.750248],
+  "bbox": [
+    174.367569,
+    -35.750248,
+    174.367569,
+    -35.750248
+],
   "geometry": {"coordinates":[174.367569,-35.750248],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202517961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.265244,-37.786079,175.265244,-37.786079",
     "geom:latitude":-37.786079,
     "geom:longitude":175.265244,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Lake Rd Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202517961,
-    "wof:lastmodified":1449061550,
+    "wof:lastmodified":1466310808,
     "wof:name":"Lake Road Medical Centre Ltd",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "specialists"
     ]
 },
-  "bbox": [175.265244,-37.786079,175.265244,-37.786079],
+  "bbox": [
+    175.265244,
+    -37.786079,
+    175.265244,
+    -37.786079
+],
   "geometry": {"coordinates":[175.265244,-37.786079],"type":"Point"}
 }

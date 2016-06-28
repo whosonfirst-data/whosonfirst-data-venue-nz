@@ -2,13 +2,14 @@
   "id": 203133579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.713272,-41.30299,174.713272,-41.30299",
     "geom:latitude":-41.30299,
     "geom:longitude":174.713272,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"235 South Karori Rd Karori ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203133579,
-    "wof:lastmodified":1449026513,
+    "wof:lastmodified":1466310781,
     "wof:name":"Karori Boarding Cattery",
     "wof:parent_id":85781743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "kennel"
     ]
 },
-  "bbox": [174.713272,-41.30299,174.713272,-41.30299],
-  "geometry": {"coordinates":[174.713272,-41.30299],"type":"Point"}
+  "bbox": [
+    174.713272,
+    -41.30299,
+    174.713272,
+    -41.30299
+],
+  "geometry": {"coordinates":[174.71327199999999,-41.30299],"type":"Point"}
 }

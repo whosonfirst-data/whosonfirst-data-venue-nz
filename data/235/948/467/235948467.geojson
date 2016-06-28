@@ -2,13 +2,14 @@
   "id": 235948467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.855072,-36.877892,174.855072,-36.877892",
     "geom:latitude":-36.877892,
     "geom:longitude":174.855072,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Mayfair Pl Glen Innes ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":235948467,
-    "wof:lastmodified":1449008528,
+    "wof:lastmodified":1466310906,
     "wof:name":"Regent Fisheries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "sea"
     ]
 },
-  "bbox": [174.855072,-36.877892,174.855072,-36.877892],
-  "geometry": {"coordinates":[174.855072,-36.877892],"type":"Point"}
+  "bbox": [
+    174.855072,
+    -36.877892,
+    174.855072,
+    -36.877892
+],
+  "geometry": {"coordinates":[174.85507200000001,-36.877892],"type":"Point"}
 }

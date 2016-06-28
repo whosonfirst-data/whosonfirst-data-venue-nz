@@ -2,13 +2,14 @@
   "id": 202726887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.982224,-37.963379,176.982224,-37.963379",
     "geom:latitude":-37.963379,
     "geom:longitude":176.982224,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"95 King St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202726887,
-    "wof:lastmodified":1449061826,
+    "wof:lastmodified":1466312234,
     "wof:name":"HealthCare NZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "garden"
     ]
 },
-  "bbox": [176.982224,-37.963379,176.982224,-37.963379],
+  "bbox": [
+    176.982224,
+    -37.963379,
+    176.982224,
+    -37.963379
+],
   "geometry": {"coordinates":[176.982224,-37.963379],"type":"Point"}
 }

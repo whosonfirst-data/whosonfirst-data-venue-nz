@@ -2,13 +2,14 @@
   "id": 185606509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.743027,-36.846432,174.743027,-36.846432",
     "geom:latitude":-36.846432,
     "geom:longitude":174.743027,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Jervois Rd Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185606509,
-    "wof:lastmodified":1449006861,
+    "wof:lastmodified":1466310731,
     "wof:name":"Letham Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.743027,-36.846432,174.743027,-36.846432],
-  "geometry": {"coordinates":[174.743027,-36.846432],"type":"Point"}
+  "bbox": [
+    174.743027,
+    -36.846432,
+    174.743027,
+    -36.846432
+],
+  "geometry": {"coordinates":[174.74302700000001,-36.846432],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203222749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.777267,-36.865459,174.777267,-36.865459",
     "geom:latitude":-36.865459,
     "geom:longitude":174.777267,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"139 Carlton Gore Rd Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203222749,
-    "wof:lastmodified":1449026245,
+    "wof:lastmodified":1466311574,
     "wof:name":"Lead A Design Enterprise Company Ltd",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.777267,-36.865459,174.777267,-36.865459],
-  "geometry": {"coordinates":[174.777267,-36.865459],"type":"Point"}
+  "bbox": [
+    174.777267,
+    -36.865459,
+    174.777267,
+    -36.865459
+],
+  "geometry": {"coordinates":[174.77726699999999,-36.865459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219561347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.254013,-38.137093,176.254013,-38.137093",
     "geom:latitude":-38.137093,
     "geom:longitude":176.254013,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1222 Fenton St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219561347,
-    "wof:lastmodified":1449072902,
+    "wof:lastmodified":1466312579,
     "wof:name":"Link Low Cost Rentals",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"
     ]
 },
-  "bbox": [176.254013,-38.137093,176.254013,-38.137093],
-  "geometry": {"coordinates":[176.254013,-38.137093],"type":"Point"}
+  "bbox": [
+    176.254013,
+    -38.137093,
+    176.254013,
+    -38.137093
+],
+  "geometry": {"coordinates":[176.25401299999999,-38.137093],"type":"Point"}
 }

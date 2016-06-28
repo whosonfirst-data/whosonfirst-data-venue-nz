@@ -2,13 +2,14 @@
   "id": 203085581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.621445,-40.350346,175.621445,-40.350346",
     "geom:latitude":-40.350346,
     "geom:longitude":175.621445,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"258 Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203085581,
-    "wof:lastmodified":1449025390,
+    "wof:lastmodified":1466311876,
     "wof:name":"Drug-Arm Palmerston North",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garden"
     ]
 },
-  "bbox": [175.621445,-40.350346,175.621445,-40.350346],
-  "geometry": {"coordinates":[175.621445,-40.350346],"type":"Point"}
+  "bbox": [
+    175.621445,
+    -40.350346,
+    175.621445,
+    -40.350346
+],
+  "geometry": {"coordinates":[175.62144499999999,-40.350346],"type":"Point"}
 }

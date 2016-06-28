@@ -2,13 +2,14 @@
   "id": 219820133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.75946,-36.865955,174.75946,-36.865955",
     "geom:latitude":-36.865955,
     "geom:longitude":174.75946,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 New North Rd Eden Terrace ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219820133,
-    "wof:lastmodified":1449072207,
+    "wof:lastmodified":1466313133,
     "wof:name":"Pedders Suspension Ltd",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alignment"
     ]
 },
-  "bbox": [174.75946,-36.865955,174.75946,-36.865955],
-  "geometry": {"coordinates":[174.75946,-36.865955],"type":"Point"}
+  "bbox": [
+    174.75946,
+    -36.865955,
+    174.75946,
+    -36.865955
+],
+  "geometry": {"coordinates":[174.75945999999999,-36.865955],"type":"Point"}
 }

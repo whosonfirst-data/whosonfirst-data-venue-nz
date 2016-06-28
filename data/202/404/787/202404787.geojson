@@ -2,13 +2,14 @@
   "id": 202404787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.826431,-36.969776,174.826431,-36.969776",
     "geom:latitude":-36.969776,
     "geom:longitude":174.826431,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Buckland Rd Mangere East ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202404787,
-    "wof:lastmodified":1449061770,
+    "wof:lastmodified":1466311138,
     "wof:name":"ParkHaven Medical Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.826431,-36.969776,174.826431,-36.969776],
-  "geometry": {"coordinates":[174.826431,-36.969776],"type":"Point"}
+  "bbox": [
+    174.826431,
+    -36.969776,
+    174.826431,
+    -36.969776
+],
+  "geometry": {"coordinates":[174.82643100000001,-36.969776],"type":"Point"}
 }

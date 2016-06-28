@@ -2,13 +2,14 @@
   "id": 186409637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.624313,-40.33078,175.624313,-40.33078",
     "geom:latitude":-40.33078,
     "geom:longitude":175.624313,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Malden St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186409637,
-    "wof:lastmodified":1449051476,
+    "wof:lastmodified":1466312630,
     "wof:name":"Iplex Pipelines NZ Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "goods"
     ]
 },
-  "bbox": [175.624313,-40.33078,175.624313,-40.33078],
+  "bbox": [
+    175.624313,
+    -40.33078,
+    175.624313,
+    -40.33078
+],
   "geometry": {"coordinates":[175.624313,-40.33078],"type":"Point"}
 }

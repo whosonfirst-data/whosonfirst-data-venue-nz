@@ -2,13 +2,14 @@
   "id": 202702141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.503967,-39.752068,174.503967,-39.752068",
     "geom:latitude":-39.752068,
     "geom:longitude":174.503967,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Lower Kaharoa Rd ",
     "sg:city":"Patea",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202702141,
-    "wof:lastmodified":1449061384,
+    "wof:lastmodified":1466312119,
     "wof:name":"Wai-O-Turi-Te-Kohanga Reo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "children"
     ]
 },
-  "bbox": [174.503967,-39.752068,174.503967,-39.752068],
-  "geometry": {"coordinates":[174.503967,-39.752068],"type":"Point"}
+  "bbox": [
+    174.503967,
+    -39.752068,
+    174.503967,
+    -39.752068
+],
+  "geometry": {"coordinates":[174.50396699999999,-39.752068],"type":"Point"}
 }

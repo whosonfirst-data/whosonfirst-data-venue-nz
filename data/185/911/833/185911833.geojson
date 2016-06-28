@@ -2,13 +2,14 @@
   "id": 185911833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.255249,-38.880814,175.255249,-38.880814",
     "geom:latitude":-38.880814,
     "geom:longitude":175.255249,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Bruce Rd ",
     "sg:city":"Taumarunui",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185911833,
-    "wof:lastmodified":1449007969,
+    "wof:lastmodified":1466311949,
     "wof:name":"Whakapapa Ski Area",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sports"
     ]
 },
-  "bbox": [175.255249,-38.880814,175.255249,-38.880814],
-  "geometry": {"coordinates":[175.255249,-38.880814],"type":"Point"}
+  "bbox": [
+    175.255249,
+    -38.880814,
+    175.255249,
+    -38.880814
+],
+  "geometry": {"coordinates":[175.25524899999999,-38.880814],"type":"Point"}
 }

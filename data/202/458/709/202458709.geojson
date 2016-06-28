@@ -2,13 +2,14 @@
   "id": 202458709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.264694,-40.633579,175.264694,-40.633579",
     "geom:latitude":-40.633579,
     "geom:longitude":175.264694,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bruce Rd ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202458709,
-    "wof:lastmodified":1449061900,
+    "wof:lastmodified":1466311823,
     "wof:name":"Care Craft",
     "wof:parent_id":85782865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "aid"
     ]
 },
-  "bbox": [175.264694,-40.633579,175.264694,-40.633579],
-  "geometry": {"coordinates":[175.264694,-40.633579],"type":"Point"}
+  "bbox": [
+    175.264694,
+    -40.633579,
+    175.264694,
+    -40.633579
+],
+  "geometry": {"coordinates":[175.26469399999999,-40.633579],"type":"Point"}
 }

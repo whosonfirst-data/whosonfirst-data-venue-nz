@@ -2,13 +2,14 @@
   "id": 219979651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.568542,-40.224361,175.568542,-40.224361",
     "geom:latitude":-40.224361,
     "geom:longitude":175.568542,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Covering Feilding, Palmerston North & Marton 53-55, Manchester St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219979651,
-    "wof:lastmodified":1449072883,
+    "wof:lastmodified":1466313132,
     "wof:name":"AllanMcNeill",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "finance"
     ]
 },
-  "bbox": [175.568542,-40.224361,175.568542,-40.224361],
-  "geometry": {"coordinates":[175.568542,-40.224361],"type":"Point"}
+  "bbox": [
+    175.568542,
+    -40.224361,
+    175.568542,
+    -40.224361
+],
+  "geometry": {"coordinates":[175.56854200000001,-40.224361],"type":"Point"}
 }

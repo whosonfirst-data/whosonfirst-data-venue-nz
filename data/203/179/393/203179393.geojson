@@ -2,13 +2,14 @@
   "id": 203179393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.500961,-45.896103,170.500961,-45.896103",
     "geom:latitude":-45.896103,
     "geom:longitude":170.500961,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"278 B King Edward St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203179393,
-    "wof:lastmodified":1449026672,
+    "wof:lastmodified":1466311178,
     "wof:name":"South Laundry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fabric"
     ]
 },
-  "bbox": [170.500961,-45.896103,170.500961,-45.896103],
-  "geometry": {"coordinates":[170.500961,-45.896103],"type":"Point"}
+  "bbox": [
+    170.500961,
+    -45.896103,
+    170.500961,
+    -45.896103
+],
+  "geometry": {"coordinates":[170.50096099999999,-45.896103],"type":"Point"}
 }

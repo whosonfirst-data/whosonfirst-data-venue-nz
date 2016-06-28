@@ -2,13 +2,14 @@
   "id": 185734825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.098938,-45.129498,170.098938,-45.129498",
     "geom:latitude":-45.129498,
     "geom:longitude":170.098938,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Charlemont St ",
     "sg:city":"Ranfurly",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185734825,
-    "wof:lastmodified":1449008017,
+    "wof:lastmodified":1466310798,
     "wof:name":"NTP Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "entertainment"
     ]
 },
-  "bbox": [170.098938,-45.129498,170.098938,-45.129498],
+  "bbox": [
+    170.098938,
+    -45.129498,
+    170.098938,
+    -45.129498
+],
   "geometry": {"coordinates":[170.098938,-45.129498],"type":"Point"}
 }

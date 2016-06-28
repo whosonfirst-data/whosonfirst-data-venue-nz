@@ -2,13 +2,14 @@
   "id": 169606875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.351875,40.393398,-91.351875,40.393398",
     "geom:latitude":40.393398,
     "geom:longitude":-91.351875,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Gate 5, Tristram St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169606875,
-    "wof:lastmodified":1449033203,
+    "wof:lastmodified":1466311693,
     "wof:name":"Bennetts Bookshops",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.351875,40.393398,-91.351875,40.393398],
-  "geometry": {"coordinates":[-91.351875,40.393398],"type":"Point"}
+  "bbox": [
+    -91.351875,
+    40.393398,
+    -91.351875,
+    40.393398
+],
+  "geometry": {"coordinates":[-91.35187500000001,40.393398],"type":"Point"}
 }

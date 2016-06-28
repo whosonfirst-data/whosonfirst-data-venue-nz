@@ -2,13 +2,14 @@
   "id": 202620115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.805252,-36.900246,174.805252,-36.900246",
     "geom:latitude":-36.900246,
     "geom:longitude":174.805252,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"640 Gt South Rd Ellerslie ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202620115,
-    "wof:lastmodified":1449062433,
+    "wof:lastmodified":1466311679,
     "wof:name":"Dempsey Morton",
     "wof:parent_id":85782385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [174.805252,-36.900246,174.805252,-36.900246],
+  "bbox": [
+    174.805252,
+    -36.900246,
+    174.805252,
+    -36.900246
+],
   "geometry": {"coordinates":[174.805252,-36.900246],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219316017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.613358,-40.350739,175.613358,-40.350739",
     "geom:latitude":-40.350739,
     "geom:longitude":175.613358,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Grey St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219316017,
-    "wof:lastmodified":1449072778,
+    "wof:lastmodified":1466311072,
     "wof:name":"Peppertree Youth Hostel - Backpackers",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.613358,-40.350739,175.613358,-40.350739],
-  "geometry": {"coordinates":[175.613358,-40.350739],"type":"Point"}
+  "bbox": [
+    175.613358,
+    -40.350739,
+    175.613358,
+    -40.350739
+],
+  "geometry": {"coordinates":[175.61335800000001,-40.350739],"type":"Point"}
 }

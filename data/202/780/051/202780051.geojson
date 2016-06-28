@@ -2,13 +2,14 @@
   "id": 202780051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.626984,-45.041977,168.626984,-45.041977",
     "geom:latitude":-45.041977,
     "geom:longitude":168.626984,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"233 Fernhill Rd ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202780051,
-    "wof:lastmodified":1449062005,
+    "wof:lastmodified":1466312483,
     "wof:name":"Yeo Contracting",
     "wof:parent_id":85781459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "garage"
     ]
 },
-  "bbox": [168.626984,-45.041977,168.626984,-45.041977],
-  "geometry": {"coordinates":[168.626984,-45.041977],"type":"Point"}
+  "bbox": [
+    168.626984,
+    -45.041977,
+    168.626984,
+    -45.041977
+],
+  "geometry": {"coordinates":[168.62698399999999,-45.041977],"type":"Point"}
 }

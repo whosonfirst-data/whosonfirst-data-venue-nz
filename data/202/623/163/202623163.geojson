@@ -2,13 +2,14 @@
   "id": 202623163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.050522,-44.72366,171.050522,-44.72366",
     "geom:latitude":-44.72366,
     "geom:longitude":171.050522,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Cashel St ",
     "sg:city":"Waimate",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":202623163,
-    "wof:lastmodified":1449061876,
+    "wof:lastmodified":1466311705,
     "wof:name":"Greenlaw & Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "related"
     ]
 },
-  "bbox": [171.050522,-44.72366,171.050522,-44.72366],
+  "bbox": [
+    171.050522,
+    -44.72366,
+    171.050522,
+    -44.72366
+],
   "geometry": {"coordinates":[171.050522,-44.72366],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169750939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.057587,-40.87534,175.057587,-40.87534",
     "geom:latitude":-40.87534,
     "geom:longitude":175.057587,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Ngaio Rd ",
     "sg:city":"Waikanae",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169750939,
-    "wof:lastmodified":1449034672,
+    "wof:lastmodified":1466311273,
     "wof:name":"Woolworths (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.057587,-40.87534,175.057587,-40.87534],
-  "geometry": {"coordinates":[175.057587,-40.87534],"type":"Point"}
+  "bbox": [
+    175.057587,
+    -40.87534,
+    175.057587,
+    -40.87534
+],
+  "geometry": {"coordinates":[175.05758700000001,-40.87534],"type":"Point"}
 }

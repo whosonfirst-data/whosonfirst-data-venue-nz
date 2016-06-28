@@ -2,13 +2,14 @@
   "id": 186160163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.758606,-36.894669,174.758606,-36.894669",
     "geom:latitude":-36.894669,
     "geom:longitude":174.758606,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"722 Mt Eden Rd Mt Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186160163,
-    "wof:lastmodified":1449052580,
+    "wof:lastmodified":1466311075,
     "wof:name":"CC (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.758606,-36.894669,174.758606,-36.894669],
-  "geometry": {"coordinates":[174.758606,-36.894669],"type":"Point"}
+  "bbox": [
+    174.758606,
+    -36.894669,
+    174.758606,
+    -36.894669
+],
+  "geometry": {"coordinates":[174.75860599999999,-36.894669],"type":"Point"}
 }

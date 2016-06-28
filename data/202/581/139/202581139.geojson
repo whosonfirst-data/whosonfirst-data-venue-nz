@@ -2,13 +2,14 @@
   "id": 202581139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.838791,-36.893795,174.838791,-36.893795",
     "geom:latitude":-36.893795,
     "geom:longitude":174.838791,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 B Lunn Ave Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202581139,
-    "wof:lastmodified":1449060651,
+    "wof:lastmodified":1466311361,
     "wof:name":"Creative Collections Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.838791,-36.893795,174.838791,-36.893795],
-  "geometry": {"coordinates":[174.838791,-36.893795],"type":"Point"}
+  "bbox": [
+    174.838791,
+    -36.893795,
+    174.838791,
+    -36.893795
+],
+  "geometry": {"coordinates":[174.83879099999999,-36.893795],"type":"Point"}
 }

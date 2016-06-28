@@ -2,13 +2,14 @@
   "id": 185670635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.956741,-38.188862,176.956741,-38.188862",
     "geom:latitude":-38.188862,
     "geom:longitude":176.956741,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Auckland, Bay Of Plenty",
     "sg:city":"Waikato",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":185670635,
-    "wof:lastmodified":1449006847,
+    "wof:lastmodified":1466311760,
     "wof:name":"Cater New Zealand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "leisure"
     ]
 },
-  "bbox": [176.956741,-38.188862,176.956741,-38.188862],
-  "geometry": {"coordinates":[176.956741,-38.188862],"type":"Point"}
+  "bbox": [
+    176.956741,
+    -38.188862,
+    176.956741,
+    -38.188862
+],
+  "geometry": {"coordinates":[176.95674099999999,-38.188862],"type":"Point"}
 }

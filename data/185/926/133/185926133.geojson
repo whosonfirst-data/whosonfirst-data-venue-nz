@@ -2,13 +2,14 @@
   "id": 185926133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.738083,-43.530979,172.738083,-43.530979",
     "geom:latitude":-43.530979,
     "geom:longitude":172.738083,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Pine Ave South New Brighton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185926133,
-    "wof:lastmodified":1449007150,
+    "wof:lastmodified":1466312111,
     "wof:name":"McCracken's Sportswear & Goods",
     "wof:parent_id":85778895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sports"
     ]
 },
-  "bbox": [172.738083,-43.530979,172.738083,-43.530979],
-  "geometry": {"coordinates":[172.738083,-43.530979],"type":"Point"}
+  "bbox": [
+    172.738083,
+    -43.530979,
+    172.738083,
+    -43.530979
+],
+  "geometry": {"coordinates":[172.73808299999999,-43.530979],"type":"Point"}
 }

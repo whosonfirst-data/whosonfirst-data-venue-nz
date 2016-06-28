@@ -2,13 +2,14 @@
   "id": 203313877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.641708,-43.545677,172.641708,-43.545677",
     "geom:latitude":-43.545677,
     "geom:longitude":172.641708,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Coleridge St ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203313877,
-    "wof:lastmodified":1449025011,
+    "wof:lastmodified":1466312282,
     "wof:name":"Plains Leather Company Ltd",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "suede"
     ]
 },
-  "bbox": [172.641708,-43.545677,172.641708,-43.545677],
-  "geometry": {"coordinates":[172.641708,-43.545677],"type":"Point"}
+  "bbox": [
+    172.641708,
+    -43.545677,
+    172.641708,
+    -43.545677
+],
+  "geometry": {"coordinates":[172.64170799999999,-43.545677],"type":"Point"}
 }

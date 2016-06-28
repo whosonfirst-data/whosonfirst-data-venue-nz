@@ -2,13 +2,14 @@
   "id": 202746191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.58696,-43.537254,172.58696,-43.537254",
     "geom:latitude":-43.537254,
     "geom:longitude":172.58696,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Wharenui Rd Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202746191,
-    "wof:lastmodified":1449060089,
+    "wof:lastmodified":1466312398,
     "wof:name":"Mayfair Rest Home",
     "wof:parent_id":85778457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "care"
     ]
 },
-  "bbox": [172.58696,-43.537254,172.58696,-43.537254],
+  "bbox": [
+    172.58696,
+    -43.537254,
+    172.58696,
+    -43.537254
+],
   "geometry": {"coordinates":[172.58696,-43.537254],"type":"Point"}
 }

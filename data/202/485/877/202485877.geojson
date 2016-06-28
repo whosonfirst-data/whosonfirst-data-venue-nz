@@ -2,13 +2,14 @@
   "id": 202485877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.60141,-36.863888,174.60141,-36.863888",
     "geom:latitude":-36.863888,
     "geom:longitude":174.60141,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"443 Swanson Rd Ranui ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202485877,
-    "wof:lastmodified":1449061663,
+    "wof:lastmodified":1466310553,
     "wof:name":"Ranui Pharmacy Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.60141,-36.863888,174.60141,-36.863888],
-  "geometry": {"coordinates":[174.60141,-36.863888],"type":"Point"}
+  "bbox": [
+    174.60141,
+    -36.863888,
+    174.60141,
+    -36.863888
+],
+  "geometry": {"coordinates":[174.60140999999999,-36.863888],"type":"Point"}
 }

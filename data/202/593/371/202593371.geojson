@@ -2,13 +2,14 @@
   "id": 202593371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.76619,-36.846088,174.76619,-36.846088",
     "geom:latitude":-36.846088,
     "geom:longitude":174.76619,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 18 Queens Arcade Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202593371,
-    "wof:lastmodified":1449061768,
+    "wof:lastmodified":1466311460,
     "wof:name":"Applewood The Homeware Company",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.76619,-36.846088,174.76619,-36.846088],
-  "geometry": {"coordinates":[174.76619,-36.846088],"type":"Point"}
+  "bbox": [
+    174.76619,
+    -36.846088,
+    174.76619,
+    -36.846088
+],
+  "geometry": {"coordinates":[174.76618999999999,-36.846088],"type":"Point"}
 }

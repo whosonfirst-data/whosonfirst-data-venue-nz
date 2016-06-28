@@ -2,13 +2,14 @@
   "id": 202379605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.641449,-42.923382,172.641449,-42.923382",
     "geom:latitude":-42.923382,
     "geom:longitude":172.641449,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"559 Gilberts Rd R D 1 ",
     "sg:city":"Hawarden",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202379605,
-    "wof:lastmodified":1449061591,
+    "wof:lastmodified":1466310562,
     "wof:name":"Maria Kirkman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "beauty"
     ]
 },
-  "bbox": [172.641449,-42.923382,172.641449,-42.923382],
-  "geometry": {"coordinates":[172.641449,-42.923382],"type":"Point"}
+  "bbox": [
+    172.641449,
+    -42.923382,
+    172.641449,
+    -42.923382
+],
+  "geometry": {"coordinates":[172.64144899999999,-42.923382],"type":"Point"}
 }

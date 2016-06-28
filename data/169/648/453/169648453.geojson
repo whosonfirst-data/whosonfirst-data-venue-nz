@@ -2,13 +2,14 @@
   "id": 169648453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.327255,-38.009495,175.327255,-38.009495",
     "geom:latitude":-38.009495,
     "geom:longitude":175.327255,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5-7 George St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169648453,
-    "wof:lastmodified":1449033586,
+    "wof:lastmodified":1466310612,
     "wof:name":"The Warehouse Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.327255,-38.009495,175.327255,-38.009495],
-  "geometry": {"coordinates":[175.327255,-38.009495],"type":"Point"}
+  "bbox": [
+    175.327255,
+    -38.009495,
+    175.327255,
+    -38.009495
+],
+  "geometry": {"coordinates":[175.32725500000001,-38.009495],"type":"Point"}
 }

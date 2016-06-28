@@ -2,13 +2,14 @@
   "id": 219964117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.185837,-37.640865,176.185837,-37.640865",
     "geom:latitude":-37.640865,
     "geom:longitude":176.185837,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Pitau Rd Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219964117,
-    "wof:lastmodified":1449073061,
+    "wof:lastmodified":1466313120,
     "wof:name":"McKay Paul",
     "wof:parent_id":85773039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.185837,-37.640865,176.185837,-37.640865],
-  "geometry": {"coordinates":[176.185837,-37.640865],"type":"Point"}
+  "bbox": [
+    176.185837,
+    -37.640865,
+    176.185837,
+    -37.640865
+],
+  "geometry": {"coordinates":[176.18583699999999,-37.640865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203307799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.632248,-43.545986,172.632248,-43.545986",
     "geom:latitude":-43.545986,
     "geom:longitude":172.632248,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Orbell St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203307799,
-    "wof:lastmodified":1449025410,
+    "wof:lastmodified":1466312147,
     "wof:name":"Finespun Wools NZ Ltd",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [172.632248,-43.545986,172.632248,-43.545986],
+  "bbox": [
+    172.632248,
+    -43.545986,
+    172.632248,
+    -43.545986
+],
   "geometry": {"coordinates":[172.632248,-43.545986],"type":"Point"}
 }

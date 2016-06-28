@@ -2,13 +2,14 @@
   "id": 185809223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.743942,-36.847527,174.743942,-36.847527",
     "geom:latitude":-36.847527,
     "geom:longitude":174.743942,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Ponsonby Rd Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185809223,
-    "wof:lastmodified":1449007939,
+    "wof:lastmodified":1466311282,
     "wof:name":"Kodak Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "developing"
     ]
 },
-  "bbox": [174.743942,-36.847527,174.743942,-36.847527],
+  "bbox": [
+    174.743942,
+    -36.847527,
+    174.743942,
+    -36.847527
+],
   "geometry": {"coordinates":[174.743942,-36.847527],"type":"Point"}
 }

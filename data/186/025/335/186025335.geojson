@@ -2,13 +2,14 @@
   "id": 186025335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.957352,-37.076378,174.957352,-37.076378",
     "geom:latitude":-37.076378,
     "geom:longitude":174.957352,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Boundary Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186025335,
-    "wof:lastmodified":1449052566,
+    "wof:lastmodified":1466310999,
     "wof:name":"Gritblast Services Ltd",
     "wof:parent_id":85781093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.957352,-37.076378,174.957352,-37.076378],
-  "geometry": {"coordinates":[174.957352,-37.076378],"type":"Point"}
+  "bbox": [
+    174.957352,
+    -37.076378,
+    174.957352,
+    -37.076378
+],
+  "geometry": {"coordinates":[174.95735199999999,-37.076378],"type":"Point"}
 }

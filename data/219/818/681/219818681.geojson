@@ -2,13 +2,14 @@
   "id": 219818681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.341782,-46.415653,168.341782,-46.415653",
     "geom:latitude":-46.415653,
     "geom:longitude":168.341782,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"220 Mersey St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219818681,
-    "wof:lastmodified":1449072108,
+    "wof:lastmodified":1466313132,
     "wof:name":"Kemp's Chassis & Panel Repairs",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alignment"
     ]
 },
-  "bbox": [168.341782,-46.415653,168.341782,-46.415653],
-  "geometry": {"coordinates":[168.341782,-46.415653],"type":"Point"}
+  "bbox": [
+    168.341782,
+    -46.415653,
+    168.341782,
+    -46.415653
+],
+  "geometry": {"coordinates":[168.34178199999999,-46.415653],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185898459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.665298,-40.942036,175.665298,-40.942036",
     "geom:latitude":-40.942036,
     "geom:longitude":175.665298,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Oxford St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185898459,
-    "wof:lastmodified":1449006570,
+    "wof:lastmodified":1466311848,
     "wof:name":"Mahunga Golf Club Links",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.665298,-40.942036,175.665298,-40.942036],
-  "geometry": {"coordinates":[175.665298,-40.942036],"type":"Point"}
+  "bbox": [
+    175.665298,
+    -40.942036,
+    175.665298,
+    -40.942036
+],
+  "geometry": {"coordinates":[175.66529800000001,-40.942036],"type":"Point"}
 }

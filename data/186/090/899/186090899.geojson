@@ -2,13 +2,14 @@
   "id": 186090899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.585068,-40.351006,175.585068,-40.351006",
     "geom:latitude":-40.351006,
     "geom:longitude":175.585068,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Botanical Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186090899,
-    "wof:lastmodified":1449052467,
+    "wof:lastmodified":1466311925,
     "wof:name":"Industrial Software and Automation Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.585068,-40.351006,175.585068,-40.351006],
-  "geometry": {"coordinates":[175.585068,-40.351006],"type":"Point"}
+  "bbox": [
+    175.585068,
+    -40.351006,
+    175.585068,
+    -40.351006
+],
+  "geometry": {"coordinates":[175.58506800000001,-40.351006],"type":"Point"}
 }

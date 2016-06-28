@@ -2,13 +2,14 @@
   "id": 219754149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.23233,-38.123581,176.23233,-38.123581",
     "geom:latitude":-38.123581,
     "geom:longitude":176.23233,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Monokia St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219754149,
-    "wof:lastmodified":1449072694,
+    "wof:lastmodified":1466312995,
     "wof:name":"Ashwood Automatics Ltd",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "servicing"
     ]
 },
-  "bbox": [176.23233,-38.123581,176.23233,-38.123581],
-  "geometry": {"coordinates":[176.23233,-38.123581],"type":"Point"}
+  "bbox": [
+    176.23233,
+    -38.123581,
+    176.23233,
+    -38.123581
+],
+  "geometry": {"coordinates":[176.23232999999999,-38.123581],"type":"Point"}
 }

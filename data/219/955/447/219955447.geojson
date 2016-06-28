@@ -2,13 +2,14 @@
   "id": 219955447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.501053,-45.894688,170.501053,-45.894688",
     "geom:latitude":-45.894688,
     "geom:longitude":170.501053,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 McBride St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219955447,
-    "wof:lastmodified":1449072841,
+    "wof:lastmodified":1466313115,
     "wof:name":"South Dunedin Veterinary Clinic",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.501053,-45.894688,170.501053,-45.894688],
-  "geometry": {"coordinates":[170.501053,-45.894688],"type":"Point"}
+  "bbox": [
+    170.501053,
+    -45.894688,
+    170.501053,
+    -45.894688
+],
+  "geometry": {"coordinates":[170.50105300000001,-45.894688],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219744733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.532776,-38.360298,177.532776,-38.360298",
     "geom:latitude":-38.360298,
     "geom:longitude":177.532776,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Kura St ",
     "sg:city":"Matawai",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219744733,
-    "wof:lastmodified":1449071663,
+    "wof:lastmodified":1466312901,
     "wof:name":"Dave's Workshop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "servicing"
     ]
 },
-  "bbox": [177.532776,-38.360298,177.532776,-38.360298],
-  "geometry": {"coordinates":[177.532776,-38.360298],"type":"Point"}
+  "bbox": [
+    177.532776,
+    -38.360298,
+    177.532776,
+    -38.360298
+],
+  "geometry": {"coordinates":[177.53277600000001,-38.360298],"type":"Point"}
 }

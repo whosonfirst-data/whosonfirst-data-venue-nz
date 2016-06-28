@@ -2,13 +2,14 @@
   "id": 235966823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.912079,-37.584457,175.912079,-37.584457",
     "geom:latitude":-37.584457,
     "geom:longitude":175.912079,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 2 ",
     "sg:city":"Katikati",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":235966823,
-    "wof:lastmodified":1449008283,
+    "wof:lastmodified":1466311132,
     "wof:name":"Hades Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "brasserie"
     ]
 },
-  "bbox": [175.912079,-37.584457,175.912079,-37.584457],
-  "geometry": {"coordinates":[175.912079,-37.584457],"type":"Point"}
+  "bbox": [
+    175.912079,
+    -37.584457,
+    175.912079,
+    -37.584457
+],
+  "geometry": {"coordinates":[175.91207900000001,-37.584457],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186429005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.690277,-36.906017,174.690277,-36.906017",
     "geom:latitude":-36.906017,
     "geom:longitude":174.690277,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Portage Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186429005,
-    "wof:lastmodified":1449052894,
+    "wof:lastmodified":1466312670,
     "wof:name":"Axent Audio Products Ltd",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.690277,-36.906017,174.690277,-36.906017],
-  "geometry": {"coordinates":[174.690277,-36.906017],"type":"Point"}
+  "bbox": [
+    174.690277,
+    -36.906017,
+    174.690277,
+    -36.906017
+],
+  "geometry": {"coordinates":[174.69027700000001,-36.906017],"type":"Point"}
 }

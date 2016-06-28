@@ -2,13 +2,14 @@
   "id": 202801633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.877213,-36.959141,174.877213,-36.959141",
     "geom:latitude":-36.959141,
     "geom:longitude":174.877213,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Lovegrove Cre Otara ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202801633,
-    "wof:lastmodified":1449062225,
+    "wof:lastmodified":1466312539,
     "wof:name":"J T Pokia & Sons Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "handrail"
     ]
 },
-  "bbox": [174.877213,-36.959141,174.877213,-36.959141],
-  "geometry": {"coordinates":[174.877213,-36.959141],"type":"Point"}
+  "bbox": [
+    174.877213,
+    -36.959141,
+    174.877213,
+    -36.959141
+],
+  "geometry": {"coordinates":[174.87721300000001,-36.959141],"type":"Point"}
 }

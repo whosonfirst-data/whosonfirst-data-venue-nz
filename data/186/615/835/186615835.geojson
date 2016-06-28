@@ -2,13 +2,14 @@
   "id": 186615835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.322021,-35.724442,174.322021,-35.724442",
     "geom:latitude":-35.724442,
     "geom:longitude":174.322021,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 404 4th Floor 35 Robert St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186615835,
-    "wof:lastmodified":1449051231,
+    "wof:lastmodified":1466312898,
     "wof:name":"The Yoga Space",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [174.322021,-35.724442,174.322021,-35.724442],
-  "geometry": {"coordinates":[174.322021,-35.724442],"type":"Point"}
+  "bbox": [
+    174.322021,
+    -35.724442,
+    174.322021,
+    -35.724442
+],
+  "geometry": {"coordinates":[174.32202100000001,-35.724442],"type":"Point"}
 }

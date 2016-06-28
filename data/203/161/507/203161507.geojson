@@ -2,13 +2,14 @@
   "id": 203161507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.77227,45.472591,-122.77227,45.472591",
     "geom:latitude":45.472591,
     "geom:longitude":-122.77227,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 95 ",
     "sg:city":"Whitford",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203161507,
-    "wof:lastmodified":1449025661,
+    "wof:lastmodified":1466310999,
     "wof:name":"Venture Pet Travel",
     "wof:parent_id":85857585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pets"
     ]
 },
-  "bbox": [-122.77227,45.472591,-122.77227,45.472591],
-  "geometry": {"coordinates":[-122.77227,45.472591],"type":"Point"}
+  "bbox": [
+    -122.77227,
+    45.472591,
+    -122.77227,
+    45.472591
+],
+  "geometry": {"coordinates":[-122.77227000000001,45.472591],"type":"Point"}
 }

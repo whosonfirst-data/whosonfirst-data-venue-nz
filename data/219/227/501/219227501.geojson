@@ -2,13 +2,14 @@
   "id": 219227501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.055176,-38.690224,176.055176,-38.690224",
     "geom:latitude":-38.690224,
     "geom:longitude":176.055176,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Paenoa Rd ",
     "sg:city":"Taupo",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219227501,
-    "wof:lastmodified":1449071178,
+    "wof:lastmodified":1466311759,
     "wof:name":"Midwood Movers Taupo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.055176,-38.690224,176.055176,-38.690224],
-  "geometry": {"coordinates":[176.055176,-38.690224],"type":"Point"}
+  "bbox": [
+    176.055176,
+    -38.690224,
+    176.055176,
+    -38.690224
+],
+  "geometry": {"coordinates":[176.05517599999999,-38.690224],"type":"Point"}
 }

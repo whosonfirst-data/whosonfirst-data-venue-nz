@@ -2,13 +2,14 @@
   "id": 235976169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.781479,-36.857368,174.781479,-36.857368",
     "geom:latitude":-36.857368,
     "geom:longitude":174.781479,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1 323 Parnell Rd Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235976169,
-    "wof:lastmodified":1449008393,
+    "wof:lastmodified":1466312034,
     "wof:name":"Chocolate Boutique",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cafe"
     ]
 },
-  "bbox": [174.781479,-36.857368,174.781479,-36.857368],
-  "geometry": {"coordinates":[174.781479,-36.857368],"type":"Point"}
+  "bbox": [
+    174.781479,
+    -36.857368,
+    174.781479,
+    -36.857368
+],
+  "geometry": {"coordinates":[174.78147899999999,-36.857368],"type":"Point"}
 }

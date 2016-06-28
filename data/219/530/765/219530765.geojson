@@ -2,13 +2,14 @@
   "id": 219530765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"144.978027,-37.798931,144.978027,-37.798931",
     "geom:latitude":-37.798931,
     "geom:longitude":144.978027,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"First Floor 234 Tristram St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219530765,
-    "wof:lastmodified":1449072259,
+    "wof:lastmodified":1466312318,
     "wof:name":"Patricks Hairdressing",
     "wof:parent_id":85769293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hairdressing"
     ]
 },
-  "bbox": [144.978027,-37.798931,144.978027,-37.798931],
+  "bbox": [
+    144.978027,
+    -37.798931,
+    144.978027,
+    -37.798931
+],
   "geometry": {"coordinates":[144.978027,-37.798931],"type":"Point"}
 }

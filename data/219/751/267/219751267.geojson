@@ -2,13 +2,14 @@
   "id": 219751267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.612808,-40.300068,176.612808,-40.300068",
     "geom:latitude":-40.300068,
     "geom:longitude":176.612808,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Abercromby St Porangahau ",
     "sg:city":"Waipukurau",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219751267,
-    "wof:lastmodified":1449070584,
+    "wof:lastmodified":1466312834,
     "wof:name":"Porangahau Garage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "servicing"
     ]
 },
-  "bbox": [176.612808,-40.300068,176.612808,-40.300068],
+  "bbox": [
+    176.612808,
+    -40.300068,
+    176.612808,
+    -40.300068
+],
   "geometry": {"coordinates":[176.612808,-40.300068],"type":"Point"}
 }

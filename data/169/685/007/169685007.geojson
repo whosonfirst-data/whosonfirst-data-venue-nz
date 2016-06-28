@@ -2,13 +2,14 @@
   "id": 169685007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.263657,-37.786728,175.263657,-37.786728",
     "geom:latitude":-37.786728,
     "geom:longitude":175.263657,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Te Kowhai Rd Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169685007,
-    "wof:lastmodified":1449035887,
+    "wof:lastmodified":1466310800,
     "wof:name":"Superior Rubber Surfaces",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.263657,-37.786728,175.263657,-37.786728],
-  "geometry": {"coordinates":[175.263657,-37.786728],"type":"Point"}
+  "bbox": [
+    175.263657,
+    -37.786728,
+    175.263657,
+    -37.786728
+],
+  "geometry": {"coordinates":[175.26365699999999,-37.786728],"type":"Point"}
 }

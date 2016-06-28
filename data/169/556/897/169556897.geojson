@@ -2,13 +2,14 @@
   "id": 169556897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.995514,-38.665726,177.995514,-38.665726",
     "geom:latitude":-38.665726,
     "geom:longitude":177.995514,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2/26 Parkinson St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169556897,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466310923,
     "wof:name":"Tasman Suppliers Ltd",
     "wof:parent_id":85781855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [177.995514,-38.665726,177.995514,-38.665726],
-  "geometry": {"coordinates":[177.995514,-38.665726],"type":"Point"}
+  "bbox": [
+    177.995514,
+    -38.665726,
+    177.995514,
+    -38.665726
+],
+  "geometry": {"coordinates":[177.99551399999999,-38.665726],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203276049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.763107,-36.848995,174.763107,-36.848995",
     "geom:latitude":-36.848995,
     "geom:longitude":174.763107,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Albert St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203276049,
-    "wof:lastmodified":1449025022,
+    "wof:lastmodified":1466312239,
     "wof:name":"Dress Circle Suit Hire",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.763107,-36.848995,174.763107,-36.848995],
-  "geometry": {"coordinates":[174.763107,-36.848995],"type":"Point"}
+  "bbox": [
+    174.763107,
+    -36.848995,
+    174.763107,
+    -36.848995
+],
+  "geometry": {"coordinates":[174.76310699999999,-36.848995],"type":"Point"}
 }

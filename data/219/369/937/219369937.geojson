@@ -2,13 +2,14 @@
   "id": 219369937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.045853,-38.691833,176.045853,-38.691833",
     "geom:latitude":-38.691833,
     "geom:longitude":176.045853,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Acacia Bay Rd Acacia Bay ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219369937,
-    "wof:lastmodified":1449073726,
+    "wof:lastmodified":1466311498,
     "wof:name":"Horse n Round",
     "wof:parent_id":85781797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [176.045853,-38.691833,176.045853,-38.691833],
-  "geometry": {"coordinates":[176.045853,-38.691833],"type":"Point"}
+  "bbox": [
+    176.045853,
+    -38.691833,
+    176.045853,
+    -38.691833
+],
+  "geometry": {"coordinates":[176.04585299999999,-38.691833],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186119679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.46344,-45.886749,170.46344,-45.886749",
     "geom:latitude":-45.886749,
     "geom:longitude":170.46344,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"510 Kaikorai Valley Rd Kenmure ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186119679,
-    "wof:lastmodified":1449052277,
+    "wof:lastmodified":1466310713,
     "wof:name":"Otago Oil & Filter Distributors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "utilities"
     ]
 },
-  "bbox": [170.46344,-45.886749,170.46344,-45.886749],
-  "geometry": {"coordinates":[170.46344,-45.886749],"type":"Point"}
+  "bbox": [
+    170.46344,
+    -45.886749,
+    170.46344,
+    -45.886749
+],
+  "geometry": {"coordinates":[170.46343999999999,-45.886749],"type":"Point"}
 }

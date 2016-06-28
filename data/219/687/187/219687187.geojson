@@ -2,13 +2,14 @@
   "id": 219687187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.602005,-40.343311,175.602005,-40.343311",
     "geom:latitude":-40.343311,
     "geom:longitude":175.602005,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"550 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219687187,
-    "wof:lastmodified":1449071393,
+    "wof:lastmodified":1466312886,
     "wof:name":"Cartown",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.602005,-40.343311,175.602005,-40.343311],
-  "geometry": {"coordinates":[175.602005,-40.343311],"type":"Point"}
+  "bbox": [
+    175.602005,
+    -40.343311,
+    175.602005,
+    -40.343311
+],
+  "geometry": {"coordinates":[175.60200499999999,-40.343311],"type":"Point"}
 }

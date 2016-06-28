@@ -2,13 +2,14 @@
   "id": 220031267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.924927,-41.205921,174.924927,-41.205921",
     "geom:latitude":-41.205921,
     "geom:longitude":174.924927,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Pilmuir St Epuni ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220031267,
-    "wof:lastmodified":1449074334,
+    "wof:lastmodified":1466311298,
     "wof:name":"Late For Breakfast Ltd",
     "wof:parent_id":85778173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.924927,-41.205921,174.924927,-41.205921],
+  "bbox": [
+    174.924927,
+    -41.205921,
+    174.924927,
+    -41.205921
+],
   "geometry": {"coordinates":[174.924927,-41.205921],"type":"Point"}
 }

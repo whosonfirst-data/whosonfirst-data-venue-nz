@@ -2,13 +2,14 @@
   "id": 202776789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.106964,-38.690418,176.106964,-38.690418",
     "geom:latitude":-38.690418,
     "geom:longitude":176.106964,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Manuka St ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202776789,
-    "wof:lastmodified":1449060678,
+    "wof:lastmodified":1466312478,
     "wof:name":"Garador",
     "wof:parent_id":85781789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "garage"
     ]
 },
-  "bbox": [176.106964,-38.690418,176.106964,-38.690418],
+  "bbox": [
+    176.106964,
+    -38.690418,
+    176.106964,
+    -38.690418
+],
   "geometry": {"coordinates":[176.106964,-38.690418],"type":"Point"}
 }

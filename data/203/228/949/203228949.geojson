@@ -2,13 +2,14 @@
   "id": 203228949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.763184,-36.847679,174.763184,-36.847679",
     "geom:latitude":-36.847679,
     "geom:longitude":174.763184,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8-12 Kingston St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203228949,
-    "wof:lastmodified":1449025503,
+    "wof:lastmodified":1466311633,
     "wof:name":"Eljay NZ Ltd",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [174.763184,-36.847679,174.763184,-36.847679],
+  "bbox": [
+    174.763184,
+    -36.847679,
+    174.763184,
+    -36.847679
+],
   "geometry": {"coordinates":[174.763184,-36.847679],"type":"Point"}
 }

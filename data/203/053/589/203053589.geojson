@@ -2,13 +2,14 @@
   "id": 203053589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.044571,-37.806892,176.044571,-37.806892",
     "geom:latitude":-37.806892,
     "geom:longitude":176.044571,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"506 c McLaren Falls Rd ",
     "sg:city":"Kaimai",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203053589,
-    "wof:lastmodified":1449025293,
+    "wof:lastmodified":1466311561,
     "wof:name":"Kiwi Kerb",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "paving"
     ]
 },
-  "bbox": [176.044571,-37.806892,176.044571,-37.806892],
-  "geometry": {"coordinates":[176.044571,-37.806892],"type":"Point"}
+  "bbox": [
+    176.044571,
+    -37.806892,
+    176.044571,
+    -37.806892
+],
+  "geometry": {"coordinates":[176.04457099999999,-37.806892],"type":"Point"}
 }

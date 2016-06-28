@@ -2,13 +2,14 @@
   "id": 202452141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.85611,-36.940605,174.85611,-36.940605",
     "geom:latitude":-36.940605,
     "geom:longitude":174.85611,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"A5/1066 Great South Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202452141,
-    "wof:lastmodified":1449060704,
+    "wof:lastmodified":1466311765,
     "wof:name":"Direct Optical Supplies (NZ) Ltd",
     "wof:parent_id":85778871,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [174.85611,-36.940605,174.85611,-36.940605],
+  "bbox": [
+    174.85611,
+    -36.940605,
+    174.85611,
+    -36.940605
+],
   "geometry": {"coordinates":[174.85611,-36.940605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185732473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.711761,-36.887554,174.711761,-36.887554",
     "geom:latitude":-36.887554,
     "geom:longitude":174.711761,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"953 New North Rd Mt Albert ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185732473,
-    "wof:lastmodified":1449008275,
+    "wof:lastmodified":1466310785,
     "wof:name":"Civic Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "entertainment"
     ]
 },
-  "bbox": [174.711761,-36.887554,174.711761,-36.887554],
+  "bbox": [
+    174.711761,
+    -36.887554,
+    174.711761,
+    -36.887554
+],
   "geometry": {"coordinates":[174.711761,-36.887554],"type":"Point"}
 }

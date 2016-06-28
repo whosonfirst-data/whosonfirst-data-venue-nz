@@ -2,13 +2,14 @@
   "id": 219605921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.345261,-46.418045,168.345261,-46.418045",
     "geom:latitude":-46.418045,
     "geom:longitude":168.345261,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Tweed St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219605921,
-    "wof:lastmodified":1449072113,
+    "wof:lastmodified":1466312527,
     "wof:name":"Tweed Servicecentre Ltd",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.345261,-46.418045,168.345261,-46.418045],
-  "geometry": {"coordinates":[168.345261,-46.418045],"type":"Point"}
+  "bbox": [
+    168.345261,
+    -46.418045,
+    168.345261,
+    -46.418045
+],
+  "geometry": {"coordinates":[168.34526099999999,-46.418045],"type":"Point"}
 }

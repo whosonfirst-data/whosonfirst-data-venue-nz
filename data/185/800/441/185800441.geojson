@@ -2,13 +2,14 @@
   "id": 185800441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.320267,-35.7262,174.320267,-35.7262",
     "geom:latitude":-35.7262,
     "geom:longitude":174.320267,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Vine St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185800441,
-    "wof:lastmodified":1449006731,
+    "wof:lastmodified":1466311224,
     "wof:name":"One Stop Model & Hobby",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [174.320267,-35.7262,174.320267,-35.7262],
+  "bbox": [
+    174.320267,
+    -35.7262,
+    174.320267,
+    -35.7262
+],
   "geometry": {"coordinates":[174.320267,-35.7262],"type":"Point"}
 }

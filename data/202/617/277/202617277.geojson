@@ -2,13 +2,14 @@
   "id": 202617277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.257019,-37.739288,175.257019,-37.739288",
     "geom:latitude":-37.739288,
     "geom:longitude":175.257019,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 21004 Flagstaff ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202617277,
-    "wof:lastmodified":1449060182,
+    "wof:lastmodified":1466311655,
     "wof:name":"Accounting Online",
     "wof:parent_id":85780897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [175.257019,-37.739288,175.257019,-37.739288],
-  "geometry": {"coordinates":[175.257019,-37.739288],"type":"Point"}
+  "bbox": [
+    175.257019,
+    -37.739288,
+    175.257019,
+    -37.739288
+],
+  "geometry": {"coordinates":[175.25701900000001,-37.739288],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202968489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.785019,-36.86338,174.785019,-36.86338",
     "geom:latitude":-36.86338,
     "geom:longitude":174.785019,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Ayr St Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202968489,
-    "wof:lastmodified":1449060270,
+    "wof:lastmodified":1466313001,
     "wof:name":"Landsmiths Ltd",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.785019,-36.86338,174.785019,-36.86338],
-  "geometry": {"coordinates":[174.785019,-36.86338],"type":"Point"}
+  "bbox": [
+    174.785019,
+    -36.86338,
+    174.785019,
+    -36.86338
+],
+  "geometry": {"coordinates":[174.78501900000001,-36.86338],"type":"Point"}
 }

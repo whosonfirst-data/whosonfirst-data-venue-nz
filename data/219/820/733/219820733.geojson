@@ -2,13 +2,14 @@
   "id": 219820733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.767883,-36.787842,174.767883,-36.787842",
     "geom:latitude":-36.787842,
     "geom:longitude":174.767883,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Barry's Pt Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219820733,
-    "wof:lastmodified":1449072203,
+    "wof:lastmodified":1466313135,
     "wof:name":"Shore Performance Tyres",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "alignment"
     ]
 },
-  "bbox": [174.767883,-36.787842,174.767883,-36.787842],
-  "geometry": {"coordinates":[174.767883,-36.787842],"type":"Point"}
+  "bbox": [
+    174.767883,
+    -36.787842,
+    174.767883,
+    -36.787842
+],
+  "geometry": {"coordinates":[174.76788300000001,-36.787842],"type":"Point"}
 }

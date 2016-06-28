@@ -2,13 +2,14 @@
   "id": 202411153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.939804,-37.058254,174.939804,-37.058254",
     "geom:latitude":-37.058254,
     "geom:longitude":174.939804,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4/69 Great South Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202411153,
-    "wof:lastmodified":1449060216,
+    "wof:lastmodified":1466311361,
     "wof:name":"Rapua Te Oranga Hinengaro Trust",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.939804,-37.058254,174.939804,-37.058254],
-  "geometry": {"coordinates":[174.939804,-37.058254],"type":"Point"}
+  "bbox": [
+    174.939804,
+    -37.058254,
+    174.939804,
+    -37.058254
+],
+  "geometry": {"coordinates":[174.93980400000001,-37.058254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203059769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.453369,-41.224888,175.453369,-41.224888",
     "geom:latitude":-41.224888,
     "geom:longitude":175.453369,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Esther St ",
     "sg:city":"Martinborough",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203059769,
-    "wof:lastmodified":1449025427,
+    "wof:lastmodified":1466311594,
     "wof:name":"Diederich N",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [175.453369,-41.224888,175.453369,-41.224888],
-  "geometry": {"coordinates":[175.453369,-41.224888],"type":"Point"}
+  "bbox": [
+    175.453369,
+    -41.224888,
+    175.453369,
+    -41.224888
+],
+  "geometry": {"coordinates":[175.45336900000001,-41.224888],"type":"Point"}
 }

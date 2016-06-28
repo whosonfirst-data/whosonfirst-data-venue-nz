@@ -2,13 +2,14 @@
   "id": 202560155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.789169,-36.877647,174.789169,-36.877647",
     "geom:latitude":-36.877647,
     "geom:longitude":174.789169,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"747 Remuera Rd Remuera ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202560155,
-    "wof:lastmodified":1449062059,
+    "wof:lastmodified":1466311173,
     "wof:name":"Meadowbank Podiatry & Natural Health Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.789169,-36.877647,174.789169,-36.877647],
-  "geometry": {"coordinates":[174.789169,-36.877647],"type":"Point"}
+  "bbox": [
+    174.789169,
+    -36.877647,
+    174.789169,
+    -36.877647
+],
+  "geometry": {"coordinates":[174.78916899999999,-36.877647],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185787205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"169.653992,-46.453831,169.653992,-46.453831",
     "geom:latitude":-46.453831,
     "geom:longitude":169.653992,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Waikawa Rd ",
     "sg:city":"Owaka",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185787205,
-    "wof:lastmodified":1449007348,
+    "wof:lastmodified":1466311140,
     "wof:name":"Catlin Quilts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hobbies"
     ]
 },
-  "bbox": [169.653992,-46.453831,169.653992,-46.453831],
-  "geometry": {"coordinates":[169.653992,-46.453831],"type":"Point"}
+  "bbox": [
+    169.653992,
+    -46.453831,
+    169.653992,
+    -46.453831
+],
+  "geometry": {"coordinates":[169.65399199999999,-46.453831],"type":"Point"}
 }

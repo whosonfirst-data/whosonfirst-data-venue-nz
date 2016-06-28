@@ -2,13 +2,14 @@
   "id": 235935699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.703522,-43.533791,172.703522,-43.533791",
     "geom:latitude":-43.533791,
     "geom:longitude":172.703522,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Ruru Rd Bromley ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235935699,
-    "wof:lastmodified":1449008534,
+    "wof:lastmodified":1466310686,
     "wof:name":"Canterbury Fish Contractors Ltd",
     "wof:parent_id":85772845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "drink"
     ]
 },
-  "bbox": [172.703522,-43.533791,172.703522,-43.533791],
-  "geometry": {"coordinates":[172.703522,-43.533791],"type":"Point"}
+  "bbox": [
+    172.703522,
+    -43.533791,
+    172.703522,
+    -43.533791
+],
+  "geometry": {"coordinates":[172.70352199999999,-43.533791],"type":"Point"}
 }

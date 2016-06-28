@@ -2,13 +2,14 @@
   "id": 203065957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.652496,-36.948093,174.652496,-36.948093",
     "geom:latitude":-36.948093,
     "geom:longitude":174.652496,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"640 South Titirangi Rd Titirangi ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203065957,
-    "wof:lastmodified":1449026860,
+    "wof:lastmodified":1466311658,
     "wof:name":"Automatico Gate Co",
     "wof:parent_id":85773255,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "outdoor"
     ]
 },
-  "bbox": [174.652496,-36.948093,174.652496,-36.948093],
-  "geometry": {"coordinates":[174.652496,-36.948093],"type":"Point"}
+  "bbox": [
+    174.652496,
+    -36.948093,
+    174.652496,
+    -36.948093
+],
+  "geometry": {"coordinates":[174.65249600000001,-36.948093],"type":"Point"}
 }

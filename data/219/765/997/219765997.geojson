@@ -2,13 +2,14 @@
   "id": 219765997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.816727,-41.244251,174.816727,-41.244251",
     "geom:latitude":-41.244251,
     "geom:longitude":174.816727,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Malvern Rd Ngauranga ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219765997,
-    "wof:lastmodified":1449072423,
+    "wof:lastmodified":1466312943,
     "wof:name":"Ngauranga Tow Service",
     "wof:parent_id":85773059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.816727,-41.244251,174.816727,-41.244251],
-  "geometry": {"coordinates":[174.816727,-41.244251],"type":"Point"}
+  "bbox": [
+    174.816727,
+    -41.244251,
+    174.816727,
+    -41.244251
+],
+  "geometry": {"coordinates":[174.81672699999999,-41.244251],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219841215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-92.456764,35.593143,-92.456764,35.593143",
     "geom:latitude":35.593143,
     "geom:longitude":-92.456764,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Rd ",
     "sg:city":"Clinton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219841215,
-    "wof:lastmodified":1449071137,
+    "wof:lastmodified":1466313056,
     "wof:name":"Harris W M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-92.456764,35.593143,-92.456764,35.593143],
-  "geometry": {"coordinates":[-92.456764,35.593143],"type":"Point"}
+  "bbox": [
+    -92.456764,
+    35.593143,
+    -92.456764,
+    35.593143
+],
+  "geometry": {"coordinates":[-92.45676400000001,35.593143],"type":"Point"}
 }

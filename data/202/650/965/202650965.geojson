@@ -2,13 +2,14 @@
   "id": 202650965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.904282,-37.029034,174.904282,-37.029034",
     "geom:latitude":-37.029034,
     "geom:longitude":174.904282,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Ferguson St Manurewa ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202650965,
-    "wof:lastmodified":1449061669,
+    "wof:lastmodified":1466311933,
     "wof:name":"East City Solid Plastering",
     "wof:parent_id":85778935,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plasterer"
     ]
 },
-  "bbox": [174.904282,-37.029034,174.904282,-37.029034],
-  "geometry": {"coordinates":[174.904282,-37.029034],"type":"Point"}
+  "bbox": [
+    174.904282,
+    -37.029034,
+    174.904282,
+    -37.029034
+],
+  "geometry": {"coordinates":[174.90428199999999,-37.029034],"type":"Point"}
 }

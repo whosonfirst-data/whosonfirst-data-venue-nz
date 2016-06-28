@@ -2,13 +2,14 @@
   "id": 203228173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.640945,-43.534023,172.640945,-43.534023",
     "geom:latitude":-43.534023,
     "geom:longitude":172.640945,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Lichfield St ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203228173,
-    "wof:lastmodified":1449025503,
+    "wof:lastmodified":1466311624,
     "wof:name":"Cotura Fashions Ltd",
     "wof:parent_id":85782371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [172.640945,-43.534023,172.640945,-43.534023],
-  "geometry": {"coordinates":[172.640945,-43.534023],"type":"Point"}
+  "bbox": [
+    172.640945,
+    -43.534023,
+    172.640945,
+    -43.534023
+],
+  "geometry": {"coordinates":[172.64094499999999,-43.534023],"type":"Point"}
 }

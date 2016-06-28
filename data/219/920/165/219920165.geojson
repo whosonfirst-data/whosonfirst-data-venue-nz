@@ -2,13 +2,14 @@
   "id": 219920165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.227173,-45.857731,170.227173,-45.857731",
     "geom:latitude":-45.857731,
     "geom:longitude":170.227173,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Holyhead St ",
     "sg:city":"Outram",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219920165,
-    "wof:lastmodified":1449073135,
+    "wof:lastmodified":1466313097,
     "wof:name":"Challenge Outram",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.227173,-45.857731,170.227173,-45.857731],
-  "geometry": {"coordinates":[170.227173,-45.857731],"type":"Point"}
+  "bbox": [
+    170.227173,
+    -45.857731,
+    170.227173,
+    -45.857731
+],
+  "geometry": {"coordinates":[170.22717299999999,-45.857731],"type":"Point"}
 }

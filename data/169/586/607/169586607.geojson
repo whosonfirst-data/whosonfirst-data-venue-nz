@@ -2,13 +2,14 @@
   "id": 169586607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.535995,42.831852,-75.535995,42.831852",
     "geom:latitude":42.831852,
     "geom:longitude":-75.535995,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Lake Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169586607,
-    "wof:lastmodified":1449035573,
+    "wof:lastmodified":1466311467,
     "wof:name":"Appco Auto Parts",
     "wof:parent_id":85831885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.535995,42.831852,-75.535995,42.831852],
+  "bbox": [
+    -75.535995,
+    42.831852,
+    -75.535995,
+    42.831852
+],
   "geometry": {"coordinates":[-75.535995,42.831852],"type":"Point"}
 }

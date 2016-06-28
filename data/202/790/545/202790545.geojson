@@ -2,13 +2,14 @@
   "id": 202790545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.352173,-46.41185,168.352173,-46.41185",
     "geom:latitude":-46.41185,
     "geom:longitude":168.352173,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Corner Mersey & Bute Sts ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202790545,
-    "wof:lastmodified":1449062068,
+    "wof:lastmodified":1466312408,
     "wof:name":"Quality Kitchens",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kitchen"
     ]
 },
-  "bbox": [168.352173,-46.41185,168.352173,-46.41185],
-  "geometry": {"coordinates":[168.352173,-46.41185],"type":"Point"}
+  "bbox": [
+    168.352173,
+    -46.41185,
+    168.352173,
+    -46.41185
+],
+  "geometry": {"coordinates":[168.35217299999999,-46.41185],"type":"Point"}
 }

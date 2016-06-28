@@ -2,13 +2,14 @@
   "id": 185742089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.276123,-44.237183,171.276123,-44.237183",
     "geom:latitude":-44.237183,
     "geom:longitude":171.276123,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"86 King St ",
     "sg:city":"Temuka",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185742089,
-    "wof:lastmodified":1449006708,
+    "wof:lastmodified":1466310844,
     "wof:name":"Video Ezy Temuka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "entertainment"
     ]
 },
-  "bbox": [171.276123,-44.237183,171.276123,-44.237183],
-  "geometry": {"coordinates":[171.276123,-44.237183],"type":"Point"}
+  "bbox": [
+    171.276123,
+    -44.237183,
+    171.276123,
+    -44.237183
+],
+  "geometry": {"coordinates":[171.27612300000001,-44.237183],"type":"Point"}
 }

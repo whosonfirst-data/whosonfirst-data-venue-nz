@@ -2,13 +2,14 @@
   "id": 219968065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.972321,-38.648861,177.972321,-38.648861",
     "geom:latitude":-38.648861,
     "geom:longitude":177.972321,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Main Rd Makaraka ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219968065,
-    "wof:lastmodified":1449070608,
+    "wof:lastmodified":1466313171,
     "wof:name":"Agri Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "supply"
     ]
 },
-  "bbox": [177.972321,-38.648861,177.972321,-38.648861],
-  "geometry": {"coordinates":[177.972321,-38.648861],"type":"Point"}
+  "bbox": [
+    177.972321,
+    -38.648861,
+    177.972321,
+    -38.648861
+],
+  "geometry": {"coordinates":[177.97232099999999,-38.648861],"type":"Point"}
 }

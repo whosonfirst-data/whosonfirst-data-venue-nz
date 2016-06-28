@@ -2,13 +2,14 @@
   "id": 219329517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.804916,38.511051,-122.804916,38.511051",
     "geom:latitude":38.511051,
     "geom:longitude":-122.804916,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Willis & Ghuznee ",
     "sg:city":"Sts",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219329517,
-    "wof:lastmodified":1449071384,
+    "wof:lastmodified":1466311176,
     "wof:name":"Quest Apartments New Zealand",
     "wof:parent_id":85848367,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accommodation"
     ]
 },
-  "bbox": [-122.804916,38.511051,-122.804916,38.511051],
-  "geometry": {"coordinates":[-122.804916,38.511051],"type":"Point"}
+  "bbox": [
+    -122.804916,
+    38.511051,
+    -122.804916,
+    38.511051
+],
+  "geometry": {"coordinates":[-122.80491600000001,38.511051],"type":"Point"}
 }

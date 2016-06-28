@@ -2,13 +2,14 @@
   "id": 169863143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.347443,-46.424625,168.347443,-46.424625",
     "geom:latitude":-46.424625,
     "geom:longitude":168.347443,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Clyde St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169863143,
-    "wof:lastmodified":1449034971,
+    "wof:lastmodified":1466312134,
     "wof:name":"Just Babes",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leisure"
     ]
 },
-  "bbox": [168.347443,-46.424625,168.347443,-46.424625],
+  "bbox": [
+    168.347443,
+    -46.424625,
+    168.347443,
+    -46.424625
+],
   "geometry": {"coordinates":[168.347443,-46.424625],"type":"Point"}
 }

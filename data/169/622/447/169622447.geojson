@@ -2,13 +2,14 @@
   "id": 169622447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.008263,34.360641,-86.008263,34.360641",
     "geom:latitude":34.360641,
     "geom:longitude":-86.008263,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Talbot St ",
     "sg:city":"Geraldine",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169622447,
-    "wof:lastmodified":1449035368,
+    "wof:lastmodified":1466311895,
     "wof:name":"Geraldine Branch Library",
     "wof:parent_id":85815015,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.008263,34.360641,-86.008263,34.360641],
+  "bbox": [
+    -86.008263,
+    34.360641,
+    -86.008263,
+    34.360641
+],
   "geometry": {"coordinates":[-86.008263,34.360641],"type":"Point"}
 }

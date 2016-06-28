@@ -2,13 +2,14 @@
   "id": 220085675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.384979,-46.435612,168.384979,-46.435612",
     "geom:latitude":-46.435612,
     "geom:longitude":168.384979,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"348 McQuarrie St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220085675,
-    "wof:lastmodified":1449074234,
+    "wof:lastmodified":1466311929,
     "wof:name":"A.B.C. Foods Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "-"
     ]
 },
-  "bbox": [168.384979,-46.435612,168.384979,-46.435612],
-  "geometry": {"coordinates":[168.384979,-46.435612],"type":"Point"}
+  "bbox": [
+    168.384979,
+    -46.435612,
+    168.384979,
+    -46.435612
+],
+  "geometry": {"coordinates":[168.38497899999999,-46.435612],"type":"Point"}
 }

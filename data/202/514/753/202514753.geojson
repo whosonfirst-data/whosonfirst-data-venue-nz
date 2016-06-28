@@ -2,13 +2,14 @@
   "id": 202514753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.81189,-38.986519,175.81189,-38.986519",
     "geom:latitude":-38.986519,
     "geom:longitude":175.81189,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Ohuanga Rd ",
     "sg:city":"Turangi",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202514753,
-    "wof:lastmodified":1449061396,
+    "wof:lastmodified":1466310782,
     "wof:name":"Medlab Hamilton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "specialists"
     ]
 },
-  "bbox": [175.81189,-38.986519,175.81189,-38.986519],
-  "geometry": {"coordinates":[175.81189,-38.986519],"type":"Point"}
+  "bbox": [
+    175.81189,
+    -38.986519,
+    175.81189,
+    -38.986519
+],
+  "geometry": {"coordinates":[175.81189000000001,-38.986519],"type":"Point"}
 }

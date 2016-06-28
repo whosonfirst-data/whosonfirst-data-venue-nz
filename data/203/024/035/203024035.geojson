@@ -2,13 +2,14 @@
   "id": 203024035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.837547,40.316891,-79.837547,40.316891",
     "geom:latitude":40.316891,
     "geom:longitude":-79.837547,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 100-287 North Shore Mail ",
     "sg:city":"Cen",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203024035,
-    "wof:lastmodified":1449025827,
+    "wof:lastmodified":1466310962,
     "wof:name":"AntiAnts/Flybusters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garden"
     ]
 },
-  "bbox": [-79.837547,40.316891,-79.837547,40.316891],
+  "bbox": [
+    -79.837547,
+    40.316891,
+    -79.837547,
+    40.316891
+],
   "geometry": {"coordinates":[-79.837547,40.316891],"type":"Point"}
 }

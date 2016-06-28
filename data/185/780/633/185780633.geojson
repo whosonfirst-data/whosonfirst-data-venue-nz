@@ -2,13 +2,14 @@
   "id": 185780633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.767014,-38.968243,175.767014,-38.968243",
     "geom:latitude":-38.968243,
     "geom:longitude":175.767014,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Mangaroa St Tokaanu ",
     "sg:city":"Turangi",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":185780633,
-    "wof:lastmodified":1449007812,
+    "wof:lastmodified":1466311097,
     "wof:name":"Tokaanu Thermal Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.767014,-38.968243,175.767014,-38.968243],
-  "geometry": {"coordinates":[175.767014,-38.968243],"type":"Point"}
+  "bbox": [
+    175.767014,
+    -38.968243,
+    175.767014,
+    -38.968243
+],
+  "geometry": {"coordinates":[175.76701399999999,-38.968243],"type":"Point"}
 }

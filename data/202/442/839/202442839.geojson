@@ -2,13 +2,14 @@
   "id": 202442839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.777206,-41.283257,174.777206,-41.283257",
     "geom:latitude":-41.283257,
     "geom:longitude":174.777206,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"139-141 Featherston St ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202442839,
-    "wof:lastmodified":1449061236,
+    "wof:lastmodified":1466311704,
     "wof:name":"Grimmer Peter R",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.777206,-41.283257,174.777206,-41.283257],
-  "geometry": {"coordinates":[174.777206,-41.283257],"type":"Point"}
+  "bbox": [
+    174.777206,
+    -41.283257,
+    174.777206,
+    -41.283257
+],
+  "geometry": {"coordinates":[174.77720600000001,-41.283257],"type":"Point"}
 }

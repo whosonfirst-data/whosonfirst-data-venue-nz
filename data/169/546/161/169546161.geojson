@@ -2,13 +2,14 @@
   "id": 169546161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.540451,-43.548271,172.540451,-43.548271",
     "geom:latitude":-43.548271,
     "geom:longitude":172.540451,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Springs Rd Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169546161,
-    "wof:lastmodified":1449032678,
+    "wof:lastmodified":1466310750,
     "wof:name":"Sky Monograms",
     "wof:parent_id":85773341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.540451,-43.548271,172.540451,-43.548271],
-  "geometry": {"coordinates":[172.540451,-43.548271],"type":"Point"}
+  "bbox": [
+    172.540451,
+    -43.548271,
+    172.540451,
+    -43.548271
+],
+  "geometry": {"coordinates":[172.54045099999999,-43.548271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236038849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.241302,-37.80571,175.241302,-37.80571",
     "geom:latitude":-37.80571,
     "geom:longitude":175.241302,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"582 Tuhikaramea Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236038849,
-    "wof:lastmodified":1449003825,
+    "wof:lastmodified":1466311196,
     "wof:name":"Meadow View Funeral Services",
     "wof:parent_id":85781735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "arrangement"
     ]
 },
-  "bbox": [175.241302,-37.80571,175.241302,-37.80571],
-  "geometry": {"coordinates":[175.241302,-37.80571],"type":"Point"}
+  "bbox": [
+    175.241302,
+    -37.80571,
+    175.241302,
+    -37.80571
+],
+  "geometry": {"coordinates":[175.24130199999999,-37.80571],"type":"Point"}
 }

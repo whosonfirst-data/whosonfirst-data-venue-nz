@@ -2,13 +2,14 @@
   "id": 185953121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.018509,-39.949066,175.018509,-39.949066",
     "geom:latitude":-39.949066,
     "geom:longitude":175.018509,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Heads Rd ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185953121,
-    "wof:lastmodified":1449007699,
+    "wof:lastmodified":1466312125,
     "wof:name":"Castlecliff United (Sports Club)",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sports"
     ]
 },
-  "bbox": [175.018509,-39.949066,175.018509,-39.949066],
-  "geometry": {"coordinates":[175.018509,-39.949066],"type":"Point"}
+  "bbox": [
+    175.018509,
+    -39.949066,
+    175.018509,
+    -39.949066
+],
+  "geometry": {"coordinates":[175.01850899999999,-39.949066],"type":"Point"}
 }

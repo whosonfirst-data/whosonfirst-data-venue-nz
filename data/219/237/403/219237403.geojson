@@ -2,13 +2,14 @@
   "id": 219237403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.88443,-36.933903,174.88443,-36.933903",
     "geom:latitude":-36.933903,
     "geom:longitude":174.88443,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Stonedon Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219237403,
-    "wof:lastmodified":1449070456,
+    "wof:lastmodified":1466311883,
     "wof:name":"North Island Distributors Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.88443,-36.933903,174.88443,-36.933903],
-  "geometry": {"coordinates":[174.88443,-36.933903],"type":"Point"}
+  "bbox": [
+    174.88443,
+    -36.933903,
+    174.88443,
+    -36.933903
+],
+  "geometry": {"coordinates":[174.88443000000001,-36.933903],"type":"Point"}
 }

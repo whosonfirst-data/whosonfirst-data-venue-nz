@@ -2,13 +2,14 @@
   "id": 202649955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.036041,-41.129177,175.036041,-41.129177",
     "geom:latitude":-41.129177,
     "geom:longitude":175.036041,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Rimutaka St Trentham Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202649955,
-    "wof:lastmodified":1449061814,
+    "wof:lastmodified":1466311924,
     "wof:name":"C.T.P",
     "wof:parent_id":85773263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plasterer"
     ]
 },
-  "bbox": [175.036041,-41.129177,175.036041,-41.129177],
-  "geometry": {"coordinates":[175.036041,-41.129177],"type":"Point"}
+  "bbox": [
+    175.036041,
+    -41.129177,
+    175.036041,
+    -41.129177
+],
+  "geometry": {"coordinates":[175.03604100000001,-41.129177],"type":"Point"}
 }

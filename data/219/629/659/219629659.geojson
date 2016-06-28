@@ -2,13 +2,14 @@
   "id": 219629659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.952835,-37.957249,176.952835,-37.957249",
     "geom:latitude":-37.957249,
     "geom:longitude":176.952835,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Osmond Rd Gladstone ",
     "sg:city":"Paroa",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219629659,
-    "wof:lastmodified":1449073100,
+    "wof:lastmodified":1466312585,
     "wof:name":"Car Parts Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.952835,-37.957249,176.952835,-37.957249],
-  "geometry": {"coordinates":[176.952835,-37.957249],"type":"Point"}
+  "bbox": [
+    176.952835,
+    -37.957249,
+    176.952835,
+    -37.957249
+],
+  "geometry": {"coordinates":[176.95283499999999,-37.957249],"type":"Point"}
 }

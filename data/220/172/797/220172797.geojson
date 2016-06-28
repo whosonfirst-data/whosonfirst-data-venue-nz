@@ -2,13 +2,14 @@
   "id": 220172797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.605957,-43.496204,172.605957,-43.496204",
     "geom:latitude":-43.496204,
     "geom:longitude":172.605957,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Harewood Rd Papanui ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220172797,
-    "wof:lastmodified":1449074365,
+    "wof:lastmodified":1466311247,
     "wof:name":"Freshly Squeezed Juice Co",
     "wof:parent_id":85773111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "veges"
     ]
 },
-  "bbox": [172.605957,-43.496204,172.605957,-43.496204],
-  "geometry": {"coordinates":[172.605957,-43.496204],"type":"Point"}
+  "bbox": [
+    172.605957,
+    -43.496204,
+    172.605957,
+    -43.496204
+],
+  "geometry": {"coordinates":[172.60595699999999,-43.496204],"type":"Point"}
 }

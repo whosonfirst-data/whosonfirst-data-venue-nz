@@ -2,13 +2,14 @@
   "id": 202427909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.755157,-36.796715,174.755157,-36.796715",
     "geom:latitude":-36.796715,
     "geom:longitude":174.755157,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Akoranga Dve Northcote ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202427909,
-    "wof:lastmodified":1449060877,
+    "wof:lastmodified":1466311607,
     "wof:name":"Te Puna Waiora",
     "wof:parent_id":85781279,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.755157,-36.796715,174.755157,-36.796715],
+  "bbox": [
+    174.755157,
+    -36.796715,
+    174.755157,
+    -36.796715
+],
   "geometry": {"coordinates":[174.755157,-36.796715],"type":"Point"}
 }

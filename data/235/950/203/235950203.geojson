@@ -2,13 +2,14 @@
   "id": 235950203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.54332,-43.490803,172.54332,-43.490803",
     "geom:latitude":-43.490803,
     "geom:longitude":172.54332,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Orchard St Christchurch Airport ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235950203,
-    "wof:lastmodified":1449008390,
+    "wof:lastmodified":1466312017,
     "wof:name":"Fernfish New Zealand Ltd",
     "wof:parent_id":85772947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sea"
     ]
 },
-  "bbox": [172.54332,-43.490803,172.54332,-43.490803],
-  "geometry": {"coordinates":[172.54332,-43.490803],"type":"Point"}
+  "bbox": [
+    172.54332,
+    -43.490803,
+    172.54332,
+    -43.490803
+],
+  "geometry": {"coordinates":[172.54331999999999,-43.490803],"type":"Point"}
 }

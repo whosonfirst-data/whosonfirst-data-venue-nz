@@ -2,13 +2,14 @@
   "id": 219749659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.300125,39.537884,-105.300125,39.537884",
     "geom:latitude":39.537884,
     "geom:longitude":-105.300125,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Rd North ",
     "sg:city":"Foxton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219749659,
-    "wof:lastmodified":1449071411,
+    "wof:lastmodified":1466312909,
     "wof:name":"Motex Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "servicing"
     ]
 },
-  "bbox": [-105.300125,39.537884,-105.300125,39.537884],
-  "geometry": {"coordinates":[-105.300125,39.537884],"type":"Point"}
+  "bbox": [
+    -105.300125,
+    39.537884,
+    -105.300125,
+    39.537884
+],
+  "geometry": {"coordinates":[-105.30012499999999,39.537884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186503473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.782089,-36.862057,174.782089,-36.862057",
     "geom:latitude":-36.862057,
     "geom:longitude":174.782089,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Ayr St Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186503473,
-    "wof:lastmodified":1449053036,
+    "wof:lastmodified":1466312773,
     "wof:name":"Completely Nailed !",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [174.782089,-36.862057,174.782089,-36.862057],
-  "geometry": {"coordinates":[174.782089,-36.862057],"type":"Point"}
+  "bbox": [
+    174.782089,
+    -36.862057,
+    174.782089,
+    -36.862057
+],
+  "geometry": {"coordinates":[174.78208900000001,-36.862057],"type":"Point"}
 }

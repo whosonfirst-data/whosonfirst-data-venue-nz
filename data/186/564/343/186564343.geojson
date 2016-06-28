@@ -2,13 +2,14 @@
   "id": 186564343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.165192,-37.689484,176.165192,-37.689484",
     "geom:latitude":-37.689484,
     "geom:longitude":176.165192,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"300 Cameron Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186564343,
-    "wof:lastmodified":1449052875,
+    "wof:lastmodified":1466312843,
     "wof:name":"Tudor Hair & Wigs",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [176.165192,-37.689484,176.165192,-37.689484],
-  "geometry": {"coordinates":[176.165192,-37.689484],"type":"Point"}
+  "bbox": [
+    176.165192,
+    -37.689484,
+    176.165192,
+    -37.689484
+],
+  "geometry": {"coordinates":[176.16519199999999,-37.689484],"type":"Point"}
 }

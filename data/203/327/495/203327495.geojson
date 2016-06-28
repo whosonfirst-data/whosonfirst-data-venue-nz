@@ -2,13 +2,14 @@
   "id": 203327495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.667435,-36.770294,174.667435,-36.770294",
     "geom:latitude":-36.770294,
     "geom:longitude":174.667435,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Awatahi Pl Greenhithe ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203327495,
-    "wof:lastmodified":1449025078,
+    "wof:lastmodified":1466312331,
     "wof:name":"Scorpio Agencies Ltd",
     "wof:parent_id":85772929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.667435,-36.770294,174.667435,-36.770294],
-  "geometry": {"coordinates":[174.667435,-36.770294],"type":"Point"}
+  "bbox": [
+    174.667435,
+    -36.770294,
+    174.667435,
+    -36.770294
+],
+  "geometry": {"coordinates":[174.66743500000001,-36.770294],"type":"Point"}
 }

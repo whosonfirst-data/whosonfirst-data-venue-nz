@@ -2,13 +2,14 @@
   "id": 203267885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.76564,-36.848576,174.76564,-36.848576",
     "geom:latitude":-36.848576,
     "geom:longitude":174.76564,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"198 Queen St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203267885,
-    "wof:lastmodified":1449026692,
+    "wof:lastmodified":1466312085,
     "wof:name":"Mark Richard Ltd",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.76564,-36.848576,174.76564,-36.848576],
-  "geometry": {"coordinates":[174.76564,-36.848576],"type":"Point"}
+  "bbox": [
+    174.76564,
+    -36.848576,
+    174.76564,
+    -36.848576
+],
+  "geometry": {"coordinates":[174.76563999999999,-36.848576],"type":"Point"}
 }

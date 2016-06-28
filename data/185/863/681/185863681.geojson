@@ -2,13 +2,14 @@
   "id": 185863681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.74379,-36.714272,174.74379,-36.714272",
     "geom:latitude":-36.714272,
     "geom:longitude":174.74379,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Bute Rd Browns Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185863681,
-    "wof:lastmodified":1449007702,
+    "wof:lastmodified":1466311648,
     "wof:name":"Bayvet Veterinary Clinic",
     "wof:parent_id":85772855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.74379,-36.714272,174.74379,-36.714272],
-  "geometry": {"coordinates":[174.74379,-36.714272],"type":"Point"}
+  "bbox": [
+    174.74379,
+    -36.714272,
+    174.74379,
+    -36.714272
+],
+  "geometry": {"coordinates":[174.74378999999999,-36.714272],"type":"Point"}
 }

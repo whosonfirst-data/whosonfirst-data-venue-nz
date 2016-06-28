@@ -2,13 +2,14 @@
   "id": 169708441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.350815,-46.417255,168.350815,-46.417255",
     "geom:latitude":-46.417255,
     "geom:longitude":168.350815,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Nith St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169708441,
-    "wof:lastmodified":1449033208,
+    "wof:lastmodified":1466310972,
     "wof:name":"The Nearly New",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.350815,-46.417255,168.350815,-46.417255],
-  "geometry": {"coordinates":[168.350815,-46.417255],"type":"Point"}
+  "bbox": [
+    168.350815,
+    -46.417255,
+    168.350815,
+    -46.417255
+],
+  "geometry": {"coordinates":[168.35081500000001,-46.417255],"type":"Point"}
 }

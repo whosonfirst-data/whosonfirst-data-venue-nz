@@ -2,13 +2,14 @@
   "id": 202957631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.822174,-41.307873,174.822174,-41.307873",
     "geom:latitude":-41.307873,
     "geom:longitude":174.822174,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"148 A Park Rd Miramar ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202957631,
-    "wof:lastmodified":1449062279,
+    "wof:lastmodified":1466312905,
     "wof:name":"Hort Ltd",
     "wof:parent_id":85773025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.822174,-41.307873,174.822174,-41.307873],
-  "geometry": {"coordinates":[174.822174,-41.307873],"type":"Point"}
+  "bbox": [
+    174.822174,
+    -41.307873,
+    174.822174,
+    -41.307873
+],
+  "geometry": {"coordinates":[174.82217399999999,-41.307873],"type":"Point"}
 }

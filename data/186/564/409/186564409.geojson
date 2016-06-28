@@ -2,13 +2,14 @@
   "id": 186564409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.276993,-37.783215,175.276993,-37.783215",
     "geom:latitude":-37.783215,
     "geom:longitude":175.276993,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2nd Floor GRE Bldg 24 Garden Pl ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186564409,
-    "wof:lastmodified":1449052874,
+    "wof:lastmodified":1466312844,
     "wof:name":"Waikato Hair Replacement",
     "wof:parent_id":85780927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.276993,-37.783215,175.276993,-37.783215],
+  "bbox": [
+    175.276993,
+    -37.783215,
+    175.276993,
+    -37.783215
+],
   "geometry": {"coordinates":[175.276993,-37.783215],"type":"Point"}
 }

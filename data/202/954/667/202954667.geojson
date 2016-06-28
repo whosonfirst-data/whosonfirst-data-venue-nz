@@ -2,13 +2,14 @@
   "id": 202954667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.055435,-36.796257,175.055435,-36.796257",
     "geom:latitude":-36.796257,
     "geom:longitude":175.055435,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Tahi Rd Waiheke Island ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202954667,
-    "wof:lastmodified":1449062332,
+    "wof:lastmodified":1466312893,
     "wof:name":"Touchwood Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.055435,-36.796257,175.055435,-36.796257],
-  "geometry": {"coordinates":[175.055435,-36.796257],"type":"Point"}
+  "bbox": [
+    175.055435,
+    -36.796257,
+    175.055435,
+    -36.796257
+],
+  "geometry": {"coordinates":[175.05543499999999,-36.796257],"type":"Point"}
 }

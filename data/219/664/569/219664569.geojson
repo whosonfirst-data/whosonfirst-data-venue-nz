@@ -2,13 +2,14 @@
   "id": 219664569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.321487,-35.727287,174.321487,-35.727287",
     "geom:latitude":-35.727287,
     "geom:longitude":174.321487,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Clyde St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219664569,
-    "wof:lastmodified":1449071692,
+    "wof:lastmodified":1466312649,
     "wof:name":"Magic Panels & Tyres",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.321487,-35.727287,174.321487,-35.727287],
-  "geometry": {"coordinates":[174.321487,-35.727287],"type":"Point"}
+  "bbox": [
+    174.321487,
+    -35.727287,
+    174.321487,
+    -35.727287
+],
+  "geometry": {"coordinates":[174.32148699999999,-35.727287],"type":"Point"}
 }

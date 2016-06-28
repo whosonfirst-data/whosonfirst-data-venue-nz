@@ -2,13 +2,14 @@
   "id": 186637251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.066147,-39.901188,175.066147,-39.901188",
     "geom:latitude":-39.901188,
     "geom:longitude":175.066147,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"250 Somme Pde ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186637251,
-    "wof:lastmodified":1449050252,
+    "wof:lastmodified":1466313008,
     "wof:name":"Clinic Connekt - Ned Bates",
     "wof:parent_id":85772829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "fitness"
     ]
 },
-  "bbox": [175.066147,-39.901188,175.066147,-39.901188],
+  "bbox": [
+    175.066147,
+    -39.901188,
+    175.066147,
+    -39.901188
+],
   "geometry": {"coordinates":[175.066147,-39.901188],"type":"Point"}
 }

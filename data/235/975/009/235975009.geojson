@@ -2,13 +2,14 @@
   "id": 235975009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.042099,-39.926311,175.042099,-39.926311",
     "geom:latitude":-39.926311,
     "geom:longitude":175.042099,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Liverpool St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235975009,
-    "wof:lastmodified":1449008555,
+    "wof:lastmodified":1466312034,
     "wof:name":"Caffeine Fixx",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cafe"
     ]
 },
-  "bbox": [175.042099,-39.926311,175.042099,-39.926311],
-  "geometry": {"coordinates":[175.042099,-39.926311],"type":"Point"}
+  "bbox": [
+    175.042099,
+    -39.926311,
+    175.042099,
+    -39.926311
+],
+  "geometry": {"coordinates":[175.04209900000001,-39.926311],"type":"Point"}
 }

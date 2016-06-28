@@ -2,13 +2,14 @@
   "id": 202833843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.481018,-45.88158,170.481018,-45.88158",
     "geom:latitude":-45.88158,
     "geom:longitude":170.481018,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Mailer St Mornington ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202833843,
-    "wof:lastmodified":1449060425,
+    "wof:lastmodified":1466312634,
     "wof:name":"Active Furnishers Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "curtain"
     ]
 },
-  "bbox": [170.481018,-45.88158,170.481018,-45.88158],
-  "geometry": {"coordinates":[170.481018,-45.88158],"type":"Point"}
+  "bbox": [
+    170.481018,
+    -45.88158,
+    170.481018,
+    -45.88158
+],
+  "geometry": {"coordinates":[170.48101800000001,-45.88158],"type":"Point"}
 }

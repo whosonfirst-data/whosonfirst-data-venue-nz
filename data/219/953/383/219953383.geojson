@@ -2,13 +2,14 @@
   "id": 219953383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.22496,-38.99123,174.22496,-38.99123",
     "geom:latitude":-38.99123,
     "geom:longitude":174.22496,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Browne St ",
     "sg:city":"Waitara",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219953383,
-    "wof:lastmodified":1449072823,
+    "wof:lastmodified":1466313116,
     "wof:name":"North Taranaki Veterinary Services",
     "wof:parent_id":85781383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.22496,-38.99123,174.22496,-38.99123],
-  "geometry": {"coordinates":[174.22496,-38.99123],"type":"Point"}
+  "bbox": [
+    174.22496,
+    -38.99123,
+    174.22496,
+    -38.99123
+],
+  "geometry": {"coordinates":[174.22496000000001,-38.99123],"type":"Point"}
 }

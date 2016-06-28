@@ -2,13 +2,14 @@
   "id": 219583749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.772263,-36.846161,174.772263,-36.846161",
     "geom:latitude":-36.846161,
     "geom:longitude":174.772263,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Beach Rd Auckland City ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219583749,
-    "wof:lastmodified":1449073186,
+    "wof:lastmodified":1466312644,
     "wof:name":"NZ MotorCycle Rentals",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.772263,-36.846161,174.772263,-36.846161],
-  "geometry": {"coordinates":[174.772263,-36.846161],"type":"Point"}
+  "bbox": [
+    174.772263,
+    -36.846161,
+    174.772263,
+    -36.846161
+],
+  "geometry": {"coordinates":[174.77226300000001,-36.846161],"type":"Point"}
 }

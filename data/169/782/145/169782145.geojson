@@ -2,13 +2,14 @@
   "id": 169782145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.631668,-36.879566,174.631668,-36.879566",
     "geom:latitude":-36.879566,
     "geom:longitude":174.631668,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Railside Ave Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169782145,
-    "wof:lastmodified":1449032669,
+    "wof:lastmodified":1466311513,
     "wof:name":"Norcross Fishing World",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "shopping"
     ]
 },
-  "bbox": [174.631668,-36.879566,174.631668,-36.879566],
-  "geometry": {"coordinates":[174.631668,-36.879566],"type":"Point"}
+  "bbox": [
+    174.631668,
+    -36.879566,
+    174.631668,
+    -36.879566
+],
+  "geometry": {"coordinates":[174.63166799999999,-36.879566],"type":"Point"}
 }

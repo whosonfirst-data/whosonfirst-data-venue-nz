@@ -2,13 +2,14 @@
   "id": 169566315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.841988,41.284592,-83.841988,41.284592",
     "geom:latitude":41.284592,
     "geom:longitude":-83.841988,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1697 Main Rd ",
     "sg:city":"Cust",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169566315,
-    "wof:lastmodified":1449032755,
+    "wof:lastmodified":1466311060,
     "wof:name":"Country Provedor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supplier"
     ]
 },
-  "bbox": [-83.841988,41.284592,-83.841988,41.284592],
+  "bbox": [
+    -83.841988,
+    41.284592,
+    -83.841988,
+    41.284592
+],
   "geometry": {"coordinates":[-83.841988,41.284592],"type":"Point"}
 }

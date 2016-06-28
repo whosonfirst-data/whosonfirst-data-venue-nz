@@ -2,13 +2,14 @@
   "id": 219290411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.509323,-40.471001,175.509323,-40.471001",
     "geom:latitude":-40.471001,
     "geom:longitude":175.509323,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Albert Rd Tokomaru R.D ",
     "sg:city":"4",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219290411,
-    "wof:lastmodified":1449071903,
+    "wof:lastmodified":1466310860,
     "wof:name":"Hi-da-way Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.509323,-40.471001,175.509323,-40.471001],
-  "geometry": {"coordinates":[175.509323,-40.471001],"type":"Point"}
+  "bbox": [
+    175.509323,
+    -40.471001,
+    175.509323,
+    -40.471001
+],
+  "geometry": {"coordinates":[175.50932299999999,-40.471001],"type":"Point"}
 }

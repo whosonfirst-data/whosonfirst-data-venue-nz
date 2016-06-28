@@ -2,13 +2,14 @@
   "id": 202803539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.763657,-41.302956,174.763657,-41.302956",
     "geom:latitude":-41.302956,
     "geom:longitude":174.763657,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Helen St Brooklyn ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202803539,
-    "wof:lastmodified":1449062686,
+    "wof:lastmodified":1466312543,
     "wof:name":"McMurray Water Heater Services",
     "wof:parent_id":85772849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fittings"
     ]
 },
-  "bbox": [174.763657,-41.302956,174.763657,-41.302956],
-  "geometry": {"coordinates":[174.763657,-41.302956],"type":"Point"}
+  "bbox": [
+    174.763657,
+    -41.302956,
+    174.763657,
+    -41.302956
+],
+  "geometry": {"coordinates":[174.76365699999999,-41.302956],"type":"Point"}
 }

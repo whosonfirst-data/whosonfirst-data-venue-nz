@@ -2,13 +2,14 @@
   "id": 203033771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.320587,-40.623333,175.320587,-40.623333",
     "geom:latitude":-40.623333,
     "geom:longitude":175.320587,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Waihou Rd ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203033771,
-    "wof:lastmodified":1449025328,
+    "wof:lastmodified":1466311188,
     "wof:name":"Christopher Thomsen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "garden"
     ]
 },
-  "bbox": [175.320587,-40.623333,175.320587,-40.623333],
-  "geometry": {"coordinates":[175.320587,-40.623333],"type":"Point"}
+  "bbox": [
+    175.320587,
+    -40.623333,
+    175.320587,
+    -40.623333
+],
+  "geometry": {"coordinates":[175.32058699999999,-40.623333],"type":"Point"}
 }

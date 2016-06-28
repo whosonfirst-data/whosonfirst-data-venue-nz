@@ -2,13 +2,14 @@
   "id": 186301535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.144135,-37.700016,176.144135,-37.700016",
     "geom:latitude":-37.700016,
     "geom:longitude":176.144135,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Birch Ave ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186301535,
-    "wof:lastmodified":1449051081,
+    "wof:lastmodified":1466312185,
     "wof:name":"Taylor Aluminium Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.144135,-37.700016,176.144135,-37.700016],
-  "geometry": {"coordinates":[176.144135,-37.700016],"type":"Point"}
+  "bbox": [
+    176.144135,
+    -37.700016,
+    176.144135,
+    -37.700016
+],
+  "geometry": {"coordinates":[176.14413500000001,-37.700016],"type":"Point"}
 }

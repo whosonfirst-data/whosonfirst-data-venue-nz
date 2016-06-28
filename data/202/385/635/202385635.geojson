@@ -2,13 +2,14 @@
   "id": 202385635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.831268,-36.960167,174.831268,-36.960167",
     "geom:latitude":-36.960167,
     "geom:longitude":174.831268,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 B Vine St Mangere East ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202385635,
-    "wof:lastmodified":1449061619,
+    "wof:lastmodified":1466310654,
     "wof:name":"The Cat Oracle - Tarot Reading",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "professional"
     ]
 },
-  "bbox": [174.831268,-36.960167,174.831268,-36.960167],
-  "geometry": {"coordinates":[174.831268,-36.960167],"type":"Point"}
+  "bbox": [
+    174.831268,
+    -36.960167,
+    174.831268,
+    -36.960167
+],
+  "geometry": {"coordinates":[174.83126799999999,-36.960167],"type":"Point"}
 }

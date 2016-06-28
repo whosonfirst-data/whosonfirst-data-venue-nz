@@ -2,13 +2,14 @@
   "id": 203196455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.269073,-37.787197,175.269073,-37.787197",
     "geom:latitude":-37.787197,
     "geom:longitude":175.269073,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"33 King St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203196455,
-    "wof:lastmodified":1449025358,
+    "wof:lastmodified":1466311341,
     "wof:name":"Uniform Centre",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.269073,-37.787197,175.269073,-37.787197],
-  "geometry": {"coordinates":[175.269073,-37.787197],"type":"Point"}
+  "bbox": [
+    175.269073,
+    -37.787197,
+    175.269073,
+    -37.787197
+],
+  "geometry": {"coordinates":[175.26907299999999,-37.787197],"type":"Point"}
 }

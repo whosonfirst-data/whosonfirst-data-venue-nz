@@ -2,13 +2,14 @@
   "id": 186083701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.828049,-36.922802,174.828049,-36.922802",
     "geom:latitude":-36.922802,
     "geom:longitude":174.828049,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Southdown Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186083701,
-    "wof:lastmodified":1449051653,
+    "wof:lastmodified":1466311879,
     "wof:name":"Montrose Electrical Ltd",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.828049,-36.922802,174.828049,-36.922802],
-  "geometry": {"coordinates":[174.828049,-36.922802],"type":"Point"}
+  "bbox": [
+    174.828049,
+    -36.922802,
+    174.828049,
+    -36.922802
+],
+  "geometry": {"coordinates":[174.82804899999999,-36.922802],"type":"Point"}
 }

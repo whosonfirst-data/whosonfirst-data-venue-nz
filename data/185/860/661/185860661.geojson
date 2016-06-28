@@ -2,13 +2,14 @@
   "id": 185860661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.628983,-40.9762,175.628983,-40.9762",
     "geom:latitude":-40.9762,
     "geom:longitude":175.628983,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hood Aerodrome, South Rd ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185860661,
-    "wof:lastmodified":1449007330,
+    "wof:lastmodified":1466311630,
     "wof:name":"New Zealand Sport & Vintage Aviation Society Inc",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.628983,-40.9762,175.628983,-40.9762],
-  "geometry": {"coordinates":[175.628983,-40.9762],"type":"Point"}
+  "bbox": [
+    175.628983,
+    -40.9762,
+    175.628983,
+    -40.9762
+],
+  "geometry": {"coordinates":[175.62898300000001,-40.9762],"type":"Point"}
 }

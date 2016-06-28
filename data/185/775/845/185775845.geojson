@@ -2,13 +2,14 @@
   "id": 185775845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.243805,-38.127979,176.243805,-38.127979",
     "geom:latitude":-38.127979,
     "geom:longitude":176.243805,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Lakefront Ohinemutu ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185775845,
-    "wof:lastmodified":1449007787,
+    "wof:lastmodified":1466311063,
     "wof:name":"Rotorua Lakes Watersports Centre",
     "wof:parent_id":85773075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.243805,-38.127979,176.243805,-38.127979],
-  "geometry": {"coordinates":[176.243805,-38.127979],"type":"Point"}
+  "bbox": [
+    176.243805,
+    -38.127979,
+    176.243805,
+    -38.127979
+],
+  "geometry": {"coordinates":[176.24380500000001,-38.127979],"type":"Point"}
 }

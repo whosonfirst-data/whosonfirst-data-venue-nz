@@ -2,13 +2,14 @@
   "id": 185997081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.849136,-39.531769,176.849136,-39.531769",
     "geom:latitude":-39.531769,
     "geom:longitude":176.849136,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Totara St Taradale ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185997081,
-    "wof:lastmodified":1449007948,
+    "wof:lastmodified":1466312332,
     "wof:name":"Duncan Gilbert P",
     "wof:parent_id":85773225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [176.849136,-39.531769,176.849136,-39.531769],
-  "geometry": {"coordinates":[176.849136,-39.531769],"type":"Point"}
+  "bbox": [
+    176.849136,
+    -39.531769,
+    176.849136,
+    -39.531769
+],
+  "geometry": {"coordinates":[176.84913599999999,-39.531769],"type":"Point"}
 }

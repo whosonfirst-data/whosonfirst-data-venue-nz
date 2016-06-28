@@ -2,13 +2,14 @@
   "id": 186581589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.759048,-36.853298,174.759048,-36.853298",
     "geom:latitude":-36.853298,
     "geom:longitude":174.759048,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Hobson St Auckland City ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186581589,
-    "wof:lastmodified":1449050971,
+    "wof:lastmodified":1466312943,
     "wof:name":"Prosthetic Processes Auckland",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.759048,-36.853298,174.759048,-36.853298],
-  "geometry": {"coordinates":[174.759048,-36.853298],"type":"Point"}
+  "bbox": [
+    174.759048,
+    -36.853298,
+    174.759048,
+    -36.853298
+],
+  "geometry": {"coordinates":[174.75904800000001,-36.853298],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235985523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.465012,-37.749416,176.465012,-37.749416",
     "geom:latitude":-37.749416,
     "geom:longitude":176.465012,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Town Point Rd Maketu Te ",
     "sg:city":"Puke",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235985523,
-    "wof:lastmodified":1449008413,
+    "wof:lastmodified":1466311464,
     "wof:name":"Seaside Cafe & Takeaways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cafe"
     ]
 },
-  "bbox": [176.465012,-37.749416,176.465012,-37.749416],
+  "bbox": [
+    176.465012,
+    -37.749416,
+    176.465012,
+    -37.749416
+],
   "geometry": {"coordinates":[176.465012,-37.749416],"type":"Point"}
 }

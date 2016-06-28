@@ -2,13 +2,14 @@
   "id": 186193619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"153.00029,-27.486082,153.00029,-27.486082",
     "geom:latitude":-27.486082,
     "geom:longitude":153.00029,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Ferry Rd, West End Queensland ",
     "sg:city":"4101",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186193619,
-    "wof:lastmodified":1449050846,
+    "wof:lastmodified":1466311338,
     "wof:name":"Dana-Ridge Pty Ltd",
     "wof:parent_id":85776271,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [153.00029,-27.486082,153.00029,-27.486082],
-  "geometry": {"coordinates":[153.00029,-27.486082],"type":"Point"}
+  "bbox": [
+    153.00029,
+    -27.486082,
+    153.00029,
+    -27.486082
+],
+  "geometry": {"coordinates":[153.00029000000001,-27.486082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220008095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.713806,-36.885975,174.713806,-36.885975",
     "geom:latitude":-36.885975,
     "geom:longitude":174.713806,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"974 New North Rd Mt Albert ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220008095,
-    "wof:lastmodified":1449074274,
+    "wof:lastmodified":1466310831,
     "wof:name":"Cash Loans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "personal"
     ]
 },
-  "bbox": [174.713806,-36.885975,174.713806,-36.885975],
-  "geometry": {"coordinates":[174.713806,-36.885975],"type":"Point"}
+  "bbox": [
+    174.713806,
+    -36.885975,
+    174.713806,
+    -36.885975
+],
+  "geometry": {"coordinates":[174.71380600000001,-36.885975],"type":"Point"}
 }

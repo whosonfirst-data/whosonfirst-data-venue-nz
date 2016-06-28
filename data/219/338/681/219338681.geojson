@@ -2,13 +2,14 @@
   "id": 219338681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.62085,-40.337803,175.62085,-40.337803",
     "geom:latitude":-40.337803,
     "geom:longitude":175.62085,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Ruahine St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219338681,
-    "wof:lastmodified":1449071623,
+    "wof:lastmodified":1466311248,
     "wof:name":"Carramar Motor Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.62085,-40.337803,175.62085,-40.337803],
-  "geometry": {"coordinates":[175.62085,-40.337803],"type":"Point"}
+  "bbox": [
+    175.62085,
+    -40.337803,
+    175.62085,
+    -40.337803
+],
+  "geometry": {"coordinates":[175.62084999999999,-40.337803],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202625641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.980621,-39.938976,174.980621,-39.938976",
     "geom:latitude":-39.938976,
     "geom:longitude":174.980621,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Karaka St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202625641,
-    "wof:lastmodified":1449062697,
+    "wof:lastmodified":1466311726,
     "wof:name":"Morris & Son Ltd",
     "wof:parent_id":85772875,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "related"
     ]
 },
-  "bbox": [174.980621,-39.938976,174.980621,-39.938976],
-  "geometry": {"coordinates":[174.980621,-39.938976],"type":"Point"}
+  "bbox": [
+    174.980621,
+    -39.938976,
+    174.980621,
+    -39.938976
+],
+  "geometry": {"coordinates":[174.98062100000001,-39.938976],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202590481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.608063,-40.340305,175.608063,-40.340305",
     "geom:latitude":-40.340305,
     "geom:longitude":175.608063,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"647 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202590481,
-    "wof:lastmodified":1449061627,
+    "wof:lastmodified":1466311439,
     "wof:name":"PlaceMakers",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.608063,-40.340305,175.608063,-40.340305],
-  "geometry": {"coordinates":[175.608063,-40.340305],"type":"Point"}
+  "bbox": [
+    175.608063,
+    -40.340305,
+    175.608063,
+    -40.340305
+],
+  "geometry": {"coordinates":[175.60806299999999,-40.340305],"type":"Point"}
 }

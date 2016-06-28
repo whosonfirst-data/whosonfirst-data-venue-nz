@@ -2,13 +2,14 @@
   "id": 202925631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.124939,-41.124146,175.124939,-41.124146",
     "geom:latitude":-41.124146,
     "geom:longitude":175.124939,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Colletts Rd Mangaroa Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202925631,
-    "wof:lastmodified":1449060129,
+    "wof:lastmodified":1466312846,
     "wof:name":"Worms Are It",
     "wof:parent_id":85778447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gardening"
     ]
 },
-  "bbox": [175.124939,-41.124146,175.124939,-41.124146],
-  "geometry": {"coordinates":[175.124939,-41.124146],"type":"Point"}
+  "bbox": [
+    175.124939,
+    -41.124146,
+    175.124939,
+    -41.124146
+],
+  "geometry": {"coordinates":[175.12493900000001,-41.124146],"type":"Point"}
 }

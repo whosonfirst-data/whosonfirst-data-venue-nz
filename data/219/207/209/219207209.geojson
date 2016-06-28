@@ -2,13 +2,14 @@
   "id": 219207209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.381363,-37.235001,175.381363,-37.235001",
     "geom:latitude":-37.235001,
     "geom:longitude":175.381363,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"R D 6 Thames ",
     "sg:city":"Waitakaruru",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219207209,
-    "wof:lastmodified":1449072864,
+    "wof:lastmodified":1466311521,
     "wof:name":"Waitakaruru Livestock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.381363,-37.235001,175.381363,-37.235001],
-  "geometry": {"coordinates":[175.381363,-37.235001],"type":"Point"}
+  "bbox": [
+    175.381363,
+    -37.235001,
+    175.381363,
+    -37.235001
+],
+  "geometry": {"coordinates":[175.38136299999999,-37.235001],"type":"Point"}
 }

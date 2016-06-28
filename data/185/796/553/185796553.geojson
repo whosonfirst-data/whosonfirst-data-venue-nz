@@ -2,13 +2,14 @@
   "id": 185796553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.748825,-36.704662,174.748825,-36.704662",
     "geom:latitude":-36.704662,
     "geom:longitude":174.748825,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2/84 Hebron Rd Waiake ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185796553,
-    "wof:lastmodified":1449007374,
+    "wof:lastmodified":1466311195,
     "wof:name":"Jan Leonard Calligraphy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.748825,-36.704662,174.748825,-36.704662],
-  "geometry": {"coordinates":[174.748825,-36.704662],"type":"Point"}
+  "bbox": [
+    174.748825,
+    -36.704662,
+    174.748825,
+    -36.704662
+],
+  "geometry": {"coordinates":[174.74882500000001,-36.704662],"type":"Point"}
 }

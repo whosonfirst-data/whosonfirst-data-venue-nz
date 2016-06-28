@@ -2,13 +2,14 @@
   "id": 203187089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.018951,-38.661102,178.018951,-38.661102",
     "geom:latitude":-38.661102,
     "geom:longitude":178.018951,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"349 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203187089,
-    "wof:lastmodified":1449025218,
+    "wof:lastmodified":1466311255,
     "wof:name":"Healeys Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaner"
     ]
 },
-  "bbox": [178.018951,-38.661102,178.018951,-38.661102],
-  "geometry": {"coordinates":[178.018951,-38.661102],"type":"Point"}
+  "bbox": [
+    178.018951,
+    -38.661102,
+    178.018951,
+    -38.661102
+],
+  "geometry": {"coordinates":[178.01895099999999,-38.661102],"type":"Point"}
 }

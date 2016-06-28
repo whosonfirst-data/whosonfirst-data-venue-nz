@@ -2,13 +2,14 @@
   "id": 203190589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.616486,-40.358204,175.616486,-40.358204",
     "geom:latitude":-40.358204,
     "geom:longitude":175.616486,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"392 Ferguson St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203190589,
-    "wof:lastmodified":1449026754,
+    "wof:lastmodified":1466311286,
     "wof:name":"Sunshine Super Laundry",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaner"
     ]
 },
-  "bbox": [175.616486,-40.358204,175.616486,-40.358204],
-  "geometry": {"coordinates":[175.616486,-40.358204],"type":"Point"}
+  "bbox": [
+    175.616486,
+    -40.358204,
+    175.616486,
+    -40.358204
+],
+  "geometry": {"coordinates":[175.61648600000001,-40.358204],"type":"Point"}
 }

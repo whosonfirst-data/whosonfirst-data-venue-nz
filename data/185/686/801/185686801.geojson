@@ -2,13 +2,14 @@
   "id": 185686801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.537025,39.392338,-84.537025,39.392338",
     "geom:latitude":39.392338,
     "geom:longitude":-84.537025,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Hastings Pl ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185686801,
-    "wof:lastmodified":1449007835,
+    "wof:lastmodified":1466311939,
     "wof:name":"Rice Stephen & Patricia",
     "wof:parent_id":85868059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.537025,39.392338,-84.537025,39.392338],
+  "bbox": [
+    -84.537025,
+    39.392338,
+    -84.537025,
+    39.392338
+],
   "geometry": {"coordinates":[-84.537025,39.392338],"type":"Point"}
 }

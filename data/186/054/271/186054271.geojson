@@ -2,13 +2,14 @@
   "id": 186054271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.71637,-43.559334,172.71637,-43.559334",
     "geom:latitude":-43.559334,
     "geom:longitude":172.71637,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Marama Cre Mt Pleasant ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186054271,
-    "wof:lastmodified":1449051649,
+    "wof:lastmodified":1466311554,
     "wof:name":"AquaTech",
     "wof:parent_id":85778281,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.71637,-43.559334,172.71637,-43.559334],
-  "geometry": {"coordinates":[172.71637,-43.559334],"type":"Point"}
+  "bbox": [
+    172.71637,
+    -43.559334,
+    172.71637,
+    -43.559334
+],
+  "geometry": {"coordinates":[172.71637000000001,-43.559334],"type":"Point"}
 }

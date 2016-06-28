@@ -2,13 +2,14 @@
   "id": 202484159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.246597,-37.757248,175.246597,-37.757248",
     "geom:latitude":-37.757248,
     "geom:longitude":175.246597,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 a Bryant Rd Te Rapa ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202484159,
-    "wof:lastmodified":1449062501,
+    "wof:lastmodified":1466311980,
     "wof:name":"Pharmacy 2000",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.246597,-37.757248,175.246597,-37.757248],
-  "geometry": {"coordinates":[175.246597,-37.757248],"type":"Point"}
+  "bbox": [
+    175.246597,
+    -37.757248,
+    175.246597,
+    -37.757248
+],
+  "geometry": {"coordinates":[175.24659700000001,-37.757248],"type":"Point"}
 }

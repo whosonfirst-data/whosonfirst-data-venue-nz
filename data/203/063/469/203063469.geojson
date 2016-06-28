@@ -2,13 +2,14 @@
   "id": 203063469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.000656,-46.145306,168.000656,-46.145306",
     "geom:latitude":-46.145306,
     "geom:longitude":168.000656,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Queen St ",
     "sg:city":"Otautau",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203063469,
-    "wof:lastmodified":1449025105,
+    "wof:lastmodified":1466311641,
     "wof:name":"McKenzie Bruce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [168.000656,-46.145306,168.000656,-46.145306],
-  "geometry": {"coordinates":[168.000656,-46.145306],"type":"Point"}
+  "bbox": [
+    168.000656,
+    -46.145306,
+    168.000656,
+    -46.145306
+],
+  "geometry": {"coordinates":[168.00065599999999,-46.145306],"type":"Point"}
 }

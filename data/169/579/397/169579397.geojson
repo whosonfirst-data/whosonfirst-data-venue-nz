@@ -2,13 +2,14 @@
   "id": 169579397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764984,-36.854893,174.764984,-36.854893",
     "geom:latitude":-36.854893,
     "geom:longitude":174.764984,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Airedale St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169579397,
-    "wof:lastmodified":1449033740,
+    "wof:lastmodified":1466311393,
     "wof:name":"Profile Plus",
     "wof:parent_id":85778317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [174.764984,-36.854893,174.764984,-36.854893],
+  "bbox": [
+    174.764984,
+    -36.854893,
+    174.764984,
+    -36.854893
+],
   "geometry": {"coordinates":[174.764984,-36.854893],"type":"Point"}
 }

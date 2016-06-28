@@ -2,13 +2,14 @@
   "id": 219750661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.149826,-37.715538,176.149826,-37.715538",
     "geom:latitude":-37.715538,
     "geom:longitude":176.149826,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"289 Fraser St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219750661,
-    "wof:lastmodified":1449072523,
+    "wof:lastmodified":1466312910,
     "wof:name":"Pacific Motors Fraser St",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "servicing"
     ]
 },
-  "bbox": [176.149826,-37.715538,176.149826,-37.715538],
-  "geometry": {"coordinates":[176.149826,-37.715538],"type":"Point"}
+  "bbox": [
+    176.149826,
+    -37.715538,
+    176.149826,
+    -37.715538
+],
+  "geometry": {"coordinates":[176.14982599999999,-37.715538],"type":"Point"}
 }

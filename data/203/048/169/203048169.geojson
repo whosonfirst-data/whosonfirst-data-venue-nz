@@ -2,13 +2,14 @@
   "id": 203048169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.782806,-36.850441,174.782806,-36.850441",
     "geom:latitude":-36.850441,
     "geom:longitude":174.782806,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Kenwyn St Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203048169,
-    "wof:lastmodified":1449025584,
+    "wof:lastmodified":1466311472,
     "wof:name":"BBQ's.co.nz",
     "wof:parent_id":85782027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.782806,-36.850441,174.782806,-36.850441],
-  "geometry": {"coordinates":[174.782806,-36.850441],"type":"Point"}
+  "bbox": [
+    174.782806,
+    -36.850441,
+    174.782806,
+    -36.850441
+],
+  "geometry": {"coordinates":[174.78280599999999,-36.850441],"type":"Point"}
 }

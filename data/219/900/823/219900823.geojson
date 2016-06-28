@@ -2,13 +2,14 @@
   "id": 219900823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.312706,38.780788,-75.312706,38.780788",
     "geom:latitude":38.780788,
     "geom:longitude":-75.312706,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"332 Union St ",
     "sg:city":"Milton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219900823,
-    "wof:lastmodified":1449071911,
+    "wof:lastmodified":1466313088,
     "wof:name":"Calder Stewart Steel Ltd",
     "wof:parent_id":85823997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-75.312706,38.780788,-75.312706,38.780788],
-  "geometry": {"coordinates":[-75.312706,38.780788],"type":"Point"}
+  "bbox": [
+    -75.312706,
+    38.780788,
+    -75.312706,
+    38.780788
+],
+  "geometry": {"coordinates":[-75.31270600000001,38.780788],"type":"Point"}
 }

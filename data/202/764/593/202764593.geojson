@@ -2,13 +2,14 @@
   "id": 202764593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.276993,-37.783211,175.276993,-37.783211",
     "geom:latitude":-37.783211,
     "geom:longitude":175.276993,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Bryant Rd & Norris Ave ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202764593,
-    "wof:lastmodified":1449062531,
+    "wof:lastmodified":1466312540,
     "wof:name":"Door Styles",
     "wof:parent_id":85780927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fitting"
     ]
 },
-  "bbox": [175.276993,-37.783211,175.276993,-37.783211],
+  "bbox": [
+    175.276993,
+    -37.783211,
+    175.276993,
+    -37.783211
+],
   "geometry": {"coordinates":[175.276993,-37.783211],"type":"Point"}
 }

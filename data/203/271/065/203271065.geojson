@@ -2,13 +2,14 @@
   "id": 203271065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.659622,-40.951263,175.659622,-40.951263",
     "geom:latitude":-40.951263,
     "geom:longitude":175.659622,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"209 Queen St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203271065,
-    "wof:lastmodified":1449025934,
+    "wof:lastmodified":1466312092,
     "wof:name":"The Vault Jean Company",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.659622,-40.951263,175.659622,-40.951263],
-  "geometry": {"coordinates":[175.659622,-40.951263],"type":"Point"}
+  "bbox": [
+    175.659622,
+    -40.951263,
+    175.659622,
+    -40.951263
+],
+  "geometry": {"coordinates":[175.65962200000001,-40.951263],"type":"Point"}
 }

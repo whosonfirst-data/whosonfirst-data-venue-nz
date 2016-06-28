@@ -2,13 +2,14 @@
   "id": 219855245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.011475,-41.147579,175.011475,-41.147579",
     "geom:latitude":-41.147579,
     "geom:longitude":175.011475,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Chichester Dve Silverstream Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219855245,
-    "wof:lastmodified":1449073006,
+    "wof:lastmodified":1466313064,
     "wof:name":"Sammut P C & J M",
     "wof:parent_id":85773187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [175.011475,-41.147579,175.011475,-41.147579],
-  "geometry": {"coordinates":[175.011475,-41.147579],"type":"Point"}
+  "bbox": [
+    175.011475,
+    -41.147579,
+    175.011475,
+    -41.147579
+],
+  "geometry": {"coordinates":[175.01147499999999,-41.147579],"type":"Point"}
 }

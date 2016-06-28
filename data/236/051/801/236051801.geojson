@@ -2,13 +2,14 @@
   "id": 236051801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.941223,-37.057407,174.941223,-37.057407",
     "geom:latitude":-37.057407,
     "geom:longitude":174.941223,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2/1 Old Wairoa Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236051801,
-    "wof:lastmodified":1449003736,
+    "wof:lastmodified":1466311253,
     "wof:name":"South Auckland Granite",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "headstone"
     ]
 },
-  "bbox": [174.941223,-37.057407,174.941223,-37.057407],
-  "geometry": {"coordinates":[174.941223,-37.057407],"type":"Point"}
+  "bbox": [
+    174.941223,
+    -37.057407,
+    174.941223,
+    -37.057407
+],
+  "geometry": {"coordinates":[174.94122300000001,-37.057407],"type":"Point"}
 }

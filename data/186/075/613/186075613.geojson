@@ -2,13 +2,14 @@
   "id": 186075613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.501541,-45.896782,170.501541,-45.896782",
     "geom:latitude":-45.896782,
     "geom:longitude":170.501541,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"314 King Edward St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186075613,
-    "wof:lastmodified":1449051838,
+    "wof:lastmodified":1466311805,
     "wof:name":"Aotea Electric Southern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.501541,-45.896782,170.501541,-45.896782],
+  "bbox": [
+    170.501541,
+    -45.896782,
+    170.501541,
+    -45.896782
+],
   "geometry": {"coordinates":[170.501541,-45.896782],"type":"Point"}
 }

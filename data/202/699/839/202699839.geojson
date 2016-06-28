@@ -2,13 +2,14 @@
   "id": 202699839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.404327,-39.417366,175.404327,-39.417366",
     "geom:latitude":-39.417366,
     "geom:longitude":175.404327,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Karamu Pl ",
     "sg:city":"Ohakune",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202699839,
-    "wof:lastmodified":1449060454,
+    "wof:lastmodified":1466312104,
     "wof:name":"Te Aroha Kohanga Reo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "children"
     ]
 },
-  "bbox": [175.404327,-39.417366,175.404327,-39.417366],
-  "geometry": {"coordinates":[175.404327,-39.417366],"type":"Point"}
+  "bbox": [
+    175.404327,
+    -39.417366,
+    175.404327,
+    -39.417366
+],
+  "geometry": {"coordinates":[175.40432699999999,-39.417366],"type":"Point"}
 }

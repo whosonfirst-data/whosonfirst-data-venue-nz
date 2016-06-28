@@ -2,13 +2,14 @@
   "id": 219914449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.861725,-36.853352,174.861725,-36.853352",
     "geom:latitude":-36.853352,
     "geom:longitude":174.861725,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 B Yattendon Rd St Heliers ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219914449,
-    "wof:lastmodified":1449071740,
+    "wof:lastmodified":1466313094,
     "wof:name":"Exacta Manufacturing Ltd",
     "wof:parent_id":85773175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.861725,-36.853352,174.861725,-36.853352],
-  "geometry": {"coordinates":[174.861725,-36.853352],"type":"Point"}
+  "bbox": [
+    174.861725,
+    -36.853352,
+    174.861725,
+    -36.853352
+],
+  "geometry": {"coordinates":[174.86172500000001,-36.853352],"type":"Point"}
 }

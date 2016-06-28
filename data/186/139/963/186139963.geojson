@@ -2,13 +2,14 @@
   "id": 186139963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.217133,-37.7659,175.217133,-37.7659",
     "geom:latitude":-37.7659,
     "geom:longitude":175.217133,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Rotokauri Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186139963,
-    "wof:lastmodified":1449050491,
+    "wof:lastmodified":1466310894,
     "wof:name":"W P & T P Rae",
     "wof:parent_id":85781739,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.217133,-37.7659,175.217133,-37.7659],
-  "geometry": {"coordinates":[175.217133,-37.7659],"type":"Point"}
+  "bbox": [
+    175.217133,
+    -37.7659,
+    175.217133,
+    -37.7659
+],
+  "geometry": {"coordinates":[175.21713299999999,-37.7659],"type":"Point"}
 }

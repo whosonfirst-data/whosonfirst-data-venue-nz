@@ -2,13 +2,14 @@
   "id": 202906897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.830139,33.028381,-85.830139,33.028381",
     "geom:latitude":33.028381,
     "geom:longitude":-85.830139,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"James ",
     "sg:city":"Alexander",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202906897,
-    "wof:lastmodified":1449061081,
+    "wof:lastmodified":1466312807,
     "wof:name":"Summit-Quinphos (NZ) Ltd",
     "wof:parent_id":85853455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.830139,33.028381,-85.830139,33.028381],
+  "bbox": [
+    -85.830139,
+    33.028381,
+    -85.830139,
+    33.028381
+],
   "geometry": {"coordinates":[-85.830139,33.028381],"type":"Point"}
 }

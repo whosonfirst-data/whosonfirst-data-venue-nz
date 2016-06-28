@@ -2,13 +2,14 @@
   "id": 169575627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.154984,-37.675465,176.154984,-37.675465",
     "geom:latitude":-37.675465,
     "geom:longitude":176.154984,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Goods Rd Otumoetai ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169575627,
-    "wof:lastmodified":1449033643,
+    "wof:lastmodified":1466311281,
     "wof:name":"Bev Moore Calligraphist",
     "wof:parent_id":85781315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.154984,-37.675465,176.154984,-37.675465],
-  "geometry": {"coordinates":[176.154984,-37.675465],"type":"Point"}
+  "bbox": [
+    176.154984,
+    -37.675465,
+    176.154984,
+    -37.675465
+],
+  "geometry": {"coordinates":[176.15498400000001,-37.675465],"type":"Point"}
 }

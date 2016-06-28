@@ -2,13 +2,14 @@
   "id": 202757385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.655151,-40.329353,175.655151,-40.329353",
     "geom:latitude":-40.329353,
     "geom:longitude":175.655151,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Fernlea Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202757385,
-    "wof:lastmodified":1449061531,
+    "wof:lastmodified":1466312521,
     "wof:name":"Fernlea Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "village"
     ]
 },
-  "bbox": [175.655151,-40.329353,175.655151,-40.329353],
-  "geometry": {"coordinates":[175.655151,-40.329353],"type":"Point"}
+  "bbox": [
+    175.655151,
+    -40.329353,
+    175.655151,
+    -40.329353
+],
+  "geometry": {"coordinates":[175.65515099999999,-40.329353],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203198811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.771362,-36.788082,174.771362,-36.788082",
     "geom:latitude":-36.788082,
     "geom:longitude":174.771362,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Lake Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203198811,
-    "wof:lastmodified":1449025602,
+    "wof:lastmodified":1466311361,
     "wof:name":"Farmers Trading Co Ltd",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.771362,-36.788082,174.771362,-36.788082],
-  "geometry": {"coordinates":[174.771362,-36.788082],"type":"Point"}
+  "bbox": [
+    174.771362,
+    -36.788082,
+    174.771362,
+    -36.788082
+],
+  "geometry": {"coordinates":[174.77136200000001,-36.788082],"type":"Point"}
 }

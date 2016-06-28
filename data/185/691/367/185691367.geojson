@@ -2,13 +2,14 @@
   "id": 185691367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.365952,-46.40852,168.365952,-46.40852",
     "geom:latitude":-46.40852,
     "geom:longitude":168.365952,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"86 a Ritchie St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185691367,
-    "wof:lastmodified":1449006736,
+    "wof:lastmodified":1466311958,
     "wof:name":"Classic Hits DJ",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [168.365952,-46.40852,168.365952,-46.40852],
-  "geometry": {"coordinates":[168.365952,-46.40852],"type":"Point"}
+  "bbox": [
+    168.365952,
+    -46.40852,
+    168.365952,
+    -46.40852
+],
+  "geometry": {"coordinates":[168.36595199999999,-46.40852],"type":"Point"}
 }

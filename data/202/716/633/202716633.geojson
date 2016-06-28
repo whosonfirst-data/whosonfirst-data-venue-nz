@@ -2,13 +2,14 @@
   "id": 202716633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.604767,-40.357304,175.604767,-40.357304",
     "geom:latitude":-40.357304,
     "geom:longitude":175.604767,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 David St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202716633,
-    "wof:lastmodified":1449060468,
+    "wof:lastmodified":1466312195,
     "wof:name":"Balfour Cleaning Co Ltd",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "furniture"
     ]
 },
-  "bbox": [175.604767,-40.357304,175.604767,-40.357304],
-  "geometry": {"coordinates":[175.604767,-40.357304],"type":"Point"}
+  "bbox": [
+    175.604767,
+    -40.357304,
+    175.604767,
+    -40.357304
+],
+  "geometry": {"coordinates":[175.60476700000001,-40.357304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169868947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.723251,-36.623074,174.723251,-36.623074",
     "geom:latitude":-36.623074,
     "geom:longitude":174.723251,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Gledstane Rd Stanmore Bay Hibiscus ",
     "sg:city":"Hibiscus Coast",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169868947,
-    "wof:lastmodified":1449032839,
+    "wof:lastmodified":1466312054,
     "wof:name":"Technicart",
     "wof:parent_id":85782043,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.723251,-36.623074,174.723251,-36.623074],
+  "bbox": [
+    174.723251,
+    -36.623074,
+    174.723251,
+    -36.623074
+],
   "geometry": {"coordinates":[174.723251,-36.623074],"type":"Point"}
 }

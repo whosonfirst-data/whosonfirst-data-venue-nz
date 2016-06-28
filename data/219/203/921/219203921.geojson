@@ -2,13 +2,14 @@
   "id": 219203921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.651428,-43.393524,172.651428,-43.393524",
     "geom:latitude":-43.393524,
     "geom:longitude":172.651428,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Kiln Pl ",
     "sg:city":"Kaiapoi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219203921,
-    "wof:lastmodified":1449071964,
+    "wof:lastmodified":1466311508,
     "wof:name":"Lawrence Transport",
     "wof:parent_id":85782425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.651428,-43.393524,172.651428,-43.393524],
-  "geometry": {"coordinates":[172.651428,-43.393524],"type":"Point"}
+  "bbox": [
+    172.651428,
+    -43.393524,
+    172.651428,
+    -43.393524
+],
+  "geometry": {"coordinates":[172.65142800000001,-43.393524],"type":"Point"}
 }

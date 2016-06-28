@@ -2,13 +2,14 @@
   "id": 202388493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.940262,-37.059456,174.940262,-37.059456",
     "geom:latitude":-37.059456,
     "geom:longitude":174.940262,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Gt South Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202388493,
-    "wof:lastmodified":1449060189,
+    "wof:lastmodified":1466310709,
     "wof:name":"The Dental Company",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "health"
     ]
 },
-  "bbox": [174.940262,-37.059456,174.940262,-37.059456],
-  "geometry": {"coordinates":[174.940262,-37.059456],"type":"Point"}
+  "bbox": [
+    174.940262,
+    -37.059456,
+    174.940262,
+    -37.059456
+],
+  "geometry": {"coordinates":[174.94026199999999,-37.059456],"type":"Point"}
 }

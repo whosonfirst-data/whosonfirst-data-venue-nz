@@ -2,13 +2,14 @@
   "id": 202647277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.595718,-40.376835,175.595718,-40.376835",
     "geom:latitude":-40.376835,
     "geom:longitude":175.595718,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Hartley Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202647277,
-    "wof:lastmodified":1449061325,
+    "wof:lastmodified":1466311903,
     "wof:name":"Manawatu Plastering & Painting Service",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "related"
     ]
 },
-  "bbox": [175.595718,-40.376835,175.595718,-40.376835],
-  "geometry": {"coordinates":[175.595718,-40.376835],"type":"Point"}
+  "bbox": [
+    175.595718,
+    -40.376835,
+    175.595718,
+    -40.376835
+],
+  "geometry": {"coordinates":[175.59571800000001,-40.376835],"type":"Point"}
 }

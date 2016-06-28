@@ -2,13 +2,14 @@
   "id": 169568951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.350204,-46.411663,168.350204,-46.411663",
     "geom:latitude":-46.411663,
     "geom:longitude":168.350204,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Esk St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169568951,
-    "wof:lastmodified":1449032608,
+    "wof:lastmodified":1466311110,
     "wof:name":"Yaks N Yetis",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supplier"
     ]
 },
-  "bbox": [168.350204,-46.411663,168.350204,-46.411663],
-  "geometry": {"coordinates":[168.350204,-46.411663],"type":"Point"}
+  "bbox": [
+    168.350204,
+    -46.411663,
+    168.350204,
+    -46.411663
+],
+  "geometry": {"coordinates":[168.35020399999999,-46.411663],"type":"Point"}
 }

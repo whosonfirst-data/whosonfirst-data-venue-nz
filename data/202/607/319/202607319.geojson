@@ -2,13 +2,14 @@
   "id": 202607319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.684158,-43.30254,172.684158,-43.30254",
     "geom:latitude":-43.30254,
     "geom:longitude":172.684158,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"The Mill 1473 Main North Rd Waikuku ",
     "sg:city":"Woodend",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202607319,
-    "wof:lastmodified":1449060439,
+    "wof:lastmodified":1466311577,
     "wof:name":"Sanderson China & Pottery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [172.684158,-43.30254,172.684158,-43.30254],
+  "bbox": [
+    172.684158,
+    -43.30254,
+    172.684158,
+    -43.30254
+],
   "geometry": {"coordinates":[172.684158,-43.30254],"type":"Point"}
 }

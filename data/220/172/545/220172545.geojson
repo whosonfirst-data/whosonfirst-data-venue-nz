@@ -2,13 +2,14 @@
   "id": 220172545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.005981,-39.916855,175.005981,-39.916855",
     "geom:latitude":-39.916855,
     "geom:longitude":175.005981,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Belmont Rd ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220172545,
-    "wof:lastmodified":1449074362,
+    "wof:lastmodified":1466311245,
     "wof:name":"Wanganui Mushrooms Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "veges"
     ]
 },
-  "bbox": [175.005981,-39.916855,175.005981,-39.916855],
-  "geometry": {"coordinates":[175.005981,-39.916855],"type":"Point"}
+  "bbox": [
+    175.005981,
+    -39.916855,
+    175.005981,
+    -39.916855
+],
+  "geometry": {"coordinates":[175.00598099999999,-39.916855],"type":"Point"}
 }

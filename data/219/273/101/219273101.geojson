@@ -2,13 +2,14 @@
   "id": 219273101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.055801,-39.934685,175.055801,-39.934685",
     "geom:latitude":-39.934685,
     "geom:longitude":175.055801,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Taupo Qy ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219273101,
-    "wof:lastmodified":1449072213,
+    "wof:lastmodified":1466312006,
     "wof:name":"Fern Lodge",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.055801,-39.934685,175.055801,-39.934685],
+  "bbox": [
+    175.055801,
+    -39.934685,
+    175.055801,
+    -39.934685
+],
   "geometry": {"coordinates":[175.055801,-39.934685],"type":"Point"}
 }

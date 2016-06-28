@@ -2,13 +2,14 @@
   "id": 169666805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.660309,-40.950481,175.660309,-40.950481",
     "geom:latitude":-40.950481,
     "geom:longitude":175.660309,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Queen St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169666805,
-    "wof:lastmodified":1449033898,
+    "wof:lastmodified":1466310735,
     "wof:name":"La Fleure Floriste",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.660309,-40.950481,175.660309,-40.950481],
-  "geometry": {"coordinates":[175.660309,-40.950481],"type":"Point"}
+  "bbox": [
+    175.660309,
+    -40.950481,
+    175.660309,
+    -40.950481
+],
+  "geometry": {"coordinates":[175.66030900000001,-40.950481],"type":"Point"}
 }

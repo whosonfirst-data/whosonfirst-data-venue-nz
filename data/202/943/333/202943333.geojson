@@ -2,13 +2,14 @@
   "id": 202943333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.842773,-36.938412,174.842773,-36.938412",
     "geom:latitude":-36.938412,
     "geom:longitude":174.842773,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Atkinson Ave Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202943333,
-    "wof:lastmodified":1449060786,
+    "wof:lastmodified":1466312872,
     "wof:name":"Aladdin Lawnmowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.842773,-36.938412,174.842773,-36.938412],
-  "geometry": {"coordinates":[174.842773,-36.938412],"type":"Point"}
+  "bbox": [
+    174.842773,
+    -36.938412,
+    174.842773,
+    -36.938412
+],
+  "geometry": {"coordinates":[174.84277299999999,-36.938412],"type":"Point"}
 }

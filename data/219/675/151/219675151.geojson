@@ -2,13 +2,14 @@
   "id": 219675151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.591339,-40.347218,175.591339,-40.347218",
     "geom:latitude":-40.347218,
     "geom:longitude":175.591339,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Pirani Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219675151,
-    "wof:lastmodified":1449072178,
+    "wof:lastmodified":1466312746,
     "wof:name":"Peter Baker Glass Limited",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.591339,-40.347218,175.591339,-40.347218],
+  "bbox": [
+    175.591339,
+    -40.347218,
+    175.591339,
+    -40.347218
+],
   "geometry": {"coordinates":[175.591339,-40.347218],"type":"Point"}
 }

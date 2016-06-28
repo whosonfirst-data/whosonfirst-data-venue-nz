@@ -2,13 +2,14 @@
   "id": 219962731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.625244,-40.379257,175.625244,-40.379257",
     "geom:latitude":-40.379257,
     "geom:longitude":175.625244,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Mountain View Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219962731,
-    "wof:lastmodified":1449072462,
+    "wof:lastmodified":1466313124,
     "wof:name":"Durobuilt Building Systems",
     "wof:parent_id":85780891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.625244,-40.379257,175.625244,-40.379257],
-  "geometry": {"coordinates":[175.625244,-40.379257],"type":"Point"}
+  "bbox": [
+    175.625244,
+    -40.379257,
+    175.625244,
+    -40.379257
+],
+  "geometry": {"coordinates":[175.62524400000001,-40.379257],"type":"Point"}
 }

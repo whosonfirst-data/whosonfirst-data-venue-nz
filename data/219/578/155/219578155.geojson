@@ -2,13 +2,14 @@
   "id": 219578155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.836777,-36.936737,174.836777,-36.936737",
     "geom:latitude":-36.936737,
     "geom:longitude":174.836777,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Great South Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219578155,
-    "wof:lastmodified":1449071285,
+    "wof:lastmodified":1466312435,
     "wof:name":"Otahuhu Autoparts Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.836777,-36.936737,174.836777,-36.936737],
-  "geometry": {"coordinates":[174.836777,-36.936737],"type":"Point"}
+  "bbox": [
+    174.836777,
+    -36.936737,
+    174.836777,
+    -36.936737
+],
+  "geometry": {"coordinates":[174.83677700000001,-36.936737],"type":"Point"}
 }

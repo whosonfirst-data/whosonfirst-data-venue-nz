@@ -2,13 +2,14 @@
   "id": 219264785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.780273,-36.86401,174.780273,-36.86401",
     "geom:latitude":-36.86401,
     "geom:longitude":174.780273,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Sarawai St Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219264785,
-    "wof:lastmodified":1449072679,
+    "wof:lastmodified":1466310677,
     "wof:name":"Rycroft Lodge",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.780273,-36.86401,174.780273,-36.86401],
-  "geometry": {"coordinates":[174.780273,-36.86401],"type":"Point"}
+  "bbox": [
+    174.780273,
+    -36.86401,
+    174.780273,
+    -36.86401
+],
+  "geometry": {"coordinates":[174.78027299999999,-36.86401],"type":"Point"}
 }

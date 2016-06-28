@@ -2,13 +2,14 @@
   "id": 169532729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.587555,-43.489944,172.587555,-43.489944",
     "geom:latitude":-43.489944,
     "geom:longitude":172.587555,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17c Bishopdale Ct",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169532729,
-    "wof:lastmodified":1449033795,
+    "wof:lastmodified":1466310533,
     "wof:name":"Trust Bank Canterbury Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.587555,-43.489944,172.587555,-43.489944],
-  "geometry": {"coordinates":[172.587555,-43.489944],"type":"Point"}
+  "bbox": [
+    172.587555,
+    -43.489944,
+    172.587555,
+    -43.489944
+],
+  "geometry": {"coordinates":[172.58755500000001,-43.489944],"type":"Point"}
 }

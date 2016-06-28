@@ -2,13 +2,14 @@
   "id": 219473891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.046692,-39.913944,175.046692,-39.913944",
     "geom:latitude":-39.913944,
     "geom:longitude":175.046692,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Peat St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219473891,
-    "wof:lastmodified":1449071127,
+    "wof:lastmodified":1466312239,
     "wof:name":"Cullinane College",
     "wof:parent_id":85781217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.046692,-39.913944,175.046692,-39.913944],
-  "geometry": {"coordinates":[175.046692,-39.913944],"type":"Point"}
+  "bbox": [
+    175.046692,
+    -39.913944,
+    175.046692,
+    -39.913944
+],
+  "geometry": {"coordinates":[175.04669200000001,-39.913944],"type":"Point"}
 }

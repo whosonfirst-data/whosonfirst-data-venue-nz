@@ -2,13 +2,14 @@
   "id": 203214729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.16925,-37.686062,176.16925,-37.686062",
     "geom:latitude":-37.686062,
     "geom:longitude":176.16925,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Devonport Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203214729,
-    "wof:lastmodified":1449026817,
+    "wof:lastmodified":1466311500,
     "wof:name":"Sabotage",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabric"
     ]
 },
-  "bbox": [176.16925,-37.686062,176.16925,-37.686062],
-  "geometry": {"coordinates":[176.16925,-37.686062],"type":"Point"}
+  "bbox": [
+    176.16925,
+    -37.686062,
+    176.16925,
+    -37.686062
+],
+  "geometry": {"coordinates":[176.16925000000001,-37.686062],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186236961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.810364,-36.9119,174.810364,-36.9119",
     "geom:latitude":-36.9119,
     "geom:longitude":174.810364,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19-21 Fairfax Ave Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186236961,
-    "wof:lastmodified":1449050533,
+    "wof:lastmodified":1466311739,
     "wof:name":"Engineering Machine Sales Ltd",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.810364,-36.9119,174.810364,-36.9119],
-  "geometry": {"coordinates":[174.810364,-36.9119],"type":"Point"}
+  "bbox": [
+    174.810364,
+    -36.9119,
+    174.810364,
+    -36.9119
+],
+  "geometry": {"coordinates":[174.81036399999999,-36.9119],"type":"Point"}
 }

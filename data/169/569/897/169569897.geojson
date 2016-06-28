@@ -2,13 +2,14 @@
   "id": 169569897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.036926,-36.993172,175.036926,-36.993172",
     "geom:latitude":-36.993172,
     "geom:longitude":175.036926,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr North & Kawakawa Bay Rds Clevedon ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169569897,
-    "wof:lastmodified":1449035831,
+    "wof:lastmodified":1466311129,
     "wof:name":"Clevedon Woolshed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.036926,-36.993172,175.036926,-36.993172],
-  "geometry": {"coordinates":[175.036926,-36.993172],"type":"Point"}
+  "bbox": [
+    175.036926,
+    -36.993172,
+    175.036926,
+    -36.993172
+],
+  "geometry": {"coordinates":[175.03692599999999,-36.993172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202655123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.098114,-41.093639,175.098114,-41.093639",
     "geom:latitude":-41.093639,
     "geom:longitude":175.098114,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"91 A Emerald Hill Dve Birchville Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202655123,
-    "wof:lastmodified":1449061561,
+    "wof:lastmodified":1466311967,
     "wof:name":"Pene K A",
     "wof:parent_id":85778161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plasterer"
     ]
 },
-  "bbox": [175.098114,-41.093639,175.098114,-41.093639],
-  "geometry": {"coordinates":[175.098114,-41.093639],"type":"Point"}
+  "bbox": [
+    175.098114,
+    -41.093639,
+    175.098114,
+    -41.093639
+],
+  "geometry": {"coordinates":[175.09811400000001,-41.093639],"type":"Point"}
 }

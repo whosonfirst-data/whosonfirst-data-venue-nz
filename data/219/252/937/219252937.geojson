@@ -2,13 +2,14 @@
   "id": 219252937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.748276,40.221691,-74.748276,40.221691",
     "geom:latitude":40.221691,
     "geom:longitude":-74.748276,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Foreman Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219252937,
-    "wof:lastmodified":1449070857,
+    "wof:lastmodified":1466310573,
     "wof:name":"Waikato Freight & Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.748276,40.221691,-74.748276,40.221691],
+  "bbox": [
+    -74.748276,
+    40.221691,
+    -74.748276,
+    40.221691
+],
   "geometry": {"coordinates":[-74.748276,40.221691],"type":"Point"}
 }

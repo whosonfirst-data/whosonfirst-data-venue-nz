@@ -2,13 +2,14 @@
   "id": 219603151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.397598,-45.897949,170.397598,-45.897949",
     "geom:latitude":-45.897949,
     "geom:longitude":170.397598,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Main Rd Fairfield ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219603151,
-    "wof:lastmodified":1449073360,
+    "wof:lastmodified":1466312607,
     "wof:name":"Shell Fairfield",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.397598,-45.897949,170.397598,-45.897949],
-  "geometry": {"coordinates":[170.397598,-45.897949],"type":"Point"}
+  "bbox": [
+    170.397598,
+    -45.897949,
+    170.397598,
+    -45.897949
+],
+  "geometry": {"coordinates":[170.39759799999999,-45.897949],"type":"Point"}
 }

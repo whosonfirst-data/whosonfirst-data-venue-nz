@@ -2,13 +2,14 @@
   "id": 186463553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"145.189743,-38.299313,145.189743,-38.299313",
     "geom:latitude":-38.299313,
     "geom:longitude":145.189743,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"402 Victoria St ",
     "sg:city":"Hastings",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186463553,
-    "wof:lastmodified":1449052231,
+    "wof:lastmodified":1466312650,
     "wof:name":"HB Directional Drilling Ltd",
     "wof:parent_id":85770893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [145.189743,-38.299313,145.189743,-38.299313],
-  "geometry": {"coordinates":[145.189743,-38.299313],"type":"Point"}
+  "bbox": [
+    145.189743,
+    -38.299313,
+    145.189743,
+    -38.299313
+],
+  "geometry": {"coordinates":[145.18974299999999,-38.299313],"type":"Point"}
 }

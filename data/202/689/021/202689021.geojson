@@ -2,13 +2,14 @@
   "id": 202689021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.706619,-40.64381,175.706619,-40.64381",
     "geom:latitude":-40.64381,
     "geom:longitude":175.706619,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Herbert St ",
     "sg:city":"Eketahuna",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202689021,
-    "wof:lastmodified":1449062237,
+    "wof:lastmodified":1466312314,
     "wof:name":"Eketahuna Playcentre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "children"
     ]
 },
-  "bbox": [175.706619,-40.64381,175.706619,-40.64381],
-  "geometry": {"coordinates":[175.706619,-40.64381],"type":"Point"}
+  "bbox": [
+    175.706619,
+    -40.64381,
+    175.706619,
+    -40.64381
+],
+  "geometry": {"coordinates":[175.70661899999999,-40.64381],"type":"Point"}
 }

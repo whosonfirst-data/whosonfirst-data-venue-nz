@@ -2,13 +2,14 @@
   "id": 185907873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.623123,-40.386028,175.623123,-40.386028",
     "geom:latitude":-40.386028,
     "geom:longitude":175.623123,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Massey University Recreation and Sports Centre Palmerston",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185907873,
-    "wof:lastmodified":1449008094,
+    "wof:lastmodified":1466311920,
     "wof:name":"Ski `n Sport Shop",
     "wof:parent_id":85780891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.623123,-40.386028,175.623123,-40.386028],
-  "geometry": {"coordinates":[175.623123,-40.386028],"type":"Point"}
+  "bbox": [
+    175.623123,
+    -40.386028,
+    175.623123,
+    -40.386028
+],
+  "geometry": {"coordinates":[175.62312299999999,-40.386028],"type":"Point"}
 }

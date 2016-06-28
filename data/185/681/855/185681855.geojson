@@ -2,13 +2,14 @@
   "id": 185681855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.593689,-40.380531,175.593689,-40.380531",
     "geom:latitude":-40.380531,
     "geom:longitude":175.593689,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Hampden St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185681855,
-    "wof:lastmodified":1449007602,
+    "wof:lastmodified":1466311870,
     "wof:name":"Abra The Wizard",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.593689,-40.380531,175.593689,-40.380531],
-  "geometry": {"coordinates":[175.593689,-40.380531],"type":"Point"}
+  "bbox": [
+    175.593689,
+    -40.380531,
+    175.593689,
+    -40.380531
+],
+  "geometry": {"coordinates":[175.59368900000001,-40.380531],"type":"Point"}
 }

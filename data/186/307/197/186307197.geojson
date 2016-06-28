@@ -2,13 +2,14 @@
   "id": 186307197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.332214,-38.004215,175.332214,-38.004215",
     "geom:latitude":-38.004215,
     "geom:longitude":175.332214,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Jack Russell Rd Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186307197,
-    "wof:lastmodified":1449051086,
+    "wof:lastmodified":1466312216,
     "wof:name":"R C Y Metals Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.332214,-38.004215,175.332214,-38.004215],
-  "geometry": {"coordinates":[175.332214,-38.004215],"type":"Point"}
+  "bbox": [
+    175.332214,
+    -38.004215,
+    175.332214,
+    -38.004215
+],
+  "geometry": {"coordinates":[175.33221399999999,-38.004215],"type":"Point"}
 }

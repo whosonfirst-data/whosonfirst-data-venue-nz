@@ -2,13 +2,14 @@
   "id": 202596197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.732681,-37.248444,174.732681,-37.248444",
     "geom:latitude":-37.248444,
     "geom:longitude":174.732681,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Smith Road R D 2 ",
     "sg:city":"Waiuku",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202596197,
-    "wof:lastmodified":1449061419,
+    "wof:lastmodified":1466311483,
     "wof:name":"Svord Knives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.732681,-37.248444,174.732681,-37.248444],
-  "geometry": {"coordinates":[174.732681,-37.248444],"type":"Point"}
+  "bbox": [
+    174.732681,
+    -37.248444,
+    174.732681,
+    -37.248444
+],
+  "geometry": {"coordinates":[174.73268100000001,-37.248444],"type":"Point"}
 }

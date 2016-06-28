@@ -2,13 +2,14 @@
   "id": 219552933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.656219,-43.521725,172.656219,-43.521725",
     "geom:latitude":-43.521725,
     "geom:longitude":172.656219,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Stanmore Rd Richmond ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219552933,
-    "wof:lastmodified":1449071860,
+    "wof:lastmodified":1466312364,
     "wof:name":"Butler Auto Mart Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.656219,-43.521725,172.656219,-43.521725],
-  "geometry": {"coordinates":[172.656219,-43.521725],"type":"Point"}
+  "bbox": [
+    172.656219,
+    -43.521725,
+    172.656219,
+    -43.521725
+],
+  "geometry": {"coordinates":[172.65621899999999,-43.521725],"type":"Point"}
 }

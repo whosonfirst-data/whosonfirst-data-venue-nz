@@ -2,13 +2,14 @@
   "id": 186134839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.252075,-38.133728,176.252075,-38.133728",
     "geom:latitude":-38.133728,
     "geom:longitude":176.252075,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1155 Pukaki St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186134839,
-    "wof:lastmodified":1449052886,
+    "wof:lastmodified":1466310850,
     "wof:name":"APR Design Consultants",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.252075,-38.133728,176.252075,-38.133728],
-  "geometry": {"coordinates":[176.252075,-38.133728],"type":"Point"}
+  "bbox": [
+    176.252075,
+    -38.133728,
+    176.252075,
+    -38.133728
+],
+  "geometry": {"coordinates":[176.25207499999999,-38.133728],"type":"Point"}
 }

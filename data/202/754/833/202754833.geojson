@@ -2,13 +2,14 @@
   "id": 202754833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.561844,-40.225998,175.561844,-40.225998",
     "geom:latitude":-40.225998,
     "geom:longitude":175.561844,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Bowen St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202754833,
-    "wof:lastmodified":1449061744,
+    "wof:lastmodified":1466312517,
     "wof:name":"Woodfall Retirement Lodge",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "care"
     ]
 },
-  "bbox": [175.561844,-40.225998,175.561844,-40.225998],
-  "geometry": {"coordinates":[175.561844,-40.225998],"type":"Point"}
+  "bbox": [
+    175.561844,
+    -40.225998,
+    175.561844,
+    -40.225998
+],
+  "geometry": {"coordinates":[175.56184400000001,-40.225998],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169547983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.84819,-39.53616,176.84819,-39.53616",
     "geom:latitude":-39.53616,
     "geom:longitude":176.84819,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"291 Gloucester St Taradale ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169547983,
-    "wof:lastmodified":1449033008,
+    "wof:lastmodified":1466310781,
     "wof:name":"Carr Ian Jeweller Ltd",
     "wof:parent_id":85773225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.84819,-39.53616,176.84819,-39.53616],
-  "geometry": {"coordinates":[176.84819,-39.53616],"type":"Point"}
+  "bbox": [
+    176.84819,
+    -39.53616,
+    176.84819,
+    -39.53616
+],
+  "geometry": {"coordinates":[176.84818999999999,-39.53616],"type":"Point"}
 }

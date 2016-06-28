@@ -2,13 +2,14 @@
   "id": 236056299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.786381,-36.853476,174.786381,-36.853476",
     "geom:latitude":-36.853476,
     "geom:longitude":174.786381,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 37996",
     "sg:city":"Parnell",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":236056299,
-    "wof:lastmodified":1449002416,
+    "wof:lastmodified":1466311262,
     "wof:name":"Gopher",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.786381,-36.853476,174.786381,-36.853476],
-  "geometry": {"coordinates":[174.786381,-36.853476],"type":"Point"}
+  "bbox": [
+    174.786381,
+    -36.853476,
+    174.786381,
+    -36.853476
+],
+  "geometry": {"coordinates":[174.78638100000001,-36.853476],"type":"Point"}
 }

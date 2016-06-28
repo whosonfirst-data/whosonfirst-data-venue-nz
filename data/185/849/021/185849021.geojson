@@ -2,13 +2,14 @@
   "id": 185849021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.040451,-41.134567,175.040451,-41.134567",
     "geom:latitude":-41.134567,
     "geom:longitude":175.040451,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Ranfurly St Trentham Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185849021,
-    "wof:lastmodified":1449006914,
+    "wof:lastmodified":1466311562,
     "wof:name":"Sims Sound Service",
     "wof:parent_id":85773263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.040451,-41.134567,175.040451,-41.134567],
-  "geometry": {"coordinates":[175.040451,-41.134567],"type":"Point"}
+  "bbox": [
+    175.040451,
+    -41.134567,
+    175.040451,
+    -41.134567
+],
+  "geometry": {"coordinates":[175.04045099999999,-41.134567],"type":"Point"}
 }

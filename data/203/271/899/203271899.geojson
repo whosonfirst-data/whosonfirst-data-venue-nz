@@ -2,13 +2,14 @@
   "id": 203271899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764542,-36.848358,174.764542,-36.848358",
     "geom:latitude":-36.848358,
     "geom:longitude":174.764542,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Chancery Square 1 Chancery St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203271899,
-    "wof:lastmodified":1449025934,
+    "wof:lastmodified":1466312224,
     "wof:name":"Working Style Auckland City",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.764542,-36.848358,174.764542,-36.848358],
-  "geometry": {"coordinates":[174.764542,-36.848358],"type":"Point"}
+  "bbox": [
+    174.764542,
+    -36.848358,
+    174.764542,
+    -36.848358
+],
+  "geometry": {"coordinates":[174.76454200000001,-36.848358],"type":"Point"}
 }

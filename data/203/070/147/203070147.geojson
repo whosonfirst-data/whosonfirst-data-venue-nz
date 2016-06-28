@@ -2,13 +2,14 @@
   "id": 203070147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.451462,-36.66951,174.451462,-36.66951",
     "geom:latitude":-36.66951,
     "geom:longitude":174.451462,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"West St Helensville ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203070147,
-    "wof:lastmodified":1449025837,
+    "wof:lastmodified":1466311733,
     "wof:name":"Oikoumene Forest Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "outdoor"
     ]
 },
-  "bbox": [174.451462,-36.66951,174.451462,-36.66951],
-  "geometry": {"coordinates":[174.451462,-36.66951],"type":"Point"}
+  "bbox": [
+    174.451462,
+    -36.66951,
+    174.451462,
+    -36.66951
+],
+  "geometry": {"coordinates":[174.45146199999999,-36.66951],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186608299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.957977,-41.177765,174.957977,-41.177765",
     "geom:latitude":-41.177765,
     "geom:longitude":174.957977,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Taita Community Centre 24 Taine St Taita ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186608299,
-    "wof:lastmodified":1449051519,
+    "wof:lastmodified":1466312970,
     "wof:name":"5 Star Gymnastics",
     "wof:parent_id":85773211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [174.957977,-41.177765,174.957977,-41.177765],
+  "bbox": [
+    174.957977,
+    -41.177765,
+    174.957977,
+    -41.177765
+],
   "geometry": {"coordinates":[174.957977,-41.177765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219756245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.823502,-41.306473,174.823502,-41.306473",
     "geom:latitude":-41.306473,
     "geom:longitude":174.823502,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Camperdown Rd Miramar ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219756245,
-    "wof:lastmodified":1449072503,
+    "wof:lastmodified":1466312914,
     "wof:name":"Mike's Transmission",
     "wof:parent_id":85773025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.823502,-41.306473,174.823502,-41.306473],
-  "geometry": {"coordinates":[174.823502,-41.306473],"type":"Point"}
+  "bbox": [
+    174.823502,
+    -41.306473,
+    174.823502,
+    -41.306473
+],
+  "geometry": {"coordinates":[174.82350199999999,-41.306473],"type":"Point"}
 }

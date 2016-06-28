@@ -2,13 +2,14 @@
   "id": 186319043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.886902,-36.949135,174.886902,-36.949135",
     "geom:latitude":-36.949135,
     "geom:longitude":174.886902,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2/22 Andromeda Cre East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186319043,
-    "wof:lastmodified":1449051470,
+    "wof:lastmodified":1466312143,
     "wof:name":"Springpark Fabricators Ltd",
     "wof:parent_id":85778267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.886902,-36.949135,174.886902,-36.949135],
-  "geometry": {"coordinates":[174.886902,-36.949135],"type":"Point"}
+  "bbox": [
+    174.886902,
+    -36.949135,
+    174.886902,
+    -36.949135
+],
+  "geometry": {"coordinates":[174.88690199999999,-36.949135],"type":"Point"}
 }

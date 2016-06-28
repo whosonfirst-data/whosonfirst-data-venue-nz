@@ -2,13 +2,14 @@
   "id": 169578885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.805405,-36.908859,174.805405,-36.908859",
     "geom:latitude":-36.908859,
     "geom:longitude":174.805405,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Rockfield Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":169578885,
-    "wof:lastmodified":1449033520,
+    "wof:lastmodified":1466311371,
     "wof:name":"Avenue Displays Graphics",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "store"
     ]
 },
-  "bbox": [174.805405,-36.908859,174.805405,-36.908859],
-  "geometry": {"coordinates":[174.805405,-36.908859],"type":"Point"}
+  "bbox": [
+    174.805405,
+    -36.908859,
+    174.805405,
+    -36.908859
+],
+  "geometry": {"coordinates":[174.80540500000001,-36.908859],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202816357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.930542,-37.051678,174.930542,-37.051678",
     "geom:latitude":-37.051678,
     "geom:longitude":174.930542,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Great South Rd Takanini ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202816357,
-    "wof:lastmodified":1449061595,
+    "wof:lastmodified":1466312593,
     "wof:name":"Waitemata Back Care Beds & Beds & Beds",
     "wof:parent_id":85781393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [174.930542,-37.051678,174.930542,-37.051678],
+  "bbox": [
+    174.930542,
+    -37.051678,
+    174.930542,
+    -37.051678
+],
   "geometry": {"coordinates":[174.930542,-37.051678],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219937945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.607162,-40.340706,175.607162,-40.340706",
     "geom:latitude":-40.340706,
     "geom:longitude":175.607162,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"641 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219937945,
-    "wof:lastmodified":1449071057,
+    "wof:lastmodified":1466313166,
     "wof:name":"Mico Pipelines",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.607162,-40.340706,175.607162,-40.340706],
-  "geometry": {"coordinates":[175.607162,-40.340706],"type":"Point"}
+  "bbox": [
+    175.607162,
+    -40.340706,
+    175.607162,
+    -40.340706
+],
+  "geometry": {"coordinates":[175.60716199999999,-40.340706],"type":"Point"}
 }

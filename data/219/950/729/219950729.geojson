@@ -2,13 +2,14 @@
   "id": 219950729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.602905,-40.364368,175.602905,-40.364368",
     "geom:latitude":-40.364368,
     "geom:longitude":175.602905,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Ferguson St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219950729,
-    "wof:lastmodified":1449071762,
+    "wof:lastmodified":1466313113,
     "wof:name":"Ferguson Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.602905,-40.364368,175.602905,-40.364368],
-  "geometry": {"coordinates":[175.602905,-40.364368],"type":"Point"}
+  "bbox": [
+    175.602905,
+    -40.364368,
+    175.602905,
+    -40.364368
+],
+  "geometry": {"coordinates":[175.60290499999999,-40.364368],"type":"Point"}
 }

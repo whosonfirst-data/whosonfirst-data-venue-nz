@@ -2,13 +2,14 @@
   "id": 186060395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.533218,-43.533257,172.533218,-43.533257",
     "geom:latitude":-43.533257,
     "geom:longitude":172.533218,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Halwyn Dve Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186060395,
-    "wof:lastmodified":1449052778,
+    "wof:lastmodified":1466311612,
     "wof:name":"Clark Equipment New Zealand Limited",
     "wof:parent_id":85778617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [172.533218,-43.533257,172.533218,-43.533257],
-  "geometry": {"coordinates":[172.533218,-43.533257],"type":"Point"}
+  "bbox": [
+    172.533218,
+    -43.533257,
+    172.533218,
+    -43.533257
+],
+  "geometry": {"coordinates":[172.53321800000001,-43.533257],"type":"Point"}
 }

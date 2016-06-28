@@ -2,13 +2,14 @@
   "id": 219305649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.895905,-37.021271,174.895905,-37.021271",
     "geom:latitude":-37.021271,
     "geom:longitude":174.895905,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr 246 Gt South Rd & McAnnalley St Manurewa ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219305649,
-    "wof:lastmodified":1449070927,
+    "wof:lastmodified":1466310980,
     "wof:name":"Poacher Guest House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.895905,-37.021271,174.895905,-37.021271],
+  "bbox": [
+    174.895905,
+    -37.021271,
+    174.895905,
+    -37.021271
+],
   "geometry": {"coordinates":[174.895905,-37.021271],"type":"Point"}
 }

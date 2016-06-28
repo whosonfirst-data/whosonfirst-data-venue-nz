@@ -2,13 +2,14 @@
   "id": 235978891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.773026,-36.8997,174.773026,-36.8997",
     "geom:latitude":-36.8997,
     "geom:longitude":174.773026,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"653 Manukau Rd Epsom ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235978891,
-    "wof:lastmodified":1449008443,
+    "wof:lastmodified":1466311368,
     "wof:name":"Frolic Cafe",
     "wof:parent_id":85778511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cafe"
     ]
 },
-  "bbox": [174.773026,-36.8997,174.773026,-36.8997],
-  "geometry": {"coordinates":[174.773026,-36.8997],"type":"Point"}
+  "bbox": [
+    174.773026,
+    -36.8997,
+    174.773026,
+    -36.8997
+],
+  "geometry": {"coordinates":[174.77302599999999,-36.8997],"type":"Point"}
 }

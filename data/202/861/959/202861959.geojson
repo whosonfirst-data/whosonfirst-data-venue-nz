@@ -2,13 +2,14 @@
   "id": 202861959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.629303,-36.887352,174.629303,-36.887352",
     "geom:latitude":-36.887352,
     "geom:longitude":174.629303,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"7 A Woodruffe Ave Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202861959,
-    "wof:lastmodified":1449062626,
+    "wof:lastmodified":1466312635,
     "wof:name":"Ferros Ltd",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "designer"
     ]
 },
-  "bbox": [174.629303,-36.887352,174.629303,-36.887352],
-  "geometry": {"coordinates":[174.629303,-36.887352],"type":"Point"}
+  "bbox": [
+    174.629303,
+    -36.887352,
+    174.629303,
+    -36.887352
+],
+  "geometry": {"coordinates":[174.62930299999999,-36.887352],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186473771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.728378,-36.787014,174.728378,-36.787014",
     "geom:latitude":-36.787014,
     "geom:longitude":174.728378,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Blenheim St Glenfield ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186473771,
-    "wof:lastmodified":1449050965,
+    "wof:lastmodified":1466312674,
     "wof:name":"Paddock Gas & Roofing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.728378,-36.787014,174.728378,-36.787014],
-  "geometry": {"coordinates":[174.728378,-36.787014],"type":"Point"}
+  "bbox": [
+    174.728378,
+    -36.787014,
+    174.728378,
+    -36.787014
+],
+  "geometry": {"coordinates":[174.72837799999999,-36.787014],"type":"Point"}
 }

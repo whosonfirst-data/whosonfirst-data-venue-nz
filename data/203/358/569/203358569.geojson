@@ -2,13 +2,14 @@
   "id": 203358569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.514587,-45.863548,170.514587,-45.863548",
     "geom:latitude":-45.863548,
     "geom:longitude":170.514587,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Castle St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203358569,
-    "wof:lastmodified":1449025721,
+    "wof:lastmodified":1466312531,
     "wof:name":"Fridd's Shoe Repairs",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wear"
     ]
 },
-  "bbox": [170.514587,-45.863548,170.514587,-45.863548],
-  "geometry": {"coordinates":[170.514587,-45.863548],"type":"Point"}
+  "bbox": [
+    170.514587,
+    -45.863548,
+    170.514587,
+    -45.863548
+],
+  "geometry": {"coordinates":[170.51458700000001,-45.863548],"type":"Point"}
 }

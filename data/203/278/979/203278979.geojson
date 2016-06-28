@@ -2,13 +2,14 @@
   "id": 203278979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.661255,-36.891022,174.661255,-36.891022",
     "geom:latitude":-36.891022,
     "geom:longitude":174.661255,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Akatea Rd ",
     "sg:city":"Glendene",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203278979,
-    "wof:lastmodified":1449025996,
+    "wof:lastmodified":1466312130,
     "wof:name":"Cloud Clothing Ltd",
     "wof:parent_id":85780905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.661255,-36.891022,174.661255,-36.891022],
-  "geometry": {"coordinates":[174.661255,-36.891022],"type":"Point"}
+  "bbox": [
+    174.661255,
+    -36.891022,
+    174.661255,
+    -36.891022
+],
+  "geometry": {"coordinates":[174.66125500000001,-36.891022],"type":"Point"}
 }

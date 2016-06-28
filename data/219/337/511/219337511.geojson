@@ -2,13 +2,14 @@
   "id": 219337511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.345963,-46.399513,168.345963,-46.399513",
     "geom:latitude":-46.399513,
     "geom:longitude":168.345963,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Avenal St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219337511,
-    "wof:lastmodified":1449072044,
+    "wof:lastmodified":1466311238,
     "wof:name":"Avenal Place Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accommodation"
     ]
 },
-  "bbox": [168.345963,-46.399513,168.345963,-46.399513],
-  "geometry": {"coordinates":[168.345963,-46.399513],"type":"Point"}
+  "bbox": [
+    168.345963,
+    -46.399513,
+    168.345963,
+    -46.399513
+],
+  "geometry": {"coordinates":[168.34596300000001,-46.399513],"type":"Point"}
 }

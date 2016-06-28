@@ -2,13 +2,14 @@
   "id": 202458873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.742767,-36.905895,174.742767,-36.905895",
     "geom:latitude":-36.905895,
     "geom:longitude":174.742767,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18A Frost Rd PO Box 27804 Mt Roskill ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202458873,
-    "wof:lastmodified":1449061901,
+    "wof:lastmodified":1466311825,
     "wof:name":"Accessable",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "aid"
     ]
 },
-  "bbox": [174.742767,-36.905895,174.742767,-36.905895],
-  "geometry": {"coordinates":[174.742767,-36.905895],"type":"Point"}
+  "bbox": [
+    174.742767,
+    -36.905895,
+    174.742767,
+    -36.905895
+],
+  "geometry": {"coordinates":[174.74276699999999,-36.905895],"type":"Point"}
 }

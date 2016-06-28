@@ -2,13 +2,14 @@
   "id": 185695513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.757095,-36.867268,174.757095,-36.867268",
     "geom:latitude":-36.867268,
     "geom:longitude":174.757095,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Basement 200 West Coast Rd PO Box 20 034 Glen Eden",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":185695513,
-    "wof:lastmodified":1449007213,
+    "wof:lastmodified":1466310532,
     "wof:name":"Lucky Break Pool Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.757095,-36.867268,174.757095,-36.867268],
-  "geometry": {"coordinates":[174.757095,-36.867268],"type":"Point"}
+  "bbox": [
+    174.757095,
+    -36.867268,
+    174.757095,
+    -36.867268
+],
+  "geometry": {"coordinates":[174.75709499999999,-36.867268],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186601499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.702713,-36.854813,174.702713,-36.854813",
     "geom:latitude":-36.854813,
     "geom:longitude":174.702713,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"96 a Harbour View Rd Point Chevalier ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186601499,
-    "wof:lastmodified":1449051575,
+    "wof:lastmodified":1466313034,
     "wof:name":"Healthy Body Systems",
     "wof:parent_id":85778877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "weight"
     ]
 },
-  "bbox": [174.702713,-36.854813,174.702713,-36.854813],
-  "geometry": {"coordinates":[174.702713,-36.854813],"type":"Point"}
+  "bbox": [
+    174.702713,
+    -36.854813,
+    174.702713,
+    -36.854813
+],
+  "geometry": {"coordinates":[174.70271299999999,-36.854813],"type":"Point"}
 }

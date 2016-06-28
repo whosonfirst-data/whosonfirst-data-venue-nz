@@ -2,13 +2,14 @@
   "id": 219982249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.777023,-36.85297,174.777023,-36.85297",
     "geom:latitude":-36.85297,
     "geom:longitude":174.777023,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Heather St Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":219982249,
-    "wof:lastmodified":1449070994,
+    "wof:lastmodified":1466313176,
     "wof:name":"Mischa-Scan Coin Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "finance"
     ]
 },
-  "bbox": [174.777023,-36.85297,174.777023,-36.85297],
-  "geometry": {"coordinates":[174.777023,-36.85297],"type":"Point"}
+  "bbox": [
+    174.777023,
+    -36.85297,
+    174.777023,
+    -36.85297
+],
+  "geometry": {"coordinates":[174.77702300000001,-36.85297],"type":"Point"}
 }

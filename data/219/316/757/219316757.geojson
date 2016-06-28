@@ -2,13 +2,14 @@
   "id": 219316757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.765976,-36.854897,174.765976,-36.854897",
     "geom:latitude":-36.854897,
     "geom:longitude":174.765976,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14-16 Mount St Auckland City ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219316757,
-    "wof:lastmodified":1449072779,
+    "wof:lastmodified":1466311080,
     "wof:name":"University of Auckland",
     "wof:parent_id":85778317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.765976,-36.854897,174.765976,-36.854897],
-  "geometry": {"coordinates":[174.765976,-36.854897],"type":"Point"}
+  "bbox": [
+    174.765976,
+    -36.854897,
+    174.765976,
+    -36.854897
+],
+  "geometry": {"coordinates":[174.76597599999999,-36.854897],"type":"Point"}
 }

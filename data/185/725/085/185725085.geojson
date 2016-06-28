@@ -2,13 +2,14 @@
   "id": 185725085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.768402,-36.845268,174.768402,-36.845268",
     "geom:latitude":-36.845268,
     "geom:longitude":174.768402,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Custom St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185725085,
-    "wof:lastmodified":1449007004,
+    "wof:lastmodified":1466310737,
     "wof:name":"Penthouse",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "entertainment"
     ]
 },
-  "bbox": [174.768402,-36.845268,174.768402,-36.845268],
-  "geometry": {"coordinates":[174.768402,-36.845268],"type":"Point"}
+  "bbox": [
+    174.768402,
+    -36.845268,
+    174.768402,
+    -36.845268
+],
+  "geometry": {"coordinates":[174.76840200000001,-36.845268],"type":"Point"}
 }

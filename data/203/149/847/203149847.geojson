@@ -2,13 +2,14 @@
   "id": 203149847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.812531,-36.898861,174.812531,-36.898861",
     "geom:latitude":-36.898861,
     "geom:longitude":174.812531,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"174 a Main Hwy Ellerslie ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203149847,
-    "wof:lastmodified":1449024943,
+    "wof:lastmodified":1466310907,
     "wof:name":"Dog-E-Bed",
     "wof:parent_id":85782385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pets"
     ]
 },
-  "bbox": [174.812531,-36.898861,174.812531,-36.898861],
-  "geometry": {"coordinates":[174.812531,-36.898861],"type":"Point"}
+  "bbox": [
+    174.812531,
+    -36.898861,
+    174.812531,
+    -36.898861
+],
+  "geometry": {"coordinates":[174.81253100000001,-36.898861],"type":"Point"}
 }

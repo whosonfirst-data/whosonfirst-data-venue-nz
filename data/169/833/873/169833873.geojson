@@ -2,13 +2,14 @@
   "id": 169833873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.680099,-43.492592,172.680099,-43.492592",
     "geom:latitude":-43.492592,
     "geom:longitude":172.680099,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Lakewood Dve Burwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169833873,
-    "wof:lastmodified":1449033106,
+    "wof:lastmodified":1466311909,
     "wof:name":"Seafari Diving Adventures",
     "wof:parent_id":85772863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "sport"
     ]
 },
-  "bbox": [172.680099,-43.492592,172.680099,-43.492592],
-  "geometry": {"coordinates":[172.680099,-43.492592],"type":"Point"}
+  "bbox": [
+    172.680099,
+    -43.492592,
+    172.680099,
+    -43.492592
+],
+  "geometry": {"coordinates":[172.68009900000001,-43.492592],"type":"Point"}
 }

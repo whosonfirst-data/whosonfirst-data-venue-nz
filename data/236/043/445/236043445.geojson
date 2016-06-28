@@ -2,13 +2,14 @@
   "id": 236043445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.729828,-45.015686,168.729828,-45.015686",
     "geom:latitude":-45.015686,
     "geom:longitude":168.729828,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1076 Frankton Rd Frankton ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236043445,
-    "wof:lastmodified":1449004237,
+    "wof:lastmodified":1466311205,
     "wof:name":"R G McGrouther",
     "wof:parent_id":85781785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "arrangement"
     ]
 },
-  "bbox": [168.729828,-45.015686,168.729828,-45.015686],
+  "bbox": [
+    168.729828,
+    -45.015686,
+    168.729828,
+    -45.015686
+],
   "geometry": {"coordinates":[168.729828,-45.015686],"type":"Point"}
 }

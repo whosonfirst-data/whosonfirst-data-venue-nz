@@ -2,13 +2,14 @@
   "id": 219281891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.643692,-36.869297,174.643692,-36.869297",
     "geom:latitude":-36.869297,
     "geom:longitude":174.643692,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Seaview Rd Onetangi ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219281891,
-    "wof:lastmodified":1449073373,
+    "wof:lastmodified":1466310795,
     "wof:name":"YHA Hostels",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.643692,-36.869297,174.643692,-36.869297],
-  "geometry": {"coordinates":[174.643692,-36.869297],"type":"Point"}
+  "bbox": [
+    174.643692,
+    -36.869297,
+    174.643692,
+    -36.869297
+],
+  "geometry": {"coordinates":[174.64369199999999,-36.869297],"type":"Point"}
 }

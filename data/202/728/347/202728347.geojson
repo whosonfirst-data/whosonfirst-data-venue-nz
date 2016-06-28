@@ -2,13 +2,14 @@
   "id": 202728347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.048431,-39.925411,175.048431,-39.925411",
     "geom:latitude":-39.925411,
     "geom:longitude":175.048431,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Harrison St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202728347,
-    "wof:lastmodified":1449060698,
+    "wof:lastmodified":1466312244,
     "wof:name":"Premier Dayaway House Ltd",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garden"
     ]
 },
-  "bbox": [175.048431,-39.925411,175.048431,-39.925411],
-  "geometry": {"coordinates":[175.048431,-39.925411],"type":"Point"}
+  "bbox": [
+    175.048431,
+    -39.925411,
+    175.048431,
+    -39.925411
+],
+  "geometry": {"coordinates":[175.04843099999999,-39.925411],"type":"Point"}
 }

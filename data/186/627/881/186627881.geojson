@@ -2,13 +2,14 @@
   "id": 186627881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.580994,-43.512856,172.580994,-43.512856",
     "geom:latitude":-43.512856,
     "geom:longitude":172.580994,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Memorial Ave Fendalton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186627881,
-    "wof:lastmodified":1449053079,
+    "wof:lastmodified":1466313009,
     "wof:name":"Ilam TCM Clinic Jason Wang",
     "wof:parent_id":85778383,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "acupuncturists"
     ]
 },
-  "bbox": [172.580994,-43.512856,172.580994,-43.512856],
+  "bbox": [
+    172.580994,
+    -43.512856,
+    172.580994,
+    -43.512856
+],
   "geometry": {"coordinates":[172.580994,-43.512856],"type":"Point"}
 }

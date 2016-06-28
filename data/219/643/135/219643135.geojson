@@ -2,13 +2,14 @@
   "id": 219643135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.261307,-37.765408,175.261307,-37.765408",
     "geom:latitude":-37.765408,
     "geom:longitude":175.261307,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Bristol Pl ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219643135,
-    "wof:lastmodified":1449073443,
+    "wof:lastmodified":1466312687,
     "wof:name":"J P Marshall Engineering",
     "wof:parent_id":85780847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supplies"
     ]
 },
-  "bbox": [175.261307,-37.765408,175.261307,-37.765408],
-  "geometry": {"coordinates":[175.261307,-37.765408],"type":"Point"}
+  "bbox": [
+    175.261307,
+    -37.765408,
+    175.261307,
+    -37.765408
+],
+  "geometry": {"coordinates":[175.26130699999999,-37.765408],"type":"Point"}
 }

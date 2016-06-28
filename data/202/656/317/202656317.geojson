@@ -2,13 +2,14 @@
   "id": 202656317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.630798,-36.818272,174.630798,-36.818272",
     "geom:latitude":-36.818272,
     "geom:longitude":174.630798,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"North Harbour Industrial Est 9 C Parkhead Pl Albany, PO Box 30 2044 North Harbour ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202656317,
-    "wof:lastmodified":1449061738,
+    "wof:lastmodified":1466312066,
     "wof:name":"Robert Gore Ltd",
     "wof:parent_id":85778731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plasterer"
     ]
 },
-  "bbox": [174.630798,-36.818272,174.630798,-36.818272],
+  "bbox": [
+    174.630798,
+    -36.818272,
+    174.630798,
+    -36.818272
+],
   "geometry": {"coordinates":[174.630798,-36.818272],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169590289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.851166,-39.638962,176.851166,-39.638962",
     "geom:latitude":-39.638962,
     "geom:longitude":176.851166,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"701 Karamu Rd North ",
     "sg:city":"Hastings",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169590289,
-    "wof:lastmodified":1449034655,
+    "wof:lastmodified":1466311494,
     "wof:name":"Leo's Tyre Service",
     "wof:parent_id":85782409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.851166,-39.638962,176.851166,-39.638962],
-  "geometry": {"coordinates":[176.851166,-39.638962],"type":"Point"}
+  "bbox": [
+    176.851166,
+    -39.638962,
+    176.851166,
+    -39.638962
+],
+  "geometry": {"coordinates":[176.85116600000001,-39.638962],"type":"Point"}
 }

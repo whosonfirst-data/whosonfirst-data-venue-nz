@@ -2,13 +2,14 @@
   "id": 219458569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.879013,-41.103794,174.879013,-41.103794",
     "geom:latitude":-41.103794,
     "geom:longitude":174.879013,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"152 Paremata Rd Paremata ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219458569,
-    "wof:lastmodified":1449072912,
+    "wof:lastmodified":1466312063,
     "wof:name":"Brain Gym\u00ab",
     "wof:parent_id":85781159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "training"
     ]
 },
-  "bbox": [174.879013,-41.103794,174.879013,-41.103794],
-  "geometry": {"coordinates":[174.879013,-41.103794],"type":"Point"}
+  "bbox": [
+    174.879013,
+    -41.103794,
+    174.879013,
+    -41.103794
+],
+  "geometry": {"coordinates":[174.87901299999999,-41.103794],"type":"Point"}
 }

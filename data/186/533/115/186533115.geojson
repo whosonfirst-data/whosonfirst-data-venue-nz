@@ -2,13 +2,14 @@
   "id": 186533115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.951981,-40.988243,174.951981,-40.988243",
     "geom:latitude":-40.988243,
     "geom:longitude":174.951981,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Beach Road ",
     "sg:city":"Paekakariki",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186533115,
-    "wof:lastmodified":1449050210,
+    "wof:lastmodified":1466312748,
     "wof:name":"Beach Comber Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.951981,-40.988243,174.951981,-40.988243],
-  "geometry": {"coordinates":[174.951981,-40.988243],"type":"Point"}
+  "bbox": [
+    174.951981,
+    -40.988243,
+    174.951981,
+    -40.988243
+],
+  "geometry": {"coordinates":[174.95198099999999,-40.988243],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235988283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.320633,-35.720772,174.320633,-35.720772",
     "geom:latitude":-35.720772,
     "geom:longitude":174.320633,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Bank St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235988283,
-    "wof:lastmodified":1449008381,
+    "wof:lastmodified":1466311501,
     "wof:name":"Zeo's Fast Fit Food",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cafe"
     ]
 },
-  "bbox": [174.320633,-35.720772,174.320633,-35.720772],
-  "geometry": {"coordinates":[174.320633,-35.720772],"type":"Point"}
+  "bbox": [
+    174.320633,
+    -35.720772,
+    174.320633,
+    -35.720772
+],
+  "geometry": {"coordinates":[174.32063299999999,-35.720772],"type":"Point"}
 }

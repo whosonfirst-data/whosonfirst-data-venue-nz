@@ -2,13 +2,14 @@
   "id": 202911107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.914841,-41.220741,174.914841,-41.220741",
     "geom:latitude":-41.220741,
     "geom:longitude":174.914841,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Waiwhetu Rd Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202911107,
-    "wof:lastmodified":1449062243,
+    "wof:lastmodified":1466312809,
     "wof:name":"California Home & Garden",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "gardening"
     ]
 },
-  "bbox": [174.914841,-41.220741,174.914841,-41.220741],
+  "bbox": [
+    174.914841,
+    -41.220741,
+    174.914841,
+    -41.220741
+],
   "geometry": {"coordinates":[174.914841,-41.220741],"type":"Point"}
 }

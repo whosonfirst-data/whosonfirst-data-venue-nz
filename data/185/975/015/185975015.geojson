@@ -2,13 +2,14 @@
   "id": 185975015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.599777,-40.339676,175.599777,-40.339676",
     "geom:latitude":-40.339676,
     "geom:longitude":175.599777,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"(off Rangitikei line) 19 Jasper Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185975015,
-    "wof:lastmodified":1449007998,
+    "wof:lastmodified":1466312212,
     "wof:name":"Fort Knox Self Storage",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.599777,-40.339676,175.599777,-40.339676],
-  "geometry": {"coordinates":[175.599777,-40.339676],"type":"Point"}
+  "bbox": [
+    175.599777,
+    -40.339676,
+    175.599777,
+    -40.339676
+],
+  "geometry": {"coordinates":[175.59977699999999,-40.339676],"type":"Point"}
 }

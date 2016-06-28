@@ -2,13 +2,14 @@
   "id": 219433409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.066544,-41.124958,175.066544,-41.124958",
     "geom:latitude":-41.124958,
     "geom:longitude":175.066544,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Main St Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219433409,
-    "wof:lastmodified":1449070795,
+    "wof:lastmodified":1466312019,
     "wof:name":"Upper Hutt Visitor Information Centre",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tourism"
     ]
 },
-  "bbox": [175.066544,-41.124958,175.066544,-41.124958],
-  "geometry": {"coordinates":[175.066544,-41.124958],"type":"Point"}
+  "bbox": [
+    175.066544,
+    -41.124958,
+    175.066544,
+    -41.124958
+],
+  "geometry": {"coordinates":[175.06654399999999,-41.124958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202868589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.352173,-46.411854,168.352173,-46.411854",
     "geom:latitude":-46.411854,
     "geom:longitude":168.352173,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"438 Dee ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202868589,
-    "wof:lastmodified":1449060212,
+    "wof:lastmodified":1466312723,
     "wof:name":"Lyalls Upholstery",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [168.352173,-46.411854,168.352173,-46.411854],
-  "geometry": {"coordinates":[168.352173,-46.411854],"type":"Point"}
+  "bbox": [
+    168.352173,
+    -46.411854,
+    168.352173,
+    -46.411854
+],
+  "geometry": {"coordinates":[168.35217299999999,-46.411854],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219566751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.85141,-36.921169,174.85141,-36.921169",
     "geom:latitude":-36.921169,
     "geom:longitude":174.85141,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 B Gabador Pl Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219566751,
-    "wof:lastmodified":1449070437,
+    "wof:lastmodified":1466312496,
     "wof:name":"Carr & Haslam Ltd",
     "wof:parent_id":85773109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.85141,-36.921169,174.85141,-36.921169],
-  "geometry": {"coordinates":[174.85141,-36.921169],"type":"Point"}
+  "bbox": [
+    174.85141,
+    -36.921169,
+    174.85141,
+    -36.921169
+],
+  "geometry": {"coordinates":[174.85140999999999,-36.921169],"type":"Point"}
 }

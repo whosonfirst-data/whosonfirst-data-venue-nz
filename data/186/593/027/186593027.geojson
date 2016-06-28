@@ -2,13 +2,14 @@
   "id": 186593027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.041489,-39.923199,175.041489,-39.923199",
     "geom:latitude":-39.923199,
     "geom:longitude":175.041489,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Glasgow St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186593027,
-    "wof:lastmodified":1449052144,
+    "wof:lastmodified":1466313031,
     "wof:name":"Spark P L & V C",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.041489,-39.923199,175.041489,-39.923199],
-  "geometry": {"coordinates":[175.041489,-39.923199],"type":"Point"}
+  "bbox": [
+    175.041489,
+    -39.923199,
+    175.041489,
+    -39.923199
+],
+  "geometry": {"coordinates":[175.04148900000001,-39.923199],"type":"Point"}
 }

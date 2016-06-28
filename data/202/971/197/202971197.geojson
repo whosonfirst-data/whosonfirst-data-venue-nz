@@ -2,13 +2,14 @@
   "id": 202971197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.39653,-35.68623,174.39653,-35.68623",
     "geom:latitude":-35.68623,
     "geom:longitude":174.39653,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Whareroa Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202971197,
-    "wof:lastmodified":1449061405,
+    "wof:lastmodified":1466312922,
     "wof:name":"Design & Dig",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.39653,-35.68623,174.39653,-35.68623],
-  "geometry": {"coordinates":[174.39653,-35.68623],"type":"Point"}
+  "bbox": [
+    174.39653,
+    -35.68623,
+    174.39653,
+    -35.68623
+],
+  "geometry": {"coordinates":[174.39653000000001,-35.68623],"type":"Point"}
 }

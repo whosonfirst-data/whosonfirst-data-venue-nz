@@ -2,13 +2,14 @@
   "id": 219494089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.628479,-43.55843,172.628479,-43.55843",
     "geom:latitude":-43.55843,
     "geom:longitude":172.628479,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Boon St Somerfield ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219494089,
-    "wof:lastmodified":1449073535,
+    "wof:lastmodified":1466312285,
     "wof:name":"Frankie Frog Swim School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "swimming"
     ]
 },
-  "bbox": [172.628479,-43.55843,172.628479,-43.55843],
+  "bbox": [
+    172.628479,
+    -43.55843,
+    172.628479,
+    -43.55843
+],
   "geometry": {"coordinates":[172.628479,-43.55843],"type":"Point"}
 }

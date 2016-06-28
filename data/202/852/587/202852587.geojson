@@ -2,13 +2,14 @@
   "id": 202852587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.887772,-36.924931,174.887772,-36.924931",
     "geom:latitude":-36.924931,
     "geom:longitude":174.887772,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"272 B Ti Rakau Dve Pakuranga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202852587,
-    "wof:lastmodified":1449062229,
+    "wof:lastmodified":1466312804,
     "wof:name":"Absolute Furniture",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "furnishing"
     ]
 },
-  "bbox": [174.887772,-36.924931,174.887772,-36.924931],
-  "geometry": {"coordinates":[174.887772,-36.924931],"type":"Point"}
+  "bbox": [
+    174.887772,
+    -36.924931,
+    174.887772,
+    -36.924931
+],
+  "geometry": {"coordinates":[174.88777200000001,-36.924931],"type":"Point"}
 }

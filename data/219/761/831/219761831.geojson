@@ -2,13 +2,14 @@
   "id": 219761831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.675827,-36.732513,174.675827,-36.732513",
     "geom:latitude":-36.732513,
     "geom:longitude":174.675827,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Paremoremo Rd Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219761831,
-    "wof:lastmodified":1449073090,
+    "wof:lastmodified":1466312936,
     "wof:name":"Albany & Bays Alec Beaumont Towage",
     "wof:parent_id":85781179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.675827,-36.732513,174.675827,-36.732513],
+  "bbox": [
+    174.675827,
+    -36.732513,
+    174.675827,
+    -36.732513
+],
   "geometry": {"coordinates":[174.675827,-36.732513],"type":"Point"}
 }

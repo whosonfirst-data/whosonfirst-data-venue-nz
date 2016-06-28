@@ -2,13 +2,14 @@
   "id": 236015953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.015976,-38.658936,178.015976,-38.658936",
     "geom:latitude":-38.658936,
     "geom:longitude":178.015976,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236015953,
-    "wof:lastmodified":1449002244,
+    "wof:lastmodified":1466310905,
     "wof:name":"Hong Kong Takeaways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "takeaway"
     ]
 },
-  "bbox": [178.015976,-38.658936,178.015976,-38.658936],
-  "geometry": {"coordinates":[178.015976,-38.658936],"type":"Point"}
+  "bbox": [
+    178.015976,
+    -38.658936,
+    178.015976,
+    -38.658936
+],
+  "geometry": {"coordinates":[178.01597599999999,-38.658936],"type":"Point"}
 }

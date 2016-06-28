@@ -2,13 +2,14 @@
   "id": 186118277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.263809,-37.790394,175.263809,-37.790394",
     "geom:latitude":-37.790394,
     "geom:longitude":175.263809,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Ellis St Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186118277,
-    "wof:lastmodified":1449052496,
+    "wof:lastmodified":1466310698,
     "wof:name":"Oil Corp",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "utilities"
     ]
 },
-  "bbox": [175.263809,-37.790394,175.263809,-37.790394],
-  "geometry": {"coordinates":[175.263809,-37.790394],"type":"Point"}
+  "bbox": [
+    175.263809,
+    -37.790394,
+    175.263809,
+    -37.790394
+],
+  "geometry": {"coordinates":[175.26380900000001,-37.790394],"type":"Point"}
 }

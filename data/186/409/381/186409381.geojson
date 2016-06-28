@@ -2,13 +2,14 @@
   "id": 186409381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.130569,-37.735302,176.130569,-37.735302",
     "geom:latitude":-37.735302,
     "geom:longitude":176.130569,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Maleme St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186409381,
-    "wof:lastmodified":1449051476,
+    "wof:lastmodified":1466312542,
     "wof:name":"Freemont Plastics & Metal Products Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "goods"
     ]
 },
-  "bbox": [176.130569,-37.735302,176.130569,-37.735302],
-  "geometry": {"coordinates":[176.130569,-37.735302],"type":"Point"}
+  "bbox": [
+    176.130569,
+    -37.735302,
+    176.130569,
+    -37.735302
+],
+  "geometry": {"coordinates":[176.13056900000001,-37.735302],"type":"Point"}
 }

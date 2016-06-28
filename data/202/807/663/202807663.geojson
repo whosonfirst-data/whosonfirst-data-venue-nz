@@ -2,13 +2,14 @@
   "id": 202807663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.661942,-43.500633,172.661942,-43.500633",
     "geom:latitude":-43.500633,
     "geom:longitude":172.661942,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Marshland Rd Shirley ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202807663,
-    "wof:lastmodified":1449060764,
+    "wof:lastmodified":1466312554,
     "wof:name":"Ace Waterbed Services Ltd",
     "wof:parent_id":85772863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [172.661942,-43.500633,172.661942,-43.500633],
-  "geometry": {"coordinates":[172.661942,-43.500633],"type":"Point"}
+  "bbox": [
+    172.661942,
+    -43.500633,
+    172.661942,
+    -43.500633
+],
+  "geometry": {"coordinates":[172.66194200000001,-43.500633],"type":"Point"}
 }

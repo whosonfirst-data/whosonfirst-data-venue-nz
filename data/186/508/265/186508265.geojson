@@ -2,13 +2,14 @@
   "id": 186508265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.659805,-45.031521,168.659805,-45.031521",
     "geom:latitude":-45.031521,
     "geom:longitude":168.659805,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 F Shotover St ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186508265,
-    "wof:lastmodified":1449051886,
+    "wof:lastmodified":1466312785,
     "wof:name":"Aspects Of Beauty & Health",
     "wof:parent_id":85782493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "health"
     ]
 },
-  "bbox": [168.659805,-45.031521,168.659805,-45.031521],
-  "geometry": {"coordinates":[168.659805,-45.031521],"type":"Point"}
+  "bbox": [
+    168.659805,
+    -45.031521,
+    168.659805,
+    -45.031521
+],
+  "geometry": {"coordinates":[168.65980500000001,-45.031521],"type":"Point"}
 }

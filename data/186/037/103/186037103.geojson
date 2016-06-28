@@ -2,13 +2,14 @@
   "id": 186037103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.560883,-43.537106,172.560883,-43.537106",
     "geom:latitude":-43.537106,
     "geom:longitude":172.560883,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Watts Rd Sockburn ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186037103,
-    "wof:lastmodified":1449053071,
+    "wof:lastmodified":1466311224,
     "wof:name":"Harvard Tops Sockburn",
     "wof:parent_id":85778617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [172.560883,-43.537106,172.560883,-43.537106],
-  "geometry": {"coordinates":[172.560883,-43.537106],"type":"Point"}
+  "bbox": [
+    172.560883,
+    -43.537106,
+    172.560883,
+    -43.537106
+],
+  "geometry": {"coordinates":[172.56088299999999,-43.537106],"type":"Point"}
 }

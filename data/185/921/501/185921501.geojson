@@ -2,13 +2,14 @@
   "id": 185921501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.230545,-37.792557,175.230545,-37.792557",
     "geom:latitude":-37.792557,
     "geom:longitude":175.230545,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Greenfield Dve Dinsdale ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185921501,
-    "wof:lastmodified":1449007633,
+    "wof:lastmodified":1466312003,
     "wof:name":"Stepping Out Dance Studio",
     "wof:parent_id":85781735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "sport"
     ]
 },
-  "bbox": [175.230545,-37.792557,175.230545,-37.792557],
-  "geometry": {"coordinates":[175.230545,-37.792557],"type":"Point"}
+  "bbox": [
+    175.230545,
+    -37.792557,
+    175.230545,
+    -37.792557
+],
+  "geometry": {"coordinates":[175.23054500000001,-37.792557],"type":"Point"}
 }

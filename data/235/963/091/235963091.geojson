@@ -2,13 +2,14 @@
   "id": 235963091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764648,-36.847214,174.764648,-36.847214",
     "geom:latitude":-36.847214,
     "geom:longitude":174.764648,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Wyndham St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235963091,
-    "wof:lastmodified":1449008311,
+    "wof:lastmodified":1466311090,
     "wof:name":"Balzac Bar",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "brasserie"
     ]
 },
-  "bbox": [174.764648,-36.847214,174.764648,-36.847214],
-  "geometry": {"coordinates":[174.764648,-36.847214],"type":"Point"}
+  "bbox": [
+    174.764648,
+    -36.847214,
+    174.764648,
+    -36.847214
+],
+  "geometry": {"coordinates":[174.76464799999999,-36.847214],"type":"Point"}
 }

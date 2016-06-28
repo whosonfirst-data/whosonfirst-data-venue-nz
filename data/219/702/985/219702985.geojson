@@ -2,13 +2,14 @@
   "id": 219702985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.912231,-41.263271,174.912231,-41.263271",
     "geom:latitude":-41.263271,
     "geom:longitude":174.912231,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Kaitawa Rd York ",
     "sg:city":"Bay",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219702985,
-    "wof:lastmodified":1449072140,
+    "wof:lastmodified":1466312907,
     "wof:name":"Seenz Campervan Hire",
     "wof:parent_id":85778601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [174.912231,-41.263271,174.912231,-41.263271],
-  "geometry": {"coordinates":[174.912231,-41.263271],"type":"Point"}
+  "bbox": [
+    174.912231,
+    -41.263271,
+    174.912231,
+    -41.263271
+],
+  "geometry": {"coordinates":[174.91223099999999,-41.263271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202618847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.340347,-46.41132,168.340347,-46.41132",
     "geom:latitude":-46.41132,
     "geom:longitude":168.340347,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Bond St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202618847,
-    "wof:lastmodified":1449061686,
+    "wof:lastmodified":1466311669,
     "wof:name":"Calder Stewart Industries Ltd",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [168.340347,-46.41132,168.340347,-46.41132],
-  "geometry": {"coordinates":[168.340347,-46.41132],"type":"Point"}
+  "bbox": [
+    168.340347,
+    -46.41132,
+    168.340347,
+    -46.41132
+],
+  "geometry": {"coordinates":[168.34034700000001,-46.41132],"type":"Point"}
 }

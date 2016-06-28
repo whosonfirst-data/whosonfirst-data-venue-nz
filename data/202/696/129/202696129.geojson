@@ -2,13 +2,14 @@
   "id": 202696129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.704712,-36.88533,174.704712,-36.88533",
     "geom:latitude":-36.88533,
     "geom:longitude":174.704712,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Phyllis St Mt Albert ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202696129,
-    "wof:lastmodified":1449060303,
+    "wof:lastmodified":1466312219,
     "wof:name":"Playcentres",
     "wof:parent_id":85778729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "children"
     ]
 },
-  "bbox": [174.704712,-36.88533,174.704712,-36.88533],
+  "bbox": [
+    174.704712,
+    -36.88533,
+    174.704712,
+    -36.88533
+],
   "geometry": {"coordinates":[174.704712,-36.88533],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220010383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.69722,-36.89806,174.69722,-36.89806",
     "geom:latitude":-36.89806,
     "geom:longitude":174.69722,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2018 Gt North Rd Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220010383,
-    "wof:lastmodified":1449074540,
+    "wof:lastmodified":1466310882,
     "wof:name":"Pacific Loans Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "personal"
     ]
 },
-  "bbox": [174.69722,-36.89806,174.69722,-36.89806],
-  "geometry": {"coordinates":[174.69722,-36.89806],"type":"Point"}
+  "bbox": [
+    174.69722,
+    -36.89806,
+    174.69722,
+    -36.89806
+],
+  "geometry": {"coordinates":[174.69721999999999,-36.89806],"type":"Point"}
 }

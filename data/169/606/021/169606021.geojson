@@ -2,13 +2,14 @@
   "id": 169606021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.348419,-46.41172,168.348419,-46.41172",
     "geom:latitude":-46.41172,
     "geom:longitude":168.348419,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Esk St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169606021,
-    "wof:lastmodified":1449033202,
+    "wof:lastmodified":1466311688,
     "wof:name":"Area 51",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.348419,-46.41172,168.348419,-46.41172],
-  "geometry": {"coordinates":[168.348419,-46.41172],"type":"Point"}
+  "bbox": [
+    168.348419,
+    -46.41172,
+    168.348419,
+    -46.41172
+],
+  "geometry": {"coordinates":[168.34841900000001,-46.41172],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220197579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.064011,-39.917278,175.064011,-39.917278",
     "geom:latitude":-39.917278,
     "geom:longitude":175.064011,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Duncan St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220197579,
-    "wof:lastmodified":1449074768,
+    "wof:lastmodified":1466311447,
     "wof:name":"Wanganui East Meat Market",
     "wof:parent_id":85781217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.064011,-39.917278,175.064011,-39.917278],
-  "geometry": {"coordinates":[175.064011,-39.917278],"type":"Point"}
+  "bbox": [
+    175.064011,
+    -39.917278,
+    175.064011,
+    -39.917278
+],
+  "geometry": {"coordinates":[175.06401099999999,-39.917278],"type":"Point"}
 }

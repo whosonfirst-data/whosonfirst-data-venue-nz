@@ -2,13 +2,14 @@
   "id": 203019195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.611298,-36.830635,174.611298,-36.830635",
     "geom:latitude":-36.830635,
     "geom:longitude":174.611298,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Royal Rd Massey ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203019195,
-    "wof:lastmodified":1449026040,
+    "wof:lastmodified":1466310842,
     "wof:name":"Royal Handyman Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.611298,-36.830635,174.611298,-36.830635],
-  "geometry": {"coordinates":[174.611298,-36.830635],"type":"Point"}
+  "bbox": [
+    174.611298,
+    -36.830635,
+    174.611298,
+    -36.830635
+],
+  "geometry": {"coordinates":[174.61129800000001,-36.830635],"type":"Point"}
 }

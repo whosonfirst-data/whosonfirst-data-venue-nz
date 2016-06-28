@@ -2,13 +2,14 @@
   "id": 186349787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.783768,-36.900364,174.783768,-36.900364",
     "geom:latitude":-36.900364,
     "geom:longitude":174.783768,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3/43 Tawhiri Rd One Tree Hill ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186349787,
-    "wof:lastmodified":1449051397,
+    "wof:lastmodified":1466312356,
     "wof:name":"Functional Packaging Ltd",
     "wof:parent_id":85778511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.783768,-36.900364,174.783768,-36.900364],
-  "geometry": {"coordinates":[174.783768,-36.900364],"type":"Point"}
+  "bbox": [
+    174.783768,
+    -36.900364,
+    174.783768,
+    -36.900364
+],
+  "geometry": {"coordinates":[174.78376800000001,-36.900364],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235973885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.146149,-40.768353,175.146149,-40.768353",
     "geom:latitude":-40.768353,
     "geom:longitude":175.146149,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 State Highway 1 ",
     "sg:city":"Otaki",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":235973885,
-    "wof:lastmodified":1449008456,
+    "wof:lastmodified":1466311328,
     "wof:name":"Brown Sugar Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "cafe"
     ]
 },
-  "bbox": [175.146149,-40.768353,175.146149,-40.768353],
-  "geometry": {"coordinates":[175.146149,-40.768353],"type":"Point"}
+  "bbox": [
+    175.146149,
+    -40.768353,
+    175.146149,
+    -40.768353
+],
+  "geometry": {"coordinates":[175.14614900000001,-40.768353],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202554041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.568329,-40.223785,175.568329,-40.223785",
     "geom:latitude":-40.223785,
     "geom:longitude":175.568329,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Weld St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202554041,
-    "wof:lastmodified":1449060636,
+    "wof:lastmodified":1466311118,
     "wof:name":"Weld Street Physiotherapy Clinic",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.568329,-40.223785,175.568329,-40.223785],
-  "geometry": {"coordinates":[175.568329,-40.223785],"type":"Point"}
+  "bbox": [
+    175.568329,
+    -40.223785,
+    175.568329,
+    -40.223785
+],
+  "geometry": {"coordinates":[175.56832900000001,-40.223785],"type":"Point"}
 }

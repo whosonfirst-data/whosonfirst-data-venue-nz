@@ -2,13 +2,14 @@
   "id": 219818549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.605179,-40.355171,175.605179,-40.355171",
     "geom:latitude":-40.355171,
     "geom:longitude":175.605179,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Campbell St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219818549,
-    "wof:lastmodified":1449072107,
+    "wof:lastmodified":1466313132,
     "wof:name":"John Bates Wheel Alignment Ltd",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "alignment"
     ]
 },
-  "bbox": [175.605179,-40.355171,175.605179,-40.355171],
-  "geometry": {"coordinates":[175.605179,-40.355171],"type":"Point"}
+  "bbox": [
+    175.605179,
+    -40.355171,
+    175.605179,
+    -40.355171
+],
+  "geometry": {"coordinates":[175.60517899999999,-40.355171],"type":"Point"}
 }

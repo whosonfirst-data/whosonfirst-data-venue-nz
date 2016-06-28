@@ -2,13 +2,14 @@
   "id": 236025583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764496,-41.304924,174.764496,-41.304924",
     "geom:latitude":-41.304924,
     "geom:longitude":174.764496,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Cleveland Rd Brooklyn ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236025583,
-    "wof:lastmodified":1449004595,
+    "wof:lastmodified":1466311057,
     "wof:name":"Vino's Wine Bar Cafe & Casino",
     "wof:parent_id":85772849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dining"
     ]
 },
-  "bbox": [174.764496,-41.304924,174.764496,-41.304924],
-  "geometry": {"coordinates":[174.764496,-41.304924],"type":"Point"}
+  "bbox": [
+    174.764496,
+    -41.304924,
+    174.764496,
+    -41.304924
+],
+  "geometry": {"coordinates":[174.76449600000001,-41.304924],"type":"Point"}
 }

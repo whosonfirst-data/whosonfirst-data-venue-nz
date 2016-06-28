@@ -2,13 +2,14 @@
   "id": 186063609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.158554,-37.697025,176.158554,-37.697025",
     "geom:latitude":-37.697025,
     "geom:longitude":176.158554,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"59 St John St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186063609,
-    "wof:lastmodified":1449050479,
+    "wof:lastmodified":1466311668,
     "wof:name":"Wholesale Cleaning Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "maintenance"
     ]
 },
-  "bbox": [176.158554,-37.697025,176.158554,-37.697025],
-  "geometry": {"coordinates":[176.158554,-37.697025],"type":"Point"}
+  "bbox": [
+    176.158554,
+    -37.697025,
+    176.158554,
+    -37.697025
+],
+  "geometry": {"coordinates":[176.15855400000001,-37.697025],"type":"Point"}
 }

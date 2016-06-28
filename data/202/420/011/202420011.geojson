@@ -2,13 +2,14 @@
   "id": 202420011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.825089,-36.966644,174.825089,-36.966644",
     "geom:latitude":-36.966644,
     "geom:longitude":174.825089,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"359 Massey Rd Mangere East ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202420011,
-    "wof:lastmodified":1449061345,
+    "wof:lastmodified":1466312039,
     "wof:name":"Mangere East Medical Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.825089,-36.966644,174.825089,-36.966644],
-  "geometry": {"coordinates":[174.825089,-36.966644],"type":"Point"}
+  "bbox": [
+    174.825089,
+    -36.966644,
+    174.825089,
+    -36.966644
+],
+  "geometry": {"coordinates":[174.82508899999999,-36.966644],"type":"Point"}
 }

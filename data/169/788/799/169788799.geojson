@@ -2,13 +2,14 @@
   "id": 169788799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.79483,34.550571,-87.79483,34.550571",
     "geom:latitude":34.550571,
     "geom:longitude":-87.79483,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 73 ",
     "sg:city":"Russell",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169788799,
-    "wof:lastmodified":1449034385,
+    "wof:lastmodified":1466311553,
     "wof:name":"McGaugheys Sportfishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "trip"
     ]
 },
-  "bbox": [-87.79483,34.550571,-87.79483,34.550571],
+  "bbox": [
+    -87.79483,
+    34.550571,
+    -87.79483,
+    34.550571
+],
   "geometry": {"coordinates":[-87.79483,34.550571],"type":"Point"}
 }

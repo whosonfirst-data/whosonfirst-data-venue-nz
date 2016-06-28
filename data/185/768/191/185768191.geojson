@@ -2,13 +2,14 @@
   "id": 185768191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.938324,-37.400799,175.938324,-37.400799",
     "geom:latitude":-37.400799,
     "geom:longitude":175.938324,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Main Rd Waihi Beach ",
     "sg:city":"Waihi",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":185768191,
-    "wof:lastmodified":1449007232,
+    "wof:lastmodified":1466311011,
     "wof:name":"Waihi Beach Memorial Returned Services Association Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.938324,-37.400799,175.938324,-37.400799],
-  "geometry": {"coordinates":[175.938324,-37.400799],"type":"Point"}
+  "bbox": [
+    175.938324,
+    -37.400799,
+    175.938324,
+    -37.400799
+],
+  "geometry": {"coordinates":[175.93832399999999,-37.400799],"type":"Point"}
 }

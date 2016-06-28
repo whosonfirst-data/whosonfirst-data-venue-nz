@@ -2,13 +2,14 @@
   "id": 202883369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.783859,-41.313198,174.783859,-41.313198",
     "geom:latitude":-41.313198,
     "geom:longitude":174.783859,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Constable St Newtown ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202883369,
-    "wof:lastmodified":1449062063,
+    "wof:lastmodified":1466312762,
     "wof:name":"Waters Upholstery Ltd",
     "wof:parent_id":85778491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [174.783859,-41.313198,174.783859,-41.313198],
-  "geometry": {"coordinates":[174.783859,-41.313198],"type":"Point"}
+  "bbox": [
+    174.783859,
+    -41.313198,
+    174.783859,
+    -41.313198
+],
+  "geometry": {"coordinates":[174.78385900000001,-41.313198],"type":"Point"}
 }

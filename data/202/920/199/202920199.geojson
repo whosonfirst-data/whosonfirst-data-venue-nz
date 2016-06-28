@@ -2,13 +2,14 @@
   "id": 202920199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.679504,-37.371815,175.679504,-37.371815",
     "geom:latitude":-37.371815,
     "geom:longitude":175.679504,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Thames Rd ",
     "sg:city":"Paeroa",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202920199,
-    "wof:lastmodified":1449062083,
+    "wof:lastmodified":1466312840,
     "wof:name":"Paeroa Garden Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gardening"
     ]
 },
-  "bbox": [175.679504,-37.371815,175.679504,-37.371815],
-  "geometry": {"coordinates":[175.679504,-37.371815],"type":"Point"}
+  "bbox": [
+    175.679504,
+    -37.371815,
+    175.679504,
+    -37.371815
+],
+  "geometry": {"coordinates":[175.67950400000001,-37.371815],"type":"Point"}
 }

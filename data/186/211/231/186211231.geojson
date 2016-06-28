@@ -2,13 +2,14 @@
   "id": 186211231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.780579,-36.925411,174.780579,-36.925411",
     "geom:latitude":-36.925411,
     "geom:longitude":174.780579,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12-18 Princes St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186211231,
-    "wof:lastmodified":1449051054,
+    "wof:lastmodified":1466311501,
     "wof:name":"Power Hire Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.780579,-36.925411,174.780579,-36.925411],
-  "geometry": {"coordinates":[174.780579,-36.925411],"type":"Point"}
+  "bbox": [
+    174.780579,
+    -36.925411,
+    174.780579,
+    -36.925411
+],
+  "geometry": {"coordinates":[174.78057899999999,-36.925411],"type":"Point"}
 }

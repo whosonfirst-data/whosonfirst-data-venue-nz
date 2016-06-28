@@ -2,13 +2,14 @@
   "id": 186400033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.261505,-37.794823,175.261505,-37.794823",
     "geom:latitude":-37.794823,
     "geom:longitude":175.261505,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"84-86 Killarney Rd Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186400033,
-    "wof:lastmodified":1449050501,
+    "wof:lastmodified":1466312520,
     "wof:name":"Paykels",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.261505,-37.794823,175.261505,-37.794823],
+  "bbox": [
+    175.261505,
+    -37.794823,
+    175.261505,
+    -37.794823
+],
   "geometry": {"coordinates":[175.261505,-37.794823],"type":"Point"}
 }

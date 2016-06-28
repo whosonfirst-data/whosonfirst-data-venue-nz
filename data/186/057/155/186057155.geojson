@@ -2,13 +2,14 @@
   "id": 186057155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.810883,-36.906448,174.810883,-36.906448",
     "geom:latitude":-36.906448,
     "geom:longitude":174.810883,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"503 Gt South Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186057155,
-    "wof:lastmodified":1449051702,
+    "wof:lastmodified":1466311558,
     "wof:name":"Metalock N I Ltd",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.810883,-36.906448,174.810883,-36.906448],
-  "geometry": {"coordinates":[174.810883,-36.906448],"type":"Point"}
+  "bbox": [
+    174.810883,
+    -36.906448,
+    174.810883,
+    -36.906448
+],
+  "geometry": {"coordinates":[174.81088299999999,-36.906448],"type":"Point"}
 }

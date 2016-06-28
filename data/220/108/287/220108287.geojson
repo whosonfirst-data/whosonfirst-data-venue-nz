@@ -2,13 +2,14 @@
   "id": 220108287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.592789,-40.372581,175.592789,-40.372581",
     "geom:latitude":-40.372581,
     "geom:longitude":175.592789,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"114 b College St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220108287,
-    "wof:lastmodified":1449074075,
+    "wof:lastmodified":1466310673,
     "wof:name":"Classy Cakes",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "-"
     ]
 },
-  "bbox": [175.592789,-40.372581,175.592789,-40.372581],
-  "geometry": {"coordinates":[175.592789,-40.372581],"type":"Point"}
+  "bbox": [
+    175.592789,
+    -40.372581,
+    175.592789,
+    -40.372581
+],
+  "geometry": {"coordinates":[175.59278900000001,-40.372581],"type":"Point"}
 }

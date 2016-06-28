@@ -2,13 +2,14 @@
   "id": 186334851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.799545,47.926224,-91.799545,47.926224",
     "geom:latitude":47.926224,
     "geom:longitude":-91.799545,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Kauana R D 2 ",
     "sg:city":"Winton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186334851,
-    "wof:lastmodified":1449051160,
+    "wof:lastmodified":1466312322,
     "wof:name":"Fernhill Limeworks Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "materials"
     ]
 },
-  "bbox": [-91.799545,47.926224,-91.799545,47.926224],
-  "geometry": {"coordinates":[-91.799545,47.926224],"type":"Point"}
+  "bbox": [
+    -91.799545,
+    47.926224,
+    -91.799545,
+    47.926224
+],
+  "geometry": {"coordinates":[-91.79954499999999,47.926224],"type":"Point"}
 }

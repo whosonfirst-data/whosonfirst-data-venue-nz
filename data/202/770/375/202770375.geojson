@@ -2,13 +2,14 @@
   "id": 202770375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.918884,-39.671143,176.918884,-39.671143",
     "geom:latitude":-39.671143,
     "geom:longitude":176.918884,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Te Mata Rd Havelock North ",
     "sg:city":"Havelock",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202770375,
-    "wof:lastmodified":1449062703,
+    "wof:lastmodified":1466312444,
     "wof:name":"Doormatics NZ Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fittings"
     ]
 },
-  "bbox": [176.918884,-39.671143,176.918884,-39.671143],
-  "geometry": {"coordinates":[176.918884,-39.671143],"type":"Point"}
+  "bbox": [
+    176.918884,
+    -39.671143,
+    176.918884,
+    -39.671143
+],
+  "geometry": {"coordinates":[176.91888399999999,-39.671143],"type":"Point"}
 }

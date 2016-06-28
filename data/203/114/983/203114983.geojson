@@ -2,13 +2,14 @@
   "id": 203114983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.700409,-36.886181,174.700409,-36.886181",
     "geom:latitude":-36.886181,
     "geom:longitude":174.700409,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1575 Great North Rd Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203114983,
-    "wof:lastmodified":1449025719,
+    "wof:lastmodified":1466310648,
     "wof:name":"Caesars Studio",
     "wof:parent_id":85778729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "garden"
     ]
 },
-  "bbox": [174.700409,-36.886181,174.700409,-36.886181],
-  "geometry": {"coordinates":[174.700409,-36.886181],"type":"Point"}
+  "bbox": [
+    174.700409,
+    -36.886181,
+    174.700409,
+    -36.886181
+],
+  "geometry": {"coordinates":[174.70040900000001,-36.886181],"type":"Point"}
 }

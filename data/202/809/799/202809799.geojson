@@ -2,13 +2,14 @@
   "id": 202809799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.283081,-39.589031,174.283081,-39.589031",
     "geom:latitude":-39.589031,
     "geom:longitude":174.283081,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"104 High St ",
     "sg:city":"Hawera",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202809799,
-    "wof:lastmodified":1449062214,
+    "wof:lastmodified":1466312651,
     "wof:name":"Beds R Us",
     "wof:parent_id":85781023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [174.283081,-39.589031,174.283081,-39.589031],
-  "geometry": {"coordinates":[174.283081,-39.589031],"type":"Point"}
+  "bbox": [
+    174.283081,
+    -39.589031,
+    174.283081,
+    -39.589031
+],
+  "geometry": {"coordinates":[174.28308100000001,-39.589031],"type":"Point"}
 }

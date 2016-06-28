@@ -2,13 +2,14 @@
   "id": 202587699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.634613,-40.948341,175.634613,-40.948341",
     "geom:latitude":-40.948341,
     "geom:longitude":175.634613,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"169-171 Ngaumutawa Rd ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202587699,
-    "wof:lastmodified":1449060980,
+    "wof:lastmodified":1466311418,
     "wof:name":"Mitre 10",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.634613,-40.948341,175.634613,-40.948341],
+  "bbox": [
+    175.634613,
+    -40.948341,
+    175.634613,
+    -40.948341
+],
   "geometry": {"coordinates":[175.634613,-40.948341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219412237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.755646,-36.858227,174.755646,-36.858227",
     "geom:latitude":-36.858227,
     "geom:longitude":174.755646,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"445 Karangahape Rd Newton ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219412237,
-    "wof:lastmodified":1449071114,
+    "wof:lastmodified":1466311908,
     "wof:name":"Johnston's Coachlines",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "tourism"
     ]
 },
-  "bbox": [174.755646,-36.858227,174.755646,-36.858227],
-  "geometry": {"coordinates":[174.755646,-36.858227],"type":"Point"}
+  "bbox": [
+    174.755646,
+    -36.858227,
+    174.755646,
+    -36.858227
+],
+  "geometry": {"coordinates":[174.75564600000001,-36.858227],"type":"Point"}
 }

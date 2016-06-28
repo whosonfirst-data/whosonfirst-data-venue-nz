@@ -2,13 +2,14 @@
   "id": 203082385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.041046,-38.65873,178.041046,-38.65873",
     "geom:latitude":-38.65873,
     "geom:longitude":178.041046,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Seddon Cre ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203082385,
-    "wof:lastmodified":1449024997,
+    "wof:lastmodified":1466311838,
     "wof:name":"Waltons Plasterers",
     "wof:parent_id":85781357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "spa"
     ]
 },
-  "bbox": [178.041046,-38.65873,178.041046,-38.65873],
-  "geometry": {"coordinates":[178.041046,-38.65873],"type":"Point"}
+  "bbox": [
+    178.041046,
+    -38.65873,
+    178.041046,
+    -38.65873
+],
+  "geometry": {"coordinates":[178.04104599999999,-38.65873],"type":"Point"}
 }

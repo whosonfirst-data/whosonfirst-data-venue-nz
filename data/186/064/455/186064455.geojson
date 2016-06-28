@@ -2,13 +2,14 @@
   "id": 186064455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.669167,40.253036,-74.669167,40.253036",
     "geom:latitude":40.253036,
     "geom:longitude":-74.669167,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"90 Peacocks Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":186064455,
-    "wof:lastmodified":1449051338,
+    "wof:lastmodified":1466311675,
     "wof:name":"Cyril Hands",
     "wof:parent_id":85823707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.669167,40.253036,-74.669167,40.253036],
+  "bbox": [
+    -74.669167,
+    40.253036,
+    -74.669167,
+    40.253036
+],
   "geometry": {"coordinates":[-74.669167,40.253036],"type":"Point"}
 }

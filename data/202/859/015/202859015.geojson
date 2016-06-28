@@ -2,13 +2,14 @@
   "id": 202859015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.343323,-46.418114,168.343323,-46.418114",
     "geom:latitude":-46.418114,
     "geom:longitude":168.343323,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Tweed St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202859015,
-    "wof:lastmodified":1449061911,
+    "wof:lastmodified":1466312812,
     "wof:name":"Robax Products Ltd",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "furnishing"
     ]
 },
-  "bbox": [168.343323,-46.418114,168.343323,-46.418114],
+  "bbox": [
+    168.343323,
+    -46.418114,
+    168.343323,
+    -46.418114
+],
   "geometry": {"coordinates":[168.343323,-46.418114],"type":"Point"}
 }

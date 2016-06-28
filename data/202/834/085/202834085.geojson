@@ -2,13 +2,14 @@
   "id": 202834085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.756851,-36.853367,174.756851,-36.853367",
     "geom:latitude":-36.853367,
     "geom:longitude":174.756851,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Union St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202834085,
-    "wof:lastmodified":1449060353,
+    "wof:lastmodified":1466312545,
     "wof:name":"Auckland Drape Company Ltd",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.756851,-36.853367,174.756851,-36.853367],
-  "geometry": {"coordinates":[174.756851,-36.853367],"type":"Point"}
+  "bbox": [
+    174.756851,
+    -36.853367,
+    174.756851,
+    -36.853367
+],
+  "geometry": {"coordinates":[174.75685100000001,-36.853367],"type":"Point"}
 }

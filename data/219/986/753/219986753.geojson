@@ -2,13 +2,14 @@
   "id": 219986753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.617935,-40.350033,175.617935,-40.350033",
     "geom:latitude":-40.350033,
     "geom:longitude":175.617935,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Victoria Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219986753,
-    "wof:lastmodified":1449073243,
+    "wof:lastmodified":1466313137,
     "wof:name":"Devlin Cameron & Hayes Ltd",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finance"
     ]
 },
-  "bbox": [175.617935,-40.350033,175.617935,-40.350033],
-  "geometry": {"coordinates":[175.617935,-40.350033],"type":"Point"}
+  "bbox": [
+    175.617935,
+    -40.350033,
+    175.617935,
+    -40.350033
+],
+  "geometry": {"coordinates":[175.61793499999999,-40.350033],"type":"Point"}
 }

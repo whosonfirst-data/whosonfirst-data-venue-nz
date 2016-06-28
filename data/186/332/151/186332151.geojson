@@ -2,13 +2,14 @@
   "id": 186332151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.182449,-38.189617,175.182449,-38.189617",
     "geom:latitude":-38.189617,
     "geom:longitude":175.182449,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Waitomo Valley Rd ",
     "sg:city":"Otorohanga",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186332151,
-    "wof:lastmodified":1449051870,
+    "wof:lastmodified":1466312204,
     "wof:name":"Ravensdown Aglime",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "material"
     ]
 },
-  "bbox": [175.182449,-38.189617,175.182449,-38.189617],
-  "geometry": {"coordinates":[175.182449,-38.189617],"type":"Point"}
+  "bbox": [
+    175.182449,
+    -38.189617,
+    175.182449,
+    -38.189617
+],
+  "geometry": {"coordinates":[175.18244899999999,-38.189617],"type":"Point"}
 }

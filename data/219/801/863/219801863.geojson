@@ -2,13 +2,14 @@
   "id": 219801863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.624161,-36.884281,174.624161,-36.884281",
     "geom:latitude":-36.884281,
     "geom:longitude":174.624161,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 A Southgate Pl Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219801863,
-    "wof:lastmodified":1449073304,
+    "wof:lastmodified":1466313105,
     "wof:name":"Challenger Motors Ltd",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beater"
     ]
 },
-  "bbox": [174.624161,-36.884281,174.624161,-36.884281],
-  "geometry": {"coordinates":[174.624161,-36.884281],"type":"Point"}
+  "bbox": [
+    174.624161,
+    -36.884281,
+    174.624161,
+    -36.884281
+],
+  "geometry": {"coordinates":[174.62416099999999,-36.884281],"type":"Point"}
 }

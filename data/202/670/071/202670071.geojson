@@ -2,13 +2,14 @@
   "id": 202670071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.347076,-46.388569,168.347076,-46.388569",
     "geom:latitude":-46.388569,
     "geom:longitude":168.347076,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27-29 North Rd ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202670071,
-    "wof:lastmodified":1449060484,
+    "wof:lastmodified":1466312019,
     "wof:name":"O'Sullivan P Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "related"
     ]
 },
-  "bbox": [168.347076,-46.388569,168.347076,-46.388569],
-  "geometry": {"coordinates":[168.347076,-46.388569],"type":"Point"}
+  "bbox": [
+    168.347076,
+    -46.388569,
+    168.347076,
+    -46.388569
+],
+  "geometry": {"coordinates":[168.34707599999999,-46.388569],"type":"Point"}
 }

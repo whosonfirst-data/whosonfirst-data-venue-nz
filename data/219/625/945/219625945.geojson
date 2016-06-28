@@ -2,13 +2,14 @@
   "id": 219625945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.000565,-40.91811,175.000565,-40.91811",
     "geom:latitude":-40.91811,
     "geom:longitude":175.000565,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Rimu Rd ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219625945,
-    "wof:lastmodified":1449073980,
+    "wof:lastmodified":1466312759,
     "wof:name":"Kapiti Auto Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supplies"
     ]
 },
-  "bbox": [175.000565,-40.91811,175.000565,-40.91811],
-  "geometry": {"coordinates":[175.000565,-40.91811],"type":"Point"}
+  "bbox": [
+    175.000565,
+    -40.91811,
+    175.000565,
+    -40.91811
+],
+  "geometry": {"coordinates":[175.00056499999999,-40.91811],"type":"Point"}
 }

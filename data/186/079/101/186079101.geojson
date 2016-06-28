@@ -2,13 +2,14 @@
   "id": 186079101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.28183,-39.591431,174.28183,-39.591431",
     "geom:latitude":-39.591431,
     "geom:longitude":174.28183,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Regent St ",
     "sg:city":"Hawera",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186079101,
-    "wof:lastmodified":1449052558,
+    "wof:lastmodified":1466311839,
     "wof:name":"Hawera Rewinds",
     "wof:parent_id":85781023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.28183,-39.591431,174.28183,-39.591431],
-  "geometry": {"coordinates":[174.28183,-39.591431],"type":"Point"}
+  "bbox": [
+    174.28183,
+    -39.591431,
+    174.28183,
+    -39.591431
+],
+  "geometry": {"coordinates":[174.28183000000001,-39.591431],"type":"Point"}
 }

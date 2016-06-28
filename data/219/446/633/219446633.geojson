@@ -2,13 +2,14 @@
   "id": 219446633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.32074,-35.732479,174.32074,-35.732479",
     "geom:latitude":-35.732479,
     "geom:longitude":174.32074,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Kaka St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219446633,
-    "wof:lastmodified":1449073622,
+    "wof:lastmodified":1466312141,
     "wof:name":"Northland Driving School",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driver"
     ]
 },
-  "bbox": [174.32074,-35.732479,174.32074,-35.732479],
+  "bbox": [
+    174.32074,
+    -35.732479,
+    174.32074,
+    -35.732479
+],
   "geometry": {"coordinates":[174.32074,-35.732479],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219638971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.999161,-40.904083,174.999161,-40.904083",
     "geom:latitude":-40.904083,
     "geom:longitude":174.999161,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6-8 Birmingham St ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219638971,
-    "wof:lastmodified":1449070574,
+    "wof:lastmodified":1466312681,
     "wof:name":"Wreck-King Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.999161,-40.904083,174.999161,-40.904083],
-  "geometry": {"coordinates":[174.999161,-40.904083],"type":"Point"}
+  "bbox": [
+    174.999161,
+    -40.904083,
+    174.999161,
+    -40.904083
+],
+  "geometry": {"coordinates":[174.99916099999999,-40.904083],"type":"Point"}
 }

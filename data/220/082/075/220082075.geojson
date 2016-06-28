@@ -2,13 +2,14 @@
   "id": 220082075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.902039,-41.245213,174.902039,-41.245213",
     "geom:latitude":-41.245213,
     "geom:longitude":174.902039,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12-14 Toop St Seaview Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220082075,
-    "wof:lastmodified":1449074083,
+    "wof:lastmodified":1466311880,
     "wof:name":"Weston Milling",
     "wof:parent_id":85778601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.902039,-41.245213,174.902039,-41.245213],
+  "bbox": [
+    174.902039,
+    -41.245213,
+    174.902039,
+    -41.245213
+],
   "geometry": {"coordinates":[174.902039,-41.245213],"type":"Point"}
 }

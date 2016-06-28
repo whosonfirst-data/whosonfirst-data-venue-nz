@@ -2,13 +2,14 @@
   "id": 186174005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.451599,-35.886211,174.451599,-35.886211",
     "geom:latitude":-35.886211,
     "geom:longitude":174.451599,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Seaview Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186174005,
-    "wof:lastmodified":1449050718,
+    "wof:lastmodified":1466311194,
     "wof:name":"Richardson Stevens Consultants Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.451599,-35.886211,174.451599,-35.886211],
-  "geometry": {"coordinates":[174.451599,-35.886211],"type":"Point"}
+  "bbox": [
+    174.451599,
+    -35.886211,
+    174.451599,
+    -35.886211
+],
+  "geometry": {"coordinates":[174.45159899999999,-35.886211],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202808243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.298004,37.887283,-122.298004,37.887283",
     "geom:latitude":37.887283,
     "geom:longitude":-122.298004,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Northridge Plaza Don KcKinnon Dve ",
     "sg:city":"Albany",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202808243,
-    "wof:lastmodified":1449060222,
+    "wof:lastmodified":1466312557,
     "wof:name":"Bed Factory Ltd",
     "wof:parent_id":85885545,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-122.298004,37.887283,-122.298004,37.887283],
-  "geometry": {"coordinates":[-122.298004,37.887283],"type":"Point"}
+  "bbox": [
+    -122.298004,
+    37.887283,
+    -122.298004,
+    37.887283
+],
+  "geometry": {"coordinates":[-122.29800400000001,37.887283],"type":"Point"}
 }

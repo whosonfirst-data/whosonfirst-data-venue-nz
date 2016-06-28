@@ -2,13 +2,14 @@
   "id": 219262573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.606583,-43.495457,172.606583,-43.495457",
     "geom:latitude":-43.495457,
     "geom:longitude":172.606583,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Winston Ave Papanui ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219262573,
-    "wof:lastmodified":1449072583,
+    "wof:lastmodified":1466310652,
     "wof:name":"Housing New Zealand Corporation",
     "wof:parent_id":85773111,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accommodation"
     ]
 },
-  "bbox": [172.606583,-43.495457,172.606583,-43.495457],
+  "bbox": [
+    172.606583,
+    -43.495457,
+    172.606583,
+    -43.495457
+],
   "geometry": {"coordinates":[172.606583,-43.495457],"type":"Point"}
 }

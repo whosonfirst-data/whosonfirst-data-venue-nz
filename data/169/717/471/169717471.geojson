@@ -2,13 +2,14 @@
   "id": 169717471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.016541,-38.659706,178.016541,-38.659706",
     "geom:latitude":-38.659706,
     "geom:longitude":178.016541,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"416 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169717471,
-    "wof:lastmodified":1449032773,
+    "wof:lastmodified":1466311047,
     "wof:name":"Corvos Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.016541,-38.659706,178.016541,-38.659706],
-  "geometry": {"coordinates":[178.016541,-38.659706],"type":"Point"}
+  "bbox": [
+    178.016541,
+    -38.659706,
+    178.016541,
+    -38.659706
+],
+  "geometry": {"coordinates":[178.01654099999999,-38.659706],"type":"Point"}
 }

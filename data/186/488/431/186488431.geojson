@@ -2,13 +2,14 @@
   "id": 186488431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.536331,-43.534431,172.536331,-43.534431",
     "geom:latitude":-43.534431,
     "geom:longitude":172.536331,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Chinook Pl Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186488431,
-    "wof:lastmodified":1449052972,
+    "wof:lastmodified":1466312727,
     "wof:name":"Custom Tooling & Engineering",
     "wof:parent_id":85778617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.536331,-43.534431,172.536331,-43.534431],
-  "geometry": {"coordinates":[172.536331,-43.534431],"type":"Point"}
+  "bbox": [
+    172.536331,
+    -43.534431,
+    172.536331,
+    -43.534431
+],
+  "geometry": {"coordinates":[172.53633099999999,-43.534431],"type":"Point"}
 }

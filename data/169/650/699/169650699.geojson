@@ -2,13 +2,14 @@
   "id": 169650699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.326935,-35.732658,174.326935,-35.732658",
     "geom:latitude":-35.732658,
     "geom:longitude":174.326935,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Okara Drive Retail Centre ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169650699,
-    "wof:lastmodified":1449034699,
+    "wof:lastmodified":1466310629,
     "wof:name":"The Warehouse Ltd",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.326935,-35.732658,174.326935,-35.732658],
-  "geometry": {"coordinates":[174.326935,-35.732658],"type":"Point"}
+  "bbox": [
+    174.326935,
+    -35.732658,
+    174.326935,
+    -35.732658
+],
+  "geometry": {"coordinates":[174.32693499999999,-35.732658],"type":"Point"}
 }

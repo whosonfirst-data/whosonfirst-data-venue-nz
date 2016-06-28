@@ -2,13 +2,14 @@
   "id": 186057793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.782654,-36.926193,174.782654,-36.926193",
     "geom:latitude":-36.926193,
     "geom:longitude":174.782654,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Gloucester Park Rd Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186057793,
-    "wof:lastmodified":1449051702,
+    "wof:lastmodified":1466311564,
     "wof:name":"Total Air Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "maintenance"
     ]
 },
-  "bbox": [174.782654,-36.926193,174.782654,-36.926193],
-  "geometry": {"coordinates":[174.782654,-36.926193],"type":"Point"}
+  "bbox": [
+    174.782654,
+    -36.926193,
+    174.782654,
+    -36.926193
+],
+  "geometry": {"coordinates":[174.78265400000001,-36.926193],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203417819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.678238,-36.620617,174.678238,-36.620617",
     "geom:latitude":-36.620617,
     "geom:longitude":174.678238,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Blue Gum Ave Silverdale Hibiscus ",
     "sg:city":"Hibiscus Coast",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203417819,
-    "wof:lastmodified":1449025694,
+    "wof:lastmodified":1466312591,
     "wof:name":"A A MarineTronics Ltd",
     "wof:parent_id":85773185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.678238,-36.620617,174.678238,-36.620617],
-  "geometry": {"coordinates":[174.678238,-36.620617],"type":"Point"}
+  "bbox": [
+    174.678238,
+    -36.620617,
+    174.678238,
+    -36.620617
+],
+  "geometry": {"coordinates":[174.67823799999999,-36.620617],"type":"Point"}
 }

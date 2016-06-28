@@ -2,13 +2,14 @@
   "id": 219210673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.752594,40.218876,-74.752594,40.218876",
     "geom:latitude":40.218876,
     "geom:longitude":-74.752594,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Ashurst Ave ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219210673,
-    "wof:lastmodified":1449071600,
+    "wof:lastmodified":1466311593,
     "wof:name":"Cowan Couriers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.752594,40.218876,-74.752594,40.218876],
+  "bbox": [
+    -74.752594,
+    40.218876,
+    -74.752594,
+    40.218876
+],
   "geometry": {"coordinates":[-74.752594,40.218876],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169785091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.2379,-38.16346,176.2379,-38.16346",
     "geom:latitude":-38.16346,
     "geom:longitude":176.2379,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Kiwi St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":169785091,
-    "wof:lastmodified":1449035397,
+    "wof:lastmodified":1466311532,
     "wof:name":"Bryan Colman",
     "wof:parent_id":85781243,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "trip"
     ]
 },
-  "bbox": [176.2379,-38.16346,176.2379,-38.16346],
+  "bbox": [
+    176.2379,
+    -38.16346,
+    176.2379,
+    -38.16346
+],
   "geometry": {"coordinates":[176.2379,-38.16346],"type":"Point"}
 }

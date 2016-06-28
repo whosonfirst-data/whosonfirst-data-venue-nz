@@ -2,13 +2,14 @@
   "id": 185787377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.948425,-39.605137,176.948425,-39.605137",
     "geom:latitude":-39.605137,
     "geom:longitude":176.948425,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Gaskin Pl Haumoana ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185787377,
-    "wof:lastmodified":1449007345,
+    "wof:lastmodified":1466311141,
     "wof:name":"Coastal Crafts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hobbies"
     ]
 },
-  "bbox": [176.948425,-39.605137,176.948425,-39.605137],
-  "geometry": {"coordinates":[176.948425,-39.605137],"type":"Point"}
+  "bbox": [
+    176.948425,
+    -39.605137,
+    176.948425,
+    -39.605137
+],
+  "geometry": {"coordinates":[176.94842499999999,-39.605137],"type":"Point"}
 }

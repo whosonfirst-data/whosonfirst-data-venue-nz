@@ -2,13 +2,14 @@
   "id": 219915111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.051819,-39.936256,175.051819,-39.936256",
     "geom:latitude":-39.936256,
     "geom:longitude":175.051819,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Ridgway St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219915111,
-    "wof:lastmodified":1449073876,
+    "wof:lastmodified":1466313095,
     "wof:name":"Machinery Maintenance - Pump House",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.051819,-39.936256,175.051819,-39.936256],
-  "geometry": {"coordinates":[175.051819,-39.936256],"type":"Point"}
+  "bbox": [
+    175.051819,
+    -39.936256,
+    175.051819,
+    -39.936256
+],
+  "geometry": {"coordinates":[175.05181899999999,-39.936256],"type":"Point"}
 }

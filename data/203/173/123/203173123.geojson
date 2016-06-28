@@ -2,13 +2,14 @@
   "id": 203173123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.941467,-37.057327,174.941467,-37.057327",
     "geom:latitude":-37.057327,
     "geom:longitude":174.941467,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Old Wairoa Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203173123,
-    "wof:lastmodified":1449025298,
+    "wof:lastmodified":1466311109,
     "wof:name":"Curtain Clinic",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [174.941467,-37.057327,174.941467,-37.057327],
-  "geometry": {"coordinates":[174.941467,-37.057327],"type":"Point"}
+  "bbox": [
+    174.941467,
+    -37.057327,
+    174.941467,
+    -37.057327
+],
+  "geometry": {"coordinates":[174.94146699999999,-37.057327],"type":"Point"}
 }

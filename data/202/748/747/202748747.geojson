@@ -2,13 +2,14 @@
   "id": 202748747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.798798,43.195068,-79.798798,43.195068",
     "geom:latitude":43.195068,
     "geom:longitude":-79.798798,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Pembroke St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202748747,
-    "wof:lastmodified":1449062009,
+    "wof:lastmodified":1466312302,
     "wof:name":"Pembroke Lodge Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-79.798798,43.195068,-79.798798,43.195068],
-  "geometry": {"coordinates":[-79.798798,43.195068],"type":"Point"}
+  "bbox": [
+    -79.798798,
+    43.195068,
+    -79.798798,
+    43.195068
+],
+  "geometry": {"coordinates":[-79.79879800000001,43.195068],"type":"Point"}
 }

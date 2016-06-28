@@ -2,13 +2,14 @@
   "id": 219199143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.916962,-37.021488,174.916962,-37.021488",
     "geom:latitude":-37.021488,
     "geom:longitude":174.916962,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Claude Rd Manurewa ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219199143,
-    "wof:lastmodified":1449070754,
+    "wof:lastmodified":1466311468,
     "wof:name":"Abacus Removals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.916962,-37.021488,174.916962,-37.021488],
-  "geometry": {"coordinates":[174.916962,-37.021488],"type":"Point"}
+  "bbox": [
+    174.916962,
+    -37.021488,
+    174.916962,
+    -37.021488
+],
+  "geometry": {"coordinates":[174.91696200000001,-37.021488],"type":"Point"}
 }

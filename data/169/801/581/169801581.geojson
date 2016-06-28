@@ -2,13 +2,14 @@
   "id": 169801581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.865265,-37.204063,175.865265,-37.204063",
     "geom:latitude":-37.204063,
     "geom:longitude":175.865265,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Wattle Place ",
     "sg:city":"Whangamata",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169801581,
-    "wof:lastmodified":1449035377,
+    "wof:lastmodified":1466311658,
     "wof:name":"Whisper Canvas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.865265,-37.204063,175.865265,-37.204063],
-  "geometry": {"coordinates":[175.865265,-37.204063],"type":"Point"}
+  "bbox": [
+    175.865265,
+    -37.204063,
+    175.865265,
+    -37.204063
+],
+  "geometry": {"coordinates":[175.86526499999999,-37.204063],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186515729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.690125,-36.582741,174.690125,-36.582741",
     "geom:latitude":-36.582741,
     "geom:longitude":174.690125,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Westpac Plaza Moana Ave Orewa Hibiscus ",
     "sg:city":"Hibiscus Coast",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186515729,
-    "wof:lastmodified":1449051022,
+    "wof:lastmodified":1466312887,
     "wof:name":"Orewa Hair & Beauty Therapy",
     "wof:parent_id":85778557,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "health"
     ]
 },
-  "bbox": [174.690125,-36.582741,174.690125,-36.582741],
-  "geometry": {"coordinates":[174.690125,-36.582741],"type":"Point"}
+  "bbox": [
+    174.690125,
+    -36.582741,
+    174.690125,
+    -36.582741
+],
+  "geometry": {"coordinates":[174.69012499999999,-36.582741],"type":"Point"}
 }

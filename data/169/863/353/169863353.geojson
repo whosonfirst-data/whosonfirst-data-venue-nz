@@ -2,13 +2,14 @@
   "id": 169863353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.612854,-40.353207,175.612854,-40.353207",
     "geom:latitude":-40.353207,
     "geom:longitude":175.612854,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"130 King St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169863353,
-    "wof:lastmodified":1449034969,
+    "wof:lastmodified":1466312136,
     "wof:name":"Lexi's Bar",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.612854,-40.353207,175.612854,-40.353207],
+  "bbox": [
+    175.612854,
+    -40.353207,
+    175.612854,
+    -40.353207
+],
   "geometry": {"coordinates":[175.612854,-40.353207],"type":"Point"}
 }

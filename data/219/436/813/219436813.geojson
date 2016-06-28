@@ -2,13 +2,14 @@
   "id": 219436813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.266678,-41.29491,173.266678,-41.29491",
     "geom:latitude":-41.29491,
     "geom:longitude":173.266678,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Waimea Rd Bishopdale ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219436813,
-    "wof:lastmodified":1449073579,
+    "wof:lastmodified":1466312025,
     "wof:name":"Nelson College",
     "wof:parent_id":85781437,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.266678,-41.29491,173.266678,-41.29491],
-  "geometry": {"coordinates":[173.266678,-41.29491],"type":"Point"}
+  "bbox": [
+    173.266678,
+    -41.29491,
+    173.266678,
+    -41.29491
+],
+  "geometry": {"coordinates":[173.26667800000001,-41.29491],"type":"Point"}
 }

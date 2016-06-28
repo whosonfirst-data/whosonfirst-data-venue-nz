@@ -2,13 +2,14 @@
   "id": 169817055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.612625,-40.353992,175.612625,-40.353992",
     "geom:latitude":-40.353992,
     "geom:longitude":175.612625,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169817055,
-    "wof:lastmodified":1449035313,
+    "wof:lastmodified":1466311779,
     "wof:name":"Tisdalls",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.612625,-40.353992,175.612625,-40.353992],
-  "geometry": {"coordinates":[175.612625,-40.353992],"type":"Point"}
+  "bbox": [
+    175.612625,
+    -40.353992,
+    175.612625,
+    -40.353992
+],
+  "geometry": {"coordinates":[175.61262500000001,-40.353992],"type":"Point"}
 }

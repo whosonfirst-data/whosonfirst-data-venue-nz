@@ -2,13 +2,14 @@
   "id": 202851643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.649109,-43.544628,172.649109,-43.544628",
     "geom:latitude":-43.544628,
     "geom:longitude":172.649109,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Mowbray St Waltham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202851643,
-    "wof:lastmodified":1449061758,
+    "wof:lastmodified":1466312803,
     "wof:name":"Turnbull M F Painting & Polishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "finishing"
     ]
 },
-  "bbox": [172.649109,-43.544628,172.649109,-43.544628],
-  "geometry": {"coordinates":[172.649109,-43.544628],"type":"Point"}
+  "bbox": [
+    172.649109,
+    -43.544628,
+    172.649109,
+    -43.544628
+],
+  "geometry": {"coordinates":[172.64910900000001,-43.544628],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202921565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.646271,-40.940762,175.646271,-40.940762",
     "geom:latitude":-40.940762,
     "geom:longitude":175.646271,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"59-61 Ngaumutawa Rd ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202921565,
-    "wof:lastmodified":1449061722,
+    "wof:lastmodified":1466312842,
     "wof:name":"Robinsons Garden Centre Ltd",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gardening"
     ]
 },
-  "bbox": [175.646271,-40.940762,175.646271,-40.940762],
-  "geometry": {"coordinates":[175.646271,-40.940762],"type":"Point"}
+  "bbox": [
+    175.646271,
+    -40.940762,
+    175.646271,
+    -40.940762
+],
+  "geometry": {"coordinates":[175.64627100000001,-40.940762],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219714763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.427032,-39.038639,177.427032,-39.038639",
     "geom:latitude":-39.038639,
     "geom:longitude":177.427032,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Carroll & Mahia Ave ",
     "sg:city":"Wairoa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219714763,
-    "wof:lastmodified":1449072122,
+    "wof:lastmodified":1466312734,
     "wof:name":"Wairoa Motorcycle",
     "wof:parent_id":85781027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leasing"
     ]
 },
-  "bbox": [177.427032,-39.038639,177.427032,-39.038639],
+  "bbox": [
+    177.427032,
+    -39.038639,
+    177.427032,
+    -39.038639
+],
   "geometry": {"coordinates":[177.427032,-39.038639],"type":"Point"}
 }

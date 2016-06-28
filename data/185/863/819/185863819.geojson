@@ -2,13 +2,14 @@
   "id": 185863819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-97.026207,40.262596,-97.026207,40.262596",
     "geom:latitude":40.262596,
     "geom:longitude":-97.026207,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 720 New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185863819,
-    "wof:lastmodified":1449007700,
+    "wof:lastmodified":1466311649,
     "wof:name":"Skydive Taranaki",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sports"
     ]
 },
-  "bbox": [-97.026207,40.262596,-97.026207,40.262596],
+  "bbox": [
+    -97.026207,
+    40.262596,
+    -97.026207,
+    40.262596
+],
   "geometry": {"coordinates":[-97.026207,40.262596],"type":"Point"}
 }

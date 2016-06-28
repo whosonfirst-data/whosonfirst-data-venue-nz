@@ -2,13 +2,14 @@
   "id": 186049667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.586243,-43.413048,172.586243,-43.413048",
     "geom:latitude":-43.413048,
     "geom:longitude":172.586243,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"620 South Eyre Rd Kaiapoi ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186049667,
-    "wof:lastmodified":1449051707,
+    "wof:lastmodified":1466311489,
     "wof:name":"Rae Line Boats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "compounds"
     ]
 },
-  "bbox": [172.586243,-43.413048,172.586243,-43.413048],
+  "bbox": [
+    172.586243,
+    -43.413048,
+    172.586243,
+    -43.413048
+],
   "geometry": {"coordinates":[172.586243,-43.413048],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203131337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.497742,-43.354553,172.497742,-43.354553",
     "geom:latitude":-43.354553,
     "geom:longitude":172.497742,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1125 Two Chain Rd R D 1 Rangiora ",
     "sg:city":"Ohoka",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203131337,
-    "wof:lastmodified":1449025480,
+    "wof:lastmodified":1466312012,
     "wof:name":"Cosy Claws",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kennel"
     ]
 },
-  "bbox": [172.497742,-43.354553,172.497742,-43.354553],
-  "geometry": {"coordinates":[172.497742,-43.354553],"type":"Point"}
+  "bbox": [
+    172.497742,
+    -43.354553,
+    172.497742,
+    -43.354553
+],
+  "geometry": {"coordinates":[172.49774199999999,-43.354553],"type":"Point"}
 }

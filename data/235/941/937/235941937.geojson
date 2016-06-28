@@ -2,13 +2,14 @@
   "id": 235941937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.625534,-43.467388,172.625534,-43.467388",
     "geom:latitude":-43.467388,
     "geom:longitude":172.625534,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"472 Cranford St Redwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235941937,
-    "wof:lastmodified":1449008450,
+    "wof:lastmodified":1466310798,
     "wof:name":"Fresh Cut Limited",
     "wof:parent_id":85781163,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "processor"
     ]
 },
-  "bbox": [172.625534,-43.467388,172.625534,-43.467388],
-  "geometry": {"coordinates":[172.625534,-43.467388],"type":"Point"}
+  "bbox": [
+    172.625534,
+    -43.467388,
+    172.625534,
+    -43.467388
+],
+  "geometry": {"coordinates":[172.62553399999999,-43.467388],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203262073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.28244,-37.788502,175.28244,-37.788502",
     "geom:latitude":-37.788502,
     "geom:longitude":175.28244,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Alexandra St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203262073,
-    "wof:lastmodified":1449026119,
+    "wof:lastmodified":1466311957,
     "wof:name":"The Growing Concern",
     "wof:parent_id":85782405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wear"
     ]
 },
-  "bbox": [175.28244,-37.788502,175.28244,-37.788502],
-  "geometry": {"coordinates":[175.28244,-37.788502],"type":"Point"}
+  "bbox": [
+    175.28244,
+    -37.788502,
+    175.28244,
+    -37.788502
+],
+  "geometry": {"coordinates":[175.28244000000001,-37.788502],"type":"Point"}
 }

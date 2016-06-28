@@ -2,13 +2,14 @@
   "id": 186314137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.971085,-37.076118,174.971085,-37.076118",
     "geom:latitude":-37.076118,
     "geom:longitude":174.971085,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Hunua Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186314137,
-    "wof:lastmodified":1449052925,
+    "wof:lastmodified":1466312343,
     "wof:name":"Auckland Reinforcing Services",
     "wof:parent_id":85781093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.971085,-37.076118,174.971085,-37.076118],
-  "geometry": {"coordinates":[174.971085,-37.076118],"type":"Point"}
+  "bbox": [
+    174.971085,
+    -37.076118,
+    174.971085,
+    -37.076118
+],
+  "geometry": {"coordinates":[174.97108499999999,-37.076118],"type":"Point"}
 }

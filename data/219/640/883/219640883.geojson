@@ -2,13 +2,14 @@
   "id": 219640883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.021576,-38.660835,178.021576,-38.660835",
     "geom:latitude":-38.660835,
     "geom:longitude":178.021576,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"331 Palmerston Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219640883,
-    "wof:lastmodified":1449071921,
+    "wof:lastmodified":1466312688,
     "wof:name":"BNT Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "supplies"
     ]
 },
-  "bbox": [178.021576,-38.660835,178.021576,-38.660835],
-  "geometry": {"coordinates":[178.021576,-38.660835],"type":"Point"}
+  "bbox": [
+    178.021576,
+    -38.660835,
+    178.021576,
+    -38.660835
+],
+  "geometry": {"coordinates":[178.02157600000001,-38.660835],"type":"Point"}
 }

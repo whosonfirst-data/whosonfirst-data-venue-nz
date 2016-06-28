@@ -2,13 +2,14 @@
   "id": 169846235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.046051,-39.936417,175.046051,-39.936417",
     "geom:latitude":-39.936417,
     "geom:longitude":175.046051,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Guyton St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169846235,
-    "wof:lastmodified":1449035215,
+    "wof:lastmodified":1466312080,
     "wof:name":"Signs & Engraving",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "award"
     ]
 },
-  "bbox": [175.046051,-39.936417,175.046051,-39.936417],
-  "geometry": {"coordinates":[175.046051,-39.936417],"type":"Point"}
+  "bbox": [
+    175.046051,
+    -39.936417,
+    175.046051,
+    -39.936417
+],
+  "geometry": {"coordinates":[175.04605100000001,-39.936417],"type":"Point"}
 }

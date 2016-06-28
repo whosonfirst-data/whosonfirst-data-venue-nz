@@ -2,13 +2,14 @@
   "id": 219276339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.782608,-36.854221,174.782608,-36.854221",
     "geom:latitude":-36.854221,
     "geom:longitude":174.782608,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"60 St Georges Bay Rd Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219276339,
-    "wof:lastmodified":1449070498,
+    "wof:lastmodified":1466310754,
     "wof:name":"Lantana Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.782608,-36.854221,174.782608,-36.854221],
-  "geometry": {"coordinates":[174.782608,-36.854221],"type":"Point"}
+  "bbox": [
+    174.782608,
+    -36.854221,
+    174.782608,
+    -36.854221
+],
+  "geometry": {"coordinates":[174.78260800000001,-36.854221],"type":"Point"}
 }

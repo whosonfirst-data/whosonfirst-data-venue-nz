@@ -2,13 +2,14 @@
   "id": 169556701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.86618,-39.420326,176.86618,-39.420326",
     "geom:latitude":-39.420326,
     "geom:longitude":176.86618,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 52 Bay View ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169556701,
-    "wof:lastmodified":1449033508,
+    "wof:lastmodified":1466310918,
     "wof:name":"PKM Vending",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.86618,-39.420326,176.86618,-39.420326],
-  "geometry": {"coordinates":[176.86618,-39.420326],"type":"Point"}
+  "bbox": [
+    176.86618,
+    -39.420326,
+    176.86618,
+    -39.420326
+],
+  "geometry": {"coordinates":[176.86618000000001,-39.420326],"type":"Point"}
 }

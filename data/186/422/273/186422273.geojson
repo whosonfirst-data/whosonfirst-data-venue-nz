@@ -2,13 +2,14 @@
   "id": 186422273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.63707,-36.907578,174.63707,-36.907578",
     "geom:latitude":-36.907578,
     "geom:longitude":174.63707,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Waikaukau Rd Glen Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186422273,
-    "wof:lastmodified":1449050444,
+    "wof:lastmodified":1466312564,
     "wof:name":"West Auckland Foundry Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.63707,-36.907578,174.63707,-36.907578],
-  "geometry": {"coordinates":[174.63707,-36.907578],"type":"Point"}
+  "bbox": [
+    174.63707,
+    -36.907578,
+    174.63707,
+    -36.907578
+],
+  "geometry": {"coordinates":[174.63706999999999,-36.907578],"type":"Point"}
 }

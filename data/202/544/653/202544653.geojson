@@ -2,13 +2,14 @@
   "id": 202544653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.548111,-39.995377,176.548111,-39.995377",
     "geom:latitude":-39.995377,
     "geom:longitude":176.548111,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cook St ",
     "sg:city":"Waipukurau",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":202544653,
-    "wof:lastmodified":1449062642,
+    "wof:lastmodified":1466311037,
     "wof:name":"CHB Physiotherapy Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.548111,-39.995377,176.548111,-39.995377],
-  "geometry": {"coordinates":[176.548111,-39.995377],"type":"Point"}
+  "bbox": [
+    176.548111,
+    -39.995377,
+    176.548111,
+    -39.995377
+],
+  "geometry": {"coordinates":[176.54811100000001,-39.995377],"type":"Point"}
 }

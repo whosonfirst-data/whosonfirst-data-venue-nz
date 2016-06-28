@@ -2,13 +2,14 @@
   "id": 219632201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.349457,-46.383163,168.349457,-46.383163",
     "geom:latitude":-46.383163,
     "geom:longitude":168.349457,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Kinloch St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219632201,
-    "wof:lastmodified":1449072639,
+    "wof:lastmodified":1466312763,
     "wof:name":"M B Truck Spares",
     "wof:parent_id":85778907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.349457,-46.383163,168.349457,-46.383163],
+  "bbox": [
+    168.349457,
+    -46.383163,
+    168.349457,
+    -46.383163
+],
   "geometry": {"coordinates":[168.349457,-46.383163],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219687225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.66008,-40.9524,175.66008,-40.9524",
     "geom:latitude":-40.9524,
     "geom:longitude":175.66008,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Dixon St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219687225,
-    "wof:lastmodified":1449071395,
+    "wof:lastmodified":1466312886,
     "wof:name":"Central Vehicle Brokers LMVD MVDI",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.66008,-40.9524,175.66008,-40.9524],
-  "geometry": {"coordinates":[175.66008,-40.9524],"type":"Point"}
+  "bbox": [
+    175.66008,
+    -40.9524,
+    175.66008,
+    -40.9524
+],
+  "geometry": {"coordinates":[175.66007999999999,-40.9524],"type":"Point"}
 }

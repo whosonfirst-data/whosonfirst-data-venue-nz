@@ -2,13 +2,14 @@
   "id": 186343699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.612732,-40.9641,175.612732,-40.9641",
     "geom:latitude":-40.9641,
     "geom:longitude":175.612732,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Buchanan Place ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186343699,
-    "wof:lastmodified":1449052260,
+    "wof:lastmodified":1466312436,
     "wof:name":"Wairarapa Aggregates Ltd",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "materials"
     ]
 },
-  "bbox": [175.612732,-40.9641,175.612732,-40.9641],
-  "geometry": {"coordinates":[175.612732,-40.9641],"type":"Point"}
+  "bbox": [
+    175.612732,
+    -40.9641,
+    175.612732,
+    -40.9641
+],
+  "geometry": {"coordinates":[175.61273199999999,-40.9641],"type":"Point"}
 }

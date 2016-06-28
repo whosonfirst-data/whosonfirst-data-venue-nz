@@ -2,13 +2,14 @@
   "id": 186060083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.032959,-39.948643,175.032959,-39.948643",
     "geom:latitude":-39.948643,
     "geom:longitude":175.032959,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Heads Rd ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186060083,
-    "wof:lastmodified":1449052777,
+    "wof:lastmodified":1466311609,
     "wof:name":"C A S Products",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "maintenance"
     ]
 },
-  "bbox": [175.032959,-39.948643,175.032959,-39.948643],
-  "geometry": {"coordinates":[175.032959,-39.948643],"type":"Point"}
+  "bbox": [
+    175.032959,
+    -39.948643,
+    175.032959,
+    -39.948643
+],
+  "geometry": {"coordinates":[175.03295900000001,-39.948643],"type":"Point"}
 }

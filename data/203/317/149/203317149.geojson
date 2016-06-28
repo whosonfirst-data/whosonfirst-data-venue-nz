@@ -2,13 +2,14 @@
   "id": 203317149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.623688,-36.891106,174.623688,-36.891106",
     "geom:latitude":-36.891106,
     "geom:longitude":174.623688,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Henderson Valley Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203317149,
-    "wof:lastmodified":1449025774,
+    "wof:lastmodified":1466312290,
     "wof:name":"Dawn Murray Bears",
     "wof:parent_id":85781035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [174.623688,-36.891106,174.623688,-36.891106],
-  "geometry": {"coordinates":[174.623688,-36.891106],"type":"Point"}
+  "bbox": [
+    174.623688,
+    -36.891106,
+    174.623688,
+    -36.891106
+],
+  "geometry": {"coordinates":[174.62368799999999,-36.891106],"type":"Point"}
 }

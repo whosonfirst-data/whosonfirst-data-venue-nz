@@ -2,13 +2,14 @@
   "id": 220190205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.005997,-38.65461,178.005997,-38.65461",
     "geom:latitude":-38.65461,
     "geom:longitude":178.005997,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"601 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":220190205,
-    "wof:lastmodified":1449074837,
+    "wof:lastmodified":1466311386,
     "wof:name":"Farm Meat Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.005997,-38.65461,178.005997,-38.65461],
-  "geometry": {"coordinates":[178.005997,-38.65461],"type":"Point"}
+  "bbox": [
+    178.005997,
+    -38.65461,
+    178.005997,
+    -38.65461
+],
+  "geometry": {"coordinates":[178.00599700000001,-38.65461],"type":"Point"}
 }

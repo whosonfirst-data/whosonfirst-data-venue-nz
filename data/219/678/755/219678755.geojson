@@ -2,13 +2,14 @@
   "id": 219678755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.604141,-40.361504,175.604141,-40.361504",
     "geom:latitude":-40.361504,
     "geom:longitude":175.604141,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Cook St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219678755,
-    "wof:lastmodified":1449072094,
+    "wof:lastmodified":1466312765,
     "wof:name":"Fridgeking (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sale"
     ]
 },
-  "bbox": [175.604141,-40.361504,175.604141,-40.361504],
+  "bbox": [
+    175.604141,
+    -40.361504,
+    175.604141,
+    -40.361504
+],
   "geometry": {"coordinates":[175.604141,-40.361504],"type":"Point"}
 }

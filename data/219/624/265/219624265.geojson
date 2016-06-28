@@ -2,13 +2,14 @@
   "id": 219624265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.325302,-38.008205,175.325302,-38.008205",
     "geom:latitude":-38.008205,
     "geom:longitude":175.325302,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"106 Mahoe St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219624265,
-    "wof:lastmodified":1449072808,
+    "wof:lastmodified":1466312664,
     "wof:name":"ERG Automotive Electrical Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supplies"
     ]
 },
-  "bbox": [175.325302,-38.008205,175.325302,-38.008205],
-  "geometry": {"coordinates":[175.325302,-38.008205],"type":"Point"}
+  "bbox": [
+    175.325302,
+    -38.008205,
+    175.325302,
+    -38.008205
+],
+  "geometry": {"coordinates":[175.32530199999999,-38.008205],"type":"Point"}
 }

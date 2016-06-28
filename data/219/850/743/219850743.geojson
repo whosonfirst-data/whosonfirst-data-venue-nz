@@ -2,13 +2,14 @@
   "id": 219850743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.770157,-37.805782,175.770157,-37.805782",
     "geom:latitude":-37.805782,
     "geom:longitude":175.770157,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Highway 27 Waharoa ",
     "sg:city":"Matamata",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219850743,
-    "wof:lastmodified":1449072426,
+    "wof:lastmodified":1466313062,
     "wof:name":"NZMP Waharoa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.770157,-37.805782,175.770157,-37.805782],
-  "geometry": {"coordinates":[175.770157,-37.805782],"type":"Point"}
+  "bbox": [
+    175.770157,
+    -37.805782,
+    175.770157,
+    -37.805782
+],
+  "geometry": {"coordinates":[175.77015700000001,-37.805782],"type":"Point"}
 }

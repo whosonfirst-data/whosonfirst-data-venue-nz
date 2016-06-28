@@ -2,13 +2,14 @@
   "id": 203207249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.616623,-40.357391,175.616623,-40.357391",
     "geom:latitude":-40.357391,
     "geom:longitude":175.616623,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Donnington St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203207249,
-    "wof:lastmodified":1449026295,
+    "wof:lastmodified":1466311434,
     "wof:name":"NZTS",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [175.616623,-40.357391,175.616623,-40.357391],
+  "bbox": [
+    175.616623,
+    -40.357391,
+    175.616623,
+    -40.357391
+],
   "geometry": {"coordinates":[175.616623,-40.357391],"type":"Point"}
 }

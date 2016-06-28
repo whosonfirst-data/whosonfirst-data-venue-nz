@@ -2,13 +2,14 @@
   "id": 236030671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.553329,-36.795135,174.553329,-36.795135",
     "geom:latitude":-36.795135,
     "geom:longitude":174.553329,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"748 Waitakere Rd Kumeu ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236030671,
-    "wof:lastmodified":1449002739,
+    "wof:lastmodified":1466311131,
     "wof:name":"Harrier Rise Vineyard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [174.553329,-36.795135,174.553329,-36.795135],
-  "geometry": {"coordinates":[174.553329,-36.795135],"type":"Point"}
+  "bbox": [
+    174.553329,
+    -36.795135,
+    174.553329,
+    -36.795135
+],
+  "geometry": {"coordinates":[174.55332899999999,-36.795135],"type":"Point"}
 }

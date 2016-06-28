@@ -2,13 +2,14 @@
   "id": 202578701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.901443,-36.863949,174.901443,-36.863949",
     "geom:latitude":-36.863949,
     "geom:longitude":174.901443,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 A Devon Rd Bucklands Beach ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202578701,
-    "wof:lastmodified":1449060760,
+    "wof:lastmodified":1466311340,
     "wof:name":"Ellis James H",
     "wof:parent_id":85778813,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.901443,-36.863949,174.901443,-36.863949],
+  "bbox": [
+    174.901443,
+    -36.863949,
+    174.901443,
+    -36.863949
+],
   "geometry": {"coordinates":[174.901443,-36.863949],"type":"Point"}
 }

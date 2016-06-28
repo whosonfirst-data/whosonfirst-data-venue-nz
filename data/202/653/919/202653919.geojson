@@ -2,13 +2,14 @@
   "id": 202653919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.648499,-43.373055,172.648499,-43.373055",
     "geom:latitude":-43.373055,
     "geom:longitude":172.648499,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Cam Rd ",
     "sg:city":"Kaiapoi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202653919,
-    "wof:lastmodified":1449060295,
+    "wof:lastmodified":1466311957,
     "wof:name":"Miller's Plastering & Tiling Ltd",
     "wof:parent_id":85782425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plasterer"
     ]
 },
-  "bbox": [172.648499,-43.373055,172.648499,-43.373055],
-  "geometry": {"coordinates":[172.648499,-43.373055],"type":"Point"}
+  "bbox": [
+    172.648499,
+    -43.373055,
+    172.648499,
+    -43.373055
+],
+  "geometry": {"coordinates":[172.64849899999999,-43.373055],"type":"Point"}
 }

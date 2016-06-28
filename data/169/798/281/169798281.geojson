@@ -2,13 +2,14 @@
   "id": 169798281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.631729,-36.887093,174.631729,-36.887093",
     "geom:latitude":-36.887093,
     "geom:longitude":174.631729,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Railside Ave Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169798281,
-    "wof:lastmodified":1449033305,
+    "wof:lastmodified":1466311629,
     "wof:name":"Henderson Canvas Sails & Rigging Ltd",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.631729,-36.887093,174.631729,-36.887093],
-  "geometry": {"coordinates":[174.631729,-36.887093],"type":"Point"}
+  "bbox": [
+    174.631729,
+    -36.887093,
+    174.631729,
+    -36.887093
+],
+  "geometry": {"coordinates":[174.63172900000001,-36.887093],"type":"Point"}
 }

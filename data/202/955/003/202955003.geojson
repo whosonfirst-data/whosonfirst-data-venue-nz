@@ -2,13 +2,14 @@
   "id": 202955003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.591599,-36.863445,174.591599,-36.863445",
     "geom:latitude":-36.863445,
     "geom:longitude":174.591599,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"570 Swanson Rd Swanson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202955003,
-    "wof:lastmodified":1449061851,
+    "wof:lastmodified":1466312805,
     "wof:name":"Grasslands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "power"
     ]
 },
-  "bbox": [174.591599,-36.863445,174.591599,-36.863445],
+  "bbox": [
+    174.591599,
+    -36.863445,
+    174.591599,
+    -36.863445
+],
   "geometry": {"coordinates":[174.591599,-36.863445],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202653953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.019348,-40.865334,175.019348,-40.865334",
     "geom:latitude":-40.865334,
     "geom:longitude":175.019348,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Waimea Rd Waikanae Beach ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202653953,
-    "wof:lastmodified":1449060294,
+    "wof:lastmodified":1466311957,
     "wof:name":"Joe T Richardson Plasterers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plasterer"
     ]
 },
-  "bbox": [175.019348,-40.865334,175.019348,-40.865334],
-  "geometry": {"coordinates":[175.019348,-40.865334],"type":"Point"}
+  "bbox": [
+    175.019348,
+    -40.865334,
+    175.019348,
+    -40.865334
+],
+  "geometry": {"coordinates":[175.01934800000001,-40.865334],"type":"Point"}
 }

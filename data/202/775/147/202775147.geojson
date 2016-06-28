@@ -2,13 +2,14 @@
   "id": 202775147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.229279,-38.121693,176.229279,-38.121693",
     "geom:latitude":-38.121693,
     "geom:longitude":176.229279,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Fairy Springs Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202775147,
-    "wof:lastmodified":1449061982,
+    "wof:lastmodified":1466312364,
     "wof:name":"Commercial Door Services",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "garage"
     ]
 },
-  "bbox": [176.229279,-38.121693,176.229279,-38.121693],
-  "geometry": {"coordinates":[176.229279,-38.121693],"type":"Point"}
+  "bbox": [
+    176.229279,
+    -38.121693,
+    176.229279,
+    -38.121693
+],
+  "geometry": {"coordinates":[176.22927899999999,-38.121693],"type":"Point"}
 }

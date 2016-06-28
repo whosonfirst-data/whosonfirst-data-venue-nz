@@ -2,13 +2,14 @@
   "id": 219194101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.133835,-37.736351,176.133835,-37.736351",
     "geom:latitude":-37.736351,
     "geom:longitude":176.133835,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"64 F Maleme St Greerton ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219194101,
-    "wof:lastmodified":1449073405,
+    "wof:lastmodified":1466312035,
     "wof:name":"Coastline Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.133835,-37.736351,176.133835,-37.736351],
+  "bbox": [
+    176.133835,
+    -37.736351,
+    176.133835,
+    -37.736351
+],
   "geometry": {"coordinates":[176.133835,-37.736351],"type":"Point"}
 }

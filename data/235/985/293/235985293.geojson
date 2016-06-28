@@ -2,13 +2,14 @@
   "id": 235985293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.955109,-41.530392,173.955109,-41.530392",
     "geom:latitude":-41.530392,
     "geom:longitude":173.955109,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Cleghorn St Redwoodtown ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235985293,
-    "wof:lastmodified":1449008413,
+    "wof:lastmodified":1466311461,
     "wof:name":"Sidewalkers Cafe Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cafe"
     ]
 },
-  "bbox": [173.955109,-41.530392,173.955109,-41.530392],
-  "geometry": {"coordinates":[173.955109,-41.530392],"type":"Point"}
+  "bbox": [
+    173.955109,
+    -41.530392,
+    173.955109,
+    -41.530392
+],
+  "geometry": {"coordinates":[173.95510899999999,-41.530392],"type":"Point"}
 }

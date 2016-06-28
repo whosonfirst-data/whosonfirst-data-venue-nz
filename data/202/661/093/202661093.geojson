@@ -2,13 +2,14 @@
   "id": 202661093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.378548,39.868645,-75.378548,39.868645",
     "geom:latitude":39.868645,
     "geom:longitude":-75.378548,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 a Woodlands Rd ",
     "sg:city":"Parkside",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202661093,
-    "wof:lastmodified":1449062372,
+    "wof:lastmodified":1466311997,
     "wof:name":"Breen Shaun Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "related"
     ]
 },
-  "bbox": [-75.378548,39.868645,-75.378548,39.868645],
-  "geometry": {"coordinates":[-75.378548,39.868645],"type":"Point"}
+  "bbox": [
+    -75.378548,
+    39.868645,
+    -75.378548,
+    39.868645
+],
+  "geometry": {"coordinates":[-75.37854799999999,39.868645],"type":"Point"}
 }

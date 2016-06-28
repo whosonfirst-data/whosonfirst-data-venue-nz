@@ -2,13 +2,14 @@
   "id": 219812555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.070374,-41.124439,175.070374,-41.124439",
     "geom:latitude":-41.124439,
     "geom:longitude":175.070374,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Montgomery Cre Upper Hutt ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219812555,
-    "wof:lastmodified":1449070465,
+    "wof:lastmodified":1466313037,
     "wof:name":"Ward & Isaacs Panel & Paint Ltd",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beater"
     ]
 },
-  "bbox": [175.070374,-41.124439,175.070374,-41.124439],
-  "geometry": {"coordinates":[175.070374,-41.124439],"type":"Point"}
+  "bbox": [
+    175.070374,
+    -41.124439,
+    175.070374,
+    -41.124439
+],
+  "geometry": {"coordinates":[175.07037399999999,-41.124439],"type":"Point"}
 }

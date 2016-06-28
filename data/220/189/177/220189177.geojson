@@ -2,13 +2,14 @@
   "id": 220189177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.425949,-39.029865,177.425949,-39.029865",
     "geom:latitude":-39.029865,
     "geom:longitude":177.425949,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hunter-Brown St ",
     "sg:city":"Wairoa",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220189177,
-    "wof:lastmodified":1449074619,
+    "wof:lastmodified":1466311379,
     "wof:name":"Export Meat Warehouse",
     "wof:parent_id":85781027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [177.425949,-39.029865,177.425949,-39.029865],
+  "bbox": [
+    177.425949,
+    -39.029865,
+    177.425949,
+    -39.029865
+],
   "geometry": {"coordinates":[177.425949,-39.029865],"type":"Point"}
 }

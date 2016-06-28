@@ -2,13 +2,14 @@
   "id": 169567405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.997101,-38.651546,177.997101,-38.651546",
     "geom:latitude":-38.651546,
     "geom:longitude":177.997101,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"752 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169567405,
-    "wof:lastmodified":1449035997,
+    "wof:lastmodified":1466311089,
     "wof:name":"Milly Molly House",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supplier"
     ]
 },
-  "bbox": [177.997101,-38.651546,177.997101,-38.651546],
-  "geometry": {"coordinates":[177.997101,-38.651546],"type":"Point"}
+  "bbox": [
+    177.997101,
+    -38.651546,
+    177.997101,
+    -38.651546
+],
+  "geometry": {"coordinates":[177.99710099999999,-38.651546],"type":"Point"}
 }

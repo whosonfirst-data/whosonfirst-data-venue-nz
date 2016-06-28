@@ -2,13 +2,14 @@
   "id": 203148897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.945435,-37.481991,175.945435,-37.481991",
     "geom:latitude":-37.481991,
     "geom:longitude":175.945435,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Tanners Point Rd Tanners Point ",
     "sg:city":"Katikati",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203148897,
-    "wof:lastmodified":1449026550,
+    "wof:lastmodified":1466310899,
     "wof:name":"Pooch Pampervan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "pets"
     ]
 },
-  "bbox": [175.945435,-37.481991,175.945435,-37.481991],
+  "bbox": [
+    175.945435,
+    -37.481991,
+    175.945435,
+    -37.481991
+],
   "geometry": {"coordinates":[175.945435,-37.481991],"type":"Point"}
 }

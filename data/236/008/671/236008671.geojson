@@ -2,13 +2,14 @@
   "id": 236008671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.121338,-40.802349,175.121338,-40.802349",
     "geom:latitude":-40.802349,
     "geom:longitude":175.121338,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1081 State Highway 1 Te Horo ",
     "sg:city":"Otaki",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":236008671,
-    "wof:lastmodified":1449002524,
+    "wof:lastmodified":1466310764,
     "wof:name":"The Winemakers Daughter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "dining"
     ]
 },
-  "bbox": [175.121338,-40.802349,175.121338,-40.802349],
-  "geometry": {"coordinates":[175.121338,-40.802349],"type":"Point"}
+  "bbox": [
+    175.121338,
+    -40.802349,
+    175.121338,
+    -40.802349
+],
+  "geometry": {"coordinates":[175.12133800000001,-40.802349],"type":"Point"}
 }

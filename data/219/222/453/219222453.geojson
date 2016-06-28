@@ -2,13 +2,14 @@
   "id": 219222453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.33316,-35.740852,174.33316,-35.740852",
     "geom:latitude":-35.740852,
     "geom:longitude":174.33316,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Kioreroa Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219222453,
-    "wof:lastmodified":1449072750,
+    "wof:lastmodified":1466311702,
     "wof:name":"Allied Pickfords",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.33316,-35.740852,174.33316,-35.740852],
-  "geometry": {"coordinates":[174.33316,-35.740852],"type":"Point"}
+  "bbox": [
+    174.33316,
+    -35.740852,
+    174.33316,
+    -35.740852
+],
+  "geometry": {"coordinates":[174.33315999999999,-35.740852],"type":"Point"}
 }

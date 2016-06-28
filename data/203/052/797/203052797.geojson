@@ -2,13 +2,14 @@
   "id": 203052797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.239365,-37.752701,175.239365,-37.752701",
     "geom:latitude":-37.752701,
     "geom:longitude":175.239365,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Northway St & Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203052797,
-    "wof:lastmodified":1449025767,
+    "wof:lastmodified":1466311562,
     "wof:name":"Monier Brickmakers Limited",
     "wof:parent_id":85773235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [175.239365,-37.752701,175.239365,-37.752701],
-  "geometry": {"coordinates":[175.239365,-37.752701],"type":"Point"}
+  "bbox": [
+    175.239365,
+    -37.752701,
+    175.239365,
+    -37.752701
+],
+  "geometry": {"coordinates":[175.23936499999999,-37.752701],"type":"Point"}
 }

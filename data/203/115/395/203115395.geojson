@@ -2,13 +2,14 @@
   "id": 203115395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.500275,-45.87973,170.500275,-45.87973",
     "geom:latitude":-45.87973,
     "geom:longitude":170.500275,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"366 Princes St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203115395,
-    "wof:lastmodified":1449024928,
+    "wof:lastmodified":1466310653,
     "wof:name":"Dig A Tattoo",
     "wof:parent_id":85782381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garden"
     ]
 },
-  "bbox": [170.500275,-45.87973,170.500275,-45.87973],
-  "geometry": {"coordinates":[170.500275,-45.87973],"type":"Point"}
+  "bbox": [
+    170.500275,
+    -45.87973,
+    170.500275,
+    -45.87973
+],
+  "geometry": {"coordinates":[170.50027499999999,-45.87973],"type":"Point"}
 }

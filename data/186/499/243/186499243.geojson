@@ -2,13 +2,14 @@
   "id": 186499243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.750046,-36.869267,174.750046,-36.869267",
     "geom:latitude":-36.869267,
     "geom:longitude":174.750046,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"344 New North Rd Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":186499243,
-    "wof:lastmodified":1449050914,
+    "wof:lastmodified":1466312868,
     "wof:name":"Beauty Embassy",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beauty"
     ]
 },
-  "bbox": [174.750046,-36.869267,174.750046,-36.869267],
+  "bbox": [
+    174.750046,
+    -36.869267,
+    174.750046,
+    -36.869267
+],
   "geometry": {"coordinates":[174.750046,-36.869267],"type":"Point"}
 }

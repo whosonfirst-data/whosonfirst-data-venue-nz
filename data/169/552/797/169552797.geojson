@@ -2,13 +2,14 @@
   "id": 169552797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.56514,-40.22723,175.56514,-40.22723",
     "geom:latitude":-40.22723,
     "geom:longitude":175.56514,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Manchester St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169552797,
-    "wof:lastmodified":1449034056,
+    "wof:lastmodified":1466310846,
     "wof:name":"Rachels Lingerie",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.56514,-40.22723,175.56514,-40.22723],
-  "geometry": {"coordinates":[175.56514,-40.22723],"type":"Point"}
+  "bbox": [
+    175.56514,
+    -40.22723,
+    175.56514,
+    -40.22723
+],
+  "geometry": {"coordinates":[175.56514000000001,-40.22723],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202701129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.555481,-37.672802,175.555481,-37.672802",
     "geom:latitude":-37.672802,
     "geom:longitude":175.555481,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Kereone Rd ",
     "sg:city":"Morrinsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202701129,
-    "wof:lastmodified":1449062131,
+    "wof:lastmodified":1466312113,
     "wof:name":"Te-Au-O-Waikato Kohanga Reo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "children"
     ]
 },
-  "bbox": [175.555481,-37.672802,175.555481,-37.672802],
-  "geometry": {"coordinates":[175.555481,-37.672802],"type":"Point"}
+  "bbox": [
+    175.555481,
+    -37.672802,
+    175.555481,
+    -37.672802
+],
+  "geometry": {"coordinates":[175.55548099999999,-37.672802],"type":"Point"}
 }

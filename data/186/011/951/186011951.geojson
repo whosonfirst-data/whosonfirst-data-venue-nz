@@ -2,13 +2,14 @@
   "id": 186011951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.774155,-36.789108,174.774155,-36.789108",
     "geom:latitude":-36.789108,
     "geom:longitude":174.774155,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Gibbons Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186011951,
-    "wof:lastmodified":1449052520,
+    "wof:lastmodified":1466310726,
     "wof:name":"Channel View Lounge",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wedding"
     ]
 },
-  "bbox": [174.774155,-36.789108,174.774155,-36.789108],
-  "geometry": {"coordinates":[174.774155,-36.789108],"type":"Point"}
+  "bbox": [
+    174.774155,
+    -36.789108,
+    174.774155,
+    -36.789108
+],
+  "geometry": {"coordinates":[174.77415500000001,-36.789108],"type":"Point"}
 }

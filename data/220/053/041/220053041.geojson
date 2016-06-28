@@ -2,13 +2,14 @@
   "id": 220053041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.912766,33.828884,-85.912766,33.828884",
     "geom:latitude":33.828884,
     "geom:longitude":-85.912766,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Martin Sq ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220053041,
-    "wof:lastmodified":1449074191,
+    "wof:lastmodified":1466311613,
     "wof:name":"Tea & Coffee World Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [-85.912766,33.828884,-85.912766,33.828884],
+  "bbox": [
+    -85.912766,
+    33.828884,
+    -85.912766,
+    33.828884
+],
   "geometry": {"coordinates":[-85.912766,33.828884],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219265235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.054443,-39.930115,175.054443,-39.930115",
     "geom:latitude":-39.930115,
     "geom:longitude":175.054443,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bell St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219265235,
-    "wof:lastmodified":1449071603,
+    "wof:lastmodified":1466310682,
     "wof:name":"The Rent Centre MREINZ",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.054443,-39.930115,175.054443,-39.930115],
-  "geometry": {"coordinates":[175.054443,-39.930115],"type":"Point"}
+  "bbox": [
+    175.054443,
+    -39.930115,
+    175.054443,
+    -39.930115
+],
+  "geometry": {"coordinates":[175.05444299999999,-39.930115],"type":"Point"}
 }

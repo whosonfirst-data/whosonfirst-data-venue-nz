@@ -2,13 +2,14 @@
   "id": 203080643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.349518,-46.384129,168.349518,-46.384129",
     "geom:latitude":-46.384129,
     "geom:longitude":168.349518,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Benmore St Waikiwi ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203080643,
-    "wof:lastmodified":1449026829,
+    "wof:lastmodified":1466311814,
     "wof:name":"Pumps 'N' Udder Things Ltd",
     "wof:parent_id":85778907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "spa"
     ]
 },
-  "bbox": [168.349518,-46.384129,168.349518,-46.384129],
-  "geometry": {"coordinates":[168.349518,-46.384129],"type":"Point"}
+  "bbox": [
+    168.349518,
+    -46.384129,
+    168.349518,
+    -46.384129
+],
+  "geometry": {"coordinates":[168.34951799999999,-46.384129],"type":"Point"}
 }

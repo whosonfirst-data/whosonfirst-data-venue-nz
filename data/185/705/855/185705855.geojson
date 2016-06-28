@@ -2,13 +2,14 @@
   "id": 185705855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.71022,-36.861404,174.71022,-36.861404",
     "geom:latitude":-36.861404,
     "geom:longitude":174.71022,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1130 Great North Rd Point Chevalier ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185705855,
-    "wof:lastmodified":1449008219,
+    "wof:lastmodified":1466310597,
     "wof:name":"Harlequin Bar & Cafe",
     "wof:parent_id":85778877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "sport"
     ]
 },
-  "bbox": [174.71022,-36.861404,174.71022,-36.861404],
-  "geometry": {"coordinates":[174.71022,-36.861404],"type":"Point"}
+  "bbox": [
+    174.71022,
+    -36.861404,
+    174.71022,
+    -36.861404
+],
+  "geometry": {"coordinates":[174.71021999999999,-36.861404],"type":"Point"}
 }

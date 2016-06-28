@@ -2,13 +2,14 @@
   "id": 219656959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.12545,33.749859,-86.12545,33.749859",
     "geom:latitude":33.749859,
     "geom:longitude":-86.12545,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 23 ",
     "sg:city":"Raglan",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219656959,
-    "wof:lastmodified":1449072683,
+    "wof:lastmodified":1466312727,
     "wof:name":"Raglan Diesel Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.12545,33.749859,-86.12545,33.749859],
+  "bbox": [
+    -86.12545,
+    33.749859,
+    -86.12545,
+    33.749859
+],
   "geometry": {"coordinates":[-86.12545,33.749859],"type":"Point"}
 }

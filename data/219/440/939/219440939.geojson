@@ -2,13 +2,14 @@
   "id": 219440939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.65799,-36.917774,174.65799,-36.917774",
     "geom:latitude":-36.917774,
     "geom:longitude":174.65799,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Pleasant Rd Glen Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219440939,
-    "wof:lastmodified":1449071635,
+    "wof:lastmodified":1466312135,
     "wof:name":"Five Star Driver Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "driver"
     ]
 },
-  "bbox": [174.65799,-36.917774,174.65799,-36.917774],
-  "geometry": {"coordinates":[174.65799,-36.917774],"type":"Point"}
+  "bbox": [
+    174.65799,
+    -36.917774,
+    174.65799,
+    -36.917774
+],
+  "geometry": {"coordinates":[174.65799000000001,-36.917774],"type":"Point"}
 }

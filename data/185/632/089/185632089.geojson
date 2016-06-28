@@ -2,13 +2,14 @@
   "id": 185632089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.771622,-37.81461,175.771622,-37.81461",
     "geom:latitude":-37.81461,
     "geom:longitude":175.771622,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Tainui St ",
     "sg:city":"Matamata",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185632089,
-    "wof:lastmodified":1449007621,
+    "wof:lastmodified":1466311289,
     "wof:name":"Atelier Gallery Framing & Art Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.771622,-37.81461,175.771622,-37.81461],
-  "geometry": {"coordinates":[175.771622,-37.81461],"type":"Point"}
+  "bbox": [
+    175.771622,
+    -37.81461,
+    175.771622,
+    -37.81461
+],
+  "geometry": {"coordinates":[175.77162200000001,-37.81461],"type":"Point"}
 }

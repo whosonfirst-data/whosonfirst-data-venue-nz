@@ -2,13 +2,14 @@
   "id": 186298753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.603424,-40.34269,175.603424,-40.34269",
     "geom:latitude":-40.34269,
     "geom:longitude":175.603424,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"586 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186298753,
-    "wof:lastmodified":1449051109,
+    "wof:lastmodified":1466312056,
     "wof:name":"Nebulite Windows",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.603424,-40.34269,175.603424,-40.34269],
-  "geometry": {"coordinates":[175.603424,-40.34269],"type":"Point"}
+  "bbox": [
+    175.603424,
+    -40.34269,
+    175.603424,
+    -40.34269
+],
+  "geometry": {"coordinates":[175.60342399999999,-40.34269],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202956643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.778305,-37.806305,175.778305,-37.806305",
     "geom:latitude":-37.806305,
     "geom:longitude":175.778305,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Grant Pl ",
     "sg:city":"Matamata",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202956643,
-    "wof:lastmodified":1449060531,
+    "wof:lastmodified":1466312816,
     "wof:name":"David Wigelsworth",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.778305,-37.806305,175.778305,-37.806305],
-  "geometry": {"coordinates":[175.778305,-37.806305],"type":"Point"}
+  "bbox": [
+    175.778305,
+    -37.806305,
+    175.778305,
+    -37.806305
+],
+  "geometry": {"coordinates":[175.77830499999999,-37.806305],"type":"Point"}
 }

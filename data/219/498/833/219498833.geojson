@@ -2,13 +2,14 @@
   "id": 219498833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.521057,-36.296249,174.521057,-36.296249",
     "geom:latitude":-36.296249,
     "geom:longitude":174.521057,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Rodney St Wellsford ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219498833,
-    "wof:lastmodified":1449073074,
+    "wof:lastmodified":1466312307,
     "wof:name":"Kip McGrath Education Centres (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "teacher"
     ]
 },
-  "bbox": [174.521057,-36.296249,174.521057,-36.296249],
-  "geometry": {"coordinates":[174.521057,-36.296249],"type":"Point"}
+  "bbox": [
+    174.521057,
+    -36.296249,
+    174.521057,
+    -36.296249
+],
+  "geometry": {"coordinates":[174.52105700000001,-36.296249],"type":"Point"}
 }

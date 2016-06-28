@@ -2,13 +2,14 @@
   "id": 203173739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.49585,-45.890198,170.49585,-45.890198",
     "geom:latitude":-45.890198,
     "geom:longitude":170.49585,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 King Edward St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203173739,
-    "wof:lastmodified":1449025297,
+    "wof:lastmodified":1466311117,
     "wof:name":"Just Screen It Ltd",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [170.49585,-45.890198,170.49585,-45.890198],
-  "geometry": {"coordinates":[170.49585,-45.890198],"type":"Point"}
+  "bbox": [
+    170.49585,
+    -45.890198,
+    170.49585,
+    -45.890198
+],
+  "geometry": {"coordinates":[170.49584999999999,-45.890198],"type":"Point"}
 }

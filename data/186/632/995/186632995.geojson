@@ -2,13 +2,14 @@
   "id": 186632995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.643234,-40.35886,175.643234,-40.35886",
     "geom:latitude":-40.35886,
     "geom:longitude":175.643234,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"531 Ruahine St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186632995,
-    "wof:lastmodified":1449052092,
+    "wof:lastmodified":1466313011,
     "wof:name":"Wilson Cen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "acupuncturists"
     ]
 },
-  "bbox": [175.643234,-40.35886,175.643234,-40.35886],
-  "geometry": {"coordinates":[175.643234,-40.35886],"type":"Point"}
+  "bbox": [
+    175.643234,
+    -40.35886,
+    175.643234,
+    -40.35886
+],
+  "geometry": {"coordinates":[175.64323400000001,-40.35886],"type":"Point"}
 }

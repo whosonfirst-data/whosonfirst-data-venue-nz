@@ -2,13 +2,14 @@
   "id": 186002957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.597778,-43.505287,172.597778,-43.505287",
     "geom:latitude":-43.505287,
     "geom:longitude":172.597778,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6/131 Wairakei Rd Bryndwr ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186002957,
-    "wof:lastmodified":1449052526,
+    "wof:lastmodified":1466310573,
     "wof:name":"Lloyd Gwyneth M JP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [172.597778,-43.505287,172.597778,-43.505287],
-  "geometry": {"coordinates":[172.597778,-43.505287],"type":"Point"}
+  "bbox": [
+    172.597778,
+    -43.505287,
+    172.597778,
+    -43.505287
+],
+  "geometry": {"coordinates":[172.59777800000001,-43.505287],"type":"Point"}
 }

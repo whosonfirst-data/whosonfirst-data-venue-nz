@@ -2,13 +2,14 @@
   "id": 220081507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.869537,-41.22385,174.869537,-41.22385",
     "geom:latitude":-41.22385,
     "geom:longitude":174.869537,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Te Puni St Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220081507,
-    "wof:lastmodified":1449074268,
+    "wof:lastmodified":1466311870,
     "wof:name":"Davis Trading Co Ltd",
     "wof:parent_id":85773005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.869537,-41.22385,174.869537,-41.22385],
-  "geometry": {"coordinates":[174.869537,-41.22385],"type":"Point"}
+  "bbox": [
+    174.869537,
+    -41.22385,
+    174.869537,
+    -41.22385
+],
+  "geometry": {"coordinates":[174.86953700000001,-41.22385],"type":"Point"}
 }

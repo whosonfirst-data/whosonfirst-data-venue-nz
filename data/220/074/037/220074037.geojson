@@ -2,13 +2,14 @@
   "id": 220074037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.620438,-36.893139,174.620438,-36.893139",
     "geom:latitude":-36.893139,
     "geom:longitude":174.620438,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"322 Henderson Valley Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220074037,
-    "wof:lastmodified":1449074487,
+    "wof:lastmodified":1466311846,
     "wof:name":"Pleasant Valley Wines Ltd",
     "wof:parent_id":85781035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wine"
     ]
 },
-  "bbox": [174.620438,-36.893139,174.620438,-36.893139],
-  "geometry": {"coordinates":[174.620438,-36.893139],"type":"Point"}
+  "bbox": [
+    174.620438,
+    -36.893139,
+    174.620438,
+    -36.893139
+],
+  "geometry": {"coordinates":[174.62043800000001,-36.893139],"type":"Point"}
 }

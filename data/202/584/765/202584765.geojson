@@ -2,13 +2,14 @@
   "id": 202584765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.018173,-38.660896,178.018173,-38.660896",
     "geom:latitude":-38.660896,
     "geom:longitude":178.018173,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"372 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202584765,
-    "wof:lastmodified":1449060385,
+    "wof:lastmodified":1466311395,
     "wof:name":"Hammer Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.018173,-38.660896,178.018173,-38.660896],
-  "geometry": {"coordinates":[178.018173,-38.660896],"type":"Point"}
+  "bbox": [
+    178.018173,
+    -38.660896,
+    178.018173,
+    -38.660896
+],
+  "geometry": {"coordinates":[178.01817299999999,-38.660896],"type":"Point"}
 }

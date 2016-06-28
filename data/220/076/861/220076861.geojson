@@ -2,13 +2,14 @@
   "id": 220076861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.609985,-43.544815,172.609985,-43.544815",
     "geom:latitude":-43.544815,
     "geom:longitude":172.609985,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"268 Lincoln Rd Addington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220076861,
-    "wof:lastmodified":1449074673,
+    "wof:lastmodified":1466311860,
     "wof:name":"Aqua-Vitae - Brewing Distilling & Wine Making Supplies",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [172.609985,-43.544815,172.609985,-43.544815],
-  "geometry": {"coordinates":[172.609985,-43.544815],"type":"Point"}
+  "bbox": [
+    172.609985,
+    -43.544815,
+    172.609985,
+    -43.544815
+],
+  "geometry": {"coordinates":[172.60998499999999,-43.544815],"type":"Point"}
 }

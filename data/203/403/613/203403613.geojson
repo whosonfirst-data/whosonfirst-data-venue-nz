@@ -2,13 +2,14 @@
   "id": 203403613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.226715,-38.120789,176.226715,-38.120789",
     "geom:latitude":-38.120789,
     "geom:longitude":176.226715,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Maisey Pl ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203403613,
-    "wof:lastmodified":1449026596,
+    "wof:lastmodified":1466312573,
     "wof:name":"Rotorua Fibreglass Industries Ltd",
     "wof:parent_id":85781129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.226715,-38.120789,176.226715,-38.120789],
-  "geometry": {"coordinates":[176.226715,-38.120789],"type":"Point"}
+  "bbox": [
+    176.226715,
+    -38.120789,
+    176.226715,
+    -38.120789
+],
+  "geometry": {"coordinates":[176.22671500000001,-38.120789],"type":"Point"}
 }

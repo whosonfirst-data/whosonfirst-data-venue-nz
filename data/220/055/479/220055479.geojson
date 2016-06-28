@@ -2,13 +2,14 @@
   "id": 220055479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.666779,-37.378555,175.666779,-37.378555",
     "geom:latitude":-37.378555,
     "geom:longitude":175.666779,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Railway St ",
     "sg:city":"Paeroa",
     "sg:classifiers":[
@@ -45,16 +46,22 @@
         }
     ],
     "wof:id":220055479,
-    "wof:lastmodified":1449074218,
+    "wof:lastmodified":1466311674,
     "wof:name":"Jianlibao New Zealand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manufacturer"
     ]
 },
-  "bbox": [175.666779,-37.378555,175.666779,-37.378555],
-  "geometry": {"coordinates":[175.666779,-37.378555],"type":"Point"}
+  "bbox": [
+    175.666779,
+    -37.378555,
+    175.666779,
+    -37.378555
+],
+  "geometry": {"coordinates":[175.66677899999999,-37.378555],"type":"Point"}
 }

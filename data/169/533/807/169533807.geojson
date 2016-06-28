@@ -2,13 +2,14 @@
   "id": 169533807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.567551,-43.502163,172.567551,-43.502163",
     "geom:latitude":-43.502163,
     "geom:longitude":172.567551,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Bishopdale Ct Bishd",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169533807,
-    "wof:lastmodified":1449032643,
+    "wof:lastmodified":1466310540,
     "wof:name":"Westpac Banking Corp.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.567551,-43.502163,172.567551,-43.502163],
-  "geometry": {"coordinates":[172.567551,-43.502163],"type":"Point"}
+  "bbox": [
+    172.567551,
+    -43.502163,
+    172.567551,
+    -43.502163
+],
+  "geometry": {"coordinates":[172.56755100000001,-43.502163],"type":"Point"}
 }

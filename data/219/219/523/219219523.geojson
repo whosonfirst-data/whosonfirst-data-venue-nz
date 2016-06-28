@@ -2,13 +2,14 @@
   "id": 219219523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.628677,-40.329109,175.628677,-40.329109",
     "geom:latitude":-40.329109,
     "geom:longitude":175.628677,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Railway Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219219523,
-    "wof:lastmodified":1449073769,
+    "wof:lastmodified":1466311660,
     "wof:name":"LEP International NZ Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.628677,-40.329109,175.628677,-40.329109],
-  "geometry": {"coordinates":[175.628677,-40.329109],"type":"Point"}
+  "bbox": [
+    175.628677,
+    -40.329109,
+    175.628677,
+    -40.329109
+],
+  "geometry": {"coordinates":[175.62867700000001,-40.329109],"type":"Point"}
 }

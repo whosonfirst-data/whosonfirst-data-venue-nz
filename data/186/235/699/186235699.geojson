@@ -2,13 +2,14 @@
   "id": 186235699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.170593,-37.67683,176.170593,-37.67683",
     "geom:latitude":-37.67683,
     "geom:longitude":176.170593,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Dive Cre ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186235699,
-    "wof:lastmodified":1449050876,
+    "wof:lastmodified":1466311727,
     "wof:name":"Micam Auto Electrical",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.170593,-37.67683,176.170593,-37.67683],
+  "bbox": [
+    176.170593,
+    -37.67683,
+    176.170593,
+    -37.67683
+],
   "geometry": {"coordinates":[176.170593,-37.67683],"type":"Point"}
 }

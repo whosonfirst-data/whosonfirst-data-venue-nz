@@ -2,13 +2,14 @@
   "id": 202581211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.873886,-39.41592,176.873886,-39.41592",
     "geom:latitude":-39.41592,
     "geom:longitude":176.873886,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Scarrott Rd Bay View ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202581211,
-    "wof:lastmodified":1449060651,
+    "wof:lastmodified":1466311361,
     "wof:name":"Bay View Christmas Trees",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.873886,-39.41592,176.873886,-39.41592],
+  "bbox": [
+    176.873886,
+    -39.41592,
+    176.873886,
+    -39.41592
+],
   "geometry": {"coordinates":[176.873886,-39.41592],"type":"Point"}
 }

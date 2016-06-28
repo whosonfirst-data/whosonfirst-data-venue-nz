@@ -2,13 +2,14 @@
   "id": 169526749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"169.261673,-45.946629,169.261673,-45.946629",
     "geom:latitude":-45.946629,
     "geom:longitude":169.261673,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Hurstmere Rd",
     "sg:city":"Tpuna",
     "sg:classifiers":[
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169526749,
-    "wof:lastmodified":1449033699,
+    "wof:lastmodified":1466310543,
     "wof:name":"ANZ Banking Group (New Zealand) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [169.261673,-45.946629,169.261673,-45.946629],
+  "bbox": [
+    169.261673,
+    -45.946629,
+    169.261673,
+    -45.946629
+],
   "geometry": {"coordinates":[169.261673,-45.946629],"type":"Point"}
 }

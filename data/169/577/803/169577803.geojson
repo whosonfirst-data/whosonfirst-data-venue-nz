@@ -2,13 +2,14 @@
   "id": 169577803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.80867,-36.897812,174.80867,-36.897812",
     "geom:latitude":-36.897812,
     "geom:longitude":174.80867,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Main Hwy Ellerslie ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169577803,
-    "wof:lastmodified":1449036070,
+    "wof:lastmodified":1466311349,
     "wof:name":"East City Stamps Limited",
     "wof:parent_id":85782385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hobby"
     ]
 },
-  "bbox": [174.80867,-36.897812,174.80867,-36.897812],
-  "geometry": {"coordinates":[174.80867,-36.897812],"type":"Point"}
+  "bbox": [
+    174.80867,
+    -36.897812,
+    174.80867,
+    -36.897812
+],
+  "geometry": {"coordinates":[174.80867000000001,-36.897812],"type":"Point"}
 }

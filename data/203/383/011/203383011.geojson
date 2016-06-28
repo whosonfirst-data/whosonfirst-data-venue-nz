@@ -2,13 +2,14 @@
   "id": 203383011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.140945,-37.698734,176.140945,-37.698734",
     "geom:latitude":-37.698734,
     "geom:longitude":176.140945,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Cypress St Judea ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203383011,
-    "wof:lastmodified":1449025732,
+    "wof:lastmodified":1466312415,
     "wof:name":"Kingfisher Boats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "boat"
     ]
 },
-  "bbox": [176.140945,-37.698734,176.140945,-37.698734],
-  "geometry": {"coordinates":[176.140945,-37.698734],"type":"Point"}
+  "bbox": [
+    176.140945,
+    -37.698734,
+    176.140945,
+    -37.698734
+],
+  "geometry": {"coordinates":[176.14094499999999,-37.698734],"type":"Point"}
 }

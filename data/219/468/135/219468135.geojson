@@ -2,13 +2,14 @@
   "id": 219468135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.364075,-35.771526,174.364075,-35.771526",
     "geom:latitude":-35.771526,
     "geom:longitude":174.364075,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Whimp Ave Onerahi ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219468135,
-    "wof:lastmodified":1449072929,
+    "wof:lastmodified":1466312091,
     "wof:name":"Te Kohanga Reo",
     "wof:parent_id":85773083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "training"
     ]
 },
-  "bbox": [174.364075,-35.771526,174.364075,-35.771526],
-  "geometry": {"coordinates":[174.364075,-35.771526],"type":"Point"}
+  "bbox": [
+    174.364075,
+    -35.771526,
+    174.364075,
+    -35.771526
+],
+  "geometry": {"coordinates":[174.36407500000001,-35.771526],"type":"Point"}
 }

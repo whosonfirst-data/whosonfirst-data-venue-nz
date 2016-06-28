@@ -2,13 +2,14 @@
   "id": 219300071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.842209,-45.723282,168.842209,-45.723282",
     "geom:latitude":-45.723282,
     "geom:longitude":168.842209,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Willington St ",
     "sg:city":"Waikaia",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219300071,
-    "wof:lastmodified":1449072363,
+    "wof:lastmodified":1466310937,
     "wof:name":"Willowdene Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "accommodation"
     ]
 },
-  "bbox": [168.842209,-45.723282,168.842209,-45.723282],
+  "bbox": [
+    168.842209,
+    -45.723282,
+    168.842209,
+    -45.723282
+],
   "geometry": {"coordinates":[168.842209,-45.723282],"type":"Point"}
 }

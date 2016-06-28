@@ -2,13 +2,14 @@
   "id": 202430515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.624619,-36.958302,174.624619,-36.958302",
     "geom:latitude":-36.958302,
     "geom:longitude":174.624619,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Victory Rd Laingholm ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202430515,
-    "wof:lastmodified":1449061701,
+    "wof:lastmodified":1466311619,
     "wof:name":"Dieter Dvorak",
     "wof:parent_id":85778413,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.624619,-36.958302,174.624619,-36.958302],
+  "bbox": [
+    174.624619,
+    -36.958302,
+    174.624619,
+    -36.958302
+],
   "geometry": {"coordinates":[174.624619,-36.958302],"type":"Point"}
 }

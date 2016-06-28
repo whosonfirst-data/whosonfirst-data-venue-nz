@@ -2,13 +2,14 @@
   "id": 202611653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.528732,-37.65411,175.528732,-37.65411",
     "geom:latitude":-37.65411,
     "geom:longitude":175.528732,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"IHC Waikato King Country 32 Moorhouse St ",
     "sg:city":"Morrinsville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202611653,
-    "wof:lastmodified":1449062120,
+    "wof:lastmodified":1466311611,
     "wof:name":"The Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accessories"
     ]
 },
-  "bbox": [175.528732,-37.65411,175.528732,-37.65411],
-  "geometry": {"coordinates":[175.528732,-37.65411],"type":"Point"}
+  "bbox": [
+    175.528732,
+    -37.65411,
+    175.528732,
+    -37.65411
+],
+  "geometry": {"coordinates":[175.52873199999999,-37.65411],"type":"Point"}
 }

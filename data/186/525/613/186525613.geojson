@@ -2,13 +2,14 @@
   "id": 186525613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.279938,-37.786732,175.279938,-37.786732",
     "geom:latitude":-37.786732,
     "geom:longitude":175.279938,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Ward St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186525613,
-    "wof:lastmodified":1449052450,
+    "wof:lastmodified":1466312905,
     "wof:name":"The Body Shop",
     "wof:parent_id":85782405,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "perfumery"
     ]
 },
-  "bbox": [175.279938,-37.786732,175.279938,-37.786732],
-  "geometry": {"coordinates":[175.279938,-37.786732],"type":"Point"}
+  "bbox": [
+    175.279938,
+    -37.786732,
+    175.279938,
+    -37.786732
+],
+  "geometry": {"coordinates":[175.27993799999999,-37.786732],"type":"Point"}
 }

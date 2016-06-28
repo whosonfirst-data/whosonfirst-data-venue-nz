@@ -2,13 +2,14 @@
   "id": 169820691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.637604,-43.544365,172.637604,-43.544365",
     "geom:latitude":-43.544365,
     "geom:longitude":172.637604,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Lawson St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169820691,
-    "wof:lastmodified":1449034385,
+    "wof:lastmodified":1466311810,
     "wof:name":"General Lee Sporting Apparel",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.637604,-43.544365,172.637604,-43.544365],
-  "geometry": {"coordinates":[172.637604,-43.544365],"type":"Point"}
+  "bbox": [
+    172.637604,
+    -43.544365,
+    172.637604,
+    -43.544365
+],
+  "geometry": {"coordinates":[172.63760400000001,-43.544365],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235988835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.278244,-37.784199,175.278244,-37.784199",
     "geom:latitude":-37.784199,
     "geom:longitude":175.278244,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"313 Barton St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235988835,
-    "wof:lastmodified":1449008380,
+    "wof:lastmodified":1466311509,
     "wof:name":"Cafe IT",
     "wof:parent_id":85780927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [175.278244,-37.784199,175.278244,-37.784199],
+  "bbox": [
+    175.278244,
+    -37.784199,
+    175.278244,
+    -37.784199
+],
   "geometry": {"coordinates":[175.278244,-37.784199],"type":"Point"}
 }

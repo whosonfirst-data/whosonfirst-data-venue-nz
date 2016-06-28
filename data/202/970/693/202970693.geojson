@@ -2,13 +2,14 @@
   "id": 202970693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.277069,-37.694176,176.277069,-37.694176",
     "geom:latitude":-37.694176,
     "geom:longitude":176.277069,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"468 Papamoa Beach Rd Papamoa Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202970693,
-    "wof:lastmodified":1449062586,
+    "wof:lastmodified":1466312921,
     "wof:name":"Evergreen Landscapes",
     "wof:parent_id":85778819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.277069,-37.694176,176.277069,-37.694176],
-  "geometry": {"coordinates":[176.277069,-37.694176],"type":"Point"}
+  "bbox": [
+    176.277069,
+    -37.694176,
+    176.277069,
+    -37.694176
+],
+  "geometry": {"coordinates":[176.27706900000001,-37.694176],"type":"Point"}
 }

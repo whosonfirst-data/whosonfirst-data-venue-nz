@@ -2,13 +2,14 @@
   "id": 219179801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.755386,-36.691765,174.755386,-36.691765",
     "geom:latitude":-36.691765,
     "geom:longitude":174.755386,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Cliff Rd Torbay ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219179801,
-    "wof:lastmodified":1449073558,
+    "wof:lastmodified":1466311235,
     "wof:name":"Airport Direct",
     "wof:parent_id":85773259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.755386,-36.691765,174.755386,-36.691765],
-  "geometry": {"coordinates":[174.755386,-36.691765],"type":"Point"}
+  "bbox": [
+    174.755386,
+    -36.691765,
+    174.755386,
+    -36.691765
+],
+  "geometry": {"coordinates":[174.75538599999999,-36.691765],"type":"Point"}
 }

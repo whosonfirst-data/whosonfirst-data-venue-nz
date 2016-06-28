@@ -2,13 +2,14 @@
   "id": 203321033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.674713,-37.57375,175.674713,-37.57375",
     "geom:latitude":-37.57375,
     "geom:longitude":175.674713,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Stanley & Waihou Rds Te ",
     "sg:city":"Aroha",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203321033,
-    "wof:lastmodified":1449024988,
+    "wof:lastmodified":1466312188,
     "wof:name":"Piako Processors Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "skin"
     ]
 },
-  "bbox": [175.674713,-37.57375,175.674713,-37.57375],
+  "bbox": [
+    175.674713,
+    -37.57375,
+    175.674713,
+    -37.57375
+],
   "geometry": {"coordinates":[175.674713,-37.57375],"type":"Point"}
 }

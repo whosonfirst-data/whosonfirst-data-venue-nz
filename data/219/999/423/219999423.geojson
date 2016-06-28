@@ -2,13 +2,14 @@
   "id": 219999423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.348663,-46.411987,168.348663,-46.411987",
     "geom:latitude":-46.411987,
     "geom:longitude":168.348663,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Esk St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219999423,
-    "wof:lastmodified":1449073477,
+    "wof:lastmodified":1466313142,
     "wof:name":"AMP South",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "finance"
     ]
 },
-  "bbox": [168.348663,-46.411987,168.348663,-46.411987],
-  "geometry": {"coordinates":[168.348663,-46.411987],"type":"Point"}
+  "bbox": [
+    168.348663,
+    -46.411987,
+    168.348663,
+    -46.411987
+],
+  "geometry": {"coordinates":[168.34866299999999,-46.411987],"type":"Point"}
 }

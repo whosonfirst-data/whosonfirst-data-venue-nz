@@ -2,13 +2,14 @@
   "id": 186051161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.731339,-36.773632,174.731339,-36.773632",
     "geom:latitude":-36.773632,
     "geom:longitude":174.731339,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Ashfield St Glenfield ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186051161,
-    "wof:lastmodified":1449052020,
+    "wof:lastmodified":1466311525,
     "wof:name":"Fortec Paints Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "compounds"
     ]
 },
-  "bbox": [174.731339,-36.773632,174.731339,-36.773632],
-  "geometry": {"coordinates":[174.731339,-36.773632],"type":"Point"}
+  "bbox": [
+    174.731339,
+    -36.773632,
+    174.731339,
+    -36.773632
+],
+  "geometry": {"coordinates":[174.73133899999999,-36.773632],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236036725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.430695,39.200546,-84.430695,39.200546",
     "geom:latitude":39.200546,
     "geom:longitude":-84.430695,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"376 Ram Paddock Rd RD 2 ",
     "sg:city":"Amberley",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236036725,
-    "wof:lastmodified":1449002234,
+    "wof:lastmodified":1466311166,
     "wof:name":"Waipara West",
     "wof:parent_id":85857575,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "dining"
     ]
 },
-  "bbox": [-84.430695,39.200546,-84.430695,39.200546],
+  "bbox": [
+    -84.430695,
+    39.200546,
+    -84.430695,
+    39.200546
+],
   "geometry": {"coordinates":[-84.430695,39.200546],"type":"Point"}
 }

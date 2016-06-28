@@ -2,13 +2,14 @@
   "id": 203145029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.864212,-37.049026,174.864212,-37.049026",
     "geom:latitude":-37.049026,
     "geom:longitude":174.864212,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Greers Rd Weymouth ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203145029,
-    "wof:lastmodified":1449025488,
+    "wof:lastmodified":1466310866,
     "wof:name":"Debonair Dog Grooming by Lucy",
     "wof:parent_id":85773331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pets"
     ]
 },
-  "bbox": [174.864212,-37.049026,174.864212,-37.049026],
-  "geometry": {"coordinates":[174.864212,-37.049026],"type":"Point"}
+  "bbox": [
+    174.864212,
+    -37.049026,
+    174.864212,
+    -37.049026
+],
+  "geometry": {"coordinates":[174.86421200000001,-37.049026],"type":"Point"}
 }

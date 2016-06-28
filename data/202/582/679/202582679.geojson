@@ -2,13 +2,14 @@
   "id": 202582679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.896088,-36.922749,174.896088,-36.922749",
     "geom:latitude":-36.922749,
     "geom:longitude":174.896088,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Ti Rakau & Burswood Dvs ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202582679,
-    "wof:lastmodified":1449061480,
+    "wof:lastmodified":1466311380,
     "wof:name":"Bunnings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.896088,-36.922749,174.896088,-36.922749],
-  "geometry": {"coordinates":[174.896088,-36.922749],"type":"Point"}
+  "bbox": [
+    174.896088,
+    -36.922749,
+    174.896088,
+    -36.922749
+],
+  "geometry": {"coordinates":[174.89608799999999,-36.922749],"type":"Point"}
 }

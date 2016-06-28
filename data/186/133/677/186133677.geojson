@@ -2,13 +2,14 @@
   "id": 186133677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.606873,-40.355045,175.606873,-40.355045",
     "geom:latitude":-40.355045,
     "geom:longitude":175.606873,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"87 A Lombard St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186133677,
-    "wof:lastmodified":1449052544,
+    "wof:lastmodified":1466310842,
     "wof:name":"Two Wheels Engineering",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.606873,-40.355045,175.606873,-40.355045],
-  "geometry": {"coordinates":[175.606873,-40.355045],"type":"Point"}
+  "bbox": [
+    175.606873,
+    -40.355045,
+    175.606873,
+    -40.355045
+],
+  "geometry": {"coordinates":[175.60687300000001,-40.355045],"type":"Point"}
 }

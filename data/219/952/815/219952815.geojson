@@ -2,13 +2,14 @@
   "id": 219952815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.616211,-43.553249,172.616211,-43.553249",
     "geom:latitude":-43.553249,
     "geom:longitude":172.616211,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Between Supermarkets 100 Lincoln Rd Spreydon ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219952815,
-    "wof:lastmodified":1449072942,
+    "wof:lastmodified":1466313120,
     "wof:name":"McLeavey B J BVSc",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.616211,-43.553249,172.616211,-43.553249],
-  "geometry": {"coordinates":[172.616211,-43.553249],"type":"Point"}
+  "bbox": [
+    172.616211,
+    -43.553249,
+    172.616211,
+    -43.553249
+],
+  "geometry": {"coordinates":[172.61621099999999,-43.553249],"type":"Point"}
 }

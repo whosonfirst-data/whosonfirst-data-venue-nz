@@ -2,13 +2,14 @@
   "id": 202835377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.347107,-46.394352,168.347107,-46.394352",
     "geom:latitude":-46.394352,
     "geom:longitude":168.347107,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"436 Dee St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202835377,
-    "wof:lastmodified":1449060471,
+    "wof:lastmodified":1466312717,
     "wof:name":"Blampieds Furnishings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.347107,-46.394352,168.347107,-46.394352],
-  "geometry": {"coordinates":[168.347107,-46.394352],"type":"Point"}
+  "bbox": [
+    168.347107,
+    -46.394352,
+    168.347107,
+    -46.394352
+],
+  "geometry": {"coordinates":[168.34710699999999,-46.394352],"type":"Point"}
 }

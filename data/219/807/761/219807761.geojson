@@ -2,13 +2,14 @@
   "id": 219807761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.051544,-39.936092,175.051544,-39.936092",
     "geom:latitude":-39.936092,
     "geom:longitude":175.051544,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Ridgway St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219807761,
-    "wof:lastmodified":1449071304,
+    "wof:lastmodified":1466313110,
     "wof:name":"O'Neil Trevor",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beater"
     ]
 },
-  "bbox": [175.051544,-39.936092,175.051544,-39.936092],
-  "geometry": {"coordinates":[175.051544,-39.936092],"type":"Point"}
+  "bbox": [
+    175.051544,
+    -39.936092,
+    175.051544,
+    -39.936092
+],
+  "geometry": {"coordinates":[175.05154400000001,-39.936092],"type":"Point"}
 }

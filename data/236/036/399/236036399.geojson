@@ -2,13 +2,14 @@
   "id": 236036399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.967285,-43.782242,172.967285,-43.782242",
     "geom:latitude":-43.782242,
     "geom:longitude":172.967285,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Long Bay Rd Takamatua ",
     "sg:city":"Akaroa",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236036399,
-    "wof:lastmodified":1449002233,
+    "wof:lastmodified":1466311164,
     "wof:name":"Takamatua Valley Vineyards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [172.967285,-43.782242,172.967285,-43.782242],
+  "bbox": [
+    172.967285,
+    -43.782242,
+    172.967285,
+    -43.782242
+],
   "geometry": {"coordinates":[172.967285,-43.782242],"type":"Point"}
 }

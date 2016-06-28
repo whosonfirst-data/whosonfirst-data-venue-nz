@@ -2,13 +2,14 @@
   "id": 219905227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.992218,-38.665413,177.992218,-38.665413",
     "geom:latitude":-38.665413,
     "geom:longitude":177.992218,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Lytton Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219905227,
-    "wof:lastmodified":1449071766,
+    "wof:lastmodified":1466313088,
     "wof:name":"Allen Machinery",
     "wof:parent_id":85781855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [177.992218,-38.665413,177.992218,-38.665413],
-  "geometry": {"coordinates":[177.992218,-38.665413],"type":"Point"}
+  "bbox": [
+    177.992218,
+    -38.665413,
+    177.992218,
+    -38.665413
+],
+  "geometry": {"coordinates":[177.99221800000001,-38.665413],"type":"Point"}
 }

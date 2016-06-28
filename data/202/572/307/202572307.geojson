@@ -2,13 +2,14 @@
   "id": 202572307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.767883,-36.787838,174.767883,-36.787838",
     "geom:latitude":-36.787838,
     "geom:longitude":174.767883,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"182 Wairau Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":202572307,
-    "wof:lastmodified":1449061675,
+    "wof:lastmodified":1466311283,
     "wof:name":"Mitre 10",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [174.767883,-36.787838,174.767883,-36.787838],
-  "geometry": {"coordinates":[174.767883,-36.787838],"type":"Point"}
+  "bbox": [
+    174.767883,
+    -36.787838,
+    174.767883,
+    -36.787838
+],
+  "geometry": {"coordinates":[174.76788300000001,-36.787838],"type":"Point"}
 }

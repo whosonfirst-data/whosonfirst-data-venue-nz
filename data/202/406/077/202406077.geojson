@@ -2,13 +2,14 @@
   "id": 202406077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.960724,-41.17931,174.960724,-41.17931",
     "geom:latitude":-41.17931,
     "geom:longitude":174.960724,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1213 High St Taita Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202406077,
-    "wof:lastmodified":1449061473,
+    "wof:lastmodified":1466311219,
     "wof:name":"Te Omanga Hospice",
     "wof:parent_id":85773211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.960724,-41.17931,174.960724,-41.17931],
+  "bbox": [
+    174.960724,
+    -41.17931,
+    174.960724,
+    -41.17931
+],
   "geometry": {"coordinates":[174.960724,-41.17931],"type":"Point"}
 }

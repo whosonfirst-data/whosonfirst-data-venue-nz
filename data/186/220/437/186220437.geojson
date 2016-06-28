@@ -2,13 +2,14 @@
   "id": 186220437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.654663,-43.538319,172.654663,-43.538319",
     "geom:latitude":-43.538319,
     "geom:longitude":172.654663,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Hillview Rd Phillipstown ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186220437,
-    "wof:lastmodified":1449052941,
+    "wof:lastmodified":1466311585,
     "wof:name":"Pacific Press Knives Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "knife"
     ]
 },
-  "bbox": [172.654663,-43.538319,172.654663,-43.538319],
+  "bbox": [
+    172.654663,
+    -43.538319,
+    172.654663,
+    -43.538319
+],
   "geometry": {"coordinates":[172.654663,-43.538319],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202844233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.347046,-45.873295,170.347046,-45.873295",
     "geom:latitude":-45.873295,
     "geom:longitude":170.347046,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"172 Gordon Rd Mosgiel ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202844233,
-    "wof:lastmodified":1449061199,
+    "wof:lastmodified":1466312595,
     "wof:name":"Smiths City Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.347046,-45.873295,170.347046,-45.873295],
-  "geometry": {"coordinates":[170.347046,-45.873295],"type":"Point"}
+  "bbox": [
+    170.347046,
+    -45.873295,
+    170.347046,
+    -45.873295
+],
+  "geometry": {"coordinates":[170.34704600000001,-45.873295],"type":"Point"}
 }

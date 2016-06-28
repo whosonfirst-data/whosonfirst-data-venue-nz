@@ -2,13 +2,14 @@
   "id": 186348481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.891602,-36.956577,174.891602,-36.956577",
     "geom:latitude":-36.956577,
     "geom:longitude":174.891602,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Birmingham Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186348481,
-    "wof:lastmodified":1449050394,
+    "wof:lastmodified":1466312355,
     "wof:name":"Airopac Industries Ltd",
     "wof:parent_id":85772895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.891602,-36.956577,174.891602,-36.956577],
-  "geometry": {"coordinates":[174.891602,-36.956577],"type":"Point"}
+  "bbox": [
+    174.891602,
+    -36.956577,
+    174.891602,
+    -36.956577
+],
+  "geometry": {"coordinates":[174.89160200000001,-36.956577],"type":"Point"}
 }

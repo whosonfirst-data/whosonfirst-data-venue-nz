@@ -2,13 +2,14 @@
   "id": 220160641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.328079,-35.726456,174.328079,-35.726456",
     "geom:latitude":-35.726456,
     "geom:longitude":174.328079,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Finlayson St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220160641,
-    "wof:lastmodified":1449074738,
+    "wof:lastmodified":1466311155,
     "wof:name":"Bindon & Powell",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "veges"
     ]
 },
-  "bbox": [174.328079,-35.726456,174.328079,-35.726456],
+  "bbox": [
+    174.328079,
+    -35.726456,
+    174.328079,
+    -35.726456
+],
   "geometry": {"coordinates":[174.328079,-35.726456],"type":"Point"}
 }

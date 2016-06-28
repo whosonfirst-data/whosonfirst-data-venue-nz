@@ -2,13 +2,14 @@
   "id": 169684897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.32814,-35.729725,174.32814,-35.729725",
     "geom:latitude":-35.729725,
     "geom:longitude":174.32814,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Port Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169684897,
-    "wof:lastmodified":1449033510,
+    "wof:lastmodified":1466310793,
     "wof:name":"Port Road Saddlery",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.32814,-35.729725,174.32814,-35.729725],
-  "geometry": {"coordinates":[174.32814,-35.729725],"type":"Point"}
+  "bbox": [
+    174.32814,
+    -35.729725,
+    174.32814,
+    -35.729725
+],
+  "geometry": {"coordinates":[174.32813999999999,-35.729725],"type":"Point"}
 }

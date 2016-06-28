@@ -2,13 +2,14 @@
   "id": 185933467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.265404,40.346321,-75.265404,40.346321",
     "geom:latitude":40.346321,
     "geom:longitude":-75.265404,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 457 ",
     "sg:city":"Silverdale",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185933467,
-    "wof:lastmodified":1449006946,
+    "wof:lastmodified":1466312047,
     "wof:name":"Taekwon-Do ITFNZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "sports"
     ]
 },
-  "bbox": [-75.265404,40.346321,-75.265404,40.346321],
+  "bbox": [
+    -75.265404,
+    40.346321,
+    -75.265404,
+    40.346321
+],
   "geometry": {"coordinates":[-75.265404,40.346321],"type":"Point"}
 }

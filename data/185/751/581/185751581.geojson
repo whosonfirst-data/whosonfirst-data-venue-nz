@@ -2,13 +2,14 @@
   "id": 185751581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.780106,-41.269756,174.780106,-41.269756",
     "geom:latitude":-41.269756,
     "geom:longitude":174.780106,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Tinakori Rd Thorndon ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185751581,
-    "wof:lastmodified":1449006678,
+    "wof:lastmodified":1466310905,
     "wof:name":"Wellington Bridge Club Inc",
     "wof:parent_id":85778683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.780106,-41.269756,174.780106,-41.269756],
-  "geometry": {"coordinates":[174.780106,-41.269756],"type":"Point"}
+  "bbox": [
+    174.780106,
+    -41.269756,
+    174.780106,
+    -41.269756
+],
+  "geometry": {"coordinates":[174.78010599999999,-41.269756],"type":"Point"}
 }

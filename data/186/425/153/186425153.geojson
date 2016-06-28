@@ -2,13 +2,14 @@
   "id": 186425153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.834427,-36.924309,174.834427,-36.924309",
     "geom:latitude":-36.924309,
     "geom:longitude":174.834427,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 A Sylvia Park Rd Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186425153,
-    "wof:lastmodified":1449051340,
+    "wof:lastmodified":1466312586,
     "wof:name":"Taylor Purification Ltd",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.834427,-36.924309,174.834427,-36.924309],
-  "geometry": {"coordinates":[174.834427,-36.924309],"type":"Point"}
+  "bbox": [
+    174.834427,
+    -36.924309,
+    174.834427,
+    -36.924309
+],
+  "geometry": {"coordinates":[174.83442700000001,-36.924309],"type":"Point"}
 }

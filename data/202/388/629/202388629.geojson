@@ -2,13 +2,14 @@
   "id": 202388629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.282806,-35.739098,174.282806,-35.739098",
     "geom:latitude":-35.739098,
     "geom:longitude":174.282806,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Maunu Rd Maunu ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202388629,
-    "wof:lastmodified":1449060191,
+    "wof:lastmodified":1466310710,
     "wof:name":"Northern Life Brokers Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "health"
     ]
 },
-  "bbox": [174.282806,-35.739098,174.282806,-35.739098],
-  "geometry": {"coordinates":[174.282806,-35.739098],"type":"Point"}
+  "bbox": [
+    174.282806,
+    -35.739098,
+    174.282806,
+    -35.739098
+],
+  "geometry": {"coordinates":[174.28280599999999,-35.739098],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186246443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.66185,-40.949493,175.66185,-40.949493",
     "geom:latitude":-40.949493,
     "geom:longitude":175.66185,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Queen St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186246443,
-    "wof:lastmodified":1449050437,
+    "wof:lastmodified":1466311815,
     "wof:name":"Bernina Sewing Centre",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.66185,-40.949493,175.66185,-40.949493],
-  "geometry": {"coordinates":[175.66185,-40.949493],"type":"Point"}
+  "bbox": [
+    175.66185,
+    -40.949493,
+    175.66185,
+    -40.949493
+],
+  "geometry": {"coordinates":[175.66184999999999,-40.949493],"type":"Point"}
 }

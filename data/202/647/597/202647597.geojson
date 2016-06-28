@@ -2,13 +2,14 @@
   "id": 202647597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.912079,40.851536,-79.912079,40.851536",
     "geom:latitude":40.851536,
     "geom:longitude":-79.912079,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Douglas St ",
     "sg:city":"Highfield",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202647597,
-    "wof:lastmodified":1449061329,
+    "wof:lastmodified":1466311906,
     "wof:name":"Wayne Meggitt Plastering",
     "wof:parent_id":85824973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "related"
     ]
 },
-  "bbox": [-79.912079,40.851536,-79.912079,40.851536],
-  "geometry": {"coordinates":[-79.912079,40.851536],"type":"Point"}
+  "bbox": [
+    -79.912079,
+    40.851536,
+    -79.912079,
+    40.851536
+],
+  "geometry": {"coordinates":[-79.91207900000001,40.851536],"type":"Point"}
 }

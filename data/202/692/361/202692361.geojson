@@ -2,13 +2,14 @@
   "id": 202692361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.544113,-40.006729,176.544113,-40.006729",
     "geom:latitude":-40.006729,
     "geom:longitude":176.544113,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Lakeview Rd ",
     "sg:city":"Waipukurau",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202692361,
-    "wof:lastmodified":1449060791,
+    "wof:lastmodified":1466312210,
     "wof:name":"Lakeview Kindergarten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "children"
     ]
 },
-  "bbox": [176.544113,-40.006729,176.544113,-40.006729],
-  "geometry": {"coordinates":[176.544113,-40.006729],"type":"Point"}
+  "bbox": [
+    176.544113,
+    -40.006729,
+    176.544113,
+    -40.006729
+],
+  "geometry": {"coordinates":[176.54411300000001,-40.006729],"type":"Point"}
 }

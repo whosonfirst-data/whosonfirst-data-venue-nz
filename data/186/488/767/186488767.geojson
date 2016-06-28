@@ -2,13 +2,14 @@
   "id": 186488767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.677658,-43.557976,172.677658,-43.557976",
     "geom:latitude":-43.557976,
     "geom:longitude":172.677658,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Maunsell St Woolston ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186488767,
-    "wof:lastmodified":1449052973,
+    "wof:lastmodified":1466312646,
     "wof:name":"Don Grey Engineering",
     "wof:parent_id":85773353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.677658,-43.557976,172.677658,-43.557976],
-  "geometry": {"coordinates":[172.677658,-43.557976],"type":"Point"}
+  "bbox": [
+    172.677658,
+    -43.557976,
+    172.677658,
+    -43.557976
+],
+  "geometry": {"coordinates":[172.67765800000001,-43.557976],"type":"Point"}
 }

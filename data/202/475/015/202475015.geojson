@@ -2,13 +2,14 @@
   "id": 202475015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.614975,-40.353092,175.614975,-40.353092",
     "geom:latitude":-40.353092,
     "geom:longitude":175.614975,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202475015,
-    "wof:lastmodified":1449061165,
+    "wof:lastmodified":1466312063,
     "wof:name":"Balfour's Unichem Pharmacy",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.614975,-40.353092,175.614975,-40.353092],
-  "geometry": {"coordinates":[175.614975,-40.353092],"type":"Point"}
+  "bbox": [
+    175.614975,
+    -40.353092,
+    175.614975,
+    -40.353092
+],
+  "geometry": {"coordinates":[175.61497499999999,-40.353092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219155871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.747849,-36.801125,174.747849,-36.801125",
     "geom:latitude":-36.801125,
     "geom:longitude":174.747849,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 360 42 Northcote ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219155871,
-    "wof:lastmodified":1449073309,
+    "wof:lastmodified":1466310667,
     "wof:name":"International Marine Consultants Ltd",
     "wof:parent_id":85778503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.747849,-36.801125,174.747849,-36.801125],
+  "bbox": [
+    174.747849,
+    -36.801125,
+    174.747849,
+    -36.801125
+],
   "geometry": {"coordinates":[174.747849,-36.801125],"type":"Point"}
 }

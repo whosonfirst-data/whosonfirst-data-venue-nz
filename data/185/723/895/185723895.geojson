@@ -2,13 +2,14 @@
   "id": 185723895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.320587,-35.726437,174.320587,-35.726437",
     "geom:latitude":-35.726437,
     "geom:longitude":174.320587,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Vine St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185723895,
-    "wof:lastmodified":1449007553,
+    "wof:lastmodified":1466310726,
     "wof:name":"Danger! Danger",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "entertainment"
     ]
 },
-  "bbox": [174.320587,-35.726437,174.320587,-35.726437],
-  "geometry": {"coordinates":[174.320587,-35.726437],"type":"Point"}
+  "bbox": [
+    174.320587,
+    -35.726437,
+    174.320587,
+    -35.726437
+],
+  "geometry": {"coordinates":[174.32058699999999,-35.726437],"type":"Point"}
 }

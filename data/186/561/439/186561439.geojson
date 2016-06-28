@@ -2,13 +2,14 @@
   "id": 186561439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.56691,-40.226669,175.56691,-40.226669",
     "geom:latitude":-40.226669,
     "geom:longitude":175.56691,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Fergusson St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186561439,
-    "wof:lastmodified":1449052257,
+    "wof:lastmodified":1466312910,
     "wof:name":"Studio 31",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.56691,-40.226669,175.56691,-40.226669],
-  "geometry": {"coordinates":[175.56691,-40.226669],"type":"Point"}
+  "bbox": [
+    175.56691,
+    -40.226669,
+    175.56691,
+    -40.226669
+],
+  "geometry": {"coordinates":[175.56691000000001,-40.226669],"type":"Point"}
 }

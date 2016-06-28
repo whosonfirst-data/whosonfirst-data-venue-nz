@@ -2,13 +2,14 @@
   "id": 203139043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.478134,-43.55302,172.478134,-43.55302",
     "geom:latitude":-43.55302,
     "geom:longitude":172.478134,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"729 Main South Rd Templeton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203139043,
-    "wof:lastmodified":1449025112,
+    "wof:lastmodified":1466310821,
     "wof:name":"Templeton Cattery",
     "wof:parent_id":85778387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "kennel"
     ]
 },
-  "bbox": [172.478134,-43.55302,172.478134,-43.55302],
-  "geometry": {"coordinates":[172.478134,-43.55302],"type":"Point"}
+  "bbox": [
+    172.478134,
+    -43.55302,
+    172.478134,
+    -43.55302
+],
+  "geometry": {"coordinates":[172.47813400000001,-43.55302],"type":"Point"}
 }

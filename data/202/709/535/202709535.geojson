@@ -2,13 +2,14 @@
   "id": 202709535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.320526,-35.725399,174.320526,-35.725399",
     "geom:latitude":-35.725399,
     "geom:longitude":174.320526,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Snooks Rd R D 9 ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202709535,
-    "wof:lastmodified":1449060613,
+    "wof:lastmodified":1466312163,
     "wof:name":"Northland Park Care Ltd",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "children"
     ]
 },
-  "bbox": [174.320526,-35.725399,174.320526,-35.725399],
+  "bbox": [
+    174.320526,
+    -35.725399,
+    174.320526,
+    -35.725399
+],
   "geometry": {"coordinates":[174.320526,-35.725399],"type":"Point"}
 }

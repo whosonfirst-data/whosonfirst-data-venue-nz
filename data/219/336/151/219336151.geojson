@@ -2,13 +2,14 @@
   "id": 219336151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.338837,-38.45546,176.338837,-38.45546",
     "geom:latitude":-38.45546,
     "geom:longitude":176.338837,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Broadlands Rd ",
     "sg:city":"Reporoa",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219336151,
-    "wof:lastmodified":1449070310,
+    "wof:lastmodified":1466311229,
     "wof:name":"Woolshed Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accommodation"
     ]
 },
-  "bbox": [176.338837,-38.45546,176.338837,-38.45546],
-  "geometry": {"coordinates":[176.338837,-38.45546],"type":"Point"}
+  "bbox": [
+    176.338837,
+    -38.45546,
+    176.338837,
+    -38.45546
+],
+  "geometry": {"coordinates":[176.33883700000001,-38.45546],"type":"Point"}
 }

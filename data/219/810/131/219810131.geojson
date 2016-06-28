@@ -2,13 +2,14 @@
   "id": 219810131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.105835,-38.687344,176.105835,-38.687344",
     "geom:latitude":-38.687344,
     "geom:longitude":176.105835,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Miro St ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219810131,
-    "wof:lastmodified":1449071432,
+    "wof:lastmodified":1466312959,
     "wof:name":"Ross White Panel & Paint Ltd",
     "wof:parent_id":85781171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beater"
     ]
 },
-  "bbox": [176.105835,-38.687344,176.105835,-38.687344],
-  "geometry": {"coordinates":[176.105835,-38.687344],"type":"Point"}
+  "bbox": [
+    176.105835,
+    -38.687344,
+    176.105835,
+    -38.687344
+],
+  "geometry": {"coordinates":[176.10583500000001,-38.687344],"type":"Point"}
 }

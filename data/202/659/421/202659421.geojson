@@ -2,13 +2,14 @@
   "id": 202659421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.19455,-39.15443,174.19455,-39.15443",
     "geom:latitude":-39.15443,
     "geom:longitude":174.19455,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Rata St ",
     "sg:city":"Inglewood",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202659421,
-    "wof:lastmodified":1449060380,
+    "wof:lastmodified":1466311987,
     "wof:name":"A D Charteris & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [174.19455,-39.15443,174.19455,-39.15443],
-  "geometry": {"coordinates":[174.19455,-39.15443],"type":"Point"}
+  "bbox": [
+    174.19455,
+    -39.15443,
+    174.19455,
+    -39.15443
+],
+  "geometry": {"coordinates":[174.19454999999999,-39.15443],"type":"Point"}
 }

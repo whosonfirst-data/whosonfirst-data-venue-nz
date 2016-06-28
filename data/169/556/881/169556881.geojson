@@ -2,13 +2,14 @@
   "id": 169556881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.617584,-40.352081,175.617584,-40.352081",
     "geom:latitude":-40.352081,
     "geom:longitude":175.617584,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"202 A Broadway Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169556881,
-    "wof:lastmodified":1449033508,
+    "wof:lastmodified":1466310922,
     "wof:name":"Tasman Suppliers Limited",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.617584,-40.352081,175.617584,-40.352081],
-  "geometry": {"coordinates":[175.617584,-40.352081],"type":"Point"}
+  "bbox": [
+    175.617584,
+    -40.352081,
+    175.617584,
+    -40.352081
+],
+  "geometry": {"coordinates":[175.61758399999999,-40.352081],"type":"Point"}
 }

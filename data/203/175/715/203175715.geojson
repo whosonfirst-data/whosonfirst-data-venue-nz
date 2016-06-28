@@ -2,13 +2,14 @@
   "id": 203175715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.096207,-46.288601,168.096207,-46.288601",
     "geom:latitude":-46.288601,
     "geom:longitude":168.096207,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Factory Rd ",
     "sg:city":"Thornbury",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":203175715,
-    "wof:lastmodified":1449026293,
+    "wof:lastmodified":1466311139,
     "wof:name":"Slinkskins Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [168.096207,-46.288601,168.096207,-46.288601],
-  "geometry": {"coordinates":[168.096207,-46.288601],"type":"Point"}
+  "bbox": [
+    168.096207,
+    -46.288601,
+    168.096207,
+    -46.288601
+],
+  "geometry": {"coordinates":[168.09620699999999,-46.288601],"type":"Point"}
 }

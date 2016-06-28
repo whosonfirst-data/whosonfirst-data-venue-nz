@@ -2,13 +2,14 @@
   "id": 203071055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.084106,-41.108181,175.084106,-41.108181",
     "geom:latitude":-41.108181,
     "geom:longitude":175.084106,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"196 California Dve Totara Park Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203071055,
-    "wof:lastmodified":1449026153,
+    "wof:lastmodified":1466312053,
     "wof:name":"Bosworth Stone",
     "wof:parent_id":85781759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.084106,-41.108181,175.084106,-41.108181],
-  "geometry": {"coordinates":[175.084106,-41.108181],"type":"Point"}
+  "bbox": [
+    175.084106,
+    -41.108181,
+    175.084106,
+    -41.108181
+],
+  "geometry": {"coordinates":[175.08410599999999,-41.108181],"type":"Point"}
 }

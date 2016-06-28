@@ -2,13 +2,14 @@
   "id": 219174719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.690735,-36.906403,174.690735,-36.906403",
     "geom:latitude":-36.906403,
     "geom:longitude":174.690735,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 E Portage Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219174719,
-    "wof:lastmodified":1449070876,
+    "wof:lastmodified":1466311142,
     "wof:name":"Nippon South Pacific Limited",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "transport"
     ]
 },
-  "bbox": [174.690735,-36.906403,174.690735,-36.906403],
-  "geometry": {"coordinates":[174.690735,-36.906403],"type":"Point"}
+  "bbox": [
+    174.690735,
+    -36.906403,
+    174.690735,
+    -36.906403
+],
+  "geometry": {"coordinates":[174.69073499999999,-36.906403],"type":"Point"}
 }

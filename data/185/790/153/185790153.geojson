@@ -2,13 +2,14 @@
   "id": 185790153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.185226,-37.641743,176.185226,-37.641743",
     "geom:latitude":-37.641743,
     "geom:longitude":176.185226,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"272 Maunganui Rd Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185790153,
-    "wof:lastmodified":1449007857,
+    "wof:lastmodified":1466311158,
     "wof:name":"Mount Art Supplies",
     "wof:parent_id":85773039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hobbies"
     ]
 },
-  "bbox": [176.185226,-37.641743,176.185226,-37.641743],
+  "bbox": [
+    176.185226,
+    -37.641743,
+    176.185226,
+    -37.641743
+],
   "geometry": {"coordinates":[176.185226,-37.641743],"type":"Point"}
 }

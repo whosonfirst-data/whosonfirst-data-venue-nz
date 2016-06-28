@@ -2,13 +2,14 @@
   "id": 186423137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.332535,33.397297,-86.332535,33.397297",
     "geom:latitude":33.397297,
     "geom:longitude":-86.332535,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Cunningham Cre ",
     "sg:city":"Grasmere",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":186423137,
-    "wof:lastmodified":1449050858,
+    "wof:lastmodified":1466312480,
     "wof:name":"Cookright Southland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.332535,33.397297,-86.332535,33.397297],
-  "geometry": {"coordinates":[-86.332535,33.397297],"type":"Point"}
+  "bbox": [
+    -86.332535,
+    33.397297,
+    -86.332535,
+    33.397297
+],
+  "geometry": {"coordinates":[-86.33253499999999,33.397297],"type":"Point"}
 }

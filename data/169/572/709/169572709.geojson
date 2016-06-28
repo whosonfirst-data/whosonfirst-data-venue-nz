@@ -2,13 +2,14 @@
   "id": 169572709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.758011,-36.768517,174.758011,-36.768517",
     "geom:latitude":-36.768517,
     "geom:longitude":174.758011,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"72 East Coast Rd Milford ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169572709,
-    "wof:lastmodified":1449034703,
+    "wof:lastmodified":1466311194,
     "wof:name":"Seaview Health Shoppe",
     "wof:parent_id":85778459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "health"
     ]
 },
-  "bbox": [174.758011,-36.768517,174.758011,-36.768517],
-  "geometry": {"coordinates":[174.758011,-36.768517],"type":"Point"}
+  "bbox": [
+    174.758011,
+    -36.768517,
+    174.758011,
+    -36.768517
+],
+  "geometry": {"coordinates":[174.75801100000001,-36.768517],"type":"Point"}
 }

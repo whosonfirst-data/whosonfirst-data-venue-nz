@@ -2,13 +2,14 @@
   "id": 186625265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.618362,-36.834122,174.618362,-36.834122",
     "geom:latitude":-36.834122,
     "geom:longitude":174.618362,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Massey ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":186625265,
-    "wof:lastmodified":1449053063,
+    "wof:lastmodified":1466313002,
     "wof:name":"The Great Scott Massage Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beauty"
     ]
 },
-  "bbox": [174.618362,-36.834122,174.618362,-36.834122],
-  "geometry": {"coordinates":[174.618362,-36.834122],"type":"Point"}
+  "bbox": [
+    174.618362,
+    -36.834122,
+    174.618362,
+    -36.834122
+],
+  "geometry": {"coordinates":[174.61836199999999,-36.834122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169548583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.325317,-38.010128,175.325317,-38.010128",
     "geom:latitude":-38.010128,
     "geom:longitude":175.325317,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Alexandra St Te Awamutu Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169548583,
-    "wof:lastmodified":1449034975,
+    "wof:lastmodified":1466310789,
     "wof:name":"Gemtime Jewellers",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.325317,-38.010128,175.325317,-38.010128],
-  "geometry": {"coordinates":[175.325317,-38.010128],"type":"Point"}
+  "bbox": [
+    175.325317,
+    -38.010128,
+    175.325317,
+    -38.010128
+],
+  "geometry": {"coordinates":[175.32531700000001,-38.010128],"type":"Point"}
 }

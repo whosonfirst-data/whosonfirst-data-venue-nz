@@ -2,13 +2,14 @@
   "id": 219456725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.702591,-36.896118,174.702591,-36.896118",
     "geom:latitude":-36.896118,
     "geom:longitude":174.702591,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1/1284 New North Rd Mt Albert ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219456725,
-    "wof:lastmodified":1449071453,
+    "wof:lastmodified":1466312180,
     "wof:name":"GEMACD Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "education"
     ]
 },
-  "bbox": [174.702591,-36.896118,174.702591,-36.896118],
-  "geometry": {"coordinates":[174.702591,-36.896118],"type":"Point"}
+  "bbox": [
+    174.702591,
+    -36.896118,
+    174.702591,
+    -36.896118
+],
+  "geometry": {"coordinates":[174.70259100000001,-36.896118],"type":"Point"}
 }

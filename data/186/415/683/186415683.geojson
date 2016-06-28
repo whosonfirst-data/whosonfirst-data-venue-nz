@@ -2,13 +2,14 @@
   "id": 186415683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.830688,-41.154163,174.830688,-41.154163",
     "geom:latitude":-41.154163,
     "geom:longitude":174.830688,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"367 A Main Rd Tawa ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186415683,
-    "wof:lastmodified":1449052290,
+    "wof:lastmodified":1466312640,
     "wof:name":"NZ Rubber Stamps Ltd",
     "wof:parent_id":85773013,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "goods"
     ]
 },
-  "bbox": [174.830688,-41.154163,174.830688,-41.154163],
-  "geometry": {"coordinates":[174.830688,-41.154163],"type":"Point"}
+  "bbox": [
+    174.830688,
+    -41.154163,
+    174.830688,
+    -41.154163
+],
+  "geometry": {"coordinates":[174.83068800000001,-41.154163],"type":"Point"}
 }

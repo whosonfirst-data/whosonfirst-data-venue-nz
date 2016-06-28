@@ -2,13 +2,14 @@
   "id": 186642037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.135193,-37.667923,176.135193,-37.667923",
     "geom:latitude":-37.667923,
     "geom:longitude":176.135193,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"363 b Ngatai Rd Otumoetai ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186642037,
-    "wof:lastmodified":1449050423,
+    "wof:lastmodified":1466313014,
     "wof:name":"Paula Roper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fitness"
     ]
 },
-  "bbox": [176.135193,-37.667923,176.135193,-37.667923],
-  "geometry": {"coordinates":[176.135193,-37.667923],"type":"Point"}
+  "bbox": [
+    176.135193,
+    -37.667923,
+    176.135193,
+    -37.667923
+],
+  "geometry": {"coordinates":[176.13519299999999,-37.667923],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202936245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.472717,-36.790104,174.472717,-36.790104",
     "geom:latitude":-36.790104,
     "geom:longitude":174.472717,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Fletcher Rd Waimauku ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202936245,
-    "wof:lastmodified":1449060957,
+    "wof:lastmodified":1466312762,
     "wof:name":"Complete Glasshouse Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.472717,-36.790104,174.472717,-36.790104],
-  "geometry": {"coordinates":[174.472717,-36.790104],"type":"Point"}
+  "bbox": [
+    174.472717,
+    -36.790104,
+    174.472717,
+    -36.790104
+],
+  "geometry": {"coordinates":[174.47271699999999,-36.790104],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219896083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.953476,-37.126827,174.953476,-37.126827",
     "geom:latitude":-37.126827,
     "geom:longitude":174.953476,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1186 Great South Rd Runciman ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219896083,
-    "wof:lastmodified":1449071681,
+    "wof:lastmodified":1466313081,
     "wof:name":"Rupex Growtech Cell Plants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.953476,-37.126827,174.953476,-37.126827],
-  "geometry": {"coordinates":[174.953476,-37.126827],"type":"Point"}
+  "bbox": [
+    174.953476,
+    -37.126827,
+    174.953476,
+    -37.126827
+],
+  "geometry": {"coordinates":[174.95347599999999,-37.126827],"type":"Point"}
 }

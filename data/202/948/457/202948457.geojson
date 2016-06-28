@@ -2,13 +2,14 @@
   "id": 202948457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.340454,-46.420185,168.340454,-46.420185",
     "geom:latitude":-46.420185,
     "geom:longitude":168.340454,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Bond St West Invercargill ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202948457,
-    "wof:lastmodified":1449062141,
+    "wof:lastmodified":1466312779,
     "wof:name":"Small Motor Services",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.340454,-46.420185,168.340454,-46.420185],
-  "geometry": {"coordinates":[168.340454,-46.420185],"type":"Point"}
+  "bbox": [
+    168.340454,
+    -46.420185,
+    168.340454,
+    -46.420185
+],
+  "geometry": {"coordinates":[168.34045399999999,-46.420185],"type":"Point"}
 }

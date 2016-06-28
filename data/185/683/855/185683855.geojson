@@ -2,13 +2,14 @@
   "id": 185683855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.743317,40.194904,-74.743317,40.194904",
     "geom:latitude":40.194904,
     "geom:longitude":-74.743317,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Exeter St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":185683855,
-    "wof:lastmodified":1449007195,
+    "wof:lastmodified":1466311903,
     "wof:name":"Fatal Attractions",
     "wof:parent_id":85857443,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.743317,40.194904,-74.743317,40.194904],
+  "bbox": [
+    -74.743317,
+    40.194904,
+    -74.743317,
+    40.194904
+],
   "geometry": {"coordinates":[-74.743317,40.194904],"type":"Point"}
 }

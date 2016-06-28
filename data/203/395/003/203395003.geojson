@@ -2,13 +2,14 @@
   "id": 203395003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.693802,-43.535873,172.693802,-43.535873",
     "geom:latitude":-43.535873,
     "geom:longitude":172.693802,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Maces Rd Bromley ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203395003,
-    "wof:lastmodified":1449026572,
+    "wof:lastmodified":1466312642,
     "wof:name":"Hartz Marine",
     "wof:parent_id":85772845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.693802,-43.535873,172.693802,-43.535873],
-  "geometry": {"coordinates":[172.693802,-43.535873],"type":"Point"}
+  "bbox": [
+    172.693802,
+    -43.535873,
+    172.693802,
+    -43.535873
+],
+  "geometry": {"coordinates":[172.69380200000001,-43.535873],"type":"Point"}
 }

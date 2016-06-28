@@ -2,13 +2,14 @@
   "id": 202541315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.940262,-37.059456,174.940262,-37.059456",
     "geom:latitude":-37.059456,
     "geom:longitude":174.940262,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"79-85 Great South Rd ",
     "sg:city":"Papakura",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202541315,
-    "wof:lastmodified":1449060389,
+    "wof:lastmodified":1466311011,
     "wof:name":"Active Physio",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.940262,-37.059456,174.940262,-37.059456],
-  "geometry": {"coordinates":[174.940262,-37.059456],"type":"Point"}
+  "bbox": [
+    174.940262,
+    -37.059456,
+    174.940262,
+    -37.059456
+],
+  "geometry": {"coordinates":[174.94026199999999,-37.059456],"type":"Point"}
 }

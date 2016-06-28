@@ -2,13 +2,14 @@
   "id": 202402995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.148636,-37.712147,176.148636,-37.712147",
     "geom:latitude":-37.712147,
     "geom:longitude":176.148636,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Botanical Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202402995,
-    "wof:lastmodified":1449060929,
+    "wof:lastmodified":1466311085,
     "wof:name":"Hodgson House Home & Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.148636,-37.712147,176.148636,-37.712147],
-  "geometry": {"coordinates":[176.148636,-37.712147],"type":"Point"}
+  "bbox": [
+    176.148636,
+    -37.712147,
+    176.148636,
+    -37.712147
+],
+  "geometry": {"coordinates":[176.14863600000001,-37.712147],"type":"Point"}
 }

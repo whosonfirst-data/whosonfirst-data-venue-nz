@@ -2,13 +2,14 @@
   "id": 185718633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.701599,-40.651649,175.701599,-40.651649",
     "geom:latitude":-40.651649,
     "geom:longitude":175.701599,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Nireaha Rd R D 2 ",
     "sg:city":"Eketahuna",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":185718633,
-    "wof:lastmodified":1449006968,
+    "wof:lastmodified":1466310687,
     "wof:name":"Manawatu Trailblazers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.701599,-40.651649,175.701599,-40.651649],
-  "geometry": {"coordinates":[175.701599,-40.651649],"type":"Point"}
+  "bbox": [
+    175.701599,
+    -40.651649,
+    175.701599,
+    -40.651649
+],
+  "geometry": {"coordinates":[175.70159899999999,-40.651649],"type":"Point"}
 }

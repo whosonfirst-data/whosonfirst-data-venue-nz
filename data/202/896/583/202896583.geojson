@@ -2,13 +2,14 @@
   "id": 202896583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.491806,-45.896095,170.491806,-45.896095",
     "geom:latitude":-45.896095,
     "geom:longitude":170.491806,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"371-375 Hillside Rd South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202896583,
-    "wof:lastmodified":1449061035,
+    "wof:lastmodified":1466312783,
     "wof:name":"Mansons Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cutter"
     ]
 },
-  "bbox": [170.491806,-45.896095,170.491806,-45.896095],
+  "bbox": [
+    170.491806,
+    -45.896095,
+    170.491806,
+    -45.896095
+],
   "geometry": {"coordinates":[170.491806,-45.896095],"type":"Point"}
 }

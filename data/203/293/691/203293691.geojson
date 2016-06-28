@@ -2,13 +2,14 @@
   "id": 203293691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.498734,-45.893475,170.498734,-45.893475",
     "geom:latitude":-45.893475,
     "geom:longitude":170.498734,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"134 King Edward St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203293691,
-    "wof:lastmodified":1449025306,
+    "wof:lastmodified":1466312087,
     "wof:name":"Private Label",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.498734,-45.893475,170.498734,-45.893475],
-  "geometry": {"coordinates":[170.498734,-45.893475],"type":"Point"}
+  "bbox": [
+    170.498734,
+    -45.893475,
+    170.498734,
+    -45.893475
+],
+  "geometry": {"coordinates":[170.49873400000001,-45.893475],"type":"Point"}
 }

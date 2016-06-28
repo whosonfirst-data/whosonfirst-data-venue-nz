@@ -2,13 +2,14 @@
   "id": 219240087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.050293,-39.936207,175.050293,-39.936207",
     "geom:latitude":-39.936207,
     "geom:longitude":175.050293,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23-27 Wilson St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219240087,
-    "wof:lastmodified":1449070756,
+    "wof:lastmodified":1466311922,
     "wof:name":"Bullock B & Co Ltd",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.050293,-39.936207,175.050293,-39.936207],
-  "geometry": {"coordinates":[175.050293,-39.936207],"type":"Point"}
+  "bbox": [
+    175.050293,
+    -39.936207,
+    175.050293,
+    -39.936207
+],
+  "geometry": {"coordinates":[175.05029300000001,-39.936207],"type":"Point"}
 }

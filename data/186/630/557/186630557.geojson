@@ -2,13 +2,14 @@
   "id": 186630557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.698151,-36.894695,174.698151,-36.894695",
     "geom:latitude":-36.894695,
     "geom:longitude":174.698151,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Rosebank Rd Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186630557,
-    "wof:lastmodified":1449051353,
+    "wof:lastmodified":1466313009,
     "wof:name":"NZ Traditional Chinese Medical Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "acupuncturists"
     ]
 },
-  "bbox": [174.698151,-36.894695,174.698151,-36.894695],
+  "bbox": [
+    174.698151,
+    -36.894695,
+    174.698151,
+    -36.894695
+],
   "geometry": {"coordinates":[174.698151,-36.894695],"type":"Point"}
 }

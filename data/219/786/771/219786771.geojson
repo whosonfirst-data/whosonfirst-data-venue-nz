@@ -2,13 +2,14 @@
   "id": 219786771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.60463,-40.358505,175.60463,-40.358505",
     "geom:latitude":-40.358505,
     "geom:longitude":175.60463,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Domain St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219786771,
-    "wof:lastmodified":1449070853,
+    "wof:lastmodified":1466312996,
     "wof:name":"The Head Shop",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "servicing"
     ]
 },
-  "bbox": [175.60463,-40.358505,175.60463,-40.358505],
-  "geometry": {"coordinates":[175.60463,-40.358505],"type":"Point"}
+  "bbox": [
+    175.60463,
+    -40.358505,
+    175.60463,
+    -40.358505
+],
+  "geometry": {"coordinates":[175.60462999999999,-40.358505],"type":"Point"}
 }

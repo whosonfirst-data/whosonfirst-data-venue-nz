@@ -2,13 +2,14 @@
   "id": 185991431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.747925,-36.870705,174.747925,-36.870705",
     "geom:latitude":-36.870705,
     "geom:longitude":174.747925,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"399 New North Rd Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185991431,
-    "wof:lastmodified":1449007106,
+    "wof:lastmodified":1466312403,
     "wof:name":"Tent Town Ltd",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "wedding"
     ]
 },
-  "bbox": [174.747925,-36.870705,174.747925,-36.870705],
-  "geometry": {"coordinates":[174.747925,-36.870705],"type":"Point"}
+  "bbox": [
+    174.747925,
+    -36.870705,
+    174.747925,
+    -36.870705
+],
+  "geometry": {"coordinates":[174.74792500000001,-36.870705],"type":"Point"}
 }

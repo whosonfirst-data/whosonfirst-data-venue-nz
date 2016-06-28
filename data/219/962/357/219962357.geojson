@@ -2,13 +2,14 @@
   "id": 219962357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-104.250458,40.291191,-104.250458,40.291191",
     "geom:latitude":40.291191,
     "geom:longitude":-104.250458,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Bealey Rd ",
     "sg:city":"Darfield",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219962357,
-    "wof:lastmodified":1449072462,
+    "wof:lastmodified":1466313122,
     "wof:name":"Barn Builders",
     "wof:parent_id":85845949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-104.250458,40.291191,-104.250458,40.291191],
-  "geometry": {"coordinates":[-104.250458,40.291191],"type":"Point"}
+  "bbox": [
+    -104.250458,
+    40.291191,
+    -104.250458,
+    40.291191
+],
+  "geometry": {"coordinates":[-104.25045799999999,40.291191],"type":"Point"}
 }

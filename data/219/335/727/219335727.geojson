@@ -2,13 +2,14 @@
   "id": 219335727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.170364,-40.009289,175.170364,-40.009289",
     "geom:latitude":-40.009289,
     "geom:longitude":175.170364,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 3 Wanganui ",
     "sg:city":"Whangaehu",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219335727,
-    "wof:lastmodified":1449072713,
+    "wof:lastmodified":1466311224,
     "wof:name":"Whangaehu Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.170364,-40.009289,175.170364,-40.009289],
-  "geometry": {"coordinates":[175.170364,-40.009289],"type":"Point"}
+  "bbox": [
+    175.170364,
+    -40.009289,
+    175.170364,
+    -40.009289
+],
+  "geometry": {"coordinates":[175.17036400000001,-40.009289],"type":"Point"}
 }

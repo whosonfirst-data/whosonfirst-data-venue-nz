@@ -2,13 +2,14 @@
   "id": 186586491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.044785,-39.927208,175.044785,-39.927208",
     "geom:latitude":-39.927208,
     "geom:longitude":175.044785,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Wicksteed St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186586491,
-    "wof:lastmodified":1449052711,
+    "wof:lastmodified":1466312949,
     "wof:name":"Dentalcare. NZ Ltd",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.044785,-39.927208,175.044785,-39.927208],
-  "geometry": {"coordinates":[175.044785,-39.927208],"type":"Point"}
+  "bbox": [
+    175.044785,
+    -39.927208,
+    175.044785,
+    -39.927208
+],
+  "geometry": {"coordinates":[175.04478499999999,-39.927208],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203100887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.863388,-35.937065,173.863388,-35.937065",
     "geom:latitude":-35.937065,
     "geom:longitude":173.863388,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Hokianga Rd ",
     "sg:city":"Dargaville",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203100887,
-    "wof:lastmodified":1449026367,
+    "wof:lastmodified":1466310523,
     "wof:name":"Kauri Coast Hospital & Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [173.863388,-35.937065,173.863388,-35.937065],
-  "geometry": {"coordinates":[173.863388,-35.937065],"type":"Point"}
+  "bbox": [
+    173.863388,
+    -35.937065,
+    173.863388,
+    -35.937065
+],
+  "geometry": {"coordinates":[173.86338799999999,-35.937065],"type":"Point"}
 }

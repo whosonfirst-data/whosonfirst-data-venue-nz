@@ -2,13 +2,14 @@
   "id": 169573261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.026657,-38.666744,178.026657,-38.666744",
     "geom:latitude":-38.666744,
     "geom:longitude":178.026657,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169573261,
-    "wof:lastmodified":1449035111,
+    "wof:lastmodified":1466311233,
     "wof:name":"Vitality Foods",
     "wof:parent_id":85781347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "health"
     ]
 },
-  "bbox": [178.026657,-38.666744,178.026657,-38.666744],
+  "bbox": [
+    178.026657,
+    -38.666744,
+    178.026657,
+    -38.666744
+],
   "geometry": {"coordinates":[178.026657,-38.666744],"type":"Point"}
 }

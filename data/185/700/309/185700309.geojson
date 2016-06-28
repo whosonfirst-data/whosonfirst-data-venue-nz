@@ -2,13 +2,14 @@
   "id": 185700309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.560211,-36.777275,174.560211,-36.777275",
     "geom:latitude":-36.777275,
     "geom:longitude":174.560211,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 434 ",
     "sg:city":"Kumeu",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185700309,
-    "wof:lastmodified":1449008076,
+    "wof:lastmodified":1466310557,
     "wof:name":"Auckland City DJ's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "entertainment"
     ]
 },
-  "bbox": [174.560211,-36.777275,174.560211,-36.777275],
-  "geometry": {"coordinates":[174.560211,-36.777275],"type":"Point"}
+  "bbox": [
+    174.560211,
+    -36.777275,
+    174.560211,
+    -36.777275
+],
+  "geometry": {"coordinates":[174.56021100000001,-36.777275],"type":"Point"}
 }

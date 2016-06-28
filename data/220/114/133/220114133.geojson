@@ -2,13 +2,14 @@
   "id": 220114133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.679504,-36.909275,174.679504,-36.909275",
     "geom:latitude":-36.909275,
     "geom:longitude":174.679504,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3102 Great North Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220114133,
-    "wof:lastmodified":1449074375,
+    "wof:lastmodified":1466310725,
     "wof:name":"Auckland Indian Sweets & Snacks Ltd",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [174.679504,-36.909275,174.679504,-36.909275],
-  "geometry": {"coordinates":[174.679504,-36.909275],"type":"Point"}
+  "bbox": [
+    174.679504,
+    -36.909275,
+    174.679504,
+    -36.909275
+],
+  "geometry": {"coordinates":[174.67950400000001,-36.909275],"type":"Point"}
 }

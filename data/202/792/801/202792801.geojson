@@ -2,13 +2,14 @@
   "id": 202792801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.644135,-40.358601,175.644135,-40.358601",
     "geom:latitude":-40.358601,
     "geom:longitude":175.644135,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36A Roxburgh Cre Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202792801,
-    "wof:lastmodified":1449060666,
+    "wof:lastmodified":1466312517,
     "wof:name":"The Tin Shop Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "kitchen"
     ]
 },
-  "bbox": [175.644135,-40.358601,175.644135,-40.358601],
-  "geometry": {"coordinates":[175.644135,-40.358601],"type":"Point"}
+  "bbox": [
+    175.644135,
+    -40.358601,
+    175.644135,
+    -40.358601
+],
+  "geometry": {"coordinates":[175.64413500000001,-40.358601],"type":"Point"}
 }

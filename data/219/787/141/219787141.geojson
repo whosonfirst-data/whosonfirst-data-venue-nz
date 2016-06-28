@@ -2,13 +2,14 @@
   "id": 219787141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.329483,-38.00679,175.329483,-38.00679",
     "geom:latitude":-38.00679,
     "geom:longitude":175.329483,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Bond Rd Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219787141,
-    "wof:lastmodified":1449071994,
+    "wof:lastmodified":1466312997,
     "wof:name":"Tyre & Tune Centre Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "servicing"
     ]
 },
-  "bbox": [175.329483,-38.00679,175.329483,-38.00679],
-  "geometry": {"coordinates":[175.329483,-38.00679],"type":"Point"}
+  "bbox": [
+    175.329483,
+    -38.00679,
+    175.329483,
+    -38.00679
+],
+  "geometry": {"coordinates":[175.32948300000001,-38.00679],"type":"Point"}
 }

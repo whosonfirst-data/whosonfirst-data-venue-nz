@@ -2,13 +2,14 @@
   "id": 235974121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.348923,-45.876339,170.348923,-45.876339",
     "geom:latitude":-45.876339,
     "geom:longitude":170.348923,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Gordon Rd Mosgiel ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235974121,
-    "wof:lastmodified":1449008557,
+    "wof:lastmodified":1466311352,
     "wof:name":"Cafe 104",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cafe"
     ]
 },
-  "bbox": [170.348923,-45.876339,170.348923,-45.876339],
-  "geometry": {"coordinates":[170.348923,-45.876339],"type":"Point"}
+  "bbox": [
+    170.348923,
+    -45.876339,
+    170.348923,
+    -45.876339
+],
+  "geometry": {"coordinates":[170.34892300000001,-45.876339],"type":"Point"}
 }

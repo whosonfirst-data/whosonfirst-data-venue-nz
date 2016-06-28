@@ -2,13 +2,14 @@
   "id": 203152593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.787918,-36.926346,174.787918,-36.926346",
     "geom:latitude":-36.926346,
     "geom:longitude":174.787918,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Galway St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203152593,
-    "wof:lastmodified":1449026392,
+    "wof:lastmodified":1466310925,
     "wof:name":"Newton Seeds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pets"
     ]
 },
-  "bbox": [174.787918,-36.926346,174.787918,-36.926346],
-  "geometry": {"coordinates":[174.787918,-36.926346],"type":"Point"}
+  "bbox": [
+    174.787918,
+    -36.926346,
+    174.787918,
+    -36.926346
+],
+  "geometry": {"coordinates":[174.78791799999999,-36.926346],"type":"Point"}
 }

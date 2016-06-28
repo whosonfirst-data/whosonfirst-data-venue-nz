@@ -2,13 +2,14 @@
   "id": 203146959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.011505,-40.918629,175.011505,-40.918629",
     "geom:latitude":-40.918629,
     "geom:longitude":175.011505,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Ruahine St Paraparaumu ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203146959,
-    "wof:lastmodified":1449025713,
+    "wof:lastmodified":1466310883,
     "wof:name":"Dogworkz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pets"
     ]
 },
-  "bbox": [175.011505,-40.918629,175.011505,-40.918629],
+  "bbox": [
+    175.011505,
+    -40.918629,
+    175.011505,
+    -40.918629
+],
   "geometry": {"coordinates":[175.011505,-40.918629],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219712981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.765091,-36.794609,174.765091,-36.794609",
     "geom:latitude":-36.794609,
     "geom:longitude":174.765091,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Barrys Point Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219712981,
-    "wof:lastmodified":1449071903,
+    "wof:lastmodified":1466312724,
     "wof:name":"Sportspro Racing Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "leasing"
     ]
 },
-  "bbox": [174.765091,-36.794609,174.765091,-36.794609],
-  "geometry": {"coordinates":[174.765091,-36.794609],"type":"Point"}
+  "bbox": [
+    174.765091,
+    -36.794609,
+    174.765091,
+    -36.794609
+],
+  "geometry": {"coordinates":[174.76509100000001,-36.794609],"type":"Point"}
 }

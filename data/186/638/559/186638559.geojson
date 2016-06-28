@@ -2,13 +2,14 @@
   "id": 186638559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.048172,-39.923496,175.048172,-39.923496",
     "geom:latitude":-39.923496,
     "geom:longitude":175.048172,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Dublin St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186638559,
-    "wof:lastmodified":1449050416,
+    "wof:lastmodified":1466313012,
     "wof:name":"Hellerwork",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "fitness"
     ]
 },
-  "bbox": [175.048172,-39.923496,175.048172,-39.923496],
-  "geometry": {"coordinates":[175.048172,-39.923496],"type":"Point"}
+  "bbox": [
+    175.048172,
+    -39.923496,
+    175.048172,
+    -39.923496
+],
+  "geometry": {"coordinates":[175.04817199999999,-39.923496],"type":"Point"}
 }

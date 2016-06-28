@@ -2,13 +2,14 @@
   "id": 219978557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.591278,-40.343449,175.591278,-40.343449",
     "geom:latitude":-40.343449,
     "geom:longitude":175.591278,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Bennett St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219978557,
-    "wof:lastmodified":1449072417,
+    "wof:lastmodified":1466313132,
     "wof:name":"National Veterinary Supplies Ltd",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.591278,-40.343449,175.591278,-40.343449],
-  "geometry": {"coordinates":[175.591278,-40.343449],"type":"Point"}
+  "bbox": [
+    175.591278,
+    -40.343449,
+    175.591278,
+    -40.343449
+],
+  "geometry": {"coordinates":[175.59127799999999,-40.343449],"type":"Point"}
 }

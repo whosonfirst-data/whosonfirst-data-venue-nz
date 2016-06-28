@@ -2,13 +2,14 @@
   "id": 202803245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.562645,39.400082,-84.562645,39.400082",
     "geom:latitude":39.400082,
     "geom:longitude":-84.562645,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Next to Davies Construction 177 Ellis St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202803245,
-    "wof:lastmodified":1449062686,
+    "wof:lastmodified":1466312448,
     "wof:name":"Wrought Iron Manufacturing",
     "wof:parent_id":85844801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "handrail"
     ]
 },
-  "bbox": [-84.562645,39.400082,-84.562645,39.400082],
+  "bbox": [
+    -84.562645,
+    39.400082,
+    -84.562645,
+    39.400082
+],
   "geometry": {"coordinates":[-84.562645,39.400082],"type":"Point"}
 }

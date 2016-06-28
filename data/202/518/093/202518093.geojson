@@ -2,13 +2,14 @@
   "id": 202518093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.742416,-36.85326,174.742416,-36.85326",
     "geom:latitude":-36.85326,
     "geom:longitude":174.742416,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"All Saints Mall 282 Ponsonby Rd Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202518093,
-    "wof:lastmodified":1449061533,
+    "wof:lastmodified":1466310810,
     "wof:name":"Helander Dr Steve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialists"
     ]
 },
-  "bbox": [174.742416,-36.85326,174.742416,-36.85326],
-  "geometry": {"coordinates":[174.742416,-36.85326],"type":"Point"}
+  "bbox": [
+    174.742416,
+    -36.85326,
+    174.742416,
+    -36.85326
+],
+  "geometry": {"coordinates":[174.74241599999999,-36.85326],"type":"Point"}
 }

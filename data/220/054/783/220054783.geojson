@@ -2,13 +2,14 @@
   "id": 220054783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.247406,-37.759285,175.247406,-37.759285",
     "geom:latitude":-37.759285,
     "geom:longitude":175.247406,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"545 Te Rapa Rd Te Rapa ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220054783,
-    "wof:lastmodified":1449074397,
+    "wof:lastmodified":1466311634,
     "wof:name":"Brew Your Own Liquor Ltd",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [175.247406,-37.759285,175.247406,-37.759285],
-  "geometry": {"coordinates":[175.247406,-37.759285],"type":"Point"}
+  "bbox": [
+    175.247406,
+    -37.759285,
+    175.247406,
+    -37.759285
+],
+  "geometry": {"coordinates":[175.24740600000001,-37.759285],"type":"Point"}
 }

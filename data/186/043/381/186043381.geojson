@@ -2,13 +2,14 @@
   "id": 186043381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.900009,-36.934231,174.900009,-36.934231",
     "geom:latitude":-36.934231,
     "geom:longitude":174.900009,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 a Parkwood Pl East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186043381,
-    "wof:lastmodified":1449052347,
+    "wof:lastmodified":1466311314,
     "wof:name":"Scientific Supplies Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "compounds"
     ]
 },
-  "bbox": [174.900009,-36.934231,174.900009,-36.934231],
-  "geometry": {"coordinates":[174.900009,-36.934231],"type":"Point"}
+  "bbox": [
+    174.900009,
+    -36.934231,
+    174.900009,
+    -36.934231
+],
+  "geometry": {"coordinates":[174.90000900000001,-36.934231],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219721517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.830231,-36.923183,174.830231,-36.923183",
     "geom:latitude":-36.923183,
     "geom:longitude":174.830231,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Great South Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219721517,
-    "wof:lastmodified":1449073906,
+    "wof:lastmodified":1466312753,
     "wof:name":"Auckland Truck Sales Limited",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [174.830231,-36.923183,174.830231,-36.923183],
+  "bbox": [
+    174.830231,
+    -36.923183,
+    174.830231,
+    -36.923183
+],
   "geometry": {"coordinates":[174.830231,-36.923183],"type":"Point"}
 }

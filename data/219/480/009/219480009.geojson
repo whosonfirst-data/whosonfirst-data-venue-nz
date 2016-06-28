@@ -2,13 +2,14 @@
   "id": 219480009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.408173,38.422878,-77.408173,38.422878",
     "geom:latitude":38.422878,
     "geom:longitude":-77.408173,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Stafford Dve ",
     "sg:city":"Mapua",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219480009,
-    "wof:lastmodified":1449071546,
+    "wof:lastmodified":1466312355,
     "wof:name":"Mapua School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-77.408173,38.422878,-77.408173,38.422878],
-  "geometry": {"coordinates":[-77.408173,38.422878],"type":"Point"}
+  "bbox": [
+    -77.408173,
+    38.422878,
+    -77.408173,
+    38.422878
+],
+  "geometry": {"coordinates":[-77.40817300000001,38.422878],"type":"Point"}
 }

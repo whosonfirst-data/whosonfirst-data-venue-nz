@@ -2,13 +2,14 @@
   "id": 220083091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.895279,-41.232296,174.895279,-41.232296",
     "geom:latitude":-41.232296,
     "geom:longitude":174.895279,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Waione St Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220083091,
-    "wof:lastmodified":1449074403,
+    "wof:lastmodified":1466312060,
     "wof:name":"Foodtech Ltd",
     "wof:parent_id":85782489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "machinery"
     ]
 },
-  "bbox": [174.895279,-41.232296,174.895279,-41.232296],
-  "geometry": {"coordinates":[174.895279,-41.232296],"type":"Point"}
+  "bbox": [
+    174.895279,
+    -41.232296,
+    174.895279,
+    -41.232296
+],
+  "geometry": {"coordinates":[174.89527899999999,-41.232296],"type":"Point"}
 }

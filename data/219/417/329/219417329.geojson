@@ -2,13 +2,14 @@
   "id": 219417329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.049393,-39.938259,175.049393,-39.938259",
     "geom:latitude":-39.938259,
     "geom:longitude":175.049393,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"160 Ridgway St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219417329,
-    "wof:lastmodified":1449071833,
+    "wof:lastmodified":1466311949,
     "wof:name":"Tranzit Travel Centre Wanganui",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tourism"
     ]
 },
-  "bbox": [175.049393,-39.938259,175.049393,-39.938259],
-  "geometry": {"coordinates":[175.049393,-39.938259],"type":"Point"}
+  "bbox": [
+    175.049393,
+    -39.938259,
+    175.049393,
+    -39.938259
+],
+  "geometry": {"coordinates":[175.04939300000001,-39.938259],"type":"Point"}
 }

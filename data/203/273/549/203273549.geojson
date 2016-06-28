@@ -2,13 +2,14 @@
   "id": 203273549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.864136,-36.973103,174.864136,-36.973103",
     "geom:latitude":-36.973103,
     "geom:longitude":174.864136,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Gt South Rd Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203273549,
-    "wof:lastmodified":1449025912,
+    "wof:lastmodified":1466312012,
     "wof:name":"Schoolwear South Auckland",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "uniform"
     ]
 },
-  "bbox": [174.864136,-36.973103,174.864136,-36.973103],
+  "bbox": [
+    174.864136,
+    -36.973103,
+    174.864136,
+    -36.973103
+],
   "geometry": {"coordinates":[174.864136,-36.973103],"type":"Point"}
 }

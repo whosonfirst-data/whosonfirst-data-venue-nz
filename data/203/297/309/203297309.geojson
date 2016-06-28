@@ -2,13 +2,14 @@
   "id": 203297309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.800232,43.882797,-116.800232,43.882797",
     "geom:latitude":43.882797,
     "geom:longitude":-116.800232,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 30 Centre City New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203297309,
-    "wof:lastmodified":1449026178,
+    "wof:lastmodified":1466312106,
     "wof:name":"Zest",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.800232,43.882797,-116.800232,43.882797],
-  "geometry": {"coordinates":[-116.800232,43.882797],"type":"Point"}
+  "bbox": [
+    -116.800232,
+    43.882797,
+    -116.800232,
+    43.882797
+],
+  "geometry": {"coordinates":[-116.80023199999999,43.882797],"type":"Point"}
 }

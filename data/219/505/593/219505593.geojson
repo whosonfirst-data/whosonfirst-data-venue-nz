@@ -2,13 +2,14 @@
   "id": 219505593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.345505,-46.414001,168.345505,-46.414001",
     "geom:latitude":-46.414001,
     "geom:longitude":168.345505,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Liddel St West Invercargill ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":219505593,
-    "wof:lastmodified":1449073336,
+    "wof:lastmodified":1466312318,
     "wof:name":"Kai Tech Limited",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "education"
     ]
 },
-  "bbox": [168.345505,-46.414001,168.345505,-46.414001],
+  "bbox": [
+    168.345505,
+    -46.414001,
+    168.345505,
+    -46.414001
+],
   "geometry": {"coordinates":[168.345505,-46.414001],"type":"Point"}
 }

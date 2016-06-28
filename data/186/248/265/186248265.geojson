@@ -2,13 +2,14 @@
   "id": 186248265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.499023,-45.894348,170.499023,-45.894348",
     "geom:latitude":-45.894348,
     "geom:longitude":170.499023,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"173 King Edward St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186248265,
-    "wof:lastmodified":1449051850,
+    "wof:lastmodified":1466311830,
     "wof:name":"Dunedin Sewing Machine Repairs",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.499023,-45.894348,170.499023,-45.894348],
-  "geometry": {"coordinates":[170.499023,-45.894348],"type":"Point"}
+  "bbox": [
+    170.499023,
+    -45.894348,
+    170.499023,
+    -45.894348
+],
+  "geometry": {"coordinates":[170.49902299999999,-45.894348],"type":"Point"}
 }

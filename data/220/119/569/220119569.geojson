@@ -2,13 +2,14 @@
   "id": 220119569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.838364,-41.108479,174.838364,-41.108479",
     "geom:latitude":-41.108479,
     "geom:longitude":174.838364,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 B Whitehouse Rd Titahi Bay ",
     "sg:city":"Porirua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220119569,
-    "wof:lastmodified":1449074626,
+    "wof:lastmodified":1466310778,
     "wof:name":"Twin Agencies Ltd",
     "wof:parent_id":85773251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "-"
     ]
 },
-  "bbox": [174.838364,-41.108479,174.838364,-41.108479],
-  "geometry": {"coordinates":[174.838364,-41.108479],"type":"Point"}
+  "bbox": [
+    174.838364,
+    -41.108479,
+    174.838364,
+    -41.108479
+],
+  "geometry": {"coordinates":[174.83836400000001,-41.108479],"type":"Point"}
 }

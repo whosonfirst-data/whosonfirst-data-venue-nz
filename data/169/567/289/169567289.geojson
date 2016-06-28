@@ -2,13 +2,14 @@
   "id": 169567289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.122658,37.70536,-122.122658,37.70536",
     "geom:latitude":37.70536,
     "geom:longitude":-122.122658,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Bayfair Mall Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169567289,
-    "wof:lastmodified":1449035994,
+    "wof:lastmodified":1466311082,
     "wof:name":"Living & Giving",
     "wof:parent_id":85887781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supplier"
     ]
 },
-  "bbox": [-122.122658,37.70536,-122.122658,37.70536],
+  "bbox": [
+    -122.122658,
+    37.70536,
+    -122.122658,
+    37.70536
+],
   "geometry": {"coordinates":[-122.122658,37.70536],"type":"Point"}
 }

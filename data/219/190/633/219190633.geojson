@@ -2,13 +2,14 @@
   "id": 219190633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.322617,-46.415699,168.322617,-46.415699",
     "geom:latitude":-46.415699,
     "geom:longitude":168.322617,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Airport ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219190633,
-    "wof:lastmodified":1449073686,
+    "wof:lastmodified":1466311344,
     "wof:name":"Spitfire Shuttle",
     "wof:parent_id":85778905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.322617,-46.415699,168.322617,-46.415699],
-  "geometry": {"coordinates":[168.322617,-46.415699],"type":"Point"}
+  "bbox": [
+    168.322617,
+    -46.415699,
+    168.322617,
+    -46.415699
+],
+  "geometry": {"coordinates":[168.32261700000001,-46.415699],"type":"Point"}
 }

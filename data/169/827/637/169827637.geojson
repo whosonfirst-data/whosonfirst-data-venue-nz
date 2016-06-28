@@ -2,13 +2,14 @@
   "id": 169827637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.762268,-41.347801,174.762268,-41.347801",
     "geom:latitude":-41.347801,
     "geom:longitude":174.762268,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"432 The Esplanade Island Bay ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169827637,
-    "wof:lastmodified":1449033873,
+    "wof:lastmodified":1466311862,
     "wof:name":"Splash Gordon",
     "wof:parent_id":85778533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.762268,-41.347801,174.762268,-41.347801],
-  "geometry": {"coordinates":[174.762268,-41.347801],"type":"Point"}
+  "bbox": [
+    174.762268,
+    -41.347801,
+    174.762268,
+    -41.347801
+],
+  "geometry": {"coordinates":[174.76226800000001,-41.347801],"type":"Point"}
 }

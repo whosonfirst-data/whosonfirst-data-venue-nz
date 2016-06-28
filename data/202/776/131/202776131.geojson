@@ -2,13 +2,14 @@
   "id": 202776131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.149521,-37.715935,176.149521,-37.715935",
     "geom:latitude":-37.715935,
     "geom:longitude":176.149521,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"295 Fraser St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202776131,
-    "wof:lastmodified":1449060678,
+    "wof:lastmodified":1466312559,
     "wof:name":"Diamond Garage Doors Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [176.149521,-37.715935,176.149521,-37.715935],
-  "geometry": {"coordinates":[176.149521,-37.715935],"type":"Point"}
+  "bbox": [
+    176.149521,
+    -37.715935,
+    176.149521,
+    -37.715935
+],
+  "geometry": {"coordinates":[176.14952099999999,-37.715935],"type":"Point"}
 }

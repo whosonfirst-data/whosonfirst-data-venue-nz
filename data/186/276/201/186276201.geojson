@@ -2,13 +2,14 @@
   "id": 186276201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.784348,-36.849709,174.784348,-36.849709",
     "geom:latitude":-36.849709,
     "geom:longitude":174.784348,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Balfour Rd Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186276201,
-    "wof:lastmodified":1449050372,
+    "wof:lastmodified":1466312086,
     "wof:name":"Calibration And Measurement Centre",
     "wof:parent_id":85782027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.784348,-36.849709,174.784348,-36.849709],
-  "geometry": {"coordinates":[174.784348,-36.849709],"type":"Point"}
+  "bbox": [
+    174.784348,
+    -36.849709,
+    174.784348,
+    -36.849709
+],
+  "geometry": {"coordinates":[174.78434799999999,-36.849709],"type":"Point"}
 }

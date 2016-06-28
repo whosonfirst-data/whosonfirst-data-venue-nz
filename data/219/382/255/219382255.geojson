@@ -2,13 +2,14 @@
   "id": 219382255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.775192,-36.865086,174.775192,-36.865086",
     "geom:latitude":-36.865086,
     "geom:longitude":174.775192,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 3, 103 Carlton Gore Rd Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219382255,
-    "wof:lastmodified":1449071342,
+    "wof:lastmodified":1466311609,
     "wof:name":"BTI New Zealand",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broker"
     ]
 },
-  "bbox": [174.775192,-36.865086,174.775192,-36.865086],
+  "bbox": [
+    174.775192,
+    -36.865086,
+    174.775192,
+    -36.865086
+],
   "geometry": {"coordinates":[174.775192,-36.865086],"type":"Point"}
 }

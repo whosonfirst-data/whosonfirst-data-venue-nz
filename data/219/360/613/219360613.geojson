@@ -2,13 +2,14 @@
   "id": 219360613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.794235,-37.680019,177.794235,-37.680019",
     "geom:latitude":-37.680019,
     "geom:longitude":177.794235,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"S.H.35 Whanarua Bay Te ",
     "sg:city":"Kaha",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219360613,
-    "wof:lastmodified":1449073125,
+    "wof:lastmodified":1466311422,
     "wof:name":"Pacific Coast Macadamias",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [177.794235,-37.680019,177.794235,-37.680019],
-  "geometry": {"coordinates":[177.794235,-37.680019],"type":"Point"}
+  "bbox": [
+    177.794235,
+    -37.680019,
+    177.794235,
+    -37.680019
+],
+  "geometry": {"coordinates":[177.79423499999999,-37.680019],"type":"Point"}
 }

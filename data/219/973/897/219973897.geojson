@@ -2,13 +2,14 @@
   "id": 219973897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.157303,-38.329704,175.157303,-38.329704",
     "geom:latitude":-38.329704,
     "geom:longitude":175.157303,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Hospital Rd Te ",
     "sg:city":"Kuiti",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219973897,
-    "wof:lastmodified":1449072506,
+    "wof:lastmodified":1466313174,
     "wof:name":"Stocktech Waipa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "supply"
     ]
 },
-  "bbox": [175.157303,-38.329704,175.157303,-38.329704],
-  "geometry": {"coordinates":[175.157303,-38.329704],"type":"Point"}
+  "bbox": [
+    175.157303,
+    -38.329704,
+    175.157303,
+    -38.329704
+],
+  "geometry": {"coordinates":[175.15730300000001,-38.329704],"type":"Point"}
 }

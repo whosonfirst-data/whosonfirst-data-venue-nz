@@ -2,13 +2,14 @@
   "id": 186481263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.736282,-36.771458,174.736282,-36.771458",
     "geom:latitude":-36.771458,
     "geom:longitude":174.736282,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"63 A View Rd Glenfield ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186481263,
-    "wof:lastmodified":1449052672,
+    "wof:lastmodified":1466312697,
     "wof:name":"Rigg Electroplating Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.736282,-36.771458,174.736282,-36.771458],
-  "geometry": {"coordinates":[174.736282,-36.771458],"type":"Point"}
+  "bbox": [
+    174.736282,
+    -36.771458,
+    174.736282,
+    -36.771458
+],
+  "geometry": {"coordinates":[174.73628199999999,-36.771458],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169827191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.250031,-37.762115,175.250031,-37.762115",
     "geom:latitude":-37.762115,
     "geom:longitude":175.250031,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169827191,
-    "wof:lastmodified":1449033875,
+    "wof:lastmodified":1466311860,
     "wof:name":"Scuba Scene New Zealand",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.250031,-37.762115,175.250031,-37.762115],
-  "geometry": {"coordinates":[175.250031,-37.762115],"type":"Point"}
+  "bbox": [
+    175.250031,
+    -37.762115,
+    175.250031,
+    -37.762115
+],
+  "geometry": {"coordinates":[175.25003100000001,-37.762115],"type":"Point"}
 }

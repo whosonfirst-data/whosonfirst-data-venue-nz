@@ -2,13 +2,14 @@
   "id": 202616499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.481232,-45.867245,170.481232,-45.867245",
     "geom:latitude":-45.867245,
     "geom:longitude":170.481232,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Kaikorai Valley Rd ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202616499,
-    "wof:lastmodified":1449061962,
+    "wof:lastmodified":1466311648,
     "wof:name":"Hugh Madden Brick & Block Layer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.481232,-45.867245,170.481232,-45.867245],
-  "geometry": {"coordinates":[170.481232,-45.867245],"type":"Point"}
+  "bbox": [
+    170.481232,
+    -45.867245,
+    170.481232,
+    -45.867245
+],
+  "geometry": {"coordinates":[170.48123200000001,-45.867245],"type":"Point"}
 }

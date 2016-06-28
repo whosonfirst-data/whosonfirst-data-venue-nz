@@ -2,13 +2,14 @@
   "id": 186003167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.795181,-41.327908,174.795181,-41.327908",
     "geom:latitude":-41.327908,
     "geom:longitude":174.795181,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"196 Onepu Rd Lyall Bay ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186003167,
-    "wof:lastmodified":1449052819,
+    "wof:lastmodified":1466310580,
     "wof:name":"McCombe R J JP",
     "wof:parent_id":85778423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wedding"
     ]
 },
-  "bbox": [174.795181,-41.327908,174.795181,-41.327908],
-  "geometry": {"coordinates":[174.795181,-41.327908],"type":"Point"}
+  "bbox": [
+    174.795181,
+    -41.327908,
+    174.795181,
+    -41.327908
+],
+  "geometry": {"coordinates":[174.79518100000001,-41.327908],"type":"Point"}
 }

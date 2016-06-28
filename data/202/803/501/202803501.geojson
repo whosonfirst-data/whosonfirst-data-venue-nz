@@ -2,13 +2,14 @@
   "id": 202803501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.911377,-41.205437,174.911377,-41.205437",
     "geom:latitude":-41.205437,
     "geom:longitude":174.911377,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"468 High St Lower Hutt ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202803501,
-    "wof:lastmodified":1449062687,
+    "wof:lastmodified":1466312449,
     "wof:name":"Gas Centre The",
     "wof:parent_id":85781005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fittings"
     ]
 },
-  "bbox": [174.911377,-41.205437,174.911377,-41.205437],
-  "geometry": {"coordinates":[174.911377,-41.205437],"type":"Point"}
+  "bbox": [
+    174.911377,
+    -41.205437,
+    174.911377,
+    -41.205437
+],
+  "geometry": {"coordinates":[174.91137699999999,-41.205437],"type":"Point"}
 }

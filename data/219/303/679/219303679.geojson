@@ -2,13 +2,14 @@
   "id": 219303679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.654129,-36.871677,174.654129,-36.871677",
     "geom:latitude":-36.871677,
     "geom:longitude":174.654129,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Ayrton St Te Atatu South ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219303679,
-    "wof:lastmodified":1449070411,
+    "wof:lastmodified":1466310961,
     "wof:name":"Ayr House",
     "wof:parent_id":85778669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.654129,-36.871677,174.654129,-36.871677],
-  "geometry": {"coordinates":[174.654129,-36.871677],"type":"Point"}
+  "bbox": [
+    174.654129,
+    -36.871677,
+    174.654129,
+    -36.871677
+],
+  "geometry": {"coordinates":[174.65412900000001,-36.871677],"type":"Point"}
 }

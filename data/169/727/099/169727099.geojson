@@ -2,13 +2,14 @@
   "id": 169727099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.659668,-40.952305,175.659668,-40.952305",
     "geom:latitude":-40.952305,
     "geom:longitude":175.659668,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Dixon St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169727099,
-    "wof:lastmodified":1449033190,
+    "wof:lastmodified":1466311121,
     "wof:name":"Bin Inn Bulk Food Market",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.659668,-40.952305,175.659668,-40.952305],
-  "geometry": {"coordinates":[175.659668,-40.952305],"type":"Point"}
+  "bbox": [
+    175.659668,
+    -40.952305,
+    175.659668,
+    -40.952305
+],
+  "geometry": {"coordinates":[175.65966800000001,-40.952305],"type":"Point"}
 }

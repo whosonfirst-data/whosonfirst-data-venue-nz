@@ -2,13 +2,14 @@
   "id": 186359199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.833694,-36.940063,174.833694,-36.940063",
     "geom:latitude":-36.940063,
     "geom:longitude":174.833694,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Saleyards Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186359199,
-    "wof:lastmodified":1449050199,
+    "wof:lastmodified":1466312272,
     "wof:name":"Packaging House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.833694,-36.940063,174.833694,-36.940063],
-  "geometry": {"coordinates":[174.833694,-36.940063],"type":"Point"}
+  "bbox": [
+    174.833694,
+    -36.940063,
+    174.833694,
+    -36.940063
+],
+  "geometry": {"coordinates":[174.83369400000001,-36.940063],"type":"Point"}
 }

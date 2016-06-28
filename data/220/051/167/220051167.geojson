@@ -2,13 +2,14 @@
   "id": 220051167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.775085,-41.284248,174.775085,-41.284248",
     "geom:latitude":-41.284248,
     "geom:longitude":174.775085,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1 Cable Car La Lambton Quay ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220051167,
-    "wof:lastmodified":1449074533,
+    "wof:lastmodified":1466311598,
     "wof:name":"Jura Center",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [174.775085,-41.284248,174.775085,-41.284248],
-  "geometry": {"coordinates":[174.775085,-41.284248],"type":"Point"}
+  "bbox": [
+    174.775085,
+    -41.284248,
+    174.775085,
+    -41.284248
+],
+  "geometry": {"coordinates":[174.77508499999999,-41.284248],"type":"Point"}
 }

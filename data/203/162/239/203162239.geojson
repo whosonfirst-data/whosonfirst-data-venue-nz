@@ -2,13 +2,14 @@
   "id": 203162239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.627151,-43.541367,172.627151,-43.541367",
     "geom:latitude":-43.541367,
     "geom:longitude":172.627151,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"180 Hazeldean Rd Addington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203162239,
-    "wof:lastmodified":1449026574,
+    "wof:lastmodified":1466311005,
     "wof:name":"Christchurch Glass & Glazing Services",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fitting"
     ]
 },
-  "bbox": [172.627151,-43.541367,172.627151,-43.541367],
+  "bbox": [
+    172.627151,
+    -43.541367,
+    172.627151,
+    -43.541367
+],
   "geometry": {"coordinates":[172.627151,-43.541367],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169746515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.327087,-37.787544,176.327087,-37.787544",
     "geom:latitude":-37.787544,
     "geom:longitude":176.327087,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Oxford St Te ",
     "sg:city":"Puke",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169746515,
-    "wof:lastmodified":1449032653,
+    "wof:lastmodified":1466311245,
     "wof:name":"Te Puke New World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.327087,-37.787544,176.327087,-37.787544],
-  "geometry": {"coordinates":[176.327087,-37.787544],"type":"Point"}
+  "bbox": [
+    176.327087,
+    -37.787544,
+    176.327087,
+    -37.787544
+],
+  "geometry": {"coordinates":[176.32708700000001,-37.787544],"type":"Point"}
 }

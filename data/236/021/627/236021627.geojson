@@ -2,13 +2,14 @@
   "id": 236021627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.152618,-37.670975,176.152618,-37.670975",
     "geom:latitude":-37.670975,
     "geom:longitude":176.152618,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"74 Bureta Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236021627,
-    "wof:lastmodified":1449003786,
+    "wof:lastmodified":1466311004,
     "wof:name":"Rusty Hook Takeaways",
     "wof:parent_id":85781315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "takeaway"
     ]
 },
-  "bbox": [176.152618,-37.670975,176.152618,-37.670975],
-  "geometry": {"coordinates":[176.152618,-37.670975],"type":"Point"}
+  "bbox": [
+    176.152618,
+    -37.670975,
+    176.152618,
+    -37.670975
+],
+  "geometry": {"coordinates":[176.15261799999999,-37.670975],"type":"Point"}
 }

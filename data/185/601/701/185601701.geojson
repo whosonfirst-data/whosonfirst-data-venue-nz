@@ -2,13 +2,14 @@
   "id": 185601701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.574631,39.425686,-84.574631,39.425686",
     "geom:latitude":39.425686,
     "geom:longitude":-84.574631,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Kelly Pl ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185601701,
-    "wof:lastmodified":1449007334,
+    "wof:lastmodified":1466310586,
     "wof:name":"Briarhust Studio Of Fine Arts",
     "wof:parent_id":85817551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "leisure"
     ]
 },
-  "bbox": [-84.574631,39.425686,-84.574631,39.425686],
+  "bbox": [
+    -84.574631,
+    39.425686,
+    -84.574631,
+    39.425686
+],
   "geometry": {"coordinates":[-84.574631,39.425686],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219588685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.683334,-37.736111,177.683334,-37.736111",
     "geom:latitude":-37.736111,
     "geom:longitude":177.683334,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 35 Te Kaha RD3 Opotiki Te ",
     "sg:city":"Kaha",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219588685,
-    "wof:lastmodified":1449073239,
+    "wof:lastmodified":1466312477,
     "wof:name":"Te Kaha Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "equipment"
     ]
 },
-  "bbox": [177.683334,-37.736111,177.683334,-37.736111],
+  "bbox": [
+    177.683334,
+    -37.736111,
+    177.683334,
+    -37.736111
+],
   "geometry": {"coordinates":[177.683334,-37.736111],"type":"Point"}
 }

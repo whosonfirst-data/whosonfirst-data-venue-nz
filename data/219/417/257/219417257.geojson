@@ -2,13 +2,14 @@
   "id": 219417257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.555862,-40.224586,175.555862,-40.224586",
     "geom:latitude":-40.224586,
     "geom:longitude":175.555862,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Harford St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219417257,
-    "wof:lastmodified":1449071834,
+    "wof:lastmodified":1466311947,
     "wof:name":"Teed Up Tours Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "tourism"
     ]
 },
-  "bbox": [175.555862,-40.224586,175.555862,-40.224586],
-  "geometry": {"coordinates":[175.555862,-40.224586],"type":"Point"}
+  "bbox": [
+    175.555862,
+    -40.224586,
+    175.555862,
+    -40.224586
+],
+  "geometry": {"coordinates":[175.55586199999999,-40.224586],"type":"Point"}
 }

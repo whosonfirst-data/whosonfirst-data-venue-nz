@@ -2,13 +2,14 @@
   "id": 202508683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.77478,-36.792099,174.77478,-36.792099",
     "geom:latitude":-36.792099,
     "geom:longitude":174.77478,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"398 Lake Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":202508683,
-    "wof:lastmodified":1449061528,
+    "wof:lastmodified":1466312009,
     "wof:name":"Julian A Lofts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.77478,-36.792099,174.77478,-36.792099],
-  "geometry": {"coordinates":[174.77478,-36.792099],"type":"Point"}
+  "bbox": [
+    174.77478,
+    -36.792099,
+    174.77478,
+    -36.792099
+],
+  "geometry": {"coordinates":[174.77477999999999,-36.792099],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169654535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.32016,-35.708778,174.32016,-35.708778",
     "geom:latitude":-35.708778,
     "geom:longitude":174.32016,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Kamo Rd & Kensington Ave Kensington ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169654535,
-    "wof:lastmodified":1449033791,
+    "wof:lastmodified":1466310655,
     "wof:name":"Crazy Daizy",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.32016,-35.708778,174.32016,-35.708778],
-  "geometry": {"coordinates":[174.32016,-35.708778],"type":"Point"}
+  "bbox": [
+    174.32016,
+    -35.708778,
+    174.32016,
+    -35.708778
+],
+  "geometry": {"coordinates":[174.32015999999999,-35.708778],"type":"Point"}
 }

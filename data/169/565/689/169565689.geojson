@@ -2,13 +2,14 @@
   "id": 169565689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.490494,-45.86713,170.490494,-45.86713",
     "geom:latitude":-45.86713,
     "geom:longitude":170.490494,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Highgate Roslyn ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169565689,
-    "wof:lastmodified":1449035666,
+    "wof:lastmodified":1466311062,
     "wof:name":"The Flower Shop Roslyn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.490494,-45.86713,170.490494,-45.86713],
-  "geometry": {"coordinates":[170.490494,-45.86713],"type":"Point"}
+  "bbox": [
+    170.490494,
+    -45.86713,
+    170.490494,
+    -45.86713
+],
+  "geometry": {"coordinates":[170.49049400000001,-45.86713],"type":"Point"}
 }

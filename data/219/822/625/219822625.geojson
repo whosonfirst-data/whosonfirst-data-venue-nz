@@ -2,13 +2,14 @@
   "id": 219822625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.277924,-41.264954,173.277924,-41.264954",
     "geom:latitude":-41.264954,
     "geom:longitude":173.277924,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Vickerman St ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219822625,
-    "wof:lastmodified":1449073810,
+    "wof:lastmodified":1466313049,
     "wof:name":"AGR Holdings Ltd",
     "wof:parent_id":85773133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.277924,-41.264954,173.277924,-41.264954],
-  "geometry": {"coordinates":[173.277924,-41.264954],"type":"Point"}
+  "bbox": [
+    173.277924,
+    -41.264954,
+    173.277924,
+    -41.264954
+],
+  "geometry": {"coordinates":[173.27792400000001,-41.264954],"type":"Point"}
 }

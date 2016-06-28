@@ -2,13 +2,14 @@
   "id": 202394055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.51088,-45.868885,170.51088,-45.868885",
     "geom:latitude":-45.868885,
     "geom:longitude":170.51088,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"97 Frederick St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202394055,
-    "wof:lastmodified":1449060602,
+    "wof:lastmodified":1466310950,
     "wof:name":"Diabetes Otago Inc",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [170.51088,-45.868885,170.51088,-45.868885],
-  "geometry": {"coordinates":[170.51088,-45.868885],"type":"Point"}
+  "bbox": [
+    170.51088,
+    -45.868885,
+    170.51088,
+    -45.868885
+],
+  "geometry": {"coordinates":[170.51087999999999,-45.868885],"type":"Point"}
 }

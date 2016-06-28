@@ -2,13 +2,14 @@
   "id": 202809161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.238663,-38.147594,176.238663,-38.147594",
     "geom:latitude":-38.147594,
     "geom:longitude":176.238663,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Old Taupo Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202809161,
-    "wof:lastmodified":1449062211,
+    "wof:lastmodified":1466312647,
     "wof:name":"Bed Rumours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "bed"
     ]
 },
-  "bbox": [176.238663,-38.147594,176.238663,-38.147594],
+  "bbox": [
+    176.238663,
+    -38.147594,
+    176.238663,
+    -38.147594
+],
   "geometry": {"coordinates":[176.238663,-38.147594],"type":"Point"}
 }

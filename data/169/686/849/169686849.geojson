@@ -2,13 +2,14 @@
   "id": 169686849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.559784,-36.82008,174.559784,-36.82008",
     "geom:latitude":-36.82008,
     "geom:longitude":174.559784,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Amriens Rd Taupaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169686849,
-    "wof:lastmodified":1449035155,
+    "wof:lastmodified":1466310869,
     "wof:name":"OK Corral Saddlery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.559784,-36.82008,174.559784,-36.82008],
-  "geometry": {"coordinates":[174.559784,-36.82008],"type":"Point"}
+  "bbox": [
+    174.559784,
+    -36.82008,
+    174.559784,
+    -36.82008
+],
+  "geometry": {"coordinates":[174.55978400000001,-36.82008],"type":"Point"}
 }

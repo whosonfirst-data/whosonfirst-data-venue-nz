@@ -2,13 +2,14 @@
   "id": 186049439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.380844,-46.414223,168.380844,-46.414223",
     "geom:latitude":-46.414223,
     "geom:longitude":168.380844,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Otepuni Ave Newfield ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186049439,
-    "wof:lastmodified":1449051706,
+    "wof:lastmodified":1466311486,
     "wof:name":"Southland Fibre Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "compounds"
     ]
 },
-  "bbox": [168.380844,-46.414223,168.380844,-46.414223],
+  "bbox": [
+    168.380844,
+    -46.414223,
+    168.380844,
+    -46.414223
+],
   "geometry": {"coordinates":[168.380844,-46.414223],"type":"Point"}
 }

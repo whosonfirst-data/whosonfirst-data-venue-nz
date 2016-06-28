@@ -2,13 +2,14 @@
   "id": 202988507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.988953,-38.654839,177.988953,-38.654839",
     "geom:latitude":-38.654839,
     "geom:longitude":177.988953,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"79 A Chalmers Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202988507,
-    "wof:lastmodified":1449060985,
+    "wof:lastmodified":1466312883,
     "wof:name":"Bailey's Lawn & Section Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [177.988953,-38.654839,177.988953,-38.654839],
-  "geometry": {"coordinates":[177.988953,-38.654839],"type":"Point"}
+  "bbox": [
+    177.988953,
+    -38.654839,
+    177.988953,
+    -38.654839
+],
+  "geometry": {"coordinates":[177.98895300000001,-38.654839],"type":"Point"}
 }

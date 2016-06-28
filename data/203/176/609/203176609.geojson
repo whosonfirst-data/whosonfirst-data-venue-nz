@@ -2,13 +2,14 @@
   "id": 203176609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.748184,-43.906261,171.748184,-43.906261",
     "geom:latitude":-43.906261,
     "geom:longitude":171.748184,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Tancred St ",
     "sg:city":"Ashburton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203176609,
-    "wof:lastmodified":1449026218,
+    "wof:lastmodified":1466311149,
     "wof:name":"Apparelmaster Ashburton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fabric"
     ]
 },
-  "bbox": [171.748184,-43.906261,171.748184,-43.906261],
-  "geometry": {"coordinates":[171.748184,-43.906261],"type":"Point"}
+  "bbox": [
+    171.748184,
+    -43.906261,
+    171.748184,
+    -43.906261
+],
+  "geometry": {"coordinates":[171.74818400000001,-43.906261],"type":"Point"}
 }

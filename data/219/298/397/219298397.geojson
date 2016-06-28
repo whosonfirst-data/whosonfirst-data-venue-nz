@@ -2,13 +2,14 @@
   "id": 219298397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.459961,-41.220081,175.459961,-41.220081",
     "geom:latitude":-41.220081,
     "geom:longitude":175.459961,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Roberts & Grey Sts ",
     "sg:city":"Martinborough",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219298397,
-    "wof:lastmodified":1449071360,
+    "wof:lastmodified":1466310923,
     "wof:name":"The Old Manse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.459961,-41.220081,175.459961,-41.220081],
-  "geometry": {"coordinates":[175.459961,-41.220081],"type":"Point"}
+  "bbox": [
+    175.459961,
+    -41.220081,
+    175.459961,
+    -41.220081
+],
+  "geometry": {"coordinates":[175.45996099999999,-41.220081],"type":"Point"}
 }

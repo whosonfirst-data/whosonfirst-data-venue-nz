@@ -2,13 +2,14 @@
   "id": 202385081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.665939,-39.474823,175.665939,-39.474823",
     "geom:latitude":-39.474823,
     "geom:longitude":175.665939,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Main Rd ",
     "sg:city":"Waiouru",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202385081,
-    "wof:lastmodified":1449061619,
+    "wof:lastmodified":1466310649,
     "wof:name":"Marie's Tarot Readings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "professional"
     ]
 },
-  "bbox": [175.665939,-39.474823,175.665939,-39.474823],
-  "geometry": {"coordinates":[175.665939,-39.474823],"type":"Point"}
+  "bbox": [
+    175.665939,
+    -39.474823,
+    175.665939,
+    -39.474823
+],
+  "geometry": {"coordinates":[175.66593900000001,-39.474823],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185853633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.547195,-40.224236,175.547195,-40.224236",
     "geom:latitude":-40.224236,
     "geom:longitude":175.547195,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1959 ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":185853633,
-    "wof:lastmodified":1449007263,
+    "wof:lastmodified":1466311595,
     "wof:name":"Lester Motorsport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "leisure"
     ]
 },
-  "bbox": [175.547195,-40.224236,175.547195,-40.224236],
-  "geometry": {"coordinates":[175.547195,-40.224236],"type":"Point"}
+  "bbox": [
+    175.547195,
+    -40.224236,
+    175.547195,
+    -40.224236
+],
+  "geometry": {"coordinates":[175.54719499999999,-40.224236],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 235943751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.767441,-43.892082,171.767441,-43.892082",
     "geom:latitude":-43.892082,
     "geom:longitude":171.767441,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Fairfield Rd Fairton ",
     "sg:city":"Ashburton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235943751,
-    "wof:lastmodified":1449008341,
+    "wof:lastmodified":1466310829,
     "wof:name":"Talley's Frozen Foods Ltd",
     "wof:parent_id":85781501,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "processor"
     ]
 },
-  "bbox": [171.767441,-43.892082,171.767441,-43.892082],
-  "geometry": {"coordinates":[171.767441,-43.892082],"type":"Point"}
+  "bbox": [
+    171.767441,
+    -43.892082,
+    171.767441,
+    -43.892082
+],
+  "geometry": {"coordinates":[171.76744099999999,-43.892082],"type":"Point"}
 }

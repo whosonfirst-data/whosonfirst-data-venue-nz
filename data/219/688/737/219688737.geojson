@@ -2,13 +2,14 @@
   "id": 219688737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.61795,-43.54319,172.61795,-43.54319",
     "geom:latitude":-43.54319,
     "geom:longitude":172.61795,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Hands Rd Addington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219688737,
-    "wof:lastmodified":1449071702,
+    "wof:lastmodified":1466312802,
     "wof:name":"Interbus",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "automotive"
     ]
 },
-  "bbox": [172.61795,-43.54319,172.61795,-43.54319],
-  "geometry": {"coordinates":[172.61795,-43.54319],"type":"Point"}
+  "bbox": [
+    172.61795,
+    -43.54319,
+    172.61795,
+    -43.54319
+],
+  "geometry": {"coordinates":[172.61795000000001,-43.54319],"type":"Point"}
 }

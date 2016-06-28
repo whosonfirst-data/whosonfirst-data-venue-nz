@@ -2,13 +2,14 @@
   "id": 202500517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.98848,-37.958614,176.98848,-37.958614",
     "geom:latitude":-37.958614,
     "geom:longitude":176.98848,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Domain Rd ",
     "sg:city":"Whakatane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202500517,
-    "wof:lastmodified":1449060752,
+    "wof:lastmodified":1466310661,
     "wof:name":"Chiropractic 2000 Whakatane",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.98848,-37.958614,176.98848,-37.958614],
-  "geometry": {"coordinates":[176.98848,-37.958614],"type":"Point"}
+  "bbox": [
+    176.98848,
+    -37.958614,
+    176.98848,
+    -37.958614
+],
+  "geometry": {"coordinates":[176.98848000000001,-37.958614],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186464087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.147774,41.208519,-73.147774,41.208519",
     "geom:latitude":41.208519,
     "geom:longitude":-73.147774,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 139 ",
     "sg:city":"Stratford",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186464087,
-    "wof:lastmodified":1449051106,
+    "wof:lastmodified":1466312648,
     "wof:name":"Interdrill",
     "wof:parent_id":85876481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.147774,41.208519,-73.147774,41.208519],
+  "bbox": [
+    -73.147774,
+    41.208519,
+    -73.147774,
+    41.208519
+],
   "geometry": {"coordinates":[-73.147774,41.208519],"type":"Point"}
 }

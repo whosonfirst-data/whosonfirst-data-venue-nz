@@ -2,13 +2,14 @@
   "id": 219789731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.119995,-37.669949,176.119995,-37.669949",
     "geom:latitude":-37.669949,
     "geom:longitude":176.119995,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Kotuku Pl ",
     "sg:city":"Matua",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219789731,
-    "wof:lastmodified":1449071991,
+    "wof:lastmodified":1466312998,
     "wof:name":"Mobile Auto Mechanic Royce Whitaker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mechanic"
     ]
 },
-  "bbox": [176.119995,-37.669949,176.119995,-37.669949],
-  "geometry": {"coordinates":[176.119995,-37.669949],"type":"Point"}
+  "bbox": [
+    176.119995,
+    -37.669949,
+    176.119995,
+    -37.669949
+],
+  "geometry": {"coordinates":[176.11999499999999,-37.669949],"type":"Point"}
 }

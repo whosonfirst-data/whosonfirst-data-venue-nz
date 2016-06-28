@@ -2,13 +2,14 @@
   "id": 219892037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.563507,-40.225517,175.563507,-40.225517",
     "geom:latitude":-40.225517,
     "geom:longitude":175.563507,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Bowen St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219892037,
-    "wof:lastmodified":1449070912,
+    "wof:lastmodified":1466313157,
     "wof:name":"Darragh's Mitre 10 Hardware Specialists",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.563507,-40.225517,175.563507,-40.225517],
-  "geometry": {"coordinates":[175.563507,-40.225517],"type":"Point"}
+  "bbox": [
+    175.563507,
+    -40.225517,
+    175.563507,
+    -40.225517
+],
+  "geometry": {"coordinates":[175.56350699999999,-40.225517],"type":"Point"}
 }

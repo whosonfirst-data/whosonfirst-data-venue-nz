@@ -2,13 +2,14 @@
   "id": 186374959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.699203,-36.905605,174.699203,-36.905605",
     "geom:latitude":-36.905605,
     "geom:longitude":174.699203,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2/103 Lansford Cre Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186374959,
-    "wof:lastmodified":1449051538,
+    "wof:lastmodified":1466312430,
     "wof:name":"Industrial Automation Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.699203,-36.905605,174.699203,-36.905605],
-  "geometry": {"coordinates":[174.699203,-36.905605],"type":"Point"}
+  "bbox": [
+    174.699203,
+    -36.905605,
+    174.699203,
+    -36.905605
+],
+  "geometry": {"coordinates":[174.69920300000001,-36.905605],"type":"Point"}
 }

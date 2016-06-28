@@ -2,13 +2,14 @@
   "id": 202858657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.074005,-39.058292,174.074005,-39.058292",
     "geom:latitude":-39.058292,
     "geom:longitude":174.074005,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 4006 New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202858657,
-    "wof:lastmodified":1449060365,
+    "wof:lastmodified":1466312704,
     "wof:name":"Pacific Rim Traders",
     "wof:parent_id":85782471,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "furnishing"
     ]
 },
-  "bbox": [174.074005,-39.058292,174.074005,-39.058292],
+  "bbox": [
+    174.074005,
+    -39.058292,
+    174.074005,
+    -39.058292
+],
   "geometry": {"coordinates":[174.074005,-39.058292],"type":"Point"}
 }

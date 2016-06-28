@@ -2,13 +2,14 @@
   "id": 202985945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.359787,-35.773819,174.359787,-35.773819",
     "geom:latitude":-35.773819,
     "geom:longitude":174.359787,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Weir Cre ",
     "sg:city":"Onerahi",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202985945,
-    "wof:lastmodified":1449061380,
+    "wof:lastmodified":1466312957,
     "wof:name":"Whangarei Landscapers",
     "wof:parent_id":85773083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.359787,-35.773819,174.359787,-35.773819],
-  "geometry": {"coordinates":[174.359787,-35.773819],"type":"Point"}
+  "bbox": [
+    174.359787,
+    -35.773819,
+    174.359787,
+    -35.773819
+],
+  "geometry": {"coordinates":[174.35978700000001,-35.773819],"type":"Point"}
 }

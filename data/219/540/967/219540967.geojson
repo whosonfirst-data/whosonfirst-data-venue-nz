@@ -2,13 +2,14 @@
   "id": 219540967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.247269,-37.759155,175.247269,-37.759155",
     "geom:latitude":-37.759155,
     "geom:longitude":175.247269,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"549 B Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219540967,
-    "wof:lastmodified":1449071781,
+    "wof:lastmodified":1466312438,
     "wof:name":"Mobile Alarm Specialist",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.247269,-37.759155,175.247269,-37.759155],
-  "geometry": {"coordinates":[175.247269,-37.759155],"type":"Point"}
+  "bbox": [
+    175.247269,
+    -37.759155,
+    175.247269,
+    -37.759155
+],
+  "geometry": {"coordinates":[175.24726899999999,-37.759155],"type":"Point"}
 }

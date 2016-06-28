@@ -2,13 +2,14 @@
   "id": 202494947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.556061,-43.511398,172.556061,-43.511398",
     "geom:latitude":-43.511398,
     "geom:longitude":172.556061,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Withells Rd Avonhead ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202494947,
-    "wof:lastmodified":1449062372,
+    "wof:lastmodified":1466310614,
     "wof:name":"Avonhead Physiotherapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "beauty"
     ]
 },
-  "bbox": [172.556061,-43.511398,172.556061,-43.511398],
+  "bbox": [
+    172.556061,
+    -43.511398,
+    172.556061,
+    -43.511398
+],
   "geometry": {"coordinates":[172.556061,-43.511398],"type":"Point"}
 }

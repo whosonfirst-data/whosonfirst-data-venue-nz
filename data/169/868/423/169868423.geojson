@@ -2,13 +2,14 @@
   "id": 169868423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.980606,-40.919266,174.980606,-40.919266",
     "geom:latitude":-40.919266,
     "geom:longitude":174.980606,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"338 Rosetta Rd Raumati Beach ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169868423,
-    "wof:lastmodified":1449032836,
+    "wof:lastmodified":1466312052,
     "wof:name":"Gallery Rosetta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.980606,-40.919266,174.980606,-40.919266],
-  "geometry": {"coordinates":[174.980606,-40.919266],"type":"Point"}
+  "bbox": [
+    174.980606,
+    -40.919266,
+    174.980606,
+    -40.919266
+],
+  "geometry": {"coordinates":[174.98060599999999,-40.919266],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202836261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.858139,-36.9669,174.858139,-36.9669",
     "geom:latitude":-36.9669,
     "geom:longitude":174.858139,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Great South Rd Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202836261,
-    "wof:lastmodified":1449061757,
+    "wof:lastmodified":1466312642,
     "wof:name":"Curtain Supermarket Ltd",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.858139,-36.9669,174.858139,-36.9669],
-  "geometry": {"coordinates":[174.858139,-36.9669],"type":"Point"}
+  "bbox": [
+    174.858139,
+    -36.9669,
+    174.858139,
+    -36.9669
+],
+  "geometry": {"coordinates":[174.85813899999999,-36.9669],"type":"Point"}
 }

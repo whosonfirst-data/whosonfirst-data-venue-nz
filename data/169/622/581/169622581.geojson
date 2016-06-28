@@ -2,13 +2,14 @@
   "id": 169622581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.578903,-40.40593,175.578903,-40.40593",
     "geom:latitude":-40.40593,
     "geom:longitude":175.578903,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Bells/Woodlands Rd Linton Camp Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169622581,
-    "wof:lastmodified":1449035364,
+    "wof:lastmodified":1466311896,
     "wof:name":"Community Library Linton Camp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.578903,-40.40593,175.578903,-40.40593],
+  "bbox": [
+    175.578903,
+    -40.40593,
+    175.578903,
+    -40.40593
+],
   "geometry": {"coordinates":[175.578903,-40.40593],"type":"Point"}
 }

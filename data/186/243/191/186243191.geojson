@@ -2,13 +2,14 @@
   "id": 186243191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.367142,-37.825352,175.367142,-37.825352",
     "geom:latitude":-37.825352,
     "geom:longitude":175.367142,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Koppens Rd ",
     "sg:city":"Tamahere",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186243191,
-    "wof:lastmodified":1449051262,
+    "wof:lastmodified":1466311786,
     "wof:name":"Lucas Mills (NZ)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "sawmill"
     ]
 },
-  "bbox": [175.367142,-37.825352,175.367142,-37.825352],
+  "bbox": [
+    175.367142,
+    -37.825352,
+    175.367142,
+    -37.825352
+],
   "geometry": {"coordinates":[175.367142,-37.825352],"type":"Point"}
 }

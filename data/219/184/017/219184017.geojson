@@ -2,13 +2,14 @@
   "id": 219184017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.609543,-40.336182,175.609543,-40.336182",
     "geom:latitude":-40.336182,
     "geom:longitude":175.609543,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Leeds St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219184017,
-    "wof:lastmodified":1449070984,
+    "wof:lastmodified":1466312031,
     "wof:name":"AA VIP Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.609543,-40.336182,175.609543,-40.336182],
+  "bbox": [
+    175.609543,
+    -40.336182,
+    175.609543,
+    -40.336182
+],
   "geometry": {"coordinates":[175.609543,-40.336182],"type":"Point"}
 }

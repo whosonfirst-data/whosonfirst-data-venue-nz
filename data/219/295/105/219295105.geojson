@@ -2,13 +2,14 @@
   "id": 219295105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.587387,-40.367115,175.587387,-40.367115",
     "geom:latitude":-40.367115,
     "geom:longitude":175.587387,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"606 Pioneer Hwy Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219295105,
-    "wof:lastmodified":1449071821,
+    "wof:lastmodified":1466310898,
     "wof:name":"Pumpernickel Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.587387,-40.367115,175.587387,-40.367115],
-  "geometry": {"coordinates":[175.587387,-40.367115],"type":"Point"}
+  "bbox": [
+    175.587387,
+    -40.367115,
+    175.587387,
+    -40.367115
+],
+  "geometry": {"coordinates":[175.58738700000001,-40.367115],"type":"Point"}
 }

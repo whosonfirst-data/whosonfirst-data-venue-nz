@@ -2,13 +2,14 @@
   "id": 219435159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.5513,-39.994656,176.5513,-39.994656",
     "geom:latitude":-39.994656,
     "geom:longitude":176.5513,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Railway Esp ",
     "sg:city":"Waipukurau",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219435159,
-    "wof:lastmodified":1449073593,
+    "wof:lastmodified":1466312241,
     "wof:name":"Waipukurau Information Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "tourism"
     ]
 },
-  "bbox": [176.5513,-39.994656,176.5513,-39.994656],
+  "bbox": [
+    176.5513,
+    -39.994656,
+    176.5513,
+    -39.994656
+],
   "geometry": {"coordinates":[176.5513,-39.994656],"type":"Point"}
 }

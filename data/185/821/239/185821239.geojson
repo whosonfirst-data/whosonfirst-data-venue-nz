@@ -2,13 +2,14 @@
   "id": 185821239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.763092,-36.853779,174.763092,-36.853779",
     "geom:latitude":-36.853779,
     "geom:longitude":174.763092,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"325 Queen St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185821239,
-    "wof:lastmodified":1449007487,
+    "wof:lastmodified":1466311372,
     "wof:name":"Town Hall Cameras",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hobbies"
     ]
 },
-  "bbox": [174.763092,-36.853779,174.763092,-36.853779],
+  "bbox": [
+    174.763092,
+    -36.853779,
+    174.763092,
+    -36.853779
+],
   "geometry": {"coordinates":[174.763092,-36.853779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185725245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.35984,40.589375,-98.35984,40.589375",
     "geom:latitude":40.589375,
     "geom:longitude":-98.35984,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"King St ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185725245,
-    "wof:lastmodified":1449007008,
+    "wof:lastmodified":1466310738,
     "wof:name":"Jupiters Nite Spot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "entertainment"
     ]
 },
-  "bbox": [-98.35984,40.589375,-98.35984,40.589375],
-  "geometry": {"coordinates":[-98.35984,40.589375],"type":"Point"}
+  "bbox": [
+    -98.35984,
+    40.589375,
+    -98.35984,
+    40.589375
+],
+  "geometry": {"coordinates":[-98.35984000000001,40.589375],"type":"Point"}
 }

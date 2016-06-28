@@ -2,13 +2,14 @@
   "id": 169748371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.86528,-37.04282,174.86528,-37.04282",
     "geom:latitude":-37.04282,
     "geom:longitude":174.86528,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Waimahia Ave Weymouth ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169748371,
-    "wof:lastmodified":1449035146,
+    "wof:lastmodified":1466311254,
     "wof:name":"Weymouth Superette",
     "wof:parent_id":85773331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.86528,-37.04282,174.86528,-37.04282],
-  "geometry": {"coordinates":[174.86528,-37.04282],"type":"Point"}
+  "bbox": [
+    174.86528,
+    -37.04282,
+    174.86528,
+    -37.04282
+],
+  "geometry": {"coordinates":[174.86528000000001,-37.04282],"type":"Point"}
 }

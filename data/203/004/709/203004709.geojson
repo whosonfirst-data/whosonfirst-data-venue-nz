@@ -2,13 +2,14 @@
   "id": 203004709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.307098,-35.731899,174.307098,-35.731899",
     "geom:latitude":-35.731899,
     "geom:longitude":174.307098,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Cheviot St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203004709,
-    "wof:lastmodified":1449025605,
+    "wof:lastmodified":1466310573,
     "wof:name":"The Branch Manager",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.307098,-35.731899,174.307098,-35.731899],
+  "bbox": [
+    174.307098,
+    -35.731899,
+    174.307098,
+    -35.731899
+],
   "geometry": {"coordinates":[174.307098,-35.731899],"type":"Point"}
 }

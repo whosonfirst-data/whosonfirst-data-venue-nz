@@ -2,13 +2,14 @@
   "id": 219485641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.612793,-40.961014,175.612793,-40.961014",
     "geom:latitude":-40.961014,
     "geom:longitude":175.612793,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"302-318 Ngaumutawa Rd ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219485641,
-    "wof:lastmodified":1449072546,
+    "wof:lastmodified":1466312155,
     "wof:name":"Solway Primary School",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.612793,-40.961014,175.612793,-40.961014],
-  "geometry": {"coordinates":[175.612793,-40.961014],"type":"Point"}
+  "bbox": [
+    175.612793,
+    -40.961014,
+    175.612793,
+    -40.961014
+],
+  "geometry": {"coordinates":[175.61279300000001,-40.961014],"type":"Point"}
 }

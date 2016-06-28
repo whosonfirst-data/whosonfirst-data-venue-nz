@@ -2,13 +2,14 @@
   "id": 219792695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.616608,-40.336304,175.616608,-40.336304",
     "geom:latitude":-40.336304,
     "geom:longitude":175.616608,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Moa St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219792695,
-    "wof:lastmodified":1449071153,
+    "wof:lastmodified":1466313003,
     "wof:name":"MCS Customised Coaches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.616608,-40.336304,175.616608,-40.336304],
-  "geometry": {"coordinates":[175.616608,-40.336304],"type":"Point"}
+  "bbox": [
+    175.616608,
+    -40.336304,
+    175.616608,
+    -40.336304
+],
+  "geometry": {"coordinates":[175.61660800000001,-40.336304],"type":"Point"}
 }

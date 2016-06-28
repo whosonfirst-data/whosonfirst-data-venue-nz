@@ -2,13 +2,14 @@
   "id": 220053027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.827881,-39.62249,176.827881,-39.62249",
     "geom:latitude":-39.62249,
     "geom:longitude":176.827881,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1 505 Frimley Rd ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220053027,
-    "wof:lastmodified":1449074190,
+    "wof:lastmodified":1466312046,
     "wof:name":"Starlite Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [176.827881,-39.62249,176.827881,-39.62249],
-  "geometry": {"coordinates":[176.827881,-39.62249],"type":"Point"}
+  "bbox": [
+    176.827881,
+    -39.62249,
+    176.827881,
+    -39.62249
+],
+  "geometry": {"coordinates":[176.82788099999999,-39.62249],"type":"Point"}
 }

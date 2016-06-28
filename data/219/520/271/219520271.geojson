@@ -2,13 +2,14 @@
   "id": 219520271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.630219,-43.520733,172.630219,-43.520733",
     "geom:latitude":-43.520733,
     "geom:longitude":172.630219,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Bealey Ave ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219520271,
-    "wof:lastmodified":1449071561,
+    "wof:lastmodified":1466312364,
     "wof:name":"International English Institute",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "language"
     ]
 },
-  "bbox": [172.630219,-43.520733,172.630219,-43.520733],
-  "geometry": {"coordinates":[172.630219,-43.520733],"type":"Point"}
+  "bbox": [
+    172.630219,
+    -43.520733,
+    172.630219,
+    -43.520733
+],
+  "geometry": {"coordinates":[172.63021900000001,-43.520733],"type":"Point"}
 }

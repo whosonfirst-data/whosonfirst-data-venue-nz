@@ -2,13 +2,14 @@
   "id": 186112457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.696106,-36.893658,174.696106,-36.893658",
     "geom:latitude":-36.893658,
     "geom:longitude":174.696106,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1843 Gt North Rd Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186112457,
-    "wof:lastmodified":1449051606,
+    "wof:lastmodified":1466310645,
     "wof:name":"Caltex Avondale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.696106,-36.893658,174.696106,-36.893658],
-  "geometry": {"coordinates":[174.696106,-36.893658],"type":"Point"}
+  "bbox": [
+    174.696106,
+    -36.893658,
+    174.696106,
+    -36.893658
+],
+  "geometry": {"coordinates":[174.69610599999999,-36.893658],"type":"Point"}
 }

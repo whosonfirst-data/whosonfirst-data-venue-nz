@@ -2,13 +2,14 @@
   "id": 219527063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.929199,45.325001,-122.929199,45.325001",
     "geom:latitude":45.325001,
     "geom:longitude":-122.929199,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Web Site ",
     "sg:city":"www.jayz.co.nz",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219527063,
-    "wof:lastmodified":1449073202,
+    "wof:lastmodified":1466312393,
     "wof:name":"JAYZ International",
     "wof:parent_id":85850661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "training"
     ]
 },
-  "bbox": [-122.929199,45.325001,-122.929199,45.325001],
+  "bbox": [
+    -122.929199,
+    45.325001,
+    -122.929199,
+    45.325001
+],
   "geometry": {"coordinates":[-122.929199,45.325001],"type":"Point"}
 }

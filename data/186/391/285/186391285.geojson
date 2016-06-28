@@ -2,13 +2,14 @@
   "id": 186391285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.299011,-35.683105,174.299011,-35.683105",
     "geom:latitude":-35.683105,
     "geom:longitude":174.299011,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Clark Rd Kamo ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186391285,
-    "wof:lastmodified":1449052093,
+    "wof:lastmodified":1466312378,
     "wof:name":"Comms Northland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.299011,-35.683105,174.299011,-35.683105],
-  "geometry": {"coordinates":[174.299011,-35.683105],"type":"Point"}
+  "bbox": [
+    174.299011,
+    -35.683105,
+    174.299011,
+    -35.683105
+],
+  "geometry": {"coordinates":[174.29901100000001,-35.683105],"type":"Point"}
 }

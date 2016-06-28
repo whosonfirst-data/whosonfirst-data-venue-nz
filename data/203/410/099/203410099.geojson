@@ -2,13 +2,14 @@
   "id": 203410099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.144775,-37.698952,176.144775,-37.698952",
     "geom:latitude":-37.698952,
     "geom:longitude":176.144775,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Collingwood Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203410099,
-    "wof:lastmodified":1449024969,
+    "wof:lastmodified":1466312582,
     "wof:name":"Collingwood Diesel & Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "transport"
     ]
 },
-  "bbox": [176.144775,-37.698952,176.144775,-37.698952],
-  "geometry": {"coordinates":[176.144775,-37.698952],"type":"Point"}
+  "bbox": [
+    176.144775,
+    -37.698952,
+    176.144775,
+    -37.698952
+],
+  "geometry": {"coordinates":[176.14477500000001,-37.698952],"type":"Point"}
 }

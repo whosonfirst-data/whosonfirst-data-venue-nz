@@ -2,13 +2,14 @@
   "id": 185739081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.683395,-36.90979,174.683395,-36.90979",
     "geom:latitude":-36.90979,
     "geom:longitude":174.683395,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6/2 cnr Margan Ave & Titirangi Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185739081,
-    "wof:lastmodified":1449007282,
+    "wof:lastmodified":1466310824,
     "wof:name":"United Video",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "entertainment"
     ]
 },
-  "bbox": [174.683395,-36.90979,174.683395,-36.90979],
-  "geometry": {"coordinates":[174.683395,-36.90979],"type":"Point"}
+  "bbox": [
+    174.683395,
+    -36.90979,
+    174.683395,
+    -36.90979
+],
+  "geometry": {"coordinates":[174.68339499999999,-36.90979],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202422311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.831497,-41.32233,174.831497,-41.32233",
     "geom:latitude":-41.32233,
     "geom:longitude":174.831497,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 B Falkirk Ave Seatoun ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202422311,
-    "wof:lastmodified":1449060285,
+    "wof:lastmodified":1466311538,
     "wof:name":"Seatoun Surgery",
     "wof:parent_id":85773181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.831497,-41.32233,174.831497,-41.32233],
-  "geometry": {"coordinates":[174.831497,-41.32233],"type":"Point"}
+  "bbox": [
+    174.831497,
+    -41.32233,
+    174.831497,
+    -41.32233
+],
+  "geometry": {"coordinates":[174.83149700000001,-41.32233],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202590741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.381966,40.450497,-74.381966,40.450497",
     "geom:latitude":40.450497,
     "geom:longitude":-74.381966,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Huntly Gt South ",
     "sg:city":"Rd",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202590741,
-    "wof:lastmodified":1449061621,
+    "wof:lastmodified":1466311441,
     "wof:name":"PlaceMakers",
     "wof:parent_id":85831841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-74.381966,40.450497,-74.381966,40.450497],
-  "geometry": {"coordinates":[-74.381966,40.450497],"type":"Point"}
+  "bbox": [
+    -74.381966,
+    40.450497,
+    -74.381966,
+    40.450497
+],
+  "geometry": {"coordinates":[-74.38196600000001,40.450497],"type":"Point"}
 }

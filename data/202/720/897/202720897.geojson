@@ -2,13 +2,14 @@
   "id": 202720897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.867035,-38.239738,175.867035,-38.239738",
     "geom:latitude":-38.239738,
     "geom:longitude":175.867035,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Cargill St ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":202720897,
-    "wof:lastmodified":1449060716,
+    "wof:lastmodified":1466312213,
     "wof:name":"H S Cleaning Tokoroa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "furniture"
     ]
 },
-  "bbox": [175.867035,-38.239738,175.867035,-38.239738],
-  "geometry": {"coordinates":[175.867035,-38.239738],"type":"Point"}
+  "bbox": [
+    175.867035,
+    -38.239738,
+    175.867035,
+    -38.239738
+],
+  "geometry": {"coordinates":[175.86703499999999,-38.239738],"type":"Point"}
 }

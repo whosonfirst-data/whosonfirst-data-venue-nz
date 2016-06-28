@@ -2,13 +2,14 @@
   "id": 235942633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.810165,-36.911621,174.810165,-36.911621",
     "geom:latitude":-36.911621,
     "geom:longitude":174.810165,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"83 O'Rorke Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235942633,
-    "wof:lastmodified":1449008408,
+    "wof:lastmodified":1466310821,
     "wof:name":"Health Pak Ltd",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "processor"
     ]
 },
-  "bbox": [174.810165,-36.911621,174.810165,-36.911621],
-  "geometry": {"coordinates":[174.810165,-36.911621],"type":"Point"}
+  "bbox": [
+    174.810165,
+    -36.911621,
+    174.810165,
+    -36.911621
+],
+  "geometry": {"coordinates":[174.81016500000001,-36.911621],"type":"Point"}
 }

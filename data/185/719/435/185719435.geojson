@@ -2,13 +2,14 @@
   "id": 185719435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.012802,-38.669659,178.012802,-38.669659",
     "geom:latitude":-38.669659,
     "geom:longitude":178.012802,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Salisbury Rd A/Hrs ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185719435,
-    "wof:lastmodified":1449006811,
+    "wof:lastmodified":1466310693,
     "wof:name":"Sungate Recreation Hire",
     "wof:parent_id":85780807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leisure"
     ]
 },
-  "bbox": [178.012802,-38.669659,178.012802,-38.669659],
-  "geometry": {"coordinates":[178.012802,-38.669659],"type":"Point"}
+  "bbox": [
+    178.012802,
+    -38.669659,
+    178.012802,
+    -38.669659
+],
+  "geometry": {"coordinates":[178.01280199999999,-38.669659],"type":"Point"}
 }

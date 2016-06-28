@@ -2,13 +2,14 @@
   "id": 203031121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.867645,-36.981102,174.867645,-36.981102",
     "geom:latitude":-36.981102,
     "geom:longitude":174.867645,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Avis Ave Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203031121,
-    "wof:lastmodified":1449025624,
+    "wof:lastmodified":1466311153,
     "wof:name":"Rayner B A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "garden"
     ]
 },
-  "bbox": [174.867645,-36.981102,174.867645,-36.981102],
-  "geometry": {"coordinates":[174.867645,-36.981102],"type":"Point"}
+  "bbox": [
+    174.867645,
+    -36.981102,
+    174.867645,
+    -36.981102
+],
+  "geometry": {"coordinates":[174.86764500000001,-36.981102],"type":"Point"}
 }

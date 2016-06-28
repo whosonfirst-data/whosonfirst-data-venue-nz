@@ -2,13 +2,14 @@
   "id": 202809299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.279907,-37.78363,175.279907,-37.78363",
     "geom:latitude":-37.78363,
     "geom:longitude":175.279907,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"634 Victoria St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202809299,
-    "wof:lastmodified":1449062208,
+    "wof:lastmodified":1466312648,
     "wof:name":"Beds 'R' Us - Bed Barn",
     "wof:parent_id":85780927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "bed"
     ]
 },
-  "bbox": [175.279907,-37.78363,175.279907,-37.78363],
-  "geometry": {"coordinates":[175.279907,-37.78363],"type":"Point"}
+  "bbox": [
+    175.279907,
+    -37.78363,
+    175.279907,
+    -37.78363
+],
+  "geometry": {"coordinates":[175.27990700000001,-37.78363],"type":"Point"}
 }

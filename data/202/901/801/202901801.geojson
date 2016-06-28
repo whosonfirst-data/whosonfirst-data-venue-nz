@@ -2,13 +2,14 @@
   "id": 202901801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.591751,-40.346661,175.591751,-40.346661",
     "geom:latitude":-40.346661,
     "geom:longitude":175.591751,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Tiki Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202901801,
-    "wof:lastmodified":1449061178,
+    "wof:lastmodified":1466312796,
     "wof:name":"Mark Bell-Booth Ltd",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.591751,-40.346661,175.591751,-40.346661],
-  "geometry": {"coordinates":[175.591751,-40.346661],"type":"Point"}
+  "bbox": [
+    175.591751,
+    -40.346661,
+    175.591751,
+    -40.346661
+],
+  "geometry": {"coordinates":[175.59175099999999,-40.346661],"type":"Point"}
 }

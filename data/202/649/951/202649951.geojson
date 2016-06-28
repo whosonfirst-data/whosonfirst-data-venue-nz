@@ -2,13 +2,14 @@
   "id": 202649951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.560211,-36.777275,174.560211,-36.777275",
     "geom:latitude":-36.777275,
     "geom:longitude":174.560211,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 353 ",
     "sg:city":"Kumeu",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202649951,
-    "wof:lastmodified":1449061813,
+    "wof:lastmodified":1466311924,
     "wof:name":"Attwood Plasterers Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "plasterer"
     ]
 },
-  "bbox": [174.560211,-36.777275,174.560211,-36.777275],
-  "geometry": {"coordinates":[174.560211,-36.777275],"type":"Point"}
+  "bbox": [
+    174.560211,
+    -36.777275,
+    174.560211,
+    -36.777275
+],
+  "geometry": {"coordinates":[174.56021100000001,-36.777275],"type":"Point"}
 }

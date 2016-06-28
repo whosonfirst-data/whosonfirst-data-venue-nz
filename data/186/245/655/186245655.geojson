@@ -2,13 +2,14 @@
   "id": 186245655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.717926,-43.500561,172.717926,-43.500561",
     "geom:latitude":-43.500561,
     "geom:longitude":172.717926,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"218 Keyes Rd New Brighton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186245655,
-    "wof:lastmodified":1449052948,
+    "wof:lastmodified":1466311808,
     "wof:name":"Aldridge Ian (1997) Ltd",
     "wof:parent_id":85778899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.717926,-43.500561,172.717926,-43.500561],
-  "geometry": {"coordinates":[172.717926,-43.500561],"type":"Point"}
+  "bbox": [
+    172.717926,
+    -43.500561,
+    172.717926,
+    -43.500561
+],
+  "geometry": {"coordinates":[172.71792600000001,-43.500561],"type":"Point"}
 }

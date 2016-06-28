@@ -2,13 +2,14 @@
   "id": 219350651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.660904,-36.891666,174.660904,-36.891666",
     "geom:latitude":-36.891666,
     "geom:longitude":174.660904,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Culperry Rd Glendene ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219350651,
-    "wof:lastmodified":1449072183,
+    "wof:lastmodified":1466311339,
     "wof:name":"Jason Products Ltd",
     "wof:parent_id":85780905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "tourism"
     ]
 },
-  "bbox": [174.660904,-36.891666,174.660904,-36.891666],
-  "geometry": {"coordinates":[174.660904,-36.891666],"type":"Point"}
+  "bbox": [
+    174.660904,
+    -36.891666,
+    174.660904,
+    -36.891666
+],
+  "geometry": {"coordinates":[174.66090399999999,-36.891666],"type":"Point"}
 }

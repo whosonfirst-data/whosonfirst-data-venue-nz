@@ -2,13 +2,14 @@
   "id": 186626571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.57959,-43.531479,172.57959,-43.531479",
     "geom:latitude":-43.531479,
     "geom:longitude":172.57959,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Riccarton Rd Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186626571,
-    "wof:lastmodified":1449053032,
+    "wof:lastmodified":1466313007,
     "wof:name":"Canterbury Acupunture Centre Ltd",
     "wof:parent_id":85778697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "acupuncturists"
     ]
 },
-  "bbox": [172.57959,-43.531479,172.57959,-43.531479],
+  "bbox": [
+    172.57959,
+    -43.531479,
+    172.57959,
+    -43.531479
+],
   "geometry": {"coordinates":[172.57959,-43.531479],"type":"Point"}
 }

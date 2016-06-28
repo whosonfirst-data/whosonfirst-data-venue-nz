@@ -2,13 +2,14 @@
   "id": 202644691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.86438,-37.199165,175.86438,-37.199165",
     "geom:latitude":-37.199165,
     "geom:longitude":175.86438,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Hetherington Rd ",
     "sg:city":"Whangamata",
     "sg:classifiers":[
@@ -45,10 +46,11 @@
         }
     ],
     "wof:id":202644691,
-    "wof:lastmodified":1449061551,
+    "wof:lastmodified":1466311880,
     "wof:name":"Pitcher Electrical Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -56,6 +58,11 @@
         "related"
     ]
 },
-  "bbox": [175.86438,-37.199165,175.86438,-37.199165],
-  "geometry": {"coordinates":[175.86438,-37.199165],"type":"Point"}
+  "bbox": [
+    175.86438,
+    -37.199165,
+    175.86438,
+    -37.199165
+],
+  "geometry": {"coordinates":[175.86438000000001,-37.199165],"type":"Point"}
 }

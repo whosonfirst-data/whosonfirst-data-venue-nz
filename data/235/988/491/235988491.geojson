@@ -2,13 +2,14 @@
   "id": 235988491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.616913,-40.356407,175.616913,-40.356407",
     "geom:latitude":-40.356407,
     "geom:longitude":175.616913,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Princess St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235988491,
-    "wof:lastmodified":1449008375,
+    "wof:lastmodified":1466311504,
     "wof:name":"Alpha Internet Cafe'",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "dining"
     ]
 },
-  "bbox": [175.616913,-40.356407,175.616913,-40.356407],
-  "geometry": {"coordinates":[175.616913,-40.356407],"type":"Point"}
+  "bbox": [
+    175.616913,
+    -40.356407,
+    175.616913,
+    -40.356407
+],
+  "geometry": {"coordinates":[175.61691300000001,-40.356407],"type":"Point"}
 }

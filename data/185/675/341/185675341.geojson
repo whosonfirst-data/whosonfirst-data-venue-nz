@@ -2,13 +2,14 @@
   "id": 185675341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.715561,-43.492687,172.715561,-43.492687",
     "geom:latitude":-43.492687,
     "geom:longitude":172.715561,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Pacific Rd North New Brighton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185675341,
-    "wof:lastmodified":1449007457,
+    "wof:lastmodified":1466311801,
     "wof:name":"Cartoons & Caricatures",
     "wof:parent_id":85778899,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.715561,-43.492687,172.715561,-43.492687],
-  "geometry": {"coordinates":[172.715561,-43.492687],"type":"Point"}
+  "bbox": [
+    172.715561,
+    -43.492687,
+    172.715561,
+    -43.492687
+],
+  "geometry": {"coordinates":[172.71556100000001,-43.492687],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169742833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.547195,-40.224236,175.547195,-40.224236",
     "geom:latitude":-40.224236,
     "geom:longitude":175.547195,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"147 Kimbolton St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169742833,
-    "wof:lastmodified":1449032896,
+    "wof:lastmodified":1466311222,
     "wof:name":"Price Chopper",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.547195,-40.224236,175.547195,-40.224236],
-  "geometry": {"coordinates":[175.547195,-40.224236],"type":"Point"}
+  "bbox": [
+    175.547195,
+    -40.224236,
+    175.547195,
+    -40.224236
+],
+  "geometry": {"coordinates":[175.54719499999999,-40.224236],"type":"Point"}
 }

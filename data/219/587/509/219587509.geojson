@@ -2,13 +2,14 @@
   "id": 219587509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.5672,-40.230587,175.5672,-40.230587",
     "geom:latitude":-40.230587,
     "geom:longitude":175.5672,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"114 South St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219587509,
-    "wof:lastmodified":1449071610,
+    "wof:lastmodified":1466312472,
     "wof:name":"Aorangi Auto Services",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.5672,-40.230587,175.5672,-40.230587],
-  "geometry": {"coordinates":[175.5672,-40.230587],"type":"Point"}
+  "bbox": [
+    175.5672,
+    -40.230587,
+    175.5672,
+    -40.230587
+],
+  "geometry": {"coordinates":[175.56720000000001,-40.230587],"type":"Point"}
 }

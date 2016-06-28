@@ -2,13 +2,14 @@
   "id": 202523885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.277481,-37.748341,175.277481,-37.748341",
     "geom:latitude":-37.748341,
     "geom:longitude":175.277481,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Hukanui Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202523885,
-    "wof:lastmodified":1449061566,
+    "wof:lastmodified":1466310858,
     "wof:name":"Cleaver D L",
     "wof:parent_id":85781849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.277481,-37.748341,175.277481,-37.748341],
-  "geometry": {"coordinates":[175.277481,-37.748341],"type":"Point"}
+  "bbox": [
+    175.277481,
+    -37.748341,
+    175.277481,
+    -37.748341
+],
+  "geometry": {"coordinates":[175.27748099999999,-37.748341],"type":"Point"}
 }

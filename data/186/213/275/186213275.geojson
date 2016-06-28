@@ -2,13 +2,14 @@
   "id": 186213275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.044678,-39.93512,175.044678,-39.93512",
     "geom:latitude":-39.93512,
     "geom:longitude":175.044678,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Purnell St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186213275,
-    "wof:lastmodified":1449050282,
+    "wof:lastmodified":1466311518,
     "wof:name":"Enzed Wanganui",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [175.044678,-39.93512,175.044678,-39.93512],
+  "bbox": [
+    175.044678,
+    -39.93512,
+    175.044678,
+    -39.93512
+],
   "geometry": {"coordinates":[175.044678,-39.93512],"type":"Point"}
 }

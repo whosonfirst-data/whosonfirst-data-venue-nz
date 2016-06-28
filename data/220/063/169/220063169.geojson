@@ -2,13 +2,14 @@
   "id": 220063169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.856293,-36.879841,174.856293,-36.879841",
     "geom:latitude":-36.879841,
     "geom:longitude":174.856293,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Line Rd Glen Innes ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220063169,
-    "wof:lastmodified":1449074096,
+    "wof:lastmodified":1466311745,
     "wof:name":"Liquor King",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "outlet"
     ]
 },
-  "bbox": [174.856293,-36.879841,174.856293,-36.879841],
-  "geometry": {"coordinates":[174.856293,-36.879841],"type":"Point"}
+  "bbox": [
+    174.856293,
+    -36.879841,
+    174.856293,
+    -36.879841
+],
+  "geometry": {"coordinates":[174.85629299999999,-36.879841],"type":"Point"}
 }

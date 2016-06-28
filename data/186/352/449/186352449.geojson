@@ -2,13 +2,14 @@
   "id": 186352449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.784409,-36.960911,174.784409,-36.960911",
     "geom:latitude":-36.960911,
     "geom:longitude":174.784409,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Kirkbride Rd Mangere ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186352449,
-    "wof:lastmodified":1449052011,
+    "wof:lastmodified":1466312364,
     "wof:name":"Workforce Industries",
     "wof:parent_id":85778435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.784409,-36.960911,174.784409,-36.960911],
-  "geometry": {"coordinates":[174.784409,-36.960911],"type":"Point"}
+  "bbox": [
+    174.784409,
+    -36.960911,
+    174.784409,
+    -36.960911
+],
+  "geometry": {"coordinates":[174.78440900000001,-36.960911],"type":"Point"}
 }

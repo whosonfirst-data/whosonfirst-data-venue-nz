@@ -2,13 +2,14 @@
   "id": 203228903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.938324,-37.400799,175.938324,-37.400799",
     "geom:latitude":-37.400799,
     "geom:longitude":175.938324,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Main Rd Waihi Beach ",
     "sg:city":"Waihi",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203228903,
-    "wof:lastmodified":1449025502,
+    "wof:lastmodified":1466311633,
     "wof:name":"Carisma Clothing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [175.938324,-37.400799,175.938324,-37.400799],
-  "geometry": {"coordinates":[175.938324,-37.400799],"type":"Point"}
+  "bbox": [
+    175.938324,
+    -37.400799,
+    175.938324,
+    -37.400799
+],
+  "geometry": {"coordinates":[175.93832399999999,-37.400799],"type":"Point"}
 }

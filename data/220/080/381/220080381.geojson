@@ -2,13 +2,14 @@
   "id": 220080381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.622238,-43.512768,172.622238,-43.512768",
     "geom:latitude":-43.512768,
     "geom:longitude":172.622238,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"178 A Papanui Rd Merivale ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220080381,
-    "wof:lastmodified":1449074851,
+    "wof:lastmodified":1466311867,
     "wof:name":"St James Fine Wines & Spirits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [172.622238,-43.512768,172.622238,-43.512768],
-  "geometry": {"coordinates":[172.622238,-43.512768],"type":"Point"}
+  "bbox": [
+    172.622238,
+    -43.512768,
+    172.622238,
+    -43.512768
+],
+  "geometry": {"coordinates":[172.62223800000001,-43.512768],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185698487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.870163,-41.092426,174.870163,-41.092426",
     "geom:latitude":-41.092426,
     "geom:longitude":174.870163,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Acheron Rd Mana ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185698487,
-    "wof:lastmodified":1449008110,
+    "wof:lastmodified":1466310548,
     "wof:name":"All Sound",
     "wof:parent_id":85781159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "entertainment"
     ]
 },
-  "bbox": [174.870163,-41.092426,174.870163,-41.092426],
-  "geometry": {"coordinates":[174.870163,-41.092426],"type":"Point"}
+  "bbox": [
+    174.870163,
+    -41.092426,
+    174.870163,
+    -41.092426
+],
+  "geometry": {"coordinates":[174.87016299999999,-41.092426],"type":"Point"}
 }

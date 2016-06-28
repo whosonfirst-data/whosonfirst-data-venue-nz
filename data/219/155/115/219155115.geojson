@@ -2,13 +2,14 @@
   "id": 219155115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.208969,-42.448601,171.208969,-42.448601",
     "geom:latitude":-42.448601,
     "geom:longitude":171.208969,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Mackay St ",
     "sg:city":"Greymouth",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219155115,
-    "wof:lastmodified":1449073308,
+    "wof:lastmodified":1466310657,
     "wof:name":"Cowan & Holmes Ltd",
     "wof:parent_id":85781665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [171.208969,-42.448601,171.208969,-42.448601],
+  "bbox": [
+    171.208969,
+    -42.448601,
+    171.208969,
+    -42.448601
+],
   "geometry": {"coordinates":[171.208969,-42.448601],"type":"Point"}
 }

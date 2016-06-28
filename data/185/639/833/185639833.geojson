@@ -2,13 +2,14 @@
   "id": 185639833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.048172,-39.930439,175.048172,-39.930439",
     "geom:latitude":-39.930439,
     "geom:longitude":175.048172,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"196 A Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":185639833,
-    "wof:lastmodified":1449008195,
+    "wof:lastmodified":1466311351,
     "wof:name":"Rivercity Picture Framers",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.048172,-39.930439,175.048172,-39.930439],
-  "geometry": {"coordinates":[175.048172,-39.930439],"type":"Point"}
+  "bbox": [
+    175.048172,
+    -39.930439,
+    175.048172,
+    -39.930439
+],
+  "geometry": {"coordinates":[175.04817199999999,-39.930439],"type":"Point"}
 }

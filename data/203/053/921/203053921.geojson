@@ -2,13 +2,14 @@
   "id": 203053921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.251785,-37.763233,175.251785,-37.763233",
     "geom:latitude":-37.763233,
     "geom:longitude":175.251785,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"422 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203053921,
-    "wof:lastmodified":1449025295,
+    "wof:lastmodified":1466311563,
     "wof:name":"Ready Mixed Concrete",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [175.251785,-37.763233,175.251785,-37.763233],
-  "geometry": {"coordinates":[175.251785,-37.763233],"type":"Point"}
+  "bbox": [
+    175.251785,
+    -37.763233,
+    175.251785,
+    -37.763233
+],
+  "geometry": {"coordinates":[175.25178500000001,-37.763233],"type":"Point"}
 }

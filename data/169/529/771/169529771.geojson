@@ -2,13 +2,14 @@
   "id": 169529771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.946167,-41.260811,174.946167,-41.260811",
     "geom:latitude":-41.260811,
     "geom:longitude":174.946167,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Queen St",
     "sg:city":"Wainuiomata",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169529771,
-    "wof:lastmodified":1449034114,
+    "wof:lastmodified":1466310767,
     "wof:name":"Bank of New Zealand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.946167,-41.260811,174.946167,-41.260811],
+  "bbox": [
+    174.946167,
+    -41.260811,
+    174.946167,
+    -41.260811
+],
   "geometry": {"coordinates":[174.946167,-41.260811],"type":"Point"}
 }

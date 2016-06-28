@@ -2,13 +2,14 @@
   "id": 220011565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.736649,-36.810307,174.736649,-36.810307",
     "geom:latitude":-36.810307,
     "geom:longitude":174.736649,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"129D Onewa Rd Northcote ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220011565,
-    "wof:lastmodified":1449074704,
+    "wof:lastmodified":1466310887,
     "wof:name":"Costello Financial Services",
     "wof:parent_id":85778167,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mortgage"
     ]
 },
-  "bbox": [174.736649,-36.810307,174.736649,-36.810307],
+  "bbox": [
+    174.736649,
+    -36.810307,
+    174.736649,
+    -36.810307
+],
   "geometry": {"coordinates":[174.736649,-36.810307],"type":"Point"}
 }

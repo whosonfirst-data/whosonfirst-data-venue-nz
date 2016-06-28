@@ -2,13 +2,14 @@
   "id": 186013497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.331085,-35.728455,174.331085,-35.728455",
     "geom:latitude":-35.728455,
     "geom:longitude":174.331085,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Lower Dent St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186013497,
-    "wof:lastmodified":1449052186,
+    "wof:lastmodified":1466310767,
     "wof:name":"A'Fare",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [174.331085,-35.728455,174.331085,-35.728455],
+  "bbox": [
+    174.331085,
+    -35.728455,
+    174.331085,
+    -35.728455
+],
   "geometry": {"coordinates":[174.331085,-35.728455],"type":"Point"}
 }

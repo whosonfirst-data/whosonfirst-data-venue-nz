@@ -2,13 +2,14 @@
   "id": 169555601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.169357,-37.687187,176.169357,-37.687187",
     "geom:latitude":-37.687187,
     "geom:longitude":176.169357,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Devonport Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169555601,
-    "wof:lastmodified":1449035495,
+    "wof:lastmodified":1466310893,
     "wof:name":"The Discounter",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.169357,-37.687187,176.169357,-37.687187],
-  "geometry": {"coordinates":[176.169357,-37.687187],"type":"Point"}
+  "bbox": [
+    176.169357,
+    -37.687187,
+    176.169357,
+    -37.687187
+],
+  "geometry": {"coordinates":[176.16935699999999,-37.687187],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202399265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.150208,-37.707588,176.150208,-37.707588",
     "geom:latitude":-37.707588,
     "geom:longitude":176.150208,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"830 Cameron Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202399265,
-    "wof:lastmodified":1449060551,
+    "wof:lastmodified":1466311043,
     "wof:name":"Te Kupenga Hauora O Tauranga Moana",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [176.150208,-37.707588,176.150208,-37.707588],
-  "geometry": {"coordinates":[176.150208,-37.707588],"type":"Point"}
+  "bbox": [
+    176.150208,
+    -37.707588,
+    176.150208,
+    -37.707588
+],
+  "geometry": {"coordinates":[176.15020799999999,-37.707588],"type":"Point"}
 }

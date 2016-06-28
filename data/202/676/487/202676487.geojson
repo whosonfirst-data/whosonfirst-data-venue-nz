@@ -2,13 +2,14 @@
   "id": 202676487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.609131,-40.34906,175.609131,-40.34906",
     "geom:latitude":-40.34906,
     "geom:longitude":175.609131,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Ngata St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202676487,
-    "wof:lastmodified":1449061713,
+    "wof:lastmodified":1466312157,
     "wof:name":"SchoolCare",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.609131,-40.34906,175.609131,-40.34906],
-  "geometry": {"coordinates":[175.609131,-40.34906],"type":"Point"}
+  "bbox": [
+    175.609131,
+    -40.34906,
+    175.609131,
+    -40.34906
+],
+  "geometry": {"coordinates":[175.60913099999999,-40.34906],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219762159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.328842,-35.730122,174.328842,-35.730122",
     "geom:latitude":-35.730122,
     "geom:longitude":174.328842,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Port Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219762159,
-    "wof:lastmodified":1449072887,
+    "wof:lastmodified":1466312864,
     "wof:name":"Auto Recovery Services",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.328842,-35.730122,174.328842,-35.730122],
-  "geometry": {"coordinates":[174.328842,-35.730122],"type":"Point"}
+  "bbox": [
+    174.328842,
+    -35.730122,
+    174.328842,
+    -35.730122
+],
+  "geometry": {"coordinates":[174.32884200000001,-35.730122],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203095095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.049408,-39.930115,175.049408,-39.930115",
     "geom:latitude":-39.930115,
     "geom:longitude":175.049408,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Wicksteed St Wangu ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203095095,
-    "wof:lastmodified":1449025891,
+    "wof:lastmodified":1466311954,
     "wof:name":"Presbyterian Support Central",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counselling"
     ]
 },
-  "bbox": [175.049408,-39.930115,175.049408,-39.930115],
+  "bbox": [
+    175.049408,
+    -39.930115,
+    175.049408,
+    -39.930115
+],
   "geometry": {"coordinates":[175.049408,-39.930115],"type":"Point"}
 }

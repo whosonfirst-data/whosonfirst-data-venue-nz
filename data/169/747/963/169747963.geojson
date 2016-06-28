@@ -2,13 +2,14 @@
   "id": 169747963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.246964,-40.470512,175.246964,-40.470512",
     "geom:latitude":-40.470512,
     "geom:longitude":175.246964,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Seabury Ave Foxton Beach ",
     "sg:city":"Foxton",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":169747963,
-    "wof:lastmodified":1449033288,
+    "wof:lastmodified":1466311251,
     "wof:name":"Triangle Foodmarket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.246964,-40.470512,175.246964,-40.470512],
-  "geometry": {"coordinates":[175.246964,-40.470512],"type":"Point"}
+  "bbox": [
+    175.246964,
+    -40.470512,
+    175.246964,
+    -40.470512
+],
+  "geometry": {"coordinates":[175.24696399999999,-40.470512],"type":"Point"}
 }

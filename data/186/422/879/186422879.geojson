@@ -2,13 +2,14 @@
   "id": 186422879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.867325,-37.001331,174.867325,-37.001331",
     "geom:latitude":-37.001331,
     "geom:longitude":174.867325,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Bolderwood & Mayo Rds Wiri ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186422879,
-    "wof:lastmodified":1449050439,
+    "wof:lastmodified":1466312568,
     "wof:name":"Donaldson Filtration",
     "wof:parent_id":85773349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.867325,-37.001331,174.867325,-37.001331],
-  "geometry": {"coordinates":[174.867325,-37.001331],"type":"Point"}
+  "bbox": [
+    174.867325,
+    -37.001331,
+    174.867325,
+    -37.001331
+],
+  "geometry": {"coordinates":[174.86732499999999,-37.001331],"type":"Point"}
 }

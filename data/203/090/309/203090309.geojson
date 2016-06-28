@@ -2,13 +2,14 @@
   "id": 203090309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.94455,-46.096771,168.94455,-46.096771",
     "geom:latitude":-46.096771,
     "geom:longitude":168.94455,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Traford St ",
     "sg:city":"Gore",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203090309,
-    "wof:lastmodified":1449026445,
+    "wof:lastmodified":1466311897,
     "wof:name":"Gore & Districts Community Counselling Centre",
     "wof:parent_id":85782851,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counselling"
     ]
 },
-  "bbox": [168.94455,-46.096771,168.94455,-46.096771],
-  "geometry": {"coordinates":[168.94455,-46.096771],"type":"Point"}
+  "bbox": [
+    168.94455,
+    -46.096771,
+    168.94455,
+    -46.096771
+],
+  "geometry": {"coordinates":[168.94454999999999,-46.096771],"type":"Point"}
 }

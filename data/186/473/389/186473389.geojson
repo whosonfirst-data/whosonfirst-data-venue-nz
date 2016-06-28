@@ -2,13 +2,14 @@
   "id": 186473389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.640915,-40.327568,175.640915,-40.327568",
     "geom:latitude":-40.327568,
     "geom:longitude":175.640915,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Anakiwa St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186473389,
-    "wof:lastmodified":1449050967,
+    "wof:lastmodified":1466312670,
     "wof:name":"Marchant A Plumbers & Gasfitters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.640915,-40.327568,175.640915,-40.327568],
-  "geometry": {"coordinates":[175.640915,-40.327568],"type":"Point"}
+  "bbox": [
+    175.640915,
+    -40.327568,
+    175.640915,
+    -40.327568
+],
+  "geometry": {"coordinates":[175.64091500000001,-40.327568],"type":"Point"}
 }

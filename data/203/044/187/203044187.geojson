@@ -2,13 +2,14 @@
   "id": 203044187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.965515,-41.201462,174.965515,-41.201462",
     "geom:latitude":-41.201462,
     "geom:longitude":174.965515,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Rata St Naenae Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203044187,
-    "wof:lastmodified":1449025922,
+    "wof:lastmodified":1466311391,
     "wof:name":"Fraser Brown & Stratmore Ltd",
     "wof:parent_id":85778479,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.965515,-41.201462,174.965515,-41.201462],
-  "geometry": {"coordinates":[174.965515,-41.201462],"type":"Point"}
+  "bbox": [
+    174.965515,
+    -41.201462,
+    174.965515,
+    -41.201462
+],
+  "geometry": {"coordinates":[174.96551500000001,-41.201462],"type":"Point"}
 }

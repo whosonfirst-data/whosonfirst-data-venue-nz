@@ -2,13 +2,14 @@
   "id": 186051823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.137161,-40.76202,175.137161,-40.76202",
     "geom:latitude":-40.76202,
     "geom:longitude":175.137161,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Riverbank Rd ",
     "sg:city":"Otaki",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186051823,
-    "wof:lastmodified":1449052024,
+    "wof:lastmodified":1466311533,
     "wof:name":"Reidpaints Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "compounds"
     ]
 },
-  "bbox": [175.137161,-40.76202,175.137161,-40.76202],
-  "geometry": {"coordinates":[175.137161,-40.76202],"type":"Point"}
+  "bbox": [
+    175.137161,
+    -40.76202,
+    175.137161,
+    -40.76202
+],
+  "geometry": {"coordinates":[175.13716099999999,-40.76202],"type":"Point"}
 }

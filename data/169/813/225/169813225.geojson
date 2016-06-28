@@ -2,13 +2,14 @@
   "id": 169813225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.055099,-39.934879,175.055099,-39.934879",
     "geom:latitude":-39.934879,
     "geom:longitude":175.055099,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169813225,
-    "wof:lastmodified":1449033540,
+    "wof:lastmodified":1466311747,
     "wof:name":"Raven Kites",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.055099,-39.934879,175.055099,-39.934879],
-  "geometry": {"coordinates":[175.055099,-39.934879],"type":"Point"}
+  "bbox": [
+    175.055099,
+    -39.934879,
+    175.055099,
+    -39.934879
+],
+  "geometry": {"coordinates":[175.05509900000001,-39.934879],"type":"Point"}
 }

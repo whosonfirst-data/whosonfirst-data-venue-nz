@@ -2,13 +2,14 @@
   "id": 186490101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.947861,-37.102081,174.947861,-37.102081",
     "geom:latitude":-37.102081,
     "geom:longitude":174.947861,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Firth St Drury ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186490101,
-    "wof:lastmodified":1449052749,
+    "wof:lastmodified":1466312649,
     "wof:name":"EDM Engineering Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.947861,-37.102081,174.947861,-37.102081],
-  "geometry": {"coordinates":[174.947861,-37.102081],"type":"Point"}
+  "bbox": [
+    174.947861,
+    -37.102081,
+    174.947861,
+    -37.102081
+],
+  "geometry": {"coordinates":[174.94786099999999,-37.102081],"type":"Point"}
 }

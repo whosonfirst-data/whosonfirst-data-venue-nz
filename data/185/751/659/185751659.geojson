@@ -2,13 +2,14 @@
   "id": 185751659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.035568,-41.139168,175.035568,-41.139168",
     "geom:latitude":-41.139168,
     "geom:longitude":175.035568,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Racecourse Rd Trentham Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185751659,
-    "wof:lastmodified":1449006678,
+    "wof:lastmodified":1466310906,
     "wof:name":"Wellington Racing Club (Inc)",
     "wof:parent_id":85773263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.035568,-41.139168,175.035568,-41.139168],
-  "geometry": {"coordinates":[175.035568,-41.139168],"type":"Point"}
+  "bbox": [
+    175.035568,
+    -41.139168,
+    175.035568,
+    -41.139168
+],
+  "geometry": {"coordinates":[175.03556800000001,-41.139168],"type":"Point"}
 }

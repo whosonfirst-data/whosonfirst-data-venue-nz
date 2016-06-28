@@ -2,13 +2,14 @@
   "id": 169565203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.684418,-43.509285,172.684418,-43.509285",
     "geom:latitude":-43.509285,
     "geom:longitude":172.684418,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Cardrona St Avondale ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169565203,
-    "wof:lastmodified":1449035665,
+    "wof:lastmodified":1466311041,
     "wof:name":"Gifts with Attitude",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.684418,-43.509285,172.684418,-43.509285],
-  "geometry": {"coordinates":[172.684418,-43.509285],"type":"Point"}
+  "bbox": [
+    172.684418,
+    -43.509285,
+    172.684418,
+    -43.509285
+],
+  "geometry": {"coordinates":[172.68441799999999,-43.509285],"type":"Point"}
 }

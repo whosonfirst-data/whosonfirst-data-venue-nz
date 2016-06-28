@@ -2,13 +2,14 @@
   "id": 219864811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.211609,-38.080776,176.211609,-38.080776",
     "geom:latitude":-38.080776,
     "geom:longitude":176.211609,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Hall Rd Ngongotaha ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219864811,
-    "wof:lastmodified":1449073968,
+    "wof:lastmodified":1466313068,
     "wof:name":"Forest And Woodlot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.211609,-38.080776,176.211609,-38.080776],
-  "geometry": {"coordinates":[176.211609,-38.080776],"type":"Point"}
+  "bbox": [
+    176.211609,
+    -38.080776,
+    176.211609,
+    -38.080776
+],
+  "geometry": {"coordinates":[176.21160900000001,-38.080776],"type":"Point"}
 }

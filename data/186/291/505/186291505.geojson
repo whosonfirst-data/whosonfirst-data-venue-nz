@@ -2,13 +2,14 @@
   "id": 186291505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.627457,-36.91634,174.627457,-36.91634",
     "geom:latitude":-36.91634,
     "geom:longitude":174.627457,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Glengarry Rd Glen Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186291505,
-    "wof:lastmodified":1449051203,
+    "wof:lastmodified":1466312156,
     "wof:name":"Central Metal Spinners",
     "wof:parent_id":85773095,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.627457,-36.91634,174.627457,-36.91634],
-  "geometry": {"coordinates":[174.627457,-36.91634],"type":"Point"}
+  "bbox": [
+    174.627457,
+    -36.91634,
+    174.627457,
+    -36.91634
+],
+  "geometry": {"coordinates":[174.62745699999999,-36.91634],"type":"Point"}
 }

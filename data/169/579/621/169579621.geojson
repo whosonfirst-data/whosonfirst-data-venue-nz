@@ -2,13 +2,14 @@
   "id": 169579621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.319412,-35.725925,174.319412,-35.725925",
     "geom:latitude":-35.725925,
     "geom:longitude":174.319412,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Vine St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169579621,
-    "wof:lastmodified":1449033742,
+    "wof:lastmodified":1466311400,
     "wof:name":"Against The Grain",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.319412,-35.725925,174.319412,-35.725925],
+  "bbox": [
+    174.319412,
+    -35.725925,
+    174.319412,
+    -35.725925
+],
   "geometry": {"coordinates":[174.319412,-35.725925],"type":"Point"}
 }

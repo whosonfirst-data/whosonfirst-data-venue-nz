@@ -2,13 +2,14 @@
   "id": 202740313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.6651,-43.521732,172.6651,-43.521732",
     "geom:latitude":-43.521732,
     "geom:longitude":172.6651,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Trent St Avonside ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202740313,
-    "wof:lastmodified":1449061280,
+    "wof:lastmodified":1466312281,
     "wof:name":"Anglican Aged Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [172.6651,-43.521732,172.6651,-43.521732],
+  "bbox": [
+    172.6651,
+    -43.521732,
+    172.6651,
+    -43.521732
+],
   "geometry": {"coordinates":[172.6651,-43.521732],"type":"Point"}
 }

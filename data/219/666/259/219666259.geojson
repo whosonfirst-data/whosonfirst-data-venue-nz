@@ -2,13 +2,14 @@
   "id": 219666259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.497055,-45.894619,170.497055,-45.894619",
     "geom:latitude":-45.894619,
     "geom:longitude":170.497055,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Fox St South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219666259,
-    "wof:lastmodified":1449071683,
+    "wof:lastmodified":1466312740,
     "wof:name":"Southern Distributing Co",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.497055,-45.894619,170.497055,-45.894619],
-  "geometry": {"coordinates":[170.497055,-45.894619],"type":"Point"}
+  "bbox": [
+    170.497055,
+    -45.894619,
+    170.497055,
+    -45.894619
+],
+  "geometry": {"coordinates":[170.49705499999999,-45.894619],"type":"Point"}
 }

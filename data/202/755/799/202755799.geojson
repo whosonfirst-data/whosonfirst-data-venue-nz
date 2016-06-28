@@ -2,13 +2,14 @@
   "id": 202755799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.156418,-37.697578,176.156418,-37.697578",
     "geom:latitude":-37.697578,
     "geom:longitude":176.156418,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Edgecumbe Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202755799,
-    "wof:lastmodified":1449060841,
+    "wof:lastmodified":1466312414,
     "wof:name":"Accadia On The Avenue's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "village"
     ]
 },
-  "bbox": [176.156418,-37.697578,176.156418,-37.697578],
+  "bbox": [
+    176.156418,
+    -37.697578,
+    176.156418,
+    -37.697578
+],
   "geometry": {"coordinates":[176.156418,-37.697578],"type":"Point"}
 }

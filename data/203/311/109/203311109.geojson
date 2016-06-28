@@ -2,13 +2,14 @@
   "id": 203311109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.572891,-43.531734,172.572891,-43.531734",
     "geom:latitude":-43.531734,
     "geom:longitude":172.572891,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"384 Riccarton Rd Upper Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203311109,
-    "wof:lastmodified":1449025377,
+    "wof:lastmodified":1466312274,
     "wof:name":"Woolmart Wools",
     "wof:parent_id":85778697,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [172.572891,-43.531734,172.572891,-43.531734],
+  "bbox": [
+    172.572891,
+    -43.531734,
+    172.572891,
+    -43.531734
+],
   "geometry": {"coordinates":[172.572891,-43.531734],"type":"Point"}
 }

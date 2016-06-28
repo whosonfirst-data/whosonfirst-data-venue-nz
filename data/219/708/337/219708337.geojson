@@ -2,13 +2,14 @@
   "id": 219708337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.925766,-36.902847,174.925766,-36.902847",
     "geom:latitude":-36.902847,
     "geom:longitude":174.925766,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6/113 Vincent St Howick ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219708337,
-    "wof:lastmodified":1449070945,
+    "wof:lastmodified":1466312908,
     "wof:name":"Go-Ped Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leasing"
     ]
 },
-  "bbox": [174.925766,-36.902847,174.925766,-36.902847],
-  "geometry": {"coordinates":[174.925766,-36.902847],"type":"Point"}
+  "bbox": [
+    174.925766,
+    -36.902847,
+    174.925766,
+    -36.902847
+],
+  "geometry": {"coordinates":[174.92576600000001,-36.902847],"type":"Point"}
 }

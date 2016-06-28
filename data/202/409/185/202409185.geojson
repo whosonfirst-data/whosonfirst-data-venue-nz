@@ -2,13 +2,14 @@
   "id": 202409185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.894699,-41.230038,174.894699,-41.230038",
     "geom:latitude":-41.230038,
     "geom:longitude":174.894699,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"451 Jackson St Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202409185,
-    "wof:lastmodified":1449061152,
+    "wof:lastmodified":1466311298,
     "wof:name":"Hutt Union & Community Health Service",
     "wof:parent_id":85782489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.894699,-41.230038,174.894699,-41.230038],
+  "bbox": [
+    174.894699,
+    -41.230038,
+    174.894699,
+    -41.230038
+],
   "geometry": {"coordinates":[174.894699,-41.230038],"type":"Point"}
 }

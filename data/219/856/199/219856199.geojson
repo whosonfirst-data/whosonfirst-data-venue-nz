@@ -2,13 +2,14 @@
   "id": 219856199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.948853,-37.193508,174.948853,-37.193508",
     "geom:latitude":-37.193508,
     "geom:longitude":174.948853,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Runciman Rd Drury ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219856199,
-    "wof:lastmodified":1449071406,
+    "wof:lastmodified":1466313064,
     "wof:name":"Kempton P J",
     "wof:parent_id":85773145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.948853,-37.193508,174.948853,-37.193508],
-  "geometry": {"coordinates":[174.948853,-37.193508],"type":"Point"}
+  "bbox": [
+    174.948853,
+    -37.193508,
+    174.948853,
+    -37.193508
+],
+  "geometry": {"coordinates":[174.94885300000001,-37.193508],"type":"Point"}
 }

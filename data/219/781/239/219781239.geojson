@@ -2,13 +2,14 @@
   "id": 219781239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.325577,-35.74435,174.325577,-35.74435",
     "geom:latitude":-35.74435,
     "geom:longitude":174.325577,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Kioreroa Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219781239,
-    "wof:lastmodified":1449071055,
+    "wof:lastmodified":1466312983,
     "wof:name":"Trimac Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.325577,-35.74435,174.325577,-35.74435],
-  "geometry": {"coordinates":[174.325577,-35.74435],"type":"Point"}
+  "bbox": [
+    174.325577,
+    -35.74435,
+    174.325577,
+    -35.74435
+],
+  "geometry": {"coordinates":[174.32557700000001,-35.74435],"type":"Point"}
 }

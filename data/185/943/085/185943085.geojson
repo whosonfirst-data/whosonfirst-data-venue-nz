@@ -2,13 +2,14 @@
   "id": 185943085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.930542,-41.529453,173.930542,-41.529453",
     "geom:latitude":-41.529453,
     "geom:longitude":173.930542,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"New Renwick Rd ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185943085,
-    "wof:lastmodified":1449007032,
+    "wof:lastmodified":1466312085,
     "wof:name":"Blenheim Indoor Sports Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [173.930542,-41.529453,173.930542,-41.529453],
+  "bbox": [
+    173.930542,
+    -41.529453,
+    173.930542,
+    -41.529453
+],
   "geometry": {"coordinates":[173.930542,-41.529453],"type":"Point"}
 }

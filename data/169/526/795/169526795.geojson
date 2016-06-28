@@ -2,13 +2,14 @@
   "id": 169526795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.969093,36.880394,-84.969093,36.880394",
     "geom:latitude":36.880394,
     "geom:longitude":-84.969093,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Parnell Rd",
     "sg:city":"Parnell",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169526795,
-    "wof:lastmodified":1449033701,
+    "wof:lastmodified":1466310545,
     "wof:name":"ANZ Banking Group (New Zealand) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.969093,36.880394,-84.969093,36.880394],
+  "bbox": [
+    -84.969093,
+    36.880394,
+    -84.969093,
+    36.880394
+],
   "geometry": {"coordinates":[-84.969093,36.880394],"type":"Point"}
 }

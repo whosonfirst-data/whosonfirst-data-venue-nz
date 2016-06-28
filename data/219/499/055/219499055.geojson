@@ -2,13 +2,14 @@
   "id": 219499055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.059418,-36.784565,175.059418,-36.784565",
     "geom:latitude":-36.784565,
     "geom:longitude":175.059418,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"309 Seaview Rd Waiheke Island ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219499055,
-    "wof:lastmodified":1449071062,
+    "wof:lastmodified":1466312301,
     "wof:name":"Kip McGrath Education Centres (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "teacher"
     ]
 },
-  "bbox": [175.059418,-36.784565,175.059418,-36.784565],
-  "geometry": {"coordinates":[175.059418,-36.784565],"type":"Point"}
+  "bbox": [
+    175.059418,
+    -36.784565,
+    175.059418,
+    -36.784565
+],
+  "geometry": {"coordinates":[175.05941799999999,-36.784565],"type":"Point"}
 }

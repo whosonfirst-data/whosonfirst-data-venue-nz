@@ -2,13 +2,14 @@
   "id": 186309307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.636353,-40.326401,175.636353,-40.326401",
     "geom:latitude":-40.326401,
     "geom:longitude":175.636353,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Mohaka Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186309307,
-    "wof:lastmodified":1449050991,
+    "wof:lastmodified":1466312228,
     "wof:name":"Strong Enterprises 1997 Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.636353,-40.326401,175.636353,-40.326401],
-  "geometry": {"coordinates":[175.636353,-40.326401],"type":"Point"}
+  "bbox": [
+    175.636353,
+    -40.326401,
+    175.636353,
+    -40.326401
+],
+  "geometry": {"coordinates":[175.63635300000001,-40.326401],"type":"Point"}
 }

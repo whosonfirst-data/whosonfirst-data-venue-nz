@@ -2,13 +2,14 @@
   "id": 202514291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.519714,-45.854393,170.519714,-45.854393",
     "geom:latitude":-45.854393,
     "geom:longitude":170.519714,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 North Rd North East ",
     "sg:city":"Valley",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202514291,
-    "wof:lastmodified":1449061396,
+    "wof:lastmodified":1466310778,
     "wof:name":"Medlab Dunedin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "specialists"
     ]
 },
-  "bbox": [170.519714,-45.854393,170.519714,-45.854393],
-  "geometry": {"coordinates":[170.519714,-45.854393],"type":"Point"}
+  "bbox": [
+    170.519714,
+    -45.854393,
+    170.519714,
+    -45.854393
+],
+  "geometry": {"coordinates":[170.51971399999999,-45.854393],"type":"Point"}
 }

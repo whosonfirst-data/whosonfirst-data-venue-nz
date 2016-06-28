@@ -2,13 +2,14 @@
   "id": 185873695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.271011,-39.546265,174.271011,-39.546265",
     "geom:latitude":-39.546265,
     "geom:longitude":174.271011,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Ohangai Rd ",
     "sg:city":"Hawera",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185873695,
-    "wof:lastmodified":1449006949,
+    "wof:lastmodified":1466311704,
     "wof:name":"Golden Pine Saddlery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.271011,-39.546265,174.271011,-39.546265],
-  "geometry": {"coordinates":[174.271011,-39.546265],"type":"Point"}
+  "bbox": [
+    174.271011,
+    -39.546265,
+    174.271011,
+    -39.546265
+],
+  "geometry": {"coordinates":[174.27101099999999,-39.546265],"type":"Point"}
 }

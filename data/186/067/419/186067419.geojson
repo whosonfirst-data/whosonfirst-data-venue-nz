@@ -2,13 +2,14 @@
   "id": 186067419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.244049,-37.759178,175.244049,-37.759178",
     "geom:latitude":-37.759178,
     "geom:longitude":175.244049,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Sunshine Ave Te Rapa ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186067419,
-    "wof:lastmodified":1449050433,
+    "wof:lastmodified":1466311691,
     "wof:name":"Waikato Decorators (1999) Ltd",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.244049,-37.759178,175.244049,-37.759178],
-  "geometry": {"coordinates":[175.244049,-37.759178],"type":"Point"}
+  "bbox": [
+    175.244049,
+    -37.759178,
+    175.244049,
+    -37.759178
+],
+  "geometry": {"coordinates":[175.24404899999999,-37.759178],"type":"Point"}
 }

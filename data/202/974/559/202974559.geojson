@@ -2,13 +2,14 @@
   "id": 202974559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.714233,-36.891544,174.714233,-36.891544",
     "geom:latitude":-36.891544,
     "geom:longitude":174.714233,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Weston Ave Mt Albert ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202974559,
-    "wof:lastmodified":1449062326,
+    "wof:lastmodified":1466313012,
     "wof:name":"Norma de Langen Garden Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.714233,-36.891544,174.714233,-36.891544],
-  "geometry": {"coordinates":[174.714233,-36.891544],"type":"Point"}
+  "bbox": [
+    174.714233,
+    -36.891544,
+    174.714233,
+    -36.891544
+],
+  "geometry": {"coordinates":[174.71423300000001,-36.891544],"type":"Point"}
 }

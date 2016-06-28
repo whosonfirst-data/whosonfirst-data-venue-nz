@@ -2,13 +2,14 @@
   "id": 186635379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.735458,-40.283054,175.735458,-40.283054",
     "geom:latitude":-40.283054,
     "geom:longitude":175.735458,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"North Grove Rd ",
     "sg:city":"Ashhurst",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186635379,
-    "wof:lastmodified":1449051528,
+    "wof:lastmodified":1466313008,
     "wof:name":"The Herb Farm & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [175.735458,-40.283054,175.735458,-40.283054],
-  "geometry": {"coordinates":[175.735458,-40.283054],"type":"Point"}
+  "bbox": [
+    175.735458,
+    -40.283054,
+    175.735458,
+    -40.283054
+],
+  "geometry": {"coordinates":[175.73545799999999,-40.283054],"type":"Point"}
 }

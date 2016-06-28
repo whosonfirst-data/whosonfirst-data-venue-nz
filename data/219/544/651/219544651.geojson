@@ -2,13 +2,14 @@
   "id": 219544651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.163559,-37.689667,176.163559,-37.689667",
     "geom:latitude":-37.689667,
     "geom:longitude":176.163559,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Third Ave ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219544651,
-    "wof:lastmodified":1449073911,
+    "wof:lastmodified":1466312456,
     "wof:name":"Installer Services Ltd",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.163559,-37.689667,176.163559,-37.689667],
-  "geometry": {"coordinates":[176.163559,-37.689667],"type":"Point"}
+  "bbox": [
+    176.163559,
+    -37.689667,
+    176.163559,
+    -37.689667
+],
+  "geometry": {"coordinates":[176.16355899999999,-37.689667],"type":"Point"}
 }

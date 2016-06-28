@@ -2,13 +2,14 @@
   "id": 202953869,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.877777,-39.667309,176.877777,-39.667309",
     "geom:latitude":-39.667309,
     "geom:longitude":176.877777,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Cooper St Havelock North ",
     "sg:city":"Hastings",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202953869,
-    "wof:lastmodified":1449061835,
+    "wof:lastmodified":1466312976,
     "wof:name":"Peak Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.877777,-39.667309,176.877777,-39.667309],
-  "geometry": {"coordinates":[176.877777,-39.667309],"type":"Point"}
+  "bbox": [
+    176.877777,
+    -39.667309,
+    176.877777,
+    -39.667309
+],
+  "geometry": {"coordinates":[176.87777700000001,-39.667309],"type":"Point"}
 }

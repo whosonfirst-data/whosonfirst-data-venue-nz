@@ -2,13 +2,14 @@
   "id": 186056223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.69281,-43.517616,172.69281,-43.517616",
     "geom:latitude":-43.517616,
     "geom:longitude":172.69281,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Helanca Ave Wainoni ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186056223,
-    "wof:lastmodified":1449051139,
+    "wof:lastmodified":1466311557,
     "wof:name":"Browne David Contractors Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "maintenance"
     ]
 },
-  "bbox": [172.69281,-43.517616,172.69281,-43.517616],
-  "geometry": {"coordinates":[172.69281,-43.517616],"type":"Point"}
+  "bbox": [
+    172.69281,
+    -43.517616,
+    172.69281,
+    -43.517616
+],
+  "geometry": {"coordinates":[172.69281000000001,-43.517616],"type":"Point"}
 }

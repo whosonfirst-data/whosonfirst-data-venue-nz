@@ -2,13 +2,14 @@
   "id": 219723515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.183884,-37.636116,176.183884,-37.636116",
     "geom:latitude":-37.636116,
     "geom:longitude":176.183884,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 a May St Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219723515,
-    "wof:lastmodified":1449072444,
+    "wof:lastmodified":1466312856,
     "wof:name":"Mount Trucks",
     "wof:parent_id":85773039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [176.183884,-37.636116,176.183884,-37.636116],
-  "geometry": {"coordinates":[176.183884,-37.636116],"type":"Point"}
+  "bbox": [
+    176.183884,
+    -37.636116,
+    176.183884,
+    -37.636116
+],
+  "geometry": {"coordinates":[176.18388400000001,-37.636116],"type":"Point"}
 }

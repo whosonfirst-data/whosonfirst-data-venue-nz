@@ -2,13 +2,14 @@
   "id": 220101181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.36821,-35.75478,174.36821,-35.75478",
     "geom:latitude":-35.75478,
     "geom:longitude":174.36821,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Onerahi Rd Onerahi ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220101181,
-    "wof:lastmodified":1449074467,
+    "wof:lastmodified":1466311997,
     "wof:name":"Onerahi Bakery",
     "wof:parent_id":85773083,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [174.36821,-35.75478,174.36821,-35.75478],
+  "bbox": [
+    174.36821,
+    -35.75478,
+    174.36821,
+    -35.75478
+],
   "geometry": {"coordinates":[174.36821,-35.75478],"type":"Point"}
 }

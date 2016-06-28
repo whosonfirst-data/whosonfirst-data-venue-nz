@@ -2,13 +2,14 @@
   "id": 220016649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.844818,-39.64167,176.844818,-39.64167",
     "geom:latitude":-39.64167,
     "geom:longitude":176.844818,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hastings, Havelock North, Dannevirke ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220016649,
-    "wof:lastmodified":1449074183,
+    "wof:lastmodified":1466310980,
     "wof:name":"Nexus NZ Financial Services Ltd",
     "wof:parent_id":85782409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mortgage"
     ]
 },
-  "bbox": [176.844818,-39.64167,176.844818,-39.64167],
+  "bbox": [
+    176.844818,
+    -39.64167,
+    176.844818,
+    -39.64167
+],
   "geometry": {"coordinates":[176.844818,-39.64167],"type":"Point"}
 }

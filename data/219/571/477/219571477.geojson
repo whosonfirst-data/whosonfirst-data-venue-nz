@@ -2,13 +2,14 @@
   "id": 219571477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.348633,-46.408463,168.348633,-46.408463",
     "geom:latitude":-46.408463,
     "geom:longitude":168.348633,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Yarrow St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219571477,
-    "wof:lastmodified":1449072794,
+    "wof:lastmodified":1466312405,
     "wof:name":"GWD Russells Ltd LMVD",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [168.348633,-46.408463,168.348633,-46.408463],
-  "geometry": {"coordinates":[168.348633,-46.408463],"type":"Point"}
+  "bbox": [
+    168.348633,
+    -46.408463,
+    168.348633,
+    -46.408463
+],
+  "geometry": {"coordinates":[168.34863300000001,-46.408463],"type":"Point"}
 }

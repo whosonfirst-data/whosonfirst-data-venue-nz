@@ -2,13 +2,14 @@
   "id": 219298003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.661453,-40.946655,175.661453,-40.946655",
     "geom:latitude":-40.946655,
     "geom:longitude":175.661453,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Victoria St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219298003,
-    "wof:lastmodified":1449071360,
+    "wof:lastmodified":1466310920,
     "wof:name":"Victoria Houses",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.661453,-40.946655,175.661453,-40.946655],
-  "geometry": {"coordinates":[175.661453,-40.946655],"type":"Point"}
+  "bbox": [
+    175.661453,
+    -40.946655,
+    175.661453,
+    -40.946655
+],
+  "geometry": {"coordinates":[175.66145299999999,-40.946655],"type":"Point"}
 }

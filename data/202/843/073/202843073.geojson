@@ -2,13 +2,14 @@
   "id": 202843073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.186218,-41.340862,173.186218,-41.340862",
     "geom:latitude":-41.340862,
     "geom:longitude":173.186218,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Queen St Richmond ",
     "sg:city":"Nelson",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202843073,
-    "wof:lastmodified":1449060333,
+    "wof:lastmodified":1466312584,
     "wof:name":"Smiths City Ltd",
     "wof:parent_id":85781765,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.186218,-41.340862,173.186218,-41.340862],
+  "bbox": [
+    173.186218,
+    -41.340862,
+    173.186218,
+    -41.340862
+],
   "geometry": {"coordinates":[173.186218,-41.340862],"type":"Point"}
 }

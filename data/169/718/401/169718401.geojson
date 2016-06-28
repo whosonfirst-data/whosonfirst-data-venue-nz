@@ -2,13 +2,14 @@
   "id": 169718401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.787231,-36.941578,174.787231,-36.941578",
     "geom:latitude":-36.941578,
     "geom:longitude":174.787231,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 A Coronation Rd Mangere Bridge ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169718401,
-    "wof:lastmodified":1449033397,
+    "wof:lastmodified":1466311053,
     "wof:name":"Mangere Bridge Stationers",
     "wof:parent_id":85778435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.787231,-36.941578,174.787231,-36.941578],
-  "geometry": {"coordinates":[174.787231,-36.941578],"type":"Point"}
+  "bbox": [
+    174.787231,
+    -36.941578,
+    174.787231,
+    -36.941578
+],
+  "geometry": {"coordinates":[174.78723099999999,-36.941578],"type":"Point"}
 }

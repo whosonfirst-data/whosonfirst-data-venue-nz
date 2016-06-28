@@ -2,13 +2,14 @@
   "id": 203186191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.001923,-40.920227,175.001923,-40.920227",
     "geom:latitude":-40.920227,
     "geom:longitude":175.001923,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Ihakara St ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203186191,
-    "wof:lastmodified":1449026421,
+    "wof:lastmodified":1466311247,
     "wof:name":"Blue Ribbon Dry Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaner"
     ]
 },
-  "bbox": [175.001923,-40.920227,175.001923,-40.920227],
-  "geometry": {"coordinates":[175.001923,-40.920227],"type":"Point"}
+  "bbox": [
+    175.001923,
+    -40.920227,
+    175.001923,
+    -40.920227
+],
+  "geometry": {"coordinates":[175.00192300000001,-40.920227],"type":"Point"}
 }

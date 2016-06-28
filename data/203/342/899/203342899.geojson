@@ -2,13 +2,14 @@
   "id": 203342899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.779358,-41.312798,174.779358,-41.312798",
     "geom:latitude":-41.312798,
     "geom:longitude":174.779358,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Riddiford St Newtown ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203342899,
-    "wof:lastmodified":1449026741,
+    "wof:lastmodified":1466312372,
     "wof:name":"Newtown Shoes",
     "wof:parent_id":85778491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "wear"
     ]
 },
-  "bbox": [174.779358,-41.312798,174.779358,-41.312798],
+  "bbox": [
+    174.779358,
+    -41.312798,
+    174.779358,
+    -41.312798
+],
   "geometry": {"coordinates":[174.779358,-41.312798],"type":"Point"}
 }

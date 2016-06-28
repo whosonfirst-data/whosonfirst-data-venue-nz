@@ -2,13 +2,14 @@
   "id": 203060965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.751923,-36.745937,174.751923,-36.745937",
     "geom:latitude":-36.745937,
     "geom:longitude":174.751923,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Kowhai Rd Mairangi Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203060965,
-    "wof:lastmodified":1449026690,
+    "wof:lastmodified":1466311612,
     "wof:name":"Garth Rae Property Improvements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "contractor"
     ]
 },
-  "bbox": [174.751923,-36.745937,174.751923,-36.745937],
-  "geometry": {"coordinates":[174.751923,-36.745937],"type":"Point"}
+  "bbox": [
+    174.751923,
+    -36.745937,
+    174.751923,
+    -36.745937
+],
+  "geometry": {"coordinates":[174.75192300000001,-36.745937],"type":"Point"}
 }

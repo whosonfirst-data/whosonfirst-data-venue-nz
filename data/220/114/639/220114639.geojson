@@ -2,13 +2,14 @@
   "id": 220114639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.90564,-41.226585,174.90564,-41.226585",
     "geom:latitude":-41.226585,
     "geom:longitude":174.90564,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Randwick Rd Moera ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220114639,
-    "wof:lastmodified":1449074376,
+    "wof:lastmodified":1466310728,
     "wof:name":"Zany Zeus Cheeses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [174.90564,-41.226585,174.90564,-41.226585],
-  "geometry": {"coordinates":[174.90564,-41.226585],"type":"Point"}
+  "bbox": [
+    174.90564,
+    -41.226585,
+    174.90564,
+    -41.226585
+],
+  "geometry": {"coordinates":[174.90564000000001,-41.226585],"type":"Point"}
 }

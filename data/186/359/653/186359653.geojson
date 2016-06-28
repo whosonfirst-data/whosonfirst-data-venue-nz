@@ -2,13 +2,14 @@
   "id": 186359653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.877777,-37.005478,174.877777,-37.005478",
     "geom:latitude":-37.005478,
     "geom:longitude":174.877777,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"99-103 Kerrs Rd Wiri ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186359653,
-    "wof:lastmodified":1449050199,
+    "wof:lastmodified":1466312274,
     "wof:name":"Auckland Packaging Company",
     "wof:parent_id":85773349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.877777,-37.005478,174.877777,-37.005478],
-  "geometry": {"coordinates":[174.877777,-37.005478],"type":"Point"}
+  "bbox": [
+    174.877777,
+    -37.005478,
+    174.877777,
+    -37.005478
+],
+  "geometry": {"coordinates":[174.87777700000001,-37.005478],"type":"Point"}
 }

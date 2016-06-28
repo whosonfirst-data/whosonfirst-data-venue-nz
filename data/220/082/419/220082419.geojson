@@ -2,13 +2,14 @@
   "id": 220082419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.784103,-36.908348,174.784103,-36.908348",
     "geom:latitude":-36.908348,
     "geom:longitude":174.784103,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"77 a Campbell Rd Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220082419,
-    "wof:lastmodified":1449074084,
+    "wof:lastmodified":1466311883,
     "wof:name":"Bakery Fluid And Spraying Solutions",
     "wof:parent_id":85778511,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "machinery"
     ]
 },
-  "bbox": [174.784103,-36.908348,174.784103,-36.908348],
-  "geometry": {"coordinates":[174.784103,-36.908348],"type":"Point"}
+  "bbox": [
+    174.784103,
+    -36.908348,
+    174.784103,
+    -36.908348
+],
+  "geometry": {"coordinates":[174.78410299999999,-36.908348],"type":"Point"}
 }

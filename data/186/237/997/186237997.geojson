@@ -2,13 +2,14 @@
   "id": 186237997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.998871,-40.907288,174.998871,-40.907288",
     "geom:latitude":-40.907288,
     "geom:longitude":174.998871,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Kapiti Rd ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186237997,
-    "wof:lastmodified":1449050333,
+    "wof:lastmodified":1466311748,
     "wof:name":"Coastal Machinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.998871,-40.907288,174.998871,-40.907288],
-  "geometry": {"coordinates":[174.998871,-40.907288],"type":"Point"}
+  "bbox": [
+    174.998871,
+    -40.907288,
+    174.998871,
+    -40.907288
+],
+  "geometry": {"coordinates":[174.99887100000001,-40.907288],"type":"Point"}
 }

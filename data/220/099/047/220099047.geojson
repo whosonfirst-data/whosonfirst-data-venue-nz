@@ -2,13 +2,14 @@
   "id": 220099047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.745422,-36.871975,174.745422,-36.871975",
     "geom:latitude":-36.871975,
     "geom:longitude":174.745422,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"440 New North Rd Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220099047,
-    "wof:lastmodified":1449074579,
+    "wof:lastmodified":1466310594,
     "wof:name":"Kingsland Bakery",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [174.745422,-36.871975,174.745422,-36.871975],
-  "geometry": {"coordinates":[174.745422,-36.871975],"type":"Point"}
+  "bbox": [
+    174.745422,
+    -36.871975,
+    174.745422,
+    -36.871975
+],
+  "geometry": {"coordinates":[174.74542199999999,-36.871975],"type":"Point"}
 }

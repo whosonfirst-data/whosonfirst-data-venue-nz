@@ -2,13 +2,14 @@
   "id": 219214825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.219757,-41.311722,173.219757,-41.311722",
     "geom:latitude":-41.311722,
     "geom:longitude":173.219757,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Aldinga Ave Stoke ",
     "sg:city":"Nelson",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219214825,
-    "wof:lastmodified":1449073803,
+    "wof:lastmodified":1466311635,
     "wof:name":"Qwik Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.219757,-41.311722,173.219757,-41.311722],
-  "geometry": {"coordinates":[173.219757,-41.311722],"type":"Point"}
+  "bbox": [
+    173.219757,
+    -41.311722,
+    173.219757,
+    -41.311722
+],
+  "geometry": {"coordinates":[173.21975699999999,-41.311722],"type":"Point"}
 }

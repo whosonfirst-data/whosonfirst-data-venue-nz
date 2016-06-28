@@ -2,13 +2,14 @@
   "id": 202388259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.865158,-41.142586,174.865158,-41.142586",
     "geom:latitude":-41.142586,
     "geom:longitude":174.865158,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Bedford St Cannons Creek ",
     "sg:city":"Porirua",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202388259,
-    "wof:lastmodified":1449060190,
+    "wof:lastmodified":1466310706,
     "wof:name":"Pacific Health Services Porirua",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "health"
     ]
 },
-  "bbox": [174.865158,-41.142586,174.865158,-41.142586],
-  "geometry": {"coordinates":[174.865158,-41.142586],"type":"Point"}
+  "bbox": [
+    174.865158,
+    -41.142586,
+    174.865158,
+    -41.142586
+],
+  "geometry": {"coordinates":[174.86515800000001,-41.142586],"type":"Point"}
 }

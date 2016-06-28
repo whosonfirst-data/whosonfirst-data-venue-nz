@@ -2,13 +2,14 @@
   "id": 202923777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.276123,-44.237183,171.276123,-44.237183",
     "geom:latitude":-44.237183,
     "geom:longitude":171.276123,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"168 King St ",
     "sg:city":"Temuka",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202923777,
-    "wof:lastmodified":1449062557,
+    "wof:lastmodified":1466312919,
     "wof:name":"Temuka's Oasis Garden Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gardening"
     ]
 },
-  "bbox": [171.276123,-44.237183,171.276123,-44.237183],
-  "geometry": {"coordinates":[171.276123,-44.237183],"type":"Point"}
+  "bbox": [
+    171.276123,
+    -44.237183,
+    171.276123,
+    -44.237183
+],
+  "geometry": {"coordinates":[171.27612300000001,-44.237183],"type":"Point"}
 }

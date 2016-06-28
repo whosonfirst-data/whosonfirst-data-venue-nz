@@ -2,13 +2,14 @@
   "id": 219653457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.759262,-36.852959,174.759262,-36.852959",
     "geom:latitude":-36.852959,
     "geom:longitude":174.759262,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Hobson St ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":219653457,
-    "wof:lastmodified":1449070644,
+    "wof:lastmodified":1466312714,
     "wof:name":"Hope Hickman Ltd - N.G.K",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -74,6 +76,11 @@
         "supplies"
     ]
 },
-  "bbox": [174.759262,-36.852959,174.759262,-36.852959],
-  "geometry": {"coordinates":[174.759262,-36.852959],"type":"Point"}
+  "bbox": [
+    174.759262,
+    -36.852959,
+    174.759262,
+    -36.852959
+],
+  "geometry": {"coordinates":[174.75926200000001,-36.852959],"type":"Point"}
 }

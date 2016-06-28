@@ -2,13 +2,14 @@
   "id": 169753921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.250244,-38.139,176.250244,-38.139",
     "geom:latitude":-38.139,
     "geom:longitude":176.250244,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 Eruera St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169753921,
-    "wof:lastmodified":1449033072,
+    "wof:lastmodified":1466311297,
     "wof:name":"Martins Toyworld",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.250244,-38.139,176.250244,-38.139],
-  "geometry": {"coordinates":[176.250244,-38.139],"type":"Point"}
+  "bbox": [
+    176.250244,
+    -38.139,
+    176.250244,
+    -38.139
+],
+  "geometry": {"coordinates":[176.25024400000001,-38.139],"type":"Point"}
 }

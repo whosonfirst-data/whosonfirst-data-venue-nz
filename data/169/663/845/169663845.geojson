@@ -2,13 +2,14 @@
   "id": 169663845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.566849,-40.226387,175.566849,-40.226387",
     "geom:latitude":-40.226387,
     "geom:longitude":175.566849,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Fergusson St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169663845,
-    "wof:lastmodified":1449035103,
+    "wof:lastmodified":1466310717,
     "wof:name":"Flower Box",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.566849,-40.226387,175.566849,-40.226387],
-  "geometry": {"coordinates":[175.566849,-40.226387],"type":"Point"}
+  "bbox": [
+    175.566849,
+    -40.226387,
+    175.566849,
+    -40.226387
+],
+  "geometry": {"coordinates":[175.56684899999999,-40.226387],"type":"Point"}
 }

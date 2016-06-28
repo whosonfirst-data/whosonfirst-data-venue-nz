@@ -2,13 +2,14 @@
   "id": 186315061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.867813,-37.025761,174.867813,-37.025761",
     "geom:latitude":-37.025761,
     "geom:longitude":174.867813,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 88003 Clendon Park ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186315061,
-    "wof:lastmodified":1449052901,
+    "wof:lastmodified":1466312237,
     "wof:name":"Alpha & Omega Steel Processing Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.867813,-37.025761,174.867813,-37.025761],
-  "geometry": {"coordinates":[174.867813,-37.025761],"type":"Point"}
+  "bbox": [
+    174.867813,
+    -37.025761,
+    174.867813,
+    -37.025761
+],
+  "geometry": {"coordinates":[174.86781300000001,-37.025761],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219664975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.6418,-40.343761,175.6418,-40.343761",
     "geom:latitude":-40.343761,
     "geom:longitude":175.6418,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Napier Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219664975,
-    "wof:lastmodified":1449071692,
+    "wof:lastmodified":1466312732,
     "wof:name":"Love Tyres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.6418,-40.343761,175.6418,-40.343761],
-  "geometry": {"coordinates":[175.6418,-40.343761],"type":"Point"}
+  "bbox": [
+    175.6418,
+    -40.343761,
+    175.6418,
+    -40.343761
+],
+  "geometry": {"coordinates":[175.64179999999999,-40.343761],"type":"Point"}
 }

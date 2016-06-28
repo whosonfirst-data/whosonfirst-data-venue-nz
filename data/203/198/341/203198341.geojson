@@ -2,13 +2,14 @@
   "id": 203198341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.749084,-36.861179,174.749084,-36.861179",
     "geom:latitude":-36.861179,
     "geom:longitude":174.749084,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 MacKelvie St Grey Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203198341,
-    "wof:lastmodified":1449025605,
+    "wof:lastmodified":1466311358,
     "wof:name":"Caro & Jerrat Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.749084,-36.861179,174.749084,-36.861179],
-  "geometry": {"coordinates":[174.749084,-36.861179],"type":"Point"}
+  "bbox": [
+    174.749084,
+    -36.861179,
+    174.749084,
+    -36.861179
+],
+  "geometry": {"coordinates":[174.74908400000001,-36.861179],"type":"Point"}
 }

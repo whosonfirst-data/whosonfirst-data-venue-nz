@@ -2,13 +2,14 @@
   "id": 219568377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.347427,-46.414997,168.347427,-46.414997",
     "geom:latitude":-46.414997,
     "geom:longitude":168.347427,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Clyde St West Invercargill ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219568377,
-    "wof:lastmodified":1449070297,
+    "wof:lastmodified":1466312398,
     "wof:name":"Auto Boutique Car Grooming",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [168.347427,-46.414997,168.347427,-46.414997],
-  "geometry": {"coordinates":[168.347427,-46.414997],"type":"Point"}
+  "bbox": [
+    168.347427,
+    -46.414997,
+    168.347427,
+    -46.414997
+],
+  "geometry": {"coordinates":[168.34742700000001,-46.414997],"type":"Point"}
 }

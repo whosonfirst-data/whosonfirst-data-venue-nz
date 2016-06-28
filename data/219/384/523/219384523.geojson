@@ -2,13 +2,14 @@
   "id": 219384523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.129715,-37.729118,176.129715,-37.729118",
     "geom:latitude":-37.729118,
     "geom:longitude":176.129715,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Cameron & Chadwick Rds Greerton ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219384523,
-    "wof:lastmodified":1449070834,
+    "wof:lastmodified":1466311638,
     "wof:name":"Greerton Village Holiday Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "broker"
     ]
 },
-  "bbox": [176.129715,-37.729118,176.129715,-37.729118],
+  "bbox": [
+    176.129715,
+    -37.729118,
+    176.129715,
+    -37.729118
+],
   "geometry": {"coordinates":[176.129715,-37.729118],"type":"Point"}
 }

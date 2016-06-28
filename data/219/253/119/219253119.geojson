@@ -2,13 +2,14 @@
   "id": 219253119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.35141,-46.378384,168.35141,-46.378384",
     "geom:latitude":-46.378384,
     "geom:longitude":168.35141,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Preston St Waikiwi ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219253119,
-    "wof:lastmodified":1449073482,
+    "wof:lastmodified":1466311986,
     "wof:name":"Wilder Transport Ltd",
     "wof:parent_id":85778907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.35141,-46.378384,168.35141,-46.378384],
-  "geometry": {"coordinates":[168.35141,-46.378384],"type":"Point"}
+  "bbox": [
+    168.35141,
+    -46.378384,
+    168.35141,
+    -46.378384
+],
+  "geometry": {"coordinates":[168.35140999999999,-46.378384],"type":"Point"}
 }

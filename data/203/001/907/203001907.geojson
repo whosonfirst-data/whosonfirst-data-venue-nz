@@ -2,13 +2,14 @@
   "id": 203001907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.5905,-40.372658,175.5905,-40.372658",
     "geom:latitude":-40.372658,
     "geom:longitude":175.5905,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Nairn Cre Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203001907,
-    "wof:lastmodified":1449025362,
+    "wof:lastmodified":1466310534,
     "wof:name":"Manawatu Tree Trimmers Ltd",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.5905,-40.372658,175.5905,-40.372658],
-  "geometry": {"coordinates":[175.5905,-40.372658],"type":"Point"}
+  "bbox": [
+    175.5905,
+    -40.372658,
+    175.5905,
+    -40.372658
+],
+  "geometry": {"coordinates":[175.59049999999999,-40.372658],"type":"Point"}
 }

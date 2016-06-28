@@ -2,13 +2,14 @@
   "id": 219563495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.598373,-43.529781,172.598373,-43.529781",
     "geom:latitude":-43.529781,
     "geom:longitude":172.598373,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"126 Riccarton Rd ",
     "sg:city":"Riccarton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219563495,
-    "wof:lastmodified":1449070425,
+    "wof:lastmodified":1466312494,
     "wof:name":"AA Automobile Association",
     "wof:parent_id":85778569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.598373,-43.529781,172.598373,-43.529781],
-  "geometry": {"coordinates":[172.598373,-43.529781],"type":"Point"}
+  "bbox": [
+    172.598373,
+    -43.529781,
+    172.598373,
+    -43.529781
+],
+  "geometry": {"coordinates":[172.59837300000001,-43.529781],"type":"Point"}
 }

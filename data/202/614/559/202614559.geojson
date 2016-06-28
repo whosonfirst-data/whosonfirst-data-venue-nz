@@ -2,13 +2,14 @@
   "id": 202614559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.012543,-40.916271,175.012543,-40.916271",
     "geom:latitude":-40.916271,
     "geom:longitude":175.012543,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Tongariro St ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":202614559,
-    "wof:lastmodified":1449062743,
+    "wof:lastmodified":1466311634,
     "wof:name":"Linework Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [175.012543,-40.916271,175.012543,-40.916271],
-  "geometry": {"coordinates":[175.012543,-40.916271],"type":"Point"}
+  "bbox": [
+    175.012543,
+    -40.916271,
+    175.012543,
+    -40.916271
+],
+  "geometry": {"coordinates":[175.01254299999999,-40.916271],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202432011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.152084,-37.705505,176.152084,-37.705505",
     "geom:latitude":-37.705505,
     "geom:longitude":176.152084,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"771 Cameron Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202432011,
-    "wof:lastmodified":1449060066,
+    "wof:lastmodified":1466312048,
     "wof:name":"Hans Laven Clinical Psychologist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.152084,-37.705505,176.152084,-37.705505],
+  "bbox": [
+    176.152084,
+    -37.705505,
+    176.152084,
+    -37.705505
+],
   "geometry": {"coordinates":[176.152084,-37.705505],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219971051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.50148,-36.98267,175.50148,-36.98267",
     "geom:latitude":-36.98267,
     "geom:longitude":175.50148,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Bennett Rd Te Mata ",
     "sg:city":"Tapu",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219971051,
-    "wof:lastmodified":1449072169,
+    "wof:lastmodified":1466313127,
     "wof:name":"Hopping J H",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "supply"
     ]
 },
-  "bbox": [175.50148,-36.98267,175.50148,-36.98267],
-  "geometry": {"coordinates":[175.50148,-36.98267],"type":"Point"}
+  "bbox": [
+    175.50148,
+    -36.98267,
+    175.50148,
+    -36.98267
+],
+  "geometry": {"coordinates":[175.50147999999999,-36.98267],"type":"Point"}
 }

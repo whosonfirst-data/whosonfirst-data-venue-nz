@@ -2,13 +2,14 @@
   "id": 186140433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.04451,-39.933716,175.04451,-39.933716",
     "geom:latitude":-39.933716,
     "geom:longitude":175.04451,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Ingestre St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186140433,
-    "wof:lastmodified":1449050755,
+    "wof:lastmodified":1466310899,
     "wof:name":"Alpha Precision Engineering",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.04451,-39.933716,175.04451,-39.933716],
+  "bbox": [
+    175.04451,
+    -39.933716,
+    175.04451,
+    -39.933716
+],
   "geometry": {"coordinates":[175.04451,-39.933716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236015565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.666153,-43.543098,172.666153,-43.543098",
     "geom:latitude":-43.543098,
     "geom:longitude":172.666153,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"378 a Ferry Rd Woolston ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236015565,
-    "wof:lastmodified":1449002245,
+    "wof:lastmodified":1466310899,
     "wof:name":"Hard Wok Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "takeaway"
     ]
 },
-  "bbox": [172.666153,-43.543098,172.666153,-43.543098],
-  "geometry": {"coordinates":[172.666153,-43.543098],"type":"Point"}
+  "bbox": [
+    172.666153,
+    -43.543098,
+    172.666153,
+    -43.543098
+],
+  "geometry": {"coordinates":[172.66615300000001,-43.543098],"type":"Point"}
 }

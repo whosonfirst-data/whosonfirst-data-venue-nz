@@ -2,13 +2,14 @@
   "id": 169713703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.041992,-39.94492,175.041992,-39.94492",
     "geom:latitude":-39.94492,
     "geom:longitude":175.041992,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Taupo Qy ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169713703,
-    "wof:lastmodified":1449035647,
+    "wof:lastmodified":1466311014,
     "wof:name":"Trafalgar Square Shopping Centre",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "stores"
     ]
 },
-  "bbox": [175.041992,-39.94492,175.041992,-39.94492],
-  "geometry": {"coordinates":[175.041992,-39.94492],"type":"Point"}
+  "bbox": [
+    175.041992,
+    -39.94492,
+    175.041992,
+    -39.94492
+],
+  "geometry": {"coordinates":[175.04199199999999,-39.94492],"type":"Point"}
 }

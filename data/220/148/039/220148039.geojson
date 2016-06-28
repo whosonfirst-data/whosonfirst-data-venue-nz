@@ -2,13 +2,14 @@
   "id": 220148039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.865646,-37.671551,174.865646,-37.671551",
     "geom:latitude":-37.671551,
     "geom:longitude":174.865646,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Waingaro Rd R D 1 Ngaruawahia Te ",
     "sg:city":"Akau",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220148039,
-    "wof:lastmodified":1449074744,
+    "wof:lastmodified":1466311047,
     "wof:name":"Te Akatea Apiaries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "-"
     ]
 },
-  "bbox": [174.865646,-37.671551,174.865646,-37.671551],
+  "bbox": [
+    174.865646,
+    -37.671551,
+    174.865646,
+    -37.671551
+],
   "geometry": {"coordinates":[174.865646,-37.671551],"type":"Point"}
 }

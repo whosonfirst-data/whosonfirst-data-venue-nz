@@ -2,13 +2,14 @@
   "id": 186430043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.891891,-36.928246,174.891891,-36.928246",
     "geom:latitude":-36.928246,
     "geom:longitude":174.891891,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Trugood Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186430043,
-    "wof:lastmodified":1449052088,
+    "wof:lastmodified":1466312499,
     "wof:name":"Richardson Pacific (NZ) Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.891891,-36.928246,174.891891,-36.928246],
-  "geometry": {"coordinates":[174.891891,-36.928246],"type":"Point"}
+  "bbox": [
+    174.891891,
+    -36.928246,
+    174.891891,
+    -36.928246
+],
+  "geometry": {"coordinates":[174.89189099999999,-36.928246],"type":"Point"}
 }

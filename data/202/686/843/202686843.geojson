@@ -2,13 +2,14 @@
   "id": 202686843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.703415,-36.895523,174.703415,-36.895523",
     "geom:latitude":-36.895523,
     "geom:longitude":174.703415,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1217 New North Rd Mt Albert ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202686843,
-    "wof:lastmodified":1449062038,
+    "wof:lastmodified":1466312191,
     "wof:name":"Bumble Bee Private Kindergarten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "children"
     ]
 },
-  "bbox": [174.703415,-36.895523,174.703415,-36.895523],
-  "geometry": {"coordinates":[174.703415,-36.895523],"type":"Point"}
+  "bbox": [
+    174.703415,
+    -36.895523,
+    174.703415,
+    -36.895523
+],
+  "geometry": {"coordinates":[174.70341500000001,-36.895523],"type":"Point"}
 }

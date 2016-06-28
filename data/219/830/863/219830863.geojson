@@ -2,13 +2,14 @@
   "id": 219830863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.667053,-43.321781,172.667053,-43.321781",
     "geom:latitude":-43.321781,
     "geom:longitude":172.667053,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 54 Woodend ",
     "sg:city":"Rangiora",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219830863,
-    "wof:lastmodified":1449071146,
+    "wof:lastmodified":1466313137,
     "wof:name":"Royal Agricultural Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.667053,-43.321781,172.667053,-43.321781],
-  "geometry": {"coordinates":[172.667053,-43.321781],"type":"Point"}
+  "bbox": [
+    172.667053,
+    -43.321781,
+    172.667053,
+    -43.321781
+],
+  "geometry": {"coordinates":[172.66705300000001,-43.321781],"type":"Point"}
 }

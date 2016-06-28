@@ -2,13 +2,14 @@
   "id": 169833553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.598038,-40.348152,175.598038,-40.348152",
     "geom:latitude":-40.348152,
     "geom:longitude":175.598038,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"38 Richmond Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":169833553,
-    "wof:lastmodified":1449033106,
+    "wof:lastmodified":1466311905,
     "wof:name":"NZ Adventure College",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "sport"
     ]
 },
-  "bbox": [175.598038,-40.348152,175.598038,-40.348152],
+  "bbox": [
+    175.598038,
+    -40.348152,
+    175.598038,
+    -40.348152
+],
   "geometry": {"coordinates":[175.598038,-40.348152],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185769939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.258057,-38.139858,176.258057,-38.139858",
     "geom:latitude":-38.139858,
     "geom:longitude":176.258057,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Amohau St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185769939,
-    "wof:lastmodified":1449007129,
+    "wof:lastmodified":1466311022,
     "wof:name":"Bingo Nine O Hall",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.258057,-38.139858,176.258057,-38.139858],
-  "geometry": {"coordinates":[176.258057,-38.139858],"type":"Point"}
+  "bbox": [
+    176.258057,
+    -38.139858,
+    176.258057,
+    -38.139858
+],
+  "geometry": {"coordinates":[176.25805700000001,-38.139858],"type":"Point"}
 }

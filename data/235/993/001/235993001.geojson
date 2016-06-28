@@ -2,13 +2,14 @@
   "id": 235993001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.992996,-45.068893,170.992996,-45.068893",
     "geom:latitude":-45.068893,
     "geom:longitude":170.992996,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Thames Hwy ",
     "sg:city":"Oamaru",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235993001,
-    "wof:lastmodified":1449008402,
+    "wof:lastmodified":1466312044,
     "wof:name":"Galleon Pizza's",
     "wof:parent_id":85781453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pizza"
     ]
 },
-  "bbox": [170.992996,-45.068893,170.992996,-45.068893],
-  "geometry": {"coordinates":[170.992996,-45.068893],"type":"Point"}
+  "bbox": [
+    170.992996,
+    -45.068893,
+    170.992996,
+    -45.068893
+],
+  "geometry": {"coordinates":[170.99299600000001,-45.068893],"type":"Point"}
 }

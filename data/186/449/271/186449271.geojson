@@ -2,13 +2,14 @@
   "id": 186449271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.157791,38.990379,-76.157791,38.990379",
     "geom:latitude":38.990379,
     "geom:longitude":-76.157791,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1057 ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186449271,
-    "wof:lastmodified":1449052831,
+    "wof:lastmodified":1466312704,
     "wof:name":"Campbell Electrical Queenstown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "servicing"
     ]
 },
-  "bbox": [-76.157791,38.990379,-76.157791,38.990379],
+  "bbox": [
+    -76.157791,
+    38.990379,
+    -76.157791,
+    38.990379
+],
   "geometry": {"coordinates":[-76.157791,38.990379],"type":"Point"}
 }

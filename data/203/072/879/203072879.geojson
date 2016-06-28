@@ -2,13 +2,14 @@
   "id": 203072879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.731812,-43.52079,172.731812,-43.52079",
     "geom:latitude":-43.52079,
     "geom:longitude":172.731812,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 A Estuary Rd South New ",
     "sg:city":"Brighton",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":203072879,
-    "wof:lastmodified":1449025943,
+    "wof:lastmodified":1466311753,
     "wof:name":"Goldfield Stone Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.731812,-43.52079,172.731812,-43.52079],
-  "geometry": {"coordinates":[172.731812,-43.52079],"type":"Point"}
+  "bbox": [
+    172.731812,
+    -43.52079,
+    172.731812,
+    -43.52079
+],
+  "geometry": {"coordinates":[172.73181199999999,-43.52079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202391025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.277893,-37.784103,175.277893,-37.784103",
     "geom:latitude":-37.784103,
     "geom:longitude":175.277893,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"87 London St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202391025,
-    "wof:lastmodified":1449061710,
+    "wof:lastmodified":1466312014,
     "wof:name":"New Zealand Red Cross Inc",
     "wof:parent_id":85780927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "first"
     ]
 },
-  "bbox": [175.277893,-37.784103,175.277893,-37.784103],
-  "geometry": {"coordinates":[175.277893,-37.784103],"type":"Point"}
+  "bbox": [
+    175.277893,
+    -37.784103,
+    175.277893,
+    -37.784103
+],
+  "geometry": {"coordinates":[175.27789300000001,-37.784103],"type":"Point"}
 }

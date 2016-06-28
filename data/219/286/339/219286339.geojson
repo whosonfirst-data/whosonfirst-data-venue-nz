@@ -2,13 +2,14 @@
   "id": 219286339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.001953,-41.293465,174.001953,-41.293465",
     "geom:latitude":-41.293465,
     "geom:longitude":174.001953,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 York St ",
     "sg:city":"Picton",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219286339,
-    "wof:lastmodified":1449071323,
+    "wof:lastmodified":1466310829,
     "wof:name":"Bridgend B & B/Homestay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.001953,-41.293465,174.001953,-41.293465],
-  "geometry": {"coordinates":[174.001953,-41.293465],"type":"Point"}
+  "bbox": [
+    174.001953,
+    -41.293465,
+    174.001953,
+    -41.293465
+],
+  "geometry": {"coordinates":[174.00195299999999,-41.293465],"type":"Point"}
 }

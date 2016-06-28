@@ -2,13 +2,14 @@
   "id": 219990005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.356674,41.141254,-73.356674,41.141254",
     "geom:latitude":41.141254,
     "geom:longitude":-73.356674,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 263 ",
     "sg:city":"Westport",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":219990005,
-    "wof:lastmodified":1449072753,
+    "wof:lastmodified":1466313179,
     "wof:name":"Institute of Chartered Accountants of New Zealand",
     "wof:parent_id":85847197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "finance"
     ]
 },
-  "bbox": [-73.356674,41.141254,-73.356674,41.141254],
+  "bbox": [
+    -73.356674,
+    41.141254,
+    -73.356674,
+    41.141254
+],
   "geometry": {"coordinates":[-73.356674,41.141254],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219810139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.898361,-36.915783,174.898361,-36.915783",
     "geom:latitude":-36.915783,
     "geom:longitude":174.898361,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4/1 Canon Pl Pakuranga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219810139,
-    "wof:lastmodified":1449071430,
+    "wof:lastmodified":1466313032,
     "wof:name":"Quality Panel & Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beater"
     ]
 },
-  "bbox": [174.898361,-36.915783,174.898361,-36.915783],
-  "geometry": {"coordinates":[174.898361,-36.915783],"type":"Point"}
+  "bbox": [
+    174.898361,
+    -36.915783,
+    174.898361,
+    -36.915783
+],
+  "geometry": {"coordinates":[174.89836099999999,-36.915783],"type":"Point"}
 }

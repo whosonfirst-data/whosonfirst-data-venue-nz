@@ -2,13 +2,14 @@
   "id": 202843553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.361328,-46.431065,168.361328,-46.431065",
     "geom:latitude":-46.431065,
     "geom:longitude":168.361328,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"329 Elles Rd ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202843553,
-    "wof:lastmodified":1449060334,
+    "wof:lastmodified":1466312589,
     "wof:name":"Swags 'n' Tails Design Studio",
     "wof:parent_id":85778911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.361328,-46.431065,168.361328,-46.431065],
-  "geometry": {"coordinates":[168.361328,-46.431065],"type":"Point"}
+  "bbox": [
+    168.361328,
+    -46.431065,
+    168.361328,
+    -46.431065
+],
+  "geometry": {"coordinates":[168.36132799999999,-46.431065],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185696359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.001663,-38.666725,178.001663,-38.666725",
     "geom:latitude":-38.666725,
     "geom:longitude":178.001663,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Banks St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185696359,
-    "wof:lastmodified":1449006727,
+    "wof:lastmodified":1466310538,
     "wof:name":"Smash Palace Wine Bar",
     "wof:parent_id":85780807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leisure"
     ]
 },
-  "bbox": [178.001663,-38.666725,178.001663,-38.666725],
-  "geometry": {"coordinates":[178.001663,-38.666725],"type":"Point"}
+  "bbox": [
+    178.001663,
+    -38.666725,
+    178.001663,
+    -38.666725
+],
+  "geometry": {"coordinates":[178.00166300000001,-38.666725],"type":"Point"}
 }

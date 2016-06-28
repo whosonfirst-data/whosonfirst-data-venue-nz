@@ -2,13 +2,14 @@
   "id": 169526777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.857758,-36.850716,174.857758,-36.850716",
     "geom:latitude":-36.850716,
     "geom:longitude":174.857758,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 St Heliers Bay Rd",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169526777,
-    "wof:lastmodified":1449033700,
+    "wof:lastmodified":1466310545,
     "wof:name":"ANZ Banking Group (New Zealand) Ltd",
     "wof:parent_id":85773175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.857758,-36.850716,174.857758,-36.850716],
-  "geometry": {"coordinates":[174.857758,-36.850716],"type":"Point"}
+  "bbox": [
+    174.857758,
+    -36.850716,
+    174.857758,
+    -36.850716
+],
+  "geometry": {"coordinates":[174.85775799999999,-36.850716],"type":"Point"}
 }

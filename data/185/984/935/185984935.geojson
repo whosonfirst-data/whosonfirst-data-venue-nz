@@ -2,13 +2,14 @@
   "id": 185984935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.929459,-36.892483,174.929459,-36.892483",
     "geom:latitude":-36.892483,
     "geom:longitude":174.929459,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Picton St Howick ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185984935,
-    "wof:lastmodified":1449007516,
+    "wof:lastmodified":1466312373,
     "wof:name":"Antique Bridal Cars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [174.929459,-36.892483,174.929459,-36.892483],
-  "geometry": {"coordinates":[174.929459,-36.892483],"type":"Point"}
+  "bbox": [
+    174.929459,
+    -36.892483,
+    174.929459,
+    -36.892483
+],
+  "geometry": {"coordinates":[174.92945900000001,-36.892483],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186468771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.923782,-41.18861,174.923782,-41.18861",
     "geom:latitude":-41.18861,
     "geom:longitude":174.923782,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Carter St Belmont Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186468771,
-    "wof:lastmodified":1449052280,
+    "wof:lastmodified":1466312659,
     "wof:name":"Belmont Plumbers",
     "wof:parent_id":85778173,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.923782,-41.18861,174.923782,-41.18861],
-  "geometry": {"coordinates":[174.923782,-41.18861],"type":"Point"}
+  "bbox": [
+    174.923782,
+    -41.18861,
+    174.923782,
+    -41.18861
+],
+  "geometry": {"coordinates":[174.92378199999999,-41.18861],"type":"Point"}
 }

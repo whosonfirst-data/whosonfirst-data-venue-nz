@@ -2,13 +2,14 @@
   "id": 186056837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.901108,-36.915958,174.901108,-36.915958",
     "geom:latitude":-36.915958,
     "geom:longitude":174.901108,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Ben Lomond Cre Pakuranga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186056837,
-    "wof:lastmodified":1449051140,
+    "wof:lastmodified":1466311566,
     "wof:name":"Fresco Systems Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "maintenance"
     ]
 },
-  "bbox": [174.901108,-36.915958,174.901108,-36.915958],
-  "geometry": {"coordinates":[174.901108,-36.915958],"type":"Point"}
+  "bbox": [
+    174.901108,
+    -36.915958,
+    174.901108,
+    -36.915958
+],
+  "geometry": {"coordinates":[174.90110799999999,-36.915958],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186386315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.909882,-41.206421,174.909882,-41.206421",
     "geom:latitude":-41.206421,
     "geom:longitude":174.909882,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Pretoria St Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186386315,
-    "wof:lastmodified":1449051784,
+    "wof:lastmodified":1466312471,
     "wof:name":"Ramset New Zealand",
     "wof:parent_id":85781005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.909882,-41.206421,174.909882,-41.206421],
-  "geometry": {"coordinates":[174.909882,-41.206421],"type":"Point"}
+  "bbox": [
+    174.909882,
+    -41.206421,
+    174.909882,
+    -41.206421
+],
+  "geometry": {"coordinates":[174.90988200000001,-41.206421],"type":"Point"}
 }

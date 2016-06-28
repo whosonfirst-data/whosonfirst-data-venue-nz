@@ -2,13 +2,14 @@
   "id": 186351413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.849655,-36.911758,174.849655,-36.911758",
     "geom:latitude":-36.911758,
     "geom:longitude":174.849655,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Allright Pl Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186351413,
-    "wof:lastmodified":1449052607,
+    "wof:lastmodified":1466312256,
     "wof:name":"Packaging Specialists",
     "wof:parent_id":85773109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.849655,-36.911758,174.849655,-36.911758],
-  "geometry": {"coordinates":[174.849655,-36.911758],"type":"Point"}
+  "bbox": [
+    174.849655,
+    -36.911758,
+    174.849655,
+    -36.911758
+],
+  "geometry": {"coordinates":[174.84965500000001,-36.911758],"type":"Point"}
 }

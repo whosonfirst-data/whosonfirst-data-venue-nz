@@ -2,13 +2,14 @@
   "id": 202634141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.257202,-37.738426,175.257202,-37.738426",
     "geom:latitude":-37.738426,
     "geom:longitude":175.257202,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Farnah Green Flagstaff ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202634141,
-    "wof:lastmodified":1449061338,
+    "wof:lastmodified":1466311798,
     "wof:name":"Colin Hyde Electrical",
     "wof:parent_id":85780897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "related"
     ]
 },
-  "bbox": [175.257202,-37.738426,175.257202,-37.738426],
-  "geometry": {"coordinates":[175.257202,-37.738426],"type":"Point"}
+  "bbox": [
+    175.257202,
+    -37.738426,
+    175.257202,
+    -37.738426
+],
+  "geometry": {"coordinates":[175.25720200000001,-37.738426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202794403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.327393,-35.729595,174.327393,-35.729595",
     "geom:latitude":-35.729595,
     "geom:longitude":174.327393,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Port Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202794403,
-    "wof:lastmodified":1449061349,
+    "wof:lastmodified":1466312416,
     "wof:name":"Better Bathrooms",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "door"
     ]
 },
-  "bbox": [174.327393,-35.729595,174.327393,-35.729595],
+  "bbox": [
+    174.327393,
+    -35.729595,
+    174.327393,
+    -35.729595
+],
   "geometry": {"coordinates":[174.327393,-35.729595],"type":"Point"}
 }

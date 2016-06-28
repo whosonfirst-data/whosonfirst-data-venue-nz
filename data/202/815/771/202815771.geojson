@@ -2,13 +2,14 @@
   "id": 202815771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.567825,-40.220108,175.567825,-40.220108",
     "geom:latitude":-40.220108,
     "geom:longitude":175.567825,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6/68 Grey St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202815771,
-    "wof:lastmodified":1449061361,
+    "wof:lastmodified":1466312580,
     "wof:name":"The Bed Barn",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [175.567825,-40.220108,175.567825,-40.220108],
+  "bbox": [
+    175.567825,
+    -40.220108,
+    175.567825,
+    -40.220108
+],
   "geometry": {"coordinates":[175.567825,-40.220108],"type":"Point"}
 }

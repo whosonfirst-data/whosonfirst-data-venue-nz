@@ -2,13 +2,14 @@
   "id": 219762145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.345917,-46.417664,168.345917,-46.417664",
     "geom:latitude":-46.417664,
     "geom:longitude":168.345917,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Tweed St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219762145,
-    "wof:lastmodified":1449072888,
+    "wof:lastmodified":1466312864,
     "wof:name":"Auto Breakdown",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "servicing"
     ]
 },
-  "bbox": [168.345917,-46.417664,168.345917,-46.417664],
-  "geometry": {"coordinates":[168.345917,-46.417664],"type":"Point"}
+  "bbox": [
+    168.345917,
+    -46.417664,
+    168.345917,
+    -46.417664
+],
+  "geometry": {"coordinates":[168.34591699999999,-46.417664],"type":"Point"}
 }

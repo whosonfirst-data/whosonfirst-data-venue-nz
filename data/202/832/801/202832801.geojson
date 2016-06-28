@@ -2,13 +2,14 @@
   "id": 202832801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.810333,-36.91161,174.810333,-36.91161",
     "geom:latitude":-36.91161,
     "geom:longitude":174.810333,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Fairfax Ave Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202832801,
-    "wof:lastmodified":1449060122,
+    "wof:lastmodified":1466312712,
     "wof:name":"Plantation Cane",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cane"
     ]
 },
-  "bbox": [174.810333,-36.91161,174.810333,-36.91161],
-  "geometry": {"coordinates":[174.810333,-36.91161],"type":"Point"}
+  "bbox": [
+    174.810333,
+    -36.91161,
+    174.810333,
+    -36.91161
+],
+  "geometry": {"coordinates":[174.81033300000001,-36.91161],"type":"Point"}
 }

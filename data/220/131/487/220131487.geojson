@@ -2,13 +2,14 @@
   "id": 220131487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.686523,-36.903332,174.686523,-36.903332",
     "geom:latitude":-36.903332,
     "geom:longitude":174.686523,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Crum Ave New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220131487,
-    "wof:lastmodified":1449074258,
+    "wof:lastmodified":1466310897,
     "wof:name":"Pasta Madero",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [174.686523,-36.903332,174.686523,-36.903332],
-  "geometry": {"coordinates":[174.686523,-36.903332],"type":"Point"}
+  "bbox": [
+    174.686523,
+    -36.903332,
+    174.686523,
+    -36.903332
+],
+  "geometry": {"coordinates":[174.68652299999999,-36.903332],"type":"Point"}
 }

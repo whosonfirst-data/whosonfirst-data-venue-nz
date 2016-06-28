@@ -2,13 +2,14 @@
   "id": 202423551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.648453,-36.798447,174.648453,-36.798447",
     "geom:latitude":-36.798447,
     "geom:longitude":174.648453,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Wiseley Rd Hobsonville ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202423551,
-    "wof:lastmodified":1449060520,
+    "wof:lastmodified":1466311541,
     "wof:name":"Upper Harbour Medical Centre",
     "wof:parent_id":85772963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.648453,-36.798447,174.648453,-36.798447],
-  "geometry": {"coordinates":[174.648453,-36.798447],"type":"Point"}
+  "bbox": [
+    174.648453,
+    -36.798447,
+    174.648453,
+    -36.798447
+],
+  "geometry": {"coordinates":[174.64845299999999,-36.798447],"type":"Point"}
 }

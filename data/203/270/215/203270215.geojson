@@ -2,13 +2,14 @@
   "id": 203270215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.943222,-37.064198,174.943222,-37.064198",
     "geom:latitude":-37.064198,
     "geom:longitude":174.943222,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Gt South Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203270215,
-    "wof:lastmodified":1449025285,
+    "wof:lastmodified":1466312089,
     "wof:name":"Steven Wadams Menswear",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.943222,-37.064198,174.943222,-37.064198],
-  "geometry": {"coordinates":[174.943222,-37.064198],"type":"Point"}
+  "bbox": [
+    174.943222,
+    -37.064198,
+    174.943222,
+    -37.064198
+],
+  "geometry": {"coordinates":[174.94322199999999,-37.064198],"type":"Point"}
 }

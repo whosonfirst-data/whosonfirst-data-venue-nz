@@ -2,13 +2,14 @@
   "id": 235955739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.232925,-41.314434,173.232925,-41.314434",
     "geom:latitude":-41.314434,
     "geom:longitude":173.232925,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"561 Main Rd Stoke ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235955739,
-    "wof:lastmodified":1449008477,
+    "wof:lastmodified":1466311006,
     "wof:name":"Stoke Seafoods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sea"
     ]
 },
-  "bbox": [173.232925,-41.314434,173.232925,-41.314434],
-  "geometry": {"coordinates":[173.232925,-41.314434],"type":"Point"}
+  "bbox": [
+    173.232925,
+    -41.314434,
+    173.232925,
+    -41.314434
+],
+  "geometry": {"coordinates":[173.23292499999999,-41.314434],"type":"Point"}
 }

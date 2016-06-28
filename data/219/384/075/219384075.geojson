@@ -2,13 +2,14 @@
   "id": 219384075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.852242,33.949287,-85.852242,33.949287",
     "geom:latitude":33.949287,
     "geom:longitude":-85.852242,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Knight Frank Building, 23 Waring Taylor St ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219384075,
-    "wof:lastmodified":1449070833,
+    "wof:lastmodified":1466311634,
     "wof:name":"Harvey World Travel",
     "wof:parent_id":85805945,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broker"
     ]
 },
-  "bbox": [-85.852242,33.949287,-85.852242,33.949287],
+  "bbox": [
+    -85.852242,
+    33.949287,
+    -85.852242,
+    33.949287
+],
   "geometry": {"coordinates":[-85.852242,33.949287],"type":"Point"}
 }

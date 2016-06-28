@@ -2,13 +2,14 @@
   "id": 219365815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-95.749489,32.278419,-95.749489,32.278419",
     "geom:latitude":32.278419,
     "geom:longitude":-95.749489,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"111 Waller St ",
     "sg:city":"Murchison",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219365815,
-    "wof:lastmodified":1449070953,
+    "wof:lastmodified":1466311463,
     "wof:name":"New Zealand Kayak School",
     "wof:parent_id":85897315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [-95.749489,32.278419,-95.749489,32.278419],
+  "bbox": [
+    -95.749489,
+    32.278419,
+    -95.749489,
+    32.278419
+],
   "geometry": {"coordinates":[-95.749489,32.278419],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186367127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.698212,-36.904465,174.698212,-36.904465",
     "geom:latitude":-36.904465,
     "geom:longitude":174.698212,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Lansford Cre Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186367127,
-    "wof:lastmodified":1449051958,
+    "wof:lastmodified":1466312403,
     "wof:name":"Sachet NZ Ltd",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.698212,-36.904465,174.698212,-36.904465],
-  "geometry": {"coordinates":[174.698212,-36.904465],"type":"Point"}
+  "bbox": [
+    174.698212,
+    -36.904465,
+    174.698212,
+    -36.904465
+],
+  "geometry": {"coordinates":[174.69821200000001,-36.904465],"type":"Point"}
 }

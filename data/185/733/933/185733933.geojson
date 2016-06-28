@@ -2,13 +2,14 @@
   "id": 185733933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.61525,-36.882755,174.61525,-36.882755",
     "geom:latitude":-36.882755,
     "geom:longitude":174.61525,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6/138 Sturges Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185733933,
-    "wof:lastmodified":1449006826,
+    "wof:lastmodified":1466310791,
     "wof:name":"Palomino Video Centre",
     "wof:parent_id":85781233,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "entertainment"
     ]
 },
-  "bbox": [174.61525,-36.882755,174.61525,-36.882755],
+  "bbox": [
+    174.61525,
+    -36.882755,
+    174.61525,
+    -36.882755
+],
   "geometry": {"coordinates":[174.61525,-36.882755],"type":"Point"}
 }

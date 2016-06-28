@@ -2,13 +2,14 @@
   "id": 219503119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.611481,-40.357418,175.611481,-40.357418",
     "geom:latitude":-40.357418,
     "geom:longitude":175.611481,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 12120 Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219503119,
-    "wof:lastmodified":1449073929,
+    "wof:lastmodified":1466312312,
     "wof:name":"Communication Unlimited",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "education"
     ]
 },
-  "bbox": [175.611481,-40.357418,175.611481,-40.357418],
+  "bbox": [
+    175.611481,
+    -40.357418,
+    175.611481,
+    -40.357418
+],
   "geometry": {"coordinates":[175.611481,-40.357418],"type":"Point"}
 }

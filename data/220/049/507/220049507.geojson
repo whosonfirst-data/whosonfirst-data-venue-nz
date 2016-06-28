@@ -2,13 +2,14 @@
   "id": 220049507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.605316,-40.347424,175.605316,-40.347424",
     "geom:latitude":-40.347424,
     "geom:longitude":175.605316,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Edgeware Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220049507,
-    "wof:lastmodified":1449074430,
+    "wof:lastmodified":1466311599,
     "wof:name":"Dwyer Technical Services Limited",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [175.605316,-40.347424,175.605316,-40.347424],
-  "geometry": {"coordinates":[175.605316,-40.347424],"type":"Point"}
+  "bbox": [
+    175.605316,
+    -40.347424,
+    175.605316,
+    -40.347424
+],
+  "geometry": {"coordinates":[175.60531599999999,-40.347424],"type":"Point"}
 }

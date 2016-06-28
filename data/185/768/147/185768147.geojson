@@ -2,13 +2,14 @@
   "id": 185768147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.049866,-39.928375,175.049866,-39.928375",
     "geom:latitude":-39.928375,
     "geom:longitude":175.049866,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Ingestre St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185768147,
-    "wof:lastmodified":1449007232,
+    "wof:lastmodified":1466311011,
     "wof:name":"Wanganui Women's Club",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.049866,-39.928375,175.049866,-39.928375],
-  "geometry": {"coordinates":[175.049866,-39.928375],"type":"Point"}
+  "bbox": [
+    175.049866,
+    -39.928375,
+    175.049866,
+    -39.928375
+],
+  "geometry": {"coordinates":[175.04986600000001,-39.928375],"type":"Point"}
 }

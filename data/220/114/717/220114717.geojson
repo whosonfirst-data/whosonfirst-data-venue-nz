@@ -2,13 +2,14 @@
   "id": 220114717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.966446,-35.309479,173.966446,-35.309479",
     "geom:latitude":-35.309479,
     "geom:longitude":173.966446,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"OROMAHOE State Highway 10 ",
     "sg:city":"Ohaeawai",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220114717,
-    "wof:lastmodified":1449074373,
+    "wof:lastmodified":1466310729,
     "wof:name":"Mahoe Cheese Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "-"
     ]
 },
-  "bbox": [173.966446,-35.309479,173.966446,-35.309479],
-  "geometry": {"coordinates":[173.966446,-35.309479],"type":"Point"}
+  "bbox": [
+    173.966446,
+    -35.309479,
+    173.966446,
+    -35.309479
+],
+  "geometry": {"coordinates":[173.96644599999999,-35.309479],"type":"Point"}
 }

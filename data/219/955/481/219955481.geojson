@@ -2,13 +2,14 @@
   "id": 219955481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.283524,-39.593285,174.283524,-39.593285",
     "geom:latitude":-39.593285,
     "geom:longitude":174.283524,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Albion St ",
     "sg:city":"Hawera",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219955481,
-    "wof:lastmodified":1449072842,
+    "wof:lastmodified":1466313115,
     "wof:name":"South Taranaki Animal Health Services",
     "wof:parent_id":85782415,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.283524,-39.593285,174.283524,-39.593285],
+  "bbox": [
+    174.283524,
+    -39.593285,
+    174.283524,
+    -39.593285
+],
   "geometry": {"coordinates":[174.283524,-39.593285],"type":"Point"}
 }

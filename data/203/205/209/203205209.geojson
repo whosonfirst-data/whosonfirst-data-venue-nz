@@ -2,13 +2,14 @@
   "id": 203205209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.053604,-39.933647,175.053604,-39.933647",
     "geom:latitude":-39.933647,
     "geom:longitude":175.053604,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"56 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203205209,
-    "wof:lastmodified":1449026080,
+    "wof:lastmodified":1466311417,
     "wof:name":"The Tot Shoppe",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.053604,-39.933647,175.053604,-39.933647],
-  "geometry": {"coordinates":[175.053604,-39.933647],"type":"Point"}
+  "bbox": [
+    175.053604,
+    -39.933647,
+    175.053604,
+    -39.933647
+],
+  "geometry": {"coordinates":[175.05360400000001,-39.933647],"type":"Point"}
 }

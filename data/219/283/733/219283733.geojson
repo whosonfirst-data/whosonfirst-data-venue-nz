@@ -2,13 +2,14 @@
   "id": 219283733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.599136,-37.143772,175.599136,-37.143772",
     "geom:latitude":-37.143772,
     "geom:longitude":175.599136,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"161 Kauaeranga Valley Rd ",
     "sg:city":"Thames",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219283733,
-    "wof:lastmodified":1449071446,
+    "wof:lastmodified":1466310807,
     "wof:name":"Acorn Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.599136,-37.143772,175.599136,-37.143772],
-  "geometry": {"coordinates":[175.599136,-37.143772],"type":"Point"}
+  "bbox": [
+    175.599136,
+    -37.143772,
+    175.599136,
+    -37.143772
+],
+  "geometry": {"coordinates":[175.59913599999999,-37.143772],"type":"Point"}
 }

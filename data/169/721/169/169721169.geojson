@@ -2,13 +2,14 @@
   "id": 169721169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.784729,28.013371,-82.784729,28.013371",
     "geom:latitude":28.013371,
     "geom:longitude":-82.784729,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Dunedin 209 George ",
     "sg:city":"St",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169721169,
-    "wof:lastmodified":1449035959,
+    "wof:lastmodified":1466311074,
     "wof:name":"Paper Plus",
     "wof:parent_id":85888757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.784729,28.013371,-82.784729,28.013371],
+  "bbox": [
+    -82.784729,
+    28.013371,
+    -82.784729,
+    28.013371
+],
   "geometry": {"coordinates":[-82.784729,28.013371],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186431273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-78.730331,40.658951,-78.730331,40.658951",
     "geom:latitude":40.658951,
     "geom:longitude":-78.730331,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 352 ",
     "sg:city":"Hastings",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186431273,
-    "wof:lastmodified":1449050697,
+    "wof:lastmodified":1466312599,
     "wof:name":"Hydralada Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-78.730331,40.658951,-78.730331,40.658951],
-  "geometry": {"coordinates":[-78.730331,40.658951],"type":"Point"}
+  "bbox": [
+    -78.730331,
+    40.658951,
+    -78.730331,
+    40.658951
+],
+  "geometry": {"coordinates":[-78.73033100000001,40.658951],"type":"Point"}
 }

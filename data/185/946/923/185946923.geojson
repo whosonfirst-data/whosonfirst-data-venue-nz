@@ -2,13 +2,14 @@
   "id": 185946923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.274551,-35.094238,173.274551,-35.094238",
     "geom:latitude":-35.094238,
     "geom:longitude":173.274551,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hillcrest Rd ",
     "sg:city":"Kaitaia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185946923,
-    "wof:lastmodified":1449008030,
+    "wof:lastmodified":1466312225,
     "wof:name":"Hillcrest Shooting Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [173.274551,-35.094238,173.274551,-35.094238],
+  "bbox": [
+    173.274551,
+    -35.094238,
+    173.274551,
+    -35.094238
+],
   "geometry": {"coordinates":[173.274551,-35.094238],"type":"Point"}
 }

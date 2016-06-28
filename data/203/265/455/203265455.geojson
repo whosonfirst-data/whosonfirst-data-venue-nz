@@ -2,13 +2,14 @@
   "id": 203265455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.072357,-41.124187,175.072357,-41.124187",
     "geom:latitude":-41.124187,
     "geom:longitude":175.072357,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Main St Upper Hutt ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203265455,
-    "wof:lastmodified":1449025562,
+    "wof:lastmodified":1466312074,
     "wof:name":"Hallensteins",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.072357,-41.124187,175.072357,-41.124187],
-  "geometry": {"coordinates":[175.072357,-41.124187],"type":"Point"}
+  "bbox": [
+    175.072357,
+    -41.124187,
+    175.072357,
+    -41.124187
+],
+  "geometry": {"coordinates":[175.07235700000001,-41.124187],"type":"Point"}
 }

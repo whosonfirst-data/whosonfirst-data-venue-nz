@@ -2,13 +2,14 @@
   "id": 202523053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.007591,46.868446,-120.007591,46.868446",
     "geom:latitude":46.868446,
     "geom:longitude":-120.007591,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Ashburton ",
     "sg:city":"Dorie",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":202523053,
-    "wof:lastmodified":1449061565,
+    "wof:lastmodified":1466310852,
     "wof:name":"Ashburton Independent Midwives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.007591,46.868446,-120.007591,46.868446],
-  "geometry": {"coordinates":[-120.007591,46.868446],"type":"Point"}
+  "bbox": [
+    -120.007591,
+    46.868446,
+    -120.007591,
+    46.868446
+],
+  "geometry": {"coordinates":[-120.00759100000001,46.868446],"type":"Point"}
 }

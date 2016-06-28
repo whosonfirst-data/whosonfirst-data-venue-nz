@@ -2,13 +2,14 @@
   "id": 220047825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.746094,-36.871838,174.746094,-36.871838",
     "geom:latitude":-36.871838,
     "geom:longitude":174.746094,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"420 C New North Rd Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220047825,
-    "wof:lastmodified":1449074571,
+    "wof:lastmodified":1466311585,
     "wof:name":"Atomic Coffee Roasters",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [174.746094,-36.871838,174.746094,-36.871838],
+  "bbox": [
+    174.746094,
+    -36.871838,
+    174.746094,
+    -36.871838
+],
   "geometry": {"coordinates":[174.746094,-36.871838],"type":"Point"}
 }

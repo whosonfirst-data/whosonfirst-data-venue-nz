@@ -2,13 +2,14 @@
   "id": 202608161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.895508,-41.230293,174.895508,-41.230293",
     "geom:latitude":-41.230293,
     "geom:longitude":174.895508,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"457 Jackson St Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202608161,
-    "wof:lastmodified":1449061201,
+    "wof:lastmodified":1466311585,
     "wof:name":"Silver Services Ltd",
     "wof:parent_id":85782489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.895508,-41.230293,174.895508,-41.230293],
-  "geometry": {"coordinates":[174.895508,-41.230293],"type":"Point"}
+  "bbox": [
+    174.895508,
+    -41.230293,
+    174.895508,
+    -41.230293
+],
+  "geometry": {"coordinates":[174.89550800000001,-41.230293],"type":"Point"}
 }

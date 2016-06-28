@@ -2,13 +2,14 @@
   "id": 219627583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.3461,-46.422543,168.3461,-46.422543",
     "geom:latitude":-46.422543,
     "geom:longitude":168.3461,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Crinan St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219627583,
-    "wof:lastmodified":1449074005,
+    "wof:lastmodified":1466312665,
     "wof:name":"B J Auto Parts",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.3461,-46.422543,168.3461,-46.422543],
-  "geometry": {"coordinates":[168.3461,-46.422543],"type":"Point"}
+  "bbox": [
+    168.3461,
+    -46.422543,
+    168.3461,
+    -46.422543
+],
+  "geometry": {"coordinates":[168.34610000000001,-46.422543],"type":"Point"}
 }

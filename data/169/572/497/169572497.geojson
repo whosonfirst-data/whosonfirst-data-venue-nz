@@ -2,13 +2,14 @@
   "id": 169572497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.843384,-41.103199,174.843384,-41.103199",
     "geom:latitude":-41.103199,
     "geom:longitude":174.843384,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Morere St Titahi ",
     "sg:city":"Bay",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169572497,
-    "wof:lastmodified":1449034708,
+    "wof:lastmodified":1466311189,
     "wof:name":"P & L Jones Trading Co",
     "wof:parent_id":85773251,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "health"
     ]
 },
-  "bbox": [174.843384,-41.103199,174.843384,-41.103199],
-  "geometry": {"coordinates":[174.843384,-41.103199],"type":"Point"}
+  "bbox": [
+    174.843384,
+    -41.103199,
+    174.843384,
+    -41.103199
+],
+  "geometry": {"coordinates":[174.84338399999999,-41.103199],"type":"Point"}
 }

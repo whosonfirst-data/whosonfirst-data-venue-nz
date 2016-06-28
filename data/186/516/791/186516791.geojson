@@ -2,13 +2,14 @@
   "id": 186516791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.276993,-37.783215,175.276993,-37.783215",
     "geom:latitude":-37.783215,
     "geom:longitude":175.276993,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Casabella Lane 11/307 Barton Street ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186516791,
-    "wof:lastmodified":1449050918,
+    "wof:lastmodified":1466312800,
     "wof:name":"Senses Health and Beauty",
     "wof:parent_id":85780927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "health"
     ]
 },
-  "bbox": [175.276993,-37.783215,175.276993,-37.783215],
+  "bbox": [
+    175.276993,
+    -37.783215,
+    175.276993,
+    -37.783215
+],
   "geometry": {"coordinates":[175.276993,-37.783215],"type":"Point"}
 }

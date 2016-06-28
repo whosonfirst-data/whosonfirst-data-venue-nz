@@ -2,13 +2,14 @@
   "id": 219734295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.345444,-46.420677,168.345444,-46.420677",
     "geom:latitude":-46.420677,
     "geom:longitude":168.345444,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"157 Liddell St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219734295,
-    "wof:lastmodified":1449073468,
+    "wof:lastmodified":1466312957,
     "wof:name":"Grant Auto Electrics",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "servicing"
     ]
 },
-  "bbox": [168.345444,-46.420677,168.345444,-46.420677],
-  "geometry": {"coordinates":[168.345444,-46.420677],"type":"Point"}
+  "bbox": [
+    168.345444,
+    -46.420677,
+    168.345444,
+    -46.420677
+],
+  "geometry": {"coordinates":[168.34544399999999,-46.420677],"type":"Point"}
 }

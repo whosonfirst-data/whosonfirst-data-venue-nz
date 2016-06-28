@@ -2,13 +2,14 @@
   "id": 185841335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.754318,-36.859997,174.754318,-36.859997",
     "geom:latitude":-36.859997,
     "geom:longitude":174.754318,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Gundry St Newton ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185841335,
-    "wof:lastmodified":1449006952,
+    "wof:lastmodified":1466311504,
     "wof:name":"Lyn McAllister Music Ltd",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.754318,-36.859997,174.754318,-36.859997],
-  "geometry": {"coordinates":[174.754318,-36.859997],"type":"Point"}
+  "bbox": [
+    174.754318,
+    -36.859997,
+    174.754318,
+    -36.859997
+],
+  "geometry": {"coordinates":[174.75431800000001,-36.859997],"type":"Point"}
 }

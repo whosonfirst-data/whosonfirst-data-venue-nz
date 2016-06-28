@@ -2,13 +2,14 @@
   "id": 202596137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.945206,-37.108837,174.945206,-37.108837",
     "geom:latitude":-37.108837,
     "geom:longitude":174.945206,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Mercer St ",
     "sg:city":"Drury",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202596137,
-    "wof:lastmodified":1449061419,
+    "wof:lastmodified":1466311482,
     "wof:name":"STM Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.945206,-37.108837,174.945206,-37.108837],
-  "geometry": {"coordinates":[174.945206,-37.108837],"type":"Point"}
+  "bbox": [
+    174.945206,
+    -37.108837,
+    174.945206,
+    -37.108837
+],
+  "geometry": {"coordinates":[174.94520600000001,-37.108837],"type":"Point"}
 }

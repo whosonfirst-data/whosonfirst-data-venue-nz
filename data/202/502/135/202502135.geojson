@@ -2,13 +2,14 @@
   "id": 202502135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.636185,-43.511974,172.636185,-43.511974",
     "geom:latitude":-43.511974,
     "geom:longitude":172.636185,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Innes Rd St Albans ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202502135,
-    "wof:lastmodified":1449061289,
+    "wof:lastmodified":1466310679,
     "wof:name":"Garden City Chiropractic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.636185,-43.511974,172.636185,-43.511974],
-  "geometry": {"coordinates":[172.636185,-43.511974],"type":"Point"}
+  "bbox": [
+    172.636185,
+    -43.511974,
+    172.636185,
+    -43.511974
+],
+  "geometry": {"coordinates":[172.63618500000001,-43.511974],"type":"Point"}
 }

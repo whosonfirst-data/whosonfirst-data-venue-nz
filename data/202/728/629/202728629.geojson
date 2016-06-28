@@ -2,13 +2,14 @@
   "id": 202728629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.292358,-39.588802,174.292358,-39.588802",
     "geom:latitude":-39.588802,
     "geom:longitude":174.292358,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Gladstone St ",
     "sg:city":"Hawera",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202728629,
-    "wof:lastmodified":1449060702,
+    "wof:lastmodified":1466312245,
     "wof:name":"Presbyterian Support Central",
     "wof:parent_id":85781023,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garden"
     ]
 },
-  "bbox": [174.292358,-39.588802,174.292358,-39.588802],
-  "geometry": {"coordinates":[174.292358,-39.588802],"type":"Point"}
+  "bbox": [
+    174.292358,
+    -39.588802,
+    174.292358,
+    -39.588802
+],
+  "geometry": {"coordinates":[174.29235800000001,-39.588802],"type":"Point"}
 }

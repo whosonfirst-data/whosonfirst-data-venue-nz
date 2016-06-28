@@ -2,13 +2,14 @@
   "id": 186029447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.333893,-35.739616,174.333893,-35.739616",
     "geom:latitude":-35.739616,
     "geom:longitude":174.333893,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Kioreroa Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186029447,
-    "wof:lastmodified":1449051508,
+    "wof:lastmodified":1466311071,
     "wof:name":"Abrasive Aggregates",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.333893,-35.739616,174.333893,-35.739616],
-  "geometry": {"coordinates":[174.333893,-35.739616],"type":"Point"}
+  "bbox": [
+    174.333893,
+    -35.739616,
+    174.333893,
+    -35.739616
+],
+  "geometry": {"coordinates":[174.33389299999999,-35.739616],"type":"Point"}
 }

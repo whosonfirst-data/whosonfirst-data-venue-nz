@@ -2,13 +2,14 @@
   "id": 169843125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.006546,-41.272099,173.006546,-41.272099",
     "geom:latitude":-41.272099,
     "geom:longitude":173.006546,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"602 Old Coach Rd R D 1 Upper Moutere ",
     "sg:city":"Nelson",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169843125,
-    "wof:lastmodified":1449032968,
+    "wof:lastmodified":1466311976,
     "wof:name":"Downunder Wetsuit Repairs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.006546,-41.272099,173.006546,-41.272099],
-  "geometry": {"coordinates":[173.006546,-41.272099],"type":"Point"}
+  "bbox": [
+    173.006546,
+    -41.272099,
+    173.006546,
+    -41.272099
+],
+  "geometry": {"coordinates":[173.00654599999999,-41.272099],"type":"Point"}
 }

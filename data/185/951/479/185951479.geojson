@@ -2,13 +2,14 @@
   "id": 185951479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.267929,-38.885395,175.267929,-38.885395",
     "geom:latitude":-38.885395,
     "geom:longitude":175.267929,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Turaki St ",
     "sg:city":"Taumarunui",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185951479,
-    "wof:lastmodified":1449006644,
+    "wof:lastmodified":1466312111,
     "wof:name":"Taumarunui Netball Pavilion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "facility"
     ]
 },
-  "bbox": [175.267929,-38.885395,175.267929,-38.885395],
-  "geometry": {"coordinates":[175.267929,-38.885395],"type":"Point"}
+  "bbox": [
+    175.267929,
+    -38.885395,
+    175.267929,
+    -38.885395
+],
+  "geometry": {"coordinates":[175.26792900000001,-38.885395],"type":"Point"}
 }

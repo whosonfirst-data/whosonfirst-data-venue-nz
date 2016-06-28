@@ -2,13 +2,14 @@
   "id": 219571913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.818619,-36.910667,174.818619,-36.910667",
     "geom:latitude":-36.910667,
     "geom:longitude":174.818619,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Penrose Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219571913,
-    "wof:lastmodified":1449072796,
+    "wof:lastmodified":1466312512,
     "wof:name":"K C M Car Valet",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [174.818619,-36.910667,174.818619,-36.910667],
-  "geometry": {"coordinates":[174.818619,-36.910667],"type":"Point"}
+  "bbox": [
+    174.818619,
+    -36.910667,
+    174.818619,
+    -36.910667
+],
+  "geometry": {"coordinates":[174.81861900000001,-36.910667],"type":"Point"}
 }

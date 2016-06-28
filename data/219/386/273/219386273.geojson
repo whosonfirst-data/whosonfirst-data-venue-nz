@@ -2,13 +2,14 @@
   "id": 219386273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.726028,-36.811836,174.726028,-36.811836",
     "geom:latitude":-36.811836,
     "geom:longitude":174.726028,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Birkenhead Ave Birkenhead ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219386273,
-    "wof:lastmodified":1449072236,
+    "wof:lastmodified":1466311661,
     "wof:name":"itchyfeet.co.nz",
     "wof:parent_id":85778355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broker"
     ]
 },
-  "bbox": [174.726028,-36.811836,174.726028,-36.811836],
-  "geometry": {"coordinates":[174.726028,-36.811836],"type":"Point"}
+  "bbox": [
+    174.726028,
+    -36.811836,
+    174.726028,
+    -36.811836
+],
+  "geometry": {"coordinates":[174.72602800000001,-36.811836],"type":"Point"}
 }

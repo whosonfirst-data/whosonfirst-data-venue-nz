@@ -2,13 +2,14 @@
   "id": 202739411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.621124,-40.364918,175.621124,-40.364918",
     "geom:latitude":-40.364918,
     "geom:longitude":175.621124,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Palm Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202739411,
-    "wof:lastmodified":1449061180,
+    "wof:lastmodified":1466312386,
     "wof:name":"Aegis Manor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [175.621124,-40.364918,175.621124,-40.364918],
-  "geometry": {"coordinates":[175.621124,-40.364918],"type":"Point"}
+  "bbox": [
+    175.621124,
+    -40.364918,
+    175.621124,
+    -40.364918
+],
+  "geometry": {"coordinates":[175.62112400000001,-40.364918],"type":"Point"}
 }

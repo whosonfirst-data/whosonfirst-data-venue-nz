@@ -2,13 +2,14 @@
   "id": 220104109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.725601,-36.810749,174.725601,-36.810749",
     "geom:latitude":-36.810749,
     "geom:longitude":174.725601,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Birkenhead Ave Birkenhead ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220104109,
-    "wof:lastmodified":1449074366,
+    "wof:lastmodified":1466310634,
     "wof:name":"The Phnon Phen Bakery",
     "wof:parent_id":85778355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "-"
     ]
 },
-  "bbox": [174.725601,-36.810749,174.725601,-36.810749],
-  "geometry": {"coordinates":[174.725601,-36.810749],"type":"Point"}
+  "bbox": [
+    174.725601,
+    -36.810749,
+    174.725601,
+    -36.810749
+],
+  "geometry": {"coordinates":[174.72560100000001,-36.810749],"type":"Point"}
 }

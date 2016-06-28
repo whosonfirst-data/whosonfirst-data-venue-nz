@@ -2,13 +2,14 @@
   "id": 186303359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.625351,-36.886955,174.625351,-36.886955",
     "geom:latitude":-36.886955,
     "geom:longitude":174.625351,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Amokura St Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186303359,
-    "wof:lastmodified":1449050272,
+    "wof:lastmodified":1466312073,
     "wof:name":"Manx Manufacturing Ltd",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.625351,-36.886955,174.625351,-36.886955],
-  "geometry": {"coordinates":[174.625351,-36.886955],"type":"Point"}
+  "bbox": [
+    174.625351,
+    -36.886955,
+    174.625351,
+    -36.886955
+],
+  "geometry": {"coordinates":[174.62535099999999,-36.886955],"type":"Point"}
 }

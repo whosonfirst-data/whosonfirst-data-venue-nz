@@ -2,13 +2,14 @@
   "id": 203401201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.900528,-36.88554,174.900528,-36.88554",
     "geom:latitude":-36.88554,
     "geom:longitude":174.900528,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Administration Bldg Half Moon Bay Marina ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203401201,
-    "wof:lastmodified":1449026566,
+    "wof:lastmodified":1466312655,
     "wof:name":"Boat Spray Half Moon Bay Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.900528,-36.88554,174.900528,-36.88554],
-  "geometry": {"coordinates":[174.900528,-36.88554],"type":"Point"}
+  "bbox": [
+    174.900528,
+    -36.88554,
+    174.900528,
+    -36.88554
+],
+  "geometry": {"coordinates":[174.90052800000001,-36.88554],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220180349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-99.029266,37.619095,-99.029266,37.619095",
     "geom:latitude":37.619095,
     "geom:longitude":-99.029266,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Rodney St ",
     "sg:city":"Wellsford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220180349,
-    "wof:lastmodified":1449074085,
+    "wof:lastmodified":1466311307,
     "wof:name":"Wellsford Organics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "veges"
     ]
 },
-  "bbox": [-99.029266,37.619095,-99.029266,37.619095],
-  "geometry": {"coordinates":[-99.029266,37.619095],"type":"Point"}
+  "bbox": [
+    -99.029266,
+    37.619095,
+    -99.029266,
+    37.619095
+],
+  "geometry": {"coordinates":[-99.02926600000001,37.619095],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186087565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.779053,-36.870949,174.779053,-36.870949",
     "geom:latitude":-36.870949,
     "geom:longitude":174.779053,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Remuera Rd ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186087565,
-    "wof:lastmodified":1449051615,
+    "wof:lastmodified":1466311917,
     "wof:name":"Dick Smith Electronics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.779053,-36.870949,174.779053,-36.870949],
+  "bbox": [
+    174.779053,
+    -36.870949,
+    174.779053,
+    -36.870949
+],
   "geometry": {"coordinates":[174.779053,-36.870949],"type":"Point"}
 }

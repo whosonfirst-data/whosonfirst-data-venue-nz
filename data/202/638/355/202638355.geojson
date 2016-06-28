@@ -2,13 +2,14 @@
   "id": 202638355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.627914,-38.65432,174.627914,-38.65432",
     "geom:latitude":-38.65432,
     "geom:longitude":174.627914,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"519 Awakau Rd Awakino RD 1 ",
     "sg:city":"Mokau",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":202638355,
-    "wof:lastmodified":1449060241,
+    "wof:lastmodified":1466311831,
     "wof:name":"Geoff Hancock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "related"
     ]
 },
-  "bbox": [174.627914,-38.65432,174.627914,-38.65432],
+  "bbox": [
+    174.627914,
+    -38.65432,
+    174.627914,
+    -38.65432
+],
   "geometry": {"coordinates":[174.627914,-38.65432],"type":"Point"}
 }

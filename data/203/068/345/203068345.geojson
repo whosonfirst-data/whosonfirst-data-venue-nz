@@ -2,13 +2,14 @@
   "id": 203068345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.502457,-45.881584,170.502457,-45.881584",
     "geom:latitude":-45.881584,
     "geom:longitude":170.502457,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Police St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203068345,
-    "wof:lastmodified":1449025905,
+    "wof:lastmodified":1466311696,
     "wof:name":"Kwik-Gates",
     "wof:parent_id":85782381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "outdoor"
     ]
 },
-  "bbox": [170.502457,-45.881584,170.502457,-45.881584],
-  "geometry": {"coordinates":[170.502457,-45.881584],"type":"Point"}
+  "bbox": [
+    170.502457,
+    -45.881584,
+    170.502457,
+    -45.881584
+],
+  "geometry": {"coordinates":[170.50245699999999,-45.881584],"type":"Point"}
 }

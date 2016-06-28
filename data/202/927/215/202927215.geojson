@@ -2,13 +2,14 @@
   "id": 202927215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.318298,-40.382118,175.318298,-40.382118",
     "geom:latitude":-40.382118,
     "geom:longitude":175.318298,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Himatangi Intersection Himatangi ",
     "sg:city":"RD7",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":202927215,
-    "wof:lastmodified":1449062379,
+    "wof:lastmodified":1466312845,
     "wof:name":"Country Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.318298,-40.382118,175.318298,-40.382118],
+  "bbox": [
+    175.318298,
+    -40.382118,
+    175.318298,
+    -40.382118
+],
   "geometry": {"coordinates":[175.318298,-40.382118],"type":"Point"}
 }

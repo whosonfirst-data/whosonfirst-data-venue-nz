@@ -2,13 +2,14 @@
   "id": 203186735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.613159,-43.542946,172.613159,-43.542946",
     "geom:latitude":-43.542946,
     "geom:longitude":172.613159,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"330 Lincoln Rd ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203186735,
-    "wof:lastmodified":1449026423,
+    "wof:lastmodified":1466311252,
     "wof:name":"Master Valet Drycleaners",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaner"
     ]
 },
-  "bbox": [172.613159,-43.542946,172.613159,-43.542946],
+  "bbox": [
+    172.613159,
+    -43.542946,
+    172.613159,
+    -43.542946
+],
   "geometry": {"coordinates":[172.613159,-43.542946],"type":"Point"}
 }

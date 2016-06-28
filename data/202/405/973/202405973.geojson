@@ -2,13 +2,14 @@
   "id": 202405973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.824722,-41.304192,174.824722,-41.304192",
     "geom:latitude":-41.304192,
     "geom:longitude":174.824722,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Weka St Miramar ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202405973,
-    "wof:lastmodified":1449062445,
+    "wof:lastmodified":1466311172,
     "wof:name":"Te Karaka Residence For The Elderly & Hospital",
     "wof:parent_id":85778445,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.824722,-41.304192,174.824722,-41.304192],
-  "geometry": {"coordinates":[174.824722,-41.304192],"type":"Point"}
+  "bbox": [
+    174.824722,
+    -41.304192,
+    174.824722,
+    -41.304192
+],
+  "geometry": {"coordinates":[174.82472200000001,-41.304192],"type":"Point"}
 }

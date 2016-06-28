@@ -2,13 +2,14 @@
   "id": 169551481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.293076,-37.793015,175.293076,-37.793015",
     "geom:latitude":-37.793015,
     "geom:longitude":175.293076,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"387 Grey St Hamilton East ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169551481,
-    "wof:lastmodified":1449033354,
+    "wof:lastmodified":1466310815,
     "wof:name":"White Murray",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.293076,-37.793015,175.293076,-37.793015],
-  "geometry": {"coordinates":[175.293076,-37.793015],"type":"Point"}
+  "bbox": [
+    175.293076,
+    -37.793015,
+    175.293076,
+    -37.793015
+],
+  "geometry": {"coordinates":[175.29307600000001,-37.793015],"type":"Point"}
 }

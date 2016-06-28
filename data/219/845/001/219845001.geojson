@@ -2,13 +2,14 @@
   "id": 219845001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.75589,-40.287991,175.75589,-40.287991",
     "geom:latitude":-40.287991,
     "geom:longitude":175.75589,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Napier Rd R D 10 ",
     "sg:city":"Ashhurst",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219845001,
-    "wof:lastmodified":1449070962,
+    "wof:lastmodified":1466313143,
     "wof:name":"Ridd Bros Total Haylage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.75589,-40.287991,175.75589,-40.287991],
-  "geometry": {"coordinates":[175.75589,-40.287991],"type":"Point"}
+  "bbox": [
+    175.75589,
+    -40.287991,
+    175.75589,
+    -40.287991
+],
+  "geometry": {"coordinates":[175.75588999999999,-40.287991],"type":"Point"}
 }

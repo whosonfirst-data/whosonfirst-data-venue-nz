@@ -2,13 +2,14 @@
   "id": 186278383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.000107,-38.639984,178.000107,-38.639984",
     "geom:latitude":-38.639984,
     "geom:longitude":178.000107,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Potae Ave ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186278383,
-    "wof:lastmodified":1449051860,
+    "wof:lastmodified":1466312090,
     "wof:name":"Marconi Commerce Systems (NZ) Limited",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.000107,-38.639984,178.000107,-38.639984],
-  "geometry": {"coordinates":[178.000107,-38.639984],"type":"Point"}
+  "bbox": [
+    178.000107,
+    -38.639984,
+    178.000107,
+    -38.639984
+],
+  "geometry": {"coordinates":[178.00010700000001,-38.639984],"type":"Point"}
 }

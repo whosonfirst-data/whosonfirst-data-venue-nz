@@ -2,13 +2,14 @@
   "id": 186144737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.26265,-37.804054,175.26265,-37.804054",
     "geom:latitude":-37.804054,
     "geom:longitude":175.26265,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Aztec Place Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186144737,
-    "wof:lastmodified":1449052323,
+    "wof:lastmodified":1466310934,
     "wof:name":"Stafford Industries (NZ) Ltd",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.26265,-37.804054,175.26265,-37.804054],
-  "geometry": {"coordinates":[175.26265,-37.804054],"type":"Point"}
+  "bbox": [
+    175.26265,
+    -37.804054,
+    175.26265,
+    -37.804054
+],
+  "geometry": {"coordinates":[175.26265000000001,-37.804054],"type":"Point"}
 }

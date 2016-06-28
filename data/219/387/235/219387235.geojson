@@ -2,13 +2,14 @@
   "id": 219387235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.995285,-37.951626,176.995285,-37.951626",
     "geom:latitude":-37.951626,
     "geom:longitude":176.995285,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"182 The Strand ",
     "sg:city":"Whakatane",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219387235,
-    "wof:lastmodified":1449073435,
+    "wof:lastmodified":1466311672,
     "wof:name":"McIntosh United Travel",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broker"
     ]
 },
-  "bbox": [176.995285,-37.951626,176.995285,-37.951626],
+  "bbox": [
+    176.995285,
+    -37.951626,
+    176.995285,
+    -37.951626
+],
   "geometry": {"coordinates":[176.995285,-37.951626],"type":"Point"}
 }

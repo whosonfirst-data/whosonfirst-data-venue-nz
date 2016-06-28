@@ -2,13 +2,14 @@
   "id": 235931019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.394196,-45.87402,170.394196,-45.87402",
     "geom:latitude":-45.87402,
     "geom:longitude":170.394196,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Puddle Alley Mosgiel ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":235931019,
-    "wof:lastmodified":1449008584,
+    "wof:lastmodified":1466310618,
     "wof:name":"Otago Venison Ltd",
     "wof:parent_id":85773345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "meats"
     ]
 },
-  "bbox": [170.394196,-45.87402,170.394196,-45.87402],
-  "geometry": {"coordinates":[170.394196,-45.87402],"type":"Point"}
+  "bbox": [
+    170.394196,
+    -45.87402,
+    170.394196,
+    -45.87402
+],
+  "geometry": {"coordinates":[170.39419599999999,-45.87402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219642041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.739731,28.039919,-82.739731,28.039919",
     "geom:latitude":28.039919,
     "geom:longitude":-82.739731,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Castle St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219642041,
-    "wof:lastmodified":1449070586,
+    "wof:lastmodified":1466312686,
     "wof:name":"Dunedin Security Centre Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "supplies"
     ]
 },
-  "bbox": [-82.739731,28.039919,-82.739731,28.039919],
-  "geometry": {"coordinates":[-82.739731,28.039919],"type":"Point"}
+  "bbox": [
+    -82.739731,
+    28.039919,
+    -82.739731,
+    28.039919
+],
+  "geometry": {"coordinates":[-82.73973100000001,28.039919],"type":"Point"}
 }

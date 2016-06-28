@@ -2,13 +2,14 @@
   "id": 186408551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.358749,-46.449898,168.358749,-46.449898",
     "geom:latitude":-46.449898,
     "geom:longitude":168.358749,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Lake St Clifton ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186408551,
-    "wof:lastmodified":1449050598,
+    "wof:lastmodified":1466312537,
     "wof:name":"Henley Industries",
     "wof:parent_id":85781657,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "goods"
     ]
 },
-  "bbox": [168.358749,-46.449898,168.358749,-46.449898],
-  "geometry": {"coordinates":[168.358749,-46.449898],"type":"Point"}
+  "bbox": [
+    168.358749,
+    -46.449898,
+    168.358749,
+    -46.449898
+],
+  "geometry": {"coordinates":[168.35874899999999,-46.449898],"type":"Point"}
 }

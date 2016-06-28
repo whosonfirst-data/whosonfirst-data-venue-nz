@@ -2,13 +2,14 @@
   "id": 202543163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.748947,-36.726219,174.748947,-36.726219",
     "geom:latitude":-36.726219,
     "geom:longitude":174.748947,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Montgomery Ave Murrays Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202543163,
-    "wof:lastmodified":1449060610,
+    "wof:lastmodified":1466311025,
     "wof:name":"Bomer Wendelien",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.748947,-36.726219,174.748947,-36.726219],
-  "geometry": {"coordinates":[174.748947,-36.726219],"type":"Point"}
+  "bbox": [
+    174.748947,
+    -36.726219,
+    174.748947,
+    -36.726219
+],
+  "geometry": {"coordinates":[174.74894699999999,-36.726219],"type":"Point"}
 }

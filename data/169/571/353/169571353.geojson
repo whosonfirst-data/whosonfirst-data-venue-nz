@@ -2,13 +2,14 @@
   "id": 169571353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.566971,-40.226646,175.566971,-40.226646",
     "geom:latitude":-40.226646,
     "geom:longitude":175.566971,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Fergusson St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169571353,
-    "wof:lastmodified":1449034947,
+    "wof:lastmodified":1466311148,
     "wof:name":"Harmony Health",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "health"
     ]
 },
-  "bbox": [175.566971,-40.226646,175.566971,-40.226646],
+  "bbox": [
+    175.566971,
+    -40.226646,
+    175.566971,
+    -40.226646
+],
   "geometry": {"coordinates":[175.566971,-40.226646],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219309767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.639832,-45.037727,168.639832,-45.037727",
     "geom:latitude":-45.037727,
     "geom:longitude":168.639832,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Fernhill Rd ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219309767,
-    "wof:lastmodified":1449071184,
+    "wof:lastmodified":1466311020,
     "wof:name":"Heritage Queenstown",
     "wof:parent_id":85781459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accommodation"
     ]
 },
-  "bbox": [168.639832,-45.037727,168.639832,-45.037727],
-  "geometry": {"coordinates":[168.639832,-45.037727],"type":"Point"}
+  "bbox": [
+    168.639832,
+    -45.037727,
+    168.639832,
+    -45.037727
+],
+  "geometry": {"coordinates":[168.63983200000001,-45.037727],"type":"Point"}
 }

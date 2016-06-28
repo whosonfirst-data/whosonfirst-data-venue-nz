@@ -2,13 +2,14 @@
   "id": 186343307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.995987,-38.663879,177.995987,-38.663879",
     "geom:latitude":-38.663879,
     "geom:longitude":177.995987,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"75 Innes St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186343307,
-    "wof:lastmodified":1449052259,
+    "wof:lastmodified":1466312343,
     "wof:name":"Waerenga-O-Kuri Quarries Ltd",
     "wof:parent_id":85781855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "materials"
     ]
 },
-  "bbox": [177.995987,-38.663879,177.995987,-38.663879],
-  "geometry": {"coordinates":[177.995987,-38.663879],"type":"Point"}
+  "bbox": [
+    177.995987,
+    -38.663879,
+    177.995987,
+    -38.663879
+],
+  "geometry": {"coordinates":[177.99598700000001,-38.663879],"type":"Point"}
 }

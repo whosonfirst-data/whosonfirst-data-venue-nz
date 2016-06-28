@@ -2,13 +2,14 @@
   "id": 203242621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.612915,-43.541367,172.612915,-43.541367",
     "geom:latitude":-43.541367,
     "geom:longitude":172.612915,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 3 16 Bernard St Addington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203242621,
-    "wof:lastmodified":1449026644,
+    "wof:lastmodified":1466311764,
     "wof:name":"Y-Knot Designs",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "designer"
     ]
 },
-  "bbox": [172.612915,-43.541367,172.612915,-43.541367],
-  "geometry": {"coordinates":[172.612915,-43.541367],"type":"Point"}
+  "bbox": [
+    172.612915,
+    -43.541367,
+    172.612915,
+    -43.541367
+],
+  "geometry": {"coordinates":[172.61291499999999,-43.541367],"type":"Point"}
 }

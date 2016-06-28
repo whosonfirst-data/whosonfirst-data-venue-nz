@@ -2,13 +2,14 @@
   "id": 186326149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.988754,42.993576,-88.988754,42.993576",
     "geom:latitude":42.993576,
     "geom:longitude":-88.988754,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Forrest Rd ",
     "sg:city":"Cambridge",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186326149,
-    "wof:lastmodified":1449051515,
+    "wof:lastmodified":1466312285,
     "wof:name":"Site Engineering (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.988754,42.993576,-88.988754,42.993576],
+  "bbox": [
+    -88.988754,
+    42.993576,
+    -88.988754,
+    42.993576
+],
   "geometry": {"coordinates":[-88.988754,42.993576],"type":"Point"}
 }

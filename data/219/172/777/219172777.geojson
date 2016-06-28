@@ -2,13 +2,14 @@
   "id": 219172777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.788483,-36.926849,174.788483,-36.926849",
     "geom:latitude":-36.926849,
     "geom:longitude":174.788483,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"101 Neilson St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219172777,
-    "wof:lastmodified":1449071807,
+    "wof:lastmodified":1466311123,
     "wof:name":"RSEA One Stop Safety Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.788483,-36.926849,174.788483,-36.926849],
-  "geometry": {"coordinates":[174.788483,-36.926849],"type":"Point"}
+  "bbox": [
+    174.788483,
+    -36.926849,
+    174.788483,
+    -36.926849
+],
+  "geometry": {"coordinates":[174.78848300000001,-36.926849],"type":"Point"}
 }

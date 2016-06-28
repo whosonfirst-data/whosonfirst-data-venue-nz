@@ -2,13 +2,14 @@
   "id": 185978805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.462357,-35.874981,174.462357,-35.874981",
     "geom:latitude":-35.874981,
     "geom:longitude":174.462357,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Kepa Rd Marsden ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185978805,
-    "wof:lastmodified":1449007532,
+    "wof:lastmodified":1466312339,
     "wof:name":"Ruakaka Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.462357,-35.874981,174.462357,-35.874981],
+  "bbox": [
+    174.462357,
+    -35.874981,
+    174.462357,
+    -35.874981
+],
   "geometry": {"coordinates":[174.462357,-35.874981],"type":"Point"}
 }

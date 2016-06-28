@@ -2,13 +2,14 @@
   "id": 185807129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.910522,-37.215569,174.910522,-37.215569",
     "geom:latitude":-37.215569,
     "geom:longitude":174.910522,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Kitchener Rd Waiuku ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185807129,
-    "wof:lastmodified":1449007019,
+    "wof:lastmodified":1466311267,
     "wof:name":"Kodak Express",
     "wof:parent_id":85773145,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "developing"
     ]
 },
-  "bbox": [174.910522,-37.215569,174.910522,-37.215569],
-  "geometry": {"coordinates":[174.910522,-37.215569],"type":"Point"}
+  "bbox": [
+    174.910522,
+    -37.215569,
+    174.910522,
+    -37.215569
+],
+  "geometry": {"coordinates":[174.91052199999999,-37.215569],"type":"Point"}
 }

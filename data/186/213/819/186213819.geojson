@@ -2,13 +2,14 @@
   "id": 186213819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.001831,-38.667339,178.001831,-38.667339",
     "geom:latitude":-38.667339,
     "geom:longitude":178.001831,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Awapuni & Lytton Rds ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186213819,
-    "wof:lastmodified":1449050284,
+    "wof:lastmodified":1466311524,
     "wof:name":"Gisborne Hydraulic Services",
     "wof:parent_id":85780807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [178.001831,-38.667339,178.001831,-38.667339],
-  "geometry": {"coordinates":[178.001831,-38.667339],"type":"Point"}
+  "bbox": [
+    178.001831,
+    -38.667339,
+    178.001831,
+    -38.667339
+],
+  "geometry": {"coordinates":[178.00183100000001,-38.667339],"type":"Point"}
 }

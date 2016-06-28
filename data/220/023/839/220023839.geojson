@@ -2,13 +2,14 @@
   "id": 220023839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.587997,-43.5392,172.587997,-43.5392",
     "geom:latitude":-43.5392,
     "geom:longitude":172.587997,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 B Acheron Dve Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":220023839,
-    "wof:lastmodified":1449074799,
+    "wof:lastmodified":1466311100,
     "wof:name":"Cintesi",
     "wof:parent_id":85778457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "catering"
     ]
 },
-  "bbox": [172.587997,-43.5392,172.587997,-43.5392],
+  "bbox": [
+    172.587997,
+    -43.5392,
+    172.587997,
+    -43.5392
+],
   "geometry": {"coordinates":[172.587997,-43.5392],"type":"Point"}
 }

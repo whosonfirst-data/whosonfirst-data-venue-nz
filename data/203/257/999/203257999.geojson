@@ -2,13 +2,14 @@
   "id": 203257999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.619324,-40.965908,175.619324,-40.965908",
     "geom:latitude":-40.965908,
     "geom:longitude":175.619324,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Solway Cre ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203257999,
-    "wof:lastmodified":1449025467,
+    "wof:lastmodified":1466311921,
     "wof:name":"Preseau Knitwear",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.619324,-40.965908,175.619324,-40.965908],
-  "geometry": {"coordinates":[175.619324,-40.965908],"type":"Point"}
+  "bbox": [
+    175.619324,
+    -40.965908,
+    175.619324,
+    -40.965908
+],
+  "geometry": {"coordinates":[175.61932400000001,-40.965908],"type":"Point"}
 }

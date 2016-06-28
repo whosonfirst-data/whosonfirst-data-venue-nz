@@ -2,13 +2,14 @@
   "id": 202449579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.767883,-36.787842,174.767883,-36.787842",
     "geom:latitude":-36.787842,
     "geom:longitude":174.767883,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Henderson Howick Glenfield Manukau Newmarket Pakuranga, Royal Oak St Lukes Takapuna Whangaparaoa New",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202449579,
-    "wof:lastmodified":1449062464,
+    "wof:lastmodified":1466311748,
     "wof:name":"OPSM Limited",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.767883,-36.787842,174.767883,-36.787842],
-  "geometry": {"coordinates":[174.767883,-36.787842],"type":"Point"}
+  "bbox": [
+    174.767883,
+    -36.787842,
+    174.767883,
+    -36.787842
+],
+  "geometry": {"coordinates":[174.76788300000001,-36.787842],"type":"Point"}
 }

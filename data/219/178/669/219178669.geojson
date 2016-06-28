@@ -2,13 +2,14 @@
   "id": 219178669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.778748,-36.852375,174.778748,-36.852375",
     "geom:latitude":-36.852375,
     "geom:longitude":174.778748,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Parnell Rd Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219178669,
-    "wof:lastmodified":1449072933,
+    "wof:lastmodified":1466311228,
     "wof:name":"Netropolitan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.778748,-36.852375,174.778748,-36.852375],
-  "geometry": {"coordinates":[174.778748,-36.852375],"type":"Point"}
+  "bbox": [
+    174.778748,
+    -36.852375,
+    174.778748,
+    -36.852375
+],
+  "geometry": {"coordinates":[174.77874800000001,-36.852375],"type":"Point"}
 }

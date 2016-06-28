@@ -2,13 +2,14 @@
   "id": 203162195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.004272,-41.42186,173.004272,-41.42186",
     "geom:latitude":-41.42186,
     "geom:longitude":173.004272,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Trass Valley Rd Wai-Iti ",
     "sg:city":"Wakefield",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203162195,
-    "wof:lastmodified":1449026576,
+    "wof:lastmodified":1466311004,
     "wof:name":"Pets Haven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "pets"
     ]
 },
-  "bbox": [173.004272,-41.42186,173.004272,-41.42186],
-  "geometry": {"coordinates":[173.004272,-41.42186],"type":"Point"}
+  "bbox": [
+    173.004272,
+    -41.42186,
+    173.004272,
+    -41.42186
+],
+  "geometry": {"coordinates":[173.00427199999999,-41.42186],"type":"Point"}
 }

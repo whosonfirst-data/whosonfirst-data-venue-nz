@@ -2,13 +2,14 @@
   "id": 185992745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.292465,-44.245243,171.292465,-44.245243",
     "geom:latitude":-44.245243,
     "geom:longitude":171.292465,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Ormsby St ",
     "sg:city":"Temuka",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185992745,
-    "wof:lastmodified":1449007374,
+    "wof:lastmodified":1466312403,
     "wof:name":"Anderson A M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [171.292465,-44.245243,171.292465,-44.245243],
-  "geometry": {"coordinates":[171.292465,-44.245243],"type":"Point"}
+  "bbox": [
+    171.292465,
+    -44.245243,
+    171.292465,
+    -44.245243
+],
+  "geometry": {"coordinates":[171.29246499999999,-44.245243],"type":"Point"}
 }

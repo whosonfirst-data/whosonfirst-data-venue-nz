@@ -2,13 +2,14 @@
   "id": 219305353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.639404,-43.520626,172.639404,-43.520626",
     "geom:latitude":-43.520626,
     "geom:longitude":172.639404,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"195 Bealey Ave ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219305353,
-    "wof:lastmodified":1449070926,
+    "wof:lastmodified":1466310977,
     "wof:name":"Home-Lea Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accommodation"
     ]
 },
-  "bbox": [172.639404,-43.520626,172.639404,-43.520626],
-  "geometry": {"coordinates":[172.639404,-43.520626],"type":"Point"}
+  "bbox": [
+    172.639404,
+    -43.520626,
+    172.639404,
+    -43.520626
+],
+  "geometry": {"coordinates":[172.63940400000001,-43.520626],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202401771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.006577,-38.641193,178.006577,-38.641193",
     "geom:latitude":-38.641193,
     "geom:longitude":178.006577,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Ormond Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202401771,
-    "wof:lastmodified":1449062284,
+    "wof:lastmodified":1466311065,
     "wof:name":"Gisborne Hospital",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.006577,-38.641193,178.006577,-38.641193],
-  "geometry": {"coordinates":[178.006577,-38.641193],"type":"Point"}
+  "bbox": [
+    178.006577,
+    -38.641193,
+    178.006577,
+    -38.641193
+],
+  "geometry": {"coordinates":[178.00657699999999,-38.641193],"type":"Point"}
 }

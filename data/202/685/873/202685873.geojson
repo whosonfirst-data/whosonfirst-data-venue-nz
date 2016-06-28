@@ -2,13 +2,14 @@
   "id": 202685873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.694366,-36.894119,174.694366,-36.894119",
     "geom:latitude":-36.894119,
     "geom:longitude":174.694366,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Rosebank Rd Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202685873,
-    "wof:lastmodified":1449062568,
+    "wof:lastmodified":1466312193,
     "wof:name":"Avondale Community Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "children"
     ]
 },
-  "bbox": [174.694366,-36.894119,174.694366,-36.894119],
+  "bbox": [
+    174.694366,
+    -36.894119,
+    174.694366,
+    -36.894119
+],
   "geometry": {"coordinates":[174.694366,-36.894119],"type":"Point"}
 }

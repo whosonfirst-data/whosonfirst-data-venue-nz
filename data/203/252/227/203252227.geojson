@@ -2,13 +2,14 @@
   "id": 203252227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.761826,-36.881237,174.761826,-36.881237",
     "geom:latitude":-36.881237,
     "geom:longitude":174.761826,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"411 Mt Eden Rd Mt Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203252227,
-    "wof:lastmodified":1449025189,
+    "wof:lastmodified":1466311865,
     "wof:name":"Jean Jones",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.761826,-36.881237,174.761826,-36.881237],
-  "geometry": {"coordinates":[174.761826,-36.881237],"type":"Point"}
+  "bbox": [
+    174.761826,
+    -36.881237,
+    174.761826,
+    -36.881237
+],
+  "geometry": {"coordinates":[174.76182600000001,-36.881237],"type":"Point"}
 }

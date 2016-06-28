@@ -2,13 +2,14 @@
   "id": 235944251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.623505,-40.341309,175.623505,-40.341309",
     "geom:latitude":-40.341309,
     "geom:longitude":175.623505,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"117 Ruahine St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235944251,
-    "wof:lastmodified":1449008415,
+    "wof:lastmodified":1466310843,
     "wof:name":"Prepared Foods Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "processor"
     ]
 },
-  "bbox": [175.623505,-40.341309,175.623505,-40.341309],
-  "geometry": {"coordinates":[175.623505,-40.341309],"type":"Point"}
+  "bbox": [
+    175.623505,
+    -40.341309,
+    175.623505,
+    -40.341309
+],
+  "geometry": {"coordinates":[175.62350499999999,-40.341309],"type":"Point"}
 }

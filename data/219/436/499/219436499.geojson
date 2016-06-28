@@ -2,13 +2,14 @@
   "id": 219436499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.101028,35.171452,-100.101028,35.171452",
     "geom:latitude":35.171452,
     "geom:longitude":-100.101028,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 24-144 Manners Street ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":219436499,
-    "wof:lastmodified":1449073577,
+    "wof:lastmodified":1466312119,
     "wof:name":"Consultus NZ Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.101028,35.171452,-100.101028,35.171452],
+  "bbox": [
+    -100.101028,
+    35.171452,
+    -100.101028,
+    35.171452
+],
   "geometry": {"coordinates":[-100.101028,35.171452],"type":"Point"}
 }

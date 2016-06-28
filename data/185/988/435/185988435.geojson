@@ -2,13 +2,14 @@
   "id": 185988435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.323044,-38.009373,175.323044,-38.009373",
     "geom:latitude":-38.009373,
     "geom:longitude":175.323044,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"261 Alexandra St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185988435,
-    "wof:lastmodified":1449007148,
+    "wof:lastmodified":1466312281,
     "wof:name":"Paula's Dressmaking",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.323044,-38.009373,175.323044,-38.009373],
-  "geometry": {"coordinates":[175.323044,-38.009373],"type":"Point"}
+  "bbox": [
+    175.323044,
+    -38.009373,
+    175.323044,
+    -38.009373
+],
+  "geometry": {"coordinates":[175.32304400000001,-38.009373],"type":"Point"}
 }

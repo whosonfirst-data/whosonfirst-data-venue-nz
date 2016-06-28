@@ -2,13 +2,14 @@
   "id": 236043299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.854462,-36.978798,174.854462,-36.978798",
     "geom:latitude":-36.978798,
     "geom:longitude":174.854462,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Kolmar Rd Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236043299,
-    "wof:lastmodified":1449004238,
+    "wof:lastmodified":1466311204,
     "wof:name":"Papatoetoe Funeral Cottage",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "arrangement"
     ]
 },
-  "bbox": [174.854462,-36.978798,174.854462,-36.978798],
-  "geometry": {"coordinates":[174.854462,-36.978798],"type":"Point"}
+  "bbox": [
+    174.854462,
+    -36.978798,
+    174.854462,
+    -36.978798
+],
+  "geometry": {"coordinates":[174.85446200000001,-36.978798],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169759353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.757477,-36.895287,174.757477,-36.895287",
     "geom:latitude":-36.895287,
     "geom:longitude":174.757477,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Peary Rd Mt Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169759353,
-    "wof:lastmodified":1449036018,
+    "wof:lastmodified":1466311338,
     "wof:name":"Advanced Archery NZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "retailer"
     ]
 },
-  "bbox": [174.757477,-36.895287,174.757477,-36.895287],
-  "geometry": {"coordinates":[174.757477,-36.895287],"type":"Point"}
+  "bbox": [
+    174.757477,
+    -36.895287,
+    174.757477,
+    -36.895287
+],
+  "geometry": {"coordinates":[174.75747699999999,-36.895287],"type":"Point"}
 }

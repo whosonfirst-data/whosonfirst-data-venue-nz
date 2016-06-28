@@ -2,13 +2,14 @@
   "id": 202517671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.624329,-40.362312,175.624329,-40.362312",
     "geom:latitude":-40.362312,
     "geom:longitude":175.624329,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Park Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202517671,
-    "wof:lastmodified":1449061546,
+    "wof:lastmodified":1466310806,
     "wof:name":"Grover Dr D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialists"
     ]
 },
-  "bbox": [175.624329,-40.362312,175.624329,-40.362312],
-  "geometry": {"coordinates":[175.624329,-40.362312],"type":"Point"}
+  "bbox": [
+    175.624329,
+    -40.362312,
+    175.624329,
+    -40.362312
+],
+  "geometry": {"coordinates":[175.62432899999999,-40.362312],"type":"Point"}
 }

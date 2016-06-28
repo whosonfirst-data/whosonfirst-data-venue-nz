@@ -2,13 +2,14 @@
   "id": 219760093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.69162,-43.510101,172.69162,-43.510101",
     "geom:latitude":-43.510101,
     "geom:longitude":172.69162,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Breezes Rd Avondale ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219760093,
-    "wof:lastmodified":1449073782,
+    "wof:lastmodified":1466312928,
     "wof:name":"Les Hunter Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automotive"
     ]
 },
-  "bbox": [172.69162,-43.510101,172.69162,-43.510101],
+  "bbox": [
+    172.69162,
+    -43.510101,
+    172.69162,
+    -43.510101
+],
   "geometry": {"coordinates":[172.69162,-43.510101],"type":"Point"}
 }

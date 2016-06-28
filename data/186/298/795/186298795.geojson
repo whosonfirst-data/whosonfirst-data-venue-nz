@@ -2,13 +2,14 @@
   "id": 186298795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.887573,-39.500301,176.887573,-39.500301",
     "geom:latitude":-39.500301,
     "geom:longitude":176.887573,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 A Dunlop Rd Onekawa ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186298795,
-    "wof:lastmodified":1449051111,
+    "wof:lastmodified":1466312057,
     "wof:name":"Neville Windows Ltd",
     "wof:parent_id":85781361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.887573,-39.500301,176.887573,-39.500301],
+  "bbox": [
+    176.887573,
+    -39.500301,
+    176.887573,
+    -39.500301
+],
   "geometry": {"coordinates":[176.887573,-39.500301],"type":"Point"}
 }

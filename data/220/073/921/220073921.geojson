@@ -2,13 +2,14 @@
   "id": 220073921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.643066,-36.876945,174.643066,-36.876945",
     "geom:latitude":-36.876945,
     "geom:longitude":174.643066,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"McLeod Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220073921,
-    "wof:lastmodified":1449074141,
+    "wof:lastmodified":1466311851,
     "wof:name":"Pacific Vineyards Ltd",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wine"
     ]
 },
-  "bbox": [174.643066,-36.876945,174.643066,-36.876945],
+  "bbox": [
+    174.643066,
+    -36.876945,
+    174.643066,
+    -36.876945
+],
   "geometry": {"coordinates":[174.643066,-36.876945],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203337767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.565918,-40.23035,175.565918,-40.23035",
     "geom:latitude":-40.23035,
     "geom:longitude":175.565918,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"98 South St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203337767,
-    "wof:lastmodified":1449025807,
+    "wof:lastmodified":1466312359,
     "wof:name":"Wilkes & Prior Ltd",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.565918,-40.23035,175.565918,-40.23035],
-  "geometry": {"coordinates":[175.565918,-40.23035],"type":"Point"}
+  "bbox": [
+    175.565918,
+    -40.23035,
+    175.565918,
+    -40.23035
+],
+  "geometry": {"coordinates":[175.56591800000001,-40.23035],"type":"Point"}
 }

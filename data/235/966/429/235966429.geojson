@@ -2,13 +2,14 @@
   "id": 235966429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.544861,37.88287,-83.544861,37.88287",
     "geom:latitude":37.88287,
     "geom:longitude":-83.544861,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Courtenay Pl ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235966429,
-    "wof:lastmodified":1449008282,
+    "wof:lastmodified":1466311128,
     "wof:name":"Hummingbird Bar & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "brasserie"
     ]
 },
-  "bbox": [-83.544861,37.88287,-83.544861,37.88287],
+  "bbox": [
+    -83.544861,
+    37.88287,
+    -83.544861,
+    37.88287
+],
   "geometry": {"coordinates":[-83.544861,37.88287],"type":"Point"}
 }

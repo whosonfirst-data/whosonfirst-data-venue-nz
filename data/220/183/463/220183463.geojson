@@ -2,13 +2,14 @@
   "id": 220183463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.293121,-37.792198,175.293121,-37.792198",
     "geom:latitude":-37.792198,
     "geom:longitude":175.293121,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"410 Grey St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220183463,
-    "wof:lastmodified":1449074478,
+    "wof:lastmodified":1466311329,
     "wof:name":"Halal Meats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [175.293121,-37.792198,175.293121,-37.792198],
-  "geometry": {"coordinates":[175.293121,-37.792198],"type":"Point"}
+  "bbox": [
+    175.293121,
+    -37.792198,
+    175.293121,
+    -37.792198
+],
+  "geometry": {"coordinates":[175.29312100000001,-37.792198],"type":"Point"}
 }

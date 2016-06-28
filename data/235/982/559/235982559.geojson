@@ -2,13 +2,14 @@
   "id": 235982559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.565018,-40.227158,175.565018,-40.227158",
     "geom:latitude":-40.227158,
     "geom:longitude":175.565018,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Manchester St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235982559,
-    "wof:lastmodified":1449008320,
+    "wof:lastmodified":1466311416,
     "wof:name":"Mummies Cafe",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cafe"
     ]
 },
-  "bbox": [175.565018,-40.227158,175.565018,-40.227158],
-  "geometry": {"coordinates":[175.565018,-40.227158],"type":"Point"}
+  "bbox": [
+    175.565018,
+    -40.227158,
+    175.565018,
+    -40.227158
+],
+  "geometry": {"coordinates":[175.56501800000001,-40.227158],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203155403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.074463,-41.124168,175.074463,-41.124168",
     "geom:latitude":-41.124168,
     "geom:longitude":175.074463,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"214 Main St Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203155403,
-    "wof:lastmodified":1449026506,
+    "wof:lastmodified":1466310949,
     "wof:name":"Gordon's Pet Supplies",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "pets"
     ]
 },
-  "bbox": [175.074463,-41.124168,175.074463,-41.124168],
-  "geometry": {"coordinates":[175.074463,-41.124168],"type":"Point"}
+  "bbox": [
+    175.074463,
+    -41.124168,
+    175.074463,
+    -41.124168
+],
+  "geometry": {"coordinates":[175.07446300000001,-41.124168],"type":"Point"}
 }

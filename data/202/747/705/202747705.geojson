@@ -2,13 +2,14 @@
   "id": 202747705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.782867,-36.918816,174.782867,-36.918816",
     "geom:latitude":-36.918816,
     "geom:longitude":174.782867,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Grey St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202747705,
-    "wof:lastmodified":1449060570,
+    "wof:lastmodified":1466312504,
     "wof:name":"Montrose Resthome",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [174.782867,-36.918816,174.782867,-36.918816],
-  "geometry": {"coordinates":[174.782867,-36.918816],"type":"Point"}
+  "bbox": [
+    174.782867,
+    -36.918816,
+    174.782867,
+    -36.918816
+],
+  "geometry": {"coordinates":[174.78286700000001,-36.918816],"type":"Point"}
 }

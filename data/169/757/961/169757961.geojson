@@ -2,13 +2,14 @@
   "id": 169757961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.005524,-40.916595,175.005524,-40.916595",
     "geom:latitude":-40.916595,
     "geom:longitude":175.005524,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Coastlands Mall ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169757961,
-    "wof:lastmodified":1449034551,
+    "wof:lastmodified":1466311326,
     "wof:name":"Toyworld Coastlands",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.005524,-40.916595,175.005524,-40.916595],
-  "geometry": {"coordinates":[175.005524,-40.916595],"type":"Point"}
+  "bbox": [
+    175.005524,
+    -40.916595,
+    175.005524,
+    -40.916595
+],
+  "geometry": {"coordinates":[175.00552400000001,-40.916595],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185779127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.60022,-40.369366,175.60022,-40.369366",
     "geom:latitude":-40.369366,
     "geom:longitude":175.60022,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"196 College St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185779127,
-    "wof:lastmodified":1449006860,
+    "wof:lastmodified":1466311086,
     "wof:name":"West End School Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.60022,-40.369366,175.60022,-40.369366],
-  "geometry": {"coordinates":[175.60022,-40.369366],"type":"Point"}
+  "bbox": [
+    175.60022,
+    -40.369366,
+    175.60022,
+    -40.369366
+],
+  "geometry": {"coordinates":[175.60022000000001,-40.369366],"type":"Point"}
 }

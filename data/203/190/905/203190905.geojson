@@ -2,13 +2,14 @@
   "id": 203190905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.27124,-37.763649,175.27124,-37.763649",
     "geom:latitude":-37.763649,
     "geom:longitude":175.27124,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Chartwell Sq ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203190905,
-    "wof:lastmodified":1449026754,
+    "wof:lastmodified":1466311289,
     "wof:name":"Sincerity Drycleaners Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaner"
     ]
 },
-  "bbox": [175.27124,-37.763649,175.27124,-37.763649],
-  "geometry": {"coordinates":[175.27124,-37.763649],"type":"Point"}
+  "bbox": [
+    175.27124,
+    -37.763649,
+    175.27124,
+    -37.763649
+],
+  "geometry": {"coordinates":[175.27124000000001,-37.763649],"type":"Point"}
 }

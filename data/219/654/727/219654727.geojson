@@ -2,13 +2,14 @@
   "id": 219654727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.837936,-36.927921,174.837936,-36.927921",
     "geom:latitude":-36.927921,
     "geom:longitude":174.837936,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Niall Burgess Rd Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219654727,
-    "wof:lastmodified":1449071582,
+    "wof:lastmodified":1466312720,
     "wof:name":"The Shock Shop",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "suspension"
     ]
 },
-  "bbox": [174.837936,-36.927921,174.837936,-36.927921],
-  "geometry": {"coordinates":[174.837936,-36.927921],"type":"Point"}
+  "bbox": [
+    174.837936,
+    -36.927921,
+    174.837936,
+    -36.927921
+],
+  "geometry": {"coordinates":[174.83793600000001,-36.927921],"type":"Point"}
 }

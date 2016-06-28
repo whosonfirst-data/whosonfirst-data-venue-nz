@@ -2,13 +2,14 @@
   "id": 236049153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.319443,-38.008018,175.319443,-38.008018",
     "geom:latitude":-38.008018,
     "geom:longitude":175.319443,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"570 Alexandra St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236049153,
-    "wof:lastmodified":1449003253,
+    "wof:lastmodified":1466311243,
     "wof:name":"Te Awamutu Funeral Services Ltd",
     "wof:parent_id":85782893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "arrangements"
     ]
 },
-  "bbox": [175.319443,-38.008018,175.319443,-38.008018],
-  "geometry": {"coordinates":[175.319443,-38.008018],"type":"Point"}
+  "bbox": [
+    175.319443,
+    -38.008018,
+    175.319443,
+    -38.008018
+],
+  "geometry": {"coordinates":[175.31944300000001,-38.008018],"type":"Point"}
 }

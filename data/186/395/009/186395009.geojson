@@ -2,13 +2,14 @@
   "id": 186395009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.928513,-37.050888,174.928513,-37.050888",
     "geom:latitude":-37.050888,
     "geom:longitude":174.928513,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Inlet Rd Takanini ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186395009,
-    "wof:lastmodified":1449052618,
+    "wof:lastmodified":1466312601,
     "wof:name":"Keyplas",
     "wof:parent_id":85781393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.928513,-37.050888,174.928513,-37.050888],
-  "geometry": {"coordinates":[174.928513,-37.050888],"type":"Point"}
+  "bbox": [
+    174.928513,
+    -37.050888,
+    174.928513,
+    -37.050888
+],
+  "geometry": {"coordinates":[174.92851300000001,-37.050888],"type":"Point"}
 }

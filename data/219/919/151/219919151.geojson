@@ -2,13 +2,14 @@
   "id": 219919151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.621124,-40.334751,175.621124,-40.334751",
     "geom:latitude":-40.334751,
     "geom:longitude":175.621124,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"820 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219919151,
-    "wof:lastmodified":1449073067,
+    "wof:lastmodified":1466313097,
     "wof:name":"Niven Air & Hoists Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.621124,-40.334751,175.621124,-40.334751],
-  "geometry": {"coordinates":[175.621124,-40.334751],"type":"Point"}
+  "bbox": [
+    175.621124,
+    -40.334751,
+    175.621124,
+    -40.334751
+],
+  "geometry": {"coordinates":[175.62112400000001,-40.334751],"type":"Point"}
 }

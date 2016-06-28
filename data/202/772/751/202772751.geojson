@@ -2,13 +2,14 @@
   "id": 202772751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.392609,-46.408302,168.392609,-46.408302",
     "geom:latitude":-46.408302,
     "geom:longitude":168.392609,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Duncan St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202772751,
-    "wof:lastmodified":1449061260,
+    "wof:lastmodified":1466312454,
     "wof:name":"Southern Door & Window Control Service",
     "wof:parent_id":85781467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fittings"
     ]
 },
-  "bbox": [168.392609,-46.408302,168.392609,-46.408302],
-  "geometry": {"coordinates":[168.392609,-46.408302],"type":"Point"}
+  "bbox": [
+    168.392609,
+    -46.408302,
+    168.392609,
+    -46.408302
+],
+  "geometry": {"coordinates":[168.39260899999999,-46.408302],"type":"Point"}
 }

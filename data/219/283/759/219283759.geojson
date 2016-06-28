@@ -2,13 +2,14 @@
   "id": 219283759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.792603,-36.975601,174.792603,-36.975601",
     "geom:latitude":-36.975601,
     "geom:longitude":174.792603,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Westney Rd Mangere ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219283759,
-    "wof:lastmodified":1449071449,
+    "wof:lastmodified":1466310808,
     "wof:name":"Airport Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.792603,-36.975601,174.792603,-36.975601],
-  "geometry": {"coordinates":[174.792603,-36.975601],"type":"Point"}
+  "bbox": [
+    174.792603,
+    -36.975601,
+    174.792603,
+    -36.975601
+],
+  "geometry": {"coordinates":[174.79260300000001,-36.975601],"type":"Point"}
 }

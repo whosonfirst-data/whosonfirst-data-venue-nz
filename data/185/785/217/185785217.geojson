@@ -2,13 +2,14 @@
   "id": 185785217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.764862,-36.790939,174.764862,-36.790939",
     "geom:latitude":-36.790939,
     "geom:longitude":174.764862,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Barrys Point Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185785217,
-    "wof:lastmodified":1449007959,
+    "wof:lastmodified":1466311127,
     "wof:name":"Beads @ Warburtons",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "hobbies"
     ]
 },
-  "bbox": [174.764862,-36.790939,174.764862,-36.790939],
-  "geometry": {"coordinates":[174.764862,-36.790939],"type":"Point"}
+  "bbox": [
+    174.764862,
+    -36.790939,
+    174.764862,
+    -36.790939
+],
+  "geometry": {"coordinates":[174.76486199999999,-36.790939],"type":"Point"}
 }

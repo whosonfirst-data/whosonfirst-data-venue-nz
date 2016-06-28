@@ -2,13 +2,14 @@
   "id": 219312571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.76561,-36.843658,174.76561,-36.843658",
     "geom:latitude":-36.843658,
     "geom:longitude":174.76561,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Lower Albert St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219312571,
-    "wof:lastmodified":1449072167,
+    "wof:lastmodified":1466311043,
     "wof:name":"Stamford Plaza Auckland",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accommodation"
     ]
 },
-  "bbox": [174.76561,-36.843658,174.76561,-36.843658],
-  "geometry": {"coordinates":[174.76561,-36.843658],"type":"Point"}
+  "bbox": [
+    174.76561,
+    -36.843658,
+    174.76561,
+    -36.843658
+],
+  "geometry": {"coordinates":[174.76561000000001,-36.843658],"type":"Point"}
 }

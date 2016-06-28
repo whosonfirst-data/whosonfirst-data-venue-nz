@@ -2,13 +2,14 @@
   "id": 219558697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.613602,-40.33783,175.613602,-40.33783",
     "geom:latitude":-40.33783,
     "geom:longitude":175.613602,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"705 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219558697,
-    "wof:lastmodified":1449071366,
+    "wof:lastmodified":1466312487,
     "wof:name":"Fully Equipped",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.613602,-40.33783,175.613602,-40.33783],
-  "geometry": {"coordinates":[175.613602,-40.33783],"type":"Point"}
+  "bbox": [
+    175.613602,
+    -40.33783,
+    175.613602,
+    -40.33783
+],
+  "geometry": {"coordinates":[175.61360199999999,-40.33783],"type":"Point"}
 }

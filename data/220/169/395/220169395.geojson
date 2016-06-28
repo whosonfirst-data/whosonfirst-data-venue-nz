@@ -2,13 +2,14 @@
   "id": 220169395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.108505,-38.69569,176.108505,-38.69569",
     "geom:latitude":-38.69569,
     "geom:longitude":176.108505,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Crown Rd ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220169395,
-    "wof:lastmodified":1449074531,
+    "wof:lastmodified":1466311221,
     "wof:name":"Taupo Hydroponics Ltd",
     "wof:parent_id":85781171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "veges"
     ]
 },
-  "bbox": [176.108505,-38.69569,176.108505,-38.69569],
-  "geometry": {"coordinates":[176.108505,-38.69569],"type":"Point"}
+  "bbox": [
+    176.108505,
+    -38.69569,
+    176.108505,
+    -38.69569
+],
+  "geometry": {"coordinates":[176.10850500000001,-38.69569],"type":"Point"}
 }

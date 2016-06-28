@@ -2,13 +2,14 @@
   "id": 185816377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.757111,-36.887379,174.757111,-36.887379",
     "geom:latitude":-36.887379,
     "geom:longitude":174.757111,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Kingsview Rd Mt Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185816377,
-    "wof:lastmodified":1449007548,
+    "wof:lastmodified":1466311335,
     "wof:name":"Camera Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hobbies"
     ]
 },
-  "bbox": [174.757111,-36.887379,174.757111,-36.887379],
-  "geometry": {"coordinates":[174.757111,-36.887379],"type":"Point"}
+  "bbox": [
+    174.757111,
+    -36.887379,
+    174.757111,
+    -36.887379
+],
+  "geometry": {"coordinates":[174.75711100000001,-36.887379],"type":"Point"}
 }

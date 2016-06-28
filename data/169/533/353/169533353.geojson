@@ -2,13 +2,14 @@
   "id": 169533353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.34874,-46.4109,168.34874,-46.4109",
     "geom:latitude":-46.4109,
     "geom:longitude":168.34874,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Don St, Invercargill",
     "sg:city":"9501",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":169533353,
-    "wof:lastmodified":1449032642,
+    "wof:lastmodified":1466310525,
     "wof:name":"Trust Bank Southland Ltd",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.34874,-46.4109,168.34874,-46.4109],
-  "geometry": {"coordinates":[168.34874,-46.4109],"type":"Point"}
+  "bbox": [
+    168.34874,
+    -46.4109,
+    168.34874,
+    -46.4109
+],
+  "geometry": {"coordinates":[168.34873999999999,-46.4109],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202919599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.99472,-38.648125,177.99472,-38.648125",
     "geom:latitude":-38.648125,
     "geom:longitude":177.99472,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1039 A Aberdeen Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202919599,
-    "wof:lastmodified":1449062033,
+    "wof:lastmodified":1466312727,
     "wof:name":"Parkview Garden Centre Ltd",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gardening"
     ]
 },
-  "bbox": [177.99472,-38.648125,177.99472,-38.648125],
+  "bbox": [
+    177.99472,
+    -38.648125,
+    177.99472,
+    -38.648125
+],
   "geometry": {"coordinates":[177.99472,-38.648125],"type":"Point"}
 }

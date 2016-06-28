@@ -2,13 +2,14 @@
   "id": 202543675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.629929,-45.847061,170.629929,-45.847061",
     "geom:latitude":-45.847061,
     "geom:longitude":170.629929,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Moerangi St Broad Bay ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202543675,
-    "wof:lastmodified":1449060607,
+    "wof:lastmodified":1466311028,
     "wof:name":"Broad Bay Phisiotherapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.629929,-45.847061,170.629929,-45.847061],
+  "bbox": [
+    170.629929,
+    -45.847061,
+    170.629929,
+    -45.847061
+],
   "geometry": {"coordinates":[170.629929,-45.847061],"type":"Point"}
 }

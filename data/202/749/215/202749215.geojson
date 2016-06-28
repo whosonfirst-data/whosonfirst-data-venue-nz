@@ -2,13 +2,14 @@
   "id": 202749215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.564362,-40.213619,175.564362,-40.213619",
     "geom:latitude":-40.213619,
     "geom:longitude":175.564362,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 North St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202749215,
-    "wof:lastmodified":1449060849,
+    "wof:lastmodified":1466312401,
     "wof:name":"Presbyterian Support (Central)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [175.564362,-40.213619,175.564362,-40.213619],
-  "geometry": {"coordinates":[175.564362,-40.213619],"type":"Point"}
+  "bbox": [
+    175.564362,
+    -40.213619,
+    175.564362,
+    -40.213619
+],
+  "geometry": {"coordinates":[175.56436199999999,-40.213619],"type":"Point"}
 }

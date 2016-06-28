@@ -2,13 +2,14 @@
   "id": 219455417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.775436,-41.283409,174.775436,-41.283409",
     "geom:latitude":-41.283409,
     "geom:longitude":174.775436,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 2, Stewart Dawson Building Cnr Willis St &, Lambton Qy ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219455417,
-    "wof:lastmodified":1449073348,
+    "wof:lastmodified":1466312177,
     "wof:name":"Education Directions Ltd",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "education"
     ]
 },
-  "bbox": [174.775436,-41.283409,174.775436,-41.283409],
-  "geometry": {"coordinates":[174.775436,-41.283409],"type":"Point"}
+  "bbox": [
+    174.775436,
+    -41.283409,
+    174.775436,
+    -41.283409
+],
+  "geometry": {"coordinates":[174.77543600000001,-41.283409],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219857065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.44928,-45.735283,168.44928,-45.735283",
     "geom:latitude":-45.735283,
     "geom:longitude":168.44928,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"129 Pasture St ",
     "sg:city":"Lumsden",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219857065,
-    "wof:lastmodified":1449072675,
+    "wof:lastmodified":1466313147,
     "wof:name":"Lumsden Hatcheries Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "ostrich"
     ]
 },
-  "bbox": [168.44928,-45.735283,168.44928,-45.735283],
-  "geometry": {"coordinates":[168.44928,-45.735283],"type":"Point"}
+  "bbox": [
+    168.44928,
+    -45.735283,
+    168.44928,
+    -45.735283
+],
+  "geometry": {"coordinates":[168.44927999999999,-45.735283],"type":"Point"}
 }

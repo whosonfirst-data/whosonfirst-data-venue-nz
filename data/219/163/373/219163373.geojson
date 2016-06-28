@@ -2,13 +2,14 @@
   "id": 219163373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.005753,-41.291809,174.005753,-41.291809",
     "geom:latitude":-41.291809,
     "geom:longitude":174.005753,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Auckland St ",
     "sg:city":"Picton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219163373,
-    "wof:lastmodified":1449073834,
+    "wof:lastmodified":1466310828,
     "wof:name":"Port Marlborough New Zealand Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.005753,-41.291809,174.005753,-41.291809],
+  "bbox": [
+    174.005753,
+    -41.291809,
+    174.005753,
+    -41.291809
+],
   "geometry": {"coordinates":[174.005753,-41.291809],"type":"Point"}
 }

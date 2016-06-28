@@ -2,13 +2,14 @@
   "id": 169539537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.630264,40.227989,-74.630264,40.227989",
     "geom:latitude":40.227989,
     "geom:longitude":-74.630264,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hardley St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":169539537,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466310628,
     "wof:name":"The Radio Network",
     "wof:parent_id":85823707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"
     ]
 },
-  "bbox": [-74.630264,40.227989,-74.630264,40.227989],
+  "bbox": [
+    -74.630264,
+    40.227989,
+    -74.630264,
+    40.227989
+],
   "geometry": {"coordinates":[-74.630264,40.227989],"type":"Point"}
 }

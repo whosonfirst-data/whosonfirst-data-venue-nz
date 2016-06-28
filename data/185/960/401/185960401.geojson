@@ -2,13 +2,14 @@
   "id": 185960401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.351624,-46.329475,168.351624,-46.329475",
     "geom:latitude":-46.329475,
     "geom:longitude":168.351624,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Corner Don and Deveron Sts ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185960401,
-    "wof:lastmodified":1449007749,
+    "wof:lastmodified":1466312157,
     "wof:name":"Volleyball Southland Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sports"
     ]
 },
-  "bbox": [168.351624,-46.329475,168.351624,-46.329475],
-  "geometry": {"coordinates":[168.351624,-46.329475],"type":"Point"}
+  "bbox": [
+    168.351624,
+    -46.329475,
+    168.351624,
+    -46.329475
+],
+  "geometry": {"coordinates":[168.35162399999999,-46.329475],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219720693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.700912,-43.540874,172.700912,-43.540874",
     "geom:latitude":-43.540874,
     "geom:longitude":172.700912,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Edison Pl Bromley ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219720693,
-    "wof:lastmodified":1449071235,
+    "wof:lastmodified":1466312856,
     "wof:name":"Trailer Services",
     "wof:parent_id":85772845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.700912,-43.540874,172.700912,-43.540874],
-  "geometry": {"coordinates":[172.700912,-43.540874],"type":"Point"}
+  "bbox": [
+    172.700912,
+    -43.540874,
+    172.700912,
+    -43.540874
+],
+  "geometry": {"coordinates":[172.70091199999999,-43.540874],"type":"Point"}
 }

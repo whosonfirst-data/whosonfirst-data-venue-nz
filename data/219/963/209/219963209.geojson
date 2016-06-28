@@ -2,13 +2,14 @@
   "id": 219963209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.621628,-37.622284,175.621628,-37.622284",
     "geom:latitude":-37.622284,
     "geom:longitude":175.621628,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Wood Rd Waitoa ",
     "sg:city":"Morrinsville",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219963209,
-    "wof:lastmodified":1449070726,
+    "wof:lastmodified":1466313119,
     "wof:name":"Wallace Corporation Ltd/J D Wallace Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.621628,-37.622284,175.621628,-37.622284],
-  "geometry": {"coordinates":[175.621628,-37.622284],"type":"Point"}
+  "bbox": [
+    175.621628,
+    -37.622284,
+    175.621628,
+    -37.622284
+],
+  "geometry": {"coordinates":[175.62162799999999,-37.622284],"type":"Point"}
 }

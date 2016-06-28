@@ -2,13 +2,14 @@
   "id": 203116315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.658722,-45.032154,168.658722,-45.032154",
     "geom:latitude":-45.032154,
     "geom:longitude":168.658722,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Shotover St ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203116315,
-    "wof:lastmodified":1449025213,
+    "wof:lastmodified":1466310665,
     "wof:name":"Queenstown Tattoo & Piercing Studio",
     "wof:parent_id":85782493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "garden"
     ]
 },
-  "bbox": [168.658722,-45.032154,168.658722,-45.032154],
-  "geometry": {"coordinates":[168.658722,-45.032154],"type":"Point"}
+  "bbox": [
+    168.658722,
+    -45.032154,
+    168.658722,
+    -45.032154
+],
+  "geometry": {"coordinates":[168.65872200000001,-45.032154],"type":"Point"}
 }

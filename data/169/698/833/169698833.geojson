@@ -2,13 +2,14 @@
   "id": 169698833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.319244,-35.725327,174.319244,-35.725327",
     "geom:latitude":-35.725327,
     "geom:longitude":174.319244,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Bank St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169698833,
-    "wof:lastmodified":1449035755,
+    "wof:lastmodified":1466310884,
     "wof:name":"Bank Street Appliances",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.319244,-35.725327,174.319244,-35.725327],
+  "bbox": [
+    174.319244,
+    -35.725327,
+    174.319244,
+    -35.725327
+],
   "geometry": {"coordinates":[174.319244,-35.725327],"type":"Point"}
 }

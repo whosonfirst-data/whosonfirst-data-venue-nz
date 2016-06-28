@@ -2,13 +2,14 @@
   "id": 219439337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.638107,-40.964771,175.638107,-40.964771",
     "geom:latitude":-40.964771,
     "geom:longitude":175.638107,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Devon St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219439337,
-    "wof:lastmodified":1449071376,
+    "wof:lastmodified":1466312128,
     "wof:name":"Colin Tomlin Driving Education",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driver"
     ]
 },
-  "bbox": [175.638107,-40.964771,175.638107,-40.964771],
-  "geometry": {"coordinates":[175.638107,-40.964771],"type":"Point"}
+  "bbox": [
+    175.638107,
+    -40.964771,
+    175.638107,
+    -40.964771
+],
+  "geometry": {"coordinates":[175.63810699999999,-40.964771],"type":"Point"}
 }

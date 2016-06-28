@@ -2,13 +2,14 @@
   "id": 219336101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.469513,-45.880348,170.469513,-45.880348",
     "geom:latitude":-45.880348,
     "geom:longitude":170.469513,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"162 Kaikorai Valley Rd Kaikorai ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219336101,
-    "wof:lastmodified":1449070312,
+    "wof:lastmodified":1466311228,
     "wof:name":"Aaron Lodge Top 10 Holiday Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accommodation"
     ]
 },
-  "bbox": [170.469513,-45.880348,170.469513,-45.880348],
-  "geometry": {"coordinates":[170.469513,-45.880348],"type":"Point"}
+  "bbox": [
+    170.469513,
+    -45.880348,
+    170.469513,
+    -45.880348
+],
+  "geometry": {"coordinates":[170.46951300000001,-45.880348],"type":"Point"}
 }

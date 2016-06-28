@@ -2,13 +2,14 @@
   "id": 219643907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.226639,-38.132828,176.226639,-38.132828",
     "geom:latitude":-38.132828,
     "geom:longitude":176.226639,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Tallyho St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219643907,
-    "wof:lastmodified":1449073445,
+    "wof:lastmodified":1466312614,
     "wof:name":"Jenkins Machinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "supplies"
     ]
 },
-  "bbox": [176.226639,-38.132828,176.226639,-38.132828],
-  "geometry": {"coordinates":[176.226639,-38.132828],"type":"Point"}
+  "bbox": [
+    176.226639,
+    -38.132828,
+    176.226639,
+    -38.132828
+],
+  "geometry": {"coordinates":[176.22663900000001,-38.132828],"type":"Point"}
 }

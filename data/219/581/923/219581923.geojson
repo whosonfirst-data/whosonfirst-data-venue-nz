@@ -2,13 +2,14 @@
   "id": 219581923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.050964,-39.939072,175.050964,-39.939072",
     "geom:latitude":-39.939072,
     "geom:longitude":175.050964,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Taupo Qy ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219581923,
-    "wof:lastmodified":1449071144,
+    "wof:lastmodified":1466312457,
     "wof:name":"Gotta Go Rentals - Wanganui",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.050964,-39.939072,175.050964,-39.939072],
-  "geometry": {"coordinates":[175.050964,-39.939072],"type":"Point"}
+  "bbox": [
+    175.050964,
+    -39.939072,
+    175.050964,
+    -39.939072
+],
+  "geometry": {"coordinates":[175.05096399999999,-39.939072],"type":"Point"}
 }

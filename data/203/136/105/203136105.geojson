@@ -2,13 +2,14 @@
   "id": 203136105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.642792,-43.311005,172.642792,-43.311005",
     "geom:latitude":-43.311005,
     "geom:longitude":172.642792,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Rangiora Woodend Rd ",
     "sg:city":"Woodend",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203136105,
-    "wof:lastmodified":1449026852,
+    "wof:lastmodified":1466310798,
     "wof:name":"Lucky Dog Boarding Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kennel"
     ]
 },
-  "bbox": [172.642792,-43.311005,172.642792,-43.311005],
-  "geometry": {"coordinates":[172.642792,-43.311005],"type":"Point"}
+  "bbox": [
+    172.642792,
+    -43.311005,
+    172.642792,
+    -43.311005
+],
+  "geometry": {"coordinates":[172.64279199999999,-43.311005],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203090205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.942627,-41.5242,173.942627,-41.5242",
     "geom:latitude":-41.5242,
     "geom:longitude":173.942627,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Leitrim St ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203090205,
-    "wof:lastmodified":1449026447,
+    "wof:lastmodified":1466311894,
     "wof:name":"Dale Yeoman MNZAC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "counselling"
     ]
 },
-  "bbox": [173.942627,-41.5242,173.942627,-41.5242],
-  "geometry": {"coordinates":[173.942627,-41.5242],"type":"Point"}
+  "bbox": [
+    173.942627,
+    -41.5242,
+    173.942627,
+    -41.5242
+],
+  "geometry": {"coordinates":[173.94262699999999,-41.5242],"type":"Point"}
 }

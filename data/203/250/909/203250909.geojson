@@ -2,13 +2,14 @@
   "id": 203250909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.348358,-46.411991,168.348358,-46.411991",
     "geom:latitude":-46.411991,
     "geom:longitude":168.348358,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Esk St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203250909,
-    "wof:lastmodified":1449026037,
+    "wof:lastmodified":1466311849,
     "wof:name":"Cruzeros",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.348358,-46.411991,168.348358,-46.411991],
-  "geometry": {"coordinates":[168.348358,-46.411991],"type":"Point"}
+  "bbox": [
+    168.348358,
+    -46.411991,
+    168.348358,
+    -46.411991
+],
+  "geometry": {"coordinates":[168.34835799999999,-46.411991],"type":"Point"}
 }

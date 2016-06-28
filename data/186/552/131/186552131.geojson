@@ -2,13 +2,14 @@
   "id": 186552131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.627106,-36.815094,174.627106,-36.815094",
     "geom:latitude":-36.815094,
     "geom:longitude":174.627106,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Hobsonville Rd West Harbour ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186552131,
-    "wof:lastmodified":1449051497,
+    "wof:lastmodified":1466312896,
     "wof:name":"First Impressions - Make Up",
     "wof:parent_id":85778731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "make-up"
     ]
 },
-  "bbox": [174.627106,-36.815094,174.627106,-36.815094],
+  "bbox": [
+    174.627106,
+    -36.815094,
+    174.627106,
+    -36.815094
+],
   "geometry": {"coordinates":[174.627106,-36.815094],"type":"Point"}
 }

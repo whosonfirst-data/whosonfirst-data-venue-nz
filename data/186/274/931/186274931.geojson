@@ -2,13 +2,14 @@
   "id": 186274931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.348724,-46.419273,168.348724,-46.419273",
     "geom:latitude":-46.419273,
     "geom:longitude":168.348724,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 b Teviot St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186274931,
-    "wof:lastmodified":1449050597,
+    "wof:lastmodified":1466312209,
     "wof:name":"Pegler Beacon New Zealand",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.348724,-46.419273,168.348724,-46.419273],
+  "bbox": [
+    168.348724,
+    -46.419273,
+    168.348724,
+    -46.419273
+],
   "geometry": {"coordinates":[168.348724,-46.419273],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203149735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.943939,-41.244701,174.943939,-41.244701",
     "geom:latitude":-41.244701,
     "geom:longitude":174.943939,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Wellington Rd Wainuiomata Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203149735,
-    "wof:lastmodified":1449024944,
+    "wof:lastmodified":1466310906,
     "wof:name":"Cath Pet Minding Services",
     "wof:parent_id":85781053,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "pets"
     ]
 },
-  "bbox": [174.943939,-41.244701,174.943939,-41.244701],
+  "bbox": [
+    174.943939,
+    -41.244701,
+    174.943939,
+    -41.244701
+],
   "geometry": {"coordinates":[174.943939,-41.244701],"type":"Point"}
 }

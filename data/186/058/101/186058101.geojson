@@ -2,13 +2,14 @@
   "id": 186058101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.230301,-38.130703,176.230301,-38.130703",
     "geom:latitude":-38.130703,
     "geom:longitude":176.230301,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Tallyho St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186058101,
-    "wof:lastmodified":1449050784,
+    "wof:lastmodified":1466312046,
     "wof:name":"Eagle Chemicals",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [176.230301,-38.130703,176.230301,-38.130703],
+  "bbox": [
+    176.230301,
+    -38.130703,
+    176.230301,
+    -38.130703
+],
   "geometry": {"coordinates":[176.230301,-38.130703],"type":"Point"}
 }

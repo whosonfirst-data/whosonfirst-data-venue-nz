@@ -2,13 +2,14 @@
   "id": 235979665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.838943,-44.943054,168.838943,-44.943054",
     "geom:latitude":-44.943054,
     "geom:longitude":168.838943,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4/5 Ballarat Arcade Buckingham St ",
     "sg:city":"Arrowtown",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235979665,
-    "wof:lastmodified":1449008487,
+    "wof:lastmodified":1466311376,
     "wof:name":"Food For Thought",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "cafe"
     ]
 },
-  "bbox": [168.838943,-44.943054,168.838943,-44.943054],
+  "bbox": [
+    168.838943,
+    -44.943054,
+    168.838943,
+    -44.943054
+],
   "geometry": {"coordinates":[168.838943,-44.943054],"type":"Point"}
 }

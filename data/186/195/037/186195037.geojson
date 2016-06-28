@@ -2,13 +2,14 @@
   "id": 186195037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.504562,-45.893581,170.504562,-45.893581",
     "geom:latitude":-45.893581,
     "geom:longitude":170.504562,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Andersons Bay Rd South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186195037,
-    "wof:lastmodified":1449052134,
+    "wof:lastmodified":1466311350,
     "wof:name":"Engineering Wholesalers (Otago) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.504562,-45.893581,170.504562,-45.893581],
-  "geometry": {"coordinates":[170.504562,-45.893581],"type":"Point"}
+  "bbox": [
+    170.504562,
+    -45.893581,
+    170.504562,
+    -45.893581
+],
+  "geometry": {"coordinates":[170.50456199999999,-45.893581],"type":"Point"}
 }

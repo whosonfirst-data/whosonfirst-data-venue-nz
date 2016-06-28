@@ -2,13 +2,14 @@
   "id": 202791979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.165131,-37.711075,176.165131,-37.711075",
     "geom:latitude":-37.711075,
     "geom:longitude":176.165131,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Mayfair St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202791979,
-    "wof:lastmodified":1449062074,
+    "wof:lastmodified":1466312520,
     "wof:name":"Town & Country Kitchens",
     "wof:parent_id":85782817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kitchen"
     ]
 },
-  "bbox": [176.165131,-37.711075,176.165131,-37.711075],
+  "bbox": [
+    176.165131,
+    -37.711075,
+    176.165131,
+    -37.711075
+],
   "geometry": {"coordinates":[176.165131,-37.711075],"type":"Point"}
 }

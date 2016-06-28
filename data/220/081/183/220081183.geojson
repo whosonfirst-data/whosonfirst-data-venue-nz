@@ -2,13 +2,14 @@
   "id": 220081183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.519058,-43.552979,172.519058,-43.552979",
     "geom:latitude":-43.552979,
     "geom:longitude":172.519058,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"652 Halswell Junction Rd ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220081183,
-    "wof:lastmodified":1449074267,
+    "wof:lastmodified":1466311866,
     "wof:name":"Bakels NZ Ltd",
     "wof:parent_id":85778891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.519058,-43.552979,172.519058,-43.552979],
+  "bbox": [
+    172.519058,
+    -43.552979,
+    172.519058,
+    -43.552979
+],
   "geometry": {"coordinates":[172.519058,-43.552979],"type":"Point"}
 }

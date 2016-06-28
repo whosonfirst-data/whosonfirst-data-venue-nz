@@ -2,13 +2,14 @@
   "id": 219540611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.810928,-36.92355,174.810928,-36.92355",
     "geom:latitude":-36.92355,
     "geom:longitude":174.810928,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"340 Neilson St Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219540611,
-    "wof:lastmodified":1449071777,
+    "wof:lastmodified":1466312344,
     "wof:name":"Flexiglass Challenge Industries (NZ) Ltd",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.810928,-36.92355,174.810928,-36.92355],
-  "geometry": {"coordinates":[174.810928,-36.92355],"type":"Point"}
+  "bbox": [
+    174.810928,
+    -36.92355,
+    174.810928,
+    -36.92355
+],
+  "geometry": {"coordinates":[174.81092799999999,-36.92355],"type":"Point"}
 }

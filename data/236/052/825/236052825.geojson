@@ -2,13 +2,14 @@
   "id": 236052825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.676956,-36.908794,174.676956,-36.908794",
     "geom:latitude":-36.908794,
     "geom:longitude":174.676956,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3133 Gt North Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236052825,
-    "wof:lastmodified":1449003090,
+    "wof:lastmodified":1466311252,
     "wof:name":"Aro Memorials Ltd",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mason"
     ]
 },
-  "bbox": [174.676956,-36.908794,174.676956,-36.908794],
-  "geometry": {"coordinates":[174.676956,-36.908794],"type":"Point"}
+  "bbox": [
+    174.676956,
+    -36.908794,
+    174.676956,
+    -36.908794
+],
+  "geometry": {"coordinates":[174.67695599999999,-36.908794],"type":"Point"}
 }

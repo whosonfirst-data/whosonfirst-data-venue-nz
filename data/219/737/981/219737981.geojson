@@ -2,13 +2,14 @@
   "id": 219737981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.242218,-37.751678,175.242218,-37.751678",
     "geom:latitude":-37.751678,
     "geom:longitude":175.242218,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"59 Vickery Street Te Rapa ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219737981,
-    "wof:lastmodified":1449071191,
+    "wof:lastmodified":1466312885,
     "wof:name":"Peter Olt Ltd",
     "wof:parent_id":85773235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "servicing"
     ]
 },
-  "bbox": [175.242218,-37.751678,175.242218,-37.751678],
-  "geometry": {"coordinates":[175.242218,-37.751678],"type":"Point"}
+  "bbox": [
+    175.242218,
+    -37.751678,
+    175.242218,
+    -37.751678
+],
+  "geometry": {"coordinates":[175.24221800000001,-37.751678],"type":"Point"}
 }

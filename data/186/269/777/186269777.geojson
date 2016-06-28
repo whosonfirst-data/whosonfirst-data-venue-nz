@@ -2,13 +2,14 @@
   "id": 186269777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.753448,-36.860439,174.753448,-36.860439",
     "geom:latitude":-36.860439,
     "geom:longitude":174.753448,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Newton Rd Newton ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186269777,
-    "wof:lastmodified":1449052055,
+    "wof:lastmodified":1466312199,
     "wof:name":"GBC Scientific (NZ)",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.753448,-36.860439,174.753448,-36.860439],
-  "geometry": {"coordinates":[174.753448,-36.860439],"type":"Point"}
+  "bbox": [
+    174.753448,
+    -36.860439,
+    174.753448,
+    -36.860439
+],
+  "geometry": {"coordinates":[174.75344799999999,-36.860439],"type":"Point"}
 }

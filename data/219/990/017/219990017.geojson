@@ -2,13 +2,14 @@
   "id": 219990017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.611481,-40.357418,175.611481,-40.357418",
     "geom:latitude":-40.357418,
     "geom:longitude":175.611481,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 1242 Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219990017,
-    "wof:lastmodified":1449072752,
+    "wof:lastmodified":1466313179,
     "wof:name":"Institute of Chartered Accountants of New Zealand",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finance"
     ]
 },
-  "bbox": [175.611481,-40.357418,175.611481,-40.357418],
+  "bbox": [
+    175.611481,
+    -40.357418,
+    175.611481,
+    -40.357418
+],
   "geometry": {"coordinates":[175.611481,-40.357418],"type":"Point"}
 }

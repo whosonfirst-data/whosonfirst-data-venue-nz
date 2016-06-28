@@ -2,13 +2,14 @@
   "id": 219806561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.050278,-39.937817,175.050278,-39.937817",
     "geom:latitude":-39.937817,
     "geom:longitude":175.050278,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Ridgway St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219806561,
-    "wof:lastmodified":1449070370,
+    "wof:lastmodified":1466313031,
     "wof:name":"M B Panelbeating",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beater"
     ]
 },
-  "bbox": [175.050278,-39.937817,175.050278,-39.937817],
-  "geometry": {"coordinates":[175.050278,-39.937817],"type":"Point"}
+  "bbox": [
+    175.050278,
+    -39.937817,
+    175.050278,
+    -39.937817
+],
+  "geometry": {"coordinates":[175.05027799999999,-39.937817],"type":"Point"}
 }

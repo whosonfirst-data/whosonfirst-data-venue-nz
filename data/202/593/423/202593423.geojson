@@ -2,13 +2,14 @@
   "id": 202593423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.183105,-37.63776,176.183105,-37.63776",
     "geom:latitude":-37.63776,
     "geom:longitude":176.183105,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"146 Maunganui Rd Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202593423,
-    "wof:lastmodified":1449061768,
+    "wof:lastmodified":1466311461,
     "wof:name":"Apron Strings",
     "wof:parent_id":85773039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.183105,-37.63776,176.183105,-37.63776],
-  "geometry": {"coordinates":[176.183105,-37.63776],"type":"Point"}
+  "bbox": [
+    176.183105,
+    -37.63776,
+    176.183105,
+    -37.63776
+],
+  "geometry": {"coordinates":[176.18310500000001,-37.63776],"type":"Point"}
 }

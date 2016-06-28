@@ -2,13 +2,14 @@
   "id": 202916877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.992874,-40.939487,174.992874,-40.939487",
     "geom:latitude":-40.939487,
     "geom:longitude":174.992874,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"153 Poplar Ave Raumati Beach ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202916877,
-    "wof:lastmodified":1449061502,
+    "wof:lastmodified":1466312829,
     "wof:name":"Livingstone Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "gardening"
     ]
 },
-  "bbox": [174.992874,-40.939487,174.992874,-40.939487],
+  "bbox": [
+    174.992874,
+    -40.939487,
+    174.992874,
+    -40.939487
+],
   "geometry": {"coordinates":[174.992874,-40.939487],"type":"Point"}
 }

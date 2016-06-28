@@ -2,13 +2,14 @@
   "id": 236033031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.656448,34.457924,-79.656448,34.457924",
     "geom:latitude":34.457924,
     "geom:longitude":-79.656448,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 381 ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236033031,
-    "wof:lastmodified":1449002184,
+    "wof:lastmodified":1466312026,
     "wof:name":"New Zealand Wineries Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [-79.656448,34.457924,-79.656448,34.457924],
+  "bbox": [
+    -79.656448,
+    34.457924,
+    -79.656448,
+    34.457924
+],
   "geometry": {"coordinates":[-79.656448,34.457924],"type":"Point"}
 }

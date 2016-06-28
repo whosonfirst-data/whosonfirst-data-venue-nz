@@ -2,13 +2,14 @@
   "id": 202581569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.994247,-37.956585,176.994247,-37.956585",
     "geom:latitude":-37.956585,
     "geom:longitude":176.994247,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"102-108 Commerce St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202581569,
-    "wof:lastmodified":1449060655,
+    "wof:lastmodified":1466311367,
     "wof:name":"Benchmark Building Supplies Ltd",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.994247,-37.956585,176.994247,-37.956585],
+  "bbox": [
+    176.994247,
+    -37.956585,
+    176.994247,
+    -37.956585
+],
   "geometry": {"coordinates":[176.994247,-37.956585],"type":"Point"}
 }

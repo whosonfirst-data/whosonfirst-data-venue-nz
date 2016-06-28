@@ -2,13 +2,14 @@
   "id": 220047771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.016373,-38.660557,178.016373,-38.660557",
     "geom:latitude":-38.660557,
     "geom:longitude":178.016373,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Disraeli St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220047771,
-    "wof:lastmodified":1449074572,
+    "wof:lastmodified":1466311584,
     "wof:name":"Sunshine Brewery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "brewer"
     ]
 },
-  "bbox": [178.016373,-38.660557,178.016373,-38.660557],
-  "geometry": {"coordinates":[178.016373,-38.660557],"type":"Point"}
+  "bbox": [
+    178.016373,
+    -38.660557,
+    178.016373,
+    -38.660557
+],
+  "geometry": {"coordinates":[178.01637299999999,-38.660557],"type":"Point"}
 }

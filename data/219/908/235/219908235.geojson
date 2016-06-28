@@ -2,13 +2,14 @@
   "id": 219908235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.910507,-35.869175,173.910507,-35.869175",
     "geom:latitude":-35.869175,
     "geom:longitude":173.910507,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 14 ",
     "sg:city":"Dargaville",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219908235,
-    "wof:lastmodified":1449072381,
+    "wof:lastmodified":1466313091,
     "wof:name":"Dargaville Honda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.910507,-35.869175,173.910507,-35.869175],
+  "bbox": [
+    173.910507,
+    -35.869175,
+    173.910507,
+    -35.869175
+],
   "geometry": {"coordinates":[173.910507,-35.869175],"type":"Point"}
 }

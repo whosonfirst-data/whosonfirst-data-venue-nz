@@ -2,13 +2,14 @@
   "id": 202904587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.57991,-40.233395,175.57991,-40.233395",
     "geom:latitude":-40.233395,
     "geom:longitude":175.57991,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Mahinui St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202904587,
-    "wof:lastmodified":1449062720,
+    "wof:lastmodified":1466312894,
     "wof:name":"Ravensdown Fertiliser Co-op Ltd",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.57991,-40.233395,175.57991,-40.233395],
-  "geometry": {"coordinates":[175.57991,-40.233395],"type":"Point"}
+  "bbox": [
+    175.57991,
+    -40.233395,
+    175.57991,
+    -40.233395
+],
+  "geometry": {"coordinates":[175.57991000000001,-40.233395],"type":"Point"}
 }

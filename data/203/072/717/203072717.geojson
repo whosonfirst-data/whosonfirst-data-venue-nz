@@ -2,13 +2,14 @@
   "id": 203072717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.301819,-35.697857,174.301819,-35.697857",
     "geom:latitude":-35.697857,
     "geom:longitude":174.301819,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Whau Valley Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203072717,
-    "wof:lastmodified":1449025944,
+    "wof:lastmodified":1466311752,
     "wof:name":"Fred Osborne - Stonemason",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.301819,-35.697857,174.301819,-35.697857],
-  "geometry": {"coordinates":[174.301819,-35.697857],"type":"Point"}
+  "bbox": [
+    174.301819,
+    -35.697857,
+    174.301819,
+    -35.697857
+],
+  "geometry": {"coordinates":[174.30181899999999,-35.697857],"type":"Point"}
 }

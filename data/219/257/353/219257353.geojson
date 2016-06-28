@@ -2,13 +2,14 @@
   "id": 219257353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.160568,-37.708054,176.160568,-37.708054",
     "geom:latitude":-37.708054,
     "geom:longitude":176.160568,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"92 Fifteenth Ave ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219257353,
-    "wof:lastmodified":1449071443,
+    "wof:lastmodified":1466311996,
     "wof:name":"Colonial Court Motel",
     "wof:parent_id":85782817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "accommodation"
     ]
 },
-  "bbox": [176.160568,-37.708054,176.160568,-37.708054],
-  "geometry": {"coordinates":[176.160568,-37.708054],"type":"Point"}
+  "bbox": [
+    176.160568,
+    -37.708054,
+    176.160568,
+    -37.708054
+],
+  "geometry": {"coordinates":[176.16056800000001,-37.708054],"type":"Point"}
 }

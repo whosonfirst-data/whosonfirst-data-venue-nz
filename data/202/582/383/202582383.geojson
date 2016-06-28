@@ -2,13 +2,14 @@
   "id": 202582383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.690414,-36.906559,174.690414,-36.906559",
     "geom:latitude":-36.906559,
     "geom:longitude":174.690414,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1/31 Portage Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202582383,
-    "wof:lastmodified":1449061478,
+    "wof:lastmodified":1466311376,
     "wof:name":"Drake & Wrigley Ltd",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.690414,-36.906559,174.690414,-36.906559],
+  "bbox": [
+    174.690414,
+    -36.906559,
+    174.690414,
+    -36.906559
+],
   "geometry": {"coordinates":[174.690414,-36.906559],"type":"Point"}
 }

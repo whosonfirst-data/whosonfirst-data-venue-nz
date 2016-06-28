@@ -2,13 +2,14 @@
   "id": 202757441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-0.57051,51.23708,-0.57051,51.23708",
     "geom:latitude":51.23708,
     "geom:longitude":-0.57051,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Guildford Dve ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202757441,
-    "wof:lastmodified":1449061531,
+    "wof:lastmodified":1466312522,
     "wof:name":"Kapiti Village",
     "wof:parent_id":85790795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "village"
     ]
 },
-  "bbox": [-0.57051,51.23708,-0.57051,51.23708],
+  "bbox": [
+    -0.57051,
+    51.23708,
+    -0.57051,
+    51.23708
+],
   "geometry": {"coordinates":[-0.57051,51.23708],"type":"Point"}
 }

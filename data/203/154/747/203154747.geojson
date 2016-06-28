@@ -2,13 +2,14 @@
   "id": 203154747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.017929,-39.92934,175.017929,-39.92934",
     "geom:latitude":-39.92934,
     "geom:longitude":175.017929,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 a Oxford Rd ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203154747,
-    "wof:lastmodified":1449026880,
+    "wof:lastmodified":1466310942,
     "wof:name":"Aquarium Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pets"
     ]
 },
-  "bbox": [175.017929,-39.92934,175.017929,-39.92934],
-  "geometry": {"coordinates":[175.017929,-39.92934],"type":"Point"}
+  "bbox": [
+    175.017929,
+    -39.92934,
+    175.017929,
+    -39.92934
+],
+  "geometry": {"coordinates":[175.01792900000001,-39.92934],"type":"Point"}
 }

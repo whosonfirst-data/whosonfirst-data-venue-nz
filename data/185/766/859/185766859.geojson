@@ -2,13 +2,14 @@
   "id": 185766859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.261398,-38.88596,175.261398,-38.88596",
     "geom:latitude":-38.88596,
     "geom:longitude":175.261398,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Marae St ",
     "sg:city":"Taumarunui",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":185766859,
-    "wof:lastmodified":1449006579,
+    "wof:lastmodified":1466311006,
     "wof:name":"Taumarunui RSA Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.261398,-38.88596,175.261398,-38.88596],
-  "geometry": {"coordinates":[175.261398,-38.88596],"type":"Point"}
+  "bbox": [
+    175.261398,
+    -38.88596,
+    175.261398,
+    -38.88596
+],
+  "geometry": {"coordinates":[175.26139800000001,-38.88596],"type":"Point"}
 }

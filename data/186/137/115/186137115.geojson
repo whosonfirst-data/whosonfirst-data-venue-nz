@@ -2,13 +2,14 @@
   "id": 186137115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.149521,-37.696381,176.149521,-37.696381",
     "geom:latitude":-37.696381,
     "geom:longitude":176.149521,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Montgomery Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186137115,
-    "wof:lastmodified":1449052645,
+    "wof:lastmodified":1466310868,
     "wof:name":"HGM Group Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.149521,-37.696381,176.149521,-37.696381],
-  "geometry": {"coordinates":[176.149521,-37.696381],"type":"Point"}
+  "bbox": [
+    176.149521,
+    -37.696381,
+    176.149521,
+    -37.696381
+],
+  "geometry": {"coordinates":[176.14952099999999,-37.696381],"type":"Point"}
 }

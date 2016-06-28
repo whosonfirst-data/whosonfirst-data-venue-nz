@@ -2,13 +2,14 @@
   "id": 203199665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.270584,-37.748264,175.270584,-37.748264",
     "geom:latitude":-37.748264,
     "geom:longitude":175.270584,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 1 Queenwood Village Herbert Rd Queenwood ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203199665,
-    "wof:lastmodified":1449025128,
+    "wof:lastmodified":1466311369,
     "wof:name":"In The Groove Kid's Clothing",
     "wof:parent_id":85781849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.270584,-37.748264,175.270584,-37.748264],
-  "geometry": {"coordinates":[175.270584,-37.748264],"type":"Point"}
+  "bbox": [
+    175.270584,
+    -37.748264,
+    175.270584,
+    -37.748264
+],
+  "geometry": {"coordinates":[175.27058400000001,-37.748264],"type":"Point"}
 }

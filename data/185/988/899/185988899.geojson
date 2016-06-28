@@ -2,13 +2,14 @@
   "id": 185988899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.31282,-35.709423,174.31282,-35.709423",
     "geom:latitude":-35.709423,
     "geom:longitude":174.31282,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"148 Western Hills Dve Kensington ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185988899,
-    "wof:lastmodified":1449007147,
+    "wof:lastmodified":1466312285,
     "wof:name":"Tatyana",
     "wof:parent_id":85780967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wedding"
     ]
 },
-  "bbox": [174.31282,-35.709423,174.31282,-35.709423],
-  "geometry": {"coordinates":[174.31282,-35.709423],"type":"Point"}
+  "bbox": [
+    174.31282,
+    -35.709423,
+    174.31282,
+    -35.709423
+],
+  "geometry": {"coordinates":[174.31281999999999,-35.709423],"type":"Point"}
 }

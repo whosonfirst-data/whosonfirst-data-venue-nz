@@ -2,13 +2,14 @@
   "id": 235967127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.942078,-37.062649,174.942078,-37.062649",
     "geom:latitude":-37.062649,
     "geom:longitude":174.942078,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"159 Gt South Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235967127,
-    "wof:lastmodified":1449008597,
+    "wof:lastmodified":1466311135,
     "wof:name":"Papakura Tavern",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "brasserie"
     ]
 },
-  "bbox": [174.942078,-37.062649,174.942078,-37.062649],
-  "geometry": {"coordinates":[174.942078,-37.062649],"type":"Point"}
+  "bbox": [
+    174.942078,
+    -37.062649,
+    174.942078,
+    -37.062649
+],
+  "geometry": {"coordinates":[174.94207800000001,-37.062649],"type":"Point"}
 }

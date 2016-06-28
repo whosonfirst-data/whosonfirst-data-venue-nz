@@ -2,13 +2,14 @@
   "id": 202654911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.525955,-45.896744,170.525955,-45.896744",
     "geom:latitude":-45.896744,
     "geom:longitude":170.525955,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Bayfield Rd Andersons Bay ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202654911,
-    "wof:lastmodified":1449060967,
+    "wof:lastmodified":1466311964,
     "wof:name":"Morgan Plastering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plasterer"
     ]
 },
-  "bbox": [170.525955,-45.896744,170.525955,-45.896744],
-  "geometry": {"coordinates":[170.525955,-45.896744],"type":"Point"}
+  "bbox": [
+    170.525955,
+    -45.896744,
+    170.525955,
+    -45.896744
+],
+  "geometry": {"coordinates":[170.52595500000001,-45.896744],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169686505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.575836,-36.865532,174.575836,-36.865532",
     "geom:latitude":-36.865532,
     "geom:longitude":174.575836,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"749 Swanson Rd Swanson City ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169686505,
-    "wof:lastmodified":1449035159,
+    "wof:lastmodified":1466310855,
     "wof:name":"Fenmore Saddlers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.575836,-36.865532,174.575836,-36.865532],
-  "geometry": {"coordinates":[174.575836,-36.865532],"type":"Point"}
+  "bbox": [
+    174.575836,
+    -36.865532,
+    174.575836,
+    -36.865532
+],
+  "geometry": {"coordinates":[174.57583600000001,-36.865532],"type":"Point"}
 }

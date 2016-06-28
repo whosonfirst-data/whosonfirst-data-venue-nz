@@ -2,13 +2,14 @@
   "id": 219814331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.156509,-37.698738,176.156509,-37.698738",
     "geom:latitude":-37.698738,
     "geom:longitude":176.156509,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Twelfth Ave ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219814331,
-    "wof:lastmodified":1449071043,
+    "wof:lastmodified":1466313124,
     "wof:name":"Autolign",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "servicing"
     ]
 },
-  "bbox": [176.156509,-37.698738,176.156509,-37.698738],
+  "bbox": [
+    176.156509,
+    -37.698738,
+    176.156509,
+    -37.698738
+],
   "geometry": {"coordinates":[176.156509,-37.698738],"type":"Point"}
 }

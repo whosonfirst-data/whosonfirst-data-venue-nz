@@ -2,13 +2,14 @@
   "id": 203216055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.247269,-37.759155,175.247269,-37.759155",
     "geom:latitude":-37.759155,
     "geom:longitude":175.247269,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"549 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203216055,
-    "wof:lastmodified":1449026650,
+    "wof:lastmodified":1466311514,
     "wof:name":"Second Image",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.247269,-37.759155,175.247269,-37.759155],
-  "geometry": {"coordinates":[175.247269,-37.759155],"type":"Point"}
+  "bbox": [
+    175.247269,
+    -37.759155,
+    175.247269,
+    -37.759155
+],
+  "geometry": {"coordinates":[175.24726899999999,-37.759155],"type":"Point"}
 }

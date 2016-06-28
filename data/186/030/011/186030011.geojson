@@ -2,13 +2,14 @@
   "id": 186030011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.314621,-45.90406,170.314621,-45.90406",
     "geom:latitude":-45.90406,
     "geom:longitude":170.314621,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"305 Main South Rd East Taieri ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186030011,
-    "wof:lastmodified":1449051369,
+    "wof:lastmodified":1466312024,
     "wof:name":"M J Macleod Agencies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.314621,-45.90406,170.314621,-45.90406],
-  "geometry": {"coordinates":[170.314621,-45.90406],"type":"Point"}
+  "bbox": [
+    170.314621,
+    -45.90406,
+    170.314621,
+    -45.90406
+],
+  "geometry": {"coordinates":[170.31462099999999,-45.90406],"type":"Point"}
 }

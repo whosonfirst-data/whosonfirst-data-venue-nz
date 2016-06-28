@@ -2,13 +2,14 @@
   "id": 219328685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.210373,-38.081078,176.210373,-38.081078",
     "geom:latitude":-38.081078,
     "geom:longitude":176.210373,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Hall Rd Ngongotaha ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219328685,
-    "wof:lastmodified":1449072465,
+    "wof:lastmodified":1466311169,
     "wof:name":"Ngongotaha Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accommodation"
     ]
 },
-  "bbox": [176.210373,-38.081078,176.210373,-38.081078],
+  "bbox": [
+    176.210373,
+    -38.081078,
+    176.210373,
+    -38.081078
+],
   "geometry": {"coordinates":[176.210373,-38.081078],"type":"Point"}
 }

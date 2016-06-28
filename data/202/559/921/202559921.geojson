@@ -2,13 +2,14 @@
   "id": 202559921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.616302,-40.349735,175.616302,-40.349735",
     "geom:latitude":-40.349735,
     "geom:longitude":175.616302,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Suite 2 160 Grey St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202559921,
-    "wof:lastmodified":1449062103,
+    "wof:lastmodified":1466311170,
     "wof:name":"Palmerston North Podiatry",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.616302,-40.349735,175.616302,-40.349735],
-  "geometry": {"coordinates":[175.616302,-40.349735],"type":"Point"}
+  "bbox": [
+    175.616302,
+    -40.349735,
+    175.616302,
+    -40.349735
+],
+  "geometry": {"coordinates":[175.61630199999999,-40.349735],"type":"Point"}
 }

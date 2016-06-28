@@ -2,13 +2,14 @@
   "id": 219694019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.816559,-36.919678,174.816559,-36.919678",
     "geom:latitude":-36.919678,
     "geom:longitude":174.816559,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 7 368 Church St Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219694019,
-    "wof:lastmodified":1449071400,
+    "wof:lastmodified":1466312811,
     "wof:name":"Oceania Imports Limited",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [174.816559,-36.919678,174.816559,-36.919678],
-  "geometry": {"coordinates":[174.816559,-36.919678],"type":"Point"}
+  "bbox": [
+    174.816559,
+    -36.919678,
+    174.816559,
+    -36.919678
+],
+  "geometry": {"coordinates":[174.81655900000001,-36.919678],"type":"Point"}
 }

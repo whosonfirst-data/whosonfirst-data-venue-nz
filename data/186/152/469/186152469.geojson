@@ -2,13 +2,14 @@
   "id": 186152469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.707565,-36.749256,174.707565,-36.749256",
     "geom:latitude":-36.749256,
     "geom:longitude":174.707565,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Volkner Pl Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186152469,
-    "wof:lastmodified":1449052389,
+    "wof:lastmodified":1466311009,
     "wof:name":"North Shore Laser Cutting Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "engineer"
     ]
 },
-  "bbox": [174.707565,-36.749256,174.707565,-36.749256],
-  "geometry": {"coordinates":[174.707565,-36.749256],"type":"Point"}
+  "bbox": [
+    174.707565,
+    -36.749256,
+    174.707565,
+    -36.749256
+],
+  "geometry": {"coordinates":[174.70756499999999,-36.749256],"type":"Point"}
 }

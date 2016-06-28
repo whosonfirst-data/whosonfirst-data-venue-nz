@@ -2,13 +2,14 @@
   "id": 186631451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.664825,-40.952381,175.664825,-40.952381",
     "geom:latitude":-40.952381,
     "geom:longitude":175.664825,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Church St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186631451,
-    "wof:lastmodified":1449051205,
+    "wof:lastmodified":1466313010,
     "wof:name":"The Acupuncture Clinic",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "acupuncturists"
     ]
 },
-  "bbox": [175.664825,-40.952381,175.664825,-40.952381],
-  "geometry": {"coordinates":[175.664825,-40.952381],"type":"Point"}
+  "bbox": [
+    175.664825,
+    -40.952381,
+    175.664825,
+    -40.952381
+],
+  "geometry": {"coordinates":[175.66482500000001,-40.952381],"type":"Point"}
 }

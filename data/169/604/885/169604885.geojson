@@ -2,13 +2,14 @@
   "id": 169604885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.60936,-40.354939,175.60936,-40.354939",
     "geom:latitude":-40.354939,
     "geom:longitude":175.60936,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"292 Cuba St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169604885,
-    "wof:lastmodified":1449035569,
+    "wof:lastmodified":1466311672,
     "wof:name":"Star Second-Hand Book Shop",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.60936,-40.354939,175.60936,-40.354939],
-  "geometry": {"coordinates":[175.60936,-40.354939],"type":"Point"}
+  "bbox": [
+    175.60936,
+    -40.354939,
+    175.60936,
+    -40.354939
+],
+  "geometry": {"coordinates":[175.60936000000001,-40.354939],"type":"Point"}
 }

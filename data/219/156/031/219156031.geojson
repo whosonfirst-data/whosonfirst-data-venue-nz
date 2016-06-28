@@ -2,13 +2,14 @@
   "id": 219156031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.117325,-35.31517,174.117325,-35.31517",
     "geom:latitude":-35.31517,
     "geom:longitude":174.117325,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Baffin St ",
     "sg:city":"Opua",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219156031,
-    "wof:lastmodified":1449071088,
+    "wof:lastmodified":1466312000,
     "wof:name":"Bay Marine Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.117325,-35.31517,174.117325,-35.31517],
-  "geometry": {"coordinates":[174.117325,-35.31517],"type":"Point"}
+  "bbox": [
+    174.117325,
+    -35.31517,
+    174.117325,
+    -35.31517
+],
+  "geometry": {"coordinates":[174.11732499999999,-35.31517],"type":"Point"}
 }

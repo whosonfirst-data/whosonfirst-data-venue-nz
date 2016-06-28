@@ -2,13 +2,14 @@
   "id": 219615599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.602585,-40.342758,175.602585,-40.342758",
     "geom:latitude":-40.342758,
     "geom:longitude":175.602585,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"559-561 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219615599,
-    "wof:lastmodified":1449071510,
+    "wof:lastmodified":1466312650,
     "wof:name":"Vehicle Testing New Zealand Ltd",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fitness"
     ]
 },
-  "bbox": [175.602585,-40.342758,175.602585,-40.342758],
+  "bbox": [
+    175.602585,
+    -40.342758,
+    175.602585,
+    -40.342758
+],
   "geometry": {"coordinates":[175.602585,-40.342758],"type":"Point"}
 }

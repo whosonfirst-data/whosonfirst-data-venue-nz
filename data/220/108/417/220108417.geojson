@@ -2,13 +2,14 @@
   "id": 220108417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.87558,-41.224297,174.87558,-41.224297",
     "geom:latitude":-41.224297,
     "geom:longitude":174.87558,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"113 Jackson St Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220108417,
-    "wof:lastmodified":1449074079,
+    "wof:lastmodified":1466310675,
     "wof:name":"Connoisseur Cakes",
     "wof:parent_id":85782489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "-"
     ]
 },
-  "bbox": [174.87558,-41.224297,174.87558,-41.224297],
-  "geometry": {"coordinates":[174.87558,-41.224297],"type":"Point"}
+  "bbox": [
+    174.87558,
+    -41.224297,
+    174.87558,
+    -41.224297
+],
+  "geometry": {"coordinates":[174.87558000000001,-41.224297],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186044513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.756256,-36.785549,174.756256,-36.785549",
     "geom:latitude":-36.785549,
     "geom:longitude":174.756256,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Taharoto Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186044513,
-    "wof:lastmodified":1449051767,
+    "wof:lastmodified":1466311342,
     "wof:name":"T R (Chemicals Australia) Pty Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "compounds"
     ]
 },
-  "bbox": [174.756256,-36.785549,174.756256,-36.785549],
-  "geometry": {"coordinates":[174.756256,-36.785549],"type":"Point"}
+  "bbox": [
+    174.756256,
+    -36.785549,
+    174.756256,
+    -36.785549
+],
+  "geometry": {"coordinates":[174.75625600000001,-36.785549],"type":"Point"}
 }

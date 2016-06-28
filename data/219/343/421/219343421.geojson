@@ -2,13 +2,14 @@
   "id": 219343421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"167.719406,-45.416828,167.719406,-45.416828",
     "geom:latitude":-45.416828,
     "geom:longitude":167.719406,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Quintin Dve Te ",
     "sg:city":"Anau",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219343421,
-    "wof:lastmodified":1449072909,
+    "wof:lastmodified":1466311282,
     "wof:name":"Red Tussock Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accommodation"
     ]
 },
-  "bbox": [167.719406,-45.416828,167.719406,-45.416828],
-  "geometry": {"coordinates":[167.719406,-45.416828],"type":"Point"}
+  "bbox": [
+    167.719406,
+    -45.416828,
+    167.719406,
+    -45.416828
+],
+  "geometry": {"coordinates":[167.71940599999999,-45.416828],"type":"Point"}
 }

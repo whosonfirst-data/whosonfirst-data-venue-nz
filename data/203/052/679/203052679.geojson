@@ -2,13 +2,14 @@
   "id": 203052679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.5457,-40.219135,175.5457,-40.219135",
     "geom:latitude":-40.219135,
     "geom:longitude":175.5457,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Sandon Rd ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203052679,
-    "wof:lastmodified":1449025767,
+    "wof:lastmodified":1466311561,
     "wof:name":"Hitchman Paving",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "paving"
     ]
 },
-  "bbox": [175.5457,-40.219135,175.5457,-40.219135],
-  "geometry": {"coordinates":[175.5457,-40.219135],"type":"Point"}
+  "bbox": [
+    175.5457,
+    -40.219135,
+    175.5457,
+    -40.219135
+],
+  "geometry": {"coordinates":[175.54570000000001,-40.219135],"type":"Point"}
 }

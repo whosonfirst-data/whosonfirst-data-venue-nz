@@ -2,13 +2,14 @@
   "id": 185598033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.05542,-39.933559,175.05542,-39.933559",
     "geom:latitude":-39.933559,
     "geom:longitude":175.05542,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 A Drews Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185598033,
-    "wof:lastmodified":1449006664,
+    "wof:lastmodified":1466310508,
     "wof:name":"Whanganui Arts Trust",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.05542,-39.933559,175.05542,-39.933559],
+  "bbox": [
+    175.05542,
+    -39.933559,
+    175.05542,
+    -39.933559
+],
   "geometry": {"coordinates":[175.05542,-39.933559],"type":"Point"}
 }

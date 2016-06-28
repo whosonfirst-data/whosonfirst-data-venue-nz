@@ -2,13 +2,14 @@
   "id": 169848169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.510178,-45.862843,170.510178,-45.862843",
     "geom:latitude":-45.862843,
     "geom:longitude":170.510178,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"678 George St Dunedin North ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169848169,
-    "wof:lastmodified":1449033153,
+    "wof:lastmodified":1466312218,
     "wof:name":"Cargills Hotel",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leisure"
     ]
 },
-  "bbox": [170.510178,-45.862843,170.510178,-45.862843],
+  "bbox": [
+    170.510178,
+    -45.862843,
+    170.510178,
+    -45.862843
+],
   "geometry": {"coordinates":[170.510178,-45.862843],"type":"Point"}
 }

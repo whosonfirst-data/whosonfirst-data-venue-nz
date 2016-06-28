@@ -2,13 +2,14 @@
   "id": 203190063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.32579,-38.010719,175.32579,-38.010719",
     "geom:latitude":-38.010719,
     "geom:longitude":175.32579,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Sloane St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203190063,
-    "wof:lastmodified":1449026752,
+    "wof:lastmodified":1466311281,
     "wof:name":"Sincerity Drycleaners Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaner"
     ]
 },
-  "bbox": [175.32579,-38.010719,175.32579,-38.010719],
-  "geometry": {"coordinates":[175.32579,-38.010719],"type":"Point"}
+  "bbox": [
+    175.32579,
+    -38.010719,
+    175.32579,
+    -38.010719
+],
+  "geometry": {"coordinates":[175.32579000000001,-38.010719],"type":"Point"}
 }

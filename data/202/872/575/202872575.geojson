@@ -2,13 +2,14 @@
   "id": 202872575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.521057,-36.296249,174.521057,-36.296249",
     "geom:latitude":-36.296249,
     "geom:longitude":174.521057,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 1 Te Hana ",
     "sg:city":"Wellsford",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202872575,
-    "wof:lastmodified":1449060338,
+    "wof:lastmodified":1466312850,
     "wof:name":"The Kauri Factory (2000) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [174.521057,-36.296249,174.521057,-36.296249],
-  "geometry": {"coordinates":[174.521057,-36.296249],"type":"Point"}
+  "bbox": [
+    174.521057,
+    -36.296249,
+    174.521057,
+    -36.296249
+],
+  "geometry": {"coordinates":[174.52105700000001,-36.296249],"type":"Point"}
 }

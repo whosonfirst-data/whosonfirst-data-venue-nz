@@ -2,13 +2,14 @@
   "id": 185844659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.742493,-36.855091,174.742493,-36.855091",
     "geom:latitude":-36.855091,
     "geom:longitude":174.742493,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Norfolk St Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185844659,
-    "wof:lastmodified":1449007290,
+    "wof:lastmodified":1466311532,
     "wof:name":"Resonance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.742493,-36.855091,174.742493,-36.855091],
+  "bbox": [
+    174.742493,
+    -36.855091,
+    174.742493,
+    -36.855091
+],
   "geometry": {"coordinates":[174.742493,-36.855091],"type":"Point"}
 }

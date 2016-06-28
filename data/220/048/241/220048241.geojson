@@ -2,13 +2,14 @@
   "id": 220048241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.988968,34.142426,-87.988968,34.142426",
     "geom:latitude":34.142426,
     "geom:longitude":-87.988968,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 C Perclo Pl ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220048241,
-    "wof:lastmodified":1449074299,
+    "wof:lastmodified":1466311581,
     "wof:name":"Altura Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [-87.988968,34.142426,-87.988968,34.142426],
+  "bbox": [
+    -87.988968,
+    34.142426,
+    -87.988968,
+    34.142426
+],
   "geometry": {"coordinates":[-87.988968,34.142426],"type":"Point"}
 }

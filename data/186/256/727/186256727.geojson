@@ -2,13 +2,14 @@
   "id": 186256727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.60704,-45.871967,170.60704,-45.871967",
     "geom:latitude":-45.871967,
     "geom:longitude":170.60704,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Greenacres St Macandrew Bay ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186256727,
-    "wof:lastmodified":1449052370,
+    "wof:lastmodified":1466311891,
     "wof:name":"Power Options NZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "equipment"
     ]
 },
-  "bbox": [170.60704,-45.871967,170.60704,-45.871967],
-  "geometry": {"coordinates":[170.60704,-45.871967],"type":"Point"}
+  "bbox": [
+    170.60704,
+    -45.871967,
+    170.60704,
+    -45.871967
+],
+  "geometry": {"coordinates":[170.60704000000001,-45.871967],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203189029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.794968,-41.3186,174.794968,-41.3186",
     "geom:latitude":-41.3186,
     "geom:longitude":174.794968,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Bay Rd Kilbirnie ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203189029,
-    "wof:lastmodified":1449026301,
+    "wof:lastmodified":1466311272,
     "wof:name":"New Zealand Drycleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaner"
     ]
 },
-  "bbox": [174.794968,-41.3186,174.794968,-41.3186],
-  "geometry": {"coordinates":[174.794968,-41.3186],"type":"Point"}
+  "bbox": [
+    174.794968,
+    -41.3186,
+    174.794968,
+    -41.3186
+],
+  "geometry": {"coordinates":[174.79496800000001,-41.3186],"type":"Point"}
 }

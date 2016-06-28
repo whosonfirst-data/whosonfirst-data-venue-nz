@@ -2,13 +2,14 @@
   "id": 203108101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.074677,-41.123875,175.074677,-41.123875",
     "geom:latitude":-41.123875,
     "geom:longitude":175.074677,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"239 Main St Upper Hutt ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203108101,
-    "wof:lastmodified":1449024980,
+    "wof:lastmodified":1466310591,
     "wof:name":"Jane Evans Photography",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "home"
     ]
 },
-  "bbox": [175.074677,-41.123875,175.074677,-41.123875],
-  "geometry": {"coordinates":[175.074677,-41.123875],"type":"Point"}
+  "bbox": [
+    175.074677,
+    -41.123875,
+    175.074677,
+    -41.123875
+],
+  "geometry": {"coordinates":[175.07467700000001,-41.123875],"type":"Point"}
 }

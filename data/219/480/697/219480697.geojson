@@ -2,13 +2,14 @@
   "id": 219480697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.321747,-35.735207,174.321747,-35.735207",
     "geom:latitude":-35.735207,
     "geom:longitude":174.321747,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 A Morningside Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219480697,
-    "wof:lastmodified":1449071546,
+    "wof:lastmodified":1466312256,
     "wof:name":"Morningside School",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.321747,-35.735207,174.321747,-35.735207],
-  "geometry": {"coordinates":[174.321747,-35.735207],"type":"Point"}
+  "bbox": [
+    174.321747,
+    -35.735207,
+    174.321747,
+    -35.735207
+],
+  "geometry": {"coordinates":[174.32174699999999,-35.735207],"type":"Point"}
 }

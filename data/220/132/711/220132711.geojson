@@ -2,13 +2,14 @@
   "id": 220132711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.516327,-43.55547,172.516327,-43.55547",
     "geom:latitude":-43.55547,
     "geom:longitude":172.516327,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Edmonton Rd Islington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":220132711,
-    "wof:lastmodified":1449074417,
+    "wof:lastmodified":1466310910,
     "wof:name":"The Perfect Food Company",
     "wof:parent_id":85778891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [172.516327,-43.55547,172.516327,-43.55547],
-  "geometry": {"coordinates":[172.516327,-43.55547],"type":"Point"}
+  "bbox": [
+    172.516327,
+    -43.55547,
+    172.516327,
+    -43.55547
+],
+  "geometry": {"coordinates":[172.51632699999999,-43.55547],"type":"Point"}
 }

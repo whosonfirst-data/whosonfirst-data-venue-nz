@@ -2,13 +2,14 @@
   "id": 186257253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.055328,-39.908337,175.055328,-39.908337",
     "geom:latitude":-39.908337,
     "geom:longitude":175.055328,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"168 Somme Pde Aramoho ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186257253,
-    "wof:lastmodified":1449051167,
+    "wof:lastmodified":1466311897,
     "wof:name":"Wanganui Plumbing Ltd",
     "wof:parent_id":85781217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [175.055328,-39.908337,175.055328,-39.908337],
+  "bbox": [
+    175.055328,
+    -39.908337,
+    175.055328,
+    -39.908337
+],
   "geometry": {"coordinates":[175.055328,-39.908337],"type":"Point"}
 }

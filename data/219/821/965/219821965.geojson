@@ -2,13 +2,14 @@
   "id": 219821965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.77742,-36.866634,174.77742,-36.866634",
     "geom:latitude":-36.866634,
     "geom:longitude":174.77742,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 7, 5 Short St., Newmarket, Auckland",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219821965,
-    "wof:lastmodified":1449072298,
+    "wof:lastmodified":1466313052,
     "wof:name":"Freedom Air International",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "private"
     ]
 },
-  "bbox": [174.77742,-36.866634,174.77742,-36.866634],
-  "geometry": {"coordinates":[174.77742,-36.866634],"type":"Point"}
+  "bbox": [
+    174.77742,
+    -36.866634,
+    174.77742,
+    -36.866634
+],
+  "geometry": {"coordinates":[174.77742000000001,-36.866634],"type":"Point"}
 }

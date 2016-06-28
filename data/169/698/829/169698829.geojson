@@ -2,13 +2,14 @@
   "id": 169698829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.385178,-46.400578,168.385178,-46.400578",
     "geom:latitude":-46.400578,
     "geom:longitude":168.385178,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Glengarry Cre Glengarry ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169698829,
-    "wof:lastmodified":1449035756,
+    "wof:lastmodified":1466310883,
     "wof:name":"Bargin Barn - Habitat For Humanity",
     "wof:parent_id":85781467,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.385178,-46.400578,168.385178,-46.400578],
+  "bbox": [
+    168.385178,
+    -46.400578,
+    168.385178,
+    -46.400578
+],
   "geometry": {"coordinates":[168.385178,-46.400578],"type":"Point"}
 }

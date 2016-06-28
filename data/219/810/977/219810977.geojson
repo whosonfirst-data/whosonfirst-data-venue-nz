@@ -2,13 +2,14 @@
   "id": 219810977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.135208,-40.760513,175.135208,-40.760513",
     "geom:latitude":-40.760513,
     "geom:longitude":175.135208,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Riverbank Rd ",
     "sg:city":"Otaki",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219810977,
-    "wof:lastmodified":1449071433,
+    "wof:lastmodified":1466313035,
     "wof:name":"Riverbank Rd Panel & Paint",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "beater"
     ]
 },
-  "bbox": [175.135208,-40.760513,175.135208,-40.760513],
-  "geometry": {"coordinates":[175.135208,-40.760513],"type":"Point"}
+  "bbox": [
+    175.135208,
+    -40.760513,
+    175.135208,
+    -40.760513
+],
+  "geometry": {"coordinates":[175.13520800000001,-40.760513],"type":"Point"}
 }

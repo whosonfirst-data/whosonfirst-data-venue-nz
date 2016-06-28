@@ -2,13 +2,14 @@
   "id": 202705619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.662888,-36.945625,174.662888,-36.945625",
     "geom:latitude":-36.945625,
     "geom:longitude":174.662888,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Otitori Bay Rd Titirangi ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202705619,
-    "wof:lastmodified":1449062661,
+    "wof:lastmodified":1466312148,
     "wof:name":"A Back-To-Childhood Experience!",
     "wof:parent_id":85778293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.662888,-36.945625,174.662888,-36.945625],
-  "geometry": {"coordinates":[174.662888,-36.945625],"type":"Point"}
+  "bbox": [
+    174.662888,
+    -36.945625,
+    174.662888,
+    -36.945625
+],
+  "geometry": {"coordinates":[174.66288800000001,-36.945625],"type":"Point"}
 }

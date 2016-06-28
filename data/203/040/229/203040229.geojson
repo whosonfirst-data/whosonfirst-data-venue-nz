@@ -2,13 +2,14 @@
   "id": 203040229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.771317,-37.807533,175.771317,-37.807533",
     "geom:latitude":-37.807533,
     "geom:longitude":175.771317,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Waharoa Rd ",
     "sg:city":"Matamata",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203040229,
-    "wof:lastmodified":1449026826,
+    "wof:lastmodified":1466311328,
     "wof:name":"Henrys Septic Tank Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "septic"
     ]
 },
-  "bbox": [175.771317,-37.807533,175.771317,-37.807533],
-  "geometry": {"coordinates":[175.771317,-37.807533],"type":"Point"}
+  "bbox": [
+    175.771317,
+    -37.807533,
+    175.771317,
+    -37.807533
+],
+  "geometry": {"coordinates":[175.77131700000001,-37.807533],"type":"Point"}
 }

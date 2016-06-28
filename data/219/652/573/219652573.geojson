@@ -2,13 +2,14 @@
   "id": 219652573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.262238,-37.794411,175.262238,-37.794411",
     "geom:latitude":-37.794411,
     "geom:longitude":175.262238,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Colombo St Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219652573,
-    "wof:lastmodified":1449072662,
+    "wof:lastmodified":1466312636,
     "wof:name":"Hamilton Welding Specialists",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supplies"
     ]
 },
-  "bbox": [175.262238,-37.794411,175.262238,-37.794411],
+  "bbox": [
+    175.262238,
+    -37.794411,
+    175.262238,
+    -37.794411
+],
   "geometry": {"coordinates":[175.262238,-37.794411],"type":"Point"}
 }

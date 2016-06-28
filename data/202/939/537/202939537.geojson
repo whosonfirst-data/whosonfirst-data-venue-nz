@@ -2,13 +2,14 @@
   "id": 202939537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.811401,-36.862782,174.811401,-36.862782",
     "geom:latitude":-36.862782,
     "geom:longitude":174.811401,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Orakei Rd Remuera ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202939537,
-    "wof:lastmodified":1449060862,
+    "wof:lastmodified":1466312870,
     "wof:name":"Greenkeepers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "turf"
     ]
 },
-  "bbox": [174.811401,-36.862782,174.811401,-36.862782],
-  "geometry": {"coordinates":[174.811401,-36.862782],"type":"Point"}
+  "bbox": [
+    174.811401,
+    -36.862782,
+    174.811401,
+    -36.862782
+],
+  "geometry": {"coordinates":[174.81140099999999,-36.862782],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236017187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.049423,-39.931175,175.049423,-39.931175",
     "geom:latitude":-39.931175,
     "geom:longitude":175.049423,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"158 A Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236017187,
-    "wof:lastmodified":1449003401,
+    "wof:lastmodified":1466310937,
     "wof:name":"Magic Wok Restaurant & Takeaways",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "takeaway"
     ]
 },
-  "bbox": [175.049423,-39.931175,175.049423,-39.931175],
-  "geometry": {"coordinates":[175.049423,-39.931175],"type":"Point"}
+  "bbox": [
+    175.049423,
+    -39.931175,
+    175.049423,
+    -39.931175
+],
+  "geometry": {"coordinates":[175.04942299999999,-39.931175],"type":"Point"}
 }

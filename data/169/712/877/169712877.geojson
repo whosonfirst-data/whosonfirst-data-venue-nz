@@ -2,13 +2,14 @@
   "id": 169712877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.142853,-45.24926,170.142853,-45.24926",
     "geom:latitude":-45.24926,
     "geom:longitude":170.142853,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Grandview Rd & Hyde Ave ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":169712877,
-    "wof:lastmodified":1449034088,
+    "wof:lastmodified":1466311007,
     "wof:name":"Grand View Shopping Mall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "stores"
     ]
 },
-  "bbox": [170.142853,-45.24926,170.142853,-45.24926],
+  "bbox": [
+    170.142853,
+    -45.24926,
+    170.142853,
+    -45.24926
+],
   "geometry": {"coordinates":[170.142853,-45.24926],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186352145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.875427,-41.225384,174.875427,-41.225384",
     "geom:latitude":-41.225384,
     "geom:longitude":174.875427,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Sydney St Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186352145,
-    "wof:lastmodified":1449052010,
+    "wof:lastmodified":1466312363,
     "wof:name":"Swagger Bags",
     "wof:parent_id":85782489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.875427,-41.225384,174.875427,-41.225384],
+  "bbox": [
+    174.875427,
+    -41.225384,
+    174.875427,
+    -41.225384
+],
   "geometry": {"coordinates":[174.875427,-41.225384],"type":"Point"}
 }

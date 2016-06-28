@@ -2,13 +2,14 @@
   "id": 220087345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.805435,-40.897579,175.805435,-40.897579",
     "geom:latitude":-40.897579,
     "geom:longitude":175.805435,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Rn118 State Highway 3 ",
     "sg:city":"Whangaehu",
     "sg:classifiers":[
@@ -45,16 +46,22 @@
         }
     ],
     "wof:id":220087345,
-    "wof:lastmodified":1449074393,
+    "wof:lastmodified":1466311966,
     "wof:name":"Jim's Organiks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "-"
     ]
 },
-  "bbox": [175.805435,-40.897579,175.805435,-40.897579],
-  "geometry": {"coordinates":[175.805435,-40.897579],"type":"Point"}
+  "bbox": [
+    175.805435,
+    -40.897579,
+    175.805435,
+    -40.897579
+],
+  "geometry": {"coordinates":[175.80543499999999,-40.897579],"type":"Point"}
 }

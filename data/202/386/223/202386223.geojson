@@ -2,13 +2,14 @@
   "id": 202386223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.332092,-35.741558,174.332092,-35.741558",
     "geom:latitude":-35.741558,
     "geom:longitude":174.332092,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Kioreroa Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202386223,
-    "wof:lastmodified":1449061439,
+    "wof:lastmodified":1466310665,
     "wof:name":"Company Health Services Ltd",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "health"
     ]
 },
-  "bbox": [174.332092,-35.741558,174.332092,-35.741558],
-  "geometry": {"coordinates":[174.332092,-35.741558],"type":"Point"}
+  "bbox": [
+    174.332092,
+    -35.741558,
+    174.332092,
+    -35.741558
+],
+  "geometry": {"coordinates":[174.33209199999999,-35.741558],"type":"Point"}
 }

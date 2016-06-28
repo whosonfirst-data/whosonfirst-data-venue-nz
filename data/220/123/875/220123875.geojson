@@ -2,13 +2,14 @@
   "id": 220123875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.697449,-36.745396,174.697449,-36.745396",
     "geom:latitude":-36.745396,
     "geom:longitude":174.697449,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 8 /38 William Pickering Dve Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220123875,
-    "wof:lastmodified":1449074255,
+    "wof:lastmodified":1466310820,
     "wof:name":"Pickles On Pickering",
     "wof:parent_id":85772825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [174.697449,-36.745396,174.697449,-36.745396],
-  "geometry": {"coordinates":[174.697449,-36.745396],"type":"Point"}
+  "bbox": [
+    174.697449,
+    -36.745396,
+    174.697449,
+    -36.745396
+],
+  "geometry": {"coordinates":[174.69744900000001,-36.745396],"type":"Point"}
 }

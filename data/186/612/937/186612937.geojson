@@ -2,13 +2,14 @@
   "id": 186612937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.053574,40.729389,-105.053574,40.729389",
     "geom:latitude":40.729389,
     "geom:longitude":-105.053574,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Les Mills On The Terrace 66 The Terrace ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186612937,
-    "wof:lastmodified":1449051561,
+    "wof:lastmodified":1466312894,
     "wof:name":"Les Mills World of Fitness",
     "wof:parent_id":85877453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fitness"
     ]
 },
-  "bbox": [-105.053574,40.729389,-105.053574,40.729389],
+  "bbox": [
+    -105.053574,
+    40.729389,
+    -105.053574,
+    40.729389
+],
   "geometry": {"coordinates":[-105.053574,40.729389],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219956281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.279541,-39.42823,175.279541,-39.42823",
     "geom:latitude":-39.42823,
     "geom:longitude":175.279541,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Seddon & Duncan Sts ",
     "sg:city":"Raetihi",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219956281,
-    "wof:lastmodified":1449070989,
+    "wof:lastmodified":1466313116,
     "wof:name":"Ruapehu Veterinary Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.279541,-39.42823,175.279541,-39.42823],
-  "geometry": {"coordinates":[175.279541,-39.42823],"type":"Point"}
+  "bbox": [
+    175.279541,
+    -39.42823,
+    175.279541,
+    -39.42823
+],
+  "geometry": {"coordinates":[175.27954099999999,-39.42823],"type":"Point"}
 }

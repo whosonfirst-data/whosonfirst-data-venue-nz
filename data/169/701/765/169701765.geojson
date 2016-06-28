@@ -2,13 +2,14 @@
   "id": 169701765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.564072,-40.225468,175.564072,-40.225468",
     "geom:latitude":-40.225468,
     "geom:longitude":175.564072,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Manchester St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169701765,
-    "wof:lastmodified":1449035272,
+    "wof:lastmodified":1466310913,
     "wof:name":"Feilding Tender Centre",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.564072,-40.225468,175.564072,-40.225468],
-  "geometry": {"coordinates":[175.564072,-40.225468],"type":"Point"}
+  "bbox": [
+    175.564072,
+    -40.225468,
+    175.564072,
+    -40.225468
+],
+  "geometry": {"coordinates":[175.56407200000001,-40.225468],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219353871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.857483,-36.90181,174.857483,-36.90181",
     "geom:latitude":-36.90181,
     "geom:longitude":174.857483,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Elizabeth Knox Place & Eric Paton Way Panmure",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219353871,
-    "wof:lastmodified":1449071419,
+    "wof:lastmodified":1466311366,
     "wof:name":"Pioneer International Company Ltd",
     "wof:parent_id":85773109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "tourism"
     ]
 },
-  "bbox": [174.857483,-36.90181,174.857483,-36.90181],
+  "bbox": [
+    174.857483,
+    -36.90181,
+    174.857483,
+    -36.90181
+],
   "geometry": {"coordinates":[174.857483,-36.90181],"type":"Point"}
 }

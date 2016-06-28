@@ -2,13 +2,14 @@
   "id": 185799719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.161713,40.278088,-100.161713,40.278088",
     "geom:latitude":40.278088,
     "geom:longitude":-100.161713,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 197 ",
     "sg:city":"Cambridge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185799719,
-    "wof:lastmodified":1449008215,
+    "wof:lastmodified":1466311217,
     "wof:name":"Hobby Models",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-100.161713,40.278088,-100.161713,40.278088],
-  "geometry": {"coordinates":[-100.161713,40.278088],"type":"Point"}
+  "bbox": [
+    -100.161713,
+    40.278088,
+    -100.161713,
+    40.278088
+],
+  "geometry": {"coordinates":[-100.16171300000001,40.278088],"type":"Point"}
 }

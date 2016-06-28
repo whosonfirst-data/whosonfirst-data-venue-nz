@@ -2,13 +2,14 @@
   "id": 219909011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.279419,-40.631142,175.279419,-40.631142",
     "geom:latitude":-40.631142,
     "geom:longitude":175.279419,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Prouse St ",
     "sg:city":"Levin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219909011,
-    "wof:lastmodified":1449073058,
+    "wof:lastmodified":1466313089,
     "wof:name":"Levin Auto Repairs - Mobile Workshop",
     "wof:parent_id":85782865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.279419,-40.631142,175.279419,-40.631142],
-  "geometry": {"coordinates":[175.279419,-40.631142],"type":"Point"}
+  "bbox": [
+    175.279419,
+    -40.631142,
+    175.279419,
+    -40.631142
+],
+  "geometry": {"coordinates":[175.27941899999999,-40.631142],"type":"Point"}
 }

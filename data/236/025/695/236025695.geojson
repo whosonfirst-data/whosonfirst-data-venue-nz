@@ -2,13 +2,14 @@
   "id": 236025695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.700882,-43.511543,172.700882,-43.511543",
     "geom:latitude":-43.511543,
     "geom:longitude":172.700882,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Hampshire St Aranui ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":236025695,
-    "wof:lastmodified":1449004591,
+    "wof:lastmodified":1466311057,
     "wof:name":"Aranui Cafe & Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "dining"
     ]
 },
-  "bbox": [172.700882,-43.511543,172.700882,-43.511543],
-  "geometry": {"coordinates":[172.700882,-43.511543],"type":"Point"}
+  "bbox": [
+    172.700882,
+    -43.511543,
+    172.700882,
+    -43.511543
+],
+  "geometry": {"coordinates":[172.70088200000001,-43.511543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219945557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.099014,-45.127953,170.099014,-45.127953",
     "geom:latitude":-45.127953,
     "geom:longitude":170.099014,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Thomas St ",
     "sg:city":"Ranfurly",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219945557,
-    "wof:lastmodified":1449070692,
+    "wof:lastmodified":1466313115,
     "wof:name":"Maniototo Shearing Company Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.099014,-45.127953,170.099014,-45.127953],
-  "geometry": {"coordinates":[170.099014,-45.127953],"type":"Point"}
+  "bbox": [
+    170.099014,
+    -45.127953,
+    170.099014,
+    -45.127953
+],
+  "geometry": {"coordinates":[170.09901400000001,-45.127953],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219940747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.558273,-40.213158,175.558273,-40.213158",
     "geom:latitude":-40.213158,
     "geom:longitude":175.558273,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"166 West St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219940747,
-    "wof:lastmodified":1449071257,
+    "wof:lastmodified":1466313166,
     "wof:name":"Agscan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.558273,-40.213158,175.558273,-40.213158],
-  "geometry": {"coordinates":[175.558273,-40.213158],"type":"Point"}
+  "bbox": [
+    175.558273,
+    -40.213158,
+    175.558273,
+    -40.213158
+],
+  "geometry": {"coordinates":[175.55827300000001,-40.213158],"type":"Point"}
 }

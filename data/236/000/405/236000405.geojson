@@ -2,13 +2,14 @@
   "id": 236000405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.116959,-40.740086,175.116959,-40.740086",
     "geom:latitude":-40.740086,
     "geom:longitude":175.116959,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Tasman Rd Otaki Beach ",
     "sg:city":"Otaki",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":236000405,
-    "wof:lastmodified":1449002073,
+    "wof:lastmodified":1466310612,
     "wof:name":"Byron Brown's Restaurant & Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "dining"
     ]
 },
-  "bbox": [175.116959,-40.740086,175.116959,-40.740086],
-  "geometry": {"coordinates":[175.116959,-40.740086],"type":"Point"}
+  "bbox": [
+    175.116959,
+    -40.740086,
+    175.116959,
+    -40.740086
+],
+  "geometry": {"coordinates":[175.11695900000001,-40.740086],"type":"Point"}
 }

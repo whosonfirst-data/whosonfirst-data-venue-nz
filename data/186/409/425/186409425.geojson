@@ -2,13 +2,14 @@
   "id": 186409425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.587509,-43.54324,172.587509,-43.54324",
     "geom:latitude":-43.54324,
     "geom:longitude":172.587509,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 B Birmingham Dve Middleton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186409425,
-    "wof:lastmodified":1449051479,
+    "wof:lastmodified":1466312629,
     "wof:name":"Pacific Plastics Ltd",
     "wof:parent_id":85778457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "goods"
     ]
 },
-  "bbox": [172.587509,-43.54324,172.587509,-43.54324],
-  "geometry": {"coordinates":[172.587509,-43.54324],"type":"Point"}
+  "bbox": [
+    172.587509,
+    -43.54324,
+    172.587509,
+    -43.54324
+],
+  "geometry": {"coordinates":[172.58750900000001,-43.54324],"type":"Point"}
 }

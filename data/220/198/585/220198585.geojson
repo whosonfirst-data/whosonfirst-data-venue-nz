@@ -2,13 +2,14 @@
   "id": 220198585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.640488,-43.54269,172.640488,-43.54269",
     "geom:latitude":-43.54269,
     "geom:longitude":172.640488,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Byron St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220198585,
-    "wof:lastmodified":1449074316,
+    "wof:lastmodified":1466311456,
     "wof:name":"Devro Pty Limited",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.640488,-43.54269,172.640488,-43.54269],
+  "bbox": [
+    172.640488,
+    -43.54269,
+    172.640488,
+    -43.54269
+],
   "geometry": {"coordinates":[172.640488,-43.54269],"type":"Point"}
 }

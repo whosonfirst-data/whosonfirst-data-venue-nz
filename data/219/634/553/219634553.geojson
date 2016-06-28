@@ -2,13 +2,14 @@
   "id": 219634553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.631561,-36.884007,174.631561,-36.884007",
     "geom:latitude":-36.884007,
     "geom:longitude":174.631561,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Railside Ave Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219634553,
-    "wof:lastmodified":1449072074,
+    "wof:lastmodified":1466312597,
     "wof:name":"Perrys West Auckland LMVD",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.631561,-36.884007,174.631561,-36.884007],
+  "bbox": [
+    174.631561,
+    -36.884007,
+    174.631561,
+    -36.884007
+],
   "geometry": {"coordinates":[174.631561,-36.884007],"type":"Point"}
 }

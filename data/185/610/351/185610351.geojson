@@ -2,13 +2,14 @@
   "id": 185610351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.747185,40.213734,-74.747185,40.213734",
     "geom:latitude":40.213734,
     "geom:longitude":-74.747185,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Kent St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185610351,
-    "wof:lastmodified":1449008167,
+    "wof:lastmodified":1466310850,
     "wof:name":"Sandz Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leisure"
     ]
 },
-  "bbox": [-74.747185,40.213734,-74.747185,40.213734],
+  "bbox": [
+    -74.747185,
+    40.213734,
+    -74.747185,
+    40.213734
+],
   "geometry": {"coordinates":[-74.747185,40.213734],"type":"Point"}
 }

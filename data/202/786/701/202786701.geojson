@@ -2,13 +2,14 @@
   "id": 202786701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.454727,-41.224133,175.454727,-41.224133",
     "geom:latitude":-41.224133,
     "geom:longitude":175.454727,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Daniel St ",
     "sg:city":"Martinborough",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202786701,
-    "wof:lastmodified":1449060435,
+    "wof:lastmodified":1466312501,
     "wof:name":"Into Decor Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "kitchen"
     ]
 },
-  "bbox": [175.454727,-41.224133,175.454727,-41.224133],
-  "geometry": {"coordinates":[175.454727,-41.224133],"type":"Point"}
+  "bbox": [
+    175.454727,
+    -41.224133,
+    175.454727,
+    -41.224133
+],
+  "geometry": {"coordinates":[175.45472699999999,-41.224133],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185963455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.332397,-35.741665,174.332397,-35.741665",
     "geom:latitude":-35.741665,
     "geom:longitude":174.332397,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Kioreroa Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":185963455,
-    "wof:lastmodified":1449006769,
+    "wof:lastmodified":1466312278,
     "wof:name":"Claymore Concrete Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.332397,-35.741665,174.332397,-35.741665],
-  "geometry": {"coordinates":[174.332397,-35.741665],"type":"Point"}
+  "bbox": [
+    174.332397,
+    -35.741665,
+    174.332397,
+    -35.741665
+],
+  "geometry": {"coordinates":[174.33239699999999,-35.741665],"type":"Point"}
 }

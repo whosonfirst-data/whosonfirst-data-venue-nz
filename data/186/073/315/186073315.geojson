@@ -2,13 +2,14 @@
   "id": 186073315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.741913,-36.807144,174.741913,-36.807144",
     "geom:latitude":-36.807144,
     "geom:longitude":174.741913,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Kawana St Northcote ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186073315,
-    "wof:lastmodified":1449050726,
+    "wof:lastmodified":1466311768,
     "wof:name":"Trevan Design",
     "wof:parent_id":85778503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.741913,-36.807144,174.741913,-36.807144],
-  "geometry": {"coordinates":[174.741913,-36.807144],"type":"Point"}
+  "bbox": [
+    174.741913,
+    -36.807144,
+    174.741913,
+    -36.807144
+],
+  "geometry": {"coordinates":[174.74191300000001,-36.807144],"type":"Point"}
 }

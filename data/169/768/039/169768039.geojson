@@ -2,13 +2,14 @@
   "id": 169768039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.135895,-37.727795,176.135895,-37.727795",
     "geom:latitude":-37.727795,
     "geom:longitude":176.135895,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Chadwick Rd Greerton ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169768039,
-    "wof:lastmodified":1449033957,
+    "wof:lastmodified":1466311408,
     "wof:name":"Chadsport Mowers & Cycles",
     "wof:parent_id":85781323,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cycles"
     ]
 },
-  "bbox": [176.135895,-37.727795,176.135895,-37.727795],
+  "bbox": [
+    176.135895,
+    -37.727795,
+    176.135895,
+    -37.727795
+],
   "geometry": {"coordinates":[176.135895,-37.727795],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219971771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.260361,-38.88195,175.260361,-38.88195",
     "geom:latitude":-38.88195,
     "geom:longitude":175.260361,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Bell Rd ",
     "sg:city":"Taumarunui",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":219971771,
-    "wof:lastmodified":1449072170,
+    "wof:lastmodified":1466313127,
     "wof:name":"King Country Farmers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "supply"
     ]
 },
-  "bbox": [175.260361,-38.88195,175.260361,-38.88195],
-  "geometry": {"coordinates":[175.260361,-38.88195],"type":"Point"}
+  "bbox": [
+    175.260361,
+    -38.88195,
+    175.260361,
+    -38.88195
+],
+  "geometry": {"coordinates":[175.26036099999999,-38.88195],"type":"Point"}
 }

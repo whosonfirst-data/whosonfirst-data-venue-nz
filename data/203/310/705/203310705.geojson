@@ -2,13 +2,14 @@
   "id": 203310705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.566055,-40.226761,175.566055,-40.226761",
     "geom:latitude":-40.226761,
     "geom:longitude":175.566055,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Ferguson St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203310705,
-    "wof:lastmodified":1449026106,
+    "wof:lastmodified":1466312163,
     "wof:name":"Wool Image",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "clothing"
     ]
 },
-  "bbox": [175.566055,-40.226761,175.566055,-40.226761],
-  "geometry": {"coordinates":[175.566055,-40.226761],"type":"Point"}
+  "bbox": [
+    175.566055,
+    -40.226761,
+    175.566055,
+    -40.226761
+],
+  "geometry": {"coordinates":[175.56605500000001,-40.226761],"type":"Point"}
 }

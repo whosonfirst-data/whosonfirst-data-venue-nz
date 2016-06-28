@@ -2,13 +2,14 @@
   "id": 186481009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.695023,-43.533344,172.695023,-43.533344",
     "geom:latitude":-43.533344,
     "geom:longitude":172.695023,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Maces Rd Bromley ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186481009,
-    "wof:lastmodified":1449052672,
+    "wof:lastmodified":1466312619,
     "wof:name":"Buchanans Foundry Ltd",
     "wof:parent_id":85772845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.695023,-43.533344,172.695023,-43.533344],
-  "geometry": {"coordinates":[172.695023,-43.533344],"type":"Point"}
+  "bbox": [
+    172.695023,
+    -43.533344,
+    172.695023,
+    -43.533344
+],
+  "geometry": {"coordinates":[172.69502299999999,-43.533344],"type":"Point"}
 }

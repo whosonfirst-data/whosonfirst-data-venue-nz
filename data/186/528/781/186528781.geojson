@@ -2,13 +2,14 @@
   "id": 186528781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.772522,-36.791656,174.772522,-36.791656",
     "geom:latitude":-36.791656,
     "geom:longitude":174.772522,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Bracken Ave Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186528781,
-    "wof:lastmodified":1449051102,
+    "wof:lastmodified":1466312717,
     "wof:name":"Allure Beauty Studio",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.772522,-36.791656,174.772522,-36.791656],
-  "geometry": {"coordinates":[174.772522,-36.791656],"type":"Point"}
+  "bbox": [
+    174.772522,
+    -36.791656,
+    174.772522,
+    -36.791656
+],
+  "geometry": {"coordinates":[174.77252200000001,-36.791656],"type":"Point"}
 }

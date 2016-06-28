@@ -2,13 +2,14 @@
   "id": 219440985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.908386,-41.206631,174.908386,-41.206631",
     "geom:latitude":-41.206631,
     "geom:longitude":174.908386,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"185 Stokes Valley Rd Lower Hutt ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219440985,
-    "wof:lastmodified":1449071640,
+    "wof:lastmodified":1466312253,
     "wof:name":"New Zealand School Of Motoring",
     "wof:parent_id":85781005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driver"
     ]
 },
-  "bbox": [174.908386,-41.206631,174.908386,-41.206631],
-  "geometry": {"coordinates":[174.908386,-41.206631],"type":"Point"}
+  "bbox": [
+    174.908386,
+    -41.206631,
+    174.908386,
+    -41.206631
+],
+  "geometry": {"coordinates":[174.90838600000001,-41.206631],"type":"Point"}
 }

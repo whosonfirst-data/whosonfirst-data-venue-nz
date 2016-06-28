@@ -2,13 +2,14 @@
   "id": 220129567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.202576,46.324554,-114.202576,46.324554",
     "geom:latitude":46.324554,
     "geom:longitude":-114.202576,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Garden Pl ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220129567,
-    "wof:lastmodified":1449074687,
+    "wof:lastmodified":1466310875,
     "wof:name":"Gelato Arlecchino",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [-114.202576,46.324554,-114.202576,46.324554],
-  "geometry": {"coordinates":[-114.202576,46.324554],"type":"Point"}
+  "bbox": [
+    -114.202576,
+    46.324554,
+    -114.202576,
+    46.324554
+],
+  "geometry": {"coordinates":[-114.20257599999999,46.324554],"type":"Point"}
 }

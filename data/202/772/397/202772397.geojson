@@ -2,13 +2,14 @@
   "id": 202772397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.103256,-37.7687,176.103256,-37.7687",
     "geom:latitude":-37.7687,
     "geom:longitude":176.103256,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Keenan Rd Pyes Pa ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202772397,
-    "wof:lastmodified":1449061262,
+    "wof:lastmodified":1466312351,
     "wof:name":"Justwood Joinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fittings"
     ]
 },
-  "bbox": [176.103256,-37.7687,176.103256,-37.7687],
-  "geometry": {"coordinates":[176.103256,-37.7687],"type":"Point"}
+  "bbox": [
+    176.103256,
+    -37.7687,
+    176.103256,
+    -37.7687
+],
+  "geometry": {"coordinates":[176.10325599999999,-37.7687],"type":"Point"}
 }

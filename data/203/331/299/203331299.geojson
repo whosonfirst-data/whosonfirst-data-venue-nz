@@ -2,13 +2,14 @@
   "id": 203331299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.350342,-45.888371,170.350342,-45.888371",
     "geom:latitude":-45.888371,
     "geom:longitude":170.350342,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Gow St Mosgiel ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203331299,
-    "wof:lastmodified":1449026092,
+    "wof:lastmodified":1466312345,
     "wof:name":"Bremner Wools 1988",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fabric"
     ]
 },
-  "bbox": [170.350342,-45.888371,170.350342,-45.888371],
-  "geometry": {"coordinates":[170.350342,-45.888371],"type":"Point"}
+  "bbox": [
+    170.350342,
+    -45.888371,
+    170.350342,
+    -45.888371
+],
+  "geometry": {"coordinates":[170.35034200000001,-45.888371],"type":"Point"}
 }

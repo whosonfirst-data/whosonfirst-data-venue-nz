@@ -2,13 +2,14 @@
   "id": 169540403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.746384,-36.855373,174.746384,-36.855373",
     "geom:latitude":-36.855373,
     "geom:longitude":174.746384,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Ponsonby Rd Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169540403,
-    "wof:lastmodified":1449033977,
+    "wof:lastmodified":1466310636,
     "wof:name":"Phoenix Television Ltd",
     "wof:parent_id":85778287,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [174.746384,-36.855373,174.746384,-36.855373],
-  "geometry": {"coordinates":[174.746384,-36.855373],"type":"Point"}
+  "bbox": [
+    174.746384,
+    -36.855373,
+    174.746384,
+    -36.855373
+],
+  "geometry": {"coordinates":[174.74638400000001,-36.855373],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186471933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.494476,-45.894985,170.494476,-45.894985",
     "geom:latitude":-45.894985,
     "geom:longitude":170.494476,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"291 Hillside Rd South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186471933,
-    "wof:lastmodified":1449051448,
+    "wof:lastmodified":1466312763,
     "wof:name":"Gasco Dunedin Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.494476,-45.894985,170.494476,-45.894985],
-  "geometry": {"coordinates":[170.494476,-45.894985],"type":"Point"}
+  "bbox": [
+    170.494476,
+    -45.894985,
+    170.494476,
+    -45.894985
+],
+  "geometry": {"coordinates":[170.49447599999999,-45.894985],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203385589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.691681,-36.839863,175.691681,-36.839863",
     "geom:latitude":-36.839863,
     "geom:longitude":175.691681,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"259 South Hwy ",
     "sg:city":"Whitianga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203385589,
-    "wof:lastmodified":1449026074,
+    "wof:lastmodified":1466312531,
     "wof:name":"Ocean Sport Marine NZ Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "boat"
     ]
 },
-  "bbox": [175.691681,-36.839863,175.691681,-36.839863],
-  "geometry": {"coordinates":[175.691681,-36.839863],"type":"Point"}
+  "bbox": [
+    175.691681,
+    -36.839863,
+    175.691681,
+    -36.839863
+],
+  "geometry": {"coordinates":[175.69168099999999,-36.839863],"type":"Point"}
 }

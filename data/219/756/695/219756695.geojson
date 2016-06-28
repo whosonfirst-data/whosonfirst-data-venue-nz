@@ -2,13 +2,14 @@
   "id": 219756695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.686005,-36.902218,174.686005,-36.902218",
     "geom:latitude":-36.902218,
     "geom:longitude":174.686005,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Delta Ave New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219756695,
-    "wof:lastmodified":1449072501,
+    "wof:lastmodified":1466312917,
     "wof:name":"Transco Auckland Limited",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.686005,-36.902218,174.686005,-36.902218],
-  "geometry": {"coordinates":[174.686005,-36.902218],"type":"Point"}
+  "bbox": [
+    174.686005,
+    -36.902218,
+    174.686005,
+    -36.902218
+],
+  "geometry": {"coordinates":[174.68600499999999,-36.902218],"type":"Point"}
 }

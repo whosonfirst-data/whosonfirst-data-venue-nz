@@ -2,13 +2,14 @@
   "id": 219686705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.501862,-45.889954,170.501862,-45.889954",
     "geom:latitude":-45.889954,
     "geom:longitude":170.501862,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"272 Andersons Bay Rd ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219686705,
-    "wof:lastmodified":1449073076,
+    "wof:lastmodified":1466312796,
     "wof:name":"Baymont Motors (1992) Ltd",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automotive"
     ]
 },
-  "bbox": [170.501862,-45.889954,170.501862,-45.889954],
-  "geometry": {"coordinates":[170.501862,-45.889954],"type":"Point"}
+  "bbox": [
+    170.501862,
+    -45.889954,
+    170.501862,
+    -45.889954
+],
+  "geometry": {"coordinates":[170.50186199999999,-45.889954],"type":"Point"}
 }

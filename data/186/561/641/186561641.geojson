@@ -2,13 +2,14 @@
   "id": 186561641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.746979,-36.716709,174.746979,-36.716709",
     "geom:latitude":-36.716709,
     "geom:longitude":174.746979,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Anzac Rd Browns Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186561641,
-    "wof:lastmodified":1449052259,
+    "wof:lastmodified":1466312835,
     "wof:name":"Sunbeds Barber Shop Browns Bay",
     "wof:parent_id":85772855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.746979,-36.716709,174.746979,-36.716709],
-  "geometry": {"coordinates":[174.746979,-36.716709],"type":"Point"}
+  "bbox": [
+    174.746979,
+    -36.716709,
+    174.746979,
+    -36.716709
+],
+  "geometry": {"coordinates":[174.74697900000001,-36.716709],"type":"Point"}
 }

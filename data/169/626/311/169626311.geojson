@@ -2,13 +2,14 @@
   "id": 169626311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.776756,40.40556,-79.776756,40.40556",
     "geom:latitude":40.40556,
     "geom:longitude":-79.776756,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Pitcairn St ",
     "sg:city":"Oakura",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169626311,
-    "wof:lastmodified":1449035971,
+    "wof:lastmodified":1466311941,
     "wof:name":"Oakura Library",
     "wof:parent_id":85834841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.776756,40.40556,-79.776756,40.40556],
-  "geometry": {"coordinates":[-79.776756,40.40556],"type":"Point"}
+  "bbox": [
+    -79.776756,
+    40.40556,
+    -79.776756,
+    40.40556
+],
+  "geometry": {"coordinates":[-79.77675600000001,40.40556],"type":"Point"}
 }

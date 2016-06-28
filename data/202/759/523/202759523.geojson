@@ -2,13 +2,14 @@
   "id": 202759523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.226746,-37.678024,176.226746,-37.678024",
     "geom:latitude":-37.678024,
     "geom:longitude":176.226746,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Gloucester Rd Arataki Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202759523,
-    "wof:lastmodified":1449062694,
+    "wof:lastmodified":1466312422,
     "wof:name":"Metlifecare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "village"
     ]
 },
-  "bbox": [176.226746,-37.678024,176.226746,-37.678024],
-  "geometry": {"coordinates":[176.226746,-37.678024],"type":"Point"}
+  "bbox": [
+    176.226746,
+    -37.678024,
+    176.226746,
+    -37.678024
+],
+  "geometry": {"coordinates":[176.22674599999999,-37.678024],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186536875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.321976,-35.725445,174.321976,-35.725445",
     "geom:latitude":-35.725445,
     "geom:longitude":174.321976,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 John St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186536875,
-    "wof:lastmodified":1449051971,
+    "wof:lastmodified":1466312861,
     "wof:name":"Hair We Are",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.321976,-35.725445,174.321976,-35.725445],
-  "geometry": {"coordinates":[174.321976,-35.725445],"type":"Point"}
+  "bbox": [
+    174.321976,
+    -35.725445,
+    174.321976,
+    -35.725445
+],
+  "geometry": {"coordinates":[174.32197600000001,-35.725445],"type":"Point"}
 }

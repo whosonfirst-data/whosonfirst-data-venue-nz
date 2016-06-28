@@ -2,13 +2,14 @@
   "id": 220191905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.839355,-40.455101,175.839355,-40.455101",
     "geom:latitude":-40.455101,
     "geom:longitude":175.839355,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Albert & Pahiatua Sts Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":220191905,
-    "wof:lastmodified":1449074522,
+    "wof:lastmodified":1466311401,
     "wof:name":"Hokowhitu Meats 2001 Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.839355,-40.455101,175.839355,-40.455101],
-  "geometry": {"coordinates":[175.839355,-40.455101],"type":"Point"}
+  "bbox": [
+    175.839355,
+    -40.455101,
+    175.839355,
+    -40.455101
+],
+  "geometry": {"coordinates":[175.83935500000001,-40.455101],"type":"Point"}
 }

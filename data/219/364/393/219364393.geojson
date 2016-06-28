@@ -2,13 +2,14 @@
   "id": 219364393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.675034,-40.936569,175.675034,-40.936569",
     "geom:latitude":-40.936569,
     "geom:longitude":175.675034,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Titoki St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219364393,
-    "wof:lastmodified":1449072357,
+    "wof:lastmodified":1466311450,
     "wof:name":"Country Encounters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [175.675034,-40.936569,175.675034,-40.936569],
-  "geometry": {"coordinates":[175.675034,-40.936569],"type":"Point"}
+  "bbox": [
+    175.675034,
+    -40.936569,
+    175.675034,
+    -40.936569
+],
+  "geometry": {"coordinates":[175.67503400000001,-40.936569],"type":"Point"}
 }

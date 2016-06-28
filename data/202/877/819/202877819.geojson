@@ -2,13 +2,14 @@
   "id": 202877819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.741852,-36.696861,174.741852,-36.696861",
     "geom:latitude":-36.696861,
     "geom:longitude":174.741852,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Awaruku Rd Torbay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202877819,
-    "wof:lastmodified":1449061881,
+    "wof:lastmodified":1466312852,
     "wof:name":"Harness Trevor Upholstery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [174.741852,-36.696861,174.741852,-36.696861],
-  "geometry": {"coordinates":[174.741852,-36.696861],"type":"Point"}
+  "bbox": [
+    174.741852,
+    -36.696861,
+    174.741852,
+    -36.696861
+],
+  "geometry": {"coordinates":[174.74185199999999,-36.696861],"type":"Point"}
 }

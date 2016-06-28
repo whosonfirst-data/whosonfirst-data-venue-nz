@@ -2,13 +2,14 @@
   "id": 202649647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.138214,-37.673805,176.138214,-37.673805",
     "geom:latitude":-37.673805,
     "geom:longitude":176.138214,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"385 Otumoetai Rd Otumoetai ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202649647,
-    "wof:lastmodified":1449061813,
+    "wof:lastmodified":1466311921,
     "wof:name":"Beamsley A J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "plasterer"
     ]
 },
-  "bbox": [176.138214,-37.673805,176.138214,-37.673805],
+  "bbox": [
+    176.138214,
+    -37.673805,
+    176.138214,
+    -37.673805
+],
   "geometry": {"coordinates":[176.138214,-37.673805],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185661023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.632904,-36.879646,174.632904,-36.879646",
     "geom:latitude":-36.879646,
     "geom:longitude":174.632904,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"363 Gt North Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185661023,
-    "wof:lastmodified":1449008051,
+    "wof:lastmodified":1466312049,
     "wof:name":"Henderson Camping Centre",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "camping"
     ]
 },
-  "bbox": [174.632904,-36.879646,174.632904,-36.879646],
+  "bbox": [
+    174.632904,
+    -36.879646,
+    174.632904,
+    -36.879646
+],
   "geometry": {"coordinates":[174.632904,-36.879646],"type":"Point"}
 }

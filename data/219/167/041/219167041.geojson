@@ -2,13 +2,14 @@
   "id": 219167041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.777252,-41.283192,174.777252,-41.283192",
     "geom:latitude":-41.283192,
     "geom:longitude":174.777252,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Level 1 139 Featherston St ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219167041,
-    "wof:lastmodified":1449072220,
+    "wof:lastmodified":1466312016,
     "wof:name":"McKay Shipping Ltd",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.777252,-41.283192,174.777252,-41.283192],
+  "bbox": [
+    174.777252,
+    -41.283192,
+    174.777252,
+    -41.283192
+],
   "geometry": {"coordinates":[174.777252,-41.283192],"type":"Point"}
 }

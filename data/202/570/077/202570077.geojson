@@ -2,13 +2,14 @@
   "id": 202570077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.46698,-45.854794,170.46698,-45.854794",
     "geom:latitude":-45.854794,
     "geom:longitude":170.46698,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 10 060 Halfway Bush ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202570077,
-    "wof:lastmodified":1449061613,
+    "wof:lastmodified":1466311267,
     "wof:name":"Total Carpet Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.46698,-45.854794,170.46698,-45.854794],
-  "geometry": {"coordinates":[170.46698,-45.854794],"type":"Point"}
+  "bbox": [
+    170.46698,
+    -45.854794,
+    170.46698,
+    -45.854794
+],
+  "geometry": {"coordinates":[170.46698000000001,-45.854794],"type":"Point"}
 }

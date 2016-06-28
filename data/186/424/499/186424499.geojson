@@ -2,13 +2,14 @@
   "id": 186424499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.622711,-40.334049,175.622711,-40.334049",
     "geom:latitude":-40.334049,
     "geom:longitude":175.622711,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"852-860 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186424499,
-    "wof:lastmodified":1449052864,
+    "wof:lastmodified":1466312489,
     "wof:name":"Fleetguard Filters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.622711,-40.334049,175.622711,-40.334049],
-  "geometry": {"coordinates":[175.622711,-40.334049],"type":"Point"}
+  "bbox": [
+    175.622711,
+    -40.334049,
+    175.622711,
+    -40.334049
+],
+  "geometry": {"coordinates":[175.62271100000001,-40.334049],"type":"Point"}
 }

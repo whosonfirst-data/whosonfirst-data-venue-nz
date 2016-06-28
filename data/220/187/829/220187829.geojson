@@ -2,13 +2,14 @@
   "id": 220187829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.592529,-40.372791,175.592529,-40.372791",
     "geom:latitude":-40.372791,
     "geom:longitude":175.592529,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"108 College St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220187829,
-    "wof:lastmodified":1449074160,
+    "wof:lastmodified":1466311368,
     "wof:name":"Cridges Butchery Ltd",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.592529,-40.372791,175.592529,-40.372791],
-  "geometry": {"coordinates":[175.592529,-40.372791],"type":"Point"}
+  "bbox": [
+    175.592529,
+    -40.372791,
+    175.592529,
+    -40.372791
+],
+  "geometry": {"coordinates":[175.59252900000001,-40.372791],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186151395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.227936,-38.130402,176.227936,-38.130402",
     "geom:latitude":-38.130402,
     "geom:longitude":176.227936,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"81 View Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186151395,
-    "wof:lastmodified":1449050282,
+    "wof:lastmodified":1466311000,
     "wof:name":"Orca Engineering & Marine Ltd",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "engineer"
     ]
 },
-  "bbox": [176.227936,-38.130402,176.227936,-38.130402],
+  "bbox": [
+    176.227936,
+    -38.130402,
+    176.227936,
+    -38.130402
+],
   "geometry": {"coordinates":[176.227936,-38.130402],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186169483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.565659,-40.364159,175.565659,-40.364159",
     "geom:latitude":-40.364159,
     "geom:longitude":175.565659,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"99 Anders Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186169483,
-    "wof:lastmodified":1449052018,
+    "wof:lastmodified":1466311153,
     "wof:name":"Jireh Consultants Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.565659,-40.364159,175.565659,-40.364159],
-  "geometry": {"coordinates":[175.565659,-40.364159],"type":"Point"}
+  "bbox": [
+    175.565659,
+    -40.364159,
+    175.565659,
+    -40.364159
+],
+  "geometry": {"coordinates":[175.56565900000001,-40.364159],"type":"Point"}
 }

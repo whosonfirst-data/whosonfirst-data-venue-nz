@@ -2,13 +2,14 @@
   "id": 185818733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.701523,-36.923569,174.701523,-36.923569",
     "geom:latitude":-36.923569,
     "geom:longitude":174.701523,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"527 Blockhouse Bay Rd Blockhouse Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185818733,
-    "wof:lastmodified":1449007409,
+    "wof:lastmodified":1466311353,
     "wof:name":"H K Photo & Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hobbies"
     ]
 },
-  "bbox": [174.701523,-36.923569,174.701523,-36.923569],
-  "geometry": {"coordinates":[174.701523,-36.923569],"type":"Point"}
+  "bbox": [
+    174.701523,
+    -36.923569,
+    174.701523,
+    -36.923569
+],
+  "geometry": {"coordinates":[174.70152300000001,-36.923569],"type":"Point"}
 }

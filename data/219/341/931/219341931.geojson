@@ -2,13 +2,14 @@
   "id": 219341931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.62294,-40.380459,175.62294,-40.380459",
     "geom:latitude":-40.380459,
     "geom:longitude":175.62294,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Fitzherbert Ave & Manawaroa St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219341931,
-    "wof:lastmodified":1449073762,
+    "wof:lastmodified":1466311273,
     "wof:name":"Pavilion Motel",
     "wof:parent_id":85780891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.62294,-40.380459,175.62294,-40.380459],
+  "bbox": [
+    175.62294,
+    -40.380459,
+    175.62294,
+    -40.380459
+],
   "geometry": {"coordinates":[175.62294,-40.380459],"type":"Point"}
 }

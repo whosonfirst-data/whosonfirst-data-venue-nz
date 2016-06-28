@@ -2,13 +2,14 @@
   "id": 202607067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.06102,-40.873184,175.06102,-40.873184",
     "geom:latitude":-40.873184,
     "geom:longitude":175.06102,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Ngatiawa Rd ",
     "sg:city":"Waikanae",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202607067,
-    "wof:lastmodified":1449060439,
+    "wof:lastmodified":1466311574,
     "wof:name":"Reikorangi Potteries Park & Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [175.06102,-40.873184,175.06102,-40.873184],
-  "geometry": {"coordinates":[175.06102,-40.873184],"type":"Point"}
+  "bbox": [
+    175.06102,
+    -40.873184,
+    175.06102,
+    -40.873184
+],
+  "geometry": {"coordinates":[175.06102000000001,-40.873184],"type":"Point"}
 }

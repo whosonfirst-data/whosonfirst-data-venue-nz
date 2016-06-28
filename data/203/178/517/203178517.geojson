@@ -2,13 +2,14 @@
   "id": 203178517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.904694,-36.931149,174.904694,-36.931149",
     "geom:latitude":-36.931149,
     "geom:longitude":174.904694,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Huntington Park Business Centre Ti Rakau Dve East Tamaki",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203178517,
-    "wof:lastmodified":1449026327,
+    "wof:lastmodified":1466311169,
     "wof:name":"SupaFit",
     "wof:parent_id":85781725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "fabric"
     ]
 },
-  "bbox": [174.904694,-36.931149,174.904694,-36.931149],
-  "geometry": {"coordinates":[174.904694,-36.931149],"type":"Point"}
+  "bbox": [
+    174.904694,
+    -36.931149,
+    174.904694,
+    -36.931149
+],
+  "geometry": {"coordinates":[174.90469400000001,-36.931149],"type":"Point"}
 }

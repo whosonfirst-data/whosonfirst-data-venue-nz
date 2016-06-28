@@ -2,13 +2,14 @@
   "id": 203320833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-71.570198,44.672794,-71.570198,44.672794",
     "geom:latitude":44.672794,
     "geom:longitude":-71.570198,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Mountain Rd ",
     "sg:city":"Stratford",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203320833,
-    "wof:lastmodified":1449025393,
+    "wof:lastmodified":1466312301,
     "wof:name":"Egmont Tanneries Ltd",
     "wof:parent_id":85812199,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-71.570198,44.672794,-71.570198,44.672794],
+  "bbox": [
+    -71.570198,
+    44.672794,
+    -71.570198,
+    44.672794
+],
   "geometry": {"coordinates":[-71.570198,44.672794],"type":"Point"}
 }

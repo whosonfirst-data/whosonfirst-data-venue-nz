@@ -2,13 +2,14 @@
   "id": 169685909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.883301,-35.160378,173.883301,-35.160378",
     "geom:latitude":-35.160378,
     "geom:longitude":173.883301,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandy Rd ",
     "sg:city":"Kerikeri",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169685909,
-    "wof:lastmodified":1449035887,
+    "wof:lastmodified":1466310834,
     "wof:name":"Lakeside Horse Treks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.883301,-35.160378,173.883301,-35.160378],
-  "geometry": {"coordinates":[173.883301,-35.160378],"type":"Point"}
+  "bbox": [
+    173.883301,
+    -35.160378,
+    173.883301,
+    -35.160378
+],
+  "geometry": {"coordinates":[173.88330099999999,-35.160378],"type":"Point"}
 }

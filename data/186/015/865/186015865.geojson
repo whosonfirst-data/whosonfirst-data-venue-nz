@@ -2,13 +2,14 @@
   "id": 186015865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.044861,-39.934036,175.044861,-39.934036",
     "geom:latitude":-39.934036,
     "geom:longitude":175.044861,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Churton St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186015865,
-    "wof:lastmodified":1449051010,
+    "wof:lastmodified":1466310790,
     "wof:name":"HireMaster Wanganui",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.044861,-39.934036,175.044861,-39.934036],
+  "bbox": [
+    175.044861,
+    -39.934036,
+    175.044861,
+    -39.934036
+],
   "geometry": {"coordinates":[175.044861,-39.934036],"type":"Point"}
 }

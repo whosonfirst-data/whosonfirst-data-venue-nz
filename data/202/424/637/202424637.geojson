@@ -2,13 +2,14 @@
   "id": 202424637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.803955,-38.988941,175.803955,-38.988941",
     "geom:latitude":-38.988941,
     "geom:longitude":175.803955,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"National Bank Bldg Town Centre ",
     "sg:city":"Turangi",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202424637,
-    "wof:lastmodified":1449062485,
+    "wof:lastmodified":1466311582,
     "wof:name":"Turangi Healthcare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.803955,-38.988941,175.803955,-38.988941],
+  "bbox": [
+    175.803955,
+    -38.988941,
+    175.803955,
+    -38.988941
+],
   "geometry": {"coordinates":[175.803955,-38.988941],"type":"Point"}
 }

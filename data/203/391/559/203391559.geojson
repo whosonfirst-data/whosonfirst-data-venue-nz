@@ -2,13 +2,14 @@
   "id": 203391559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.952835,-37.957249,176.952835,-37.957249",
     "geom:latitude":-37.957249,
     "geom:longitude":176.952835,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Camerons Rd Camerons ",
     "sg:city":"Paroa",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203391559,
-    "wof:lastmodified":1449026186,
+    "wof:lastmodified":1466312543,
     "wof:name":"Kotuku Saddlery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [176.952835,-37.957249,176.952835,-37.957249],
-  "geometry": {"coordinates":[176.952835,-37.957249],"type":"Point"}
+  "bbox": [
+    176.952835,
+    -37.957249,
+    176.952835,
+    -37.957249
+],
+  "geometry": {"coordinates":[176.95283499999999,-37.957249],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203180449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.609039,-40.35508,175.609039,-40.35508",
     "geom:latitude":-40.35508,
     "geom:longitude":175.609039,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"270-272 Cuba St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203180449,
-    "wof:lastmodified":1449025031,
+    "wof:lastmodified":1466311188,
     "wof:name":"Coo-Ee Dry Cleaners",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [175.609039,-40.35508,175.609039,-40.35508],
+  "bbox": [
+    175.609039,
+    -40.35508,
+    175.609039,
+    -40.35508
+],
   "geometry": {"coordinates":[175.609039,-40.35508],"type":"Point"}
 }

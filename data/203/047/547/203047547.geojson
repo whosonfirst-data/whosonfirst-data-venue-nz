@@ -2,13 +2,14 @@
   "id": 203047547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.750595,-36.926331,174.750595,-36.926331",
     "geom:latitude":-36.926331,
     "geom:longitude":174.750595,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"366 Hillsborough Rd Hillsborough ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":203047547,
-    "wof:lastmodified":1449026195,
+    "wof:lastmodified":1466311453,
     "wof:name":"Willy Stonemason",
     "wof:parent_id":85778707,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [174.750595,-36.926331,174.750595,-36.926331],
+  "bbox": [
+    174.750595,
+    -36.926331,
+    174.750595,
+    -36.926331
+],
   "geometry": {"coordinates":[174.750595,-36.926331],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169531975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.888916,-40.60202,175.888916,-40.60202",
     "geom:latitude":-40.60202,
     "geom:longitude":175.888916,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Hinemoa & Tutanekai",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169531975,
-    "wof:lastmodified":1449033476,
+    "wof:lastmodified":1466310536,
     "wof:name":"Post Office Savings Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.888916,-40.60202,175.888916,-40.60202],
-  "geometry": {"coordinates":[175.888916,-40.60202],"type":"Point"}
+  "bbox": [
+    175.888916,
+    -40.60202,
+    175.888916,
+    -40.60202
+],
+  "geometry": {"coordinates":[175.88891599999999,-40.60202],"type":"Point"}
 }

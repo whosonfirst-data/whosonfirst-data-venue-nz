@@ -2,13 +2,14 @@
   "id": 203045155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.511917,-43.548656,172.511917,-43.548656",
     "geom:latitude":-43.548656,
     "geom:longitude":172.511917,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"750 Halswell Junction Rd Islington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203045155,
-    "wof:lastmodified":1449026648,
+    "wof:lastmodified":1466311396,
     "wof:name":"Best Steel Ltd",
     "wof:parent_id":85778387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [172.511917,-43.548656,172.511917,-43.548656],
-  "geometry": {"coordinates":[172.511917,-43.548656],"type":"Point"}
+  "bbox": [
+    172.511917,
+    -43.548656,
+    172.511917,
+    -43.548656
+],
+  "geometry": {"coordinates":[172.51191700000001,-43.548656],"type":"Point"}
 }

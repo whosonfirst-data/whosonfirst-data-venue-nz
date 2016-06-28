@@ -2,13 +2,14 @@
   "id": 219468097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.366943,-46.422592,168.366943,-46.422592",
     "geom:latitude":-46.422592,
     "geom:longitude":168.366943,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Nelson St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219468097,
-    "wof:lastmodified":1449072930,
+    "wof:lastmodified":1466312218,
     "wof:name":"Southland Campus-Dunedin College Of Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "training"
     ]
 },
-  "bbox": [168.366943,-46.422592,168.366943,-46.422592],
-  "geometry": {"coordinates":[168.366943,-46.422592],"type":"Point"}
+  "bbox": [
+    168.366943,
+    -46.422592,
+    168.366943,
+    -46.422592
+],
+  "geometry": {"coordinates":[168.36694299999999,-46.422592],"type":"Point"}
 }

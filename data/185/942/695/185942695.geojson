@@ -2,13 +2,14 @@
   "id": 185942695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.240021,-44.350857,171.240021,-44.350857",
     "geom:latitude":-44.350857,
     "geom:longitude":171.240021,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Seadown Rd Washdyke ",
     "sg:city":"Timaru",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185942695,
-    "wof:lastmodified":1449007355,
+    "wof:lastmodified":1466312319,
     "wof:name":"Action Indoor Sports Stadium",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [171.240021,-44.350857,171.240021,-44.350857],
-  "geometry": {"coordinates":[171.240021,-44.350857],"type":"Point"}
+  "bbox": [
+    171.240021,
+    -44.350857,
+    171.240021,
+    -44.350857
+],
+  "geometry": {"coordinates":[171.24002100000001,-44.350857],"type":"Point"}
 }

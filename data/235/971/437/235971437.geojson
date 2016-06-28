@@ -2,13 +2,14 @@
   "id": 235971437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.648834,-40.957767,175.648834,-40.957767",
     "geom:latitude":-40.957767,
     "geom:longitude":175.648834,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"434 Queen St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235971437,
-    "wof:lastmodified":1449008428,
+    "wof:lastmodified":1466311242,
     "wof:name":"A J's Coffee House",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cafe"
     ]
 },
-  "bbox": [175.648834,-40.957767,175.648834,-40.957767],
-  "geometry": {"coordinates":[175.648834,-40.957767],"type":"Point"}
+  "bbox": [
+    175.648834,
+    -40.957767,
+    175.648834,
+    -40.957767
+],
+  "geometry": {"coordinates":[175.64883399999999,-40.957767],"type":"Point"}
 }

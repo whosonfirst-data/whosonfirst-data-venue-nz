@@ -2,13 +2,14 @@
   "id": 202973793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.077621,-40.871105,175.077621,-40.871105",
     "geom:latitude":-40.871105,
     "geom:longitude":175.077621,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Kotare St ",
     "sg:city":"Waikanae",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":202973793,
-    "wof:lastmodified":1449061641,
+    "wof:lastmodified":1466312856,
     "wof:name":"Label - Pos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.077621,-40.871105,175.077621,-40.871105],
-  "geometry": {"coordinates":[175.077621,-40.871105],"type":"Point"}
+  "bbox": [
+    175.077621,
+    -40.871105,
+    175.077621,
+    -40.871105
+],
+  "geometry": {"coordinates":[175.07762099999999,-40.871105],"type":"Point"}
 }

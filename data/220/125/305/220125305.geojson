@@ -2,13 +2,14 @@
   "id": 220125305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.897293,-39.480972,176.897293,-39.480972",
     "geom:latitude":-39.480972,
     "geom:longitude":176.897293,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Nelson Quay Ahuriri ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220125305,
-    "wof:lastmodified":1449074845,
+    "wof:lastmodified":1466310835,
     "wof:name":"Vetro",
     "wof:parent_id":85773129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [176.897293,-39.480972,176.897293,-39.480972],
-  "geometry": {"coordinates":[176.897293,-39.480972],"type":"Point"}
+  "bbox": [
+    176.897293,
+    -39.480972,
+    176.897293,
+    -39.480972
+],
+  "geometry": {"coordinates":[176.89729299999999,-39.480972],"type":"Point"}
 }

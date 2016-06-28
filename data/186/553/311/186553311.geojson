@@ -2,13 +2,14 @@
   "id": 186553311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.74855,-36.820614,174.74855,-36.820614",
     "geom:latitude":-36.820614,
     "geom:longitude":174.74855,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Princes St Northcote Point ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186553311,
-    "wof:lastmodified":1449050268,
+    "wof:lastmodified":1466312898,
     "wof:name":"Lee-Ann Smith Make-up Artist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "make-up"
     ]
 },
-  "bbox": [174.74855,-36.820614,174.74855,-36.820614],
-  "geometry": {"coordinates":[174.74855,-36.820614],"type":"Point"}
+  "bbox": [
+    174.74855,
+    -36.820614,
+    174.74855,
+    -36.820614
+],
+  "geometry": {"coordinates":[174.74854999999999,-36.820614],"type":"Point"}
 }

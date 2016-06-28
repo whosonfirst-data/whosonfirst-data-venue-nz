@@ -2,13 +2,14 @@
   "id": 219541047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.664246,-45.03149,168.664246,-45.03149",
     "geom:latitude":-45.03149,
     "geom:longitude":168.664246,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Auckland Wellington Tauranga Christchurch Napier Otago, Rotorua Taupo Queenstown Nelson Bay of Plent",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219541047,
-    "wof:lastmodified":1449070777,
+    "wof:lastmodified":1466312439,
     "wof:name":"NZ 4x4 Equipment Ltd",
     "wof:parent_id":85782493,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.664246,-45.03149,168.664246,-45.03149],
-  "geometry": {"coordinates":[168.664246,-45.03149],"type":"Point"}
+  "bbox": [
+    168.664246,
+    -45.03149,
+    168.664246,
+    -45.03149
+],
+  "geometry": {"coordinates":[168.66424599999999,-45.03149],"type":"Point"}
 }

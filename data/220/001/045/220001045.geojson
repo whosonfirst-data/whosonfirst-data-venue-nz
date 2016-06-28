@@ -2,13 +2,14 @@
   "id": 220001045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.778427,-36.865097,174.778427,-36.865097",
     "geom:latitude":-36.865097,
     "geom:longitude":174.778427,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Davis Cre Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220001045,
-    "wof:lastmodified":1449074227,
+    "wof:lastmodified":1466310548,
     "wof:name":"Equity Investment Advisers & Sharebrokers Ltd",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "finance"
     ]
 },
-  "bbox": [174.778427,-36.865097,174.778427,-36.865097],
-  "geometry": {"coordinates":[174.778427,-36.865097],"type":"Point"}
+  "bbox": [
+    174.778427,
+    -36.865097,
+    174.778427,
+    -36.865097
+],
+  "geometry": {"coordinates":[174.77842699999999,-36.865097],"type":"Point"}
 }

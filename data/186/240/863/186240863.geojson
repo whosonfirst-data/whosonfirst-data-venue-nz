@@ -2,13 +2,14 @@
   "id": 186240863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.135712,-40.759418,175.135712,-40.759418",
     "geom:latitude":-40.759418,
     "geom:longitude":175.135712,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Aotaki St ",
     "sg:city":"Otaki",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":186240863,
-    "wof:lastmodified":1449050524,
+    "wof:lastmodified":1466311767,
     "wof:name":"Pyramid Machinery Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.135712,-40.759418,175.135712,-40.759418],
-  "geometry": {"coordinates":[175.135712,-40.759418],"type":"Point"}
+  "bbox": [
+    175.135712,
+    -40.759418,
+    175.135712,
+    -40.759418
+],
+  "geometry": {"coordinates":[175.13571200000001,-40.759418],"type":"Point"}
 }

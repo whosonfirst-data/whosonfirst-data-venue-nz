@@ -2,13 +2,14 @@
   "id": 169553141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.725006,-36.812126,174.725006,-36.812126",
     "geom:latitude":-36.812126,
     "geom:longitude":174.725006,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18-22 Mokoia Rd Birkenhead ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169553141,
-    "wof:lastmodified":1449032708,
+    "wof:lastmodified":1466310834,
     "wof:name":"Yarntons",
     "wof:parent_id":85778355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.725006,-36.812126,174.725006,-36.812126],
-  "geometry": {"coordinates":[174.725006,-36.812126],"type":"Point"}
+  "bbox": [
+    174.725006,
+    -36.812126,
+    174.725006,
+    -36.812126
+],
+  "geometry": {"coordinates":[174.72500600000001,-36.812126],"type":"Point"}
 }

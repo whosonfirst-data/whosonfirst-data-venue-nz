@@ -2,13 +2,14 @@
   "id": 202464809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.617325,-40.354725,175.617325,-40.354725",
     "geom:latitude":-40.354725,
     "geom:longitude":175.617325,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"435 Church St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202464809,
-    "wof:lastmodified":1449060809,
+    "wof:lastmodified":1466311841,
     "wof:name":"Hearing Association Manawatu",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "hearing"
     ]
 },
-  "bbox": [175.617325,-40.354725,175.617325,-40.354725],
-  "geometry": {"coordinates":[175.617325,-40.354725],"type":"Point"}
+  "bbox": [
+    175.617325,
+    -40.354725,
+    175.617325,
+    -40.354725
+],
+  "geometry": {"coordinates":[175.61732499999999,-40.354725],"type":"Point"}
 }

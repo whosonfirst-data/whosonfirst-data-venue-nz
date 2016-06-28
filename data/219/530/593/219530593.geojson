@@ -2,13 +2,14 @@
   "id": 219530593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.506256,-45.878353,170.506256,-45.878353",
     "geom:latitude":-45.878353,
     "geom:longitude":170.506256,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"South City Mall South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219530593,
-    "wof:lastmodified":1449072259,
+    "wof:lastmodified":1466312315,
     "wof:name":"Headquarters Hair Dressing School",
     "wof:parent_id":85782381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "hairdressing"
     ]
 },
-  "bbox": [170.506256,-45.878353,170.506256,-45.878353],
-  "geometry": {"coordinates":[170.506256,-45.878353],"type":"Point"}
+  "bbox": [
+    170.506256,
+    -45.878353,
+    170.506256,
+    -45.878353
+],
+  "geometry": {"coordinates":[170.50625600000001,-45.878353],"type":"Point"}
 }

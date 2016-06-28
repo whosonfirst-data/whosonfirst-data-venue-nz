@@ -2,13 +2,14 @@
   "id": 203318681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.873444,-36.930695,174.873444,-36.930695",
     "geom:latitude":-36.930695,
     "geom:longitude":174.873444,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4 1 Waiouru Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203318681,
-    "wof:lastmodified":1449025338,
+    "wof:lastmodified":1466312296,
     "wof:name":"TEXSPEC NZ Ltd",
     "wof:parent_id":85773103,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [174.873444,-36.930695,174.873444,-36.930695],
-  "geometry": {"coordinates":[174.873444,-36.930695],"type":"Point"}
+  "bbox": [
+    174.873444,
+    -36.930695,
+    174.873444,
+    -36.930695
+],
+  "geometry": {"coordinates":[174.87344400000001,-36.930695],"type":"Point"}
 }

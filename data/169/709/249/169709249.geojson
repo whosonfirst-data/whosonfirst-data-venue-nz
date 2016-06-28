@@ -2,13 +2,14 @@
   "id": 169709249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.651337,-36.840034,174.651337,-36.840034",
     "geom:latitude":-36.840034,
     "geom:longitude":174.651337,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"578 Te Atatu Rd Te Atatu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169709249,
-    "wof:lastmodified":1449033349,
+    "wof:lastmodified":1466310977,
     "wof:name":"Te Atatu Traders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.651337,-36.840034,174.651337,-36.840034],
-  "geometry": {"coordinates":[174.651337,-36.840034],"type":"Point"}
+  "bbox": [
+    174.651337,
+    -36.840034,
+    174.651337,
+    -36.840034
+],
+  "geometry": {"coordinates":[174.65133700000001,-36.840034],"type":"Point"}
 }

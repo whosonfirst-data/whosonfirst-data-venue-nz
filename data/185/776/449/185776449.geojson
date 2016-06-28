@@ -2,13 +2,14 @@
   "id": 185776449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.859863,-36.85429,174.859863,-36.85429",
     "geom:latitude":-36.85429,
     "geom:longitude":174.859863,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"100 St Heliers Bay Rd St Heliers ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185776449,
-    "wof:lastmodified":1449006972,
+    "wof:lastmodified":1466311067,
     "wof:name":"St Heliers Community Centre",
     "wof:parent_id":85773175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.859863,-36.85429,174.859863,-36.85429],
-  "geometry": {"coordinates":[174.859863,-36.85429],"type":"Point"}
+  "bbox": [
+    174.859863,
+    -36.85429,
+    174.859863,
+    -36.85429
+],
+  "geometry": {"coordinates":[174.85986299999999,-36.85429],"type":"Point"}
 }

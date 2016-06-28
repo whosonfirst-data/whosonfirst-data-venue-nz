@@ -2,13 +2,14 @@
   "id": 219727339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.534561,-45.894531,170.534561,-45.894531",
     "geom:latitude":-45.894531,
     "geom:longitude":170.534561,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Andersons Bay & Macandrew Rds ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219727339,
-    "wof:lastmodified":1449070923,
+    "wof:lastmodified":1466312761,
     "wof:name":"Dunedin City Ford",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "servicing"
     ]
 },
-  "bbox": [170.534561,-45.894531,170.534561,-45.894531],
+  "bbox": [
+    170.534561,
+    -45.894531,
+    170.534561,
+    -45.894531
+],
   "geometry": {"coordinates":[170.534561,-45.894531],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202762309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.635559,-43.518852,172.635559,-43.518852",
     "geom:latitude":-43.518852,
     "geom:longitude":172.635559,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Caledonian Rd St Albans ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202762309,
-    "wof:lastmodified":1449061894,
+    "wof:lastmodified":1466312337,
     "wof:name":"St Albans Retirement Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "village"
     ]
 },
-  "bbox": [172.635559,-43.518852,172.635559,-43.518852],
+  "bbox": [
+    172.635559,
+    -43.518852,
+    172.635559,
+    -43.518852
+],
   "geometry": {"coordinates":[172.635559,-43.518852],"type":"Point"}
 }

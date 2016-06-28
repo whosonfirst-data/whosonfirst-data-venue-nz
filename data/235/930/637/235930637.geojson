@@ -2,13 +2,14 @@
   "id": 235930637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.143188,-37.700062,176.143188,-37.700062",
     "geom:latitude":-37.700062,
     "geom:longitude":176.143188,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Birch Ave Judea ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235930637,
-    "wof:lastmodified":1449008362,
+    "wof:lastmodified":1466310607,
     "wof:name":"Cambrian Meats",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "meats"
     ]
 },
-  "bbox": [176.143188,-37.700062,176.143188,-37.700062],
-  "geometry": {"coordinates":[176.143188,-37.700062],"type":"Point"}
+  "bbox": [
+    176.143188,
+    -37.700062,
+    176.143188,
+    -37.700062
+],
+  "geometry": {"coordinates":[176.14318800000001,-37.700062],"type":"Point"}
 }

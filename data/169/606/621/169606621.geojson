@@ -2,13 +2,14 @@
   "id": 169606621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.980148,-40.894859,174.980148,-40.894859",
     "geom:latitude":-40.894859,
     "geom:longitude":174.980148,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Seaview Rd Paraparaumu Beach ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169606621,
-    "wof:lastmodified":1449033202,
+    "wof:lastmodified":1466311691,
     "wof:name":"Well Read Book Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.980148,-40.894859,174.980148,-40.894859],
-  "geometry": {"coordinates":[174.980148,-40.894859],"type":"Point"}
+  "bbox": [
+    174.980148,
+    -40.894859,
+    174.980148,
+    -40.894859
+],
+  "geometry": {"coordinates":[174.98014800000001,-40.894859],"type":"Point"}
 }

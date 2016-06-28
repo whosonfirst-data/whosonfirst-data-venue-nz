@@ -2,13 +2,14 @@
   "id": 235999581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.017044,-38.670315,178.017044,-38.670315",
     "geom:latitude":-38.670315,
     "geom:longitude":178.017044,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"285 Grey St ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235999581,
-    "wof:lastmodified":1449008566,
+    "wof:lastmodified":1466311579,
     "wof:name":"Captain Morgans",
     "wof:parent_id":85780807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [178.017044,-38.670315,178.017044,-38.670315],
+  "bbox": [
+    178.017044,
+    -38.670315,
+    178.017044,
+    -38.670315
+],
   "geometry": {"coordinates":[178.017044,-38.670315],"type":"Point"}
 }

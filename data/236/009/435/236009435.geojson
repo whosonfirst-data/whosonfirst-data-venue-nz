@@ -2,13 +2,14 @@
   "id": 236009435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.61351,-40.358978,175.61351,-40.358978",
     "geom:latitude":-40.358978,
     "geom:longitude":175.61351,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Fitzherbert Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236009435,
-    "wof:lastmodified":1449005168,
+    "wof:lastmodified":1466310794,
     "wof:name":"Bangkok Thai Restaurant",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "takeaway"
     ]
 },
-  "bbox": [175.61351,-40.358978,175.61351,-40.358978],
-  "geometry": {"coordinates":[175.61351,-40.358978],"type":"Point"}
+  "bbox": [
+    175.61351,
+    -40.358978,
+    175.61351,
+    -40.358978
+],
+  "geometry": {"coordinates":[175.61350999999999,-40.358978],"type":"Point"}
 }

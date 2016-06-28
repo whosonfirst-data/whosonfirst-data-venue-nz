@@ -2,13 +2,14 @@
   "id": 186481861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.772949,-36.866684,174.772949,-36.866684",
     "geom:latitude":-36.866684,
     "geom:longitude":174.772949,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"383 Khyber Pass Rd Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186481861,
-    "wof:lastmodified":1449052674,
+    "wof:lastmodified":1466312624,
     "wof:name":"Biodet Services Ltd",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.772949,-36.866684,174.772949,-36.866684],
-  "geometry": {"coordinates":[174.772949,-36.866684],"type":"Point"}
+  "bbox": [
+    174.772949,
+    -36.866684,
+    174.772949,
+    -36.866684
+],
+  "geometry": {"coordinates":[174.77294900000001,-36.866684],"type":"Point"}
 }

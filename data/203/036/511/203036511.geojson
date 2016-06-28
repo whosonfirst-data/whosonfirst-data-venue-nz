@@ -2,13 +2,14 @@
   "id": 203036511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.712219,-36.887119,174.712219,-36.887119",
     "geom:latitude":-36.887119,
     "geom:longitude":174.712219,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"947 New North Rd Mt Albert ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203036511,
-    "wof:lastmodified":1449025347,
+    "wof:lastmodified":1466311207,
     "wof:name":"Express Appliances Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garden"
     ]
 },
-  "bbox": [174.712219,-36.887119,174.712219,-36.887119],
+  "bbox": [
+    174.712219,
+    -36.887119,
+    174.712219,
+    -36.887119
+],
   "geometry": {"coordinates":[174.712219,-36.887119],"type":"Point"}
 }

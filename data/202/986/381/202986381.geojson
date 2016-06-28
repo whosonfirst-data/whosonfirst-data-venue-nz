@@ -2,13 +2,14 @@
   "id": 202986381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.407654,-35.654453,174.407654,-35.654453",
     "geom:latitude":-35.654453,
     "geom:longitude":174.407654,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Waitangi Rd Glenbervie ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202986381,
-    "wof:lastmodified":1449062174,
+    "wof:lastmodified":1466312953,
     "wof:name":"Stone Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.407654,-35.654453,174.407654,-35.654453],
-  "geometry": {"coordinates":[174.407654,-35.654453],"type":"Point"}
+  "bbox": [
+    174.407654,
+    -35.654453,
+    174.407654,
+    -35.654453
+],
+  "geometry": {"coordinates":[174.40765400000001,-35.654453],"type":"Point"}
 }

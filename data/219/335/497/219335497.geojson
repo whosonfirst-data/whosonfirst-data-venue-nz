@@ -2,13 +2,14 @@
   "id": 219335497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.591156,-40.348228,175.591156,-40.348228",
     "geom:latitude":-40.348228,
     "geom:longitude":175.591156,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"374 Tremaine Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219335497,
-    "wof:lastmodified":1449072714,
+    "wof:lastmodified":1466311223,
     "wof:name":"Acacia Court Motel",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.591156,-40.348228,175.591156,-40.348228],
-  "geometry": {"coordinates":[175.591156,-40.348228],"type":"Point"}
+  "bbox": [
+    175.591156,
+    -40.348228,
+    175.591156,
+    -40.348228
+],
+  "geometry": {"coordinates":[175.59115600000001,-40.348228],"type":"Point"}
 }

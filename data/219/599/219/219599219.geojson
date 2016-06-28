@@ -2,13 +2,14 @@
   "id": 219599219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.836319,-45.165764,170.836319,-45.165764",
     "geom:latitude":-45.165764,
     "geom:longitude":170.836319,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Hwy 1 ",
     "sg:city":"Maheno",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219599219,
-    "wof:lastmodified":1449072034,
+    "wof:lastmodified":1466312505,
     "wof:name":"Maheno Service Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.836319,-45.165764,170.836319,-45.165764],
+  "bbox": [
+    170.836319,
+    -45.165764,
+    170.836319,
+    -45.165764
+],
   "geometry": {"coordinates":[170.836319,-45.165764],"type":"Point"}
 }

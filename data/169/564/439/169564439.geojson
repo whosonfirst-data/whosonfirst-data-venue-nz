@@ -2,13 +2,14 @@
   "id": 169564439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.962463,-43.809849,172.962463,-43.809849",
     "geom:latitude":-43.809849,
     "geom:longitude":172.962463,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Church St ",
     "sg:city":"Akaroa",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169564439,
-    "wof:lastmodified":1449035762,
+    "wof:lastmodified":1466311034,
     "wof:name":"Fire & Ice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.962463,-43.809849,172.962463,-43.809849],
-  "geometry": {"coordinates":[172.962463,-43.809849],"type":"Point"}
+  "bbox": [
+    172.962463,
+    -43.809849,
+    172.962463,
+    -43.809849
+],
+  "geometry": {"coordinates":[172.96246300000001,-43.809849],"type":"Point"}
 }

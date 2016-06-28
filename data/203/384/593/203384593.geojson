@@ -2,13 +2,14 @@
   "id": 203384593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.654282,-36.798149,174.654282,-36.798149",
     "geom:latitude":-36.798149,
     "geom:longitude":174.654282,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Westpark Marina, Hobsonville ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203384593,
-    "wof:lastmodified":1449025187,
+    "wof:lastmodified":1466312422,
     "wof:name":"Pearson And Way Boatbuilders Ltd",
     "wof:parent_id":85772963,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "boat"
     ]
 },
-  "bbox": [174.654282,-36.798149,174.654282,-36.798149],
-  "geometry": {"coordinates":[174.654282,-36.798149],"type":"Point"}
+  "bbox": [
+    174.654282,
+    -36.798149,
+    174.654282,
+    -36.798149
+],
+  "geometry": {"coordinates":[174.65428199999999,-36.798149],"type":"Point"}
 }

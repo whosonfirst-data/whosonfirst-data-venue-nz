@@ -2,13 +2,14 @@
   "id": 220105025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.312698,-35.698601,174.312698,-35.698601",
     "geom:latitude":-35.698601,
     "geom:longitude":174.312698,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Kamo Rd Whau Valley ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220105025,
-    "wof:lastmodified":1449074337,
+    "wof:lastmodified":1466310642,
     "wof:name":"Whau Valley Hot Bread Shop",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [174.312698,-35.698601,174.312698,-35.698601],
-  "geometry": {"coordinates":[174.312698,-35.698601],"type":"Point"}
+  "bbox": [
+    174.312698,
+    -35.698601,
+    174.312698,
+    -35.698601
+],
+  "geometry": {"coordinates":[174.31269800000001,-35.698601],"type":"Point"}
 }

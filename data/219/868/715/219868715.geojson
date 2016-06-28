@@ -2,13 +2,14 @@
   "id": 219868715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.646255,-40.95863,175.646255,-40.95863",
     "geom:latitude":-40.95863,
     "geom:longitude":175.646255,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"320 High St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219868715,
-    "wof:lastmodified":1449070534,
+    "wof:lastmodified":1466313150,
     "wof:name":"Consolidated Forest Harvesting (NZ) Ltd",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.646255,-40.95863,175.646255,-40.95863],
+  "bbox": [
+    175.646255,
+    -40.95863,
+    175.646255,
+    -40.95863
+],
   "geometry": {"coordinates":[175.646255,-40.95863],"type":"Point"}
 }

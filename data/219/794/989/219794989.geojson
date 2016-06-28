@@ -2,13 +2,14 @@
   "id": 219794989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.606613,-40.356125,175.606613,-40.356125",
     "geom:latitude":-40.356125,
     "geom:longitude":175.606613,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Cuba St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219794989,
-    "wof:lastmodified":1449072090,
+    "wof:lastmodified":1466313078,
     "wof:name":"Manawatu Muffler Centre",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.606613,-40.356125,175.606613,-40.356125],
-  "geometry": {"coordinates":[175.606613,-40.356125],"type":"Point"}
+  "bbox": [
+    175.606613,
+    -40.356125,
+    175.606613,
+    -40.356125
+],
+  "geometry": {"coordinates":[175.60661300000001,-40.356125],"type":"Point"}
 }

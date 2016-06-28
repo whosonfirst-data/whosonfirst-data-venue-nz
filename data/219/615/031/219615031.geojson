@@ -2,13 +2,14 @@
   "id": 219615031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.046112,-39.940079,175.046112,-39.940079",
     "geom:latitude":-39.940079,
     "geom:longitude":175.046112,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Heads Rd ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219615031,
-    "wof:lastmodified":1449071511,
+    "wof:lastmodified":1466312728,
     "wof:name":"Vehicle Testing New Zealand Limited",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fitness"
     ]
 },
-  "bbox": [175.046112,-39.940079,175.046112,-39.940079],
-  "geometry": {"coordinates":[175.046112,-39.940079],"type":"Point"}
+  "bbox": [
+    175.046112,
+    -39.940079,
+    175.046112,
+    -39.940079
+],
+  "geometry": {"coordinates":[175.04611199999999,-39.940079],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203128933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.833511,-40.459229,175.833511,-40.459229",
     "geom:latitude":-40.459229,
     "geom:longitude":175.833511,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Jervois St ",
     "sg:city":"Pahiatua",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203128933,
-    "wof:lastmodified":1449025648,
+    "wof:lastmodified":1466310761,
     "wof:name":"Beetham Grange Boarding Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "kennel"
     ]
 },
-  "bbox": [175.833511,-40.459229,175.833511,-40.459229],
-  "geometry": {"coordinates":[175.833511,-40.459229],"type":"Point"}
+  "bbox": [
+    175.833511,
+    -40.459229,
+    175.833511,
+    -40.459229
+],
+  "geometry": {"coordinates":[175.83351099999999,-40.459229],"type":"Point"}
 }

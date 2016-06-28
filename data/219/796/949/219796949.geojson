@@ -2,13 +2,14 @@
   "id": 219796949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.971985,-45.094559,170.971985,-45.094559",
     "geom:latitude":-45.094559,
     "geom:longitude":170.971985,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Dee St ",
     "sg:city":"Oamaru",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219796949,
-    "wof:lastmodified":1449072061,
+    "wof:lastmodified":1466313019,
     "wof:name":"Oamaru Exhausts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automotive"
     ]
 },
-  "bbox": [170.971985,-45.094559,170.971985,-45.094559],
-  "geometry": {"coordinates":[170.971985,-45.094559],"type":"Point"}
+  "bbox": [
+    170.971985,
+    -45.094559,
+    170.971985,
+    -45.094559
+],
+  "geometry": {"coordinates":[170.97198499999999,-45.094559],"type":"Point"}
 }

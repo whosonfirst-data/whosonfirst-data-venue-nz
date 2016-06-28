@@ -2,13 +2,14 @@
   "id": 169861799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.051041,-39.933296,175.051041,-39.933296",
     "geom:latitude":-39.933296,
     "geom:longitude":175.051041,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Maria Pl ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":169861799,
-    "wof:lastmodified":1449035946,
+    "wof:lastmodified":1466312028,
     "wof:name":"Club 28",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.051041,-39.933296,175.051041,-39.933296],
+  "bbox": [
+    175.051041,
+    -39.933296,
+    175.051041,
+    -39.933296
+],
   "geometry": {"coordinates":[175.051041,-39.933296],"type":"Point"}
 }

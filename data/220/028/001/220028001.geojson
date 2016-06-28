@@ -2,13 +2,14 @@
   "id": 220028001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.238144,-37.797169,175.238144,-37.797169",
     "geom:latitude":-37.797169,
     "geom:longitude":175.238144,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Whatawhata Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220028001,
-    "wof:lastmodified":1449074486,
+    "wof:lastmodified":1466312032,
     "wof:name":"Cardrona Reception Lounge",
     "wof:parent_id":85781735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.238144,-37.797169,175.238144,-37.797169],
-  "geometry": {"coordinates":[175.238144,-37.797169],"type":"Point"}
+  "bbox": [
+    175.238144,
+    -37.797169,
+    175.238144,
+    -37.797169
+],
+  "geometry": {"coordinates":[175.23814400000001,-37.797169],"type":"Point"}
 }

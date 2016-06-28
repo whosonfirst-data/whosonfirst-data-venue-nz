@@ -2,13 +2,14 @@
   "id": 219787613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.806854,-36.927925,174.806854,-36.927925",
     "geom:latitude":-36.927925,
     "geom:longitude":174.806854,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Angle St Te Papapa ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219787613,
-    "wof:lastmodified":1449071994,
+    "wof:lastmodified":1466312997,
     "wof:name":"A Grade Mobile Mechanical",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mechanic"
     ]
 },
-  "bbox": [174.806854,-36.927925,174.806854,-36.927925],
-  "geometry": {"coordinates":[174.806854,-36.927925],"type":"Point"}
+  "bbox": [
+    174.806854,
+    -36.927925,
+    174.806854,
+    -36.927925
+],
+  "geometry": {"coordinates":[174.80685399999999,-36.927925],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219339519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.62236,-40.370529,175.62236,-40.370529",
     "geom:latitude":-40.370529,
     "geom:longitude":175.62236,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Fitzherbert Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219339519,
-    "wof:lastmodified":1449071973,
+    "wof:lastmodified":1466311258,
     "wof:name":"Harringtons Motor Lodge",
     "wof:parent_id":85780891,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.62236,-40.370529,175.62236,-40.370529],
-  "geometry": {"coordinates":[175.62236,-40.370529],"type":"Point"}
+  "bbox": [
+    175.62236,
+    -40.370529,
+    175.62236,
+    -40.370529
+],
+  "geometry": {"coordinates":[175.62235999999999,-40.370529],"type":"Point"}
 }

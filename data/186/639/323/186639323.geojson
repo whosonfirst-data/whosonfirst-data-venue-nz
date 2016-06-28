@@ -2,13 +2,14 @@
   "id": 186639323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.950348,-39.6077,176.950348,-39.6077",
     "geom:latitude":-39.6077,
     "geom:longitude":176.950348,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Collison Tce Haumoana ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186639323,
-    "wof:lastmodified":1449053013,
+    "wof:lastmodified":1466313016,
     "wof:name":"Head to Toe Enterprise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fitness"
     ]
 },
-  "bbox": [176.950348,-39.6077,176.950348,-39.6077],
-  "geometry": {"coordinates":[176.950348,-39.6077],"type":"Point"}
+  "bbox": [
+    176.950348,
+    -39.6077,
+    176.950348,
+    -39.6077
+],
+  "geometry": {"coordinates":[176.95034799999999,-39.6077],"type":"Point"}
 }

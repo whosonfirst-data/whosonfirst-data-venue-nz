@@ -2,13 +2,14 @@
   "id": 202402603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.978638,-41.15778,174.978638,-41.15778",
     "geom:latitude":-41.15778,
     "geom:longitude":174.978638,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Manor Park Rd Manor Park Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202402603,
-    "wof:lastmodified":1449060930,
+    "wof:lastmodified":1466311081,
     "wof:name":"Manor Park Private Hospital",
     "wof:parent_id":85772953,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.978638,-41.15778,174.978638,-41.15778],
-  "geometry": {"coordinates":[174.978638,-41.15778],"type":"Point"}
+  "bbox": [
+    174.978638,
+    -41.15778,
+    174.978638,
+    -41.15778
+],
+  "geometry": {"coordinates":[174.97863799999999,-41.15778],"type":"Point"}
 }

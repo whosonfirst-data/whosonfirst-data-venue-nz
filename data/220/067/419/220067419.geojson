@@ -2,13 +2,14 @@
   "id": 220067419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.270157,-41.263023,173.270157,-41.263023",
     "geom:latitude":-41.263023,
     "geom:longitude":173.270157,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"258 Wakefield Qy Port Nelson ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220067419,
-    "wof:lastmodified":1449074094,
+    "wof:lastmodified":1466311789,
     "wof:name":"South Pacific Distillery & Bottle Store",
     "wof:parent_id":85773133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "outlet"
     ]
 },
-  "bbox": [173.270157,-41.263023,173.270157,-41.263023],
-  "geometry": {"coordinates":[173.270157,-41.263023],"type":"Point"}
+  "bbox": [
+    173.270157,
+    -41.263023,
+    173.270157,
+    -41.263023
+],
+  "geometry": {"coordinates":[173.27015700000001,-41.263023],"type":"Point"}
 }

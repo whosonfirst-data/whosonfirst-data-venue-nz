@@ -2,13 +2,14 @@
   "id": 202520127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.529007,-43.543304,172.529007,-43.543304",
     "geom:latitude":-43.543304,
     "geom:longitude":172.529007,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"371 Main South Rd Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202520127,
-    "wof:lastmodified":1449060943,
+    "wof:lastmodified":1466310828,
     "wof:name":"Shanks Dr James",
     "wof:parent_id":85772967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "specialists"
     ]
 },
-  "bbox": [172.529007,-43.543304,172.529007,-43.543304],
-  "geometry": {"coordinates":[172.529007,-43.543304],"type":"Point"}
+  "bbox": [
+    172.529007,
+    -43.543304,
+    172.529007,
+    -43.543304
+],
+  "geometry": {"coordinates":[172.52900700000001,-43.543304],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202983843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.888153,-36.897114,174.888153,-36.897114",
     "geom:latitude":-36.897114,
     "geom:longitude":174.888153,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2//133 Glenmore Rd Pakuranga ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202983843,
-    "wof:lastmodified":1449062441,
+    "wof:lastmodified":1466312952,
     "wof:name":"Mike Fife Landscape Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.888153,-36.897114,174.888153,-36.897114],
-  "geometry": {"coordinates":[174.888153,-36.897114],"type":"Point"}
+  "bbox": [
+    174.888153,
+    -36.897114,
+    174.888153,
+    -36.897114
+],
+  "geometry": {"coordinates":[174.88815299999999,-36.897114],"type":"Point"}
 }

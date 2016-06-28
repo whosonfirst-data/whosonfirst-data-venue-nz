@@ -2,13 +2,14 @@
   "id": 202409567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.705368,-40.64315,175.705368,-40.64315",
     "geom:latitude":-40.64315,
     "geom:longitude":175.705368,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bengston St ",
     "sg:city":"Eketahuna",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":202409567,
-    "wof:lastmodified":1449061155,
+    "wof:lastmodified":1466311303,
     "wof:name":"Eketahuna Health Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.705368,-40.64315,175.705368,-40.64315],
-  "geometry": {"coordinates":[175.705368,-40.64315],"type":"Point"}
+  "bbox": [
+    175.705368,
+    -40.64315,
+    175.705368,
+    -40.64315
+],
+  "geometry": {"coordinates":[175.70536799999999,-40.64315],"type":"Point"}
 }

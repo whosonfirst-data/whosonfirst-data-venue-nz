@@ -2,13 +2,14 @@
   "id": 169564611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.497452,-37.271645,175.497452,-37.271645",
     "geom:latitude":-37.271645,
     "geom:longitude":175.497452,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 River Rd ",
     "sg:city":"Ngatea",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169564611,
-    "wof:lastmodified":1449035766,
+    "wof:lastmodified":1466311040,
     "wof:name":"Wilderness Gems Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.497452,-37.271645,175.497452,-37.271645],
-  "geometry": {"coordinates":[175.497452,-37.271645],"type":"Point"}
+  "bbox": [
+    175.497452,
+    -37.271645,
+    175.497452,
+    -37.271645
+],
+  "geometry": {"coordinates":[175.49745200000001,-37.271645],"type":"Point"}
 }

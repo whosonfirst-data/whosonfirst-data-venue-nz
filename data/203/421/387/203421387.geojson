@@ -2,13 +2,14 @@
   "id": 203421387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.744675,-36.714275,174.744675,-36.714275",
     "geom:latitude":-36.714275,
     "geom:longitude":174.744675,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Bute Rd Browns Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203421387,
-    "wof:lastmodified":1449026179,
+    "wof:lastmodified":1466312519,
     "wof:name":"Bays Outboard Boat Centre",
     "wof:parent_id":85772855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.744675,-36.714275,174.744675,-36.714275],
+  "bbox": [
+    174.744675,
+    -36.714275,
+    174.744675,
+    -36.714275
+],
   "geometry": {"coordinates":[174.744675,-36.714275],"type":"Point"}
 }

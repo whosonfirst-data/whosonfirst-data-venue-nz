@@ -2,13 +2,14 @@
   "id": 202735217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.3806,-40.058487,175.3806,-40.058487",
     "geom:latitude":-40.058487,
     "geom:longitude":175.3806,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Tutaenui Rd ",
     "sg:city":"Marton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202735217,
-    "wof:lastmodified":1449062574,
+    "wof:lastmodified":1466312369,
     "wof:name":"Marton Hire Bin Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "home"
     ]
 },
-  "bbox": [175.3806,-40.058487,175.3806,-40.058487],
-  "geometry": {"coordinates":[175.3806,-40.058487],"type":"Point"}
+  "bbox": [
+    175.3806,
+    -40.058487,
+    175.3806,
+    -40.058487
+],
+  "geometry": {"coordinates":[175.38059999999999,-40.058487],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203405593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.993301,-36.881947,174.993301,-36.881947",
     "geom:latitude":-36.881947,
     "geom:longitude":174.993301,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Sunkist Bay Rd Beachlands ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203405593,
-    "wof:lastmodified":1449026699,
+    "wof:lastmodified":1466312659,
     "wof:name":"The Outboard Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.993301,-36.881947,174.993301,-36.881947],
+  "bbox": [
+    174.993301,
+    -36.881947,
+    174.993301,
+    -36.881947
+],
   "geometry": {"coordinates":[174.993301,-36.881947],"type":"Point"}
 }

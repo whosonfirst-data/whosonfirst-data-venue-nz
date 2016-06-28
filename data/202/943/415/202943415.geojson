@@ -2,13 +2,14 @@
   "id": 202943415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.939621,-37.102055,174.939621,-37.102055",
     "geom:latitude":-37.102055,
     "geom:longitude":174.939621,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"169 Bremner Rd Drury ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202943415,
-    "wof:lastmodified":1449060786,
+    "wof:lastmodified":1466312872,
     "wof:name":"Windsor Green Turf Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "turf"
     ]
 },
-  "bbox": [174.939621,-37.102055,174.939621,-37.102055],
-  "geometry": {"coordinates":[174.939621,-37.102055],"type":"Point"}
+  "bbox": [
+    174.939621,
+    -37.102055,
+    174.939621,
+    -37.102055
+],
+  "geometry": {"coordinates":[174.93962099999999,-37.102055],"type":"Point"}
 }

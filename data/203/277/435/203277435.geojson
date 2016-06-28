@@ -2,13 +2,14 @@
   "id": 203277435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.736237,-36.891483,174.736237,-36.891483",
     "geom:latitude":-36.891483,
     "geom:longitude":174.736237,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"529 Sandringham Rd Sandringham ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":203277435,
-    "wof:lastmodified":1449025160,
+    "wof:lastmodified":1466312118,
     "wof:name":"Madina Tailor Made",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.736237,-36.891483,174.736237,-36.891483],
-  "geometry": {"coordinates":[174.736237,-36.891483],"type":"Point"}
+  "bbox": [
+    174.736237,
+    -36.891483,
+    174.736237,
+    -36.891483
+],
+  "geometry": {"coordinates":[174.73623699999999,-36.891483],"type":"Point"}
 }

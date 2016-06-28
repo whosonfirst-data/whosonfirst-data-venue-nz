@@ -2,13 +2,14 @@
   "id": 236055671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.794,-36.618392,174.794,-36.618392",
     "geom:latitude":-36.618392,
     "geom:longitude":174.794,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Trimaran Drive Gulf Harbour",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":236055671,
-    "wof:lastmodified":1449002234,
+    "wof:lastmodified":1466311265,
     "wof:name":"FQGlobal",
     "wof:parent_id":85782539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "personal-purpose"
     ]
 },
-  "bbox": [174.794,-36.618392,174.794,-36.618392],
-  "geometry": {"coordinates":[174.794,-36.618392],"type":"Point"}
+  "bbox": [
+    174.794,
+    -36.618392,
+    174.794,
+    -36.618392
+],
+  "geometry": {"coordinates":[174.79400000000001,-36.618392],"type":"Point"}
 }

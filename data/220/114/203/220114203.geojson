@@ -2,13 +2,14 @@
   "id": 220114203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.679108,-40.943329,175.679108,-40.943329",
     "geom:latitude":-40.943329,
     "geom:longitude":175.679108,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 b First St Landsdowne ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220114203,
-    "wof:lastmodified":1449074373,
+    "wof:lastmodified":1466310725,
     "wof:name":"Kingsmeade Cheese",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [175.679108,-40.943329,175.679108,-40.943329],
-  "geometry": {"coordinates":[175.679108,-40.943329],"type":"Point"}
+  "bbox": [
+    175.679108,
+    -40.943329,
+    175.679108,
+    -40.943329
+],
+  "geometry": {"coordinates":[175.67910800000001,-40.943329],"type":"Point"}
 }

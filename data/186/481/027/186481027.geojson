@@ -2,13 +2,14 @@
   "id": 186481027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.693954,-43.531166,172.693954,-43.531166",
     "geom:latitude":-43.531166,
     "geom:longitude":172.693954,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Taurus Pl Bromley ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186481027,
-    "wof:lastmodified":1449052670,
+    "wof:lastmodified":1466312695,
     "wof:name":"Avon Electric Ltd",
     "wof:parent_id":85772845,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.693954,-43.531166,172.693954,-43.531166],
-  "geometry": {"coordinates":[172.693954,-43.531166],"type":"Point"}
+  "bbox": [
+    172.693954,
+    -43.531166,
+    172.693954,
+    -43.531166
+],
+  "geometry": {"coordinates":[172.69395399999999,-43.531166],"type":"Point"}
 }

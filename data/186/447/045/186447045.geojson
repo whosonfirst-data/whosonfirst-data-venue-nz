@@ -2,13 +2,14 @@
   "id": 186447045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.843811,-36.924648,174.843811,-36.924648",
     "geom:latitude":-36.924648,
     "geom:longitude":174.843811,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Carmont Pl Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186447045,
-    "wof:lastmodified":1449052248,
+    "wof:lastmodified":1466312528,
     "wof:name":"Kooline Refrigeration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.843811,-36.924648,174.843811,-36.924648],
-  "geometry": {"coordinates":[174.843811,-36.924648],"type":"Point"}
+  "bbox": [
+    174.843811,
+    -36.924648,
+    174.843811,
+    -36.924648
+],
+  "geometry": {"coordinates":[174.84381099999999,-36.924648],"type":"Point"}
 }

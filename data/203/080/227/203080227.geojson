@@ -2,13 +2,14 @@
   "id": 203080227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.587189,-43.530663,172.587189,-43.530663",
     "geom:latitude":-43.530663,
     "geom:longitude":172.587189,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"230 Riccarton Rd Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203080227,
-    "wof:lastmodified":1449026828,
+    "wof:lastmodified":1466311808,
     "wof:name":"Pioneer Pool & Building",
     "wof:parent_id":85778569,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "spa"
     ]
 },
-  "bbox": [172.587189,-43.530663,172.587189,-43.530663],
+  "bbox": [
+    172.587189,
+    -43.530663,
+    172.587189,
+    -43.530663
+],
   "geometry": {"coordinates":[172.587189,-43.530663],"type":"Point"}
 }

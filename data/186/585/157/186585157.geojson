@@ -2,13 +2,14 @@
   "id": 186585157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.671799,-43.532452,172.671799,-43.532452",
     "geom:latitude":-43.532452,
     "geom:longitude":172.671799,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"211 Linwood Ave Linwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186585157,
-    "wof:lastmodified":1449052154,
+    "wof:lastmodified":1466312945,
     "wof:name":"Brown Ross A",
     "wof:parent_id":85781505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.671799,-43.532452,172.671799,-43.532452],
-  "geometry": {"coordinates":[172.671799,-43.532452],"type":"Point"}
+  "bbox": [
+    172.671799,
+    -43.532452,
+    172.671799,
+    -43.532452
+],
+  "geometry": {"coordinates":[172.67179899999999,-43.532452],"type":"Point"}
 }

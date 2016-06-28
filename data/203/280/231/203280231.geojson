@@ -2,13 +2,14 @@
   "id": 203280231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.326462,-35.68576,174.326462,-35.68576",
     "geom:latitude":-35.68576,
     "geom:longitude":174.326462,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Paramount Plz Tikipunga ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203280231,
-    "wof:lastmodified":1449025856,
+    "wof:lastmodified":1466312032,
     "wof:name":"Just Fashions",
     "wof:parent_id":85781183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.326462,-35.68576,174.326462,-35.68576],
-  "geometry": {"coordinates":[174.326462,-35.68576],"type":"Point"}
+  "bbox": [
+    174.326462,
+    -35.68576,
+    174.326462,
+    -35.68576
+],
+  "geometry": {"coordinates":[174.32646199999999,-35.68576],"type":"Point"}
 }

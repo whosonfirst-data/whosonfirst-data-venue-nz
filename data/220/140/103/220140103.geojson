@@ -2,13 +2,14 @@
   "id": 220140103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.837631,-36.936436,174.837631,-36.936436",
     "geom:latitude":-36.936436,
     "geom:longitude":174.837631,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Pukeiti Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220140103,
-    "wof:lastmodified":1449074144,
+    "wof:lastmodified":1466310978,
     "wof:name":"Raw Energy Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [174.837631,-36.936436,174.837631,-36.936436],
-  "geometry": {"coordinates":[174.837631,-36.936436],"type":"Point"}
+  "bbox": [
+    174.837631,
+    -36.936436,
+    174.837631,
+    -36.936436
+],
+  "geometry": {"coordinates":[174.83763099999999,-36.936436],"type":"Point"}
 }

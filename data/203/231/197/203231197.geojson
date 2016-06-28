@@ -2,13 +2,14 @@
   "id": 203231197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.273773,-40.61618,175.273773,-40.61618",
     "geom:latitude":-40.61618,
     "geom:longitude":175.273773,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Queen St ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203231197,
-    "wof:lastmodified":1449025901,
+    "wof:lastmodified":1466311657,
     "wof:name":"Mika New Zealand",
     "wof:parent_id":85782865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [175.273773,-40.61618,175.273773,-40.61618],
-  "geometry": {"coordinates":[175.273773,-40.61618],"type":"Point"}
+  "bbox": [
+    175.273773,
+    -40.61618,
+    175.273773,
+    -40.61618
+],
+  "geometry": {"coordinates":[175.27377300000001,-40.61618],"type":"Point"}
 }

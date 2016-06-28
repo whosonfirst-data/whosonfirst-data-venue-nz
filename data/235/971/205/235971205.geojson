@@ -2,13 +2,14 @@
   "id": 235971205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.778259,-36.851585,174.778259,-36.851585",
     "geom:latitude":-36.851585,
     "geom:longitude":174.778259,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Parnell Rd Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235971205,
-    "wof:lastmodified":1449008428,
+    "wof:lastmodified":1466311240,
     "wof:name":"York Street Bar",
     "wof:parent_id":85782027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "brasserie"
     ]
 },
-  "bbox": [174.778259,-36.851585,174.778259,-36.851585],
-  "geometry": {"coordinates":[174.778259,-36.851585],"type":"Point"}
+  "bbox": [
+    174.778259,
+    -36.851585,
+    174.778259,
+    -36.851585
+],
+  "geometry": {"coordinates":[174.77825899999999,-36.851585],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220018255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.777725,-41.273907,174.777725,-41.273907",
     "geom:latitude":-41.273907,
     "geom:longitude":174.777725,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"109-111 Molesworth St Thorndon ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220018255,
-    "wof:lastmodified":1449074440,
+    "wof:lastmodified":1466311006,
     "wof:name":"Money Concepts",
     "wof:parent_id":85778683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "finance"
     ]
 },
-  "bbox": [174.777725,-41.273907,174.777725,-41.273907],
+  "bbox": [
+    174.777725,
+    -41.273907,
+    174.777725,
+    -41.273907
+],
   "geometry": {"coordinates":[174.777725,-41.273907],"type":"Point"}
 }

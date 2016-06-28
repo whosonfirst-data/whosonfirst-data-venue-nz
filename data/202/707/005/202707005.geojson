@@ -2,13 +2,14 @@
   "id": 202707005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.718369,-36.856964,174.718369,-36.856964",
     "geom:latitude":-36.856964,
     "geom:longitude":174.718369,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Meola Rd Westmere ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202707005,
-    "wof:lastmodified":1449062264,
+    "wof:lastmodified":1466312150,
     "wof:name":"Jewel the Fairy",
     "wof:parent_id":85778735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.718369,-36.856964,174.718369,-36.856964],
+  "bbox": [
+    174.718369,
+    -36.856964,
+    174.718369,
+    -36.856964
+],
   "geometry": {"coordinates":[174.718369,-36.856964],"type":"Point"}
 }

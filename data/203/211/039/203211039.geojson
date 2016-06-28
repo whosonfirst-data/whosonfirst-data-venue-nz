@@ -2,13 +2,14 @@
   "id": 203211039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.784805,-36.917255,174.784805,-36.917255",
     "geom:latitude":-36.917255,
     "geom:longitude":174.784805,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"343 Onehunga Mall Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203211039,
-    "wof:lastmodified":1449025385,
+    "wof:lastmodified":1466311469,
     "wof:name":"Combined Presbyterian Church Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fabric"
     ]
 },
-  "bbox": [174.784805,-36.917255,174.784805,-36.917255],
-  "geometry": {"coordinates":[174.784805,-36.917255],"type":"Point"}
+  "bbox": [
+    174.784805,
+    -36.917255,
+    174.784805,
+    -36.917255
+],
+  "geometry": {"coordinates":[174.78480500000001,-36.917255],"type":"Point"}
 }

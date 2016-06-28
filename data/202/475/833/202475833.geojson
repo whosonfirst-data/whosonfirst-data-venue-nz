@@ -2,13 +2,14 @@
   "id": 202475833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.050018,-39.931866,175.050018,-39.931866",
     "geom:latitude":-39.931866,
     "geom:longitude":175.050018,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202475833,
-    "wof:lastmodified":1449061165,
+    "wof:lastmodified":1466311944,
     "wof:name":"Bryce Esquilant Unichem Pharmacy",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.050018,-39.931866,175.050018,-39.931866],
-  "geometry": {"coordinates":[175.050018,-39.931866],"type":"Point"}
+  "bbox": [
+    175.050018,
+    -39.931866,
+    175.050018,
+    -39.931866
+],
+  "geometry": {"coordinates":[175.05001799999999,-39.931866],"type":"Point"}
 }

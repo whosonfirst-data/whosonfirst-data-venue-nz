@@ -2,13 +2,14 @@
   "id": 220120149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.365402,-46.397247,168.365402,-46.397247",
     "geom:latitude":-46.397247,
     "geom:longitude":168.365402,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Windsor St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220120149,
-    "wof:lastmodified":1449074755,
+    "wof:lastmodified":1466310785,
     "wof:name":"The Seriously Good Chocolate Company Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [168.365402,-46.397247,168.365402,-46.397247],
-  "geometry": {"coordinates":[168.365402,-46.397247],"type":"Point"}
+  "bbox": [
+    168.365402,
+    -46.397247,
+    168.365402,
+    -46.397247
+],
+  "geometry": {"coordinates":[168.36540199999999,-46.397247],"type":"Point"}
 }

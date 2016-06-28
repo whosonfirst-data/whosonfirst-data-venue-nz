@@ -2,13 +2,14 @@
   "id": 186429373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.702011,-36.743568,174.702011,-36.743568",
     "geom:latitude":-36.743568,
     "geom:longitude":174.702011,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2 14 Airborne Rd Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186429373,
-    "wof:lastmodified":1449052895,
+    "wof:lastmodified":1466312596,
     "wof:name":"Magne-Sleep",
     "wof:parent_id":85772825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.702011,-36.743568,174.702011,-36.743568],
+  "bbox": [
+    174.702011,
+    -36.743568,
+    174.702011,
+    -36.743568
+],
   "geometry": {"coordinates":[174.702011,-36.743568],"type":"Point"}
 }

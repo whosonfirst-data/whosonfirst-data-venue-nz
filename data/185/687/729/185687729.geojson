@@ -2,13 +2,14 @@
   "id": 185687729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.452835,-35.821381,174.452835,-35.821381",
     "geom:latitude":-35.821381,
     "geom:longitude":174.452835,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Shearwater St One Tree ",
     "sg:city":"Point",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":185687729,
-    "wof:lastmodified":1449007057,
+    "wof:lastmodified":1466311936,
     "wof:name":"Murray Sargeant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.452835,-35.821381,174.452835,-35.821381],
-  "geometry": {"coordinates":[174.452835,-35.821381],"type":"Point"}
+  "bbox": [
+    174.452835,
+    -35.821381,
+    174.452835,
+    -35.821381
+],
+  "geometry": {"coordinates":[174.45283499999999,-35.821381],"type":"Point"}
 }

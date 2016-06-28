@@ -2,13 +2,14 @@
   "id": 219667265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.731277,-36.882317,174.731277,-36.882317",
     "geom:latitude":-36.882317,
     "geom:longitude":174.731277,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 St Lukes Rd ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219667265,
-    "wof:lastmodified":1449072689,
+    "wof:lastmodified":1466312738,
     "wof:name":"St Lukes Tyre Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.731277,-36.882317,174.731277,-36.882317],
-  "geometry": {"coordinates":[174.731277,-36.882317],"type":"Point"}
+  "bbox": [
+    174.731277,
+    -36.882317,
+    174.731277,
+    -36.882317
+],
+  "geometry": {"coordinates":[174.73127700000001,-36.882317],"type":"Point"}
 }

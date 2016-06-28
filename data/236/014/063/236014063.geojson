@@ -2,13 +2,14 @@
   "id": 236014063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.982071,-37.961243,176.982071,-37.961243",
     "geom:latitude":-37.961243,
     "geom:longitude":176.982071,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"64 King St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236014063,
-    "wof:lastmodified":1449003231,
+    "wof:lastmodified":1466310871,
     "wof:name":"Freds Fish & Chips",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "takeaway"
     ]
 },
-  "bbox": [176.982071,-37.961243,176.982071,-37.961243],
-  "geometry": {"coordinates":[176.982071,-37.961243],"type":"Point"}
+  "bbox": [
+    176.982071,
+    -37.961243,
+    176.982071,
+    -37.961243
+],
+  "geometry": {"coordinates":[176.98207099999999,-37.961243],"type":"Point"}
 }

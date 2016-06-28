@@ -2,13 +2,14 @@
   "id": 202647957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.238144,-37.797169,175.238144,-37.797169",
     "geom:latitude":-37.797169,
     "geom:longitude":175.238144,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Whatawhata Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202647957,
-    "wof:lastmodified":1449061328,
+    "wof:lastmodified":1466311909,
     "wof:name":"Advanced Solid Plasterers",
     "wof:parent_id":85781735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "plasterer"
     ]
 },
-  "bbox": [175.238144,-37.797169,175.238144,-37.797169],
-  "geometry": {"coordinates":[175.238144,-37.797169],"type":"Point"}
+  "bbox": [
+    175.238144,
+    -37.797169,
+    175.238144,
+    -37.797169
+],
+  "geometry": {"coordinates":[175.23814400000001,-37.797169],"type":"Point"}
 }

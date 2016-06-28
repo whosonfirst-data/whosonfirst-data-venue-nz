@@ -2,13 +2,14 @@
   "id": 185945109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.899155,-36.935314,174.899155,-36.935314",
     "geom:latitude":-36.935314,
     "geom:longitude":174.899155,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1/17 Greenmount Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185945109,
-    "wof:lastmodified":1449006741,
+    "wof:lastmodified":1466312213,
     "wof:name":"Hardwood Technology Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "facility"
     ]
 },
-  "bbox": [174.899155,-36.935314,174.899155,-36.935314],
-  "geometry": {"coordinates":[174.899155,-36.935314],"type":"Point"}
+  "bbox": [
+    174.899155,
+    -36.935314,
+    174.899155,
+    -36.935314
+],
+  "geometry": {"coordinates":[174.89915500000001,-36.935314],"type":"Point"}
 }

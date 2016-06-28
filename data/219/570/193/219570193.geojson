@@ -2,13 +2,14 @@
   "id": 219570193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.602905,-40.355251,175.602905,-40.355251",
     "geom:latitude":-40.355251,
     "geom:longitude":175.602905,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Waldegrave St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219570193,
-    "wof:lastmodified":1449072478,
+    "wof:lastmodified":1466312601,
     "wof:name":"Carisma Auto Groomers",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "automotive"
     ]
 },
-  "bbox": [175.602905,-40.355251,175.602905,-40.355251],
-  "geometry": {"coordinates":[175.602905,-40.355251],"type":"Point"}
+  "bbox": [
+    175.602905,
+    -40.355251,
+    175.602905,
+    -40.355251
+],
+  "geometry": {"coordinates":[175.60290499999999,-40.355251],"type":"Point"}
 }

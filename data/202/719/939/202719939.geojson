@@ -2,13 +2,14 @@
   "id": 202719939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.363251,-46.402122,168.363251,-46.402122",
     "geom:latitude":-46.402122,
     "geom:longitude":168.363251,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Melbourne St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202719939,
-    "wof:lastmodified":1449060432,
+    "wof:lastmodified":1466312208,
     "wof:name":"Envirovac Carpet Cleaning Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "furniture"
     ]
 },
-  "bbox": [168.363251,-46.402122,168.363251,-46.402122],
-  "geometry": {"coordinates":[168.363251,-46.402122],"type":"Point"}
+  "bbox": [
+    168.363251,
+    -46.402122,
+    168.363251,
+    -46.402122
+],
+  "geometry": {"coordinates":[168.36325099999999,-46.402122],"type":"Point"}
 }

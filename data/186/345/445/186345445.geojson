@@ -2,13 +2,14 @@
   "id": 186345445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.682587,-43.559269,172.682587,-43.559269",
     "geom:latitude":-43.559269,
     "geom:longitude":172.682587,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Bamford St Woolston ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186345445,
-    "wof:lastmodified":1449052812,
+    "wof:lastmodified":1466312239,
     "wof:name":"Advanced Engineering Group Ltd",
     "wof:parent_id":85773353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "equipment"
     ]
 },
-  "bbox": [172.682587,-43.559269,172.682587,-43.559269],
-  "geometry": {"coordinates":[172.682587,-43.559269],"type":"Point"}
+  "bbox": [
+    172.682587,
+    -43.559269,
+    172.682587,
+    -43.559269
+],
+  "geometry": {"coordinates":[172.68258700000001,-43.559269],"type":"Point"}
 }

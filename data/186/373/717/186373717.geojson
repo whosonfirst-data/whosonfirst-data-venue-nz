@@ -2,13 +2,14 @@
   "id": 186373717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.851273,-36.920918,174.851273,-36.920918",
     "geom:latitude":-36.920918,
     "geom:longitude":174.851273,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Gabador Pl Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186373717,
-    "wof:lastmodified":1449051755,
+    "wof:lastmodified":1466312423,
     "wof:name":"Frederick Duffield (NZ) Ltd",
     "wof:parent_id":85773109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.851273,-36.920918,174.851273,-36.920918],
-  "geometry": {"coordinates":[174.851273,-36.920918],"type":"Point"}
+  "bbox": [
+    174.851273,
+    -36.920918,
+    174.851273,
+    -36.920918
+],
+  "geometry": {"coordinates":[174.85127299999999,-36.920918],"type":"Point"}
 }

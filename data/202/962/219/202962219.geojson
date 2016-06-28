@@ -2,13 +2,14 @@
   "id": 202962219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.229996,-38.159447,176.229996,-38.159447",
     "geom:latitude":-38.159447,
     "geom:longitude":176.229996,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Springfield Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202962219,
-    "wof:lastmodified":1449061608,
+    "wof:lastmodified":1466312830,
     "wof:name":"Alice de Nys",
     "wof:parent_id":85781701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.229996,-38.159447,176.229996,-38.159447],
+  "bbox": [
+    176.229996,
+    -38.159447,
+    176.229996,
+    -38.159447
+],
   "geometry": {"coordinates":[176.229996,-38.159447],"type":"Point"}
 }

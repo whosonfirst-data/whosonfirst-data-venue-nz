@@ -2,13 +2,14 @@
   "id": 220007951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.317017,-35.730049,174.317017,-35.730049",
     "geom:latitude":-35.730049,
     "geom:longitude":174.317017,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Porowinni Ave ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220007951,
-    "wof:lastmodified":1449074719,
+    "wof:lastmodified":1466310752,
     "wof:name":"Easy Loans",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "personal"
     ]
 },
-  "bbox": [174.317017,-35.730049,174.317017,-35.730049],
-  "geometry": {"coordinates":[174.317017,-35.730049],"type":"Point"}
+  "bbox": [
+    174.317017,
+    -35.730049,
+    174.317017,
+    -35.730049
+],
+  "geometry": {"coordinates":[174.31701699999999,-35.730049],"type":"Point"}
 }

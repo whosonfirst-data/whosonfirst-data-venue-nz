@@ -2,13 +2,14 @@
   "id": 169550221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.03241,40.453693,-79.03241,40.453693",
     "geom:latitude":40.453693,
     "geom:longitude":-79.03241,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 13876 ",
     "sg:city":"Armagh",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169550221,
-    "wof:lastmodified":1449034475,
+    "wof:lastmodified":1466310800,
     "wof:name":"NZPPF",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.03241,40.453693,-79.03241,40.453693],
+  "bbox": [
+    -79.03241,
+    40.453693,
+    -79.03241,
+    40.453693
+],
   "geometry": {"coordinates":[-79.03241,40.453693],"type":"Point"}
 }

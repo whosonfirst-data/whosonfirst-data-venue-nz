@@ -2,13 +2,14 @@
   "id": 235945239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.394333,-46.411251,168.394333,-46.411251",
     "geom:latitude":-46.411251,
     "geom:longitude":168.394333,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Otepuni Ave ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235945239,
-    "wof:lastmodified":1449008307,
+    "wof:lastmodified":1466310861,
     "wof:name":"Back Country Foods Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "freeze"
     ]
 },
-  "bbox": [168.394333,-46.411251,168.394333,-46.411251],
-  "geometry": {"coordinates":[168.394333,-46.411251],"type":"Point"}
+  "bbox": [
+    168.394333,
+    -46.411251,
+    168.394333,
+    -46.411251
+],
+  "geometry": {"coordinates":[168.39433299999999,-46.411251],"type":"Point"}
 }

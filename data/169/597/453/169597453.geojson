@@ -2,13 +2,14 @@
   "id": 169597453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-105.009666,40.841331,-105.009666,40.841331",
     "geom:latitude":40.841331,
     "geom:longitude":-105.009666,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Press Hse 82 Willis St ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":169597453,
-    "wof:lastmodified":1449035924,
+    "wof:lastmodified":1466311609,
     "wof:name":"Wellington Newspapers Limited",
     "wof:parent_id":85821491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-105.009666,40.841331,-105.009666,40.841331],
+  "bbox": [
+    -105.009666,
+    40.841331,
+    -105.009666,
+    40.841331
+],
   "geometry": {"coordinates":[-105.009666,40.841331],"type":"Point"}
 }

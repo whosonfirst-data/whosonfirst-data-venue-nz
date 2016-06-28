@@ -2,13 +2,14 @@
   "id": 219960239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.783234,-37.81374,175.783234,-37.81374",
     "geom:latitude":-37.81374,
     "geom:longitude":175.783234,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Mangawhero Rd ",
     "sg:city":"Matamata",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219960239,
-    "wof:lastmodified":1449072938,
+    "wof:lastmodified":1466313169,
     "wof:name":"Garage World Waikato",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.783234,-37.81374,175.783234,-37.81374],
-  "geometry": {"coordinates":[175.783234,-37.81374],"type":"Point"}
+  "bbox": [
+    175.783234,
+    -37.81374,
+    175.783234,
+    -37.81374
+],
+  "geometry": {"coordinates":[175.78323399999999,-37.81374],"type":"Point"}
 }

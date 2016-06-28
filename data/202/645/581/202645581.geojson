@@ -2,13 +2,14 @@
   "id": 202645581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.158081,-37.708698,176.158081,-37.708698",
     "geom:latitude":-37.708698,
     "geom:longitude":176.158081,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Sixteenth Ave ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202645581,
-    "wof:lastmodified":1449060369,
+    "wof:lastmodified":1466311888,
     "wof:name":"Tauranga Energy Services",
     "wof:parent_id":85782817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [176.158081,-37.708698,176.158081,-37.708698],
-  "geometry": {"coordinates":[176.158081,-37.708698],"type":"Point"}
+  "bbox": [
+    176.158081,
+    -37.708698,
+    176.158081,
+    -37.708698
+],
+  "geometry": {"coordinates":[176.15808100000001,-37.708698],"type":"Point"}
 }

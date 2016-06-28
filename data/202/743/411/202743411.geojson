@@ -2,13 +2,14 @@
   "id": 202743411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.726028,-43.627613,172.726028,-43.627613",
     "geom:latitude":-43.627613,
     "geom:longitude":172.726028,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Ranui Cre Diamond ",
     "sg:city":"Harbour",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202743411,
-    "wof:lastmodified":1449062626,
+    "wof:lastmodified":1466312298,
     "wof:name":"Diamond Harbour Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [172.726028,-43.627613,172.726028,-43.627613],
-  "geometry": {"coordinates":[172.726028,-43.627613],"type":"Point"}
+  "bbox": [
+    172.726028,
+    -43.627613,
+    172.726028,
+    -43.627613
+],
+  "geometry": {"coordinates":[172.72602800000001,-43.627613],"type":"Point"}
 }

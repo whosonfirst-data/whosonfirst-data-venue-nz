@@ -2,13 +2,14 @@
   "id": 236011961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.325943,-38.01038,175.325943,-38.01038",
     "geom:latitude":-38.01038,
     "geom:longitude":175.325943,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"235/7 Sloane St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236011961,
-    "wof:lastmodified":1449004524,
+    "wof:lastmodified":1466310824,
     "wof:name":"Daddio's Te Awamutu",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "takeaway"
     ]
 },
-  "bbox": [175.325943,-38.01038,175.325943,-38.01038],
+  "bbox": [
+    175.325943,
+    -38.01038,
+    175.325943,
+    -38.01038
+],
   "geometry": {"coordinates":[175.325943,-38.01038],"type":"Point"}
 }

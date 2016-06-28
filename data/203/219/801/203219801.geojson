@@ -2,13 +2,14 @@
   "id": 203219801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.251038,-37.731438,175.251038,-37.731438",
     "geom:latitude":-37.731438,
     "geom:longitude":175.251038,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Achilles Rse Flagstaff ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203219801,
-    "wof:lastmodified":1449026797,
+    "wof:lastmodified":1466311549,
     "wof:name":"Clothes on the Road",
     "wof:parent_id":85780897,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.251038,-37.731438,175.251038,-37.731438],
-  "geometry": {"coordinates":[175.251038,-37.731438],"type":"Point"}
+  "bbox": [
+    175.251038,
+    -37.731438,
+    175.251038,
+    -37.731438
+],
+  "geometry": {"coordinates":[175.25103799999999,-37.731438],"type":"Point"}
 }

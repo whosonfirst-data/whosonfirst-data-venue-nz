@@ -2,13 +2,14 @@
   "id": 185980355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.786469,-36.928356,174.786469,-36.928356",
     "geom:latitude":-36.928356,
     "geom:longitude":174.786469,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"75 C Onehunga Mall Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":185980355,
-    "wof:lastmodified":1449006711,
+    "wof:lastmodified":1466312243,
     "wof:name":"Aqua Tech Industries Ltd",
     "wof:parent_id":85778861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "storage"
     ]
 },
-  "bbox": [174.786469,-36.928356,174.786469,-36.928356],
-  "geometry": {"coordinates":[174.786469,-36.928356],"type":"Point"}
+  "bbox": [
+    174.786469,
+    -36.928356,
+    174.786469,
+    -36.928356
+],
+  "geometry": {"coordinates":[174.78646900000001,-36.928356],"type":"Point"}
 }

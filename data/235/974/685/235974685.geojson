@@ -2,13 +2,14 @@
   "id": 235974685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.778534,-41.280636,174.778534,-41.280636",
     "geom:latitude":-41.280636,
     "geom:longitude":174.778534,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Featherston St ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235974685,
-    "wof:lastmodified":1449008559,
+    "wof:lastmodified":1466311357,
     "wof:name":"Caffe Alfresco",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cafe"
     ]
 },
-  "bbox": [174.778534,-41.280636,174.778534,-41.280636],
-  "geometry": {"coordinates":[174.778534,-41.280636],"type":"Point"}
+  "bbox": [
+    174.778534,
+    -41.280636,
+    174.778534,
+    -41.280636
+],
+  "geometry": {"coordinates":[174.77853400000001,-41.280636],"type":"Point"}
 }

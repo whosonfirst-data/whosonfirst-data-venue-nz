@@ -2,13 +2,14 @@
   "id": 185964591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.677612,-36.623249,174.677612,-36.623249",
     "geom:latitude":-36.623249,
     "geom:longitude":174.677612,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Anvil Rd Silverdale Hibiscus ",
     "sg:city":"Hibiscus Coast",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":185964591,
-    "wof:lastmodified":1449007823,
+    "wof:lastmodified":1466312179,
     "wof:name":"Sisac Public Storage",
     "wof:parent_id":85773185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.677612,-36.623249,174.677612,-36.623249],
-  "geometry": {"coordinates":[174.677612,-36.623249],"type":"Point"}
+  "bbox": [
+    174.677612,
+    -36.623249,
+    174.677612,
+    -36.623249
+],
+  "geometry": {"coordinates":[174.67761200000001,-36.623249],"type":"Point"}
 }

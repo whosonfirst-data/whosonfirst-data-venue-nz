@@ -2,13 +2,14 @@
   "id": 219449163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.773758,-36.867878,174.773758,-36.867878",
     "geom:latitude":-36.867878,
     "geom:longitude":174.773758,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 99781 Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":219449163,
-    "wof:lastmodified":1449073653,
+    "wof:lastmodified":1466312044,
     "wof:name":"A 2 Z Data Limited",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.773758,-36.867878,174.773758,-36.867878],
-  "geometry": {"coordinates":[174.773758,-36.867878],"type":"Point"}
+  "bbox": [
+    174.773758,
+    -36.867878,
+    174.773758,
+    -36.867878
+],
+  "geometry": {"coordinates":[174.77375799999999,-36.867878],"type":"Point"}
 }

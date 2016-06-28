@@ -2,13 +2,14 @@
   "id": 220193927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.672882,-43.533173,172.672882,-43.533173",
     "geom:latitude":-43.533173,
     "geom:longitude":172.672882,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Linwood Ave Linwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220193927,
-    "wof:lastmodified":1449074170,
+    "wof:lastmodified":1466311419,
     "wof:name":"Oderings Butchery",
     "wof:parent_id":85781505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.672882,-43.533173,172.672882,-43.533173],
-  "geometry": {"coordinates":[172.672882,-43.533173],"type":"Point"}
+  "bbox": [
+    172.672882,
+    -43.533173,
+    172.672882,
+    -43.533173
+],
+  "geometry": {"coordinates":[172.67288199999999,-43.533173],"type":"Point"}
 }

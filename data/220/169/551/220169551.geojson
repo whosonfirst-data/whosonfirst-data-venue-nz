@@ -2,13 +2,14 @@
   "id": 220169551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.749603,-40.29871,175.749603,-40.29871",
     "geom:latitude":-40.29871,
     "geom:longitude":175.749603,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1346 Napier Rd ",
     "sg:city":"Ashhurst",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220169551,
-    "wof:lastmodified":1449074530,
+    "wof:lastmodified":1466311223,
     "wof:name":"Riverside Orchard & Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "veges"
     ]
 },
-  "bbox": [175.749603,-40.29871,175.749603,-40.29871],
-  "geometry": {"coordinates":[175.749603,-40.29871],"type":"Point"}
+  "bbox": [
+    175.749603,
+    -40.29871,
+    175.749603,
+    -40.29871
+],
+  "geometry": {"coordinates":[175.74960300000001,-40.29871],"type":"Point"}
 }

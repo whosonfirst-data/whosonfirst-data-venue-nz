@@ -2,13 +2,14 @@
   "id": 185735175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.139267,-40.752445,175.139267,-40.752445",
     "geom:latitude":-40.752445,
     "geom:longitude":175.139267,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Main St ",
     "sg:city":"Otaki",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185735175,
-    "wof:lastmodified":1449008152,
+    "wof:lastmodified":1466310800,
     "wof:name":"Otaki Video Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "entertainment"
     ]
 },
-  "bbox": [175.139267,-40.752445,175.139267,-40.752445],
-  "geometry": {"coordinates":[175.139267,-40.752445],"type":"Point"}
+  "bbox": [
+    175.139267,
+    -40.752445,
+    175.139267,
+    -40.752445
+],
+  "geometry": {"coordinates":[175.13926699999999,-40.752445],"type":"Point"}
 }

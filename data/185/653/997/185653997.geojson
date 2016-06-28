@@ -2,13 +2,14 @@
   "id": 185653997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.645355,-43.545166,172.645355,-43.545166",
     "geom:latitude":-43.545166,
     "geom:longitude":172.645355,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 C Brisbane St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185653997,
-    "wof:lastmodified":1449006722,
+    "wof:lastmodified":1466311531,
     "wof:name":"The LightSite Ltd",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "leisure"
     ]
 },
-  "bbox": [172.645355,-43.545166,172.645355,-43.545166],
+  "bbox": [
+    172.645355,
+    -43.545166,
+    172.645355,
+    -43.545166
+],
   "geometry": {"coordinates":[172.645355,-43.545166],"type":"Point"}
 }

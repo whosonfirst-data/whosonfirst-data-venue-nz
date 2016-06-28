@@ -2,13 +2,14 @@
   "id": 220013619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.785141,-36.911678,174.785141,-36.911678",
     "geom:latitude":-36.911678,
     "geom:longitude":174.785141,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Huapai St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220013619,
-    "wof:lastmodified":1449074597,
+    "wof:lastmodified":1466310933,
     "wof:name":"House Of Mortgages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [174.785141,-36.911678,174.785141,-36.911678],
-  "geometry": {"coordinates":[174.785141,-36.911678],"type":"Point"}
+  "bbox": [
+    174.785141,
+    -36.911678,
+    174.785141,
+    -36.911678
+],
+  "geometry": {"coordinates":[174.78514100000001,-36.911678],"type":"Point"}
 }

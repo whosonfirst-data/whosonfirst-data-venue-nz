@@ -2,13 +2,14 @@
   "id": 220127403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.876663,-36.997929,174.876663,-36.997929",
     "geom:latitude":-36.997929,
     "geom:longitude":174.876663,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Wiri Station Rd Manukau City ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220127403,
-    "wof:lastmodified":1449074814,
+    "wof:lastmodified":1466310851,
     "wof:name":"Bluebird Foods",
     "wof:parent_id":85773349,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [174.876663,-36.997929,174.876663,-36.997929],
-  "geometry": {"coordinates":[174.876663,-36.997929],"type":"Point"}
+  "bbox": [
+    174.876663,
+    -36.997929,
+    174.876663,
+    -36.997929
+],
+  "geometry": {"coordinates":[174.87666300000001,-36.997929],"type":"Point"}
 }

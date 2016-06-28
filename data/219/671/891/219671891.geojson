@@ -2,13 +2,14 @@
   "id": 219671891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.345779,-46.408916,168.345779,-46.408916",
     "geom:latitude":-46.408916,
     "geom:longitude":168.345779,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Leven St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219671891,
-    "wof:lastmodified":1449071207,
+    "wof:lastmodified":1466312745,
     "wof:name":"Everett Glass",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.345779,-46.408916,168.345779,-46.408916],
-  "geometry": {"coordinates":[168.345779,-46.408916],"type":"Point"}
+  "bbox": [
+    168.345779,
+    -46.408916,
+    168.345779,
+    -46.408916
+],
+  "geometry": {"coordinates":[168.34577899999999,-46.408916],"type":"Point"}
 }

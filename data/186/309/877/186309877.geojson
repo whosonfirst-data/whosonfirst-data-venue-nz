@@ -2,13 +2,14 @@
   "id": 186309877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.636826,-40.332092,175.636826,-40.332092",
     "geom:latitude":-40.332092,
     "geom:longitude":175.636826,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Keith St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186309877,
-    "wof:lastmodified":1449050991,
+    "wof:lastmodified":1466312107,
     "wof:name":"Wrightmetals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.636826,-40.332092,175.636826,-40.332092],
-  "geometry": {"coordinates":[175.636826,-40.332092],"type":"Point"}
+  "bbox": [
+    175.636826,
+    -40.332092,
+    175.636826,
+    -40.332092
+],
+  "geometry": {"coordinates":[175.63682600000001,-40.332092],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185598077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.051743,-39.931915,175.051743,-39.931915",
     "geom:latitude":-39.931915,
     "geom:longitude":175.051743,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Watt St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185598077,
-    "wof:lastmodified":1449006663,
+    "wof:lastmodified":1466310522,
     "wof:name":"Whanganui Regional Museum",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.051743,-39.931915,175.051743,-39.931915],
-  "geometry": {"coordinates":[175.051743,-39.931915],"type":"Point"}
+  "bbox": [
+    175.051743,
+    -39.931915,
+    175.051743,
+    -39.931915
+],
+  "geometry": {"coordinates":[175.05174299999999,-39.931915],"type":"Point"}
 }

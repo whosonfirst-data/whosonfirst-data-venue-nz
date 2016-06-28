@@ -2,13 +2,14 @@
   "id": 186594303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.798775,43.19471,-79.798775,43.19471",
     "geom:latitude":43.19471,
     "geom:longitude":-79.798775,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Pembroke St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186594303,
-    "wof:lastmodified":1449050724,
+    "wof:lastmodified":1466312957,
     "wof:name":"The Pembroke Practice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-79.798775,43.19471,-79.798775,43.19471],
-  "geometry": {"coordinates":[-79.798775,43.19471],"type":"Point"}
+  "bbox": [
+    -79.798775,
+    43.19471,
+    -79.798775,
+    43.19471
+],
+  "geometry": {"coordinates":[-79.79877500000001,43.19471],"type":"Point"}
 }

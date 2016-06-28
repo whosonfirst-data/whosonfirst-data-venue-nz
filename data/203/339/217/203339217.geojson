@@ -2,13 +2,14 @@
   "id": 203339217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.895142,-36.946716,174.895142,-36.946716",
     "geom:latitude":-36.946716,
     "geom:longitude":174.895142,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1 29 Sir William Ave East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203339217,
-    "wof:lastmodified":1449025762,
+    "wof:lastmodified":1466312362,
     "wof:name":"Sliderite Manufacturing Ltd",
     "wof:parent_id":85778267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.895142,-36.946716,174.895142,-36.946716],
-  "geometry": {"coordinates":[174.895142,-36.946716],"type":"Point"}
+  "bbox": [
+    174.895142,
+    -36.946716,
+    174.895142,
+    -36.946716
+],
+  "geometry": {"coordinates":[174.89514199999999,-36.946716],"type":"Point"}
 }

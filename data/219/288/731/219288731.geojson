@@ -2,13 +2,14 @@
   "id": 219288731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.617157,-40.964142,175.617157,-40.964142",
     "geom:latitude":-40.964142,
     "geom:longitude":175.617157,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Solway Cre ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219288731,
-    "wof:lastmodified":1449070765,
+    "wof:lastmodified":1466310848,
     "wof:name":"Grace Hall",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.617157,-40.964142,175.617157,-40.964142],
-  "geometry": {"coordinates":[175.617157,-40.964142],"type":"Point"}
+  "bbox": [
+    175.617157,
+    -40.964142,
+    175.617157,
+    -40.964142
+],
+  "geometry": {"coordinates":[175.61715699999999,-40.964142],"type":"Point"}
 }

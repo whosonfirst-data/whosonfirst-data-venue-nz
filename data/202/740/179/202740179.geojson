@@ -2,13 +2,14 @@
   "id": 202740179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.120392,-40.736115,175.120392,-40.736115",
     "geom:latitude":-40.736115,
     "geom:longitude":175.120392,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Koromiko St ",
     "sg:city":"Otaki",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202740179,
-    "wof:lastmodified":1449061282,
+    "wof:lastmodified":1466312385,
     "wof:name":"Alexander Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [175.120392,-40.736115,175.120392,-40.736115],
-  "geometry": {"coordinates":[175.120392,-40.736115],"type":"Point"}
+  "bbox": [
+    175.120392,
+    -40.736115,
+    175.120392,
+    -40.736115
+],
+  "geometry": {"coordinates":[175.12039200000001,-40.736115],"type":"Point"}
 }

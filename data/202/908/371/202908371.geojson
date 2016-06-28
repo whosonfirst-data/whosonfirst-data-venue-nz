@@ -2,13 +2,14 @@
   "id": 202908371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.488281,39.396759,-84.488281,39.396759",
     "geom:latitude":39.396759,
     "geom:longitude":-84.488281,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Carrington Ave ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202908371,
-    "wof:lastmodified":1449061545,
+    "wof:lastmodified":1466312807,
     "wof:name":"Daisy Garden Bags",
     "wof:parent_id":85805619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "products"
     ]
 },
-  "bbox": [-84.488281,39.396759,-84.488281,39.396759],
+  "bbox": [
+    -84.488281,
+    39.396759,
+    -84.488281,
+    39.396759
+],
   "geometry": {"coordinates":[-84.488281,39.396759],"type":"Point"}
 }

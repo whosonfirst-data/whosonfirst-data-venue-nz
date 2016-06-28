@@ -2,13 +2,14 @@
   "id": 202405245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.468521,-37.91515,175.468521,-37.91515",
     "geom:latitude":-37.91515,
     "geom:longitude":175.468521,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Burns St ",
     "sg:city":"Cambridge",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202405245,
-    "wof:lastmodified":1449062446,
+    "wof:lastmodified":1466311166,
     "wof:name":"Raeburn Residential Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.468521,-37.91515,175.468521,-37.91515],
-  "geometry": {"coordinates":[175.468521,-37.91515],"type":"Point"}
+  "bbox": [
+    175.468521,
+    -37.91515,
+    175.468521,
+    -37.91515
+],
+  "geometry": {"coordinates":[175.46852100000001,-37.91515],"type":"Point"}
 }

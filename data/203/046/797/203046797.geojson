@@ -2,13 +2,14 @@
   "id": 203046797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.08989,-38.696785,176.08989,-38.696785",
     "geom:latitude":-38.696785,
     "geom:longitude":176.08989,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Taharepa Rd ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":203046797,
-    "wof:lastmodified":1449025998,
+    "wof:lastmodified":1466311439,
     "wof:name":"Poolworld",
     "wof:parent_id":85781789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "outdoor"
     ]
 },
-  "bbox": [176.08989,-38.696785,176.08989,-38.696785],
+  "bbox": [
+    176.08989,
+    -38.696785,
+    176.08989,
+    -38.696785
+],
   "geometry": {"coordinates":[176.08989,-38.696785],"type":"Point"}
 }

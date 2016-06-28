@@ -2,13 +2,14 @@
   "id": 203282659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.869583,-38.218643,175.869583,-38.218643",
     "geom:latitude":-38.218643,
     "geom:longitude":175.869583,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Bridge St ",
     "sg:city":"Tokoroa",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203282659,
-    "wof:lastmodified":1449026136,
+    "wof:lastmodified":1466312040,
     "wof:name":"Anventagous Boutique",
     "wof:parent_id":85782509,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.869583,-38.218643,175.869583,-38.218643],
-  "geometry": {"coordinates":[175.869583,-38.218643],"type":"Point"}
+  "bbox": [
+    175.869583,
+    -38.218643,
+    175.869583,
+    -38.218643
+],
+  "geometry": {"coordinates":[175.86958300000001,-38.218643],"type":"Point"}
 }

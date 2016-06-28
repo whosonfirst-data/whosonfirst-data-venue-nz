@@ -2,13 +2,14 @@
   "id": 202873277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.521057,-36.296249,174.521057,-36.296249",
     "geom:latitude":-36.296249,
     "geom:longitude":174.521057,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Hood St & Worker Rd Wellsford ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202873277,
-    "wof:lastmodified":1449060643,
+    "wof:lastmodified":1466312746,
     "wof:name":"Welwood Industries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [174.521057,-36.296249,174.521057,-36.296249],
-  "geometry": {"coordinates":[174.521057,-36.296249],"type":"Point"}
+  "bbox": [
+    174.521057,
+    -36.296249,
+    174.521057,
+    -36.296249
+],
+  "geometry": {"coordinates":[174.52105700000001,-36.296249],"type":"Point"}
 }

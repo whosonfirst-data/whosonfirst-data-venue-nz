@@ -2,13 +2,14 @@
   "id": 202533755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.062088,-39.915897,175.062088,-39.915897",
     "geom:latitude":-39.915897,
     "geom:longitude":175.062088,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Jellicoe St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202533755,
-    "wof:lastmodified":1449060078,
+    "wof:lastmodified":1466310941,
     "wof:name":"Bayliss Philip, DO (UK), MNZRO",
     "wof:parent_id":85781217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.062088,-39.915897,175.062088,-39.915897],
-  "geometry": {"coordinates":[175.062088,-39.915897],"type":"Point"}
+  "bbox": [
+    175.062088,
+    -39.915897,
+    175.062088,
+    -39.915897
+],
+  "geometry": {"coordinates":[175.06208799999999,-39.915897],"type":"Point"}
 }

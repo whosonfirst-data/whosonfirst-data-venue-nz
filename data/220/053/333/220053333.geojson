@@ -2,13 +2,14 @@
   "id": 220053333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.55043,-43.534966,172.55043,-43.534966",
     "geom:latitude":-43.534966,
     "geom:longitude":172.55043,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unt 12/ 45 Sonter Rd Sockburn ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220053333,
-    "wof:lastmodified":1449074192,
+    "wof:lastmodified":1466311614,
     "wof:name":"Southern Sun Distillery Ltd",
     "wof:parent_id":85778617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.55043,-43.534966,172.55043,-43.534966],
-  "geometry": {"coordinates":[172.55043,-43.534966],"type":"Point"}
+  "bbox": [
+    172.55043,
+    -43.534966,
+    172.55043,
+    -43.534966
+],
+  "geometry": {"coordinates":[172.55043000000001,-43.534966],"type":"Point"}
 }

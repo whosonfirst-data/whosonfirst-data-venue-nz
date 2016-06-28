@@ -2,13 +2,14 @@
   "id": 220162233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.835403,-41.180794,174.835403,-41.180794",
     "geom:latitude":-41.180794,
     "geom:longitude":174.835403,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4/47 Takapu Rd Tawa ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220162233,
-    "wof:lastmodified":1449074752,
+    "wof:lastmodified":1466311169,
     "wof:name":"CSI Produce Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "veges"
     ]
 },
-  "bbox": [174.835403,-41.180794,174.835403,-41.180794],
-  "geometry": {"coordinates":[174.835403,-41.180794],"type":"Point"}
+  "bbox": [
+    174.835403,
+    -41.180794,
+    174.835403,
+    -41.180794
+],
+  "geometry": {"coordinates":[174.83540300000001,-41.180794],"type":"Point"}
 }

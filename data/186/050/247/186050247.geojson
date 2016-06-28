@@ -2,13 +2,14 @@
   "id": 186050247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.748398,40.221638,-74.748398,40.221638",
     "geom:latitude":40.221638,
     "geom:longitude":-74.748398,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Foreman Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186050247,
-    "wof:lastmodified":1449051857,
+    "wof:lastmodified":1466311526,
     "wof:name":"BDC Paints",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "compounds"
     ]
 },
-  "bbox": [-74.748398,40.221638,-74.748398,40.221638],
-  "geometry": {"coordinates":[-74.748398,40.221638],"type":"Point"}
+  "bbox": [
+    -74.748398,
+    40.221638,
+    -74.748398,
+    40.221638
+],
+  "geometry": {"coordinates":[-74.74839799999999,40.221638],"type":"Point"}
 }

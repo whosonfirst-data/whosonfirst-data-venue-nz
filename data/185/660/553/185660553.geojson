@@ -2,13 +2,14 @@
   "id": 185660553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.613571,-40.353619,175.613571,-40.353619",
     "geom:latitude":-40.353619,
     "geom:longitude":175.613571,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"79 Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185660553,
-    "wof:lastmodified":1449008055,
+    "wof:lastmodified":1466311658,
     "wof:name":"Doyles Outdoors",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "camping"
     ]
 },
-  "bbox": [175.613571,-40.353619,175.613571,-40.353619],
-  "geometry": {"coordinates":[175.613571,-40.353619],"type":"Point"}
+  "bbox": [
+    175.613571,
+    -40.353619,
+    175.613571,
+    -40.353619
+],
+  "geometry": {"coordinates":[175.61357100000001,-40.353619],"type":"Point"}
 }

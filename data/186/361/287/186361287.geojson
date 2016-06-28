@@ -2,13 +2,14 @@
   "id": 186361287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.884293,-36.937786,174.884293,-36.937786",
     "geom:latitude":-36.937786,
     "geom:longitude":174.884293,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1/1 Highbrook Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186361287,
-    "wof:lastmodified":1449052308,
+    "wof:lastmodified":1466312282,
     "wof:name":"Designer Plastics Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.884293,-36.937786,174.884293,-36.937786],
-  "geometry": {"coordinates":[174.884293,-36.937786],"type":"Point"}
+  "bbox": [
+    174.884293,
+    -36.937786,
+    174.884293,
+    -36.937786
+],
+  "geometry": {"coordinates":[174.88429300000001,-36.937786],"type":"Point"}
 }

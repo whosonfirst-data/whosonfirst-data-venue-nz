@@ -2,13 +2,14 @@
   "id": 169556003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.751266,-36.875778,174.751266,-36.875778",
     "geom:latitude":-36.875778,
     "geom:longitude":174.751266,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"224 Dominion Rd Mt Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169556003,
-    "wof:lastmodified":1449033509,
+    "wof:lastmodified":1466312016,
     "wof:name":"Menswear Factory Shops",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.751266,-36.875778,174.751266,-36.875778],
-  "geometry": {"coordinates":[174.751266,-36.875778],"type":"Point"}
+  "bbox": [
+    174.751266,
+    -36.875778,
+    174.751266,
+    -36.875778
+],
+  "geometry": {"coordinates":[174.75126599999999,-36.875778],"type":"Point"}
 }

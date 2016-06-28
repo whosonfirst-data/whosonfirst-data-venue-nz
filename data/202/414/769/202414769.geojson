@@ -2,13 +2,14 @@
   "id": 202414769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.940262,-37.059456,174.940262,-37.059456",
     "geom:latitude":-37.059456,
     "geom:longitude":174.940262,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"79-85 Great South Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202414769,
-    "wof:lastmodified":1449061309,
+    "wof:lastmodified":1466311406,
     "wof:name":"Counties Care A & M Clinic",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.940262,-37.059456,174.940262,-37.059456],
-  "geometry": {"coordinates":[174.940262,-37.059456],"type":"Point"}
+  "bbox": [
+    174.940262,
+    -37.059456,
+    174.940262,
+    -37.059456
+],
+  "geometry": {"coordinates":[174.94026199999999,-37.059456],"type":"Point"}
 }

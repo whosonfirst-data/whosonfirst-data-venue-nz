@@ -2,13 +2,14 @@
   "id": 186180247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.996613,-38.668346,177.996613,-38.668346",
     "geom:latitude":-38.668346,
     "geom:longitude":177.996613,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"368 Lytton Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186180247,
-    "wof:lastmodified":1449050378,
+    "wof:lastmodified":1466311240,
     "wof:name":"Eastland Engineering Ltd",
     "wof:parent_id":85781859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [177.996613,-38.668346,177.996613,-38.668346],
+  "bbox": [
+    177.996613,
+    -38.668346,
+    177.996613,
+    -38.668346
+],
   "geometry": {"coordinates":[177.996613,-38.668346],"type":"Point"}
 }

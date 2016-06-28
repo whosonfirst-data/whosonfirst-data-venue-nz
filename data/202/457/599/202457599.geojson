@@ -2,13 +2,14 @@
   "id": 202457599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.770416,-36.884109,174.770416,-36.884109",
     "geom:latitude":-36.884109,
     "geom:longitude":174.770416,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Southland Northland Auckland Bay of Plenty Christchurch, Otago Nelson Wanganui Waikato Wellington Du",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202457599,
-    "wof:lastmodified":1449061791,
+    "wof:lastmodified":1466311821,
     "wof:name":"Stay Dry Products Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.770416,-36.884109,174.770416,-36.884109],
-  "geometry": {"coordinates":[174.770416,-36.884109],"type":"Point"}
+  "bbox": [
+    174.770416,
+    -36.884109,
+    174.770416,
+    -36.884109
+],
+  "geometry": {"coordinates":[174.77041600000001,-36.884109],"type":"Point"}
 }

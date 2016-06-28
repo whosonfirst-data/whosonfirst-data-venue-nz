@@ -2,13 +2,14 @@
   "id": 169714601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.760635,-36.86623,174.760635,-36.86623",
     "geom:latitude":-36.86623,
     "geom:longitude":174.760635,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8-10 Nikau St Eden Terrace ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169714601,
-    "wof:lastmodified":1449034314,
+    "wof:lastmodified":1466311023,
     "wof:name":"Acme Office Supplies Ltd",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.760635,-36.86623,174.760635,-36.86623],
-  "geometry": {"coordinates":[174.760635,-36.86623],"type":"Point"}
+  "bbox": [
+    174.760635,
+    -36.86623,
+    174.760635,
+    -36.86623
+],
+  "geometry": {"coordinates":[174.76063500000001,-36.86623],"type":"Point"}
 }

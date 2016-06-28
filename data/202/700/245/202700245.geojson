@@ -2,13 +2,14 @@
   "id": 202700245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.220444,-38.117504,176.220444,-38.117504",
     "geom:latitude":-38.117504,
     "geom:longitude":176.220444,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Sunset Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202700245,
-    "wof:lastmodified":1449062432,
+    "wof:lastmodified":1466312107,
     "wof:name":"To Te Ra Kohanga Reo Whanau",
     "wof:parent_id":85781129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "children"
     ]
 },
-  "bbox": [176.220444,-38.117504,176.220444,-38.117504],
-  "geometry": {"coordinates":[176.220444,-38.117504],"type":"Point"}
+  "bbox": [
+    176.220444,
+    -38.117504,
+    176.220444,
+    -38.117504
+],
+  "geometry": {"coordinates":[176.22044399999999,-38.117504],"type":"Point"}
 }

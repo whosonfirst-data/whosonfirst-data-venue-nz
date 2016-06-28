@@ -2,13 +2,14 @@
   "id": 203293841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.168777,-37.684021,176.168777,-37.684021",
     "geom:latitude":-37.684021,
     "geom:longitude":176.168777,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"127 Willow St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203293841,
-    "wof:lastmodified":1449025305,
+    "wof:lastmodified":1466312213,
     "wof:name":"Roselle's of Tauranga",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.168777,-37.684021,176.168777,-37.684021],
-  "geometry": {"coordinates":[176.168777,-37.684021],"type":"Point"}
+  "bbox": [
+    176.168777,
+    -37.684021,
+    176.168777,
+    -37.684021
+],
+  "geometry": {"coordinates":[176.16877700000001,-37.684021],"type":"Point"}
 }

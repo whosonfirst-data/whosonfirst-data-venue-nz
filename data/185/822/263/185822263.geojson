@@ -2,13 +2,14 @@
   "id": 185822263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.59462,-43.303558,172.59462,-43.303558",
     "geom:latitude":-43.303558,
     "geom:longitude":172.59462,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"135 A High St ",
     "sg:city":"Rangiora",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185822263,
-    "wof:lastmodified":1449008143,
+    "wof:lastmodified":1466311379,
     "wof:name":"Seniors Kodak Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "hobbies"
     ]
 },
-  "bbox": [172.59462,-43.303558,172.59462,-43.303558],
-  "geometry": {"coordinates":[172.59462,-43.303558],"type":"Point"}
+  "bbox": [
+    172.59462,
+    -43.303558,
+    172.59462,
+    -43.303558
+],
+  "geometry": {"coordinates":[172.59461999999999,-43.303558],"type":"Point"}
 }

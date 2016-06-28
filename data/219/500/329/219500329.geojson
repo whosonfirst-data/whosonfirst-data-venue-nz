@@ -2,13 +2,14 @@
   "id": 219500329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.773926,-36.782509,174.773926,-36.782509",
     "geom:latitude":-36.782509,
     "geom:longitude":174.773926,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Earnoch Ave Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -60,10 +61,11 @@
         }
     ],
     "wof:id":219500329,
-    "wof:lastmodified":1449071282,
+    "wof:lastmodified":1466312303,
     "wof:name":"SuccessMaker NZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "teacher"
     ]
 },
-  "bbox": [174.773926,-36.782509,174.773926,-36.782509],
-  "geometry": {"coordinates":[174.773926,-36.782509],"type":"Point"}
+  "bbox": [
+    174.773926,
+    -36.782509,
+    174.773926,
+    -36.782509
+],
+  "geometry": {"coordinates":[174.77392599999999,-36.782509],"type":"Point"}
 }

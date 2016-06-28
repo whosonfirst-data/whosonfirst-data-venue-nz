@@ -2,13 +2,14 @@
   "id": 203408545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.169556,-37.669209,176.169556,-37.669209",
     "geom:latitude":-37.669209,
     "geom:longitude":176.169556,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Mirrielees Rd Sulphur Point ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203408545,
-    "wof:lastmodified":1449025182,
+    "wof:lastmodified":1466312581,
     "wof:name":"Bay Engineering",
     "wof:parent_id":85781315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "transport"
     ]
 },
-  "bbox": [176.169556,-37.669209,176.169556,-37.669209],
+  "bbox": [
+    176.169556,
+    -37.669209,
+    176.169556,
+    -37.669209
+],
   "geometry": {"coordinates":[176.169556,-37.669209],"type":"Point"}
 }

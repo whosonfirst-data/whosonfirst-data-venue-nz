@@ -2,13 +2,14 @@
   "id": 235981725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.767075,-36.860649,174.767075,-36.860649",
     "geom:latitude":-36.860649,
     "geom:longitude":174.767075,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Park Rd Grafton ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235981725,
-    "wof:lastmodified":1449008605,
+    "wof:lastmodified":1466311413,
     "wof:name":"Meals At Grafton",
     "wof:parent_id":85778317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cafe"
     ]
 },
-  "bbox": [174.767075,-36.860649,174.767075,-36.860649],
-  "geometry": {"coordinates":[174.767075,-36.860649],"type":"Point"}
+  "bbox": [
+    174.767075,
+    -36.860649,
+    174.767075,
+    -36.860649
+],
+  "geometry": {"coordinates":[174.76707500000001,-36.860649],"type":"Point"}
 }

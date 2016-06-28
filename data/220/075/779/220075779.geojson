@@ -2,13 +2,14 @@
   "id": 220075779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.358536,-46.393166,168.358536,-46.393166",
     "geom:latitude":-46.393166,
     "geom:longitude":168.358536,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"154 Lewis St Gladstone ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":220075779,
-    "wof:lastmodified":1449074490,
+    "wof:lastmodified":1466311855,
     "wof:name":"KHM Personalised Wines",
     "wof:parent_id":85778907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distributor"
     ]
 },
-  "bbox": [168.358536,-46.393166,168.358536,-46.393166],
-  "geometry": {"coordinates":[168.358536,-46.393166],"type":"Point"}
+  "bbox": [
+    168.358536,
+    -46.393166,
+    168.358536,
+    -46.393166
+],
+  "geometry": {"coordinates":[168.35853599999999,-46.393166],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219288101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.358597,-46.406548,168.358597,-46.406548",
     "geom:latitude":-46.406548,
     "geom:longitude":168.358597,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Gala St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219288101,
-    "wof:lastmodified":1449070763,
+    "wof:lastmodified":1466310841,
     "wof:name":"Gala Lodge",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accommodation"
     ]
 },
-  "bbox": [168.358597,-46.406548,168.358597,-46.406548],
+  "bbox": [
+    168.358597,
+    -46.406548,
+    168.358597,
+    -46.406548
+],
   "geometry": {"coordinates":[168.358597,-46.406548],"type":"Point"}
 }

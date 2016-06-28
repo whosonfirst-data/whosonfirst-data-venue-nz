@@ -2,13 +2,14 @@
   "id": 203029653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.821487,-41.510174,173.821487,-41.510174",
     "geom:latitude":-41.510174,
     "geom:longitude":173.821487,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Anglesea St Renwick ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203029653,
-    "wof:lastmodified":1449025723,
+    "wof:lastmodified":1466311152,
     "wof:name":"Opossum 2000",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "garden"
     ]
 },
-  "bbox": [173.821487,-41.510174,173.821487,-41.510174],
-  "geometry": {"coordinates":[173.821487,-41.510174],"type":"Point"}
+  "bbox": [
+    173.821487,
+    -41.510174,
+    173.821487,
+    -41.510174
+],
+  "geometry": {"coordinates":[173.82148699999999,-41.510174],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219844733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.681244,-40.307701,175.681244,-40.307701",
     "geom:latitude":-40.307701,
     "geom:longitude":175.681244,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"654 Kelvin Grove Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219844733,
-    "wof:lastmodified":1449071889,
+    "wof:lastmodified":1466313061,
     "wof:name":"Peach Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.681244,-40.307701,175.681244,-40.307701],
-  "geometry": {"coordinates":[175.681244,-40.307701],"type":"Point"}
+  "bbox": [
+    175.681244,
+    -40.307701,
+    175.681244,
+    -40.307701
+],
+  "geometry": {"coordinates":[175.68124399999999,-40.307701],"type":"Point"}
 }

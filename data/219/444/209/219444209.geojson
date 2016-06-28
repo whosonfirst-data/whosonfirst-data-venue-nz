@@ -2,13 +2,14 @@
   "id": 219444209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.639526,-36.914719,174.639526,-36.914719",
     "geom:latitude":-36.914719,
     "geom:longitude":174.639526,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Glendene ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":219444209,
-    "wof:lastmodified":1449073431,
+    "wof:lastmodified":1466312140,
     "wof:name":"Sara's Driving School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "driver"
     ]
 },
-  "bbox": [174.639526,-36.914719,174.639526,-36.914719],
-  "geometry": {"coordinates":[174.639526,-36.914719],"type":"Point"}
+  "bbox": [
+    174.639526,
+    -36.914719,
+    174.639526,
+    -36.914719
+],
+  "geometry": {"coordinates":[174.63952599999999,-36.914719],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202751861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.749512,-41.285702,174.749512,-41.285702",
     "geom:latitude":-41.285702,
     "geom:longitude":174.749512,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Messines Rd Karori ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202751861,
-    "wof:lastmodified":1449060250,
+    "wof:lastmodified":1466312314,
     "wof:name":"Sprott House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [174.749512,-41.285702,174.749512,-41.285702],
-  "geometry": {"coordinates":[174.749512,-41.285702],"type":"Point"}
+  "bbox": [
+    174.749512,
+    -41.285702,
+    174.749512,
+    -41.285702
+],
+  "geometry": {"coordinates":[174.74951200000001,-41.285702],"type":"Point"}
 }

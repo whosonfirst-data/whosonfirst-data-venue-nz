@@ -2,13 +2,14 @@
   "id": 185858141,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.219513,-41.296131,173.219513,-41.296131",
     "geom:latitude":-41.296131,
     "geom:longitude":173.219513,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Nelson Airport ",
     "sg:city":"Nelson",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185858141,
-    "wof:lastmodified":1449006771,
+    "wof:lastmodified":1466311617,
     "wof:name":"Tasman Bay Aviation Ltd",
     "wof:parent_id":85773207,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.219513,-41.296131,173.219513,-41.296131],
-  "geometry": {"coordinates":[173.219513,-41.296131],"type":"Point"}
+  "bbox": [
+    173.219513,
+    -41.296131,
+    173.219513,
+    -41.296131
+],
+  "geometry": {"coordinates":[173.21951300000001,-41.296131],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202775059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.646133,-40.958626,175.646133,-40.958626",
     "geom:latitude":-40.958626,
     "geom:longitude":175.646133,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"High St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202775059,
-    "wof:lastmodified":1449061977,
+    "wof:lastmodified":1466312465,
     "wof:name":"Central Garage Doors",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "garage"
     ]
 },
-  "bbox": [175.646133,-40.958626,175.646133,-40.958626],
-  "geometry": {"coordinates":[175.646133,-40.958626],"type":"Point"}
+  "bbox": [
+    175.646133,
+    -40.958626,
+    175.646133,
+    -40.958626
+],
+  "geometry": {"coordinates":[175.64613299999999,-40.958626],"type":"Point"}
 }

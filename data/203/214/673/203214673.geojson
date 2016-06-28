@@ -2,13 +2,14 @@
   "id": 203214673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.742798,-36.846344,174.742798,-36.846344",
     "geom:latitude":-36.846344,
     "geom:longitude":174.742798,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"41 A Jervois Rd Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203214673,
-    "wof:lastmodified":1449026817,
+    "wof:lastmodified":1466311499,
     "wof:name":"Rainbow Op Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "fabric"
     ]
 },
-  "bbox": [174.742798,-36.846344,174.742798,-36.846344],
-  "geometry": {"coordinates":[174.742798,-36.846344],"type":"Point"}
+  "bbox": [
+    174.742798,
+    -36.846344,
+    174.742798,
+    -36.846344
+],
+  "geometry": {"coordinates":[174.74279799999999,-36.846344],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186046629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.05835,-39.910519,175.05835,-39.910519",
     "geom:latitude":-39.910519,
     "geom:longitude":175.05835,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Pehi St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186046629,
-    "wof:lastmodified":1449051864,
+    "wof:lastmodified":1466311418,
     "wof:name":"Fibrecraft Ltd",
     "wof:parent_id":85781217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "compounds"
     ]
 },
-  "bbox": [175.05835,-39.910519,175.05835,-39.910519],
-  "geometry": {"coordinates":[175.05835,-39.910519],"type":"Point"}
+  "bbox": [
+    175.05835,
+    -39.910519,
+    175.05835,
+    -39.910519
+],
+  "geometry": {"coordinates":[175.05834999999999,-39.910519],"type":"Point"}
 }

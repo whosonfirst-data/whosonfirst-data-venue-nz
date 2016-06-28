@@ -2,13 +2,14 @@
   "id": 202867885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.240372,-37.752415,175.240372,-37.752415",
     "geom:latitude":-37.752415,
     "geom:longitude":175.240372,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"745 B Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202867885,
-    "wof:lastmodified":1449061214,
+    "wof:lastmodified":1466312726,
     "wof:name":"Kingwood Furniture Ltd",
     "wof:parent_id":85773235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [175.240372,-37.752415,175.240372,-37.752415],
-  "geometry": {"coordinates":[175.240372,-37.752415],"type":"Point"}
+  "bbox": [
+    175.240372,
+    -37.752415,
+    175.240372,
+    -37.752415
+],
+  "geometry": {"coordinates":[175.24037200000001,-37.752415],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220098651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.784744,-39.625233,176.784744,-39.625233",
     "geom:latitude":-39.625233,
     "geom:longitude":176.784744,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Swansea Rd Flaxmere ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220098651,
-    "wof:lastmodified":1449074786,
+    "wof:lastmodified":1466311992,
     "wof:name":"Hollies Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "-"
     ]
 },
-  "bbox": [176.784744,-39.625233,176.784744,-39.625233],
-  "geometry": {"coordinates":[176.784744,-39.625233],"type":"Point"}
+  "bbox": [
+    176.784744,
+    -39.625233,
+    176.784744,
+    -39.625233
+],
+  "geometry": {"coordinates":[176.78474399999999,-39.625233],"type":"Point"}
 }

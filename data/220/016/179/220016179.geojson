@@ -2,13 +2,14 @@
   "id": 220016179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.778763,-36.871075,174.778763,-36.871075",
     "geom:latitude":-36.871075,
     "geom:longitude":174.778763,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Remuera Rd Remuera ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220016179,
-    "wof:lastmodified":1449074184,
+    "wof:lastmodified":1466310975,
     "wof:name":"Mortgage Direct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mortgage"
     ]
 },
-  "bbox": [174.778763,-36.871075,174.778763,-36.871075],
+  "bbox": [
+    174.778763,
+    -36.871075,
+    174.778763,
+    -36.871075
+],
   "geometry": {"coordinates":[174.778763,-36.871075],"type":"Point"}
 }

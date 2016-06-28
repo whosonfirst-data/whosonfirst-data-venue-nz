@@ -2,13 +2,14 @@
   "id": 186280511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.897171,-36.926178,174.897171,-36.926178",
     "geom:latitude":-36.926178,
     "geom:longitude":174.897171,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit/7 Torrens Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186280511,
-    "wof:lastmodified":1449051697,
+    "wof:lastmodified":1466312105,
     "wof:name":"MasTec Limited",
     "wof:parent_id":85781725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.897171,-36.926178,174.897171,-36.926178],
-  "geometry": {"coordinates":[174.897171,-36.926178],"type":"Point"}
+  "bbox": [
+    174.897171,
+    -36.926178,
+    174.897171,
+    -36.926178
+],
+  "geometry": {"coordinates":[174.89717099999999,-36.926178],"type":"Point"}
 }

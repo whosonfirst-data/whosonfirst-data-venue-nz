@@ -2,13 +2,14 @@
   "id": 186626127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.309265,-35.692059,174.309265,-35.692059",
     "geom:latitude":-35.692059,
     "geom:longitude":174.309265,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"245 Kamo Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186626127,
-    "wof:lastmodified":1449053032,
+    "wof:lastmodified":1466313071,
     "wof:name":"AcuCare Acupuncture Clinic - Peter Kecskemeti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "acupuncturists"
     ]
 },
-  "bbox": [174.309265,-35.692059,174.309265,-35.692059],
-  "geometry": {"coordinates":[174.309265,-35.692059],"type":"Point"}
+  "bbox": [
+    174.309265,
+    -35.692059,
+    174.309265,
+    -35.692059
+],
+  "geometry": {"coordinates":[174.30926500000001,-35.692059],"type":"Point"}
 }

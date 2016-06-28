@@ -2,13 +2,14 @@
   "id": 186625401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.773956,-36.790436,174.773956,-36.790436",
     "geom:latitude":-36.790436,
     "geom:longitude":174.773956,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Blomfield Spa Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186625401,
-    "wof:lastmodified":1449053064,
+    "wof:lastmodified":1466313003,
     "wof:name":"Acupuncture & Massage Clinic Takapuna",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "acupuncturists"
     ]
 },
-  "bbox": [174.773956,-36.790436,174.773956,-36.790436],
+  "bbox": [
+    174.773956,
+    -36.790436,
+    174.773956,
+    -36.790436
+],
   "geometry": {"coordinates":[174.773956,-36.790436],"type":"Point"}
 }

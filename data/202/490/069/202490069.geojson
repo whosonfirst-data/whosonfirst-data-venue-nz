@@ -2,13 +2,14 @@
   "id": 202490069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.347626,-46.377197,168.347626,-46.377197",
     "geom:latitude":-46.377197,
     "geom:longitude":168.347626,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"280 North Rd Waikiwi ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202490069,
-    "wof:lastmodified":1449062389,
+    "wof:lastmodified":1466310577,
     "wof:name":"Waikiwi Pharmacy (1978) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.347626,-46.377197,168.347626,-46.377197],
-  "geometry": {"coordinates":[168.347626,-46.377197],"type":"Point"}
+  "bbox": [
+    168.347626,
+    -46.377197,
+    168.347626,
+    -46.377197
+],
+  "geometry": {"coordinates":[168.34762599999999,-46.377197],"type":"Point"}
 }

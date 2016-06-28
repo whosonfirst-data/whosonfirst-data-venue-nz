@@ -2,13 +2,14 @@
   "id": 202781545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.698166,-36.905315,174.698166,-36.905315",
     "geom:latitude":-36.905315,
     "geom:longitude":174.698166,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4/41 Lansford Cre Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202781545,
-    "wof:lastmodified":1449060584,
+    "wof:lastmodified":1466312488,
     "wof:name":"Austral Wholesale Ltd",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "kitchen"
     ]
 },
-  "bbox": [174.698166,-36.905315,174.698166,-36.905315],
-  "geometry": {"coordinates":[174.698166,-36.905315],"type":"Point"}
+  "bbox": [
+    174.698166,
+    -36.905315,
+    174.698166,
+    -36.905315
+],
+  "geometry": {"coordinates":[174.69816599999999,-36.905315],"type":"Point"}
 }

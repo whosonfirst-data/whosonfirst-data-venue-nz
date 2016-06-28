@@ -2,13 +2,14 @@
   "id": 219271195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.137695,-37.697346,176.137695,-37.697346",
     "geom:latitude":-37.697346,
     "geom:longitude":176.137695,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 Bell St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219271195,
-    "wof:lastmodified":1449072231,
+    "wof:lastmodified":1466312004,
     "wof:name":"Bell Lodge Motel & Backpackers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.137695,-37.697346,176.137695,-37.697346],
-  "geometry": {"coordinates":[176.137695,-37.697346],"type":"Point"}
+  "bbox": [
+    176.137695,
+    -37.697346,
+    176.137695,
+    -37.697346
+],
+  "geometry": {"coordinates":[176.13769500000001,-37.697346],"type":"Point"}
 }

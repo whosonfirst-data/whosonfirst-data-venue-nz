@@ -2,13 +2,14 @@
   "id": 220124057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.58902,-43.509197,172.58902,-43.509197",
     "geom:latitude":-43.509197,
     "geom:longitude":172.58902,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"405 B Ilam Rd Fendalton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220124057,
-    "wof:lastmodified":1449074825,
+    "wof:lastmodified":1466310821,
     "wof:name":"Oliver's Platter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "-"
     ]
 },
-  "bbox": [172.58902,-43.509197,172.58902,-43.509197],
+  "bbox": [
+    172.58902,
+    -43.509197,
+    172.58902,
+    -43.509197
+],
   "geometry": {"coordinates":[172.58902,-43.509197],"type":"Point"}
 }

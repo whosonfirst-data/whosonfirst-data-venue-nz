@@ -2,13 +2,14 @@
   "id": 186370477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.81337,-41.241772,174.81337,-41.241772",
     "geom:latitude":-41.241772,
     "geom:longitude":174.81337,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 4, 4 Glover St Ngauranga ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186370477,
-    "wof:lastmodified":1449051842,
+    "wof:lastmodified":1466312517,
     "wof:name":"Ecolab Hygiene",
     "wof:parent_id":85773059,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.81337,-41.241772,174.81337,-41.241772],
-  "geometry": {"coordinates":[174.81337,-41.241772],"type":"Point"}
+  "bbox": [
+    174.81337,
+    -41.241772,
+    174.81337,
+    -41.241772
+],
+  "geometry": {"coordinates":[174.81336999999999,-41.241772],"type":"Point"}
 }

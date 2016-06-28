@@ -2,13 +2,14 @@
   "id": 185655133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.624481,-43.576771,172.624481,-43.576771",
     "geom:latitude":-43.576771,
     "geom:longitude":172.624481,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"73 A Hackthorne Rd Cashmere ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185655133,
-    "wof:lastmodified":1449007528,
+    "wof:lastmodified":1466311548,
     "wof:name":"Active Voice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "author"
     ]
 },
-  "bbox": [172.624481,-43.576771,172.624481,-43.576771],
+  "bbox": [
+    172.624481,
+    -43.576771,
+    172.624481,
+    -43.576771
+],
   "geometry": {"coordinates":[172.624481,-43.576771],"type":"Point"}
 }

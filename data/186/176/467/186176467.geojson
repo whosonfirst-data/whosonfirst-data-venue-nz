@@ -2,13 +2,14 @@
   "id": 186176467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.341782,-46.416286,168.341782,-46.416286",
     "geom:latitude":-46.416286,
     "geom:longitude":168.341782,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"238 Mersey St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186176467,
-    "wof:lastmodified":1449052124,
+    "wof:lastmodified":1466311214,
     "wof:name":"Alltec Engineering Ltd",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.341782,-46.416286,168.341782,-46.416286],
-  "geometry": {"coordinates":[168.341782,-46.416286],"type":"Point"}
+  "bbox": [
+    168.341782,
+    -46.416286,
+    168.341782,
+    -46.416286
+],
+  "geometry": {"coordinates":[168.34178199999999,-46.416286],"type":"Point"}
 }

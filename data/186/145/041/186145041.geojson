@@ -2,13 +2,14 @@
   "id": 186145041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.664459,-36.901169,174.664459,-36.901169",
     "geom:latitude":-36.901169,
     "geom:longitude":174.664459,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Bamboo Gro ",
     "sg:city":"Kelston",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":186145041,
-    "wof:lastmodified":1449051193,
+    "wof:lastmodified":1466310937,
     "wof:name":"TEI New Zealand Ltd",
     "wof:parent_id":85780905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.664459,-36.901169,174.664459,-36.901169],
-  "geometry": {"coordinates":[174.664459,-36.901169],"type":"Point"}
+  "bbox": [
+    174.664459,
+    -36.901169,
+    174.664459,
+    -36.901169
+],
+  "geometry": {"coordinates":[174.66445899999999,-36.901169],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202926127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.145172,-40.761543,175.145172,-40.761543",
     "geom:latitude":-40.761543,
     "geom:longitude":175.145172,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Bell St ",
     "sg:city":"Otaki",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202926127,
-    "wof:lastmodified":1449060989,
+    "wof:lastmodified":1466312843,
     "wof:name":"Watsons Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "gardening"
     ]
 },
-  "bbox": [175.145172,-40.761543,175.145172,-40.761543],
+  "bbox": [
+    175.145172,
+    -40.761543,
+    175.145172,
+    -40.761543
+],
   "geometry": {"coordinates":[175.145172,-40.761543],"type":"Point"}
 }

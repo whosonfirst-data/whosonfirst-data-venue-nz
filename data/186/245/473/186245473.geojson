@@ -2,13 +2,14 @@
   "id": 186245473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.721466,-41.285561,174.721466,-41.285561",
     "geom:latitude":-41.285561,
     "geom:longitude":174.721466,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Khouri Ave Karori ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186245473,
-    "wof:lastmodified":1449052947,
+    "wof:lastmodified":1466311807,
     "wof:name":"DesignaKnit",
     "wof:parent_id":85781743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.721466,-41.285561,174.721466,-41.285561],
-  "geometry": {"coordinates":[174.721466,-41.285561],"type":"Point"}
+  "bbox": [
+    174.721466,
+    -41.285561,
+    174.721466,
+    -41.285561
+],
+  "geometry": {"coordinates":[174.72146599999999,-41.285561],"type":"Point"}
 }

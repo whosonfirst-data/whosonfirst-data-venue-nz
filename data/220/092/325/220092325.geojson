@@ -2,13 +2,14 @@
   "id": 220092325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.876724,-36.980556,174.876724,-36.980556",
     "geom:latitude":-36.980556,
     "geom:longitude":174.876724,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"576 Gt South Rd Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220092325,
-    "wof:lastmodified":1449074698,
+    "wof:lastmodified":1466311982,
     "wof:name":"B & T Bakeries & Takeaways",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "-"
     ]
 },
-  "bbox": [174.876724,-36.980556,174.876724,-36.980556],
+  "bbox": [
+    174.876724,
+    -36.980556,
+    174.876724,
+    -36.980556
+],
   "geometry": {"coordinates":[174.876724,-36.980556],"type":"Point"}
 }

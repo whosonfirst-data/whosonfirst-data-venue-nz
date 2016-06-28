@@ -2,13 +2,14 @@
   "id": 202667261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.852478,-40.366646,175.852478,-40.366646",
     "geom:latitude":-40.366646,
     "geom:longitude":175.852478,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Troup Rd ",
     "sg:city":"Woodville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202667261,
-    "wof:lastmodified":1449061739,
+    "wof:lastmodified":1466312011,
     "wof:name":"James M A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [175.852478,-40.366646,175.852478,-40.366646],
-  "geometry": {"coordinates":[175.852478,-40.366646],"type":"Point"}
+  "bbox": [
+    175.852478,
+    -40.366646,
+    175.852478,
+    -40.366646
+],
+  "geometry": {"coordinates":[175.85247799999999,-40.366646],"type":"Point"}
 }

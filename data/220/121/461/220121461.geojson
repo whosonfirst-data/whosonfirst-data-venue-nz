@@ -2,13 +2,14 @@
   "id": 220121461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.909836,-37.047348,174.909836,-37.047348",
     "geom:latitude":-37.047348,
     "geom:longitude":174.909836,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"68 D Walter Strevens Dve Conifer Grove ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220121461,
-    "wof:lastmodified":1449074659,
+    "wof:lastmodified":1466310795,
     "wof:name":"B & P J Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "-"
     ]
 },
-  "bbox": [174.909836,-37.047348,174.909836,-37.047348],
-  "geometry": {"coordinates":[174.909836,-37.047348],"type":"Point"}
+  "bbox": [
+    174.909836,
+    -37.047348,
+    174.909836,
+    -37.047348
+],
+  "geometry": {"coordinates":[174.90983600000001,-37.047348],"type":"Point"}
 }

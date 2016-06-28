@@ -2,13 +2,14 @@
   "id": 219427437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.563583,-40.225971,175.563583,-40.225971",
     "geom:latitude":-40.225971,
     "geom:longitude":175.563583,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Manchester Sq ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219427437,
-    "wof:lastmodified":1449071464,
+    "wof:lastmodified":1466312090,
     "wof:name":"Feilding & District Information Centre",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tourism"
     ]
 },
-  "bbox": [175.563583,-40.225971,175.563583,-40.225971],
-  "geometry": {"coordinates":[175.563583,-40.225971],"type":"Point"}
+  "bbox": [
+    175.563583,
+    -40.225971,
+    175.563583,
+    -40.225971
+],
+  "geometry": {"coordinates":[175.56358299999999,-40.225971],"type":"Point"}
 }

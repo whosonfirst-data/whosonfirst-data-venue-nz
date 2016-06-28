@@ -2,13 +2,14 @@
   "id": 219390163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.349686,-46.412052,168.349686,-46.412052",
     "geom:latitude":-46.412052,
     "geom:longitude":168.349686,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"63 Esk St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219390163,
-    "wof:lastmodified":1449073963,
+    "wof:lastmodified":1466311706,
     "wof:name":"United Travel",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broker"
     ]
 },
-  "bbox": [168.349686,-46.412052,168.349686,-46.412052],
-  "geometry": {"coordinates":[168.349686,-46.412052],"type":"Point"}
+  "bbox": [
+    168.349686,
+    -46.412052,
+    168.349686,
+    -46.412052
+],
+  "geometry": {"coordinates":[168.34968599999999,-46.412052],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169573043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.608551,-40.361851,175.608551,-40.361851",
     "geom:latitude":-40.361851,
     "geom:longitude":175.608551,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Ferguson St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169573043,
-    "wof:lastmodified":1449035116,
+    "wof:lastmodified":1466311227,
     "wof:name":"Truelife Takeaways - Vegetarian",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "health"
     ]
 },
-  "bbox": [175.608551,-40.361851,175.608551,-40.361851],
-  "geometry": {"coordinates":[175.608551,-40.361851],"type":"Point"}
+  "bbox": [
+    175.608551,
+    -40.361851,
+    175.608551,
+    -40.361851
+],
+  "geometry": {"coordinates":[175.60855100000001,-40.361851],"type":"Point"}
 }

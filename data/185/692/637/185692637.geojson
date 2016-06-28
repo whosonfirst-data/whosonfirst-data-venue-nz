@@ -2,13 +2,14 @@
   "id": 185692637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.259583,-37.80196,175.259583,-37.80196",
     "geom:latitude":-37.80196,
     "geom:longitude":175.259583,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Duke St Frankton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185692637,
-    "wof:lastmodified":1449007038,
+    "wof:lastmodified":1466310512,
     "wof:name":"Hamilton Fun Park",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [175.259583,-37.80196,175.259583,-37.80196],
-  "geometry": {"coordinates":[175.259583,-37.80196],"type":"Point"}
+  "bbox": [
+    175.259583,
+    -37.80196,
+    175.259583,
+    -37.80196
+],
+  "geometry": {"coordinates":[175.25958299999999,-37.80196],"type":"Point"}
 }

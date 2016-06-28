@@ -2,13 +2,14 @@
   "id": 202513765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.712631,-37.542126,175.712631,-37.542126",
     "geom:latitude":-37.542126,
     "geom:longitude":175.712631,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Church St Te ",
     "sg:city":"Aroha",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202513765,
-    "wof:lastmodified":1449061765,
+    "wof:lastmodified":1466310773,
     "wof:name":"Medical Laboratory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "specialists"
     ]
 },
-  "bbox": [175.712631,-37.542126,175.712631,-37.542126],
-  "geometry": {"coordinates":[175.712631,-37.542126],"type":"Point"}
+  "bbox": [
+    175.712631,
+    -37.542126,
+    175.712631,
+    -37.542126
+],
+  "geometry": {"coordinates":[175.71263099999999,-37.542126],"type":"Point"}
 }

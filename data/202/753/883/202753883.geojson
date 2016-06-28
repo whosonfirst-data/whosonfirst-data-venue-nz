@@ -2,13 +2,14 @@
   "id": 202753883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.026367,-39.910866,175.026367,-39.910866",
     "geom:latitude":-39.910866,
     "geom:longitude":175.026367,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Great North Rd ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202753883,
-    "wof:lastmodified":1449060406,
+    "wof:lastmodified":1466312317,
     "wof:name":"Virginia Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [175.026367,-39.910866,175.026367,-39.910866],
-  "geometry": {"coordinates":[175.026367,-39.910866],"type":"Point"}
+  "bbox": [
+    175.026367,
+    -39.910866,
+    175.026367,
+    -39.910866
+],
+  "geometry": {"coordinates":[175.02636699999999,-39.910866],"type":"Point"}
 }

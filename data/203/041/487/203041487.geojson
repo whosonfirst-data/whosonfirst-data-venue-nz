@@ -2,13 +2,14 @@
   "id": 203041487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.70105,-40.274349,175.70105,-40.274349",
     "geom:latitude":-40.274349,
     "geom:longitude":175.70105,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Watershed Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203041487,
-    "wof:lastmodified":1449025596,
+    "wof:lastmodified":1466311358,
     "wof:name":"Manawatu Effluent Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "septic"
     ]
 },
-  "bbox": [175.70105,-40.274349,175.70105,-40.274349],
-  "geometry": {"coordinates":[175.70105,-40.274349],"type":"Point"}
+  "bbox": [
+    175.70105,
+    -40.274349,
+    175.70105,
+    -40.274349
+],
+  "geometry": {"coordinates":[175.70105000000001,-40.274349],"type":"Point"}
 }

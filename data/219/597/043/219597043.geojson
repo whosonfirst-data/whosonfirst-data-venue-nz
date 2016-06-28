@@ -2,13 +2,14 @@
   "id": 219597043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.493011,-45.909294,170.493011,-45.909294",
     "geom:latitude":-45.909294,
     "geom:longitude":170.493011,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"125 A Hargest Cre St Kilda ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219597043,
-    "wof:lastmodified":1449073866,
+    "wof:lastmodified":1466312494,
     "wof:name":"Hargest Service Centre",
     "wof:parent_id":85773171,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.493011,-45.909294,170.493011,-45.909294],
+  "bbox": [
+    170.493011,
+    -45.909294,
+    170.493011,
+    -45.909294
+],
   "geometry": {"coordinates":[170.493011,-45.909294],"type":"Point"}
 }

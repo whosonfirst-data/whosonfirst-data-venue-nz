@@ -2,13 +2,14 @@
   "id": 202490233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.759003,-36.861629,174.759003,-36.861629",
     "geom:latitude":-36.861629,
     "geom:longitude":174.759003,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Dacre St Newton ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202490233,
-    "wof:lastmodified":1449062389,
+    "wof:lastmodified":1466310579,
     "wof:name":"GEHWOL NZ",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [174.759003,-36.861629,174.759003,-36.861629],
-  "geometry": {"coordinates":[174.759003,-36.861629],"type":"Point"}
+  "bbox": [
+    174.759003,
+    -36.861629,
+    174.759003,
+    -36.861629
+],
+  "geometry": {"coordinates":[174.75900300000001,-36.861629],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202722987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.242432,-37.778778,175.242432,-37.778778",
     "geom:latitude":-37.778778,
     "geom:longitude":175.242432,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Norman St Nawton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202722987,
-    "wof:lastmodified":1449060994,
+    "wof:lastmodified":1466312333,
     "wof:name":"Specialist Carpet Services",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "furniture"
     ]
 },
-  "bbox": [175.242432,-37.778778,175.242432,-37.778778],
-  "geometry": {"coordinates":[175.242432,-37.778778],"type":"Point"}
+  "bbox": [
+    175.242432,
+    -37.778778,
+    175.242432,
+    -37.778778
+],
+  "geometry": {"coordinates":[175.24243200000001,-37.778778],"type":"Point"}
 }

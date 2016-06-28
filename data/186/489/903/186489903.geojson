@@ -2,13 +2,14 @@
   "id": 186489903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.800674,-36.922821,174.800674,-36.922821",
     "geom:latitude":-36.922821,
     "geom:longitude":174.800674,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"143 Captain Springs Rd Te Papapa ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186489903,
-    "wof:lastmodified":1449051846,
+    "wof:lastmodified":1466312737,
     "wof:name":"Koves Plastic Ind Ltd",
     "wof:parent_id":85778677,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.800674,-36.922821,174.800674,-36.922821],
-  "geometry": {"coordinates":[174.800674,-36.922821],"type":"Point"}
+  "bbox": [
+    174.800674,
+    -36.922821,
+    174.800674,
+    -36.922821
+],
+  "geometry": {"coordinates":[174.80067399999999,-36.922821],"type":"Point"}
 }

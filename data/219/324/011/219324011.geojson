@@ -2,13 +2,14 @@
   "id": 219324011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.610291,-40.354782,175.610291,-40.354782",
     "geom:latitude":-40.354782,
     "geom:longitude":175.610291,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Rangitikei St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219324011,
-    "wof:lastmodified":1449072444,
+    "wof:lastmodified":1466311141,
     "wof:name":"Jax Bar",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.610291,-40.354782,175.610291,-40.354782],
-  "geometry": {"coordinates":[175.610291,-40.354782],"type":"Point"}
+  "bbox": [
+    175.610291,
+    -40.354782,
+    175.610291,
+    -40.354782
+],
+  "geometry": {"coordinates":[175.61029099999999,-40.354782],"type":"Point"}
 }

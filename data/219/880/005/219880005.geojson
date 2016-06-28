@@ -2,13 +2,14 @@
   "id": 219880005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.283752,-39.340481,174.283752,-39.340481",
     "geom:latitude":-39.340481,
     "geom:longitude":174.283752,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Miranda St ",
     "sg:city":"Stratford",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219880005,
-    "wof:lastmodified":1449073954,
+    "wof:lastmodified":1466313153,
     "wof:name":"Industrial Chemistry Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.283752,-39.340481,174.283752,-39.340481],
-  "geometry": {"coordinates":[174.283752,-39.340481],"type":"Point"}
+  "bbox": [
+    174.283752,
+    -39.340481,
+    174.283752,
+    -39.340481
+],
+  "geometry": {"coordinates":[174.28375199999999,-39.340481],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220182599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.607254,-40.355633,175.607254,-40.355633",
     "geom:latitude":-40.355633,
     "geom:longitude":175.607254,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Cuba St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220182599,
-    "wof:lastmodified":1449074564,
+    "wof:lastmodified":1466311321,
     "wof:name":"Harris Meatmarket",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [175.607254,-40.355633,175.607254,-40.355633],
-  "geometry": {"coordinates":[175.607254,-40.355633],"type":"Point"}
+  "bbox": [
+    175.607254,
+    -40.355633,
+    175.607254,
+    -40.355633
+],
+  "geometry": {"coordinates":[175.60725400000001,-40.355633],"type":"Point"}
 }

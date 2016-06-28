@@ -2,13 +2,14 @@
   "id": 186520227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.023407,-38.664726,178.023407,-38.664726",
     "geom:latitude":-38.664726,
     "geom:longitude":178.023407,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186520227,
-    "wof:lastmodified":1449051276,
+    "wof:lastmodified":1466312802,
     "wof:name":"Vetro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "health"
     ]
 },
-  "bbox": [178.023407,-38.664726,178.023407,-38.664726],
-  "geometry": {"coordinates":[178.023407,-38.664726],"type":"Point"}
+  "bbox": [
+    178.023407,
+    -38.664726,
+    178.023407,
+    -38.664726
+],
+  "geometry": {"coordinates":[178.02340699999999,-38.664726],"type":"Point"}
 }

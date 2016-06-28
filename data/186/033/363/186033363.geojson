@@ -2,13 +2,14 @@
   "id": 186033363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.166656,-38.333019,175.166656,-38.333019",
     "geom:latitude":-38.333019,
     "geom:longitude":175.166656,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"145 The Esplanade Te ",
     "sg:city":"Kuiti",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186033363,
-    "wof:lastmodified":1449050959,
+    "wof:lastmodified":1466311136,
     "wof:name":"H & R Coffin Trough Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.166656,-38.333019,175.166656,-38.333019],
-  "geometry": {"coordinates":[175.166656,-38.333019],"type":"Point"}
+  "bbox": [
+    175.166656,
+    -38.333019,
+    175.166656,
+    -38.333019
+],
+  "geometry": {"coordinates":[175.16665599999999,-38.333019],"type":"Point"}
 }

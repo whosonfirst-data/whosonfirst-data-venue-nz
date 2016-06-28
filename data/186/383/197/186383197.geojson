@@ -2,13 +2,14 @@
   "id": 186383197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.277695,-41.261127,173.277695,-41.261127",
     "geom:latitude":-41.261127,
     "geom:longitude":173.277695,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Rogers St Port Nelson ",
     "sg:city":"Nelson",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186383197,
-    "wof:lastmodified":1449051516,
+    "wof:lastmodified":1466312364,
     "wof:name":"Cookes",
     "wof:parent_id":85773133,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [173.277695,-41.261127,173.277695,-41.261127],
-  "geometry": {"coordinates":[173.277695,-41.261127],"type":"Point"}
+  "bbox": [
+    173.277695,
+    -41.261127,
+    173.277695,
+    -41.261127
+],
+  "geometry": {"coordinates":[173.27769499999999,-41.261127],"type":"Point"}
 }

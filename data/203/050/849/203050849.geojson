@@ -2,13 +2,14 @@
   "id": 203050849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.66301,38.976299,-77.66301,38.976299",
     "geom:latitude":38.976299,
     "geom:longitude":-77.66301,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 A Lemari Ave ",
     "sg:city":"Stoke",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203050849,
-    "wof:lastmodified":1449025987,
+    "wof:lastmodified":1466311495,
     "wof:name":"Corbett Landscape Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "paving"
     ]
 },
-  "bbox": [-77.66301,38.976299,-77.66301,38.976299],
+  "bbox": [
+    -77.66301,
+    38.976299,
+    -77.66301,
+    38.976299
+],
   "geometry": {"coordinates":[-77.66301,38.976299],"type":"Point"}
 }

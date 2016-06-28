@@ -2,13 +2,14 @@
   "id": 202803169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.262451,-37.784641,175.262451,-37.784641",
     "geom:latitude":-37.784641,
     "geom:longitude":175.262451,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Empire St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202803169,
-    "wof:lastmodified":1449062684,
+    "wof:lastmodified":1466312447,
     "wof:name":"Waikato Turnery Ltd",
     "wof:parent_id":85772915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "handrail"
     ]
 },
-  "bbox": [175.262451,-37.784641,175.262451,-37.784641],
+  "bbox": [
+    175.262451,
+    -37.784641,
+    175.262451,
+    -37.784641
+],
   "geometry": {"coordinates":[175.262451,-37.784641],"type":"Point"}
 }

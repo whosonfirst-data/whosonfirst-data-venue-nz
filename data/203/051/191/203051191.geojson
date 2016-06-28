@@ -2,13 +2,14 @@
   "id": 203051191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.525665,-43.543461,172.525665,-43.543461",
     "geom:latitude":-43.543461,
     "geom:longitude":172.525665,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Main South & Halswell Junction Rds Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203051191,
-    "wof:lastmodified":1449026117,
+    "wof:lastmodified":1466311539,
     "wof:name":"Fulton Hogan Canterbury",
     "wof:parent_id":85772967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "paving"
     ]
 },
-  "bbox": [172.525665,-43.543461,172.525665,-43.543461],
+  "bbox": [
+    172.525665,
+    -43.543461,
+    172.525665,
+    -43.543461
+],
   "geometry": {"coordinates":[172.525665,-43.543461],"type":"Point"}
 }

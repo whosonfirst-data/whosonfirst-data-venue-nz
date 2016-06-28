@@ -2,13 +2,14 @@
   "id": 169539303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.265091,-35.113609,173.265091,-35.113609",
     "geom:latitude":-35.113609,
     "geom:longitude":173.265091,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Melba St ",
     "sg:city":"Kaitaia",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169539303,
-    "wof:lastmodified":1449036036,
+    "wof:lastmodified":1466310622,
     "wof:name":"Tai FM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"
     ]
 },
-  "bbox": [173.265091,-35.113609,173.265091,-35.113609],
-  "geometry": {"coordinates":[173.265091,-35.113609],"type":"Point"}
+  "bbox": [
+    173.265091,
+    -35.113609,
+    173.265091,
+    -35.113609
+],
+  "geometry": {"coordinates":[173.26509100000001,-35.113609],"type":"Point"}
 }

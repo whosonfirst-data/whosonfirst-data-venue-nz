@@ -2,13 +2,14 @@
   "id": 219184097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.081573,-38.676983,178.081573,-38.676983",
     "geom:latitude":-38.676983,
     "geom:longitude":178.081573,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Moana Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219184097,
-    "wof:lastmodified":1449070983,
+    "wof:lastmodified":1466311272,
     "wof:name":"City Limo",
     "wof:parent_id":85781353,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.081573,-38.676983,178.081573,-38.676983],
-  "geometry": {"coordinates":[178.081573,-38.676983],"type":"Point"}
+  "bbox": [
+    178.081573,
+    -38.676983,
+    178.081573,
+    -38.676983
+],
+  "geometry": {"coordinates":[178.08157299999999,-38.676983],"type":"Point"}
 }

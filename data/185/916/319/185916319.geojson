@@ -2,13 +2,14 @@
   "id": 185916319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.49173,-45.867111,170.49173,-45.867111",
     "geom:latitude":-45.867111,
     "geom:longitude":170.49173,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Roslyn ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185916319,
-    "wof:lastmodified":1449007495,
+    "wof:lastmodified":1466311984,
     "wof:name":"Ballet Dunedin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "sport"
     ]
 },
-  "bbox": [170.49173,-45.867111,170.49173,-45.867111],
-  "geometry": {"coordinates":[170.49173,-45.867111],"type":"Point"}
+  "bbox": [
+    170.49173,
+    -45.867111,
+    170.49173,
+    -45.867111
+],
+  "geometry": {"coordinates":[170.49172999999999,-45.867111],"type":"Point"}
 }

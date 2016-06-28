@@ -2,13 +2,14 @@
   "id": 202406987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.904083,-41.217285,174.904083,-41.217285",
     "geom:latitude":-41.217285,
     "geom:longitude":174.904083,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Woburn Rd Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202406987,
-    "wof:lastmodified":1449061474,
+    "wof:lastmodified":1466311226,
     "wof:name":"Te Omanga Hospice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.904083,-41.217285,174.904083,-41.217285],
-  "geometry": {"coordinates":[174.904083,-41.217285],"type":"Point"}
+  "bbox": [
+    174.904083,
+    -41.217285,
+    174.904083,
+    -41.217285
+],
+  "geometry": {"coordinates":[174.90408300000001,-41.217285],"type":"Point"}
 }

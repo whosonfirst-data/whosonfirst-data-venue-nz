@@ -2,13 +2,14 @@
   "id": 235998481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.352173,-46.41185,168.352173,-46.41185",
     "geom:latitude":-46.41185,
     "geom:longitude":168.352173,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Tay St & Racecourse Rd ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":235998481,
-    "wof:lastmodified":1449008372,
+    "wof:lastmodified":1466311573,
     "wof:name":"Ascot Park Hotel",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [168.352173,-46.41185,168.352173,-46.41185],
-  "geometry": {"coordinates":[168.352173,-46.41185],"type":"Point"}
+  "bbox": [
+    168.352173,
+    -46.41185,
+    168.352173,
+    -46.41185
+],
+  "geometry": {"coordinates":[168.35217299999999,-46.41185],"type":"Point"}
 }

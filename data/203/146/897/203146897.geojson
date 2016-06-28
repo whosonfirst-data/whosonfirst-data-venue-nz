@@ -2,13 +2,14 @@
   "id": 203146897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.716324,-45.48185,170.716324,-45.48185",
     "geom:latitude":-45.48185,
     "geom:longitude":170.716324,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Mobile Bathing & Pet Grooming Service Palmerston",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203146897,
-    "wof:lastmodified":1449025712,
+    "wof:lastmodified":1466310882,
     "wof:name":"Dogworkz Manawatu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pets"
     ]
 },
-  "bbox": [170.716324,-45.48185,170.716324,-45.48185],
-  "geometry": {"coordinates":[170.716324,-45.48185],"type":"Point"}
+  "bbox": [
+    170.716324,
+    -45.48185,
+    170.716324,
+    -45.48185
+],
+  "geometry": {"coordinates":[170.71632399999999,-45.48185],"type":"Point"}
 }

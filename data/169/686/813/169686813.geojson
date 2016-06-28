@@ -2,13 +2,14 @@
   "id": 169686813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.565796,-40.227627,175.565796,-40.227627",
     "geom:latitude":-40.227627,
     "geom:longitude":175.565796,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Manchester St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169686813,
-    "wof:lastmodified":1449035155,
+    "wof:lastmodified":1466310867,
     "wof:name":"Stroud Equestrian Supplies",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.565796,-40.227627,175.565796,-40.227627],
-  "geometry": {"coordinates":[175.565796,-40.227627],"type":"Point"}
+  "bbox": [
+    175.565796,
+    -40.227627,
+    175.565796,
+    -40.227627
+],
+  "geometry": {"coordinates":[175.56579600000001,-40.227627],"type":"Point"}
 }

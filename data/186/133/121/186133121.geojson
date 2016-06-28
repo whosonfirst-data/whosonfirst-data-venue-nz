@@ -2,13 +2,14 @@
   "id": 186133121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.561966,-43.487518,172.561966,-43.487518",
     "geom:latitude":-43.487518,
     "geom:longitude":172.561966,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Holt Pl Russley ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186133121,
-    "wof:lastmodified":1449052547,
+    "wof:lastmodified":1466310836,
     "wof:name":"Tatom Engineering Ltd",
     "wof:parent_id":85772947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.561966,-43.487518,172.561966,-43.487518],
-  "geometry": {"coordinates":[172.561966,-43.487518],"type":"Point"}
+  "bbox": [
+    172.561966,
+    -43.487518,
+    172.561966,
+    -43.487518
+],
+  "geometry": {"coordinates":[172.56196600000001,-43.487518],"type":"Point"}
 }

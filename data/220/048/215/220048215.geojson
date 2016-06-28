@@ -2,13 +2,14 @@
   "id": 220048215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.761185,-41.304153,174.761185,-41.304153",
     "geom:latitude":-41.304153,
     "geom:longitude":174.761185,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"101 A Kapera Rd Brooklyn ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220048215,
-    "wof:lastmodified":1449074299,
+    "wof:lastmodified":1466311579,
     "wof:name":"Burton Hollis Ltd",
     "wof:parent_id":85772849,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [174.761185,-41.304153,174.761185,-41.304153],
-  "geometry": {"coordinates":[174.761185,-41.304153],"type":"Point"}
+  "bbox": [
+    174.761185,
+    -41.304153,
+    174.761185,
+    -41.304153
+],
+  "geometry": {"coordinates":[174.76118500000001,-41.304153],"type":"Point"}
 }

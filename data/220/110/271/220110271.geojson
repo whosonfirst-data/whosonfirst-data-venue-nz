@@ -2,13 +2,14 @@
   "id": 220110271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.679977,-36.930519,174.679977,-36.930519",
     "geom:latitude":-36.930519,
     "geom:longitude":174.679977,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"58 A Godley Rd Green Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220110271,
-    "wof:lastmodified":1449074284,
+    "wof:lastmodified":1466310691,
     "wof:name":"Green Bay Oven Fresh Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [174.679977,-36.930519,174.679977,-36.930519],
-  "geometry": {"coordinates":[174.679977,-36.930519],"type":"Point"}
+  "bbox": [
+    174.679977,
+    -36.930519,
+    174.679977,
+    -36.930519
+],
+  "geometry": {"coordinates":[174.67997700000001,-36.930519],"type":"Point"}
 }

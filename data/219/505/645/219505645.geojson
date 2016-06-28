@@ -2,13 +2,14 @@
   "id": 219505645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.580231,39.407902,-84.580231,39.407902",
     "geom:latitude":39.407902,
     "geom:longitude":-84.580231,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"213 Commerce St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":219505645,
-    "wof:lastmodified":1449073331,
+    "wof:lastmodified":1466312318,
     "wof:name":"Kershaw Training Enterprises",
     "wof:parent_id":85817551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "education"
     ]
 },
-  "bbox": [-84.580231,39.407902,-84.580231,39.407902],
+  "bbox": [
+    -84.580231,
+    39.407902,
+    -84.580231,
+    39.407902
+],
   "geometry": {"coordinates":[-84.580231,39.407902],"type":"Point"}
 }

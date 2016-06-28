@@ -2,13 +2,14 @@
   "id": 203262459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.25174,-38.139122,176.25174,-38.139122",
     "geom:latitude":-38.139122,
     "geom:longitude":176.25174,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1288 Tutanekai St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203262459,
-    "wof:lastmodified":1449026123,
+    "wof:lastmodified":1466311962,
     "wof:name":"Bachelor Pad",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.25174,-38.139122,176.25174,-38.139122],
-  "geometry": {"coordinates":[176.25174,-38.139122],"type":"Point"}
+  "bbox": [
+    176.25174,
+    -38.139122,
+    176.25174,
+    -38.139122
+],
+  "geometry": {"coordinates":[176.25174000000001,-38.139122],"type":"Point"}
 }

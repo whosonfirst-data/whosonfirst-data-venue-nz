@@ -2,13 +2,14 @@
   "id": 219772319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.841782,-39.527061,176.841782,-39.527061",
     "geom:latitude":-39.527061,
     "geom:longitude":176.841782,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Ewan Pl Taradale ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219772319,
-    "wof:lastmodified":1449071980,
+    "wof:lastmodified":1466312968,
     "wof:name":"B & M Auto Trim & Upholstery",
     "wof:parent_id":85773143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.841782,-39.527061,176.841782,-39.527061],
-  "geometry": {"coordinates":[176.841782,-39.527061],"type":"Point"}
+  "bbox": [
+    176.841782,
+    -39.527061,
+    176.841782,
+    -39.527061
+],
+  "geometry": {"coordinates":[176.84178199999999,-39.527061],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186628493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.628235,-36.870419,174.628235,-36.870419",
     "geom:latitude":-36.870419,
     "geom:longitude":174.628235,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Lincoln Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186628493,
-    "wof:lastmodified":1449052503,
+    "wof:lastmodified":1466313005,
     "wof:name":"Lincoln Road Sports Rehab Centre",
     "wof:parent_id":85782431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "acupuncturists"
     ]
 },
-  "bbox": [174.628235,-36.870419,174.628235,-36.870419],
-  "geometry": {"coordinates":[174.628235,-36.870419],"type":"Point"}
+  "bbox": [
+    174.628235,
+    -36.870419,
+    174.628235,
+    -36.870419
+],
+  "geometry": {"coordinates":[174.62823499999999,-36.870419],"type":"Point"}
 }

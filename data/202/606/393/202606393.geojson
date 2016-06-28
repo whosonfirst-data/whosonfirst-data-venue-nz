@@ -2,13 +2,14 @@
   "id": 202606393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.743073,-36.847363,174.743073,-36.847363",
     "geom:latitude":-36.847363,
     "geom:longitude":174.743073,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Redmond St Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202606393,
-    "wof:lastmodified":1449060495,
+    "wof:lastmodified":1466311570,
     "wof:name":"Pots N Planters Seven Days",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "supply"
     ]
 },
-  "bbox": [174.743073,-36.847363,174.743073,-36.847363],
-  "geometry": {"coordinates":[174.743073,-36.847363],"type":"Point"}
+  "bbox": [
+    174.743073,
+    -36.847363,
+    174.743073,
+    -36.847363
+],
+  "geometry": {"coordinates":[174.74307300000001,-36.847363],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203168627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.327621,-37.7994,175.327621,-37.7994",
     "geom:latitude":-37.7994,
     "geom:longitude":175.327621,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"671 Morrinsville Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203168627,
-    "wof:lastmodified":1449025931,
+    "wof:lastmodified":1466311063,
     "wof:name":"MBD Leadlighting",
     "wof:parent_id":85782881,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fittings"
     ]
 },
-  "bbox": [175.327621,-37.7994,175.327621,-37.7994],
-  "geometry": {"coordinates":[175.327621,-37.7994],"type":"Point"}
+  "bbox": [
+    175.327621,
+    -37.7994,
+    175.327621,
+    -37.7994
+],
+  "geometry": {"coordinates":[175.32762099999999,-37.7994],"type":"Point"}
 }

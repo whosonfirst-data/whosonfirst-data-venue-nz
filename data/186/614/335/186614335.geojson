@@ -2,13 +2,14 @@
   "id": 186614335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.546127,-40.00119,176.546127,-40.00119",
     "geom:latitude":-40.00119,
     "geom:longitude":176.546127,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Racecourse Rd ",
     "sg:city":"Waipukurau",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186614335,
-    "wof:lastmodified":1449053093,
+    "wof:lastmodified":1466312979,
     "wof:name":"Major Fitness",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fitness"
     ]
 },
-  "bbox": [176.546127,-40.00119,176.546127,-40.00119],
-  "geometry": {"coordinates":[176.546127,-40.00119],"type":"Point"}
+  "bbox": [
+    176.546127,
+    -40.00119,
+    176.546127,
+    -40.00119
+],
+  "geometry": {"coordinates":[176.54612700000001,-40.00119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203161817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-76.431488,37.463104,-76.431488,37.463104",
     "geom:latitude":37.463104,
     "geom:longitude":-76.431488,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 14-246 Wellington Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203161817,
-    "wof:lastmodified":1449025665,
+    "wof:lastmodified":1466311002,
     "wof:name":"Venture Pet Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pets"
     ]
 },
-  "bbox": [-76.431488,37.463104,-76.431488,37.463104],
+  "bbox": [
+    -76.431488,
+    37.463104,
+    -76.431488,
+    37.463104
+],
   "geometry": {"coordinates":[-76.431488,37.463104],"type":"Point"}
 }

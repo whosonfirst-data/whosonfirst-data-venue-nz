@@ -2,13 +2,14 @@
   "id": 186463195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.070374,-41.124439,175.070374,-41.124439",
     "geom:latitude":-41.124439,
     "geom:longitude":175.070374,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 40422 Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186463195,
-    "wof:lastmodified":1449052232,
+    "wof:lastmodified":1466312730,
     "wof:name":"Griffiths Drilling (NZ) Ltd",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.070374,-41.124439,175.070374,-41.124439],
-  "geometry": {"coordinates":[175.070374,-41.124439],"type":"Point"}
+  "bbox": [
+    175.070374,
+    -41.124439,
+    175.070374,
+    -41.124439
+],
+  "geometry": {"coordinates":[175.07037399999999,-41.124439],"type":"Point"}
 }

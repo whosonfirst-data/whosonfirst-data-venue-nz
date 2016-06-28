@@ -2,13 +2,14 @@
   "id": 220089061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.906952,-36.898022,174.906952,-36.898022",
     "geom:latitude":-36.898022,
     "geom:longitude":174.906952,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 34 503 Pakuranga Rd Highland Park ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220089061,
-    "wof:lastmodified":1449074205,
+    "wof:lastmodified":1466310517,
     "wof:name":"Grand Market",
     "wof:parent_id":85778943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "asian"
     ]
 },
-  "bbox": [174.906952,-36.898022,174.906952,-36.898022],
-  "geometry": {"coordinates":[174.906952,-36.898022],"type":"Point"}
+  "bbox": [
+    174.906952,
+    -36.898022,
+    174.906952,
+    -36.898022
+],
+  "geometry": {"coordinates":[174.90695199999999,-36.898022],"type":"Point"}
 }

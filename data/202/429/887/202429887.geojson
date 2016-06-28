@@ -2,13 +2,14 @@
   "id": 202429887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.846268,-36.857433,174.846268,-36.857433",
     "geom:latitude":-36.857433,
     "geom:longitude":174.846268,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Kohimarama Physio Clinic 291 Kepa Rd Kohimarama ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202429887,
-    "wof:lastmodified":1449062510,
+    "wof:lastmodified":1466311621,
     "wof:name":"Chatwin S L",
     "wof:parent_id":85778411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.846268,-36.857433,174.846268,-36.857433],
-  "geometry": {"coordinates":[174.846268,-36.857433],"type":"Point"}
+  "bbox": [
+    174.846268,
+    -36.857433,
+    174.846268,
+    -36.857433
+],
+  "geometry": {"coordinates":[174.84626800000001,-36.857433],"type":"Point"}
 }

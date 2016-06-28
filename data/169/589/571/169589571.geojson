@@ -2,13 +2,14 @@
   "id": 169589571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.529419,-43.542858,172.529419,-43.542858",
     "geom:latitude":-43.542858,
     "geom:longitude":172.529419,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Chappie Pl Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169589571,
-    "wof:lastmodified":1449034448,
+    "wof:lastmodified":1466311496,
     "wof:name":"Faast Fitt Battery & Auto",
     "wof:parent_id":85772967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.529419,-43.542858,172.529419,-43.542858],
-  "geometry": {"coordinates":[172.529419,-43.542858],"type":"Point"}
+  "bbox": [
+    172.529419,
+    -43.542858,
+    172.529419,
+    -43.542858
+],
+  "geometry": {"coordinates":[172.52941899999999,-43.542858],"type":"Point"}
 }

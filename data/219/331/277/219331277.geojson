@@ -2,13 +2,14 @@
   "id": 219331277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.050232,-39.931656,175.050232,-39.931656",
     "geom:latitude":-39.931656,
     "geom:longitude":175.050232,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"146 A Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219331277,
-    "wof:lastmodified":1449072541,
+    "wof:lastmodified":1466311193,
     "wof:name":"Slippery Saddle",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.050232,-39.931656,175.050232,-39.931656],
-  "geometry": {"coordinates":[175.050232,-39.931656],"type":"Point"}
+  "bbox": [
+    175.050232,
+    -39.931656,
+    175.050232,
+    -39.931656
+],
+  "geometry": {"coordinates":[175.05023199999999,-39.931656],"type":"Point"}
 }

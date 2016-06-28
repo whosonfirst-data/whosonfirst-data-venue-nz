@@ -2,13 +2,14 @@
   "id": 220077519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.742767,-36.905895,174.742767,-36.905895",
     "geom:latitude":-36.905895,
     "geom:longitude":174.742767,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Princes Ave Mt Roskill ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220077519,
-    "wof:lastmodified":1449074162,
+    "wof:lastmodified":1466311859,
     "wof:name":"Vintners New Zealand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distributor"
     ]
 },
-  "bbox": [174.742767,-36.905895,174.742767,-36.905895],
-  "geometry": {"coordinates":[174.742767,-36.905895],"type":"Point"}
+  "bbox": [
+    174.742767,
+    -36.905895,
+    174.742767,
+    -36.905895
+],
+  "geometry": {"coordinates":[174.74276699999999,-36.905895],"type":"Point"}
 }

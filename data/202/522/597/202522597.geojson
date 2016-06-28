@@ -2,13 +2,14 @@
   "id": 202522597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.83699,-36.860229,174.83699,-36.860229",
     "geom:latitude":-36.860229,
     "geom:longitude":174.83699,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"307 Kepa Rd Mission Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202522597,
-    "wof:lastmodified":1449061337,
+    "wof:lastmodified":1466310847,
     "wof:name":"Wardrope Dr Graham",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialists"
     ]
 },
-  "bbox": [174.83699,-36.860229,174.83699,-36.860229],
-  "geometry": {"coordinates":[174.83699,-36.860229],"type":"Point"}
+  "bbox": [
+    174.83699,
+    -36.860229,
+    174.83699,
+    -36.860229
+],
+  "geometry": {"coordinates":[174.83698999999999,-36.860229],"type":"Point"}
 }

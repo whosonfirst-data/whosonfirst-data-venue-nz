@@ -2,13 +2,14 @@
   "id": 202518317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.591873,-40.373089,175.591873,-40.373089",
     "geom:latitude":-40.373089,
     "geom:longitude":175.591873,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"96 College St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202518317,
-    "wof:lastmodified":1449061536,
+    "wof:lastmodified":1466310812,
     "wof:name":"Lombard Dr Stephan",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "specialists"
     ]
 },
-  "bbox": [175.591873,-40.373089,175.591873,-40.373089],
-  "geometry": {"coordinates":[175.591873,-40.373089],"type":"Point"}
+  "bbox": [
+    175.591873,
+    -40.373089,
+    175.591873,
+    -40.373089
+],
+  "geometry": {"coordinates":[175.59187299999999,-40.373089],"type":"Point"}
 }

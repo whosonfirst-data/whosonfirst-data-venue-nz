@@ -2,13 +2,14 @@
   "id": 186602421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.505096,-45.873219,170.505096,-45.873219",
     "geom:latitude":-45.873219,
     "geom:longitude":170.505096,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"290 Moray Pl ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186602421,
-    "wof:lastmodified":1449051645,
+    "wof:lastmodified":1466312964,
     "wof:name":"Jenny Craig",
     "wof:parent_id":85782381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "weight"
     ]
 },
-  "bbox": [170.505096,-45.873219,170.505096,-45.873219],
-  "geometry": {"coordinates":[170.505096,-45.873219],"type":"Point"}
+  "bbox": [
+    170.505096,
+    -45.873219,
+    170.505096,
+    -45.873219
+],
+  "geometry": {"coordinates":[170.50509600000001,-45.873219],"type":"Point"}
 }

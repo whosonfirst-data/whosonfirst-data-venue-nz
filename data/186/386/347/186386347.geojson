@@ -2,13 +2,14 @@
   "id": 186386347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.890701,-36.955032,174.890701,-36.955032",
     "geom:latitude":-36.955032,
     "geom:longitude":174.890701,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"333 East Tamaki Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186386347,
-    "wof:lastmodified":1449051781,
+    "wof:lastmodified":1466312471,
     "wof:name":"Ramset New Zealand",
     "wof:parent_id":85772895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.890701,-36.955032,174.890701,-36.955032],
-  "geometry": {"coordinates":[174.890701,-36.955032],"type":"Point"}
+  "bbox": [
+    174.890701,
+    -36.955032,
+    174.890701,
+    -36.955032
+],
+  "geometry": {"coordinates":[174.89070100000001,-36.955032],"type":"Point"}
 }

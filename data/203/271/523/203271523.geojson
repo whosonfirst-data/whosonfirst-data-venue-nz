@@ -2,13 +2,14 @@
   "id": 203271523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.565048,-43.491394,172.565048,-43.491394",
     "geom:latitude":-43.491394,
     "geom:longitude":172.565048,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Roydvale Ave Russley ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":203271523,
-    "wof:lastmodified":1449025933,
+    "wof:lastmodified":1466312223,
     "wof:name":"Untouched World - Store & Cafe",
     "wof:parent_id":85772947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.565048,-43.491394,172.565048,-43.491394],
-  "geometry": {"coordinates":[172.565048,-43.491394],"type":"Point"}
+  "bbox": [
+    172.565048,
+    -43.491394,
+    172.565048,
+    -43.491394
+],
+  "geometry": {"coordinates":[172.56504799999999,-43.491394],"type":"Point"}
 }

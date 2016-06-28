@@ -2,13 +2,14 @@
   "id": 202503641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"169.135193,-44.698063,169.135193,-44.698063",
     "geom:latitude":-44.698063,
     "geom:longitude":169.135193,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Dungarvon St ",
     "sg:city":"Wanaka",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202503641,
-    "wof:lastmodified":1449062655,
+    "wof:lastmodified":1466310692,
     "wof:name":"Jongsma Dr David M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [169.135193,-44.698063,169.135193,-44.698063],
-  "geometry": {"coordinates":[169.135193,-44.698063],"type":"Point"}
+  "bbox": [
+    169.135193,
+    -44.698063,
+    169.135193,
+    -44.698063
+],
+  "geometry": {"coordinates":[169.13519299999999,-44.698063],"type":"Point"}
 }

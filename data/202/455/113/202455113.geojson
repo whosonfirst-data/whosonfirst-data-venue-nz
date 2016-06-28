@@ -2,13 +2,14 @@
   "id": 202455113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.621506,-43.511757,172.621506,-43.511757",
     "geom:latitude":-43.511757,
     "geom:longitude":172.621506,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"206 Papanui Rd ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202455113,
-    "wof:lastmodified":1449062258,
+    "wof:lastmodified":1466311786,
     "wof:name":"Williamson Optical Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "supply"
     ]
 },
-  "bbox": [172.621506,-43.511757,172.621506,-43.511757],
-  "geometry": {"coordinates":[172.621506,-43.511757],"type":"Point"}
+  "bbox": [
+    172.621506,
+    -43.511757,
+    172.621506,
+    -43.511757
+],
+  "geometry": {"coordinates":[172.62150600000001,-43.511757],"type":"Point"}
 }

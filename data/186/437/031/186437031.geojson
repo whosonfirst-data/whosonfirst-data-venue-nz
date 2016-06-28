@@ -2,13 +2,14 @@
   "id": 186437031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.814621,-39.619545,176.814621,-39.619545",
     "geom:latitude":-39.619545,
     "geom:longitude":176.814621,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1014 Omahu Rd ",
     "sg:city":"Hastings",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186437031,
-    "wof:lastmodified":1449052297,
+    "wof:lastmodified":1466312508,
     "wof:name":"Hastings Aluminium Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.814621,-39.619545,176.814621,-39.619545],
-  "geometry": {"coordinates":[176.814621,-39.619545],"type":"Point"}
+  "bbox": [
+    176.814621,
+    -39.619545,
+    176.814621,
+    -39.619545
+],
+  "geometry": {"coordinates":[176.81462099999999,-39.619545],"type":"Point"}
 }

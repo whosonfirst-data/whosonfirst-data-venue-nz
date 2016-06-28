@@ -2,13 +2,14 @@
   "id": 186546535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.588593,-36.864353,174.588593,-36.864353",
     "geom:latitude":-36.864353,
     "geom:longitude":174.588593,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"622 Swanson Rd Swanson ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186546535,
-    "wof:lastmodified":1449050242,
+    "wof:lastmodified":1466312796,
     "wof:name":"Swanson Barbers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.588593,-36.864353,174.588593,-36.864353],
+  "bbox": [
+    174.588593,
+    -36.864353,
+    174.588593,
+    -36.864353
+],
   "geometry": {"coordinates":[174.588593,-36.864353],"type":"Point"}
 }

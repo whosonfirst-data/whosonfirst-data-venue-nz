@@ -2,13 +2,14 @@
   "id": 203051917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.346527,-45.938938,170.346527,-45.938938",
     "geom:latitude":-45.938938,
     "geom:longitude":170.346527,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"792 Brighton Rd Ocean ",
     "sg:city":"View",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203051917,
-    "wof:lastmodified":1449026117,
+    "wof:lastmodified":1466311546,
     "wof:name":"East Coast Landscapes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "paving"
     ]
 },
-  "bbox": [170.346527,-45.938938,170.346527,-45.938938],
-  "geometry": {"coordinates":[170.346527,-45.938938],"type":"Point"}
+  "bbox": [
+    170.346527,
+    -45.938938,
+    170.346527,
+    -45.938938
+],
+  "geometry": {"coordinates":[170.34652700000001,-45.938938],"type":"Point"}
 }

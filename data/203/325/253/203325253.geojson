@@ -2,13 +2,14 @@
   "id": 203325253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.796951,-36.950417,174.796951,-36.950417",
     "geom:latitude":-36.950417,
     "geom:longitude":174.796951,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3 59a Mahunga Dve Mangere ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203325253,
-    "wof:lastmodified":1449025656,
+    "wof:lastmodified":1466312217,
     "wof:name":"Leicester Textiles",
     "wof:parent_id":85778435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.796951,-36.950417,174.796951,-36.950417],
-  "geometry": {"coordinates":[174.796951,-36.950417],"type":"Point"}
+  "bbox": [
+    174.796951,
+    -36.950417,
+    174.796951,
+    -36.950417
+],
+  "geometry": {"coordinates":[174.79695100000001,-36.950417],"type":"Point"}
 }

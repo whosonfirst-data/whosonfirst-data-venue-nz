@@ -2,13 +2,14 @@
   "id": 219491921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.218735,-38.150593,176.218735,-38.150593",
     "geom:latitude":-38.150593,
     "geom:longitude":176.218735,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"362 Malfroy Rd Wst ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219491921,
-    "wof:lastmodified":1449070324,
+    "wof:lastmodified":1466312284,
     "wof:name":"Westbrook School",
     "wof:parent_id":85781701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.218735,-38.150593,176.218735,-38.150593],
-  "geometry": {"coordinates":[176.218735,-38.150593],"type":"Point"}
+  "bbox": [
+    176.218735,
+    -38.150593,
+    176.218735,
+    -38.150593
+],
+  "geometry": {"coordinates":[176.21873500000001,-38.150593],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186473605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.759598,-41.338486,174.759598,-41.338486",
     "geom:latitude":-41.338486,
     "geom:longitude":174.759598,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"119 Happy Valley Rd Owhiro Bay ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186473605,
-    "wof:lastmodified":1449050964,
+    "wof:lastmodified":1466312594,
     "wof:name":"Plumbing Works",
     "wof:parent_id":85778341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.759598,-41.338486,174.759598,-41.338486],
-  "geometry": {"coordinates":[174.759598,-41.338486],"type":"Point"}
+  "bbox": [
+    174.759598,
+    -41.338486,
+    174.759598,
+    -41.338486
+],
+  "geometry": {"coordinates":[174.75959800000001,-41.338486],"type":"Point"}
 }

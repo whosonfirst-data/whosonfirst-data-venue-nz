@@ -2,13 +2,14 @@
   "id": 219959917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.775955,-36.864967,174.775955,-36.864967",
     "geom:latitude":-36.864967,
     "geom:longitude":174.775955,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Carlton Gore Rd Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219959917,
-    "wof:lastmodified":1449073566,
+    "wof:lastmodified":1466313118,
     "wof:name":"NRM New Zealand",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.775955,-36.864967,174.775955,-36.864967],
-  "geometry": {"coordinates":[174.775955,-36.864967],"type":"Point"}
+  "bbox": [
+    174.775955,
+    -36.864967,
+    174.775955,
+    -36.864967
+],
+  "geometry": {"coordinates":[174.77595500000001,-36.864967],"type":"Point"}
 }

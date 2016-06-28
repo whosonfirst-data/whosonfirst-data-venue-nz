@@ -2,13 +2,14 @@
   "id": 202706425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.322144,-35.728886,174.322144,-35.728886",
     "geom:latitude":-35.728886,
     "geom:longitude":174.322144,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Commerce St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202706425,
-    "wof:lastmodified":1449060291,
+    "wof:lastmodified":1466312264,
     "wof:name":"Chipmunks Whangarei",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.322144,-35.728886,174.322144,-35.728886],
-  "geometry": {"coordinates":[174.322144,-35.728886],"type":"Point"}
+  "bbox": [
+    174.322144,
+    -35.728886,
+    174.322144,
+    -35.728886
+],
+  "geometry": {"coordinates":[174.32214400000001,-35.728886],"type":"Point"}
 }

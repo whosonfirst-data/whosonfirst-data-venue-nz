@@ -2,13 +2,14 @@
   "id": 219564569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.818024,-41.311909,174.818024,-41.311909",
     "geom:latitude":-41.311909,
     "geom:longitude":174.818024,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Stewart Duff Dve Miramar ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219564569,
-    "wof:lastmodified":1449073704,
+    "wof:lastmodified":1466312593,
     "wof:name":"Care Park New Zealand Ltd",
     "wof:parent_id":85773025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.818024,-41.311909,174.818024,-41.311909],
-  "geometry": {"coordinates":[174.818024,-41.311909],"type":"Point"}
+  "bbox": [
+    174.818024,
+    -41.311909,
+    174.818024,
+    -41.311909
+],
+  "geometry": {"coordinates":[174.81802400000001,-41.311909],"type":"Point"}
 }

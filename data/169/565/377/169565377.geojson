@@ -2,13 +2,14 @@
   "id": 169565377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.11261,-37.69891,176.11261,-37.69891",
     "geom:latitude":-37.69891,
     "geom:longitude":176.11261,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"171 Moffat Rd Bethlehem ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169565377,
-    "wof:lastmodified":1449035665,
+    "wof:lastmodified":1466311048,
     "wof:name":"Prenzel of Tauranga",
     "wof:parent_id":85772841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.11261,-37.69891,176.11261,-37.69891],
-  "geometry": {"coordinates":[176.11261,-37.69891],"type":"Point"}
+  "bbox": [
+    176.11261,
+    -37.69891,
+    176.11261,
+    -37.69891
+],
+  "geometry": {"coordinates":[176.11260999999999,-37.69891],"type":"Point"}
 }

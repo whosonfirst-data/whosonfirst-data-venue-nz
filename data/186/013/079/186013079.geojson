@@ -2,13 +2,14 @@
   "id": 186013079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.642532,-43.545422,172.642532,-43.545422",
     "geom:latitude":-43.545422,
     "geom:longitude":172.642532,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Gasson St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186013079,
-    "wof:lastmodified":1449052187,
+    "wof:lastmodified":1466312007,
     "wof:name":"Just Desserts",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "wedding"
     ]
 },
-  "bbox": [172.642532,-43.545422,172.642532,-43.545422],
-  "geometry": {"coordinates":[172.642532,-43.545422],"type":"Point"}
+  "bbox": [
+    172.642532,
+    -43.545422,
+    172.642532,
+    -43.545422
+],
+  "geometry": {"coordinates":[172.64253199999999,-43.545422],"type":"Point"}
 }

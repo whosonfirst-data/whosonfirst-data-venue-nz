@@ -2,13 +2,14 @@
   "id": 185950817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.234207,-41.312859,173.234207,-41.312859",
     "geom:latitude":-41.312859,
     "geom:longitude":173.234207,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Songer St & Neale Ave Stoke ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185950817,
-    "wof:lastmodified":1449007250,
+    "wof:lastmodified":1466312232,
     "wof:name":"Stoke Recreation Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "facility"
     ]
 },
-  "bbox": [173.234207,-41.312859,173.234207,-41.312859],
+  "bbox": [
+    173.234207,
+    -41.312859,
+    173.234207,
+    -41.312859
+],
   "geometry": {"coordinates":[173.234207,-41.312859],"type":"Point"}
 }

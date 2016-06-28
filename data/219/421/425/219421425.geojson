@@ -2,13 +2,14 @@
   "id": 219421425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.698898,-36.742283,174.698898,-36.742283",
     "geom:latitude":-36.742283,
     "geom:longitude":174.698898,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Rosedale Rd Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219421425,
-    "wof:lastmodified":1449072623,
+    "wof:lastmodified":1466311975,
     "wof:name":"Heletranz Ltd Heliport",
     "wof:parent_id":85772825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "tourism"
     ]
 },
-  "bbox": [174.698898,-36.742283,174.698898,-36.742283],
-  "geometry": {"coordinates":[174.698898,-36.742283],"type":"Point"}
+  "bbox": [
+    174.698898,
+    -36.742283,
+    174.698898,
+    -36.742283
+],
+  "geometry": {"coordinates":[174.69889800000001,-36.742283],"type":"Point"}
 }

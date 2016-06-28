@@ -2,13 +2,14 @@
   "id": 169580135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.348862,-46.422478,168.348862,-46.422478",
     "geom:latitude":-46.422478,
     "geom:longitude":168.348862,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Crinan St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169580135,
-    "wof:lastmodified":1449034915,
+    "wof:lastmodified":1466311385,
     "wof:name":"Bell & Wyatt",
     "wof:parent_id":85781841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.348862,-46.422478,168.348862,-46.422478],
+  "bbox": [
+    168.348862,
+    -46.422478,
+    168.348862,
+    -46.422478
+],
   "geometry": {"coordinates":[168.348862,-46.422478],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186514951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.536026,-37.652309,175.536026,-37.652309",
     "geom:latitude":-37.652309,
     "geom:longitude":175.536026,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Osborne Ave ",
     "sg:city":"Morrinsville",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186514951,
-    "wof:lastmodified":1449051720,
+    "wof:lastmodified":1466312799,
     "wof:name":"Inner Beauty Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "health"
     ]
 },
-  "bbox": [175.536026,-37.652309,175.536026,-37.652309],
-  "geometry": {"coordinates":[175.536026,-37.652309],"type":"Point"}
+  "bbox": [
+    175.536026,
+    -37.652309,
+    175.536026,
+    -37.652309
+],
+  "geometry": {"coordinates":[175.53602599999999,-37.652309],"type":"Point"}
 }

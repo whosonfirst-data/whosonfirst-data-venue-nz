@@ -2,13 +2,14 @@
   "id": 186111937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.243576,-37.755512,175.243576,-37.755512",
     "geom:latitude":-37.755512,
     "geom:longitude":175.243576,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"661 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186111937,
-    "wof:lastmodified":1449053104,
+    "wof:lastmodified":1466310641,
     "wof:name":"Dial-A-Gas Bottle",
     "wof:parent_id":85773235,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.243576,-37.755512,175.243576,-37.755512],
-  "geometry": {"coordinates":[175.243576,-37.755512],"type":"Point"}
+  "bbox": [
+    175.243576,
+    -37.755512,
+    175.243576,
+    -37.755512
+],
+  "geometry": {"coordinates":[175.24357599999999,-37.755512],"type":"Point"}
 }

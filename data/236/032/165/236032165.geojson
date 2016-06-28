@@ -2,13 +2,14 @@
   "id": 236032165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.574509,-36.777138,174.574509,-36.777138",
     "geom:latitude":-36.777138,
     "geom:longitude":174.574509,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"84 Old Railway Rd Kumeu ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236032165,
-    "wof:lastmodified":1449003231,
+    "wof:lastmodified":1466312026,
     "wof:name":"Markovina Vineyards Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [174.574509,-36.777138,174.574509,-36.777138],
-  "geometry": {"coordinates":[174.574509,-36.777138],"type":"Point"}
+  "bbox": [
+    174.574509,
+    -36.777138,
+    174.574509,
+    -36.777138
+],
+  "geometry": {"coordinates":[174.57450900000001,-36.777138],"type":"Point"}
 }

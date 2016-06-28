@@ -2,13 +2,14 @@
   "id": 219962461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.944077,-37.034721,174.944077,-37.034721",
     "geom:latitude":-37.034721,
     "geom:longitude":174.944077,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"192 Airfield Rd Takanini ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219962461,
-    "wof:lastmodified":1449072460,
+    "wof:lastmodified":1466313170,
     "wof:name":"Takanini Racing & Stock Feeds Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.944077,-37.034721,174.944077,-37.034721],
-  "geometry": {"coordinates":[174.944077,-37.034721],"type":"Point"}
+  "bbox": [
+    174.944077,
+    -37.034721,
+    174.944077,
+    -37.034721
+],
+  "geometry": {"coordinates":[174.94407699999999,-37.034721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202902835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.529755,-40.214462,175.529755,-40.214462",
     "geom:latitude":-40.214462,
     "geom:longitude":175.529755,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Sandon Rd ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202902835,
-    "wof:lastmodified":1449061984,
+    "wof:lastmodified":1466312694,
     "wof:name":"Manawatu Mini Spreaders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.529755,-40.214462,175.529755,-40.214462],
-  "geometry": {"coordinates":[175.529755,-40.214462],"type":"Point"}
+  "bbox": [
+    175.529755,
+    -40.214462,
+    175.529755,
+    -40.214462
+],
+  "geometry": {"coordinates":[175.52975499999999,-40.214462],"type":"Point"}
 }

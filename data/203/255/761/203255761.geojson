@@ -2,13 +2,14 @@
   "id": 203255761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.279373,-40.632538,175.279373,-40.632538",
     "geom:latitude":-40.632538,
     "geom:longitude":175.279373,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9-11 Totara St ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203255761,
-    "wof:lastmodified":1449025773,
+    "wof:lastmodified":1466311902,
     "wof:name":"Comfort Socks Ltd",
     "wof:parent_id":85782865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.279373,-40.632538,175.279373,-40.632538],
-  "geometry": {"coordinates":[175.279373,-40.632538],"type":"Point"}
+  "bbox": [
+    175.279373,
+    -40.632538,
+    175.279373,
+    -40.632538
+],
+  "geometry": {"coordinates":[175.27937299999999,-40.632538],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169535923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.322144,-41.112888,175.322144,-41.112888",
     "geom:latitude":-41.112888,
     "geom:longitude":175.322144,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4th Floor PSIS Bldg cnr Featherston & Ballance, Sts Private Bag 10-004 The Terrace ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169535923,
-    "wof:lastmodified":1449033289,
+    "wof:lastmodified":1466310580,
     "wof:name":"Te Mangai Paho",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [175.322144,-41.112888,175.322144,-41.112888],
-  "geometry": {"coordinates":[175.322144,-41.112888],"type":"Point"}
+  "bbox": [
+    175.322144,
+    -41.112888,
+    175.322144,
+    -41.112888
+],
+  "geometry": {"coordinates":[175.32214400000001,-41.112888],"type":"Point"}
 }

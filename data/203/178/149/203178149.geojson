@@ -2,13 +2,14 @@
   "id": 203178149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.730713,-36.85854,174.730713,-36.85854",
     "geom:latitude":-36.85854,
     "geom:longitude":174.730713,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"426 Richmond Rd Grey Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203178149,
-    "wof:lastmodified":1449026322,
+    "wof:lastmodified":1466311165,
     "wof:name":"MacLean's Laundry Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fabric"
     ]
 },
-  "bbox": [174.730713,-36.85854,174.730713,-36.85854],
-  "geometry": {"coordinates":[174.730713,-36.85854],"type":"Point"}
+  "bbox": [
+    174.730713,
+    -36.85854,
+    174.730713,
+    -36.85854
+],
+  "geometry": {"coordinates":[174.73071300000001,-36.85854],"type":"Point"}
 }

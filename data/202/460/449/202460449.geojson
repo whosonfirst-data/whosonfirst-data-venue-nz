@@ -2,13 +2,14 @@
   "id": 202460449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.590057,-40.343922,175.590057,-40.343922",
     "geom:latitude":-40.343922,
     "geom:longitude":175.590057,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Bennett St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202460449,
-    "wof:lastmodified":1449062507,
+    "wof:lastmodified":1466311825,
     "wof:name":"Enable New Zealand",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "aid"
     ]
 },
-  "bbox": [175.590057,-40.343922,175.590057,-40.343922],
+  "bbox": [
+    175.590057,
+    -40.343922,
+    175.590057,
+    -40.343922
+],
   "geometry": {"coordinates":[175.590057,-40.343922],"type":"Point"}
 }

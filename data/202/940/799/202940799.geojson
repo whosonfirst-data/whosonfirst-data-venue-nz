@@ -2,13 +2,14 @@
   "id": 202940799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.070374,-41.124439,175.070374,-41.124439",
     "geom:latitude":-41.124439,
     "geom:longitude":175.070374,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 40-765 Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202940799,
-    "wof:lastmodified":1449060741,
+    "wof:lastmodified":1466312871,
     "wof:name":"Seed On Earth",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "turf"
     ]
 },
-  "bbox": [175.070374,-41.124439,175.070374,-41.124439],
-  "geometry": {"coordinates":[175.070374,-41.124439],"type":"Point"}
+  "bbox": [
+    175.070374,
+    -41.124439,
+    175.070374,
+    -41.124439
+],
+  "geometry": {"coordinates":[175.07037399999999,-41.124439],"type":"Point"}
 }

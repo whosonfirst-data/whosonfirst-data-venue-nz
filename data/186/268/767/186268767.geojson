@@ -2,13 +2,14 @@
   "id": 186268767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.640564,-40.325752,175.640564,-40.325752",
     "geom:latitude":-40.325752,
     "geom:longitude":175.640564,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Kelvin Grove Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186268767,
-    "wof:lastmodified":1449051904,
+    "wof:lastmodified":1466312066,
     "wof:name":"Welder & Electronic Servicing Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "welding"
     ]
 },
-  "bbox": [175.640564,-40.325752,175.640564,-40.325752],
-  "geometry": {"coordinates":[175.640564,-40.325752],"type":"Point"}
+  "bbox": [
+    175.640564,
+    -40.325752,
+    175.640564,
+    -40.325752
+],
+  "geometry": {"coordinates":[175.64056400000001,-40.325752],"type":"Point"}
 }

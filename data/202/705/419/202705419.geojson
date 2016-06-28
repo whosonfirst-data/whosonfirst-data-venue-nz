@@ -2,13 +2,14 @@
   "id": 202705419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.260559,-37.760807,175.260559,-37.760807",
     "geom:latitude":-37.760807,
     "geom:longitude":175.260559,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Beerescourt Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202705419,
-    "wof:lastmodified":1449062665,
+    "wof:lastmodified":1466312146,
     "wof:name":"Tredsafe Ltd",
     "wof:parent_id":85780847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.260559,-37.760807,175.260559,-37.760807],
+  "bbox": [
+    175.260559,
+    -37.760807,
+    175.260559,
+    -37.760807
+],
   "geometry": {"coordinates":[175.260559,-37.760807],"type":"Point"}
 }

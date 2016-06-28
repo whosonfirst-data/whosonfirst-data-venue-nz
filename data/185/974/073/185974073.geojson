@@ -2,13 +2,14 @@
   "id": 185974073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.900787,-36.914238,174.900787,-36.914238",
     "geom:latitude":-36.914238,
     "geom:longitude":174.900787,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Ben Lomond Cre Pakuranga ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185974073,
-    "wof:lastmodified":1449008007,
+    "wof:lastmodified":1466312412,
     "wof:name":"Cascade Storage",
     "wof:parent_id":85778943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.900787,-36.914238,174.900787,-36.914238],
-  "geometry": {"coordinates":[174.900787,-36.914238],"type":"Point"}
+  "bbox": [
+    174.900787,
+    -36.914238,
+    174.900787,
+    -36.914238
+],
+  "geometry": {"coordinates":[174.90078700000001,-36.914238],"type":"Point"}
 }

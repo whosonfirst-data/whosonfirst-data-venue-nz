@@ -2,13 +2,14 @@
   "id": 202940337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.867371,-39.581551,176.867371,-39.581551",
     "geom:latitude":-39.581551,
     "geom:longitude":176.867371,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1937 Pakowhai Rd Napier ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202940337,
-    "wof:lastmodified":1449060737,
+    "wof:lastmodified":1466312937,
     "wof:name":"Instant Lawn Suppliers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "turf"
     ]
 },
-  "bbox": [176.867371,-39.581551,176.867371,-39.581551],
-  "geometry": {"coordinates":[176.867371,-39.581551],"type":"Point"}
+  "bbox": [
+    176.867371,
+    -39.581551,
+    176.867371,
+    -39.581551
+],
+  "geometry": {"coordinates":[176.86737099999999,-39.581551],"type":"Point"}
 }

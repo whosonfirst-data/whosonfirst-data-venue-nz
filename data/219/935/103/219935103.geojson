@@ -2,13 +2,14 @@
   "id": 219935103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.251221,-37.763294,175.251221,-37.763294",
     "geom:latitude":-37.763294,
     "geom:longitude":175.251221,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"423 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219935103,
-    "wof:lastmodified":1449073290,
+    "wof:lastmodified":1466313164,
     "wof:name":"Ecostream Irrigation",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.251221,-37.763294,175.251221,-37.763294],
-  "geometry": {"coordinates":[175.251221,-37.763294],"type":"Point"}
+  "bbox": [
+    175.251221,
+    -37.763294,
+    175.251221,
+    -37.763294
+],
+  "geometry": {"coordinates":[175.25122099999999,-37.763294],"type":"Point"}
 }

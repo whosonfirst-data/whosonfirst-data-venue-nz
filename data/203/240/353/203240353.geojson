@@ -2,13 +2,14 @@
   "id": 203240353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.16597,-37.730148,176.16597,-37.730148",
     "geom:latitude":-37.730148,
     "geom:longitude":176.16597,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 Ohauiti Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203240353,
-    "wof:lastmodified":1449025135,
+    "wof:lastmodified":1466311741,
     "wof:name":"Wendy Vine Design",
     "wof:parent_id":85782081,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.16597,-37.730148,176.16597,-37.730148],
-  "geometry": {"coordinates":[176.16597,-37.730148],"type":"Point"}
+  "bbox": [
+    176.16597,
+    -37.730148,
+    176.16597,
+    -37.730148
+],
+  "geometry": {"coordinates":[176.16596999999999,-37.730148],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219516581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.765137,-36.849865,174.765137,-36.849865",
     "geom:latitude":-36.849865,
     "geom:longitude":174.765137,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4/242 Queen St Auckland City ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219516581,
-    "wof:lastmodified":1449071066,
+    "wof:lastmodified":1466312348,
     "wof:name":"Auckland English Academy",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "language"
     ]
 },
-  "bbox": [174.765137,-36.849865,174.765137,-36.849865],
-  "geometry": {"coordinates":[174.765137,-36.849865],"type":"Point"}
+  "bbox": [
+    174.765137,
+    -36.849865,
+    174.765137,
+    -36.849865
+],
+  "geometry": {"coordinates":[174.76513700000001,-36.849865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186057539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.577637,-43.545662,172.577637,-43.545662",
     "geom:latitude":-43.545662,
     "geom:longitude":172.577637,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"66 C Magdala Pl Middleton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":186057539,
-    "wof:lastmodified":1449051706,
+    "wof:lastmodified":1466311562,
     "wof:name":"BioSan (NZ) Ltd",
     "wof:parent_id":85778457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "maintenance"
     ]
 },
-  "bbox": [172.577637,-43.545662,172.577637,-43.545662],
-  "geometry": {"coordinates":[172.577637,-43.545662],"type":"Point"}
+  "bbox": [
+    172.577637,
+    -43.545662,
+    172.577637,
+    -43.545662
+],
+  "geometry": {"coordinates":[172.57763700000001,-43.545662],"type":"Point"}
 }

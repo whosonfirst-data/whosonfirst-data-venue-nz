@@ -2,13 +2,14 @@
   "id": 203160689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.773392,-41.263485,174.773392,-41.263485",
     "geom:latitude":-41.263485,
     "geom:longitude":174.773392,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Grosvenor Tce Wadestown ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203160689,
-    "wof:lastmodified":1449026543,
+    "wof:lastmodified":1466310994,
     "wof:name":"Wadestown Veterinary Clinic & Cattery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "pets"
     ]
 },
-  "bbox": [174.773392,-41.263485,174.773392,-41.263485],
+  "bbox": [
+    174.773392,
+    -41.263485,
+    174.773392,
+    -41.263485
+],
   "geometry": {"coordinates":[174.773392,-41.263485],"type":"Point"}
 }

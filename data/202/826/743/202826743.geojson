@@ -2,13 +2,14 @@
   "id": 202826743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.640442,-36.908604,174.640442,-36.908604",
     "geom:latitude":-36.908604,
     "geom:longitude":174.640442,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"361 West Coast Rd Glen Eden ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202826743,
-    "wof:lastmodified":1449061944,
+    "wof:lastmodified":1466312698,
     "wof:name":"Cornwall Designs Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.640442,-36.908604,174.640442,-36.908604],
-  "geometry": {"coordinates":[174.640442,-36.908604],"type":"Point"}
+  "bbox": [
+    174.640442,
+    -36.908604,
+    174.640442,
+    -36.908604
+],
+  "geometry": {"coordinates":[174.64044200000001,-36.908604],"type":"Point"}
 }

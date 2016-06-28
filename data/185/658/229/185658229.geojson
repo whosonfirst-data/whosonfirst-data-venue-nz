@@ -2,13 +2,14 @@
   "id": 185658229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.761215,-36.85434,174.761215,-36.85434",
     "geom:latitude":-36.85434,
     "geom:longitude":174.761215,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Greys Ave Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185658229,
-    "wof:lastmodified":1449006566,
+    "wof:lastmodified":1466311608,
     "wof:name":"Show-Off New Zealand",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "author"
     ]
 },
-  "bbox": [174.761215,-36.85434,174.761215,-36.85434],
-  "geometry": {"coordinates":[174.761215,-36.85434],"type":"Point"}
+  "bbox": [
+    174.761215,
+    -36.85434,
+    174.761215,
+    -36.85434
+],
+  "geometry": {"coordinates":[174.76121499999999,-36.85434],"type":"Point"}
 }

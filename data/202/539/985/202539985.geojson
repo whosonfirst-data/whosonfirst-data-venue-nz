@@ -2,13 +2,14 @@
   "id": 202539985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.633255,-36.87965,174.633255,-36.87965",
     "geom:latitude":-36.87965,
     "geom:longitude":174.633255,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor 357 Gt North Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202539985,
-    "wof:lastmodified":1449062714,
+    "wof:lastmodified":1466310999,
     "wof:name":"Spine & Body Clinic",
     "wof:parent_id":85778995,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.633255,-36.87965,174.633255,-36.87965],
-  "geometry": {"coordinates":[174.633255,-36.87965],"type":"Point"}
+  "bbox": [
+    174.633255,
+    -36.87965,
+    174.633255,
+    -36.87965
+],
+  "geometry": {"coordinates":[174.63325499999999,-36.87965],"type":"Point"}
 }

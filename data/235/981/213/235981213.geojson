@@ -2,13 +2,14 @@
   "id": 235981213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.059952,-39.917885,175.059952,-39.917885",
     "geom:latitude":-39.917885,
     "geom:longitude":175.059952,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 c Moana St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":235981213,
-    "wof:lastmodified":1449008605,
+    "wof:lastmodified":1466311409,
     "wof:name":"Left Bank Cafe",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cafe"
     ]
 },
-  "bbox": [175.059952,-39.917885,175.059952,-39.917885],
-  "geometry": {"coordinates":[175.059952,-39.917885],"type":"Point"}
+  "bbox": [
+    175.059952,
+    -39.917885,
+    175.059952,
+    -39.917885
+],
+  "geometry": {"coordinates":[175.05995200000001,-39.917885],"type":"Point"}
 }

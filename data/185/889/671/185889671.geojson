@@ -2,13 +2,14 @@
   "id": 185889671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.555542,41.638103,-87.555542,41.638103",
     "geom:latitude":41.638103,
     "geom:longitude":-87.555542,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Aylesbury Rd Burnham Camp ",
     "sg:city":"Burnham",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185889671,
-    "wof:lastmodified":1449006573,
+    "wof:lastmodified":1466311801,
     "wof:name":"Burnham Golf Course",
     "wof:parent_id":85824547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-87.555542,41.638103,-87.555542,41.638103],
+  "bbox": [
+    -87.555542,
+    41.638103,
+    -87.555542,
+    41.638103
+],
   "geometry": {"coordinates":[-87.555542,41.638103],"type":"Point"}
 }

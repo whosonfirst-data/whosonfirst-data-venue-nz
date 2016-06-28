@@ -2,13 +2,14 @@
   "id": 203054177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.327759,-38.013256,175.327759,-38.013256",
     "geom:latitude":-38.013256,
     "geom:longitude":175.327759,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Rickit Rd Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203054177,
-    "wof:lastmodified":1449025814,
+    "wof:lastmodified":1466311564,
     "wof:name":"Shoreline Manufacturing Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [175.327759,-38.013256,175.327759,-38.013256],
-  "geometry": {"coordinates":[175.327759,-38.013256],"type":"Point"}
+  "bbox": [
+    175.327759,
+    -38.013256,
+    175.327759,
+    -38.013256
+],
+  "geometry": {"coordinates":[175.32775899999999,-38.013256],"type":"Point"}
 }

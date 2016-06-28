@@ -2,13 +2,14 @@
   "id": 169557119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.8936,-36.944496,174.8936,-36.944496",
     "geom:latitude":-36.944496,
     "geom:longitude":174.8936,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 1/83 Springs Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169557119,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1466310917,
     "wof:name":"Wurlitzer Pty Ltd",
     "wof:parent_id":85778267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.8936,-36.944496,174.8936,-36.944496],
-  "geometry": {"coordinates":[174.8936,-36.944496],"type":"Point"}
+  "bbox": [
+    174.8936,
+    -36.944496,
+    174.8936,
+    -36.944496
+],
+  "geometry": {"coordinates":[174.89359999999999,-36.944496],"type":"Point"}
 }

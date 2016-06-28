@@ -2,13 +2,14 @@
   "id": 169825729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.770599,-41.342697,174.770599,-41.342697",
     "geom:latitude":-41.342697,
     "geom:longitude":174.770599,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"353 The Parade Island Bay ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169825729,
-    "wof:lastmodified":1449032817,
+    "wof:lastmodified":1466311850,
     "wof:name":"Island Bay Divers",
     "wof:parent_id":85772975,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.770599,-41.342697,174.770599,-41.342697],
+  "bbox": [
+    174.770599,
+    -41.342697,
+    174.770599,
+    -41.342697
+],
   "geometry": {"coordinates":[174.770599,-41.342697],"type":"Point"}
 }

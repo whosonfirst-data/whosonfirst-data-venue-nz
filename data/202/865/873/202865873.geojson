@@ -2,13 +2,14 @@
   "id": 202865873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.623489,-43.542046,172.623489,-43.542046",
     "geom:latitude":-43.542046,
     "geom:longitude":172.623489,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Disraeli St Addington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202865873,
-    "wof:lastmodified":1449062029,
+    "wof:lastmodified":1466312719,
     "wof:name":"Finesse Furniture Ltd",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [172.623489,-43.542046,172.623489,-43.542046],
-  "geometry": {"coordinates":[172.623489,-43.542046],"type":"Point"}
+  "bbox": [
+    172.623489,
+    -43.542046,
+    172.623489,
+    -43.542046
+],
+  "geometry": {"coordinates":[172.62348900000001,-43.542046],"type":"Point"}
 }

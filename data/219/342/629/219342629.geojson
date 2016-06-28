@@ -2,13 +2,14 @@
   "id": 219342629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.05365,-39.927139,175.05365,-39.927139",
     "geom:latitude":-39.927139,
     "geom:longitude":175.05365,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Somme Pde ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219342629,
-    "wof:lastmodified":1449073655,
+    "wof:lastmodified":1466311278,
     "wof:name":"Riverview Motels",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.05365,-39.927139,175.05365,-39.927139],
+  "bbox": [
+    175.05365,
+    -39.927139,
+    175.05365,
+    -39.927139
+],
   "geometry": {"coordinates":[175.05365,-39.927139],"type":"Point"}
 }

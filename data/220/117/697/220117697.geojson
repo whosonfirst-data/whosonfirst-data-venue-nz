@@ -2,13 +2,14 @@
   "id": 220117697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.149811,-37.697277,176.149811,-37.697277",
     "geom:latitude":-37.697277,
     "geom:longitude":176.149811,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6/47 Waihi Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220117697,
-    "wof:lastmodified":1449074602,
+    "wof:lastmodified":1466310758,
     "wof:name":"Global Candy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [176.149811,-37.697277,176.149811,-37.697277],
+  "bbox": [
+    176.149811,
+    -37.697277,
+    176.149811,
+    -37.697277
+],
   "geometry": {"coordinates":[176.149811,-37.697277],"type":"Point"}
 }

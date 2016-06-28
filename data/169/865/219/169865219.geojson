@@ -2,13 +2,14 @@
   "id": 169865219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-64.680969,46.428822,-64.680969,46.428822",
     "geom:latitude":46.428822,
     "geom:longitude":-64.680969,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Cambridge Tce ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169865219,
-    "wof:lastmodified":1449035154,
+    "wof:lastmodified":1466312041,
     "wof:name":"The Gateway Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leisure"
     ]
 },
-  "bbox": [-64.680969,46.428822,-64.680969,46.428822],
+  "bbox": [
+    -64.680969,
+    46.428822,
+    -64.680969,
+    46.428822
+],
   "geometry": {"coordinates":[-64.680969,46.428822],"type":"Point"}
 }

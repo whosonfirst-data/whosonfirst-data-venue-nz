@@ -2,13 +2,14 @@
   "id": 203087397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.323486,-35.713276,174.323486,-35.713276",
     "geom:latitude":-35.713276,
     "geom:longitude":174.323486,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Mill Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203087397,
-    "wof:lastmodified":1449025789,
+    "wof:lastmodified":1466311894,
     "wof:name":"Anglican Counselling & Care",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "counselling"
     ]
 },
-  "bbox": [174.323486,-35.713276,174.323486,-35.713276],
+  "bbox": [
+    174.323486,
+    -35.713276,
+    174.323486,
+    -35.713276
+],
   "geometry": {"coordinates":[174.323486,-35.713276],"type":"Point"}
 }

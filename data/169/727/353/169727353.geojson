@@ -2,13 +2,14 @@
   "id": 169727353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.534088,47.9492,-100.534088,47.9492",
     "geom:latitude":47.9492,
     "geom:longitude":-100.534088,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Queen St ",
     "sg:city":"Balfour",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169727353,
-    "wof:lastmodified":1449033190,
+    "wof:lastmodified":1466311122,
     "wof:name":"Balfour Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.534088,47.9492,-100.534088,47.9492],
+  "bbox": [
+    -100.534088,
+    47.9492,
+    -100.534088,
+    47.9492
+],
   "geometry": {"coordinates":[-100.534088,47.9492],"type":"Point"}
 }

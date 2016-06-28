@@ -2,13 +2,14 @@
   "id": 169590327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.354797,-46.411655,168.354797,-46.411655",
     "geom:latitude":-46.411655,
     "geom:longitude":168.354797,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Esk St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169590327,
-    "wof:lastmodified":1449034653,
+    "wof:lastmodified":1466311495,
     "wof:name":"Lyons Auto Electric Ltd",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.354797,-46.411655,168.354797,-46.411655],
-  "geometry": {"coordinates":[168.354797,-46.411655],"type":"Point"}
+  "bbox": [
+    168.354797,
+    -46.411655,
+    168.354797,
+    -46.411655
+],
+  "geometry": {"coordinates":[168.35479699999999,-46.411655],"type":"Point"}
 }

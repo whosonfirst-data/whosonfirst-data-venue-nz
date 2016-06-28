@@ -2,13 +2,14 @@
   "id": 202400483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.839355,-37.391003,175.839355,-37.391003",
     "geom:latitude":-37.391003,
     "geom:longitude":175.839355,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"School La ",
     "sg:city":"Waihi",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202400483,
-    "wof:lastmodified":1449060362,
+    "wof:lastmodified":1466311064,
     "wof:name":"Waihi Health Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.839355,-37.391003,175.839355,-37.391003],
-  "geometry": {"coordinates":[175.839355,-37.391003],"type":"Point"}
+  "bbox": [
+    175.839355,
+    -37.391003,
+    175.839355,
+    -37.391003
+],
+  "geometry": {"coordinates":[175.83935500000001,-37.391003],"type":"Point"}
 }

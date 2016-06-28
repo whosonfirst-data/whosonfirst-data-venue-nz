@@ -2,13 +2,14 @@
   "id": 219230423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.651825,-43.553169,172.651825,-43.553169",
     "geom:latitude":-43.553169,
     "geom:longitude":172.651825,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Riverlaw Tce St Martins ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219230423,
-    "wof:lastmodified":1449073019,
+    "wof:lastmodified":1466311777,
     "wof:name":"Action Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.651825,-43.553169,172.651825,-43.553169],
+  "bbox": [
+    172.651825,
+    -43.553169,
+    172.651825,
+    -43.553169
+],
   "geometry": {"coordinates":[172.651825,-43.553169],"type":"Point"}
 }

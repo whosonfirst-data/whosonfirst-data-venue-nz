@@ -2,13 +2,14 @@
   "id": 203122277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.79129,-36.978207,174.79129,-36.978207",
     "geom:latitude":-36.978207,
     "geom:longitude":174.79129,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Westney Rd Mangere ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203122277,
-    "wof:lastmodified":1449026027,
+    "wof:lastmodified":1466310713,
     "wof:name":"SPCA Auckland Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "garden"
     ]
 },
-  "bbox": [174.79129,-36.978207,174.79129,-36.978207],
+  "bbox": [
+    174.79129,
+    -36.978207,
+    174.79129,
+    -36.978207
+],
   "geometry": {"coordinates":[174.79129,-36.978207],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186641315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.346115,-46.397678,168.346115,-46.397678",
     "geom:latitude":-46.397678,
     "geom:longitude":168.346115,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Beatrice St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186641315,
-    "wof:lastmodified":1449052371,
+    "wof:lastmodified":1466313014,
     "wof:name":"Massage Therapy Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "fitness"
     ]
 },
-  "bbox": [168.346115,-46.397678,168.346115,-46.397678],
+  "bbox": [
+    168.346115,
+    -46.397678,
+    168.346115,
+    -46.397678
+],
   "geometry": {"coordinates":[168.346115,-46.397678],"type":"Point"}
 }

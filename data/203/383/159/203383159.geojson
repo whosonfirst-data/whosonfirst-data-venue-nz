@@ -2,13 +2,14 @@
   "id": 203383159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.307083,-35.683804,174.307083,-35.683804",
     "geom:latitude":-35.683804,
     "geom:longitude":174.307083,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Vinegar Hill Rd R D 1 Kamo ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203383159,
-    "wof:lastmodified":1449025728,
+    "wof:lastmodified":1466312416,
     "wof:name":"Jon Jones Boatbuilder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "boat"
     ]
 },
-  "bbox": [174.307083,-35.683804,174.307083,-35.683804],
-  "geometry": {"coordinates":[174.307083,-35.683804],"type":"Point"}
+  "bbox": [
+    174.307083,
+    -35.683804,
+    174.307083,
+    -35.683804
+],
+  "geometry": {"coordinates":[174.30708300000001,-35.683804],"type":"Point"}
 }

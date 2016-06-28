@@ -2,13 +2,14 @@
   "id": 220112615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.888168,-39.662628,176.888168,-39.662628",
     "geom:latitude":-39.662628,
     "geom:longitude":176.888168,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Guthrie Rd Havelock North ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220112615,
-    "wof:lastmodified":1449074388,
+    "wof:lastmodified":1466310713,
     "wof:name":"Sweet Art Cake Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [176.888168,-39.662628,176.888168,-39.662628],
-  "geometry": {"coordinates":[176.888168,-39.662628],"type":"Point"}
+  "bbox": [
+    176.888168,
+    -39.662628,
+    176.888168,
+    -39.662628
+],
+  "geometry": {"coordinates":[176.88816800000001,-39.662628],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185620913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.724487,-36.890373,174.724487,-36.890373",
     "geom:latitude":-36.890373,
     "geom:longitude":174.724487,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Mt Albert Rd Mt Albert ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185620913,
-    "wof:lastmodified":1449008081,
+    "wof:lastmodified":1466311013,
     "wof:name":"Alberton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "gallery"
     ]
 },
-  "bbox": [174.724487,-36.890373,174.724487,-36.890373],
-  "geometry": {"coordinates":[174.724487,-36.890373],"type":"Point"}
+  "bbox": [
+    174.724487,
+    -36.890373,
+    174.724487,
+    -36.890373
+],
+  "geometry": {"coordinates":[174.72448700000001,-36.890373],"type":"Point"}
 }

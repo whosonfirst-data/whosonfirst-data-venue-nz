@@ -2,13 +2,14 @@
   "id": 202565923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.586189,39.426743,-84.586189,39.426743",
     "geom:latitude":39.426743,
     "geom:longitude":-84.586189,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Thackeray St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202565923,
-    "wof:lastmodified":1449062428,
+    "wof:lastmodified":1466311225,
     "wof:name":"Waikato Podiatry Clinic",
     "wof:parent_id":85817551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "beauty"
     ]
 },
-  "bbox": [-84.586189,39.426743,-84.586189,39.426743],
+  "bbox": [
+    -84.586189,
+    39.426743,
+    -84.586189,
+    39.426743
+],
   "geometry": {"coordinates":[-84.586189,39.426743],"type":"Point"}
 }

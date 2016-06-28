@@ -2,13 +2,14 @@
   "id": 203422001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.669983,-36.776199,174.669983,-36.776199",
     "geom:latitude":-36.776199,
     "geom:longitude":174.669983,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Greenhithe Rd Greenhithe ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203422001,
-    "wof:lastmodified":1449025073,
+    "wof:lastmodified":1466312521,
     "wof:name":"Greenhithe Automotive & Marine",
     "wof:parent_id":85772929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.669983,-36.776199,174.669983,-36.776199],
+  "bbox": [
+    174.669983,
+    -36.776199,
+    174.669983,
+    -36.776199
+],
   "geometry": {"coordinates":[174.669983,-36.776199],"type":"Point"}
 }

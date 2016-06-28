@@ -2,13 +2,14 @@
   "id": 185965123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.005569,-39.948051,175.005569,-39.948051",
     "geom:latitude":-39.948051,
     "geom:longitude":175.005569,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1-11 Gilberd St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185965123,
-    "wof:lastmodified":1449007719,
+    "wof:lastmodified":1466312390,
     "wof:name":"Advanced Storage And Processing",
     "wof:parent_id":85780921,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "cool"
     ]
 },
-  "bbox": [175.005569,-39.948051,175.005569,-39.948051],
-  "geometry": {"coordinates":[175.005569,-39.948051],"type":"Point"}
+  "bbox": [
+    175.005569,
+    -39.948051,
+    175.005569,
+    -39.948051
+],
+  "geometry": {"coordinates":[175.00556900000001,-39.948051],"type":"Point"}
 }

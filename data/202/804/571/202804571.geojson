@@ -2,13 +2,14 @@
   "id": 202804571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.690231,-36.905064,174.690231,-36.905064",
     "geom:latitude":-36.905064,
     "geom:longitude":174.690231,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Portage Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202804571,
-    "wof:lastmodified":1449061858,
+    "wof:lastmodified":1466312453,
     "wof:name":"Bed Makers Postureline",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.690231,-36.905064,174.690231,-36.905064],
-  "geometry": {"coordinates":[174.690231,-36.905064],"type":"Point"}
+  "bbox": [
+    174.690231,
+    -36.905064,
+    174.690231,
+    -36.905064
+],
+  "geometry": {"coordinates":[174.69023100000001,-36.905064],"type":"Point"}
 }

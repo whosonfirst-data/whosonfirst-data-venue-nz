@@ -2,13 +2,14 @@
   "id": 219781873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.355255,-46.408394,168.355255,-46.408394",
     "geom:latitude":-46.408394,
     "geom:longitude":168.355255,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Yarrow St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219781873,
-    "wof:lastmodified":1449071055,
+    "wof:lastmodified":1466313043,
     "wof:name":"Autoplex Ltd",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "servicing"
     ]
 },
-  "bbox": [168.355255,-46.408394,168.355255,-46.408394],
+  "bbox": [
+    168.355255,
+    -46.408394,
+    168.355255,
+    -46.408394
+],
   "geometry": {"coordinates":[168.355255,-46.408394],"type":"Point"}
 }

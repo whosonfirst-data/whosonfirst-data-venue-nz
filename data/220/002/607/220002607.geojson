@@ -2,13 +2,14 @@
   "id": 220002607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.712936,-37.544487,175.712936,-37.544487",
     "geom:latitude":-37.544487,
     "geom:longitude":175.712936,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Boundary St Te ",
     "sg:city":"Aroha",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220002607,
-    "wof:lastmodified":1449074705,
+    "wof:lastmodified":1466310657,
     "wof:name":"Gilchrist Burns",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "finance"
     ]
 },
-  "bbox": [175.712936,-37.544487,175.712936,-37.544487],
-  "geometry": {"coordinates":[175.712936,-37.544487],"type":"Point"}
+  "bbox": [
+    175.712936,
+    -37.544487,
+    175.712936,
+    -37.544487
+],
+  "geometry": {"coordinates":[175.71293600000001,-37.544487],"type":"Point"}
 }

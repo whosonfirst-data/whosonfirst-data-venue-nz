@@ -2,13 +2,14 @@
   "id": 169545727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.99118,-37.960171,176.99118,-37.960171",
     "geom:latitude":-37.960171,
     "geom:longitude":176.99118,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"188 Commerce St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169545727,
-    "wof:lastmodified":1449033484,
+    "wof:lastmodified":1466310750,
     "wof:name":"Law Signs",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.99118,-37.960171,176.99118,-37.960171],
-  "geometry": {"coordinates":[176.99118,-37.960171],"type":"Point"}
+  "bbox": [
+    176.99118,
+    -37.960171,
+    176.99118,
+    -37.960171
+],
+  "geometry": {"coordinates":[176.99118000000001,-37.960171],"type":"Point"}
 }

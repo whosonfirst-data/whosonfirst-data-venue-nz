@@ -2,13 +2,14 @@
   "id": 220192399,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.321152,-38.01059,175.321152,-38.01059",
     "geom:latitude":-38.01059,
     "geom:longitude":175.321152,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Jacob St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":220192399,
-    "wof:lastmodified":1449074618,
+    "wof:lastmodified":1466311407,
     "wof:name":"Magills Butchery Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.321152,-38.01059,175.321152,-38.01059],
-  "geometry": {"coordinates":[175.321152,-38.01059],"type":"Point"}
+  "bbox": [
+    175.321152,
+    -38.01059,
+    175.321152,
+    -38.01059
+],
+  "geometry": {"coordinates":[175.32115200000001,-38.01059],"type":"Point"}
 }

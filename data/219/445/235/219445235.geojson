@@ -2,13 +2,14 @@
   "id": 219445235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.653641,-43.383282,172.653641,-43.383282",
     "geom:latitude":-43.383282,
     "geom:longitude":172.653641,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Christchurch ",
     "sg:city":"Kaiapoi",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219445235,
-    "wof:lastmodified":1449070866,
+    "wof:lastmodified":1466312256,
     "wof:name":"Driver Safety Programmes",
     "wof:parent_id":85782425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driver"
     ]
 },
-  "bbox": [172.653641,-43.383282,172.653641,-43.383282],
-  "geometry": {"coordinates":[172.653641,-43.383282],"type":"Point"}
+  "bbox": [
+    172.653641,
+    -43.383282,
+    172.653641,
+    -43.383282
+],
+  "geometry": {"coordinates":[172.65364099999999,-43.383282],"type":"Point"}
 }

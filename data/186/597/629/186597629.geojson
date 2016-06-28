@@ -2,13 +2,14 @@
   "id": 186597629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.305695,-46.440594,168.305695,-46.440594",
     "geom:latitude":-46.440594,
     "geom:longitude":168.305695,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Raeburn Ave Otatara ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186597629,
-    "wof:lastmodified":1449053003,
+    "wof:lastmodified":1466313034,
     "wof:name":"Herbalife (NZ) Ltd",
     "wof:parent_id":85778905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "diet"
     ]
 },
-  "bbox": [168.305695,-46.440594,168.305695,-46.440594],
-  "geometry": {"coordinates":[168.305695,-46.440594],"type":"Point"}
+  "bbox": [
+    168.305695,
+    -46.440594,
+    168.305695,
+    -46.440594
+],
+  "geometry": {"coordinates":[168.30569499999999,-46.440594],"type":"Point"}
 }

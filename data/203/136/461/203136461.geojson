@@ -2,13 +2,14 @@
   "id": 203136461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.903625,-37.20063,174.903625,-37.20063",
     "geom:latitude":-37.20063,
     "geom:longitude":174.903625,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Homestead Rd RD1 Pokeno ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":203136461,
-    "wof:lastmodified":1449026852,
+    "wof:lastmodified":1466310801,
     "wof:name":"Pet Haven Boarding Kennels And Cattery",
     "wof:parent_id":85782491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "kennel"
     ]
 },
-  "bbox": [174.903625,-37.20063,174.903625,-37.20063],
-  "geometry": {"coordinates":[174.903625,-37.20063],"type":"Point"}
+  "bbox": [
+    174.903625,
+    -37.20063,
+    174.903625,
+    -37.20063
+],
+  "geometry": {"coordinates":[174.90362500000001,-37.20063],"type":"Point"}
 }

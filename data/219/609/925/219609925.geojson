@@ -2,13 +2,14 @@
   "id": 219609925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.803848,-41.224251,174.803848,-41.224251",
     "geom:latitude":-41.224251,
     "geom:longitude":174.803848,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Broderick Rd Johnsonville ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219609925,
-    "wof:lastmodified":1449071698,
+    "wof:lastmodified":1466312705,
     "wof:name":"Avery Ford",
     "wof:parent_id":85772981,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fitness"
     ]
 },
-  "bbox": [174.803848,-41.224251,174.803848,-41.224251],
-  "geometry": {"coordinates":[174.803848,-41.224251],"type":"Point"}
+  "bbox": [
+    174.803848,
+    -41.224251,
+    174.803848,
+    -41.224251
+],
+  "geometry": {"coordinates":[174.80384799999999,-41.224251],"type":"Point"}
 }

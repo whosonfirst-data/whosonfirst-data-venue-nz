@@ -2,13 +2,14 @@
   "id": 186015931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.801041,-36.888126,174.801041,-36.888126",
     "geom:latitude":-36.888126,
     "geom:longitude":174.801041,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"80-100 Ascot Ave Ellerslie ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186015931,
-    "wof:lastmodified":1449051012,
+    "wof:lastmodified":1466310790,
     "wof:name":"Ellerslie Convention Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wedding"
     ]
 },
-  "bbox": [174.801041,-36.888126,174.801041,-36.888126],
+  "bbox": [
+    174.801041,
+    -36.888126,
+    174.801041,
+    -36.888126
+],
   "geometry": {"coordinates":[174.801041,-36.888126],"type":"Point"}
 }

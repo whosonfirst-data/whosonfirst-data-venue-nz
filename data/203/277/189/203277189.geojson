@@ -2,13 +2,14 @@
   "id": 203277189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-70.887619,42.623707,-70.887619,42.623707",
     "geom:latitude":42.623707,
     "geom:longitude":-70.887619,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Sunnyside Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203277189,
-    "wof:lastmodified":1449025159,
+    "wof:lastmodified":1466312022,
     "wof:name":"R S Tailoring",
     "wof:parent_id":85803695,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-70.887619,42.623707,-70.887619,42.623707],
+  "bbox": [
+    -70.887619,
+    42.623707,
+    -70.887619,
+    42.623707
+],
   "geometry": {"coordinates":[-70.887619,42.623707],"type":"Point"}
 }

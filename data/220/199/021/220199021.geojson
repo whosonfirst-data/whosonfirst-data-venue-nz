@@ -2,13 +2,14 @@
   "id": 220199021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.888596,-36.932701,174.888596,-36.932701",
     "geom:latitude":-36.932701,
     "geom:longitude":174.888596,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Bostock Pl East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":220199021,
-    "wof:lastmodified":1449074112,
+    "wof:lastmodified":1466311461,
     "wof:name":"Recycled Machinery Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.888596,-36.932701,174.888596,-36.932701],
-  "geometry": {"coordinates":[174.888596,-36.932701],"type":"Point"}
+  "bbox": [
+    174.888596,
+    -36.932701,
+    174.888596,
+    -36.932701
+],
+  "geometry": {"coordinates":[174.88859600000001,-36.932701],"type":"Point"}
 }

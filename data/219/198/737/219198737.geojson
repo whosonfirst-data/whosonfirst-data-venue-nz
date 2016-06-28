@@ -2,13 +2,14 @@
   "id": 219198737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.104576,36.597755,-119.104576,36.597755",
     "geom:latitude":36.597755,
     "geom:longitude":-119.104576,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Akl Inter. Airport PO Box 53006 ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219198737,
-    "wof:lastmodified":1449071670,
+    "wof:lastmodified":1466311470,
     "wof:name":"Air Pacific Limited",
     "wof:parent_id":85818191,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.104576,36.597755,-119.104576,36.597755],
-  "geometry": {"coordinates":[-119.104576,36.597755],"type":"Point"}
+  "bbox": [
+    -119.104576,
+    36.597755,
+    -119.104576,
+    36.597755
+],
+  "geometry": {"coordinates":[-119.10457599999999,36.597755],"type":"Point"}
 }

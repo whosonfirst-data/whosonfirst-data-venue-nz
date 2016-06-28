@@ -2,13 +2,14 @@
   "id": 219576117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.944168,-37.060669,174.944168,-37.060669",
     "geom:latitude":-37.060669,
     "geom:longitude":174.944168,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Vernon St Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219576117,
-    "wof:lastmodified":1449073118,
+    "wof:lastmodified":1466312526,
     "wof:name":"E-Z-GO Electric Vehicles",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.944168,-37.060669,174.944168,-37.060669],
-  "geometry": {"coordinates":[174.944168,-37.060669],"type":"Point"}
+  "bbox": [
+    174.944168,
+    -37.060669,
+    174.944168,
+    -37.060669
+],
+  "geometry": {"coordinates":[174.94416799999999,-37.060669],"type":"Point"}
 }

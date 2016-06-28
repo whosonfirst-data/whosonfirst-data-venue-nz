@@ -2,13 +2,14 @@
   "id": 236026955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.90947,-39.645168,176.90947,-39.645168",
     "geom:latitude":-39.645168,
     "geom:longitude":176.90947,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"267 Te Mata Mangateretere Rd Havelock North ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236026955,
-    "wof:lastmodified":1449003623,
+    "wof:lastmodified":1466311073,
     "wof:name":"Askerne Vineyard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [176.90947,-39.645168,176.90947,-39.645168],
+  "bbox": [
+    176.90947,
+    -39.645168,
+    176.90947,
+    -39.645168
+],
   "geometry": {"coordinates":[176.90947,-39.645168],"type":"Point"}
 }

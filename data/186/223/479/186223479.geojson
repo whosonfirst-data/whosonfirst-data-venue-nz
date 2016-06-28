@@ -2,13 +2,14 @@
   "id": 186223479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.544708,-43.537159,172.544708,-43.537159",
     "geom:latitude":-43.537159,
     "geom:longitude":172.544708,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Waterloo Rd Sockburn ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186223479,
-    "wof:lastmodified":1449050439,
+    "wof:lastmodified":1466311611,
     "wof:name":"Hally Labels Ltd",
     "wof:parent_id":85778617,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "label"
     ]
 },
-  "bbox": [172.544708,-43.537159,172.544708,-43.537159],
-  "geometry": {"coordinates":[172.544708,-43.537159],"type":"Point"}
+  "bbox": [
+    172.544708,
+    -43.537159,
+    172.544708,
+    -43.537159
+],
+  "geometry": {"coordinates":[172.54470800000001,-43.537159],"type":"Point"}
 }

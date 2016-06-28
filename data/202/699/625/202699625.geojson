@@ -2,13 +2,14 @@
   "id": 202699625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.584961,-40.374153,175.584961,-40.374153",
     "geom:latitude":-40.374153,
     "geom:longitude":175.584961,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Alexander St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202699625,
-    "wof:lastmodified":1449060455,
+    "wof:lastmodified":1466312227,
     "wof:name":"Te Reo Tupua O Awapuni",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "children"
     ]
 },
-  "bbox": [175.584961,-40.374153,175.584961,-40.374153],
-  "geometry": {"coordinates":[175.584961,-40.374153],"type":"Point"}
+  "bbox": [
+    175.584961,
+    -40.374153,
+    175.584961,
+    -40.374153
+],
+  "geometry": {"coordinates":[175.58496099999999,-40.374153],"type":"Point"}
 }

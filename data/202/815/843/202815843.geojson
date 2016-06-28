@@ -2,13 +2,14 @@
   "id": 202815843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.33548,-35.683395,174.33548,-35.683395",
     "geom:latitude":-35.683395,
     "geom:longitude":174.33548,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Ngunguru Rd Glenbervie ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202815843,
-    "wof:lastmodified":1449061360,
+    "wof:lastmodified":1466312492,
     "wof:name":"The Bed Factory",
     "wof:parent_id":85781183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "bed"
     ]
 },
-  "bbox": [174.33548,-35.683395,174.33548,-35.683395],
-  "geometry": {"coordinates":[174.33548,-35.683395],"type":"Point"}
+  "bbox": [
+    174.33548,
+    -35.683395,
+    174.33548,
+    -35.683395
+],
+  "geometry": {"coordinates":[174.33547999999999,-35.683395],"type":"Point"}
 }

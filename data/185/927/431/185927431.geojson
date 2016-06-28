@@ -2,13 +2,14 @@
   "id": 185927431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.064529,-40.876793,175.064529,-40.876793",
     "geom:latitude":-40.876793,
     "geom:longitude":175.064529,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Mahara Pl ",
     "sg:city":"Waikanae",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185927431,
-    "wof:lastmodified":1449008050,
+    "wof:lastmodified":1466312018,
     "wof:name":"Kapiti Coast Bowling Centre Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sports"
     ]
 },
-  "bbox": [175.064529,-40.876793,175.064529,-40.876793],
-  "geometry": {"coordinates":[175.064529,-40.876793],"type":"Point"}
+  "bbox": [
+    175.064529,
+    -40.876793,
+    175.064529,
+    -40.876793
+],
+  "geometry": {"coordinates":[175.06452899999999,-40.876793],"type":"Point"}
 }

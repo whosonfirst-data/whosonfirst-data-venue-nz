@@ -2,13 +2,14 @@
   "id": 185688259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.563416,-40.225163,175.563416,-40.225163",
     "geom:latitude":-40.225163,
     "geom:longitude":175.563416,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Manchester St ",
     "sg:city":"Feilding",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185688259,
-    "wof:lastmodified":1449007208,
+    "wof:lastmodified":1466311953,
     "wof:name":"Tectonic Shift",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.563416,-40.225163,175.563416,-40.225163],
-  "geometry": {"coordinates":[175.563416,-40.225163],"type":"Point"}
+  "bbox": [
+    175.563416,
+    -40.225163,
+    175.563416,
+    -40.225163
+],
+  "geometry": {"coordinates":[175.56341599999999,-40.225163],"type":"Point"}
 }

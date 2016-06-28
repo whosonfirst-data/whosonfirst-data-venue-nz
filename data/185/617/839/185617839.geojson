@@ -2,13 +2,14 @@
   "id": 185617839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.765793,-36.856491,174.765793,-36.856491",
     "geom:latitude":-36.856491,
     "geom:longitude":174.765793,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Lvl 7 82 Symonds St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":185617839,
-    "wof:lastmodified":1449006635,
+    "wof:lastmodified":1466310963,
     "wof:name":"20th Century Fox",
     "wof:parent_id":85778317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.765793,-36.856491,174.765793,-36.856491],
+  "bbox": [
+    174.765793,
+    -36.856491,
+    174.765793,
+    -36.856491
+],
   "geometry": {"coordinates":[174.765793,-36.856491],"type":"Point"}
 }

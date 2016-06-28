@@ -2,13 +2,14 @@
   "id": 203409535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.039536,-36.881462,175.039536,-36.881462",
     "geom:latitude":-36.881462,
     "geom:longitude":175.039536,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Maraetai Heights Rd Maraetai ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203409535,
-    "wof:lastmodified":1449025699,
+    "wof:lastmodified":1466312585,
     "wof:name":"Aquahort Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "transport"
     ]
 },
-  "bbox": [175.039536,-36.881462,175.039536,-36.881462],
+  "bbox": [
+    175.039536,
+    -36.881462,
+    175.039536,
+    -36.881462
+],
   "geometry": {"coordinates":[175.039536,-36.881462],"type":"Point"}
 }

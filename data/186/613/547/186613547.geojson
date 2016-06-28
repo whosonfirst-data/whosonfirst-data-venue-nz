@@ -2,13 +2,14 @@
   "id": 186613547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.102615,-39.076611,174.102615,-39.076611",
     "geom:latitude":-39.076611,
     "geom:longitude":174.102615,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Highlands Park New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186613547,
-    "wof:lastmodified":1449051625,
+    "wof:lastmodified":1466312979,
     "wof:name":"Natural Curves",
     "wof:parent_id":85781221,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fitness"
     ]
 },
-  "bbox": [174.102615,-39.076611,174.102615,-39.076611],
-  "geometry": {"coordinates":[174.102615,-39.076611],"type":"Point"}
+  "bbox": [
+    174.102615,
+    -39.076611,
+    174.102615,
+    -39.076611
+],
+  "geometry": {"coordinates":[174.10261499999999,-39.076611],"type":"Point"}
 }

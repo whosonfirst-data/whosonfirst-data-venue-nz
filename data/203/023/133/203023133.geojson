@@ -2,13 +2,14 @@
   "id": 203023133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.593506,-40.339184,175.593506,-40.339184",
     "geom:latitude":-40.339184,
     "geom:longitude":175.593506,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Bisley St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203023133,
-    "wof:lastmodified":1449026686,
+    "wof:lastmodified":1466310946,
     "wof:name":"Ace Fly & Insect Busters",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "garden"
     ]
 },
-  "bbox": [175.593506,-40.339184,175.593506,-40.339184],
-  "geometry": {"coordinates":[175.593506,-40.339184],"type":"Point"}
+  "bbox": [
+    175.593506,
+    -40.339184,
+    175.593506,
+    -40.339184
+],
+  "geometry": {"coordinates":[175.59350599999999,-40.339184],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219376859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.232712,-40.469841,175.232712,-40.469841",
     "geom:latitude":-40.469841,
     "geom:longitude":175.232712,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Hartley St Foxton Beach ",
     "sg:city":"Foxton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219376859,
-    "wof:lastmodified":1449071610,
+    "wof:lastmodified":1466311559,
     "wof:name":"Go Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [175.232712,-40.469841,175.232712,-40.469841],
-  "geometry": {"coordinates":[175.232712,-40.469841],"type":"Point"}
+  "bbox": [
+    175.232712,
+    -40.469841,
+    175.232712,
+    -40.469841
+],
+  "geometry": {"coordinates":[175.23271199999999,-40.469841],"type":"Point"}
 }

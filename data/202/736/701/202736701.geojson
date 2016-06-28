@@ -2,13 +2,14 @@
   "id": 202736701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.664398,-40.945438,175.664398,-40.945438",
     "geom:latitude":-40.945438,
     "geom:longitude":175.664398,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Hope St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":202736701,
-    "wof:lastmodified":1449062607,
+    "wof:lastmodified":1466312271,
     "wof:name":"Tidy Bins",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "home"
     ]
 },
-  "bbox": [175.664398,-40.945438,175.664398,-40.945438],
-  "geometry": {"coordinates":[175.664398,-40.945438],"type":"Point"}
+  "bbox": [
+    175.664398,
+    -40.945438,
+    175.664398,
+    -40.945438
+],
+  "geometry": {"coordinates":[175.66439800000001,-40.945438],"type":"Point"}
 }

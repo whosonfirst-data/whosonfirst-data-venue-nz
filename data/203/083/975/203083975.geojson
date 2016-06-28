@@ -2,13 +2,14 @@
   "id": 203083975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.274094,-37.784748,175.274094,-37.784748",
     "geom:latitude":-37.784748,
     "geom:longitude":175.274094,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"222 Tristram St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203083975,
-    "wof:lastmodified":1449025818,
+    "wof:lastmodified":1466311873,
     "wof:name":"Radcom",
     "wof:parent_id":85780927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "garden"
     ]
 },
-  "bbox": [175.274094,-37.784748,175.274094,-37.784748],
-  "geometry": {"coordinates":[175.274094,-37.784748],"type":"Point"}
+  "bbox": [
+    175.274094,
+    -37.784748,
+    175.274094,
+    -37.784748
+],
+  "geometry": {"coordinates":[175.27409399999999,-37.784748],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202776805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.270447,-40.633652,175.270447,-40.633652",
     "geom:latitude":-40.633652,
     "geom:longitude":175.270447,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20-30 Coventry St ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202776805,
-    "wof:lastmodified":1449060678,
+    "wof:lastmodified":1466312562,
     "wof:name":"Garador",
     "wof:parent_id":85782865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "garage"
     ]
 },
-  "bbox": [175.270447,-40.633652,175.270447,-40.633652],
-  "geometry": {"coordinates":[175.270447,-40.633652],"type":"Point"}
+  "bbox": [
+    175.270447,
+    -40.633652,
+    175.270447,
+    -40.633652
+],
+  "geometry": {"coordinates":[175.27044699999999,-40.633652],"type":"Point"}
 }

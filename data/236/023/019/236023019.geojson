@@ -2,13 +2,14 @@
   "id": 236023019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.911545,-41.205044,174.911545,-41.205044",
     "geom:latitude":-41.205044,
     "geom:longitude":174.911545,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"497 High St Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236023019,
-    "wof:lastmodified":1449004860,
+    "wof:lastmodified":1466311013,
     "wof:name":"Taste Of Asia Takeaway",
     "wof:parent_id":85781005,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "takeaway"
     ]
 },
-  "bbox": [174.911545,-41.205044,174.911545,-41.205044],
-  "geometry": {"coordinates":[174.911545,-41.205044],"type":"Point"}
+  "bbox": [
+    174.911545,
+    -41.205044,
+    174.911545,
+    -41.205044
+],
+  "geometry": {"coordinates":[174.91154499999999,-41.205044],"type":"Point"}
 }

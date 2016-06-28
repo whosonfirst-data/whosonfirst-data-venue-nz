@@ -2,13 +2,14 @@
   "id": 185723871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.705551,-36.801949,174.705551,-36.801949",
     "geom:latitude":-36.801949,
     "geom:longitude":174.705551,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Canongate St Birkdale ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":185723871,
-    "wof:lastmodified":1449007551,
+    "wof:lastmodified":1466310726,
     "wof:name":"The Mermaids Danceband",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.705551,-36.801949,174.705551,-36.801949],
-  "geometry": {"coordinates":[174.705551,-36.801949],"type":"Point"}
+  "bbox": [
+    174.705551,
+    -36.801949,
+    174.705551,
+    -36.801949
+],
+  "geometry": {"coordinates":[174.70555100000001,-36.801949],"type":"Point"}
 }

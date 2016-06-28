@@ -2,13 +2,14 @@
   "id": 219757325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.74469,-36.870129,174.74469,-36.870129",
     "geom:latitude":-36.870129,
     "geom:longitude":174.74469,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Morningside Dve Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219757325,
-    "wof:lastmodified":1449072366,
+    "wof:lastmodified":1466313001,
     "wof:name":"Auto Clutch Ltd",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "automotive"
     ]
 },
-  "bbox": [174.74469,-36.870129,174.74469,-36.870129],
-  "geometry": {"coordinates":[174.74469,-36.870129],"type":"Point"}
+  "bbox": [
+    174.74469,
+    -36.870129,
+    174.74469,
+    -36.870129
+],
+  "geometry": {"coordinates":[174.74468999999999,-36.870129],"type":"Point"}
 }

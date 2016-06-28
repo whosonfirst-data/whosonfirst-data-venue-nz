@@ -2,13 +2,14 @@
   "id": 169556223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.875702,-36.95858,174.875702,-36.95858",
     "geom:latitude":-36.95858,
     "geom:longitude":174.875702,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Lovegrove Cre Otara ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169556223,
-    "wof:lastmodified":1449033506,
+    "wof:lastmodified":1466310904,
     "wof:name":"Product Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.875702,-36.95858,174.875702,-36.95858],
-  "geometry": {"coordinates":[174.875702,-36.95858],"type":"Point"}
+  "bbox": [
+    174.875702,
+    -36.95858,
+    174.875702,
+    -36.95858
+],
+  "geometry": {"coordinates":[174.87570199999999,-36.95858],"type":"Point"}
 }

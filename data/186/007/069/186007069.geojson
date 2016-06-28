@@ -2,13 +2,14 @@
   "id": 186007069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.762604,-35.253605,173.762604,-35.253605",
     "geom:latitude":-35.253605,
     "geom:longitude":173.762604,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 63 Wairau ",
     "sg:city":"Valley",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186007069,
-    "wof:lastmodified":1449052549,
+    "wof:lastmodified":1466311999,
     "wof:name":"Price Lorna",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wedding"
     ]
 },
-  "bbox": [173.762604,-35.253605,173.762604,-35.253605],
-  "geometry": {"coordinates":[173.762604,-35.253605],"type":"Point"}
+  "bbox": [
+    173.762604,
+    -35.253605,
+    173.762604,
+    -35.253605
+],
+  "geometry": {"coordinates":[173.76260400000001,-35.253605],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202740217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.65155,-40.947598,175.65155,-40.947598",
     "geom:latitude":-40.947598,
     "geom:longitude":175.65155,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"88 Cole St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202740217,
-    "wof:lastmodified":1449061283,
+    "wof:lastmodified":1466312280,
     "wof:name":"Aversham House Rest Home",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "care"
     ]
 },
-  "bbox": [175.65155,-40.947598,175.65155,-40.947598],
-  "geometry": {"coordinates":[175.65155,-40.947598],"type":"Point"}
+  "bbox": [
+    175.65155,
+    -40.947598,
+    175.65155,
+    -40.947598
+],
+  "geometry": {"coordinates":[175.65154999999999,-40.947598],"type":"Point"}
 }

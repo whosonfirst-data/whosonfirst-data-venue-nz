@@ -2,13 +2,14 @@
   "id": 219365117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.490784,-39.02953,174.490784,-39.02953",
     "geom:latitude":-39.02953,
     "geom:longitude":174.490784,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Piko Rd ",
     "sg:city":"Urenui",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219365117,
-    "wof:lastmodified":1449070956,
+    "wof:lastmodified":1466311456,
     "wof:name":"Gumboot Gully",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "sightseeing"
     ]
 },
-  "bbox": [174.490784,-39.02953,174.490784,-39.02953],
-  "geometry": {"coordinates":[174.490784,-39.02953],"type":"Point"}
+  "bbox": [
+    174.490784,
+    -39.02953,
+    174.490784,
+    -39.02953
+],
+  "geometry": {"coordinates":[174.49078399999999,-39.02953],"type":"Point"}
 }

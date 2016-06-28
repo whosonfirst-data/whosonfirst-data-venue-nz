@@ -2,13 +2,14 @@
   "id": 202851895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.635529,-40.331612,175.635529,-40.331612",
     "geom:latitude":-40.331612,
     "geom:longitude":175.635529,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Shelley St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202851895,
-    "wof:lastmodified":1449061755,
+    "wof:lastmodified":1466312701,
     "wof:name":"Woodcraft & Restoration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "finishing"
     ]
 },
-  "bbox": [175.635529,-40.331612,175.635529,-40.331612],
-  "geometry": {"coordinates":[175.635529,-40.331612],"type":"Point"}
+  "bbox": [
+    175.635529,
+    -40.331612,
+    175.635529,
+    -40.331612
+],
+  "geometry": {"coordinates":[175.63552899999999,-40.331612],"type":"Point"}
 }

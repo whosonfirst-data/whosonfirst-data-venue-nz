@@ -2,13 +2,14 @@
   "id": 186396131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.339951,-46.407364,168.339951,-46.407364",
     "geom:latitude":-46.407364,
     "geom:longitude":168.339951,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"35 Bond St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186396131,
-    "wof:lastmodified":1449052125,
+    "wof:lastmodified":1466312510,
     "wof:name":"Progressive Engineering Southland Ltd",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.339951,-46.407364,168.339951,-46.407364],
-  "geometry": {"coordinates":[168.339951,-46.407364],"type":"Point"}
+  "bbox": [
+    168.339951,
+    -46.407364,
+    168.339951,
+    -46.407364
+],
+  "geometry": {"coordinates":[168.33995100000001,-46.407364],"type":"Point"}
 }

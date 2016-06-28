@@ -2,13 +2,14 @@
   "id": 169855449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.995789,-37.954235,176.995789,-37.954235",
     "geom:latitude":-37.954235,
     "geom:longitude":176.995789,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"2nd Floor 55 Commerce St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169855449,
-    "wof:lastmodified":1449035110,
+    "wof:lastmodified":1466312019,
     "wof:name":"Adult Shopping Network",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leisure"
     ]
 },
-  "bbox": [176.995789,-37.954235,176.995789,-37.954235],
+  "bbox": [
+    176.995789,
+    -37.954235,
+    176.995789,
+    -37.954235
+],
   "geometry": {"coordinates":[176.995789,-37.954235],"type":"Point"}
 }

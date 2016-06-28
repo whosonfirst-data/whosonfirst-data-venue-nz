@@ -2,13 +2,14 @@
   "id": 219491251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.35408,-46.394798,168.35408,-46.394798",
     "geom:latitude":-46.394798,
     "geom:longitude":168.35408,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Herbert St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219491251,
-    "wof:lastmodified":1449070323,
+    "wof:lastmodified":1466312386,
     "wof:name":"Waihopai School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.35408,-46.394798,168.35408,-46.394798],
-  "geometry": {"coordinates":[168.35408,-46.394798],"type":"Point"}
+  "bbox": [
+    168.35408,
+    -46.394798,
+    168.35408,
+    -46.394798
+],
+  "geometry": {"coordinates":[168.35408000000001,-46.394798],"type":"Point"}
 }

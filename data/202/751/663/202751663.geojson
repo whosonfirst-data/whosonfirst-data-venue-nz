@@ -2,13 +2,14 @@
   "id": 202751663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.068329,-39.915466,175.068329,-39.915466",
     "geom:latitude":-39.915466,
     "geom:longitude":175.068329,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40 Burton Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202751663,
-    "wof:lastmodified":1449060246,
+    "wof:lastmodified":1466312313,
     "wof:name":"Summerset",
     "wof:parent_id":85772829,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "care"
     ]
 },
-  "bbox": [175.068329,-39.915466,175.068329,-39.915466],
-  "geometry": {"coordinates":[175.068329,-39.915466],"type":"Point"}
+  "bbox": [
+    175.068329,
+    -39.915466,
+    175.068329,
+    -39.915466
+],
+  "geometry": {"coordinates":[175.06832900000001,-39.915466],"type":"Point"}
 }

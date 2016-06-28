@@ -2,13 +2,14 @@
   "id": 202616545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.738434,-36.849751,174.738434,-36.849751",
     "geom:latitude":-36.849751,
     "geom:longitude":174.738434,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"72 John St Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202616545,
-    "wof:lastmodified":1449061961,
+    "wof:lastmodified":1466311649,
     "wof:name":"Morley K T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.738434,-36.849751,174.738434,-36.849751],
-  "geometry": {"coordinates":[174.738434,-36.849751],"type":"Point"}
+  "bbox": [
+    174.738434,
+    -36.849751,
+    174.738434,
+    -36.849751
+],
+  "geometry": {"coordinates":[174.73843400000001,-36.849751],"type":"Point"}
 }

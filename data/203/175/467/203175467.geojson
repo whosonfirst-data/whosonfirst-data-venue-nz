@@ -2,13 +2,14 @@
   "id": 203175467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.908585,-39.496162,176.908585,-39.496162",
     "geom:latitude":-39.496162,
     "geom:longitude":176.908585,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Kennedy Rd ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203175467,
-    "wof:lastmodified":1449026294,
+    "wof:lastmodified":1466311137,
     "wof:name":"A & H Repairs & Alterations",
     "wof:parent_id":85782461,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fabric"
     ]
 },
-  "bbox": [176.908585,-39.496162,176.908585,-39.496162],
-  "geometry": {"coordinates":[176.908585,-39.496162],"type":"Point"}
+  "bbox": [
+    176.908585,
+    -39.496162,
+    176.908585,
+    -39.496162
+],
+  "geometry": {"coordinates":[176.90858499999999,-39.496162],"type":"Point"}
 }

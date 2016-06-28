@@ -2,13 +2,14 @@
   "id": 202544029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.80275,-41.288513,174.80275,-41.288513",
     "geom:latitude":-41.288513,
     "geom:longitude":174.80275,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1/23C Maida Vale Rd Roseneath ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202544029,
-    "wof:lastmodified":1449062643,
+    "wof:lastmodified":1466311032,
     "wof:name":"Cleary C",
     "wof:parent_id":85778579,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.80275,-41.288513,174.80275,-41.288513],
+  "bbox": [
+    174.80275,
+    -41.288513,
+    174.80275,
+    -41.288513
+],
   "geometry": {"coordinates":[174.80275,-41.288513],"type":"Point"}
 }

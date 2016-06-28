@@ -2,13 +2,14 @@
   "id": 169652697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.765625,-36.892139,174.765625,-36.892139",
     "geom:latitude":-36.892139,
     "geom:longitude":174.765625,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"67 St Andrews Rd Epsom ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169652697,
-    "wof:lastmodified":1449034808,
+    "wof:lastmodified":1466310643,
     "wof:name":"Dolls Hospital Epsom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.765625,-36.892139,174.765625,-36.892139],
+  "bbox": [
+    174.765625,
+    -36.892139,
+    174.765625,
+    -36.892139
+],
   "geometry": {"coordinates":[174.765625,-36.892139],"type":"Point"}
 }

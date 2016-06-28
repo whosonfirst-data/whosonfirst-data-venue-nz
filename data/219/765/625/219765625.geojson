@@ -2,13 +2,14 @@
   "id": 219765625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.571014,-40.227627,175.571014,-40.227627",
     "geom:latitude":-40.227627,
     "geom:longitude":175.571014,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Gladstone St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219765625,
-    "wof:lastmodified":1449072422,
+    "wof:lastmodified":1466312870,
     "wof:name":"Midtown Towing Ltd",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "servicing"
     ]
 },
-  "bbox": [175.571014,-40.227627,175.571014,-40.227627],
-  "geometry": {"coordinates":[175.571014,-40.227627],"type":"Point"}
+  "bbox": [
+    175.571014,
+    -40.227627,
+    175.571014,
+    -40.227627
+],
+  "geometry": {"coordinates":[175.57101399999999,-40.227627],"type":"Point"}
 }

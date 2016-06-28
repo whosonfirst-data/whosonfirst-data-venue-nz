@@ -2,13 +2,14 @@
   "id": 236019299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.49678,-45.89394,170.49678,-45.89394",
     "geom:latitude":-45.89394,
     "geom:longitude":170.49678,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Hillside Rd South Dunedin ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236019299,
-    "wof:lastmodified":1449003557,
+    "wof:lastmodified":1466310966,
     "wof:name":"Pacific Fish Shop",
     "wof:parent_id":85778393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "takeaway"
     ]
 },
-  "bbox": [170.49678,-45.89394,170.49678,-45.89394],
+  "bbox": [
+    170.49678,
+    -45.89394,
+    170.49678,
+    -45.89394
+],
   "geometry": {"coordinates":[170.49678,-45.89394],"type":"Point"}
 }

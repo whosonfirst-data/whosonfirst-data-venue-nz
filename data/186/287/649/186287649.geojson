@@ -2,13 +2,14 @@
   "id": 186287649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.628586,-43.541309,172.628586,-43.541309",
     "geom:latitude":-43.541309,
     "geom:longitude":172.628586,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"196 Hazeldean Rd Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186287649,
-    "wof:lastmodified":1449050426,
+    "wof:lastmodified":1466312146,
     "wof:name":"Canterbury Rotomoulders Ltd",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.628586,-43.541309,172.628586,-43.541309],
-  "geometry": {"coordinates":[172.628586,-43.541309],"type":"Point"}
+  "bbox": [
+    172.628586,
+    -43.541309,
+    172.628586,
+    -43.541309
+],
+  "geometry": {"coordinates":[172.62858600000001,-43.541309],"type":"Point"}
 }

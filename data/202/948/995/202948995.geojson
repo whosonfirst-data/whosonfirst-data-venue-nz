@@ -2,13 +2,14 @@
   "id": 202948995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.469513,-45.880348,170.469513,-45.880348",
     "geom:latitude":-45.880348,
     "geom:longitude":170.469513,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Kaikorai Valley Rd Kaikorai ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202948995,
-    "wof:lastmodified":1449062141,
+    "wof:lastmodified":1466312780,
     "wof:name":"Roslyn Mower Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.469513,-45.880348,170.469513,-45.880348],
-  "geometry": {"coordinates":[170.469513,-45.880348],"type":"Point"}
+  "bbox": [
+    170.469513,
+    -45.880348,
+    170.469513,
+    -45.880348
+],
+  "geometry": {"coordinates":[170.46951300000001,-45.880348],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219500173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.668671,-36.896519,174.668671,-36.896519",
     "geom:latitude":-36.896519,
     "geom:longitude":174.668671,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"93 A Archibald Rd Kelston ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219500173,
-    "wof:lastmodified":1449071281,
+    "wof:lastmodified":1466312303,
     "wof:name":"PASSS (For Focused Learning)",
     "wof:parent_id":85780905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "teacher"
     ]
 },
-  "bbox": [174.668671,-36.896519,174.668671,-36.896519],
-  "geometry": {"coordinates":[174.668671,-36.896519],"type":"Point"}
+  "bbox": [
+    174.668671,
+    -36.896519,
+    174.668671,
+    -36.896519
+],
+  "geometry": {"coordinates":[174.66867099999999,-36.896519],"type":"Point"}
 }

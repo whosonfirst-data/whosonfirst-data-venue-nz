@@ -2,13 +2,14 @@
   "id": 220160577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.760849,-45.000961,168.760849,-45.000961",
     "geom:latitude":-45.000961,
     "geom:longitude":168.760849,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 6 Frankton ",
     "sg:city":"Queenstown",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220160577,
-    "wof:lastmodified":1449074739,
+    "wof:lastmodified":1466311154,
     "wof:name":"Vegie Patch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "veges"
     ]
 },
-  "bbox": [168.760849,-45.000961,168.760849,-45.000961],
-  "geometry": {"coordinates":[168.760849,-45.000961],"type":"Point"}
+  "bbox": [
+    168.760849,
+    -45.000961,
+    168.760849,
+    -45.000961
+],
+  "geometry": {"coordinates":[168.76084900000001,-45.000961],"type":"Point"}
 }

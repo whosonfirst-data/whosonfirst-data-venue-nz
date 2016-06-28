@@ -2,13 +2,14 @@
   "id": 203312795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.603455,-43.537663,172.603455,-43.537663",
     "geom:latitude":-43.537663,
     "geom:longitude":172.603455,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"93-97 Clarence St ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203312795,
-    "wof:lastmodified":1449025884,
+    "wof:lastmodified":1466312170,
     "wof:name":"Lapco Ltd",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "suede"
     ]
 },
-  "bbox": [172.603455,-43.537663,172.603455,-43.537663],
+  "bbox": [
+    172.603455,
+    -43.537663,
+    172.603455,
+    -43.537663
+],
   "geometry": {"coordinates":[172.603455,-43.537663],"type":"Point"}
 }

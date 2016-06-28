@@ -2,13 +2,14 @@
   "id": 202642235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.58815,-40.374584,175.58815,-40.374584",
     "geom:latitude":-40.374584,
     "geom:longitude":175.58815,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"60 A College St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202642235,
-    "wof:lastmodified":1449060256,
+    "wof:lastmodified":1466311860,
     "wof:name":"Neil Doherty Electrical",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [175.58815,-40.374584,175.58815,-40.374584],
-  "geometry": {"coordinates":[175.58815,-40.374584],"type":"Point"}
+  "bbox": [
+    175.58815,
+    -40.374584,
+    175.58815,
+    -40.374584
+],
+  "geometry": {"coordinates":[175.58815000000001,-40.374584],"type":"Point"}
 }

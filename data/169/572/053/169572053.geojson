@@ -2,13 +2,14 @@
   "id": 169572053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.77356,-36.876179,174.77356,-36.876179",
     "geom:latitude":-36.876179,
     "geom:longitude":174.77356,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"240 Greenlane Rd W Epsom ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":169572053,
-    "wof:lastmodified":1449034704,
+    "wof:lastmodified":1466311174,
     "wof:name":"Huckleberry Farms Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "health"
     ]
 },
-  "bbox": [174.77356,-36.876179,174.77356,-36.876179],
+  "bbox": [
+    174.77356,
+    -36.876179,
+    174.77356,
+    -36.876179
+],
   "geometry": {"coordinates":[174.77356,-36.876179],"type":"Point"}
 }

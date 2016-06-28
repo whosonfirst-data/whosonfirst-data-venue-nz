@@ -2,13 +2,14 @@
   "id": 202840537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.607422,-40.35947,175.607422,-40.35947",
     "geom:latitude":-40.35947,
     "geom:longitude":175.607422,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"278 Church St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202840537,
-    "wof:lastmodified":1449062087,
+    "wof:lastmodified":1466312570,
     "wof:name":"King & Teppett Ltd",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.607422,-40.35947,175.607422,-40.35947],
-  "geometry": {"coordinates":[175.607422,-40.35947],"type":"Point"}
+  "bbox": [
+    175.607422,
+    -40.35947,
+    175.607422,
+    -40.35947
+],
+  "geometry": {"coordinates":[175.60742200000001,-40.35947],"type":"Point"}
 }

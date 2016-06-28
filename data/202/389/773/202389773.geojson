@@ -2,13 +2,14 @@
   "id": 202389773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.843033,-36.930904,174.843033,-36.930904",
     "geom:latitude":-36.930904,
     "geom:longitude":174.843033,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1/627 Mt Wellington Hwy Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202389773,
-    "wof:lastmodified":1449062148,
+    "wof:lastmodified":1466310829,
     "wof:name":"Mt Wellington Accident & Family Health Care Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.843033,-36.930904,174.843033,-36.930904],
-  "geometry": {"coordinates":[174.843033,-36.930904],"type":"Point"}
+  "bbox": [
+    174.843033,
+    -36.930904,
+    174.843033,
+    -36.930904
+],
+  "geometry": {"coordinates":[174.84303299999999,-36.930904],"type":"Point"}
 }

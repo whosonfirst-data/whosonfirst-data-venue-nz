@@ -2,13 +2,14 @@
   "id": 219707189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.252258,-37.763699,175.252258,-37.763699",
     "geom:latitude":-37.763699,
     "geom:longitude":175.252258,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"414 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219707189,
-    "wof:lastmodified":1449073358,
+    "wof:lastmodified":1466312831,
     "wof:name":"Ducati-Sales Service Spares",
     "wof:parent_id":85780901,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "leasing"
     ]
 },
-  "bbox": [175.252258,-37.763699,175.252258,-37.763699],
-  "geometry": {"coordinates":[175.252258,-37.763699],"type":"Point"}
+  "bbox": [
+    175.252258,
+    -37.763699,
+    175.252258,
+    -37.763699
+],
+  "geometry": {"coordinates":[175.25225800000001,-37.763699],"type":"Point"}
 }

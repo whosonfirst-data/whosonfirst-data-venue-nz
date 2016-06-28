@@ -2,13 +2,14 @@
   "id": 219155591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.89064,-39.486584,176.89064,-39.486584",
     "geom:latitude":-39.486584,
     "geom:longitude":176.89064,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Pandora Rd ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":219155591,
-    "wof:lastmodified":1449073308,
+    "wof:lastmodified":1466310664,
     "wof:name":"Firmans Marine",
     "wof:parent_id":85773129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.89064,-39.486584,176.89064,-39.486584],
-  "geometry": {"coordinates":[176.89064,-39.486584],"type":"Point"}
+  "bbox": [
+    176.89064,
+    -39.486584,
+    176.89064,
+    -39.486584
+],
+  "geometry": {"coordinates":[176.89063999999999,-39.486584],"type":"Point"}
 }

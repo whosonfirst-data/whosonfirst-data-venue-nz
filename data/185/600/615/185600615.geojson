@@ -2,13 +2,14 @@
   "id": 185600615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.2229,-38.13876,176.2229,-38.13876",
     "geom:latitude":-38.13876,
     "geom:longitude":176.2229,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Sunset Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185600615,
-    "wof:lastmodified":1449006760,
+    "wof:lastmodified":1466310563,
     "wof:name":"Able Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [176.2229,-38.13876,176.2229,-38.13876],
-  "geometry": {"coordinates":[176.2229,-38.13876],"type":"Point"}
+  "bbox": [
+    176.2229,
+    -38.13876,
+    176.2229,
+    -38.13876
+],
+  "geometry": {"coordinates":[176.22290000000001,-38.13876],"type":"Point"}
 }

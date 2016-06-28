@@ -2,13 +2,14 @@
   "id": 219191329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.799988,-41.327847,174.799988,-41.327847",
     "geom:latitude":-41.327847,
     "geom:longitude":174.799988,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"68-74 Kingsford Smith St Rongotai ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219191329,
-    "wof:lastmodified":1449072530,
+    "wof:lastmodified":1466311370,
     "wof:name":"Wellington Co-operative Shuttles",
     "wof:parent_id":85778423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.799988,-41.327847,174.799988,-41.327847],
-  "geometry": {"coordinates":[174.799988,-41.327847],"type":"Point"}
+  "bbox": [
+    174.799988,
+    -41.327847,
+    174.799988,
+    -41.327847
+],
+  "geometry": {"coordinates":[174.79998800000001,-41.327847],"type":"Point"}
 }

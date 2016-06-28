@@ -2,13 +2,14 @@
   "id": 219744203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.50737,-45.895721,170.50737,-45.895721",
     "geom:latitude":-45.895721,
     "geom:longitude":170.50737,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Andersons Bay Rd ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219744203,
-    "wof:lastmodified":1449071664,
+    "wof:lastmodified":1466312811,
     "wof:name":"Cooke Howlison Toyota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "servicing"
     ]
 },
-  "bbox": [170.50737,-45.895721,170.50737,-45.895721],
-  "geometry": {"coordinates":[170.50737,-45.895721],"type":"Point"}
+  "bbox": [
+    170.50737,
+    -45.895721,
+    170.50737,
+    -45.895721
+],
+  "geometry": {"coordinates":[170.50737000000001,-45.895721],"type":"Point"}
 }

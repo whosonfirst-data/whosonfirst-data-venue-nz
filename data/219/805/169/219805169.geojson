@@ -2,13 +2,14 @@
   "id": 219805169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.994873,-38.664139,177.994873,-38.664139",
     "geom:latitude":-38.664139,
     "geom:longitude":177.994873,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"89 Innes St West ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219805169,
-    "wof:lastmodified":1449071577,
+    "wof:lastmodified":1466312947,
     "wof:name":"Innes Street Panel Beaters",
     "wof:parent_id":85781855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "beater"
     ]
 },
-  "bbox": [177.994873,-38.664139,177.994873,-38.664139],
-  "geometry": {"coordinates":[177.994873,-38.664139],"type":"Point"}
+  "bbox": [
+    177.994873,
+    -38.664139,
+    177.994873,
+    -38.664139
+],
+  "geometry": {"coordinates":[177.99487300000001,-38.664139],"type":"Point"}
 }

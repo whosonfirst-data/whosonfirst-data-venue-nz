@@ -2,13 +2,14 @@
   "id": 203189023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.506119,-45.885643,170.506119,-45.885643",
     "geom:latitude":-45.885643,
     "geom:longitude":170.506119,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Kitchener St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203189023,
-    "wof:lastmodified":1449026306,
+    "wof:lastmodified":1466311272,
     "wof:name":"Pressed 4 Time",
     "wof:parent_id":85782381,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "cleaner"
     ]
 },
-  "bbox": [170.506119,-45.885643,170.506119,-45.885643],
-  "geometry": {"coordinates":[170.506119,-45.885643],"type":"Point"}
+  "bbox": [
+    170.506119,
+    -45.885643,
+    170.506119,
+    -45.885643
+],
+  "geometry": {"coordinates":[170.50611900000001,-45.885643],"type":"Point"}
 }

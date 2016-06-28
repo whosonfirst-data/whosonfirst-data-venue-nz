@@ -2,13 +2,14 @@
   "id": 203186195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.72493,-36.811913,174.72493,-36.811913",
     "geom:latitude":-36.811913,
     "geom:longitude":174.72493,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"33 A Mokoia Rd Birkenhead ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203186195,
-    "wof:lastmodified":1449026421,
+    "wof:lastmodified":1466311247,
     "wof:name":"Highbury Drycleaners",
     "wof:parent_id":85778355,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaner"
     ]
 },
-  "bbox": [174.72493,-36.811913,174.72493,-36.811913],
+  "bbox": [
+    174.72493,
+    -36.811913,
+    174.72493,
+    -36.811913
+],
   "geometry": {"coordinates":[174.72493,-36.811913],"type":"Point"}
 }

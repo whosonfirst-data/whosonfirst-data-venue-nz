@@ -2,13 +2,14 @@
   "id": 185845085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.836952,41.58918,-85.836952,41.58918",
     "geom:latitude":41.58918,
     "geom:longitude":-85.836952,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Goshen Valley Rd ",
     "sg:city":"Mangonui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185845085,
-    "wof:lastmodified":1449006874,
+    "wof:lastmodified":1466311535,
     "wof:name":"Williams Guitars",
     "wof:parent_id":85850341,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leisure"
     ]
 },
-  "bbox": [-85.836952,41.58918,-85.836952,41.58918],
+  "bbox": [
+    -85.836952,
+    41.58918,
+    -85.836952,
+    41.58918
+],
   "geometry": {"coordinates":[-85.836952,41.58918],"type":"Point"}
 }

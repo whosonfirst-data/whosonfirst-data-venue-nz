@@ -2,13 +2,14 @@
   "id": 169539433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.155838,-38.315971,175.155838,-38.315971",
     "geom:latitude":-38.315971,
     "geom:longitude":175.155838,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 3 Te Kumi Marae Te ",
     "sg:city":"Kuiti",
     "sg:classifiers":[
@@ -45,16 +46,22 @@
         }
     ],
     "wof:id":169539433,
-    "wof:lastmodified":1449036037,
+    "wof:lastmodified":1466310624,
     "wof:name":"Te Reo Irirangi O Maniapoto",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"
     ]
 },
-  "bbox": [175.155838,-38.315971,175.155838,-38.315971],
-  "geometry": {"coordinates":[175.155838,-38.315971],"type":"Point"}
+  "bbox": [
+    175.155838,
+    -38.315971,
+    175.155838,
+    -38.315971
+],
+  "geometry": {"coordinates":[175.15583799999999,-38.315971],"type":"Point"}
 }

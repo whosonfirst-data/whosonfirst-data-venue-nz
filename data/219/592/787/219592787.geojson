@@ -2,13 +2,14 @@
   "id": 219592787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.77739,-41.271709,174.77739,-41.271709",
     "geom:latitude":-41.271709,
     "geom:longitude":174.77739,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Park St Thorndon ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219592787,
-    "wof:lastmodified":1449072403,
+    "wof:lastmodified":1466312577,
     "wof:name":"BP Thorndon",
     "wof:parent_id":85778683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.77739,-41.271709,174.77739,-41.271709],
+  "bbox": [
+    174.77739,
+    -41.271709,
+    174.77739,
+    -41.271709
+],
   "geometry": {"coordinates":[174.77739,-41.271709],"type":"Point"}
 }

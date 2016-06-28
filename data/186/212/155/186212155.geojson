@@ -2,13 +2,14 @@
   "id": 186212155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.61348,-40.962505,175.61348,-40.962505",
     "geom:latitude":-40.962505,
     "geom:longitude":175.61348,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"292 High St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186212155,
-    "wof:lastmodified":1449052111,
+    "wof:lastmodified":1466311509,
     "wof:name":"Combined Hydraulics",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "hydraulic"
     ]
 },
-  "bbox": [175.61348,-40.962505,175.61348,-40.962505],
-  "geometry": {"coordinates":[175.61348,-40.962505],"type":"Point"}
+  "bbox": [
+    175.61348,
+    -40.962505,
+    175.61348,
+    -40.962505
+],
+  "geometry": {"coordinates":[175.61348000000001,-40.962505],"type":"Point"}
 }

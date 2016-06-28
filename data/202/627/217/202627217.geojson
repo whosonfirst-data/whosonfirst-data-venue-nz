@@ -2,13 +2,14 @@
   "id": 202627217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.470795,-38.054199,176.470795,-38.054199",
     "geom:latitude":-38.054199,
     "geom:longitude":176.470795,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hongi's Trk RD4 Rotorua ",
     "sg:city":"Rotoiti",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202627217,
-    "wof:lastmodified":1449062719,
+    "wof:lastmodified":1466311738,
     "wof:name":"NZ Log Chalets Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "related"
     ]
 },
-  "bbox": [176.470795,-38.054199,176.470795,-38.054199],
-  "geometry": {"coordinates":[176.470795,-38.054199],"type":"Point"}
+  "bbox": [
+    176.470795,
+    -38.054199,
+    176.470795,
+    -38.054199
+],
+  "geometry": {"coordinates":[176.47079500000001,-38.054199],"type":"Point"}
 }

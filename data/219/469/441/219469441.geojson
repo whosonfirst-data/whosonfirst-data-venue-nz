@@ -2,13 +2,14 @@
   "id": 219469441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.643158,-43.54068,172.643158,-43.54068",
     "geom:latitude":-43.54068,
     "geom:longitude":172.643158,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Washington Way Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219469441,
-    "wof:lastmodified":1449074021,
+    "wof:lastmodified":1466312225,
     "wof:name":"The NZ School of Travel & Tourism",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "training"
     ]
 },
-  "bbox": [172.643158,-43.54068,172.643158,-43.54068],
+  "bbox": [
+    172.643158,
+    -43.54068,
+    172.643158,
+    -43.54068
+],
   "geometry": {"coordinates":[172.643158,-43.54068],"type":"Point"}
 }

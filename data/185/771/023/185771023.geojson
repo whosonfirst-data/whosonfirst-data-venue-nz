@@ -2,13 +2,14 @@
   "id": 185771023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.810715,-36.898235,174.810715,-36.898235",
     "geom:latitude":-36.898235,
     "geom:longitude":174.810715,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"138 Main Highway Ellerslie ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":185771023,
-    "wof:lastmodified":1449007487,
+    "wof:lastmodified":1466311030,
     "wof:name":"Ellerslie War Memorial",
     "wof:parent_id":85782385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.810715,-36.898235,174.810715,-36.898235],
-  "geometry": {"coordinates":[174.810715,-36.898235],"type":"Point"}
+  "bbox": [
+    174.810715,
+    -36.898235,
+    174.810715,
+    -36.898235
+],
+  "geometry": {"coordinates":[174.81071499999999,-36.898235],"type":"Point"}
 }

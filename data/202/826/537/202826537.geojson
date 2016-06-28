@@ -2,13 +2,14 @@
   "id": 202826537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.282272,-37.754261,175.282272,-37.754261",
     "geom:latitude":-37.754261,
     "geom:longitude":175.282272,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Hukanui Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202826537,
-    "wof:lastmodified":1449061941,
+    "wof:lastmodified":1466312620,
     "wof:name":"Chair Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.282272,-37.754261,175.282272,-37.754261],
-  "geometry": {"coordinates":[175.282272,-37.754261],"type":"Point"}
+  "bbox": [
+    175.282272,
+    -37.754261,
+    175.282272,
+    -37.754261
+],
+  "geometry": {"coordinates":[175.28227200000001,-37.754261],"type":"Point"}
 }

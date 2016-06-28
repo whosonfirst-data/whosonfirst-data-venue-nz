@@ -2,13 +2,14 @@
   "id": 235963403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.809128,-36.884655,174.809128,-36.884655",
     "geom:latitude":-36.884655,
     "geom:longitude":174.809128,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Main Ellerslie Hwy Ellerslie ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":235963403,
-    "wof:lastmodified":1449008315,
+    "wof:lastmodified":1466311093,
     "wof:name":"Trends Publishing New Zealand Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "dining"
     ]
 },
-  "bbox": [174.809128,-36.884655,174.809128,-36.884655],
-  "geometry": {"coordinates":[174.809128,-36.884655],"type":"Point"}
+  "bbox": [
+    174.809128,
+    -36.884655,
+    174.809128,
+    -36.884655
+],
+  "geometry": {"coordinates":[174.80912799999999,-36.884655],"type":"Point"}
 }

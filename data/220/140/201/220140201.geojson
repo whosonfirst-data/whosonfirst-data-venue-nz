@@ -2,13 +2,14 @@
   "id": 220140201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.933273,-37.054165,174.933273,-37.054165",
     "geom:latitude":-37.054165,
     "geom:longitude":174.933273,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"30 Tironui Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220140201,
-    "wof:lastmodified":1449074144,
+    "wof:lastmodified":1466310979,
     "wof:name":"Snak-A-Pak Products",
     "wof:parent_id":85781393,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [174.933273,-37.054165,174.933273,-37.054165],
-  "geometry": {"coordinates":[174.933273,-37.054165],"type":"Point"}
+  "bbox": [
+    174.933273,
+    -37.054165,
+    174.933273,
+    -37.054165
+],
+  "geometry": {"coordinates":[174.93327300000001,-37.054165],"type":"Point"}
 }

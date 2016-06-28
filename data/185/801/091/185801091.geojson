@@ -2,13 +2,14 @@
   "id": 185801091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.728409,-43.507359,172.728409,-43.507359",
     "geom:latitude":-43.507359,
     "geom:longitude":172.728409,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"92 New Brighton Mall New Brighton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185801091,
-    "wof:lastmodified":1449007951,
+    "wof:lastmodified":1466311228,
     "wof:name":"Modellers World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "supply"
     ]
 },
-  "bbox": [172.728409,-43.507359,172.728409,-43.507359],
+  "bbox": [
+    172.728409,
+    -43.507359,
+    172.728409,
+    -43.507359
+],
   "geometry": {"coordinates":[172.728409,-43.507359],"type":"Point"}
 }

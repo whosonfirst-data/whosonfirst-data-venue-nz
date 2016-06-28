@@ -2,13 +2,14 @@
   "id": 202746017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.645493,-43.530624,172.645493,-43.530624",
     "geom:latitude":-43.530624,
     "geom:longitude":172.645493,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"281 Barbadoes St ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":202746017,
-    "wof:lastmodified":1449060090,
+    "wof:lastmodified":1466312503,
     "wof:name":"Mary Louise Rest Home",
     "wof:parent_id":85782371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "care"
     ]
 },
-  "bbox": [172.645493,-43.530624,172.645493,-43.530624],
-  "geometry": {"coordinates":[172.645493,-43.530624],"type":"Point"}
+  "bbox": [
+    172.645493,
+    -43.530624,
+    172.645493,
+    -43.530624
+],
+  "geometry": {"coordinates":[172.64549299999999,-43.530624],"type":"Point"}
 }

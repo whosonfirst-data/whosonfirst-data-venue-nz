@@ -2,13 +2,14 @@
   "id": 202465149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.926971,-41.206947,174.926971,-41.206947",
     "geom:latitude":-41.206947,
     "geom:longitude":174.926971,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"79 A Copeland St Epuni Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202465149,
-    "wof:lastmodified":1449061794,
+    "wof:lastmodified":1466311837,
     "wof:name":"Wellington Early Intervention Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "aid"
     ]
 },
-  "bbox": [174.926971,-41.206947,174.926971,-41.206947],
-  "geometry": {"coordinates":[174.926971,-41.206947],"type":"Point"}
+  "bbox": [
+    174.926971,
+    -41.206947,
+    174.926971,
+    -41.206947
+],
+  "geometry": {"coordinates":[174.92697100000001,-41.206947],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186197329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.326035,-38.008801,175.326035,-38.008801",
     "geom:latitude":-38.008801,
     "geom:longitude":175.326035,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"80 Market St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186197329,
-    "wof:lastmodified":1449052675,
+    "wof:lastmodified":1466311371,
     "wof:name":"Te Awamutu Engineering Supplies Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.326035,-38.008801,175.326035,-38.008801],
-  "geometry": {"coordinates":[175.326035,-38.008801],"type":"Point"}
+  "bbox": [
+    175.326035,
+    -38.008801,
+    175.326035,
+    -38.008801
+],
+  "geometry": {"coordinates":[175.32603499999999,-38.008801],"type":"Point"}
 }

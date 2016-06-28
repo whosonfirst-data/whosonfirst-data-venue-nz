@@ -2,13 +2,14 @@
   "id": 219384871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.323608,-38.009293,175.323608,-38.009293",
     "geom:latitude":-38.009293,
     "geom:longitude":175.323608,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"210 Alexandra St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219384871,
-    "wof:lastmodified":1449070833,
+    "wof:lastmodified":1466311642,
     "wof:name":"Holiday Shoppe",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "broker"
     ]
 },
-  "bbox": [175.323608,-38.009293,175.323608,-38.009293],
-  "geometry": {"coordinates":[175.323608,-38.009293],"type":"Point"}
+  "bbox": [
+    175.323608,
+    -38.009293,
+    175.323608,
+    -38.009293
+],
+  "geometry": {"coordinates":[175.32360800000001,-38.009293],"type":"Point"}
 }

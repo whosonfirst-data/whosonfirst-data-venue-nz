@@ -2,13 +2,14 @@
   "id": 219886277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.600586,-36.603451,174.600586,-36.603451",
     "geom:latitude":-36.603451,
     "geom:longitude":174.600586,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Gervin Rd Wainui Hibiscus ",
     "sg:city":"Hibiscus Coast",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219886277,
-    "wof:lastmodified":1449072326,
+    "wof:lastmodified":1466313156,
     "wof:name":"Wainui Flowers Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.600586,-36.603451,174.600586,-36.603451],
-  "geometry": {"coordinates":[174.600586,-36.603451],"type":"Point"}
+  "bbox": [
+    174.600586,
+    -36.603451,
+    174.600586,
+    -36.603451
+],
+  "geometry": {"coordinates":[174.60058599999999,-36.603451],"type":"Point"}
 }

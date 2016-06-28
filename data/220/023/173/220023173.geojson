@@ -2,13 +2,14 @@
   "id": 220023173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.401337,-35.771824,174.401337,-35.771824",
     "geom:latitude":-35.771824,
     "geom:longitude":174.401337,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"State Highway 14 Tangiteroria ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":220023173,
-    "wof:lastmodified":1449074798,
+    "wof:lastmodified":1466311094,
     "wof:name":"Fudge Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.401337,-35.771824,174.401337,-35.771824],
-  "geometry": {"coordinates":[174.401337,-35.771824],"type":"Point"}
+  "bbox": [
+    174.401337,
+    -35.771824,
+    174.401337,
+    -35.771824
+],
+  "geometry": {"coordinates":[174.40133700000001,-35.771824],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219750979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.991745,-38.66571,177.991745,-38.66571",
     "geom:latitude":-38.66571,
     "geom:longitude":177.991745,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Lytton Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219750979,
-    "wof:lastmodified":1449072523,
+    "wof:lastmodified":1466312911,
     "wof:name":"Riverdale Garage",
     "wof:parent_id":85781855,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "servicing"
     ]
 },
-  "bbox": [177.991745,-38.66571,177.991745,-38.66571],
-  "geometry": {"coordinates":[177.991745,-38.66571],"type":"Point"}
+  "bbox": [
+    177.991745,
+    -38.66571,
+    177.991745,
+    -38.66571
+],
+  "geometry": {"coordinates":[177.99174500000001,-38.66571],"type":"Point"}
 }

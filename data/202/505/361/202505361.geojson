@@ -2,13 +2,14 @@
   "id": 202505361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.84111,-39.634548,176.84111,-39.634548",
     "geom:latitude":-39.634548,
     "geom:longitude":176.84111,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"515 St Aubyn St West ",
     "sg:city":"Hastings",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202505361,
-    "wof:lastmodified":1449062240,
+    "wof:lastmodified":1466310709,
     "wof:name":"Snookes L P",
     "wof:parent_id":85782409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.84111,-39.634548,176.84111,-39.634548],
-  "geometry": {"coordinates":[176.84111,-39.634548],"type":"Point"}
+  "bbox": [
+    176.84111,
+    -39.634548,
+    176.84111,
+    -39.634548
+],
+  "geometry": {"coordinates":[176.84110999999999,-39.634548],"type":"Point"}
 }

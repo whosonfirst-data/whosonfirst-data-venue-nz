@@ -2,13 +2,14 @@
   "id": 186153221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.831055,-41.135094,174.831055,-41.135094",
     "geom:latitude":-41.135094,
     "geom:longitude":174.831055,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Raiha St Elsdon ",
     "sg:city":"Porirua",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":186153221,
-    "wof:lastmodified":1449052219,
+    "wof:lastmodified":1466311016,
     "wof:name":"Stirling P K Co Ltd",
     "wof:parent_id":85781751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "engineer"
     ]
 },
-  "bbox": [174.831055,-41.135094,174.831055,-41.135094],
-  "geometry": {"coordinates":[174.831055,-41.135094],"type":"Point"}
+  "bbox": [
+    174.831055,
+    -41.135094,
+    174.831055,
+    -41.135094
+],
+  "geometry": {"coordinates":[174.83105499999999,-41.135094],"type":"Point"}
 }

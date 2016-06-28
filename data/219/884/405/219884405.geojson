@@ -2,13 +2,14 @@
   "id": 219884405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.841446,-36.923672,174.841446,-36.923672",
     "geom:latitude":-36.923672,
     "geom:longitude":174.841446,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Mt Wellington Hwy Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219884405,
-    "wof:lastmodified":1449073250,
+    "wof:lastmodified":1466313155,
     "wof:name":"Pollen",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.841446,-36.923672,174.841446,-36.923672],
-  "geometry": {"coordinates":[174.841446,-36.923672],"type":"Point"}
+  "bbox": [
+    174.841446,
+    -36.923672,
+    174.841446,
+    -36.923672
+],
+  "geometry": {"coordinates":[174.84144599999999,-36.923672],"type":"Point"}
 }

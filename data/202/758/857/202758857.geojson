@@ -2,13 +2,14 @@
   "id": 202758857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.773453,-36.864719,174.773453,-36.864719",
     "geom:latitude":-36.864719,
     "geom:longitude":174.773453,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"81 Carlton Gore Rd Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202758857,
-    "wof:lastmodified":1449060881,
+    "wof:lastmodified":1466312328,
     "wof:name":"Metlifecare",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "village"
     ]
 },
-  "bbox": [174.773453,-36.864719,174.773453,-36.864719],
-  "geometry": {"coordinates":[174.773453,-36.864719],"type":"Point"}
+  "bbox": [
+    174.773453,
+    -36.864719,
+    174.773453,
+    -36.864719
+],
+  "geometry": {"coordinates":[174.77345299999999,-36.864719],"type":"Point"}
 }

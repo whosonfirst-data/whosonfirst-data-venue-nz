@@ -2,13 +2,14 @@
   "id": 219940547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.056091,-37.97113,177.056091,-37.97113",
     "geom:latitude":-37.97113,
     "geom:longitude":177.056091,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Ohope ",
     "sg:city":"Whakatane",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219940547,
-    "wof:lastmodified":1449071255,
+    "wof:lastmodified":1466313165,
     "wof:name":"Water Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [177.056091,-37.97113,177.056091,-37.97113],
-  "geometry": {"coordinates":[177.056091,-37.97113],"type":"Point"}
+  "bbox": [
+    177.056091,
+    -37.97113,
+    177.056091,
+    -37.97113
+],
+  "geometry": {"coordinates":[177.05609100000001,-37.97113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203070761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.681992,-43.494564,172.681992,-43.494564",
     "geom:latitude":-43.494564,
     "geom:longitude":172.681992,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Coopers Rd Burwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203070761,
-    "wof:lastmodified":1449025837,
+    "wof:lastmodified":1466311739,
     "wof:name":"Alexandra Schist Stone",
     "wof:parent_id":85772863,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.681992,-43.494564,172.681992,-43.494564],
-  "geometry": {"coordinates":[172.681992,-43.494564],"type":"Point"}
+  "bbox": [
+    172.681992,
+    -43.494564,
+    172.681992,
+    -43.494564
+],
+  "geometry": {"coordinates":[172.68199200000001,-43.494564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220066321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.836197,-38.252838,177.836197,-38.252838",
     "geom:latitude":-38.252838,
     "geom:longitude":177.836197,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"cnr Lytton Rd & Potae Ave ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220066321,
-    "wof:lastmodified":1449074248,
+    "wof:lastmodified":1466311786,
     "wof:name":"Lytton West Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "outlet"
     ]
 },
-  "bbox": [177.836197,-38.252838,177.836197,-38.252838],
+  "bbox": [
+    177.836197,
+    -38.252838,
+    177.836197,
+    -38.252838
+],
   "geometry": {"coordinates":[177.836197,-38.252838],"type":"Point"}
 }

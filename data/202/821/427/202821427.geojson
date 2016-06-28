@@ -2,13 +2,14 @@
   "id": 202821427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.279373,-40.618572,175.279373,-40.618572",
     "geom:latitude":-40.618572,
     "geom:longitude":175.279373,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"78 Queen St ",
     "sg:city":"Levin",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202821427,
-    "wof:lastmodified":1449061493,
+    "wof:lastmodified":1466312605,
     "wof:name":"NB Services Blind Cleaning & Repairs",
     "wof:parent_id":85782865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.279373,-40.618572,175.279373,-40.618572],
-  "geometry": {"coordinates":[175.279373,-40.618572],"type":"Point"}
+  "bbox": [
+    175.279373,
+    -40.618572,
+    175.279373,
+    -40.618572
+],
+  "geometry": {"coordinates":[175.27937299999999,-40.618572],"type":"Point"}
 }

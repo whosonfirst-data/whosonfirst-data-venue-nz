@@ -2,13 +2,14 @@
   "id": 219876365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.092834,-38.703625,176.092834,-38.703625",
     "geom:latitude":-38.703625,
     "geom:longitude":176.092834,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Beachman Gro ",
     "sg:city":"Taupo",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219876365,
-    "wof:lastmodified":1449071109,
+    "wof:lastmodified":1466313010,
     "wof:name":"Lakeland Logging Co Ltd",
     "wof:parent_id":85781789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.092834,-38.703625,176.092834,-38.703625],
-  "geometry": {"coordinates":[176.092834,-38.703625],"type":"Point"}
+  "bbox": [
+    176.092834,
+    -38.703625,
+    176.092834,
+    -38.703625
+],
+  "geometry": {"coordinates":[176.09283400000001,-38.703625],"type":"Point"}
 }

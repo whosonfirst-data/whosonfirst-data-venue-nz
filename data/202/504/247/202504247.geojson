@@ -2,13 +2,14 @@
   "id": 202504247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.075211,-38.685139,176.075211,-38.685139",
     "geom:latitude":-38.685139,
     "geom:longitude":176.075211,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Paora Hapi St ",
     "sg:city":"Taupo",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202504247,
-    "wof:lastmodified":1449060544,
+    "wof:lastmodified":1466310700,
     "wof:name":"McMaster Chiropractic Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.075211,-38.685139,176.075211,-38.685139],
+  "bbox": [
+    176.075211,
+    -38.685139,
+    176.075211,
+    -38.685139
+],
   "geometry": {"coordinates":[176.075211,-38.685139],"type":"Point"}
 }

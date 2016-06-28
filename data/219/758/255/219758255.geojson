@@ -2,13 +2,14 @@
   "id": 219758255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.073593,-38.682507,176.073593,-38.682507",
     "geom:latitude":-38.682507,
     "geom:longitude":176.073593,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Runanga St ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219758255,
-    "wof:lastmodified":1449071466,
+    "wof:lastmodified":1466312921,
     "wof:name":"Autosafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "automotive"
     ]
 },
-  "bbox": [176.073593,-38.682507,176.073593,-38.682507],
-  "geometry": {"coordinates":[176.073593,-38.682507],"type":"Point"}
+  "bbox": [
+    176.073593,
+    -38.682507,
+    176.073593,
+    -38.682507
+],
+  "geometry": {"coordinates":[176.07359299999999,-38.682507],"type":"Point"}
 }

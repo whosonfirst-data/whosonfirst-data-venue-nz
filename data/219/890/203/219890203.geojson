@@ -2,13 +2,14 @@
   "id": 219890203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.331787,-38.002308,175.331787,-38.002308",
     "geom:latitude":-38.002308,
     "geom:longitude":175.331787,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"554 Bond Rd Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219890203,
-    "wof:lastmodified":1449071171,
+    "wof:lastmodified":1466313081,
     "wof:name":"Te Awamutu Grain Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.331787,-38.002308,175.331787,-38.002308],
-  "geometry": {"coordinates":[175.331787,-38.002308],"type":"Point"}
+  "bbox": [
+    175.331787,
+    -38.002308,
+    175.331787,
+    -38.002308
+],
+  "geometry": {"coordinates":[175.33178699999999,-38.002308],"type":"Point"}
 }

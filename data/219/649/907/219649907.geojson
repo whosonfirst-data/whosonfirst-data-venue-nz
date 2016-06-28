@@ -2,13 +2,14 @@
   "id": 219649907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.663254,-40.948929,175.663254,-40.948929",
     "geom:latitude":-40.948929,
     "geom:longitude":175.663254,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Queen St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219649907,
-    "wof:lastmodified":1449072793,
+    "wof:lastmodified":1466312709,
     "wof:name":"Masterton Mitre 10",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "paint"
     ]
 },
-  "bbox": [175.663254,-40.948929,175.663254,-40.948929],
-  "geometry": {"coordinates":[175.663254,-40.948929],"type":"Point"}
+  "bbox": [
+    175.663254,
+    -40.948929,
+    175.663254,
+    -40.948929
+],
+  "geometry": {"coordinates":[175.66325399999999,-40.948929],"type":"Point"}
 }

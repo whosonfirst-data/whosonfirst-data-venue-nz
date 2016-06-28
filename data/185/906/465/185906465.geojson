@@ -2,13 +2,14 @@
   "id": 185906465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.393829,-39.171818,175.393829,-39.171818",
     "geom:latitude":-39.171818,
     "geom:longitude":175.393829,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Carroll Street National Park ",
     "sg:city":"Taumarunui",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185906465,
-    "wof:lastmodified":1449007219,
+    "wof:lastmodified":1466311912,
     "wof:name":"AUSM Ski Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.393829,-39.171818,175.393829,-39.171818],
-  "geometry": {"coordinates":[175.393829,-39.171818],"type":"Point"}
+  "bbox": [
+    175.393829,
+    -39.171818,
+    175.393829,
+    -39.171818
+],
+  "geometry": {"coordinates":[175.39382900000001,-39.171818],"type":"Point"}
 }

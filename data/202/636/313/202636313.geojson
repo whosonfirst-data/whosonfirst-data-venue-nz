@@ -2,13 +2,14 @@
   "id": 202636313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.809204,-36.906509,174.809204,-36.906509",
     "geom:latitude":-36.906509,
     "geom:longitude":174.809204,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Greenpark Rd Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202636313,
-    "wof:lastmodified":1449061122,
+    "wof:lastmodified":1466311815,
     "wof:name":"Energex Limited",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "related"
     ]
 },
-  "bbox": [174.809204,-36.906509,174.809204,-36.906509],
-  "geometry": {"coordinates":[174.809204,-36.906509],"type":"Point"}
+  "bbox": [
+    174.809204,
+    -36.906509,
+    174.809204,
+    -36.906509
+],
+  "geometry": {"coordinates":[174.80920399999999,-36.906509],"type":"Point"}
 }

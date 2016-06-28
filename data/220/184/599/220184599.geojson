@@ -2,13 +2,14 @@
   "id": 220184599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.405716,-37.792549,175.405716,-37.792549",
     "geom:latitude":-37.792549,
     "geom:longitude":175.405716,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Matangi ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220184599,
-    "wof:lastmodified":1449074178,
+    "wof:lastmodified":1466311338,
     "wof:name":"Matangi Butchery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [175.405716,-37.792549,175.405716,-37.792549],
-  "geometry": {"coordinates":[175.405716,-37.792549],"type":"Point"}
+  "bbox": [
+    175.405716,
+    -37.792549,
+    175.405716,
+    -37.792549
+],
+  "geometry": {"coordinates":[175.40571600000001,-37.792549],"type":"Point"}
 }

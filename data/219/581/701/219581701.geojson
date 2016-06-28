@@ -2,13 +2,14 @@
   "id": 219581701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.238266,-44.38195,171.238266,-44.38195",
     "geom:latitude":-44.38195,
     "geom:longitude":171.238266,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Evans St ",
     "sg:city":"Timaru",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219581701,
-    "wof:lastmodified":1449071144,
+    "wof:lastmodified":1466312455,
     "wof:name":"First Choice Rental Cars",
     "wof:parent_id":85781485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [171.238266,-44.38195,171.238266,-44.38195],
-  "geometry": {"coordinates":[171.238266,-44.38195],"type":"Point"}
+  "bbox": [
+    171.238266,
+    -44.38195,
+    171.238266,
+    -44.38195
+],
+  "geometry": {"coordinates":[171.23826600000001,-44.38195],"type":"Point"}
 }

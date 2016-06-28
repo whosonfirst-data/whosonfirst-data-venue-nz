@@ -2,13 +2,14 @@
   "id": 202919467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.606537,-40.365391,175.606537,-40.365391",
     "geom:latitude":-40.365391,
     "geom:longitude":175.606537,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Cook St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202919467,
-    "wof:lastmodified":1449062034,
+    "wof:lastmodified":1466312725,
     "wof:name":"Oderings Nurseries",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "gardening"
     ]
 },
-  "bbox": [175.606537,-40.365391,175.606537,-40.365391],
+  "bbox": [
+    175.606537,
+    -40.365391,
+    175.606537,
+    -40.365391
+],
   "geometry": {"coordinates":[175.606537,-40.365391],"type":"Point"}
 }

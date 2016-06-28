@@ -2,13 +2,14 @@
   "id": 202749303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.675156,-40.943588,175.675156,-40.943588",
     "geom:latitude":-40.943588,
     "geom:longitude":175.675156,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Roberts St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202749303,
-    "wof:lastmodified":1449060846,
+    "wof:lastmodified":1466312506,
     "wof:name":"Presbyterian Support (Central)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "care"
     ]
 },
-  "bbox": [175.675156,-40.943588,175.675156,-40.943588],
-  "geometry": {"coordinates":[175.675156,-40.943588],"type":"Point"}
+  "bbox": [
+    175.675156,
+    -40.943588,
+    175.675156,
+    -40.943588
+],
+  "geometry": {"coordinates":[175.67515599999999,-40.943588],"type":"Point"}
 }

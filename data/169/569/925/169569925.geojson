@@ -2,13 +2,14 @@
   "id": 169569925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.716187,-36.705475,174.716187,-36.705475",
     "geom:latitude":-36.705475,
     "geom:longitude":174.716187,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"55 B Lonely Track Rd Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169569925,
-    "wof:lastmodified":1449035829,
+    "wof:lastmodified":1466311130,
     "wof:name":"Kiwi Sheepskins Dotcom Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.716187,-36.705475,174.716187,-36.705475],
-  "geometry": {"coordinates":[174.716187,-36.705475],"type":"Point"}
+  "bbox": [
+    174.716187,
+    -36.705475,
+    174.716187,
+    -36.705475
+],
+  "geometry": {"coordinates":[174.71618699999999,-36.705475],"type":"Point"}
 }

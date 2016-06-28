@@ -2,13 +2,14 @@
   "id": 203053137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.701996,-43.341171,172.701996,-43.341171",
     "geom:latitude":-43.341171,
     "geom:longitude":172.701996,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"273 Woodend Beach Rd Kaiapoi R D ",
     "sg:city":"1",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203053137,
-    "wof:lastmodified":1449025294,
+    "wof:lastmodified":1466311556,
     "wof:name":"Paving & Driveways",
     "wof:parent_id":85778983,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "paving"
     ]
 },
-  "bbox": [172.701996,-43.341171,172.701996,-43.341171],
-  "geometry": {"coordinates":[172.701996,-43.341171],"type":"Point"}
+  "bbox": [
+    172.701996,
+    -43.341171,
+    172.701996,
+    -43.341171
+],
+  "geometry": {"coordinates":[172.70199600000001,-43.341171],"type":"Point"}
 }

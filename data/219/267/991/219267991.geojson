@@ -2,13 +2,14 @@
   "id": 219267991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.766693,-36.854523,174.766693,-36.854523",
     "geom:latitude":-36.854523,
     "geom:longitude":174.766693,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Mount St Auckland City ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219267991,
-    "wof:lastmodified":1449073596,
+    "wof:lastmodified":1466310707,
     "wof:name":"Quest on Mount",
     "wof:parent_id":85778317,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.766693,-36.854523,174.766693,-36.854523],
+  "bbox": [
+    174.766693,
+    -36.854523,
+    174.766693,
+    -36.854523
+],
   "geometry": {"coordinates":[174.766693,-36.854523],"type":"Point"}
 }

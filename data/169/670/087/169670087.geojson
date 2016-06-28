@@ -2,13 +2,14 @@
   "id": 169670087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.516724,-45.897865,170.516724,-45.897865",
     "geom:latitude":-45.897865,
     "geom:longitude":170.516724,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Musselburgh Rse ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":169670087,
-    "wof:lastmodified":1449033184,
+    "wof:lastmodified":1466310752,
     "wof:name":"Simply Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.516724,-45.897865,170.516724,-45.897865],
-  "geometry": {"coordinates":[170.516724,-45.897865],"type":"Point"}
+  "bbox": [
+    170.516724,
+    -45.897865,
+    170.516724,
+    -45.897865
+],
+  "geometry": {"coordinates":[170.51672400000001,-45.897865],"type":"Point"}
 }

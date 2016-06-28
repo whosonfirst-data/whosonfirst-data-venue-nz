@@ -2,13 +2,14 @@
   "id": 202602359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.62088,-43.542225,172.62088,-43.542225",
     "geom:latitude":-43.542225,
     "geom:longitude":172.62088,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"91 Harman St Addington ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202602359,
-    "wof:lastmodified":1449061311,
+    "wof:lastmodified":1466311541,
     "wof:name":"Whitehouse Distributing Co (NZ)",
     "wof:parent_id":85772821,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.62088,-43.542225,172.62088,-43.542225],
+  "bbox": [
+    172.62088,
+    -43.542225,
+    172.62088,
+    -43.542225
+],
   "geometry": {"coordinates":[172.62088,-43.542225],"type":"Point"}
 }

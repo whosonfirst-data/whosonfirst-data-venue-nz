@@ -2,13 +2,14 @@
   "id": 185611353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.777222,-41.28257,174.777222,-41.28257",
     "geom:latitude":-41.28257,
     "geom:longitude":174.777222,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"132 Featherston St ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185611353,
-    "wof:lastmodified":1449007883,
+    "wof:lastmodified":1466310869,
     "wof:name":"Tinakori Gallery",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.777222,-41.28257,174.777222,-41.28257],
-  "geometry": {"coordinates":[174.777222,-41.28257],"type":"Point"}
+  "bbox": [
+    174.777222,
+    -41.28257,
+    174.777222,
+    -41.28257
+],
+  "geometry": {"coordinates":[174.77722199999999,-41.28257],"type":"Point"}
 }

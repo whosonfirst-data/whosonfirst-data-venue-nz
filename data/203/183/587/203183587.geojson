@@ -2,13 +2,14 @@
   "id": 203183587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.603485,-40.351295,175.603485,-40.351295",
     "geom:latitude":-40.351295,
     "geom:longitude":175.603485,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"200 Featherston St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203183587,
-    "wof:lastmodified":1449025960,
+    "wof:lastmodified":1466311221,
     "wof:name":"Stitch It Studio",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cleaning"
     ]
 },
-  "bbox": [175.603485,-40.351295,175.603485,-40.351295],
-  "geometry": {"coordinates":[175.603485,-40.351295],"type":"Point"}
+  "bbox": [
+    175.603485,
+    -40.351295,
+    175.603485,
+    -40.351295
+],
+  "geometry": {"coordinates":[175.60348500000001,-40.351295],"type":"Point"}
 }

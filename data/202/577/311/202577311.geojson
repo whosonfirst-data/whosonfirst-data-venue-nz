@@ -2,13 +2,14 @@
   "id": 202577311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.608978,-40.355965,175.608978,-40.355965",
     "geom:latitude":-40.355965,
     "geom:longitude":175.608978,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Coleman Pl Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202577311,
-    "wof:lastmodified":1449062747,
+    "wof:lastmodified":1466311329,
     "wof:name":"Paint A Plate",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.608978,-40.355965,175.608978,-40.355965],
-  "geometry": {"coordinates":[175.608978,-40.355965],"type":"Point"}
+  "bbox": [
+    175.608978,
+    -40.355965,
+    175.608978,
+    -40.355965
+],
+  "geometry": {"coordinates":[175.60897800000001,-40.355965],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236052227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.680557,-43.53809,172.680557,-43.53809",
     "geom:latitude":-43.53809,
     "geom:longitude":172.680557,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"455 Linwood Ave Linwood ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":236052227,
-    "wof:lastmodified":1449003090,
+    "wof:lastmodified":1466311248,
     "wof:name":"Cremation Society of Canterbury Ltd",
     "wof:parent_id":85781505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "memorial"
     ]
 },
-  "bbox": [172.680557,-43.53809,172.680557,-43.53809],
-  "geometry": {"coordinates":[172.680557,-43.53809],"type":"Point"}
+  "bbox": [
+    172.680557,
+    -43.53809,
+    172.680557,
+    -43.53809
+],
+  "geometry": {"coordinates":[172.68055699999999,-43.53809],"type":"Point"}
 }

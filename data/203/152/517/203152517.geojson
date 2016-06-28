@@ -2,13 +2,14 @@
   "id": 203152517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.965057,-37.070309,174.965057,-37.070309",
     "geom:latitude":-37.070309,
     "geom:longitude":174.965057,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 2/1 Markedo Pl Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203152517,
-    "wof:lastmodified":1449026393,
+    "wof:lastmodified":1466310923,
     "wof:name":"Staplelok",
     "wof:parent_id":85781093,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "pets"
     ]
 },
-  "bbox": [174.965057,-37.070309,174.965057,-37.070309],
+  "bbox": [
+    174.965057,
+    -37.070309,
+    174.965057,
+    -37.070309
+],
   "geometry": {"coordinates":[174.965057,-37.070309],"type":"Point"}
 }

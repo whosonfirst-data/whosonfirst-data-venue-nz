@@ -2,13 +2,14 @@
   "id": 186233501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.984268,-37.977188,176.984268,-37.977188",
     "geom:latitude":-37.977188,
     "geom:longitude":176.984268,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Te Tahi St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186233501,
-    "wof:lastmodified":1449053069,
+    "wof:lastmodified":1466311706,
     "wof:name":"Mahy Crane Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "lifting"
     ]
 },
-  "bbox": [176.984268,-37.977188,176.984268,-37.977188],
-  "geometry": {"coordinates":[176.984268,-37.977188],"type":"Point"}
+  "bbox": [
+    176.984268,
+    -37.977188,
+    176.984268,
+    -37.977188
+],
+  "geometry": {"coordinates":[176.98426799999999,-37.977188],"type":"Point"}
 }

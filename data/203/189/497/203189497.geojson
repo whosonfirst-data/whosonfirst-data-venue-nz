@@ -2,13 +2,14 @@
   "id": 203189497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.940536,-37.059261,174.940536,-37.059261",
     "geom:latitude":-37.059261,
     "geom:longitude":174.940536,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"94 Gt South Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203189497,
-    "wof:lastmodified":1449026307,
+    "wof:lastmodified":1466311277,
     "wof:name":"Roseland's Drycleaners",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "cleaner"
     ]
 },
-  "bbox": [174.940536,-37.059261,174.940536,-37.059261],
-  "geometry": {"coordinates":[174.940536,-37.059261],"type":"Point"}
+  "bbox": [
+    174.940536,
+    -37.059261,
+    174.940536,
+    -37.059261
+],
+  "geometry": {"coordinates":[174.94053600000001,-37.059261],"type":"Point"}
 }

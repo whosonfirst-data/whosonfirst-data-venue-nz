@@ -2,13 +2,14 @@
   "id": 219197661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.071579,-38.685234,176.071579,-38.685234",
     "geom:latitude":-38.685234,
     "geom:longitude":176.071579,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Gascoigne St ",
     "sg:city":"Taupo",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219197661,
-    "wof:lastmodified":1449073474,
+    "wof:lastmodified":1466311450,
     "wof:name":"Taupo Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.071579,-38.685234,176.071579,-38.685234],
-  "geometry": {"coordinates":[176.071579,-38.685234],"type":"Point"}
+  "bbox": [
+    176.071579,
+    -38.685234,
+    176.071579,
+    -38.685234
+],
+  "geometry": {"coordinates":[176.07157900000001,-38.685234],"type":"Point"}
 }

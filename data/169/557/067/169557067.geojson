@@ -2,13 +2,14 @@
   "id": 169557067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-91.345535,40.39323,-91.345535,40.39323",
     "geom:latitude":40.39323,
     "geom:longitude":-91.345535,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Walsh Road RD 10 ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169557067,
-    "wof:lastmodified":1449035035,
+    "wof:lastmodified":1466310915,
     "wof:name":"Vend-It Hamilton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-91.345535,40.39323,-91.345535,40.39323],
+  "bbox": [
+    -91.345535,
+    40.39323,
+    -91.345535,
+    40.39323
+],
   "geometry": {"coordinates":[-91.345535,40.39323],"type":"Point"}
 }

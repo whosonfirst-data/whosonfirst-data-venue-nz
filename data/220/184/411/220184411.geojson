@@ -2,13 +2,14 @@
   "id": 220184411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.625443,-40.962238,175.625443,-40.962238",
     "geom:latitude":-40.962238,
     "geom:longitude":175.625443,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"211 High St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":220184411,
-    "wof:lastmodified":1449074176,
+    "wof:lastmodified":1466311336,
     "wof:name":"Solway Butchery",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drink"
     ]
 },
-  "bbox": [175.625443,-40.962238,175.625443,-40.962238],
-  "geometry": {"coordinates":[175.625443,-40.962238],"type":"Point"}
+  "bbox": [
+    175.625443,
+    -40.962238,
+    175.625443,
+    -40.962238
+],
+  "geometry": {"coordinates":[175.62544299999999,-40.962238],"type":"Point"}
 }

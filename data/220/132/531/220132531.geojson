@@ -2,13 +2,14 @@
   "id": 220132531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.790817,-41.246719,174.790817,-41.246719",
     "geom:latitude":-41.246719,
     "geom:longitude":174.790817,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Ganges Rd Khandallah ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220132531,
-    "wof:lastmodified":1449074415,
+    "wof:lastmodified":1466310906,
     "wof:name":"Rosa Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [174.790817,-41.246719,174.790817,-41.246719],
+  "bbox": [
+    174.790817,
+    -41.246719,
+    174.790817,
+    -41.246719
+],
   "geometry": {"coordinates":[174.790817,-41.246719],"type":"Point"}
 }

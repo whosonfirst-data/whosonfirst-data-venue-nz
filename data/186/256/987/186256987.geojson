@@ -2,13 +2,14 @@
   "id": 186256987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.996796,-41.088619,172.996796,-41.088619",
     "geom:latitude":-41.088619,
     "geom:longitude":172.996796,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Rd ",
     "sg:city":"Riwaka",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186256987,
-    "wof:lastmodified":1449052372,
+    "wof:lastmodified":1466311894,
     "wof:name":"Riwaka Electrical Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "equipment"
     ]
 },
-  "bbox": [172.996796,-41.088619,172.996796,-41.088619],
-  "geometry": {"coordinates":[172.996796,-41.088619],"type":"Point"}
+  "bbox": [
+    172.996796,
+    -41.088619,
+    172.996796,
+    -41.088619
+],
+  "geometry": {"coordinates":[172.99679599999999,-41.088619],"type":"Point"}
 }

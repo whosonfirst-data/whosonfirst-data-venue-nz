@@ -2,13 +2,14 @@
   "id": 169530463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.879517,-39.669399,176.879517,-39.669399",
     "geom:latitude":-39.669399,
     "geom:longitude":176.879517,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Joll & Te Mata Rds, Havelock ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":169530463,
-    "wof:lastmodified":1449034445,
+    "wof:lastmodified":1466310517,
     "wof:name":"Bank of New Zealand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.879517,-39.669399,176.879517,-39.669399],
-  "geometry": {"coordinates":[176.879517,-39.669399],"type":"Point"}
+  "bbox": [
+    176.879517,
+    -39.669399,
+    176.879517,
+    -39.669399
+],
+  "geometry": {"coordinates":[176.87951699999999,-39.669399],"type":"Point"}
 }

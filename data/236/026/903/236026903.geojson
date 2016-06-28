@@ -2,13 +2,14 @@
   "id": 236026903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.689987,-36.369572,174.689987,-36.369572",
     "geom:latitude":-36.369572,
     "geom:longitude":174.689987,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"480 Matakana Rd Matakana ",
     "sg:city":"Warkworth",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236026903,
-    "wof:lastmodified":1449003621,
+    "wof:lastmodified":1466311072,
     "wof:name":"Ascension Vineyard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [174.689987,-36.369572,174.689987,-36.369572],
+  "bbox": [
+    174.689987,
+    -36.369572,
+    174.689987,
+    -36.369572
+],
   "geometry": {"coordinates":[174.689987,-36.369572],"type":"Point"}
 }

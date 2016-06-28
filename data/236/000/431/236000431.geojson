@@ -2,13 +2,14 @@
   "id": 236000431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.914871,-38.595409,177.914871,-38.595409",
     "geom:latitude":-38.595409,
     "geom:longitude":177.914871,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Main Rd Waerengaahika ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":236000431,
-    "wof:lastmodified":1449002071,
+    "wof:lastmodified":1466310613,
     "wof:name":"Bushmere Arms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "dining"
     ]
 },
-  "bbox": [177.914871,-38.595409,177.914871,-38.595409],
-  "geometry": {"coordinates":[177.914871,-38.595409],"type":"Point"}
+  "bbox": [
+    177.914871,
+    -38.595409,
+    177.914871,
+    -38.595409
+],
+  "geometry": {"coordinates":[177.91487100000001,-38.595409],"type":"Point"}
 }

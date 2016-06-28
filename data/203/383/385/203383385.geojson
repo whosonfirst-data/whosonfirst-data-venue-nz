@@ -2,13 +2,14 @@
   "id": 203383385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.851074,-36.916924,174.851074,-36.916924",
     "geom:latitude":-36.916924,
     "geom:longitude":174.851074,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Bowden Rd Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203383385,
-    "wof:lastmodified":1449025728,
+    "wof:lastmodified":1466312417,
     "wof:name":"Marten Yachts Ltd",
     "wof:parent_id":85773109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "boat"
     ]
 },
-  "bbox": [174.851074,-36.916924,174.851074,-36.916924],
-  "geometry": {"coordinates":[174.851074,-36.916924],"type":"Point"}
+  "bbox": [
+    174.851074,
+    -36.916924,
+    174.851074,
+    -36.916924
+],
+  "geometry": {"coordinates":[174.85107400000001,-36.916924],"type":"Point"}
 }

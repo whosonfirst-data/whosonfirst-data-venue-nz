@@ -2,13 +2,14 @@
   "id": 186299993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.847519,-37.909679,175.847519,-37.909679",
     "geom:latitude":-37.909679,
     "geom:longitude":175.847519,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"475 Selwyn ",
     "sg:city":"St",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":186299993,
-    "wof:lastmodified":1449051076,
+    "wof:lastmodified":1466312060,
     "wof:name":"NALCO Aluminium Centres",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.847519,-37.909679,175.847519,-37.909679],
-  "geometry": {"coordinates":[175.847519,-37.909679],"type":"Point"}
+  "bbox": [
+    175.847519,
+    -37.909679,
+    175.847519,
+    -37.909679
+],
+  "geometry": {"coordinates":[175.84751900000001,-37.909679],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169805837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.053116,-39.933704,175.053116,-39.933704",
     "geom:latitude":-39.933704,
     "geom:longitude":175.053116,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"63 A Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":169805837,
-    "wof:lastmodified":1449033786,
+    "wof:lastmodified":1466311688,
     "wof:name":"Sportz Shed",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "retailers"
     ]
 },
-  "bbox": [175.053116,-39.933704,175.053116,-39.933704],
-  "geometry": {"coordinates":[175.053116,-39.933704],"type":"Point"}
+  "bbox": [
+    175.053116,
+    -39.933704,
+    175.053116,
+    -39.933704
+],
+  "geometry": {"coordinates":[175.05311599999999,-39.933704],"type":"Point"}
 }

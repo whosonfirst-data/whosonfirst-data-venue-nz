@@ -2,13 +2,14 @@
   "id": 186021957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.675156,-36.622166,174.675156,-36.622166",
     "geom:latitude":-36.622166,
     "geom:longitude":174.675156,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Tavern Rd Silverdale ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":186021957,
-    "wof:lastmodified":1449052063,
+    "wof:lastmodified":1466310935,
     "wof:name":"Monocrane NZ",
     "wof:parent_id":85773185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "industrial"
     ]
 },
-  "bbox": [174.675156,-36.622166,174.675156,-36.622166],
-  "geometry": {"coordinates":[174.675156,-36.622166],"type":"Point"}
+  "bbox": [
+    174.675156,
+    -36.622166,
+    174.675156,
+    -36.622166
+],
+  "geometry": {"coordinates":[174.67515599999999,-36.622166],"type":"Point"}
 }

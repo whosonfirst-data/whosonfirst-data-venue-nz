@@ -2,13 +2,14 @@
   "id": 220096765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.229118,33.59137,-86.229118,33.59137",
     "geom:latitude":33.59137,
     "geom:longitude":-86.229118,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Nursery La ",
     "sg:city":"Seddon",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220096765,
-    "wof:lastmodified":1449074278,
+    "wof:lastmodified":1466310579,
     "wof:name":"Flaxmill Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [-86.229118,33.59137,-86.229118,33.59137],
+  "bbox": [
+    -86.229118,
+    33.59137,
+    -86.229118,
+    33.59137
+],
   "geometry": {"coordinates":[-86.229118,33.59137],"type":"Point"}
 }

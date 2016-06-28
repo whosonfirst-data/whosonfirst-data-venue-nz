@@ -2,13 +2,14 @@
   "id": 186370657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.91713,-41.238213,174.91713,-41.238213",
     "geom:latitude":-41.238213,
     "geom:longitude":174.91713,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"115 Gracefield Rd Gracefield Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186370657,
-    "wof:lastmodified":1449051841,
+    "wof:lastmodified":1466312413,
     "wof:name":"Gracefield Paper Ltd",
     "wof:parent_id":85772919,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.91713,-41.238213,174.91713,-41.238213],
-  "geometry": {"coordinates":[174.91713,-41.238213],"type":"Point"}
+  "bbox": [
+    174.91713,
+    -41.238213,
+    174.91713,
+    -41.238213
+],
+  "geometry": {"coordinates":[174.91712999999999,-41.238213],"type":"Point"}
 }

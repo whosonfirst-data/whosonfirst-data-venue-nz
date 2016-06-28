@@ -2,13 +2,14 @@
   "id": 219832937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.755264,-36.857288,174.755264,-36.857288",
     "geom:latitude":-36.857288,
     "geom:longitude":174.755264,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"702/9 Hopetoun St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219832937,
-    "wof:lastmodified":1449070383,
+    "wof:lastmodified":1466313053,
     "wof:name":"Agvet Consultants Ltd",
     "wof:parent_id":85773049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.755264,-36.857288,174.755264,-36.857288],
-  "geometry": {"coordinates":[174.755264,-36.857288],"type":"Point"}
+  "bbox": [
+    174.755264,
+    -36.857288,
+    174.755264,
+    -36.857288
+],
+  "geometry": {"coordinates":[174.75526400000001,-36.857288],"type":"Point"}
 }

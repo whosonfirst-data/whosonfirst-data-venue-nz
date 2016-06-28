@@ -2,13 +2,14 @@
   "id": 220094813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.739944,-36.856621,174.739944,-36.856621",
     "geom:latitude":-36.856621,
     "geom:longitude":174.739944,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Richmond Rd Grey Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":220094813,
-    "wof:lastmodified":1449074547,
+    "wof:lastmodified":1466310563,
     "wof:name":"Busy Oven Bakery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "-"
     ]
 },
-  "bbox": [174.739944,-36.856621,174.739944,-36.856621],
-  "geometry": {"coordinates":[174.739944,-36.856621],"type":"Point"}
+  "bbox": [
+    174.739944,
+    -36.856621,
+    174.739944,
+    -36.856621
+],
+  "geometry": {"coordinates":[174.73994400000001,-36.856621],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219643851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.833649,-36.940369,174.833649,-36.940369",
     "geom:latitude":-36.940369,
     "geom:longitude":174.833649,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Saleyards Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219643851,
-    "wof:lastmodified":1449073444,
+    "wof:lastmodified":1466312613,
     "wof:name":"Italian Auto Centre Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "supplies"
     ]
 },
-  "bbox": [174.833649,-36.940369,174.833649,-36.940369],
-  "geometry": {"coordinates":[174.833649,-36.940369],"type":"Point"}
+  "bbox": [
+    174.833649,
+    -36.940369,
+    174.833649,
+    -36.940369
+],
+  "geometry": {"coordinates":[174.83364900000001,-36.940369],"type":"Point"}
 }

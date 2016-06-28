@@ -2,13 +2,14 @@
   "id": 220062649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.185608,-37.642097,176.185608,-37.642097",
     "geom:latitude":-37.642097,
     "geom:longitude":176.185608,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"290 Mt Maunganui Rd Mt ",
     "sg:city":"Maunganui",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220062649,
-    "wof:lastmodified":1449074834,
+    "wof:lastmodified":1466311732,
     "wof:name":"Liquor King",
     "wof:parent_id":85773039,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "outlet"
     ]
 },
-  "bbox": [176.185608,-37.642097,176.185608,-37.642097],
+  "bbox": [
+    176.185608,
+    -37.642097,
+    176.185608,
+    -37.642097
+],
   "geometry": {"coordinates":[176.185608,-37.642097],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169666113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.838959,-44.94305,168.838959,-44.94305",
     "geom:latitude":-44.94305,
     "geom:longitude":168.838959,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Coachman's Hall Buckingham St ",
     "sg:city":"Arrowtown",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169666113,
-    "wof:lastmodified":1449033902,
+    "wof:lastmodified":1466310729,
     "wof:name":"Gathering Thyme",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.838959,-44.94305,168.838959,-44.94305],
-  "geometry": {"coordinates":[168.838959,-44.94305],"type":"Point"}
+  "bbox": [
+    168.838959,
+    -44.94305,
+    168.838959,
+    -44.94305
+],
+  "geometry": {"coordinates":[168.83895899999999,-44.94305],"type":"Point"}
 }

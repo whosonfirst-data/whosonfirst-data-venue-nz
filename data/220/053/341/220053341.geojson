@@ -2,13 +2,14 @@
   "id": 220053341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.984192,-37.965305,176.984192,-37.965305",
     "geom:latitude":-37.965305,
     "geom:longitude":176.984192,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Strand East ",
     "sg:city":"Whakatane",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":220053341,
-    "wof:lastmodified":1449074194,
+    "wof:lastmodified":1466311614,
     "wof:name":"The Bean Coffee Roastery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchant"
     ]
 },
-  "bbox": [176.984192,-37.965305,176.984192,-37.965305],
-  "geometry": {"coordinates":[176.984192,-37.965305],"type":"Point"}
+  "bbox": [
+    176.984192,
+    -37.965305,
+    176.984192,
+    -37.965305
+],
+  "geometry": {"coordinates":[176.98419200000001,-37.965305],"type":"Point"}
 }

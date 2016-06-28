@@ -2,13 +2,14 @@
   "id": 219781599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.351196,-46.408783,168.351196,-46.408783",
     "geom:latitude":-46.408783,
     "geom:longitude":168.351196,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Yarrow St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219781599,
-    "wof:lastmodified":1449071055,
+    "wof:lastmodified":1466313043,
     "wof:name":"Auto Tune Ltd",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "servicing"
     ]
 },
-  "bbox": [168.351196,-46.408783,168.351196,-46.408783],
-  "geometry": {"coordinates":[168.351196,-46.408783],"type":"Point"}
+  "bbox": [
+    168.351196,
+    -46.408783,
+    168.351196,
+    -46.408783
+],
+  "geometry": {"coordinates":[168.35119599999999,-46.408783],"type":"Point"}
 }

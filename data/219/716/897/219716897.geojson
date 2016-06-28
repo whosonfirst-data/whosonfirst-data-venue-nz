@@ -2,13 +2,14 @@
   "id": 219716897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.891205,-36.927414,174.891205,-36.927414",
     "geom:latitude":-36.927414,
     "geom:longitude":174.891205,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 C Trugood Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219716897,
-    "wof:lastmodified":1449070897,
+    "wof:lastmodified":1466312850,
     "wof:name":"Cullen Equipment Specialist",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.891205,-36.927414,174.891205,-36.927414],
-  "geometry": {"coordinates":[174.891205,-36.927414],"type":"Point"}
+  "bbox": [
+    174.891205,
+    -36.927414,
+    174.891205,
+    -36.927414
+],
+  "geometry": {"coordinates":[174.89120500000001,-36.927414],"type":"Point"}
 }

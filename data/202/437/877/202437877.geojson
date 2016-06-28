@@ -2,13 +2,14 @@
   "id": 202437877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.070923,-41.125156,175.070923,-41.125156",
     "geom:latitude":-41.125156,
     "geom:longitude":175.070923,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Geange St Upper ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202437877,
-    "wof:lastmodified":1449061936,
+    "wof:lastmodified":1466311669,
     "wof:name":"Bentley Philip",
     "wof:parent_id":85782513,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "beauty"
     ]
 },
-  "bbox": [175.070923,-41.125156,175.070923,-41.125156],
-  "geometry": {"coordinates":[175.070923,-41.125156],"type":"Point"}
+  "bbox": [
+    175.070923,
+    -41.125156,
+    175.070923,
+    -41.125156
+],
+  "geometry": {"coordinates":[175.07092299999999,-41.125156],"type":"Point"}
 }

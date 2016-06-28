@@ -2,13 +2,14 @@
   "id": 219808295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.606094,-40.354549,175.606094,-40.354549",
     "geom:latitude":-40.354549,
     "geom:longitude":175.606094,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Lombard St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219808295,
-    "wof:lastmodified":1449070544,
+    "wof:lastmodified":1466313110,
     "wof:name":"Parker Panel & Paint",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "beater"
     ]
 },
-  "bbox": [175.606094,-40.354549,175.606094,-40.354549],
-  "geometry": {"coordinates":[175.606094,-40.354549],"type":"Point"}
+  "bbox": [
+    175.606094,
+    -40.354549,
+    175.606094,
+    -40.354549
+],
+  "geometry": {"coordinates":[175.60609400000001,-40.354549],"type":"Point"}
 }

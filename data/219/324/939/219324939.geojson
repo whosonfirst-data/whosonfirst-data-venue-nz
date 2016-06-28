@@ -2,13 +2,14 @@
   "id": 219324939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.207489,-38.188099,175.207489,-38.188099",
     "geom:latitude":-38.188099,
     "geom:longitude":175.207489,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Te Kawana St ",
     "sg:city":"Otorohanga",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219324939,
-    "wof:lastmodified":1449072442,
+    "wof:lastmodified":1466311146,
     "wof:name":"Hotel Otorohanga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accommodation"
     ]
 },
-  "bbox": [175.207489,-38.188099,175.207489,-38.188099],
-  "geometry": {"coordinates":[175.207489,-38.188099],"type":"Point"}
+  "bbox": [
+    175.207489,
+    -38.188099,
+    175.207489,
+    -38.188099
+],
+  "geometry": {"coordinates":[175.20748900000001,-38.188099],"type":"Point"}
 }

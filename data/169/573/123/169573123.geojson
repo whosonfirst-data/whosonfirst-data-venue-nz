@@ -2,13 +2,14 @@
   "id": 169573123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.943253,-37.064247,174.943253,-37.064247",
     "geom:latitude":-37.064247,
     "geom:longitude":174.943253,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Gt South Rd Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":169573123,
-    "wof:lastmodified":1449035112,
+    "wof:lastmodified":1466311230,
     "wof:name":"Vita Health Foods",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "health"
     ]
 },
-  "bbox": [174.943253,-37.064247,174.943253,-37.064247],
+  "bbox": [
+    174.943253,
+    -37.064247,
+    174.943253,
+    -37.064247
+],
   "geometry": {"coordinates":[174.943253,-37.064247],"type":"Point"}
 }

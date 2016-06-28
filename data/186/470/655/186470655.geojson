@@ -2,13 +2,14 @@
   "id": 186470655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.655106,-43.548149,172.655106,-43.548149",
     "geom:latitude":-43.548149,
     "geom:longitude":172.655106,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Opawa Rd Waltham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186470655,
-    "wof:lastmodified":1449051045,
+    "wof:lastmodified":1466312589,
     "wof:name":"Clyne & Bennie (1988) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.655106,-43.548149,172.655106,-43.548149],
-  "geometry": {"coordinates":[172.655106,-43.548149],"type":"Point"}
+  "bbox": [
+    172.655106,
+    -43.548149,
+    172.655106,
+    -43.548149
+],
+  "geometry": {"coordinates":[172.65510599999999,-43.548149],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202843981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.604889,-40.350353,175.604889,-40.350353",
     "geom:latitude":-40.350353,
     "geom:longitude":175.604889,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"221 Featherston St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202843981,
-    "wof:lastmodified":1449060338,
+    "wof:lastmodified":1466312593,
     "wof:name":"Topline Interiors Limited",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.604889,-40.350353,175.604889,-40.350353],
-  "geometry": {"coordinates":[175.604889,-40.350353],"type":"Point"}
+  "bbox": [
+    175.604889,
+    -40.350353,
+    175.604889,
+    -40.350353
+],
+  "geometry": {"coordinates":[175.60488899999999,-40.350353],"type":"Point"}
 }

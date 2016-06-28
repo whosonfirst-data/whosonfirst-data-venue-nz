@@ -2,13 +2,14 @@
   "id": 202546155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.354477,-46.410564,168.354477,-46.410564",
     "geom:latitude":-46.410564,
     "geom:longitude":168.354477,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Don St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202546155,
-    "wof:lastmodified":1449060107,
+    "wof:lastmodified":1466311048,
     "wof:name":"Harp Margaret",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.354477,-46.410564,168.354477,-46.410564],
+  "bbox": [
+    168.354477,
+    -46.410564,
+    168.354477,
+    -46.410564
+],
   "geometry": {"coordinates":[168.354477,-46.410564],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 186536919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.652756,-40.964184,175.652756,-40.964184",
     "geom:latitude":-40.964184,
     "geom:longitude":175.652756,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Cockburn St ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186536919,
-    "wof:lastmodified":1449051972,
+    "wof:lastmodified":1466312861,
     "wof:name":"Hair-2-U",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.652756,-40.964184,175.652756,-40.964184],
-  "geometry": {"coordinates":[175.652756,-40.964184],"type":"Point"}
+  "bbox": [
+    175.652756,
+    -40.964184,
+    175.652756,
+    -40.964184
+],
+  "geometry": {"coordinates":[175.65275600000001,-40.964184],"type":"Point"}
 }

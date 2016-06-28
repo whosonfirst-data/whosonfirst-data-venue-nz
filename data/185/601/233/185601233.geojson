@@ -2,13 +2,14 @@
   "id": 185601233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.168777,-37.684101,176.168777,-37.684101",
     "geom:latitude":-37.684101,
     "geom:longitude":176.168777,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"131 Willow St ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185601233,
-    "wof:lastmodified":1449007335,
+    "wof:lastmodified":1466310585,
     "wof:name":"Axiom",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "leisure"
     ]
 },
-  "bbox": [176.168777,-37.684101,176.168777,-37.684101],
-  "geometry": {"coordinates":[176.168777,-37.684101],"type":"Point"}
+  "bbox": [
+    176.168777,
+    -37.684101,
+    176.168777,
+    -37.684101
+],
+  "geometry": {"coordinates":[176.16877700000001,-37.684101],"type":"Point"}
 }

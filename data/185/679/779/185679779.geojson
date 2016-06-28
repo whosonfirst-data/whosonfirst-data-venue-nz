@@ -2,13 +2,14 @@
   "id": 185679779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.403976,-45.900669,170.403976,-45.900669",
     "geom:latitude":-45.900669,
     "geom:longitude":170.403976,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Howorth Rd Fairfield ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":185679779,
-    "wof:lastmodified":1449007633,
+    "wof:lastmodified":1466311861,
     "wof:name":"City Slicker Discos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "disco"
     ]
 },
-  "bbox": [170.403976,-45.900669,170.403976,-45.900669],
+  "bbox": [
+    170.403976,
+    -45.900669,
+    170.403976,
+    -45.900669
+],
   "geometry": {"coordinates":[170.403976,-45.900669],"type":"Point"}
 }

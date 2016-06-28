@@ -2,13 +2,14 @@
   "id": 186017443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.773544,-37.81176,175.773544,-37.81176",
     "geom:latitude":-37.81176,
     "geom:longitude":175.773544,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Hamilton, Tauranga, Auckland ",
     "sg:city":"Matamata",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186017443,
-    "wof:lastmodified":1449051798,
+    "wof:lastmodified":1466310839,
     "wof:name":"Longlands Farm & Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.773544,-37.81176,175.773544,-37.81176],
-  "geometry": {"coordinates":[175.773544,-37.81176],"type":"Point"}
+  "bbox": [
+    175.773544,
+    -37.81176,
+    175.773544,
+    -37.81176
+],
+  "geometry": {"coordinates":[175.77354399999999,-37.81176],"type":"Point"}
 }

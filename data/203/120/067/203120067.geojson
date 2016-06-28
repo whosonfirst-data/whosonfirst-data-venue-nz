@@ -2,13 +2,14 @@
   "id": 203120067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.304779,-46.438011,168.304779,-46.438011",
     "geom:latitude":-46.438011,
     "geom:longitude":168.304779,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Tui Pl Otatara ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203120067,
-    "wof:lastmodified":1449026582,
+    "wof:lastmodified":1466310698,
     "wof:name":"Panda Boarding Cattery",
     "wof:parent_id":85778905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garden"
     ]
 },
-  "bbox": [168.304779,-46.438011,168.304779,-46.438011],
+  "bbox": [
+    168.304779,
+    -46.438011,
+    168.304779,
+    -46.438011
+],
   "geometry": {"coordinates":[168.304779,-46.438011],"type":"Point"}
 }

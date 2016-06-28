@@ -2,13 +2,14 @@
   "id": 202777241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.677231,-40.93692,175.677231,-40.93692",
     "geom:latitude":-40.93692,
     "geom:longitude":175.677231,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Konini St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202777241,
-    "wof:lastmodified":1449061446,
+    "wof:lastmodified":1466312476,
     "wof:name":"Ewington Bill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "garage"
     ]
 },
-  "bbox": [175.677231,-40.93692,175.677231,-40.93692],
-  "geometry": {"coordinates":[175.677231,-40.93692],"type":"Point"}
+  "bbox": [
+    175.677231,
+    -40.93692,
+    175.677231,
+    -40.93692
+],
+  "geometry": {"coordinates":[175.67723100000001,-40.93692],"type":"Point"}
 }

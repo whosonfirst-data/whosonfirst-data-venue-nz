@@ -2,13 +2,14 @@
   "id": 203337859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.567596,-40.227608,175.567596,-40.227608",
     "geom:latitude":-40.227608,
     "geom:longitude":175.567596,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"13-15 Eyre St ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203337859,
-    "wof:lastmodified":1449025808,
+    "wof:lastmodified":1466312256,
     "wof:name":"Williams & Kettle Ltd",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.567596,-40.227608,175.567596,-40.227608],
-  "geometry": {"coordinates":[175.567596,-40.227608],"type":"Point"}
+  "bbox": [
+    175.567596,
+    -40.227608,
+    175.567596,
+    -40.227608
+],
+  "geometry": {"coordinates":[175.56759600000001,-40.227608],"type":"Point"}
 }

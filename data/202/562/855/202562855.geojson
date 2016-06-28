@@ -2,13 +2,14 @@
   "id": 202562855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.661423,-40.949291,175.661423,-40.949291",
     "geom:latitude":-40.949291,
     "geom:longitude":175.661423,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Lincoln Rd ",
     "sg:city":"Masterton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202562855,
-    "wof:lastmodified":1449061453,
+    "wof:lastmodified":1466311198,
     "wof:name":"Wakefield Radiology",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.661423,-40.949291,175.661423,-40.949291],
-  "geometry": {"coordinates":[175.661423,-40.949291],"type":"Point"}
+  "bbox": [
+    175.661423,
+    -40.949291,
+    175.661423,
+    -40.949291
+],
+  "geometry": {"coordinates":[175.66142300000001,-40.949291],"type":"Point"}
 }

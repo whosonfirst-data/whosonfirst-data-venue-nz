@@ -2,13 +2,14 @@
   "id": 169673605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.901169,-37.202427,174.901169,-37.202427",
     "geom:latitude":-37.202427,
     "geom:longitude":174.901169,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Queen St Waiuku ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":169673605,
-    "wof:lastmodified":1449033958,
+    "wof:lastmodified":1466310770,
     "wof:name":"Absolutely Everything",
     "wof:parent_id":85782491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.901169,-37.202427,174.901169,-37.202427],
-  "geometry": {"coordinates":[174.901169,-37.202427],"type":"Point"}
+  "bbox": [
+    174.901169,
+    -37.202427,
+    174.901169,
+    -37.202427
+],
+  "geometry": {"coordinates":[174.90116900000001,-37.202427],"type":"Point"}
 }

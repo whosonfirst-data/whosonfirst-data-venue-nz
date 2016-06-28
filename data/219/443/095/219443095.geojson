@@ -2,13 +2,14 @@
   "id": 219443095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.244492,-44.389454,171.244492,-44.389454",
     "geom:latitude":-44.389454,
     "geom:longitude":171.244492,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Beverley Hill ",
     "sg:city":"Timaru",
     "sg:classifiers":[
@@ -49,16 +50,22 @@
         }
     ],
     "wof:id":219443095,
-    "wof:lastmodified":1449073273,
+    "wof:lastmodified":1466312132,
     "wof:name":"Fire & Safety Training Ltd",
     "wof:parent_id":85781485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "driver"
     ]
 },
-  "bbox": [171.244492,-44.389454,171.244492,-44.389454],
-  "geometry": {"coordinates":[171.244492,-44.389454],"type":"Point"}
+  "bbox": [
+    171.244492,
+    -44.389454,
+    171.244492,
+    -44.389454
+],
+  "geometry": {"coordinates":[171.24449200000001,-44.389454],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219327017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.101089,-41.256508,173.101089,-41.256508",
     "geom:latitude":-41.256508,
     "geom:longitude":173.101089,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"151 Aranui Rd ",
     "sg:city":"Mapua",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219327017,
-    "wof:lastmodified":1449070654,
+    "wof:lastmodified":1466311160,
     "wof:name":"Mapua Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "accommodation"
     ]
 },
-  "bbox": [173.101089,-41.256508,173.101089,-41.256508],
+  "bbox": [
+    173.101089,
+    -41.256508,
+    173.101089,
+    -41.256508
+],
   "geometry": {"coordinates":[173.101089,-41.256508],"type":"Point"}
 }

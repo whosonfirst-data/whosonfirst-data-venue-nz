@@ -2,13 +2,14 @@
   "id": 186523167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.821915,-36.92252,174.821915,-36.92252",
     "geom:latitude":-36.92252,
     "geom:longitude":174.821915,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Hugo Johnston Dve Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":186523167,
-    "wof:lastmodified":1449051929,
+    "wof:lastmodified":1466312812,
     "wof:name":"L'Oreal New Zealand Limited",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "perfumery"
     ]
 },
-  "bbox": [174.821915,-36.92252,174.821915,-36.92252],
-  "geometry": {"coordinates":[174.821915,-36.92252],"type":"Point"}
+  "bbox": [
+    174.821915,
+    -36.92252,
+    174.821915,
+    -36.92252
+],
+  "geometry": {"coordinates":[174.82191499999999,-36.92252],"type":"Point"}
 }

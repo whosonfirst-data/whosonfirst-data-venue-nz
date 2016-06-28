@@ -2,13 +2,14 @@
   "id": 219666977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.207352,-42.449245,171.207352,-42.449245",
     "geom:latitude":-42.449245,
     "geom:longitude":171.207352,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Herbert St ",
     "sg:city":"Greymouth",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219666977,
-    "wof:lastmodified":1449071683,
+    "wof:lastmodified":1466312745,
     "wof:name":"Tasman Tyre Treads Ltd",
     "wof:parent_id":85781665,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [171.207352,-42.449245,171.207352,-42.449245],
-  "geometry": {"coordinates":[171.207352,-42.449245],"type":"Point"}
+  "bbox": [
+    171.207352,
+    -42.449245,
+    171.207352,
+    -42.449245
+],
+  "geometry": {"coordinates":[171.20735199999999,-42.449245],"type":"Point"}
 }

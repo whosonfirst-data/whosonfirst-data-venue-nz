@@ -2,13 +2,14 @@
   "id": 202496531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.868622,-41.09314,174.868622,-41.09314",
     "geom:latitude":-41.09314,
     "geom:longitude":174.868622,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Mana Esp Mana ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202496531,
-    "wof:lastmodified":1449062276,
+    "wof:lastmodified":1466310629,
     "wof:name":"Paremata Podiatrists",
     "wof:parent_id":85781159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.868622,-41.09314,174.868622,-41.09314],
-  "geometry": {"coordinates":[174.868622,-41.09314],"type":"Point"}
+  "bbox": [
+    174.868622,
+    -41.09314,
+    174.868622,
+    -41.09314
+],
+  "geometry": {"coordinates":[174.86862199999999,-41.09314],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 236021925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.87532,-41.22422,174.87532,-41.22422",
     "geom:latitude":-41.22422,
     "geom:longitude":174.87532,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Jackson St Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236021925,
-    "wof:lastmodified":1449003785,
+    "wof:lastmodified":1466311008,
     "wof:name":"Shakey's Burger Bar",
     "wof:parent_id":85782489,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "takeaway"
     ]
 },
-  "bbox": [174.87532,-41.22422,174.87532,-41.22422],
-  "geometry": {"coordinates":[174.87532,-41.22422],"type":"Point"}
+  "bbox": [
+    174.87532,
+    -41.22422,
+    174.87532,
+    -41.22422
+],
+  "geometry": {"coordinates":[174.87531999999999,-41.22422],"type":"Point"}
 }

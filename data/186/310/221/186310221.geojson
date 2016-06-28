@@ -2,13 +2,14 @@
   "id": 186310221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.229385,-38.129997,176.229385,-38.129997",
     "geom:latitude":-38.129997,
     "geom:longitude":176.229385,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"80 View Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186310221,
-    "wof:lastmodified":1449052015,
+    "wof:lastmodified":1466312110,
     "wof:name":"Rotorua Electroplaters (1991) Ltd",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.229385,-38.129997,176.229385,-38.129997],
-  "geometry": {"coordinates":[176.229385,-38.129997],"type":"Point"}
+  "bbox": [
+    176.229385,
+    -38.129997,
+    176.229385,
+    -38.129997
+],
+  "geometry": {"coordinates":[176.22938500000001,-38.129997],"type":"Point"}
 }

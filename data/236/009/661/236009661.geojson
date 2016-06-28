@@ -2,13 +2,14 @@
   "id": 236009661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.039429,-39.922466,175.039429,-39.922466",
     "geom:latitude":-39.922466,
     "geom:longitude":175.039429,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"144 London St ",
     "sg:city":"Wanganui",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236009661,
-    "wof:lastmodified":1449005168,
+    "wof:lastmodified":1466310797,
     "wof:name":"Big Bite The",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "takeaway"
     ]
 },
-  "bbox": [175.039429,-39.922466,175.039429,-39.922466],
-  "geometry": {"coordinates":[175.039429,-39.922466],"type":"Point"}
+  "bbox": [
+    175.039429,
+    -39.922466,
+    175.039429,
+    -39.922466
+],
+  "geometry": {"coordinates":[175.03942900000001,-39.922466],"type":"Point"}
 }

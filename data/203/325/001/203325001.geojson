@@ -2,13 +2,14 @@
   "id": 203325001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.627075,-36.815002,174.627075,-36.815002",
     "geom:latitude":-36.815002,
     "geom:longitude":174.627075,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Hobsonville Rd Hobsonville ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203325001,
-    "wof:lastmodified":1449025652,
+    "wof:lastmodified":1466312215,
     "wof:name":"John Turner & Associates Ltd",
     "wof:parent_id":85778731,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.627075,-36.815002,174.627075,-36.815002],
-  "geometry": {"coordinates":[174.627075,-36.815002],"type":"Point"}
+  "bbox": [
+    174.627075,
+    -36.815002,
+    174.627075,
+    -36.815002
+],
+  "geometry": {"coordinates":[174.62707499999999,-36.815002],"type":"Point"}
 }

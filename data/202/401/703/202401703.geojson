@@ -2,13 +2,14 @@
   "id": 202401703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.811768,-41.220196,174.811768,-41.220196",
     "geom:latitude":-41.220196,
     "geom:longitude":174.811768,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"51 Helston Rd Johnsonville ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202401703,
-    "wof:lastmodified":1449062284,
+    "wof:lastmodified":1466311065,
     "wof:name":"Cashmere Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.811768,-41.220196,174.811768,-41.220196],
+  "bbox": [
+    174.811768,
+    -41.220196,
+    174.811768,
+    -41.220196
+],
   "geometry": {"coordinates":[174.811768,-41.220196],"type":"Point"}
 }

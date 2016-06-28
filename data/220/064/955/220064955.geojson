@@ -2,13 +2,14 @@
   "id": 220064955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-79.654518,34.510391,-79.654518,34.510391",
     "geom:latitude":34.510391,
     "geom:longitude":-79.654518,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Symons & High Sts ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220064955,
-    "wof:lastmodified":1449074308,
+    "wof:lastmodified":1466311771,
     "wof:name":"Liquorland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "outlet"
     ]
 },
-  "bbox": [-79.654518,34.510391,-79.654518,34.510391],
+  "bbox": [
+    -79.654518,
+    34.510391,
+    -79.654518,
+    34.510391
+],
   "geometry": {"coordinates":[-79.654518,34.510391],"type":"Point"}
 }

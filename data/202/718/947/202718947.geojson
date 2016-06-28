@@ -2,13 +2,14 @@
   "id": 202718947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.680222,-40.942257,175.680222,-40.942257",
     "geom:latitude":-40.942257,
     "geom:longitude":175.680222,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 French St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202718947,
-    "wof:lastmodified":1449060668,
+    "wof:lastmodified":1466312204,
     "wof:name":"Chem Dry Wairarapa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "furniture"
     ]
 },
-  "bbox": [175.680222,-40.942257,175.680222,-40.942257],
-  "geometry": {"coordinates":[175.680222,-40.942257],"type":"Point"}
+  "bbox": [
+    175.680222,
+    -40.942257,
+    175.680222,
+    -40.942257
+],
+  "geometry": {"coordinates":[175.68022199999999,-40.942257],"type":"Point"}
 }

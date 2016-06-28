@@ -2,13 +2,14 @@
   "id": 186564305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.251404,-38.139076,176.251404,-38.139076",
     "geom:latitude":-38.139076,
     "geom:longitude":176.251404,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1287 Tutanekai St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186564305,
-    "wof:lastmodified":1449052872,
+    "wof:lastmodified":1466312917,
     "wof:name":"Planet of Hair",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [176.251404,-38.139076,176.251404,-38.139076],
-  "geometry": {"coordinates":[176.251404,-38.139076],"type":"Point"}
+  "bbox": [
+    176.251404,
+    -38.139076,
+    176.251404,
+    -38.139076
+],
+  "geometry": {"coordinates":[176.25140400000001,-38.139076],"type":"Point"}
 }

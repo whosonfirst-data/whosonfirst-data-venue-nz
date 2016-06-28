@@ -2,13 +2,14 @@
   "id": 169537165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.776016,-41.274925,174.776016,-41.274925",
     "geom:latitude":-41.274925,
     "geom:longitude":174.776016,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"153-157 Thorndon Qy Thorndon ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":169537165,
-    "wof:lastmodified":1449033500,
+    "wof:lastmodified":1466310584,
     "wof:name":"Sauce",
     "wof:parent_id":85778683,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "producer"
     ]
 },
-  "bbox": [174.776016,-41.274925,174.776016,-41.274925],
+  "bbox": [
+    174.776016,
+    -41.274925,
+    174.776016,
+    -41.274925
+],
   "geometry": {"coordinates":[174.776016,-41.274925],"type":"Point"}
 }

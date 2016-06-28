@@ -2,13 +2,14 @@
   "id": 186556767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.650864,-36.852676,174.650864,-36.852676",
     "geom:latitude":-36.852676,
     "geom:longitude":174.650864,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Te Atatu Rd Te Atatu South ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186556767,
-    "wof:lastmodified":1449051055,
+    "wof:lastmodified":1466312901,
     "wof:name":"Abode Of Beauty",
     "wof:parent_id":85778669,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.650864,-36.852676,174.650864,-36.852676],
-  "geometry": {"coordinates":[174.650864,-36.852676],"type":"Point"}
+  "bbox": [
+    174.650864,
+    -36.852676,
+    174.650864,
+    -36.852676
+],
+  "geometry": {"coordinates":[174.65086400000001,-36.852676],"type":"Point"}
 }

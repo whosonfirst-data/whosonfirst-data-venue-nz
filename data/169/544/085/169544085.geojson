@@ -2,13 +2,14 @@
   "id": 169544085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.651901,-36.846397,174.651901,-36.846397",
     "geom:latitude":-36.846397,
     "geom:longitude":174.651901,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5 Huntaway La Te Atatu Peninsula ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169544085,
-    "wof:lastmodified":1449035963,
+    "wof:lastmodified":1466310705,
     "wof:name":"City & Western Engravers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.651901,-36.846397,174.651901,-36.846397],
-  "geometry": {"coordinates":[174.651901,-36.846397],"type":"Point"}
+  "bbox": [
+    174.651901,
+    -36.846397,
+    174.651901,
+    -36.846397
+],
+  "geometry": {"coordinates":[174.65190100000001,-36.846397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219915559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.995117,-37.954357,176.995117,-37.954357",
     "geom:latitude":-37.954357,
     "geom:longitude":176.995117,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Pyne St ",
     "sg:city":"Whakatane",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219915559,
-    "wof:lastmodified":1449073876,
+    "wof:lastmodified":1466313100,
     "wof:name":"Multi Farm Services",
     "wof:parent_id":85782895,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.995117,-37.954357,176.995117,-37.954357],
-  "geometry": {"coordinates":[176.995117,-37.954357],"type":"Point"}
+  "bbox": [
+    176.995117,
+    -37.954357,
+    176.995117,
+    -37.954357
+],
+  "geometry": {"coordinates":[176.99511699999999,-37.954357],"type":"Point"}
 }

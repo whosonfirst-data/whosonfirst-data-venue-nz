@@ -2,13 +2,14 @@
   "id": 185914159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.732666,-36.775654,174.732666,-36.775654",
     "geom:latitude":-36.775654,
     "geom:longitude":174.732666,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Silverfield (Off Porana Rd) Glenfield ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185914159,
-    "wof:lastmodified":1449007220,
+    "wof:lastmodified":1466311968,
     "wof:name":"North Shore Events Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "sports"
     ]
 },
-  "bbox": [174.732666,-36.775654,174.732666,-36.775654],
-  "geometry": {"coordinates":[174.732666,-36.775654],"type":"Point"}
+  "bbox": [
+    174.732666,
+    -36.775654,
+    174.732666,
+    -36.775654
+],
+  "geometry": {"coordinates":[174.73266599999999,-36.775654],"type":"Point"}
 }

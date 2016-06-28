@@ -2,13 +2,14 @@
   "id": 203230329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.277573,-40.632526,175.277573,-40.632526",
     "geom:latitude":-40.632526,
     "geom:longitude":175.277573,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"40-42 Cambridge St South ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203230329,
-    "wof:lastmodified":1449026370,
+    "wof:lastmodified":1466311646,
     "wof:name":"Kerr Industries Ltd",
     "wof:parent_id":85782865,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manufacturer"
     ]
 },
-  "bbox": [175.277573,-40.632526,175.277573,-40.632526],
-  "geometry": {"coordinates":[175.277573,-40.632526],"type":"Point"}
+  "bbox": [
+    175.277573,
+    -40.632526,
+    175.277573,
+    -40.632526
+],
+  "geometry": {"coordinates":[175.27757299999999,-40.632526],"type":"Point"}
 }

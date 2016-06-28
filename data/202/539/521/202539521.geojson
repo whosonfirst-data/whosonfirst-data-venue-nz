@@ -2,13 +2,14 @@
   "id": 202539521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.003021,-38.6534,178.003021,-38.6534",
     "geom:latitude":-38.6534,
     "geom:longitude":178.003021,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"665 Gladstone Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202539521,
-    "wof:lastmodified":1449062715,
+    "wof:lastmodified":1466310994,
     "wof:name":"Osteopathic Health Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.003021,-38.6534,178.003021,-38.6534],
-  "geometry": {"coordinates":[178.003021,-38.6534],"type":"Point"}
+  "bbox": [
+    178.003021,
+    -38.6534,
+    178.003021,
+    -38.6534
+],
+  "geometry": {"coordinates":[178.00302099999999,-38.6534],"type":"Point"}
 }

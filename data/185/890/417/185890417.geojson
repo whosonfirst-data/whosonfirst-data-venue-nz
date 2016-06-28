@@ -2,13 +2,14 @@
   "id": 185890417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.739075,-36.913364,174.739075,-36.913364",
     "geom:latitude":-36.913364,
     "geom:longitude":174.739075,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1388 Dominion Rd Mt Roskill ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185890417,
-    "wof:lastmodified":1449006975,
+    "wof:lastmodified":1466311804,
     "wof:name":"Akarana Golf Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.739075,-36.913364,174.739075,-36.913364],
-  "geometry": {"coordinates":[174.739075,-36.913364],"type":"Point"}
+  "bbox": [
+    174.739075,
+    -36.913364,
+    174.739075,
+    -36.913364
+],
+  "geometry": {"coordinates":[174.73907500000001,-36.913364],"type":"Point"}
 }

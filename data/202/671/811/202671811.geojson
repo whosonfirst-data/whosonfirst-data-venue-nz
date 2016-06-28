@@ -2,13 +2,14 @@
   "id": 202671811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.809357,-36.908123,174.809357,-36.908123",
     "geom:latitude":-36.908123,
     "geom:longitude":174.809357,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Unit 3/15 Bassant Ave Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202671811,
-    "wof:lastmodified":1449060692,
+    "wof:lastmodified":1466312124,
     "wof:name":"Smythe Plumbing & Electrical",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "related"
     ]
 },
-  "bbox": [174.809357,-36.908123,174.809357,-36.908123],
-  "geometry": {"coordinates":[174.809357,-36.908123],"type":"Point"}
+  "bbox": [
+    174.809357,
+    -36.908123,
+    174.809357,
+    -36.908123
+],
+  "geometry": {"coordinates":[174.80935700000001,-36.908123],"type":"Point"}
 }

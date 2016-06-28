@@ -2,13 +2,14 @@
   "id": 185954295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.710457,40.231426,-74.710457,40.231426",
     "geom:latitude":40.231426,
     "geom:longitude":-74.710457,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Richmond Street ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185954295,
-    "wof:lastmodified":1449008014,
+    "wof:lastmodified":1466312132,
     "wof:name":"Hamilton Old Boys Squash Club",
     "wof:parent_id":85833791,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "sports"
     ]
 },
-  "bbox": [-74.710457,40.231426,-74.710457,40.231426],
-  "geometry": {"coordinates":[-74.710457,40.231426],"type":"Point"}
+  "bbox": [
+    -74.710457,
+    40.231426,
+    -74.710457,
+    40.231426
+],
+  "geometry": {"coordinates":[-74.71045700000001,40.231426],"type":"Point"}
 }

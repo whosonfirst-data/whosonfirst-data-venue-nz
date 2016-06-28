@@ -2,13 +2,14 @@
   "id": 219864931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.025818,-38.668377,178.025818,-38.668377",
     "geom:latitude":-38.668377,
     "geom:longitude":178.025818,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 Childers Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":219864931,
-    "wof:lastmodified":1449073970,
+    "wof:lastmodified":1466313068,
     "wof:name":"Logic Forest Solutions Ltd",
     "wof:parent_id":85781347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [178.025818,-38.668377,178.025818,-38.668377],
-  "geometry": {"coordinates":[178.025818,-38.668377],"type":"Point"}
+  "bbox": [
+    178.025818,
+    -38.668377,
+    178.025818,
+    -38.668377
+],
+  "geometry": {"coordinates":[178.02581799999999,-38.668377],"type":"Point"}
 }

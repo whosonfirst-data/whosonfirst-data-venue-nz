@@ -2,13 +2,14 @@
   "id": 186078009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.364243,-46.395802,168.364243,-46.395802",
     "geom:latitude":-46.395802,
     "geom:longitude":168.364243,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Catherine St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186078009,
-    "wof:lastmodified":1449052589,
+    "wof:lastmodified":1466311833,
     "wof:name":"Stuart Control Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [168.364243,-46.395802,168.364243,-46.395802],
-  "geometry": {"coordinates":[168.364243,-46.395802],"type":"Point"}
+  "bbox": [
+    168.364243,
+    -46.395802,
+    168.364243,
+    -46.395802
+],
+  "geometry": {"coordinates":[168.36424299999999,-46.395802],"type":"Point"}
 }

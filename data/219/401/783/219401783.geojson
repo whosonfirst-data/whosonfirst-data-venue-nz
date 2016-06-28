@@ -2,13 +2,14 @@
   "id": 219401783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.100281,-35.302307,174.100281,-35.302307",
     "geom:latitude":-35.302307,
     "geom:longitude":174.100281,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Paihia Wharf ",
     "sg:city":"Paihia",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":219401783,
-    "wof:lastmodified":1449073388,
+    "wof:lastmodified":1466311825,
     "wof:name":"Charter Pier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "boat"
     ]
 },
-  "bbox": [174.100281,-35.302307,174.100281,-35.302307],
+  "bbox": [
+    174.100281,
+    -35.302307,
+    174.100281,
+    -35.302307
+],
   "geometry": {"coordinates":[174.100281,-35.302307],"type":"Point"}
 }

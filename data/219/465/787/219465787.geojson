@@ -2,13 +2,14 @@
   "id": 219465787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.329895,-35.727486,174.329895,-35.727486",
     "geom:latitude":-35.727486,
     "geom:longitude":174.329895,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"167 Lower Dent St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219465787,
-    "wof:lastmodified":1449072762,
+    "wof:lastmodified":1466312084,
     "wof:name":"Regent Training Centre Ltd",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "training"
     ]
 },
-  "bbox": [174.329895,-35.727486,174.329895,-35.727486],
-  "geometry": {"coordinates":[174.329895,-35.727486],"type":"Point"}
+  "bbox": [
+    174.329895,
+    -35.727486,
+    174.329895,
+    -35.727486
+],
+  "geometry": {"coordinates":[174.32989499999999,-35.727486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202660895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.503403,-45.902779,170.503403,-45.902779",
     "geom:latitude":-45.902779,
     "geom:longitude":170.503403,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Richardson St St Kilda ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202660895,
-    "wof:lastmodified":1449062383,
+    "wof:lastmodified":1466311996,
     "wof:name":"Burrow Plumbing Ltd",
     "wof:parent_id":85773197,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "related"
     ]
 },
-  "bbox": [170.503403,-45.902779,170.503403,-45.902779],
-  "geometry": {"coordinates":[170.503403,-45.902779],"type":"Point"}
+  "bbox": [
+    170.503403,
+    -45.902779,
+    170.503403,
+    -45.902779
+],
+  "geometry": {"coordinates":[170.50340299999999,-45.902779],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202895825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.056168,-36.79525,175.056168,-36.79525",
     "geom:latitude":-36.79525,
     "geom:longitude":175.056168,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Erua Rd Waiheke Island ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202895825,
-    "wof:lastmodified":1449061190,
+    "wof:lastmodified":1466312880,
     "wof:name":"Island Marine & Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "cutter"
     ]
 },
-  "bbox": [175.056168,-36.79525,175.056168,-36.79525],
-  "geometry": {"coordinates":[175.056168,-36.79525],"type":"Point"}
+  "bbox": [
+    175.056168,
+    -36.79525,
+    175.056168,
+    -36.79525
+],
+  "geometry": {"coordinates":[175.05616800000001,-36.79525],"type":"Point"}
 }

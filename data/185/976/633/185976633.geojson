@@ -2,13 +2,14 @@
   "id": 185976633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-114.160393,46.250534,-114.160393,46.250534",
     "geom:latitude":46.250534,
     "geom:longitude":-114.160393,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"452 Tauwhare Rd R D 4 Hamilton ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":185976633,
-    "wof:lastmodified":1449007270,
+    "wof:lastmodified":1466312223,
     "wof:name":"Matangi Factory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-114.160393,46.250534,-114.160393,46.250534],
+  "bbox": [
+    -114.160393,
+    46.250534,
+    -114.160393,
+    46.250534
+],
   "geometry": {"coordinates":[-114.160393,46.250534],"type":"Point"}
 }

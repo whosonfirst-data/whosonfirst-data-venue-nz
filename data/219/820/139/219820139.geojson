@@ -2,13 +2,14 @@
   "id": 219820139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.350388,-45.878319,170.350388,-45.878319",
     "geom:latitude":-45.878319,
     "geom:longitude":170.350388,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"85 Gordon Rd Mosgiel ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":219820139,
-    "wof:lastmodified":1449072202,
+    "wof:lastmodified":1466313046,
     "wof:name":"Lean McLeod Auto Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "alignment"
     ]
 },
-  "bbox": [170.350388,-45.878319,170.350388,-45.878319],
-  "geometry": {"coordinates":[170.350388,-45.878319],"type":"Point"}
+  "bbox": [
+    170.350388,
+    -45.878319,
+    170.350388,
+    -45.878319
+],
+  "geometry": {"coordinates":[170.35038800000001,-45.878319],"type":"Point"}
 }

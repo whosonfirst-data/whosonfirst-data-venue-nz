@@ -2,13 +2,14 @@
   "id": 186438511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.605011,-40.358948,175.605011,-40.358948",
     "geom:latitude":-40.358948,
     "geom:longitude":175.605011,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"257 Main St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186438511,
-    "wof:lastmodified":1449051295,
+    "wof:lastmodified":1466312604,
     "wof:name":"Window Opening Systems Ltd",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.605011,-40.358948,175.605011,-40.358948],
-  "geometry": {"coordinates":[175.605011,-40.358948],"type":"Point"}
+  "bbox": [
+    175.605011,
+    -40.358948,
+    175.605011,
+    -40.358948
+],
+  "geometry": {"coordinates":[175.60501099999999,-40.358948],"type":"Point"}
 }

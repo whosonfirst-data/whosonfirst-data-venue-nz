@@ -2,13 +2,14 @@
   "id": 169602391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.321854,-35.725948,174.321854,-35.725948",
     "geom:latitude":-35.725948,
     "geom:longitude":174.321854,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 John St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169602391,
-    "wof:lastmodified":1449034229,
+    "wof:lastmodified":1466311655,
     "wof:name":"John Street Book Exchange",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.321854,-35.725948,174.321854,-35.725948],
+  "bbox": [
+    174.321854,
+    -35.725948,
+    174.321854,
+    -35.725948
+],
   "geometry": {"coordinates":[174.321854,-35.725948],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203257303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.038193,-36.990433,175.038193,-36.990433",
     "geom:latitude":-36.990433,
     "geom:longitude":175.038193,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 North Rd Clevedon ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":203257303,
-    "wof:lastmodified":1449025464,
+    "wof:lastmodified":1466311914,
     "wof:name":"Country Knits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.038193,-36.990433,175.038193,-36.990433],
-  "geometry": {"coordinates":[175.038193,-36.990433],"type":"Point"}
+  "bbox": [
+    175.038193,
+    -36.990433,
+    175.038193,
+    -36.990433
+],
+  "geometry": {"coordinates":[175.03819300000001,-36.990433],"type":"Point"}
 }

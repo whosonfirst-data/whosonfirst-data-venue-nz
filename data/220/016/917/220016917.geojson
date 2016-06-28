@@ -2,13 +2,14 @@
   "id": 220016917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.617432,-40.354675,175.617432,-40.354675",
     "geom:latitude":-40.354675,
     "geom:longitude":175.617432,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"437 Church St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":220016917,
-    "wof:lastmodified":1449074184,
+    "wof:lastmodified":1466310983,
     "wof:name":"Opie & Dron",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mortgage"
     ]
 },
-  "bbox": [175.617432,-40.354675,175.617432,-40.354675],
-  "geometry": {"coordinates":[175.617432,-40.354675],"type":"Point"}
+  "bbox": [
+    175.617432,
+    -40.354675,
+    175.617432,
+    -40.354675
+],
+  "geometry": {"coordinates":[175.61743200000001,-40.354675],"type":"Point"}
 }

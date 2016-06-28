@@ -2,13 +2,14 @@
   "id": 219324045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"171.102158,-44.915905,171.102158,-44.915905",
     "geom:latitude":-44.915905,
     "geom:longitude":171.102158,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Redcliff Rd ",
     "sg:city":"Glenavy",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219324045,
-    "wof:lastmodified":1449072445,
+    "wof:lastmodified":1466311142,
     "wof:name":"Glenavy Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "accommodation"
     ]
 },
-  "bbox": [171.102158,-44.915905,171.102158,-44.915905],
+  "bbox": [
+    171.102158,
+    -44.915905,
+    171.102158,
+    -44.915905
+],
   "geometry": {"coordinates":[171.102158,-44.915905],"type":"Point"}
 }

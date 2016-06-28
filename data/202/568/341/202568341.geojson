@@ -2,13 +2,14 @@
   "id": 202568341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.23999,-36.958897,175.23999,-36.958897",
     "geom:latitude":-36.958897,
     "geom:longitude":175.23999,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor 304 Main Rd Orewa ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":202568341,
-    "wof:lastmodified":1449060053,
+    "wof:lastmodified":1466311248,
     "wof:name":"Compass Insurance Brokers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.23999,-36.958897,175.23999,-36.958897],
-  "geometry": {"coordinates":[175.23999,-36.958897],"type":"Point"}
+  "bbox": [
+    175.23999,
+    -36.958897,
+    175.23999,
+    -36.958897
+],
+  "geometry": {"coordinates":[175.23999000000001,-36.958897],"type":"Point"}
 }

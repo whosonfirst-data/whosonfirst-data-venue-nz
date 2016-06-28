@@ -2,13 +2,14 @@
   "id": 236043799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-74.627739,40.19825,-74.627739,40.19825",
     "geom:latitude":40.19825,
     "geom:longitude":-74.627739,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Seddon Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236043799,
-    "wof:lastmodified":1449004241,
+    "wof:lastmodified":1466311208,
     "wof:name":"Seddon Park Funeral Home",
     "wof:parent_id":85817351,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "arrangement"
     ]
 },
-  "bbox": [-74.627739,40.19825,-74.627739,40.19825],
-  "geometry": {"coordinates":[-74.627739,40.19825],"type":"Point"}
+  "bbox": [
+    -74.627739,
+    40.19825,
+    -74.627739,
+    40.19825
+],
+  "geometry": {"coordinates":[-74.62773900000001,40.19825],"type":"Point"}
 }

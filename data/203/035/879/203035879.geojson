@@ -2,13 +2,14 @@
   "id": 203035879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.155853,-37.705601,176.155853,-37.705601",
     "geom:latitude":-37.705601,
     "geom:longitude":176.155853,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"471 Devonport Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203035879,
-    "wof:lastmodified":1449026470,
+    "wof:lastmodified":1466311207,
     "wof:name":"Plunket Car Seat Rental Scheme",
     "wof:parent_id":85782817,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "garden"
     ]
 },
-  "bbox": [176.155853,-37.705601,176.155853,-37.705601],
-  "geometry": {"coordinates":[176.155853,-37.705601],"type":"Point"}
+  "bbox": [
+    176.155853,
+    -37.705601,
+    176.155853,
+    -37.705601
+],
+  "geometry": {"coordinates":[176.15585300000001,-37.705601],"type":"Point"}
 }

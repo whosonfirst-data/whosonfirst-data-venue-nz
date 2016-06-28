@@ -2,13 +2,14 @@
   "id": 202505593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.450729,35.074841,-100.450729,35.074841",
     "geom:latitude":35.074841,
     "geom:longitude":-100.450729,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"National Bank Chambers 49-51 Courtenay Pl ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202505593,
-    "wof:lastmodified":1449062239,
+    "wof:lastmodified":1466310711,
     "wof:name":"Scott Dr Ronald A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.450729,35.074841,-100.450729,35.074841],
+  "bbox": [
+    -100.450729,
+    35.074841,
+    -100.450729,
+    35.074841
+],
   "geometry": {"coordinates":[-100.450729,35.074841],"type":"Point"}
 }

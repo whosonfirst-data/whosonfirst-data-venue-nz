@@ -2,13 +2,14 @@
   "id": 202720495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.554703,-40.227516,175.554703,-40.227516",
     "geom:latitude":-40.227516,
     "geom:longitude":175.554703,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Westwind Pl ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":202720495,
-    "wof:lastmodified":1449060716,
+    "wof:lastmodified":1466312212,
     "wof:name":"Graeme Berrett Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "furniture"
     ]
 },
-  "bbox": [175.554703,-40.227516,175.554703,-40.227516],
-  "geometry": {"coordinates":[175.554703,-40.227516],"type":"Point"}
+  "bbox": [
+    175.554703,
+    -40.227516,
+    175.554703,
+    -40.227516
+],
+  "geometry": {"coordinates":[175.55470299999999,-40.227516],"type":"Point"}
 }

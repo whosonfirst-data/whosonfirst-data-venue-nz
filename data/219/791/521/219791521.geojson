@@ -2,13 +2,14 @@
   "id": 219791521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.810104,-36.91275,174.810104,-36.91275",
     "geom:latitude":-36.91275,
     "geom:longitude":174.810104,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Fairfax Ave Penrose ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":219791521,
-    "wof:lastmodified":1449073117,
+    "wof:lastmodified":1466313001,
     "wof:name":"Jones Odell Motor Bodies",
     "wof:parent_id":85773117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "automotive"
     ]
 },
-  "bbox": [174.810104,-36.91275,174.810104,-36.91275],
+  "bbox": [
+    174.810104,
+    -36.91275,
+    174.810104,
+    -36.91275
+],
   "geometry": {"coordinates":[174.810104,-36.91275],"type":"Point"}
 }

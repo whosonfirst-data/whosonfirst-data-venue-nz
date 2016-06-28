@@ -2,13 +2,14 @@
   "id": 203157929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.725891,-36.86874,174.725891,-36.86874",
     "geom:latitude":-36.86874,
     "geom:longitude":174.725891,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"St Lukes Rd ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203157929,
-    "wof:lastmodified":1449026592,
+    "wof:lastmodified":1466310967,
     "wof:name":"Pet Corner Ltd",
     "wof:parent_id":85773319,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pets"
     ]
 },
-  "bbox": [174.725891,-36.86874,174.725891,-36.86874],
-  "geometry": {"coordinates":[174.725891,-36.86874],"type":"Point"}
+  "bbox": [
+    174.725891,
+    -36.86874,
+    174.725891,
+    -36.86874
+],
+  "geometry": {"coordinates":[174.72589099999999,-36.86874],"type":"Point"}
 }

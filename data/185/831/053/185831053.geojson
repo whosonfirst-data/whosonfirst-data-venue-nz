@@ -2,13 +2,14 @@
   "id": 185831053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.733444,-36.864235,174.733444,-36.864235",
     "geom:latitude":-36.864235,
     "geom:longitude":174.733444,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1/673 Great North Rd Grey Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185831053,
-    "wof:lastmodified":1449007555,
+    "wof:lastmodified":1466311439,
     "wof:name":"The Killing Room",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.733444,-36.864235,174.733444,-36.864235],
-  "geometry": {"coordinates":[174.733444,-36.864235],"type":"Point"}
+  "bbox": [
+    174.733444,
+    -36.864235,
+    174.733444,
+    -36.864235
+],
+  "geometry": {"coordinates":[174.73344399999999,-36.864235],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202420849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.854416,-36.979,174.854416,-36.979",
     "geom:latitude":-36.979,
     "geom:longitude":174.854416,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Kolmar Rd Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202420849,
-    "wof:lastmodified":1449061340,
+    "wof:lastmodified":1466311481,
     "wof:name":"Papatoetoe Family Doctors",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "beauty"
     ]
 },
-  "bbox": [174.854416,-36.979,174.854416,-36.979],
-  "geometry": {"coordinates":[174.854416,-36.979],"type":"Point"}
+  "bbox": [
+    174.854416,
+    -36.979,
+    174.854416,
+    -36.979
+],
+  "geometry": {"coordinates":[174.85441599999999,-36.979],"type":"Point"}
 }

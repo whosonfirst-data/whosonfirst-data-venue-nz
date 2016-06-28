@@ -2,13 +2,14 @@
   "id": 219665103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.776215,-36.865299,174.776215,-36.865299",
     "geom:latitude":-36.865299,
     "geom:longitude":174.776215,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Carlton Gore Rd Newmarket ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219665103,
-    "wof:lastmodified":1449071475,
+    "wof:lastmodified":1466312653,
     "wof:name":"Newmarket Tyre Service Ltd",
     "wof:parent_id":85778485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.776215,-36.865299,174.776215,-36.865299],
-  "geometry": {"coordinates":[174.776215,-36.865299],"type":"Point"}
+  "bbox": [
+    174.776215,
+    -36.865299,
+    174.776215,
+    -36.865299
+],
+  "geometry": {"coordinates":[174.77621500000001,-36.865299],"type":"Point"}
 }

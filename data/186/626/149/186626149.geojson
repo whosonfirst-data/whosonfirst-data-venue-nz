@@ -2,13 +2,14 @@
   "id": 186626149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.620361,-43.557045,172.620361,-43.557045",
     "geom:latitude":-43.557045,
     "geom:longitude":172.620361,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Althelstan St Spreydon ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186626149,
-    "wof:lastmodified":1449053028,
+    "wof:lastmodified":1466313004,
     "wof:name":"AcuClinic Barrington (DSC Acupuncture Clinic)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "acupuncturists"
     ]
 },
-  "bbox": [172.620361,-43.557045,172.620361,-43.557045],
+  "bbox": [
+    172.620361,
+    -43.557045,
+    172.620361,
+    -43.557045
+],
   "geometry": {"coordinates":[172.620361,-43.557045],"type":"Point"}
 }

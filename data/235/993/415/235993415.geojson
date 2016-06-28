@@ -2,13 +2,14 @@
   "id": 235993415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.655289,-43.387051,172.655289,-43.387051",
     "geom:latitude":-43.387051,
     "geom:longitude":172.655289,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Williams St ",
     "sg:city":"Kaiapoi",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":235993415,
-    "wof:lastmodified":1449008401,
+    "wof:lastmodified":1466311566,
     "wof:name":"Kaiapoi Pizza",
     "wof:parent_id":85782425,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "pizza"
     ]
 },
-  "bbox": [172.655289,-43.387051,172.655289,-43.387051],
-  "geometry": {"coordinates":[172.655289,-43.387051],"type":"Point"}
+  "bbox": [
+    172.655289,
+    -43.387051,
+    172.655289,
+    -43.387051
+],
+  "geometry": {"coordinates":[172.65528900000001,-43.387051],"type":"Point"}
 }

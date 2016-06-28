@@ -2,13 +2,14 @@
   "id": 236024175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.340332,-46.410522,168.340332,-46.410522",
     "geom:latitude":-46.410522,
     "geom:longitude":168.340332,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Bond St West Invercargill ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":236024175,
-    "wof:lastmodified":1449003190,
+    "wof:lastmodified":1466311031,
     "wof:name":"Truck Stop Takeaways 1991",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "takeaway"
     ]
 },
-  "bbox": [168.340332,-46.410522,168.340332,-46.410522],
-  "geometry": {"coordinates":[168.340332,-46.410522],"type":"Point"}
+  "bbox": [
+    168.340332,
+    -46.410522,
+    168.340332,
+    -46.410522
+],
+  "geometry": {"coordinates":[168.34033199999999,-46.410522],"type":"Point"}
 }

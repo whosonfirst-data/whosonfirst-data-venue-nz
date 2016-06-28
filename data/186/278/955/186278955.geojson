@@ -2,13 +2,14 @@
   "id": 186278955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.810577,-41.248486,174.810577,-41.248486",
     "geom:latitude":-41.248486,
     "geom:longitude":174.810577,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Jarden Mile Ngauranga ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186278955,
-    "wof:lastmodified":1449051860,
+    "wof:lastmodified":1466312092,
     "wof:name":"Rollex Machinery (Australasia) Ltd",
     "wof:parent_id":85778225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.810577,-41.248486,174.810577,-41.248486],
-  "geometry": {"coordinates":[174.810577,-41.248486],"type":"Point"}
+  "bbox": [
+    174.810577,
+    -41.248486,
+    174.810577,
+    -41.248486
+],
+  "geometry": {"coordinates":[174.81057699999999,-41.248486],"type":"Point"}
 }

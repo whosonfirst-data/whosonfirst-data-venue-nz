@@ -2,13 +2,14 @@
   "id": 203191841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.791061,-41.246521,174.791061,-41.246521",
     "geom:latitude":-41.246521,
     "geom:longitude":174.791061,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"7 Ganges Rd Khandallah ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203191841,
-    "wof:lastmodified":1449026084,
+    "wof:lastmodified":1466311297,
     "wof:name":"Taylors Drycleaners Khandallah",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "cleaner"
     ]
 },
-  "bbox": [174.791061,-41.246521,174.791061,-41.246521],
-  "geometry": {"coordinates":[174.791061,-41.246521],"type":"Point"}
+  "bbox": [
+    174.791061,
+    -41.246521,
+    174.791061,
+    -41.246521
+],
+  "geometry": {"coordinates":[174.79106100000001,-41.246521],"type":"Point"}
 }

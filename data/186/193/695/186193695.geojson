@@ -2,13 +2,14 @@
   "id": 186193695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.129715,-37.702293,176.129715,-37.702293",
     "geom:latitude":-37.702293,
     "geom:longitude":176.129715,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"144 Cambridge Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186193695,
-    "wof:lastmodified":1449050847,
+    "wof:lastmodified":1466311338,
     "wof:name":"Denitool New Zealand",
     "wof:parent_id":85781155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.129715,-37.702293,176.129715,-37.702293],
+  "bbox": [
+    176.129715,
+    -37.702293,
+    176.129715,
+    -37.702293
+],
   "geometry": {"coordinates":[176.129715,-37.702293],"type":"Point"}
 }

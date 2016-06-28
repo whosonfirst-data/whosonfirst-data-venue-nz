@@ -2,13 +2,14 @@
   "id": 220195115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.73848,-43.561405,172.73848,-43.561405",
     "geom:latitude":-43.561405,
     "geom:longitude":172.73848,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"85 A Main Rd Redcliffs ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220195115,
-    "wof:lastmodified":1449074584,
+    "wof:lastmodified":1466311429,
     "wof:name":"Redcliffs Butchery",
     "wof:parent_id":85778629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.73848,-43.561405,172.73848,-43.561405],
-  "geometry": {"coordinates":[172.73848,-43.561405],"type":"Point"}
+  "bbox": [
+    172.73848,
+    -43.561405,
+    172.73848,
+    -43.561405
+],
+  "geometry": {"coordinates":[172.73848000000001,-43.561405],"type":"Point"}
 }

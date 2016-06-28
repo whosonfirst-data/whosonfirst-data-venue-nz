@@ -2,13 +2,14 @@
   "id": 185728353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.824829,-41.169273,174.824829,-41.169273",
     "geom:latitude":-41.169273,
     "geom:longitude":174.824829,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"197 Main Rd Tawa ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185728353,
-    "wof:lastmodified":1449006987,
+    "wof:lastmodified":1466310763,
     "wof:name":"TAB",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [174.824829,-41.169273,174.824829,-41.169273],
-  "geometry": {"coordinates":[174.824829,-41.169273],"type":"Point"}
+  "bbox": [
+    174.824829,
+    -41.169273,
+    174.824829,
+    -41.169273
+],
+  "geometry": {"coordinates":[174.82482899999999,-41.169273],"type":"Point"}
 }

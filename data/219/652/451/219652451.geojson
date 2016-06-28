@@ -2,13 +2,14 @@
   "id": 219652451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.659973,-36.891064,174.659973,-36.891064",
     "geom:latitude":-36.891064,
     "geom:longitude":174.659973,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Culperry Rd Glendene ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219652451,
-    "wof:lastmodified":1449072660,
+    "wof:lastmodified":1466312635,
     "wof:name":"Special Finishes Limited",
     "wof:parent_id":85780905,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.659973,-36.891064,174.659973,-36.891064],
-  "geometry": {"coordinates":[174.659973,-36.891064],"type":"Point"}
+  "bbox": [
+    174.659973,
+    -36.891064,
+    174.659973,
+    -36.891064
+],
+  "geometry": {"coordinates":[174.65997300000001,-36.891064],"type":"Point"}
 }

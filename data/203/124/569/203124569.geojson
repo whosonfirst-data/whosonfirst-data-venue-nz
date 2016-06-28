@@ -2,13 +2,14 @@
   "id": 203124569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.625778,-40.348095,175.625778,-40.348095",
     "geom:latitude":-40.348095,
     "geom:longitude":175.625778,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"317 A Broadway Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203124569,
-    "wof:lastmodified":1449026728,
+    "wof:lastmodified":1466310731,
     "wof:name":"Sasha McComb Animal Behaviourist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "animal"
     ]
 },
-  "bbox": [175.625778,-40.348095,175.625778,-40.348095],
+  "bbox": [
+    175.625778,
+    -40.348095,
+    175.625778,
+    -40.348095
+],
   "geometry": {"coordinates":[175.625778,-40.348095],"type":"Point"}
 }

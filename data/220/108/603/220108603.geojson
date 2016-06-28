@@ -2,13 +2,14 @@
   "id": 220108603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.894028,-41.121853,174.894028,-41.121853",
     "geom:latitude":-41.121853,
     "geom:longitude":174.894028,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Latitude Clo Whitby ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":220108603,
-    "wof:lastmodified":1449074080,
+    "wof:lastmodified":1466310676,
     "wof:name":"Cakes Galore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [174.894028,-41.121853,174.894028,-41.121853],
-  "geometry": {"coordinates":[174.894028,-41.121853],"type":"Point"}
+  "bbox": [
+    174.894028,
+    -41.121853,
+    174.894028,
+    -41.121853
+],
+  "geometry": {"coordinates":[174.89402799999999,-41.121853],"type":"Point"}
 }

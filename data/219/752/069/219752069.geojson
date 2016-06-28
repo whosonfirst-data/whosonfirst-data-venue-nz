@@ -2,13 +2,14 @@
   "id": 219752069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.010315,-41.53009,174.010315,-41.53009",
     "geom:latitude":-41.53009,
     "geom:longitude":174.010315,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Manchester St Riverlands ",
     "sg:city":"Blenheim",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219752069,
-    "wof:lastmodified":1449070977,
+    "wof:lastmodified":1466312995,
     "wof:name":"Riverlands Estate Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "servicing"
     ]
 },
-  "bbox": [174.010315,-41.53009,174.010315,-41.53009],
-  "geometry": {"coordinates":[174.010315,-41.53009],"type":"Point"}
+  "bbox": [
+    174.010315,
+    -41.53009,
+    174.010315,
+    -41.53009
+],
+  "geometry": {"coordinates":[174.01031499999999,-41.53009],"type":"Point"}
 }

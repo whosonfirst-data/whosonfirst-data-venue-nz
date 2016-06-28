@@ -2,13 +2,14 @@
   "id": 202648371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.861313,-39.525143,176.861313,-39.525143",
     "geom:latitude":-39.525143,
     "geom:longitude":176.861313,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"158 York Ave Greenmeadows ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202648371,
-    "wof:lastmodified":1449060816,
+    "wof:lastmodified":1466311913,
     "wof:name":"APACS",
     "wof:parent_id":85772933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plasterer"
     ]
 },
-  "bbox": [176.861313,-39.525143,176.861313,-39.525143],
+  "bbox": [
+    176.861313,
+    -39.525143,
+    176.861313,
+    -39.525143
+],
   "geometry": {"coordinates":[176.861313,-39.525143],"type":"Point"}
 }

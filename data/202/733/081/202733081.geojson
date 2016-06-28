@@ -2,13 +2,14 @@
   "id": 202733081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.980042,-40.930645,174.980042,-40.930645",
     "geom:latitude":-40.930645,
     "geom:longitude":174.980042,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Landfill Rd PO Box 7174 Wellington South ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202733081,
-    "wof:lastmodified":1449060455,
+    "wof:lastmodified":1466312255,
     "wof:name":"Daily Waste",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "home"
     ]
 },
-  "bbox": [174.980042,-40.930645,174.980042,-40.930645],
+  "bbox": [
+    174.980042,
+    -40.930645,
+    174.980042,
+    -40.930645
+],
   "geometry": {"coordinates":[174.980042,-40.930645],"type":"Point"}
 }

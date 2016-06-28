@@ -2,13 +2,14 @@
   "id": 169550977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.895401,40.343063,-90.895401,40.343063",
     "geom:latitude":40.343063,
     "geom:longitude":-90.895401,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 27 New ",
     "sg:city":"Plymouth",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169550977,
-    "wof:lastmodified":1449034479,
+    "wof:lastmodified":1466310821,
     "wof:name":"Sutherland Robert",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.895401,40.343063,-90.895401,40.343063],
-  "geometry": {"coordinates":[-90.895401,40.343063],"type":"Point"}
+  "bbox": [
+    -90.895401,
+    40.343063,
+    -90.895401,
+    40.343063
+],
+  "geometry": {"coordinates":[-90.89540100000001,40.343063],"type":"Point"}
 }

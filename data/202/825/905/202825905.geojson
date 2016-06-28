@@ -2,13 +2,14 @@
   "id": 202825905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.690369,-36.905273,174.690369,-36.905273",
     "geom:latitude":-36.905273,
     "geom:longitude":174.690369,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Portage Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202825905,
-    "wof:lastmodified":1449060194,
+    "wof:lastmodified":1466312525,
     "wof:name":"Comshape Technology Ltd",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.690369,-36.905273,174.690369,-36.905273],
+  "bbox": [
+    174.690369,
+    -36.905273,
+    174.690369,
+    -36.905273
+],
   "geometry": {"coordinates":[174.690369,-36.905273],"type":"Point"}
 }

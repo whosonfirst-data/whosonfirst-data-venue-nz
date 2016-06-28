@@ -2,13 +2,14 @@
   "id": 169567001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.848495,-39.535091,176.848495,-39.535091",
     "geom:latitude":-39.535091,
     "geom:longitude":176.848495,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Gloucester St Taradale ",
     "sg:city":"Napier",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169567001,
-    "wof:lastmodified":1449035992,
+    "wof:lastmodified":1466312023,
     "wof:name":"Inside Out Taradale",
     "wof:parent_id":85773225,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supplier"
     ]
 },
-  "bbox": [176.848495,-39.535091,176.848495,-39.535091],
-  "geometry": {"coordinates":[176.848495,-39.535091],"type":"Point"}
+  "bbox": [
+    176.848495,
+    -39.535091,
+    176.848495,
+    -39.535091
+],
+  "geometry": {"coordinates":[176.84849500000001,-39.535091],"type":"Point"}
 }

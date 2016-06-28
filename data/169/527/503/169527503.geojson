@@ -2,13 +2,14 @@
   "id": 169527503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.252243,-38.130119,176.252243,-38.130119",
     "geom:latitude":-38.130119,
     "geom:longitude":176.252243,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"340-344 Tutanekai St",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169527503,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1466310584,
     "wof:name":"ANZ Banking Group Ltd",
     "wof:parent_id":85773075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.252243,-38.130119,176.252243,-38.130119],
-  "geometry": {"coordinates":[176.252243,-38.130119],"type":"Point"}
+  "bbox": [
+    176.252243,
+    -38.130119,
+    176.252243,
+    -38.130119
+],
+  "geometry": {"coordinates":[176.25224299999999,-38.130119],"type":"Point"}
 }

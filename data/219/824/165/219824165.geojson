@@ -2,13 +2,14 @@
   "id": 219824165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.33342,-35.740582,174.33342,-35.740582",
     "geom:latitude":-35.740582,
     "geom:longitude":174.33342,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Kioreroa Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":219824165,
-    "wof:lastmodified":1449071651,
+    "wof:lastmodified":1466313047,
     "wof:name":"Landpower Northland Limited",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.33342,-35.740582,174.33342,-35.740582],
-  "geometry": {"coordinates":[174.33342,-35.740582],"type":"Point"}
+  "bbox": [
+    174.33342,
+    -35.740582,
+    174.33342,
+    -35.740582
+],
+  "geometry": {"coordinates":[174.33341999999999,-35.740582],"type":"Point"}
 }

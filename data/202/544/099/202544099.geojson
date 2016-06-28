@@ -2,13 +2,14 @@
   "id": 202544099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.942795,41.370293,-83.942795,41.370293",
     "geom:latitude":41.370293,
     "geom:longitude":-83.942795,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"215 Main St ",
     "sg:city":"Greytown",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202544099,
-    "wof:lastmodified":1449062645,
+    "wof:lastmodified":1466311033,
     "wof:name":"Cheryl Iro",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.942795,41.370293,-83.942795,41.370293],
+  "bbox": [
+    -83.942795,
+    41.370293,
+    -83.942795,
+    41.370293
+],
   "geometry": {"coordinates":[-83.942795,41.370293],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219485167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"177.004913,-39.132259,177.004913,-39.132259",
     "geom:latitude":-39.132259,
     "geom:longitude":177.004913,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Waikare Coast Rd Putorino ",
     "sg:city":"Tutira",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":219485167,
-    "wof:lastmodified":1449072546,
+    "wof:lastmodified":1466312262,
     "wof:name":"Putorino School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [177.004913,-39.132259,177.004913,-39.132259],
-  "geometry": {"coordinates":[177.004913,-39.132259],"type":"Point"}
+  "bbox": [
+    177.004913,
+    -39.132259,
+    177.004913,
+    -39.132259
+],
+  "geometry": {"coordinates":[177.00491299999999,-39.132259],"type":"Point"}
 }

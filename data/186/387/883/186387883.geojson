@@ -2,13 +2,14 @@
   "id": 186387883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.132446,-37.737865,176.132446,-37.737865",
     "geom:latitude":-37.737865,
     "geom:longitude":176.132446,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"133 Cheyne Rd Pyes Pa ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186387883,
-    "wof:lastmodified":1449052657,
+    "wof:lastmodified":1466312480,
     "wof:name":"Reid Engineering Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.132446,-37.737865,176.132446,-37.737865],
-  "geometry": {"coordinates":[176.132446,-37.737865],"type":"Point"}
+  "bbox": [
+    176.132446,
+    -37.737865,
+    176.132446,
+    -37.737865
+],
+  "geometry": {"coordinates":[176.13244599999999,-37.737865],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203113551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.064728,-40.877113,175.064728,-40.877113",
     "geom:latitude":-40.877113,
     "geom:longitude":175.064728,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop/4 Mahara Pl Waikanae ",
     "sg:city":"Paraparaumu",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":203113551,
-    "wof:lastmodified":1449026700,
+    "wof:lastmodified":1466310637,
     "wof:name":"Simon Forsyth Photographer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "home"
     ]
 },
-  "bbox": [175.064728,-40.877113,175.064728,-40.877113],
+  "bbox": [
+    175.064728,
+    -40.877113,
+    175.064728,
+    -40.877113
+],
   "geometry": {"coordinates":[175.064728,-40.877113],"type":"Point"}
 }

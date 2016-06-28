@@ -2,13 +2,14 @@
   "id": 219680813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.616135,-40.354874,175.616135,-40.354874",
     "geom:latitude":-40.354874,
     "geom:longitude":175.616135,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Princess St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":219680813,
-    "wof:lastmodified":1449072865,
+    "wof:lastmodified":1466312681,
     "wof:name":"Coles Motor Company Ltd",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "new"
     ]
 },
-  "bbox": [175.616135,-40.354874,175.616135,-40.354874],
-  "geometry": {"coordinates":[175.616135,-40.354874],"type":"Point"}
+  "bbox": [
+    175.616135,
+    -40.354874,
+    175.616135,
+    -40.354874
+],
+  "geometry": {"coordinates":[175.61613500000001,-40.354874],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203318599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.894806,-36.946701,174.894806,-36.946701",
     "geom:latitude":-36.946701,
     "geom:longitude":174.894806,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 C Sir William Ave East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":203318599,
-    "wof:lastmodified":1449025338,
+    "wof:lastmodified":1466312295,
     "wof:name":"Sullivans For The Total Range",
     "wof:parent_id":85778267,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "supply"
     ]
 },
-  "bbox": [174.894806,-36.946701,174.894806,-36.946701],
-  "geometry": {"coordinates":[174.894806,-36.946701],"type":"Point"}
+  "bbox": [
+    174.894806,
+    -36.946701,
+    174.894806,
+    -36.946701
+],
+  "geometry": {"coordinates":[174.89480599999999,-36.946701],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 203211595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.641022,-40.961803,175.641022,-40.961803",
     "geom:latitude":-40.961803,
     "geom:longitude":175.641022,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Harley St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":203211595,
-    "wof:lastmodified":1449025384,
+    "wof:lastmodified":1466311476,
     "wof:name":"Kidz Klozet",
     "wof:parent_id":85781137,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fabric"
     ]
 },
-  "bbox": [175.641022,-40.961803,175.641022,-40.961803],
-  "geometry": {"coordinates":[175.641022,-40.961803],"type":"Point"}
+  "bbox": [
+    175.641022,
+    -40.961803,
+    175.641022,
+    -40.961803
+],
+  "geometry": {"coordinates":[175.64102199999999,-40.961803],"type":"Point"}
 }

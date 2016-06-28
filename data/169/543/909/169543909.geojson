@@ -2,13 +2,14 @@
   "id": 169543909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.746765,-36.856407,174.746765,-36.856407",
     "geom:latitude":-36.856407,
     "geom:longitude":174.746765,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Ponsonby Rd Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169543909,
-    "wof:lastmodified":1449033337,
+    "wof:lastmodified":1466310717,
     "wof:name":"Shellshock",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.746765,-36.856407,174.746765,-36.856407],
-  "geometry": {"coordinates":[174.746765,-36.856407],"type":"Point"}
+  "bbox": [
+    174.746765,
+    -36.856407,
+    174.746765,
+    -36.856407
+],
+  "geometry": {"coordinates":[174.74676500000001,-36.856407],"type":"Point"}
 }

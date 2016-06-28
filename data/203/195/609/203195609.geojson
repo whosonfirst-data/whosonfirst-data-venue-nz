@@ -2,13 +2,14 @@
   "id": 203195609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.585602,-43.499458,172.585602,-43.499458",
     "geom:latitude":-43.499458,
     "geom:longitude":172.585602,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"287 A Wairakei Rd Bryndwr ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":203195609,
-    "wof:lastmodified":1449026226,
+    "wof:lastmodified":1466311333,
     "wof:name":"Jan Jackson Fashions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "fabric"
     ]
 },
-  "bbox": [172.585602,-43.499458,172.585602,-43.499458],
-  "geometry": {"coordinates":[172.585602,-43.499458],"type":"Point"}
+  "bbox": [
+    172.585602,
+    -43.499458,
+    172.585602,
+    -43.499458
+],
+  "geometry": {"coordinates":[172.58560199999999,-43.499458],"type":"Point"}
 }

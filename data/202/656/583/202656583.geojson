@@ -2,13 +2,14 @@
   "id": 202656583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.181473,-35.6642,174.181473,-35.6642",
     "geom:latitude":-35.6642,
     "geom:longitude":174.181473,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 5114 Regent ",
     "sg:city":"Ruatangata",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202656583,
-    "wof:lastmodified":1449061739,
+    "wof:lastmodified":1466311977,
     "wof:name":"Peter Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "plasterer"
     ]
 },
-  "bbox": [174.181473,-35.6642,174.181473,-35.6642],
-  "geometry": {"coordinates":[174.181473,-35.6642],"type":"Point"}
+  "bbox": [
+    174.181473,
+    -35.6642,
+    174.181473,
+    -35.6642
+],
+  "geometry": {"coordinates":[174.18147300000001,-35.6642],"type":"Point"}
 }

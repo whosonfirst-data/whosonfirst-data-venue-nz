@@ -2,13 +2,14 @@
   "id": 186264805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.329147,-35.730175,174.329147,-35.730175",
     "geom:latitude":-35.730175,
     "geom:longitude":174.329147,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Port Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":186264805,
-    "wof:lastmodified":1449052115,
+    "wof:lastmodified":1466311948,
     "wof:name":"Compressed Air Services Ltd",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welding"
     ]
 },
-  "bbox": [174.329147,-35.730175,174.329147,-35.730175],
-  "geometry": {"coordinates":[174.329147,-35.730175],"type":"Point"}
+  "bbox": [
+    174.329147,
+    -35.730175,
+    174.329147,
+    -35.730175
+],
+  "geometry": {"coordinates":[174.32914700000001,-35.730175],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 220195199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.960907,-41.179817,174.960907,-41.179817",
     "geom:latitude":-41.179817,
     "geom:longitude":174.960907,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1206 High St Taita Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220195199,
-    "wof:lastmodified":1449074584,
+    "wof:lastmodified":1466311430,
     "wof:name":"Reeds Butchery Co Ltd",
     "wof:parent_id":85773211,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.960907,-41.179817,174.960907,-41.179817],
-  "geometry": {"coordinates":[174.960907,-41.179817],"type":"Point"}
+  "bbox": [
+    174.960907,
+    -41.179817,
+    174.960907,
+    -41.179817
+],
+  "geometry": {"coordinates":[174.96090699999999,-41.179817],"type":"Point"}
 }

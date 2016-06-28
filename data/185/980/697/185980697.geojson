@@ -2,13 +2,14 @@
   "id": 185980697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.305862,-38.003262,175.305862,-38.003262",
     "geom:latitude":-38.003262,
     "geom:longitude":175.305862,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1872 Alexandra St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":185980697,
-    "wof:lastmodified":1449006712,
+    "wof:lastmodified":1466312244,
     "wof:name":"Bowers & Son",
     "wof:parent_id":85782893,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "storage"
     ]
 },
-  "bbox": [175.305862,-38.003262,175.305862,-38.003262],
-  "geometry": {"coordinates":[175.305862,-38.003262],"type":"Point"}
+  "bbox": [
+    175.305862,
+    -38.003262,
+    175.305862,
+    -38.003262
+],
+  "geometry": {"coordinates":[175.30586199999999,-38.003262],"type":"Point"}
 }

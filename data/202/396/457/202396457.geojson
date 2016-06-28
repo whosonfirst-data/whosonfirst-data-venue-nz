@@ -2,13 +2,14 @@
   "id": 202396457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.508072,-45.869503,170.508072,-45.869503",
     "geom:latitude":-45.869503,
     "geom:longitude":170.508072,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Great King St ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202396457,
-    "wof:lastmodified":1449061751,
+    "wof:lastmodified":1466310991,
     "wof:name":"Otago District Health Board",
     "wof:parent_id":85778263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "beauty"
     ]
 },
-  "bbox": [170.508072,-45.869503,170.508072,-45.869503],
+  "bbox": [
+    170.508072,
+    -45.869503,
+    170.508072,
+    -45.869503
+],
   "geometry": {"coordinates":[170.508072,-45.869503],"type":"Point"}
 }

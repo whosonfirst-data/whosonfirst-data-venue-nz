@@ -2,13 +2,14 @@
   "id": 236012947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.565811,-40.225487,175.565811,-40.225487",
     "geom:latitude":-40.225487,
     "geom:longitude":175.565811,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"72 Kimbolton Rd ",
     "sg:city":"Feilding",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236012947,
-    "wof:lastmodified":1449004846,
+    "wof:lastmodified":1466310839,
     "wof:name":"Fast Food House",
     "wof:parent_id":85778915,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "takeaway"
     ]
 },
-  "bbox": [175.565811,-40.225487,175.565811,-40.225487],
+  "bbox": [
+    175.565811,
+    -40.225487,
+    175.565811,
+    -40.225487
+],
   "geometry": {"coordinates":[175.565811,-40.225487],"type":"Point"}
 }

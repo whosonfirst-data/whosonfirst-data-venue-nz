@@ -2,13 +2,14 @@
   "id": 202991035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.563217,39.372292,-84.563217,39.372292",
     "geom:latitude":39.372292,
     "geom:longitude":-84.563217,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"36 Fairview St ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -42,14 +43,20 @@
         }
     ],
     "wof:id":202991035,
-    "wof:lastmodified":1449060907,
+    "wof:lastmodified":1466313039,
     "wof:name":"Jensen Ross Section Services",
     "wof:parent_id":85849715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.563217,39.372292,-84.563217,39.372292],
-  "geometry": {"coordinates":[-84.563217,39.372292],"type":"Point"}
+  "bbox": [
+    -84.563217,
+    39.372292,
+    -84.563217,
+    39.372292
+],
+  "geometry": {"coordinates":[-84.56321699999999,39.372292],"type":"Point"}
 }

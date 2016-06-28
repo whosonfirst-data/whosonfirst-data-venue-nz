@@ -2,13 +2,14 @@
   "id": 236016021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.238312,-38.119747,176.238312,-38.119747",
     "geom:latitude":-38.119747,
     "geom:longitude":176.238312,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Koutu Rd ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":236016021,
-    "wof:lastmodified":1449002105,
+    "wof:lastmodified":1466310913,
     "wof:name":"Koutu Fish Shop",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "takeaway"
     ]
 },
-  "bbox": [176.238312,-38.119747,176.238312,-38.119747],
-  "geometry": {"coordinates":[176.238312,-38.119747],"type":"Point"}
+  "bbox": [
+    176.238312,
+    -38.119747,
+    176.238312,
+    -38.119747
+],
+  "geometry": {"coordinates":[176.23831200000001,-38.119747],"type":"Point"}
 }

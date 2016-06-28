@@ -2,13 +2,14 @@
   "id": 219410413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.335114,-35.741035,174.335114,-35.741035",
     "geom:latitude":-35.741035,
     "geom:longitude":174.335114,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Union East St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219410413,
-    "wof:lastmodified":1449070416,
+    "wof:lastmodified":1466311893,
     "wof:name":"Cave's Buses Whangarei",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "tourism"
     ]
 },
-  "bbox": [174.335114,-35.741035,174.335114,-35.741035],
+  "bbox": [
+    174.335114,
+    -35.741035,
+    174.335114,
+    -35.741035
+],
   "geometry": {"coordinates":[174.335114,-35.741035],"type":"Point"}
 }

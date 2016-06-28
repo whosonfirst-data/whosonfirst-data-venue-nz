@@ -2,13 +2,14 @@
   "id": 202693289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.849091,-36.987495,174.849091,-36.987495",
     "geom:latitude":-36.987495,
     "geom:longitude":174.849091,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Chestnut Rd Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202693289,
-    "wof:lastmodified":1449060252,
+    "wof:lastmodified":1466312209,
     "wof:name":"Murdoch Park Kindergarten",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "children"
     ]
 },
-  "bbox": [174.849091,-36.987495,174.849091,-36.987495],
-  "geometry": {"coordinates":[174.849091,-36.987495],"type":"Point"}
+  "bbox": [
+    174.849091,
+    -36.987495,
+    174.849091,
+    -36.987495
+],
+  "geometry": {"coordinates":[174.84909099999999,-36.987495],"type":"Point"}
 }

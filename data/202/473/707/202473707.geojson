@@ -2,13 +2,14 @@
   "id": 202473707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.828064,-41.226074,174.828064,-41.226074",
     "geom:latitude":-41.226074,
     "geom:longitude":174.828064,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Shop 4 64 Kenmore St Newlands ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":202473707,
-    "wof:lastmodified":1449060644,
+    "wof:lastmodified":1466311937,
     "wof:name":"All Orthotics",
     "wof:parent_id":85778481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.828064,-41.226074,174.828064,-41.226074],
-  "geometry": {"coordinates":[174.828064,-41.226074],"type":"Point"}
+  "bbox": [
+    174.828064,
+    -41.226074,
+    174.828064,
+    -41.226074
+],
+  "geometry": {"coordinates":[174.82806400000001,-41.226074],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169826687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.699493,-37.135773,174.699493,-37.135773",
     "geom:latitude":-37.135773,
     "geom:longitude":174.699493,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Hauraki Rd Leigh ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":169826687,
-    "wof:lastmodified":1449035070,
+    "wof:lastmodified":1466311856,
     "wof:name":"Goat Island Scuba Safaris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.699493,-37.135773,174.699493,-37.135773],
-  "geometry": {"coordinates":[174.699493,-37.135773],"type":"Point"}
+  "bbox": [
+    174.699493,
+    -37.135773,
+    174.699493,
+    -37.135773
+],
+  "geometry": {"coordinates":[174.69949299999999,-37.135773],"type":"Point"}
 }

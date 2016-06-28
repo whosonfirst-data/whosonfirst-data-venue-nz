@@ -2,13 +2,14 @@
   "id": 186610709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.166916,-38.332378,175.166916,-38.332378",
     "geom:latitude":-38.332378,
     "geom:longitude":175.166916,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"39 King St Te ",
     "sg:city":"Kuiti",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":186610709,
-    "wof:lastmodified":1449052987,
+    "wof:lastmodified":1466313038,
     "wof:name":"Bruce's Fitness Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "fitness"
     ]
 },
-  "bbox": [175.166916,-38.332378,175.166916,-38.332378],
-  "geometry": {"coordinates":[175.166916,-38.332378],"type":"Point"}
+  "bbox": [
+    175.166916,
+    -38.332378,
+    175.166916,
+    -38.332378
+],
+  "geometry": {"coordinates":[175.16691599999999,-38.332378],"type":"Point"}
 }

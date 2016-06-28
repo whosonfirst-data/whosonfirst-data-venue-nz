@@ -2,13 +2,14 @@
   "id": 202811959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.857498,-36.90181,174.857498,-36.90181",
     "geom:latitude":-36.90181,
     "geom:longitude":174.857498,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"123 Pilkington Rd Panmure ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202811959,
-    "wof:lastmodified":1449061353,
+    "wof:lastmodified":1466312568,
     "wof:name":"Furniture City",
     "wof:parent_id":85773109,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "bed"
     ]
 },
-  "bbox": [174.857498,-36.90181,174.857498,-36.90181],
-  "geometry": {"coordinates":[174.857498,-36.90181],"type":"Point"}
+  "bbox": [
+    174.857498,
+    -36.90181,
+    174.857498,
+    -36.90181
+],
+  "geometry": {"coordinates":[174.85749799999999,-36.90181],"type":"Point"}
 }

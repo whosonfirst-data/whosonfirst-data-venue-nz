@@ -2,13 +2,14 @@
   "id": 203051813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.875076,-41.221291,174.875076,-41.221291",
     "geom:latitude":-41.221291,
     "geom:longitude":174.875076,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 38-244 Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -61,10 +62,11 @@
         }
     ],
     "wof:id":203051813,
-    "wof:lastmodified":1449026116,
+    "wof:lastmodified":1466311545,
     "wof:name":"Horokiwi Paving Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "paving"
     ]
 },
-  "bbox": [174.875076,-41.221291,174.875076,-41.221291],
-  "geometry": {"coordinates":[174.875076,-41.221291],"type":"Point"}
+  "bbox": [
+    174.875076,
+    -41.221291,
+    174.875076,
+    -41.221291
+],
+  "geometry": {"coordinates":[174.87507600000001,-41.221291],"type":"Point"}
 }

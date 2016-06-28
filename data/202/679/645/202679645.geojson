@@ -2,13 +2,14 @@
   "id": 202679645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.88472,-36.929764,174.88472,-36.929764",
     "geom:latitude":-36.929764,
     "geom:longitude":174.88472,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Stonedon Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202679645,
-    "wof:lastmodified":1449061721,
+    "wof:lastmodified":1466312171,
     "wof:name":"Childcare Products",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "children"
     ]
 },
-  "bbox": [174.88472,-36.929764,174.88472,-36.929764],
-  "geometry": {"coordinates":[174.88472,-36.929764],"type":"Point"}
+  "bbox": [
+    174.88472,
+    -36.929764,
+    174.88472,
+    -36.929764
+],
+  "geometry": {"coordinates":[174.88471999999999,-36.929764],"type":"Point"}
 }

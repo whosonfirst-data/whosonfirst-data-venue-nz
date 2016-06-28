@@ -2,13 +2,14 @@
   "id": 185885987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.091064,-35.283691,174.091064,-35.283691",
     "geom:latitude":-35.283691,
     "geom:longitude":174.091064,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Tau Henare Dve Waitangi ",
     "sg:city":"Paihia",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185885987,
-    "wof:lastmodified":1449007481,
+    "wof:lastmodified":1466311771,
     "wof:name":"Waitangi Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.091064,-35.283691,174.091064,-35.283691],
-  "geometry": {"coordinates":[174.091064,-35.283691],"type":"Point"}
+  "bbox": [
+    174.091064,
+    -35.283691,
+    174.091064,
+    -35.283691
+],
+  "geometry": {"coordinates":[174.09106399999999,-35.283691],"type":"Point"}
 }

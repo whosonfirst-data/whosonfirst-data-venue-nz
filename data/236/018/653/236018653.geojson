@@ -2,13 +2,14 @@
   "id": 236018653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.787247,-36.941685,174.787247,-36.941685",
     "geom:latitude":-36.941685,
     "geom:longitude":174.787247,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Coronation Rd Mangere Bridge ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":236018653,
-    "wof:lastmodified":1449003261,
+    "wof:lastmodified":1466310954,
     "wof:name":"Neptune Seafoods",
     "wof:parent_id":85778435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "takeaway"
     ]
 },
-  "bbox": [174.787247,-36.941685,174.787247,-36.941685],
-  "geometry": {"coordinates":[174.787247,-36.941685],"type":"Point"}
+  "bbox": [
+    174.787247,
+    -36.941685,
+    174.787247,
+    -36.941685
+],
+  "geometry": {"coordinates":[174.78724700000001,-36.941685],"type":"Point"}
 }

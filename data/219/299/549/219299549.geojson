@@ -2,13 +2,14 @@
   "id": 219299549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.899994,-35.181915,173.899994,-35.181915",
     "geom:latitude":-35.181915,
     "geom:longitude":173.899994,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Waipapa West Rd ",
     "sg:city":"Kerikeri",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":219299549,
-    "wof:lastmodified":1449071293,
+    "wof:lastmodified":1466310932,
     "wof:name":"Waterford Garden Stay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "accommodation"
     ]
 },
-  "bbox": [173.899994,-35.181915,173.899994,-35.181915],
-  "geometry": {"coordinates":[173.899994,-35.181915],"type":"Point"}
+  "bbox": [
+    173.899994,
+    -35.181915,
+    173.899994,
+    -35.181915
+],
+  "geometry": {"coordinates":[173.89999399999999,-35.181915],"type":"Point"}
 }

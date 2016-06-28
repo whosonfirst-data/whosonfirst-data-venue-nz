@@ -2,13 +2,14 @@
   "id": 219937629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.323532,-35.729664,174.323532,-35.729664",
     "geom:latitude":-35.729664,
     "geom:longitude":174.323532,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Commerce St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219937629,
-    "wof:lastmodified":1449071062,
+    "wof:lastmodified":1466313166,
     "wof:name":"Mico Pipelines",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.323532,-35.729664,174.323532,-35.729664],
+  "bbox": [
+    174.323532,
+    -35.729664,
+    174.323532,
+    -35.729664
+],
   "geometry": {"coordinates":[174.323532,-35.729664],"type":"Point"}
 }

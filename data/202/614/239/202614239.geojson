@@ -2,13 +2,14 @@
   "id": 202614239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.5354,-43.543854,172.5354,-43.543854",
     "geom:latitude":-43.543854,
     "geom:longitude":172.5354,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Bermuda Dve Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":202614239,
-    "wof:lastmodified":1449062740,
+    "wof:lastmodified":1466311631,
     "wof:name":"Ruben Homes New Zealand Ltd",
     "wof:parent_id":85772967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [172.5354,-43.543854,172.5354,-43.543854],
-  "geometry": {"coordinates":[172.5354,-43.543854],"type":"Point"}
+  "bbox": [
+    172.5354,
+    -43.543854,
+    172.5354,
+    -43.543854
+],
+  "geometry": {"coordinates":[172.53540000000001,-43.543854],"type":"Point"}
 }

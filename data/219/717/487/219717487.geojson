@@ -2,13 +2,14 @@
   "id": 219717487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.902405,-36.914684,174.902405,-36.914684",
     "geom:latitude":-36.914684,
     "geom:longitude":174.902405,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"58 Ben Lomond Cre Pakuranga ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219717487,
-    "wof:lastmodified":1449070459,
+    "wof:lastmodified":1466312853,
     "wof:name":"G T Products",
     "wof:parent_id":85778943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.902405,-36.914684,174.902405,-36.914684],
-  "geometry": {"coordinates":[174.902405,-36.914684],"type":"Point"}
+  "bbox": [
+    174.902405,
+    -36.914684,
+    174.902405,
+    -36.914684
+],
+  "geometry": {"coordinates":[174.90240499999999,-36.914684],"type":"Point"}
 }

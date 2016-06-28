@@ -2,13 +2,14 @@
   "id": 203203309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.857559,-36.851009,174.857559,-36.851009",
     "geom:latitude":-36.851009,
     "geom:longitude":174.857559,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"5/33 St Heliers Bay Rd St Heliers ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203203309,
-    "wof:lastmodified":1449025752,
+    "wof:lastmodified":1466311400,
     "wof:name":"Shortside For Kids",
     "wof:parent_id":85773175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.857559,-36.851009,174.857559,-36.851009],
-  "geometry": {"coordinates":[174.857559,-36.851009],"type":"Point"}
+  "bbox": [
+    174.857559,
+    -36.851009,
+    174.857559,
+    -36.851009
+],
+  "geometry": {"coordinates":[174.85755900000001,-36.851009],"type":"Point"}
 }

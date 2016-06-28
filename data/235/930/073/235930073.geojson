@@ -2,13 +2,14 @@
   "id": 235930073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.274612,-39.542484,174.274612,-39.542484",
     "geom:latitude":-39.542484,
     "geom:longitude":174.274612,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Wallscourt Pl Normanby ",
     "sg:city":"Hawera",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":235930073,
-    "wof:lastmodified":1449008364,
+    "wof:lastmodified":1466310602,
     "wof:name":"Taranaki Meat Masters Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.274612,-39.542484,174.274612,-39.542484],
-  "geometry": {"coordinates":[174.274612,-39.542484],"type":"Point"}
+  "bbox": [
+    174.274612,
+    -39.542484,
+    174.274612,
+    -39.542484
+],
+  "geometry": {"coordinates":[174.27461199999999,-39.542484],"type":"Point"}
 }

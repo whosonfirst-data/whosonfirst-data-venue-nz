@@ -2,13 +2,14 @@
   "id": 202436743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-100.02404,35.187233,-100.02404,35.187233",
     "geom:latitude":35.187233,
     "geom:longitude":-100.02404,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Harbour City Tower 29 Brandon St ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202436743,
-    "wof:lastmodified":1449062407,
+    "wof:lastmodified":1466311663,
     "wof:name":"Louise Marmont",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-100.02404,35.187233,-100.02404,35.187233],
+  "bbox": [
+    -100.02404,
+    35.187233,
+    -100.02404,
+    35.187233
+],
   "geometry": {"coordinates":[-100.02404,35.187233],"type":"Point"}
 }

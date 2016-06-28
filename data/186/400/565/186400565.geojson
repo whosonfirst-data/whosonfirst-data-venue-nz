@@ -2,13 +2,14 @@
   "id": 186400565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.910126,-41.245865,174.910126,-41.245865",
     "geom:latitude":-41.245865,
     "geom:longitude":174.910126,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Seaview Rd LHutt ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186400565,
-    "wof:lastmodified":1449050505,
+    "wof:lastmodified":1466312614,
     "wof:name":"Steel & Tube Piping Systems",
     "wof:parent_id":85778601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.910126,-41.245865,174.910126,-41.245865],
-  "geometry": {"coordinates":[174.910126,-41.245865],"type":"Point"}
+  "bbox": [
+    174.910126,
+    -41.245865,
+    174.910126,
+    -41.245865
+],
+  "geometry": {"coordinates":[174.91012599999999,-41.245865],"type":"Point"}
 }

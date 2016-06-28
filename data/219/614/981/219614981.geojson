@@ -2,13 +2,14 @@
   "id": 219614981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.635269,-40.947926,175.635269,-40.947926",
     "geom:latitude":-40.947926,
     "geom:longitude":175.635269,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"163 Ngaumutawa Rd ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":219614981,
-    "wof:lastmodified":1449074033,
+    "wof:lastmodified":1466312558,
     "wof:name":"Vehicle Testing New Zealand Limited",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "fitness"
     ]
 },
-  "bbox": [175.635269,-40.947926,175.635269,-40.947926],
-  "geometry": {"coordinates":[175.635269,-40.947926],"type":"Point"}
+  "bbox": [
+    175.635269,
+    -40.947926,
+    175.635269,
+    -40.947926
+],
+  "geometry": {"coordinates":[175.63526899999999,-40.947926],"type":"Point"}
 }

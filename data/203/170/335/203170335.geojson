@@ -2,13 +2,14 @@
   "id": 203170335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.331406,-38.007404,175.331406,-38.007404",
     "geom:latitude":-38.007404,
     "geom:longitude":175.331406,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Cambridge Rd Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203170335,
-    "wof:lastmodified":1449025107,
+    "wof:lastmodified":1466311080,
     "wof:name":"Bryant Viki",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.331406,-38.007404,175.331406,-38.007404],
-  "geometry": {"coordinates":[175.331406,-38.007404],"type":"Point"}
+  "bbox": [
+    175.331406,
+    -38.007404,
+    175.331406,
+    -38.007404
+],
+  "geometry": {"coordinates":[175.33140599999999,-38.007404],"type":"Point"}
 }

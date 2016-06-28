@@ -2,13 +2,14 @@
   "id": 202576763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.858932,-39.520355,176.858932,-39.520355",
     "geom:latitude":-39.520355,
     "geom:longitude":176.858932,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Park Rd Greenmeadows ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202576763,
-    "wof:lastmodified":1449062080,
+    "wof:lastmodified":1466311325,
     "wof:name":"Eve's Ceramic Studio",
     "wof:parent_id":85772933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.858932,-39.520355,176.858932,-39.520355],
-  "geometry": {"coordinates":[176.858932,-39.520355],"type":"Point"}
+  "bbox": [
+    176.858932,
+    -39.520355,
+    176.858932,
+    -39.520355
+],
+  "geometry": {"coordinates":[176.85893200000001,-39.520355],"type":"Point"}
 }

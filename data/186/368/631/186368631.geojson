@@ -2,13 +2,14 @@
   "id": 186368631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.85051,-37.203487,174.85051,-37.203487",
     "geom:latitude":-37.203487,
     "geom:longitude":174.85051,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Patumahoe Rd ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186368631,
-    "wof:lastmodified":1449051019,
+    "wof:lastmodified":1466312309,
     "wof:name":"G J Weck & Sons Ltd - Wood Products Division",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.85051,-37.203487,174.85051,-37.203487],
-  "geometry": {"coordinates":[174.85051,-37.203487],"type":"Point"}
+  "bbox": [
+    174.85051,
+    -37.203487,
+    174.85051,
+    -37.203487
+],
+  "geometry": {"coordinates":[174.85051000000001,-37.203487],"type":"Point"}
 }

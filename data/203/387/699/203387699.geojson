@@ -2,13 +2,14 @@
   "id": 203387699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.538918,38.096897,-88.538918,38.096897",
     "geom:latitude":38.096897,
     "geom:longitude":-88.538918,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Te Rapa Park 1 Udy Pl ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":203387699,
-    "wof:lastmodified":1449026603,
+    "wof:lastmodified":1466312622,
     "wof:name":"Tristram Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "boat"
     ]
 },
-  "bbox": [-88.538918,38.096897,-88.538918,38.096897],
+  "bbox": [
+    -88.538918,
+    38.096897,
+    -88.538918,
+    38.096897
+],
   "geometry": {"coordinates":[-88.538918,38.096897],"type":"Point"}
 }

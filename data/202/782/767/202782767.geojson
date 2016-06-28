@@ -2,13 +2,14 @@
   "id": 202782767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.289124,-37.738667,175.289124,-37.738667",
     "geom:latitude":-37.738667,
     "geom:longitude":175.289124,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Gordonton Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202782767,
-    "wof:lastmodified":1449060097,
+    "wof:lastmodified":1466312385,
     "wof:name":"Chartwell Cabinets & Kitchens",
     "wof:parent_id":85781117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "kitchen"
     ]
 },
-  "bbox": [175.289124,-37.738667,175.289124,-37.738667],
-  "geometry": {"coordinates":[175.289124,-37.738667],"type":"Point"}
+  "bbox": [
+    175.289124,
+    -37.738667,
+    175.289124,
+    -37.738667
+],
+  "geometry": {"coordinates":[175.28912399999999,-37.738667],"type":"Point"}
 }

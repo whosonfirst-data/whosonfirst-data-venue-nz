@@ -2,13 +2,14 @@
   "id": 202785421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.004456,-38.667206,178.004456,-38.667206",
     "geom:latitude":-38.667206,
     "geom:longitude":178.004456,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"219 Stanley Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202785421,
-    "wof:lastmodified":1449062226,
+    "wof:lastmodified":1466312500,
     "wof:name":"J.R.T. Building And Kitchens Limited",
     "wof:parent_id":85780807,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "kitchen"
     ]
 },
-  "bbox": [178.004456,-38.667206,178.004456,-38.667206],
+  "bbox": [
+    178.004456,
+    -38.667206,
+    178.004456,
+    -38.667206
+],
   "geometry": {"coordinates":[178.004456,-38.667206],"type":"Point"}
 }

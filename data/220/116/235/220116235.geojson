@@ -2,13 +2,14 @@
   "id": 220116235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-98.203552,18.20665,-98.203552,18.20665",
     "geom:latitude":18.20665,
     "geom:longitude":-98.203552,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"748 Pollen St ",
     "sg:city":"Thames",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":220116235,
-    "wof:lastmodified":1449074147,
+    "wof:lastmodified":1466310743,
     "wof:name":"Chocolate Shoppe (The)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "-"
     ]
 },
-  "bbox": [-98.203552,18.20665,-98.203552,18.20665],
+  "bbox": [
+    -98.203552,
+    18.20665,
+    -98.203552,
+    18.20665
+],
   "geometry": {"coordinates":[-98.203552,18.20665],"type":"Point"}
 }

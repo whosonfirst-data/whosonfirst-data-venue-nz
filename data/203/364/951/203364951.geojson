@@ -2,13 +2,14 @@
   "id": 203364951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.275787,-37.785419,175.275787,-37.785419",
     "geom:latitude":-37.785419,
     "geom:longitude":175.275787,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"169 London Street ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203364951,
-    "wof:lastmodified":1449026015,
+    "wof:lastmodified":1466312357,
     "wof:name":"Airclaims New Zealand Limited",
     "wof:parent_id":85780927,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.275787,-37.785419,175.275787,-37.785419],
-  "geometry": {"coordinates":[175.275787,-37.785419],"type":"Point"}
+  "bbox": [
+    175.275787,
+    -37.785419,
+    175.275787,
+    -37.785419
+],
+  "geometry": {"coordinates":[175.27578700000001,-37.785419],"type":"Point"}
 }

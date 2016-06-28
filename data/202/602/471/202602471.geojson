@@ -2,13 +2,14 @@
   "id": 202602471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.697266,-36.897629,174.697266,-36.897629",
     "geom:latitude":-36.897629,
     "geom:longitude":174.697266,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1996 A Great North Rd Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":202602471,
-    "wof:lastmodified":1449061313,
+    "wof:lastmodified":1466311542,
     "wof:name":"The Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.697266,-36.897629,174.697266,-36.897629],
-  "geometry": {"coordinates":[174.697266,-36.897629],"type":"Point"}
+  "bbox": [
+    174.697266,
+    -36.897629,
+    174.697266,
+    -36.897629
+],
+  "geometry": {"coordinates":[174.69726600000001,-36.897629],"type":"Point"}
 }

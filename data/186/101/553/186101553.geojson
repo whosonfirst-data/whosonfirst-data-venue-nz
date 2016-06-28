@@ -2,13 +2,14 @@
   "id": 186101553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.844818,-39.64167,176.844818,-39.64167",
     "geom:latitude":-39.64167,
     "geom:longitude":176.844818,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Maraekakaho & Iron Gate Rd ",
     "sg:city":"Hastings",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":186101553,
-    "wof:lastmodified":1449051783,
+    "wof:lastmodified":1466310564,
     "wof:name":"Donovan & Co",
     "wof:parent_id":85782409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "coke"
     ]
 },
-  "bbox": [176.844818,-39.64167,176.844818,-39.64167],
+  "bbox": [
+    176.844818,
+    -39.64167,
+    176.844818,
+    -39.64167
+],
   "geometry": {"coordinates":[176.844818,-39.64167],"type":"Point"}
 }

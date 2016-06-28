@@ -2,13 +2,14 @@
   "id": 236036199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-93.311287,18.29047,-93.311287,18.29047",
     "geom:latitude":18.29047,
     "geom:longitude":-93.311287,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 863 ",
     "sg:city":"Nelson",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":236036199,
-    "wof:lastmodified":1449002231,
+    "wof:lastmodified":1466311163,
     "wof:name":"The Crossings ( Marlborough) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "dining"
     ]
 },
-  "bbox": [-93.311287,18.29047,-93.311287,18.29047],
-  "geometry": {"coordinates":[-93.311287,18.29047],"type":"Point"}
+  "bbox": [
+    -93.311287,
+    18.29047,
+    -93.311287,
+    18.29047
+],
+  "geometry": {"coordinates":[-93.31128699999999,18.29047],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219204715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.403992,-45.900646,170.403992,-45.900646",
     "geom:latitude":-45.900646,
     "geom:longitude":170.403992,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"48 Howorth Rd Fairfield ",
     "sg:city":"Dunedin",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":219204715,
-    "wof:lastmodified":1449074036,
+    "wof:lastmodified":1466311514,
     "wof:name":"John Milnes & Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [170.403992,-45.900646,170.403992,-45.900646],
-  "geometry": {"coordinates":[170.403992,-45.900646],"type":"Point"}
+  "bbox": [
+    170.403992,
+    -45.900646,
+    170.403992,
+    -45.900646
+],
+  "geometry": {"coordinates":[170.40399199999999,-45.900646],"type":"Point"}
 }

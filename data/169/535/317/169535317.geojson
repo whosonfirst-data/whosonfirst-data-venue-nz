@@ -2,13 +2,14 @@
   "id": 169535317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.838943,-44.943054,168.838943,-44.943054",
     "geom:latitude":-44.943054,
     "geom:longitude":168.838943,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Arrow Junction Rd RD 1 Queenstown ",
     "sg:city":"Arrowtown",
     "sg:classifiers":[
@@ -46,16 +47,22 @@
         }
     ],
     "wof:id":169535317,
-    "wof:lastmodified":1449033286,
+    "wof:lastmodified":1466310563,
     "wof:name":"Sound Studio Queenstown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "broadcasting"
     ]
 },
-  "bbox": [168.838943,-44.943054,168.838943,-44.943054],
+  "bbox": [
+    168.838943,
+    -44.943054,
+    168.838943,
+    -44.943054
+],
   "geometry": {"coordinates":[168.838943,-44.943054],"type":"Point"}
 }

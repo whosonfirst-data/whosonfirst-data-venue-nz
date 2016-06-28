@@ -2,13 +2,14 @@
   "id": 185984225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.619385,-40.351929,175.619385,-40.351929",
     "geom:latitude":-40.351929,
     "geom:longitude":175.619385,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Victoria Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185984225,
-    "wof:lastmodified":1449007512,
+    "wof:lastmodified":1466312266,
     "wof:name":"Van Meer Suit Hire",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wedding"
     ]
 },
-  "bbox": [175.619385,-40.351929,175.619385,-40.351929],
-  "geometry": {"coordinates":[175.619385,-40.351929],"type":"Point"}
+  "bbox": [
+    175.619385,
+    -40.351929,
+    175.619385,
+    -40.351929
+],
+  "geometry": {"coordinates":[175.61938499999999,-40.351929],"type":"Point"}
 }

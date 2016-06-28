@@ -2,13 +2,14 @@
   "id": 185893125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.863724,-37.04583,174.863724,-37.04583",
     "geom:latitude":-37.04583,
     "geom:longitude":174.863724,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Roscommon Rd Weymouth ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185893125,
-    "wof:lastmodified":1449007924,
+    "wof:lastmodified":1466311818,
     "wof:name":"Clendon Shopping Centre",
     "wof:parent_id":85773331,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "stores"
     ]
 },
-  "bbox": [174.863724,-37.04583,174.863724,-37.04583],
-  "geometry": {"coordinates":[174.863724,-37.04583],"type":"Point"}
+  "bbox": [
+    174.863724,
+    -37.04583,
+    174.863724,
+    -37.04583
+],
+  "geometry": {"coordinates":[174.86372399999999,-37.04583],"type":"Point"}
 }

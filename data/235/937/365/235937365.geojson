@@ -2,13 +2,14 @@
   "id": 235937365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.276382,-40.639389,175.276382,-40.639389",
     "geom:latitude":-40.639389,
     "geom:longitude":175.276382,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"47 Tararua Rd ",
     "sg:city":"Levin",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":235937365,
-    "wof:lastmodified":1449008324,
+    "wof:lastmodified":1466310724,
     "wof:name":"Freshpork NZ Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "drink"
     ]
 },
-  "bbox": [175.276382,-40.639389,175.276382,-40.639389],
-  "geometry": {"coordinates":[175.276382,-40.639389],"type":"Point"}
+  "bbox": [
+    175.276382,
+    -40.639389,
+    175.276382,
+    -40.639389
+],
+  "geometry": {"coordinates":[175.27638200000001,-40.639389],"type":"Point"}
 }

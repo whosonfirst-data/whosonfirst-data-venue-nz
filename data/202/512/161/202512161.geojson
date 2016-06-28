@@ -2,13 +2,14 @@
   "id": 202512161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.794754,-36.90731,174.794754,-36.90731",
     "geom:latitude":-36.90731,
     "geom:longitude":174.794754,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Rawhiti Rd Manly ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202512161,
-    "wof:lastmodified":1449061947,
+    "wof:lastmodified":1466310760,
     "wof:name":"Diagnostic Medlab",
     "wof:parent_id":85782385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialists"
     ]
 },
-  "bbox": [174.794754,-36.90731,174.794754,-36.90731],
-  "geometry": {"coordinates":[174.794754,-36.90731],"type":"Point"}
+  "bbox": [
+    174.794754,
+    -36.90731,
+    174.794754,
+    -36.90731
+],
+  "geometry": {"coordinates":[174.79475400000001,-36.90731],"type":"Point"}
 }

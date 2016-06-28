@@ -2,13 +2,14 @@
   "id": 202711241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.827911,-41.129742,174.827911,-41.129742",
     "geom:latitude":-41.129742,
     "geom:longitude":174.827911,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Kotuku St Elsdon ",
     "sg:city":"Porirua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202711241,
-    "wof:lastmodified":1449062201,
+    "wof:lastmodified":1466312170,
     "wof:name":"Mums R Us Ltd",
     "wof:parent_id":85781751,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.827911,-41.129742,174.827911,-41.129742],
+  "bbox": [
+    174.827911,
+    -41.129742,
+    174.827911,
+    -41.129742
+],
   "geometry": {"coordinates":[174.827911,-41.129742],"type":"Point"}
 }

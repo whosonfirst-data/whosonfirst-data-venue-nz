@@ -2,13 +2,14 @@
   "id": 185926547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.484085,-45.866245,170.484085,-45.866245",
     "geom:latitude":-45.866245,
     "geom:longitude":170.484085,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"34 Kaikorai Valley Rd ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":185926547,
-    "wof:lastmodified":1449007148,
+    "wof:lastmodified":1466312235,
     "wof:name":"Bowl Line Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "sports"
     ]
 },
-  "bbox": [170.484085,-45.866245,170.484085,-45.866245],
-  "geometry": {"coordinates":[170.484085,-45.866245],"type":"Point"}
+  "bbox": [
+    170.484085,
+    -45.866245,
+    170.484085,
+    -45.866245
+],
+  "geometry": {"coordinates":[170.48408499999999,-45.866245],"type":"Point"}
 }

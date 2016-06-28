@@ -2,13 +2,14 @@
   "id": 186442259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.126572,-37.683113,176.126572,-37.683113",
     "geom:latitude":-37.683113,
     "geom:longitude":176.126572,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Bellevue Rd ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":186442259,
-    "wof:lastmodified":1449051550,
+    "wof:lastmodified":1466312608,
     "wof:name":"Patton Refrigeration Ltd",
     "wof:parent_id":85772841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "refrigeration"
     ]
 },
-  "bbox": [176.126572,-37.683113,176.126572,-37.683113],
-  "geometry": {"coordinates":[176.126572,-37.683113],"type":"Point"}
+  "bbox": [
+    176.126572,
+    -37.683113,
+    176.126572,
+    -37.683113
+],
+  "geometry": {"coordinates":[176.12657200000001,-37.683113],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 185721619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"178.014969,-38.656811,178.014969,-38.656811",
     "geom:latitude":-38.656811,
     "geom:longitude":178.014969,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"474 Palmerston Rd ",
     "sg:city":"Gisborne",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":185721619,
-    "wof:lastmodified":1449008204,
+    "wof:lastmodified":1466310709,
     "wof:name":"The Sound Crew",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "leisure"
     ]
 },
-  "bbox": [178.014969,-38.656811,178.014969,-38.656811],
-  "geometry": {"coordinates":[178.014969,-38.656811],"type":"Point"}
+  "bbox": [
+    178.014969,
+    -38.656811,
+    178.014969,
+    -38.656811
+],
+  "geometry": {"coordinates":[178.01496900000001,-38.656811],"type":"Point"}
 }

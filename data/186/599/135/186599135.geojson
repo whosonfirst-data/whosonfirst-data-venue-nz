@@ -2,13 +2,14 @@
   "id": 186599135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.298828,-35.745956,174.298828,-35.745956",
     "geom:latitude":-35.745956,
     "geom:longitude":174.298828,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Isola St Raumanga ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186599135,
-    "wof:lastmodified":1449051622,
+    "wof:lastmodified":1466312962,
     "wof:name":"Kiwikiwi Dawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "diet"
     ]
 },
-  "bbox": [174.298828,-35.745956,174.298828,-35.745956],
-  "geometry": {"coordinates":[174.298828,-35.745956],"type":"Point"}
+  "bbox": [
+    174.298828,
+    -35.745956,
+    174.298828,
+    -35.745956
+],
+  "geometry": {"coordinates":[174.29882799999999,-35.745956],"type":"Point"}
 }

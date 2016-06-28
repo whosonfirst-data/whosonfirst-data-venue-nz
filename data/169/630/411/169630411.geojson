@@ -2,13 +2,14 @@
   "id": 169630411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.705292,-36.836483,175.705292,-36.836483",
     "geom:latitude":-36.836483,
     "geom:longitude":175.705292,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Victoria St ",
     "sg:city":"Whitianga",
     "sg:classifiers":[],
@@ -37,14 +38,20 @@
         }
     ],
     "wof:id":169630411,
-    "wof:lastmodified":1449033868,
+    "wof:lastmodified":1466311958,
     "wof:name":"Whitianga Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.705292,-36.836483,175.705292,-36.836483],
-  "geometry": {"coordinates":[175.705292,-36.836483],"type":"Point"}
+  "bbox": [
+    175.705292,
+    -36.836483,
+    175.705292,
+    -36.836483
+],
+  "geometry": {"coordinates":[175.70529199999999,-36.836483],"type":"Point"}
 }

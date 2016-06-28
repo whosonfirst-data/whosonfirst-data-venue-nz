@@ -2,13 +2,14 @@
   "id": 186013879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.333817,-45.872486,170.333817,-45.872486",
     "geom:latitude":-45.872486,
     "geom:longitude":170.333817,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Silverstream Dve Mosgiel ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":186013879,
-    "wof:lastmodified":1449052184,
+    "wof:lastmodified":1466310771,
     "wof:name":"Cakes For All Occasions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "wedding"
     ]
 },
-  "bbox": [170.333817,-45.872486,170.333817,-45.872486],
-  "geometry": {"coordinates":[170.333817,-45.872486],"type":"Point"}
+  "bbox": [
+    170.333817,
+    -45.872486,
+    170.333817,
+    -45.872486
+],
+  "geometry": {"coordinates":[170.33381700000001,-45.872486],"type":"Point"}
 }

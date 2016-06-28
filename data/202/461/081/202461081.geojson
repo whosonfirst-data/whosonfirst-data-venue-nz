@@ -2,13 +2,14 @@
   "id": 202461081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.644775,-40.340748,175.644775,-40.340748",
     "geom:latitude":-40.340748,
     "geom:longitude":175.644775,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Cessna Rd Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":202461081,
-    "wof:lastmodified":1449061065,
+    "wof:lastmodified":1466311825,
     "wof:name":"E G Hughes Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "aid"
     ]
 },
-  "bbox": [175.644775,-40.340748,175.644775,-40.340748],
-  "geometry": {"coordinates":[175.644775,-40.340748],"type":"Point"}
+  "bbox": [
+    175.644775,
+    -40.340748,
+    175.644775,
+    -40.340748
+],
+  "geometry": {"coordinates":[175.64477500000001,-40.340748],"type":"Point"}
 }

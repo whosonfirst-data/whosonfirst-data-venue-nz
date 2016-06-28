@@ -2,13 +2,14 @@
   "id": 185976835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.793259,-37.817024,175.793259,-37.817024",
     "geom:latitude":-37.817024,
     "geom:longitude":175.793259,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Kea Pl ",
     "sg:city":"Matamata",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":185976835,
-    "wof:lastmodified":1449007267,
+    "wof:lastmodified":1466312224,
     "wof:name":"Matamata Storage & Lockup",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.793259,-37.817024,175.793259,-37.817024],
-  "geometry": {"coordinates":[175.793259,-37.817024],"type":"Point"}
+  "bbox": [
+    175.793259,
+    -37.817024,
+    175.793259,
+    -37.817024
+],
+  "geometry": {"coordinates":[175.79325900000001,-37.817024],"type":"Point"}
 }

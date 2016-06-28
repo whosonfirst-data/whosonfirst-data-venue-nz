@@ -2,13 +2,14 @@
   "id": 202476539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.050797,-39.932339,175.050797,-39.932339",
     "geom:latitude":-39.932339,
     "geom:longitude":175.050797,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Victoria Ave ",
     "sg:city":"Wanganui",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202476539,
-    "wof:lastmodified":1449061141,
+    "wof:lastmodified":1466311944,
     "wof:name":"Central City Pharmacy (Wang) Ltd",
     "wof:parent_id":85782527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.050797,-39.932339,175.050797,-39.932339],
-  "geometry": {"coordinates":[175.050797,-39.932339],"type":"Point"}
+  "bbox": [
+    175.050797,
+    -39.932339,
+    175.050797,
+    -39.932339
+],
+  "geometry": {"coordinates":[175.05079699999999,-39.932339],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169685075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.804199,44.606972,-72.804199,44.606972",
     "geom:latitude":44.606972,
     "geom:longitude":-72.804199,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Cnr Queen & Albert Streets M/Way South ",
     "sg:city":"Cambridge",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":169685075,
-    "wof:lastmodified":1449035887,
+    "wof:lastmodified":1466310803,
     "wof:name":"The Horse Shop",
     "wof:parent_id":85849535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.804199,44.606972,-72.804199,44.606972],
+  "bbox": [
+    -72.804199,
+    44.606972,
+    -72.804199,
+    44.606972
+],
   "geometry": {"coordinates":[-72.804199,44.606972],"type":"Point"}
 }

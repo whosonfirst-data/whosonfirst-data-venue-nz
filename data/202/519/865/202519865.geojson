@@ -2,13 +2,14 @@
   "id": 202519865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.769302,-36.873074,174.769302,-36.873074",
     "geom:latitude":-36.873074,
     "geom:longitude":174.769302,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"98 Mountain Rd Epsom ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":202519865,
-    "wof:lastmodified":1449062474,
+    "wof:lastmodified":1466310826,
     "wof:name":"Mercy Angiography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "specialists"
     ]
 },
-  "bbox": [174.769302,-36.873074,174.769302,-36.873074],
-  "geometry": {"coordinates":[174.769302,-36.873074],"type":"Point"}
+  "bbox": [
+    174.769302,
+    -36.873074,
+    174.769302,
+    -36.873074
+],
+  "geometry": {"coordinates":[174.76930200000001,-36.873074],"type":"Point"}
 }

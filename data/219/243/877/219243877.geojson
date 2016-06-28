@@ -2,13 +2,14 @@
   "id": 219243877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.904541,-36.928631,174.904541,-36.928631",
     "geom:latitude":-36.928631,
     "geom:longitude":174.904541,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"380 Ti Rakau Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":219243877,
-    "wof:lastmodified":1449071542,
+    "wof:lastmodified":1466311975,
     "wof:name":"Howick & Eastern Buses Ltd",
     "wof:parent_id":85781725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.904541,-36.928631,174.904541,-36.928631],
-  "geometry": {"coordinates":[174.904541,-36.928631],"type":"Point"}
+  "bbox": [
+    174.904541,
+    -36.928631,
+    174.904541,
+    -36.928631
+],
+  "geometry": {"coordinates":[174.90454099999999,-36.928631],"type":"Point"}
 }

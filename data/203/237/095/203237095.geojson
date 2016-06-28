@@ -2,13 +2,14 @@
   "id": 203237095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.786987,-36.941967,174.786987,-36.941967",
     "geom:latitude":-36.941967,
     "geom:longitude":174.786987,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"32 Coronation Rd Mangere Bridge ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203237095,
-    "wof:lastmodified":1449024992,
+    "wof:lastmodified":1466311714,
     "wof:name":"Dressmaker-The",
     "wof:parent_id":85778435,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.786987,-36.941967,174.786987,-36.941967],
-  "geometry": {"coordinates":[174.786987,-36.941967],"type":"Point"}
+  "bbox": [
+    174.786987,
+    -36.941967,
+    174.786987,
+    -36.941967
+],
+  "geometry": {"coordinates":[174.78698700000001,-36.941967],"type":"Point"}
 }

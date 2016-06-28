@@ -2,13 +2,14 @@
   "id": 186316945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.795868,-39.614349,176.795868,-39.614349",
     "geom:latitude":-39.614349,
     "geom:longitude":176.795868,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"9 Chatham Rd Flaxmere ",
     "sg:city":"Hastings",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186316945,
-    "wof:lastmodified":1449052189,
+    "wof:lastmodified":1466312126,
     "wof:name":"Central Metals",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.795868,-39.614349,176.795868,-39.614349],
-  "geometry": {"coordinates":[176.795868,-39.614349],"type":"Point"}
+  "bbox": [
+    176.795868,
+    -39.614349,
+    176.795868,
+    -39.614349
+],
+  "geometry": {"coordinates":[176.79586800000001,-39.614349],"type":"Point"}
 }

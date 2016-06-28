@@ -2,13 +2,14 @@
   "id": 220100457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.606339,-40.35825,175.606339,-40.35825",
     "geom:latitude":-40.35825,
     "geom:longitude":175.606339,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"889 Main St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220100457,
-    "wof:lastmodified":1449074642,
+    "wof:lastmodified":1466310608,
     "wof:name":"Mr Macs ME T PI",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "-"
     ]
 },
-  "bbox": [175.606339,-40.35825,175.606339,-40.35825],
-  "geometry": {"coordinates":[175.606339,-40.35825],"type":"Point"}
+  "bbox": [
+    175.606339,
+    -40.35825,
+    175.606339,
+    -40.35825
+],
+  "geometry": {"coordinates":[175.60633899999999,-40.35825],"type":"Point"}
 }

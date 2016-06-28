@@ -2,13 +2,14 @@
   "id": 186276633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.894424,-36.925945,174.894424,-36.925945",
     "geom:latitude":-36.925945,
     "geom:longitude":174.894424,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"239 D Burswood Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186276633,
-    "wof:lastmodified":1449050373,
+    "wof:lastmodified":1466312088,
     "wof:name":"Temprecord International Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.894424,-36.925945,174.894424,-36.925945],
-  "geometry": {"coordinates":[174.894424,-36.925945],"type":"Point"}
+  "bbox": [
+    174.894424,
+    -36.925945,
+    174.894424,
+    -36.925945
+],
+  "geometry": {"coordinates":[174.89442399999999,-36.925945],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202700557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"170.472061,-45.903084,170.472061,-45.903084",
     "geom:latitude":-45.903084,
     "geom:longitude":170.472061,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Lockerbie St Corstorphine ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202700557,
-    "wof:lastmodified":1449062431,
+    "wof:lastmodified":1466312108,
     "wof:name":"Te Uki Tamariki Ou Preschool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "children"
     ]
 },
-  "bbox": [170.472061,-45.903084,170.472061,-45.903084],
+  "bbox": [
+    170.472061,
+    -45.903084,
+    170.472061,
+    -45.903084
+],
   "geometry": {"coordinates":[170.472061,-45.903084],"type":"Point"}
 }

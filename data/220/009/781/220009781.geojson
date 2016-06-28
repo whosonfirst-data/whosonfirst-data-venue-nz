@@ -2,13 +2,14 @@
   "id": 220009781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.746628,-36.855907,174.746628,-36.855907",
     "geom:latitude":-36.855907,
     "geom:longitude":174.746628,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"115 A Ponsonby Rd Ponsonby ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220009781,
-    "wof:lastmodified":1449074861,
+    "wof:lastmodified":1466310859,
     "wof:name":"Instant Finance Ponsonby",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "personal"
     ]
 },
-  "bbox": [174.746628,-36.855907,174.746628,-36.855907],
-  "geometry": {"coordinates":[174.746628,-36.855907],"type":"Point"}
+  "bbox": [
+    174.746628,
+    -36.855907,
+    174.746628,
+    -36.855907
+],
+  "geometry": {"coordinates":[174.74662799999999,-36.855907],"type":"Point"}
 }

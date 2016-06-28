@@ -2,13 +2,14 @@
   "id": 202815273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-77.433418,37.54055,-77.433418,37.54055",
     "geom:latitude":37.54055,
     "geom:longitude":-77.433418,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"386 Richmond ",
     "sg:city":"Rd",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202815273,
-    "wof:lastmodified":1449061362,
+    "wof:lastmodified":1466312578,
     "wof:name":"Sleepyhead Commercial",
     "wof:parent_id":85880275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "bed"
     ]
 },
-  "bbox": [-77.433418,37.54055,-77.433418,37.54055],
+  "bbox": [
+    -77.433418,
+    37.54055,
+    -77.433418,
+    37.54055
+],
   "geometry": {"coordinates":[-77.433418,37.54055],"type":"Point"}
 }

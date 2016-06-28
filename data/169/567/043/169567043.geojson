@@ -2,13 +2,14 @@
   "id": 169567043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.25238,-38.13773,176.25238,-38.13773",
     "geom:latitude":-38.13773,
     "geom:longitude":176.25238,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1145 Hinemoa St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":169567043,
-    "wof:lastmodified":1449035995,
+    "wof:lastmodified":1466311073,
     "wof:name":"Julia's",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supplier"
     ]
 },
-  "bbox": [176.25238,-38.13773,176.25238,-38.13773],
-  "geometry": {"coordinates":[176.25238,-38.13773],"type":"Point"}
+  "bbox": [
+    176.25238,
+    -38.13773,
+    176.25238,
+    -38.13773
+],
+  "geometry": {"coordinates":[176.25237999999999,-38.13773],"type":"Point"}
 }

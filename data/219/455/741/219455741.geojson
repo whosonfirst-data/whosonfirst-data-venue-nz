@@ -2,13 +2,14 @@
   "id": 219455741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.320648,-35.723446,174.320648,-35.723446",
     "geom:latitude":-35.723446,
     "geom:longitude":174.320648,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 A Robert St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":219455741,
-    "wof:lastmodified":1449073347,
+    "wof:lastmodified":1466312180,
     "wof:name":"Family Planning Assn",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "education"
     ]
 },
-  "bbox": [174.320648,-35.723446,174.320648,-35.723446],
-  "geometry": {"coordinates":[174.320648,-35.723446],"type":"Point"}
+  "bbox": [
+    174.320648,
+    -35.723446,
+    174.320648,
+    -35.723446
+],
+  "geometry": {"coordinates":[174.32064800000001,-35.723446],"type":"Point"}
 }

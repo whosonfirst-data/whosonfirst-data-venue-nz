@@ -2,13 +2,14 @@
   "id": 202658071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.652115,-40.957394,175.652115,-40.957394",
     "geom:latitude":-40.957394,
     "geom:longitude":175.652115,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Dixon St ",
     "sg:city":"Masterton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202658071,
-    "wof:lastmodified":1449060054,
+    "wof:lastmodified":1466312200,
     "wof:name":"Willie Marsters",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "plasterer"
     ]
 },
-  "bbox": [175.652115,-40.957394,175.652115,-40.957394],
-  "geometry": {"coordinates":[175.652115,-40.957394],"type":"Point"}
+  "bbox": [
+    175.652115,
+    -40.957394,
+    175.652115,
+    -40.957394
+],
+  "geometry": {"coordinates":[175.65211500000001,-40.957394],"type":"Point"}
 }

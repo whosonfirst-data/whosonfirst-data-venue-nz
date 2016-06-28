@@ -2,13 +2,14 @@
   "id": 219831821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.168152,-37.688499,176.168152,-37.688499",
     "geom:latitude":-37.688499,
     "geom:longitude":176.168152,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"50 First Ave ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219831821,
-    "wof:lastmodified":1449072454,
+    "wof:lastmodified":1466313052,
     "wof:name":"Agriculture New Zealand Ltd",
     "wof:parent_id":85780803,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.168152,-37.688499,176.168152,-37.688499],
-  "geometry": {"coordinates":[176.168152,-37.688499],"type":"Point"}
+  "bbox": [
+    176.168152,
+    -37.688499,
+    176.168152,
+    -37.688499
+],
+  "geometry": {"coordinates":[176.16815199999999,-37.688499],"type":"Point"}
 }

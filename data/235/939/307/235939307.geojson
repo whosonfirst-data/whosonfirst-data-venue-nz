@@ -2,13 +2,14 @@
   "id": 235939307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.307449,-37.84581,175.307449,-37.84581",
     "geom:latitude":-37.84581,
     "geom:longitude":175.307449,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Raynes Rd Rukuhia ",
     "sg:city":"Hamilton",
     "sg:classifiers":[
@@ -47,10 +48,11 @@
         }
     ],
     "wof:id":235939307,
-    "wof:lastmodified":1449008351,
+    "wof:lastmodified":1466310744,
     "wof:name":"Rukuhia Home Butchery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -58,6 +60,11 @@
         "drink"
     ]
 },
-  "bbox": [175.307449,-37.84581,175.307449,-37.84581],
-  "geometry": {"coordinates":[175.307449,-37.84581],"type":"Point"}
+  "bbox": [
+    175.307449,
+    -37.84581,
+    175.307449,
+    -37.84581
+],
+  "geometry": {"coordinates":[175.30744899999999,-37.84581],"type":"Point"}
 }

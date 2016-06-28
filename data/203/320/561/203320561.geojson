@@ -2,13 +2,14 @@
   "id": 203320561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.690308,-36.913242,174.690308,-36.913242",
     "geom:latitude":-36.913242,
     "geom:longitude":174.690308,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Portage Rd New Lynn ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -39,14 +40,20 @@
         }
     ],
     "wof:id":203320561,
-    "wof:lastmodified":1449025394,
+    "wof:lastmodified":1466312300,
     "wof:name":"Astley Leathers Ltd",
     "wof:parent_id":85779011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.690308,-36.913242,174.690308,-36.913242],
-  "geometry": {"coordinates":[174.690308,-36.913242],"type":"Point"}
+  "bbox": [
+    174.690308,
+    -36.913242,
+    174.690308,
+    -36.913242
+],
+  "geometry": {"coordinates":[174.69030799999999,-36.913242],"type":"Point"}
 }

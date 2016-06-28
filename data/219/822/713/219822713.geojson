@@ -2,13 +2,14 @@
   "id": 219822713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.740875,-41.283745,174.740875,-41.283745",
     "geom:latitude":-41.283745,
     "geom:longitude":174.740875,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Indo-Pacific House, 284 Karori Rd., Karori, Wellington",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":219822713,
-    "wof:lastmodified":1449073811,
+    "wof:lastmodified":1466313050,
     "wof:name":"Austral Pacific Energy Ltd.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "private"
     ]
 },
-  "bbox": [174.740875,-41.283745,174.740875,-41.283745],
-  "geometry": {"coordinates":[174.740875,-41.283745],"type":"Point"}
+  "bbox": [
+    174.740875,
+    -41.283745,
+    174.740875,
+    -41.283745
+],
+  "geometry": {"coordinates":[174.74087499999999,-41.283745],"type":"Point"}
 }

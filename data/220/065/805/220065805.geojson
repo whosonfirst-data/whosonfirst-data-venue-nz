@@ -2,13 +2,14 @@
   "id": 220065805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.790329,-39.669636,175.790329,-39.669636",
     "geom:latitude":-39.669636,
     "geom:longitude":175.790329,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Mataroa Rd ",
     "sg:city":"Taihape",
     "sg:classifiers":[
@@ -46,10 +47,11 @@
         }
     ],
     "wof:id":220065805,
-    "wof:lastmodified":1449074872,
+    "wof:lastmodified":1466311788,
     "wof:name":"Liquorland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -57,6 +59,11 @@
         "outlet"
     ]
 },
-  "bbox": [175.790329,-39.669636,175.790329,-39.669636],
-  "geometry": {"coordinates":[175.790329,-39.669636],"type":"Point"}
+  "bbox": [
+    175.790329,
+    -39.669636,
+    175.790329,
+    -39.669636
+],
+  "geometry": {"coordinates":[175.79032900000001,-39.669636],"type":"Point"}
 }

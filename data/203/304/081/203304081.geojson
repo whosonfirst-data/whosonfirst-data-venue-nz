@@ -2,13 +2,14 @@
   "id": 203304081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.323074,-38.009415,175.323074,-38.009415",
     "geom:latitude":-38.009415,
     "geom:longitude":175.323074,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"255 Alexandra St Te ",
     "sg:city":"Awamutu",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":203304081,
-    "wof:lastmodified":1449026375,
+    "wof:lastmodified":1466312251,
     "wof:name":"Mansfield Fabrics Ltd",
     "wof:parent_id":85782889,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.323074,-38.009415,175.323074,-38.009415],
-  "geometry": {"coordinates":[175.323074,-38.009415],"type":"Point"}
+  "bbox": [
+    175.323074,
+    -38.009415,
+    175.323074,
+    -38.009415
+],
+  "geometry": {"coordinates":[175.32307399999999,-38.009415],"type":"Point"}
 }

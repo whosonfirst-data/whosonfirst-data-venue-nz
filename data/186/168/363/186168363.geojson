@@ -2,13 +2,14 @@
   "id": 186168363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.619583,-40.352192,175.619583,-40.352192",
     "geom:latitude":-40.352192,
     "geom:longitude":175.619583,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1st Floor 50 Victoria Ave Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":186168363,
-    "wof:lastmodified":1449051774,
+    "wof:lastmodified":1466311144,
     "wof:name":"Kevin O'Connor & Associates Ltd",
     "wof:parent_id":85782485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.619583,-40.352192,175.619583,-40.352192],
-  "geometry": {"coordinates":[175.619583,-40.352192],"type":"Point"}
+  "bbox": [
+    175.619583,
+    -40.352192,
+    175.619583,
+    -40.352192
+],
+  "geometry": {"coordinates":[175.61958300000001,-40.352192],"type":"Point"}
 }

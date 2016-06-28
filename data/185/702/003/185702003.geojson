@@ -2,13 +2,14 @@
   "id": 185702003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.858414,-36.973034,174.858414,-36.973034",
     "geom:latitude":-36.973034,
     "geom:longitude":174.858414,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"PO Box 200-134 Papatoetoe Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":185702003,
-    "wof:lastmodified":1449007432,
+    "wof:lastmodified":1466310570,
     "wof:name":"Smile Inflatables",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "entertainment"
     ]
 },
-  "bbox": [174.858414,-36.973034,174.858414,-36.973034],
-  "geometry": {"coordinates":[174.858414,-36.973034],"type":"Point"}
+  "bbox": [
+    174.858414,
+    -36.973034,
+    174.858414,
+    -36.973034
+],
+  "geometry": {"coordinates":[174.85841400000001,-36.973034],"type":"Point"}
 }

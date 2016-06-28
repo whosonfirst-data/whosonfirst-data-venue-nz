@@ -2,13 +2,14 @@
   "id": 220113595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.903625,-37.20063,174.903625,-37.20063",
     "geom:latitude":-37.20063,
     "geom:longitude":174.903625,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"Old Great South Rd Mercer ",
     "sg:city":"Pukekohe",
     "sg:classifiers":[
@@ -50,10 +51,11 @@
         }
     ],
     "wof:id":220113595,
-    "wof:lastmodified":1449074809,
+    "wof:lastmodified":1466310720,
     "wof:name":"Mercer Cheese",
     "wof:parent_id":85782491,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "-"
     ]
 },
-  "bbox": [174.903625,-37.20063,174.903625,-37.20063],
-  "geometry": {"coordinates":[174.903625,-37.20063],"type":"Point"}
+  "bbox": [
+    174.903625,
+    -37.20063,
+    174.903625,
+    -37.20063
+],
+  "geometry": {"coordinates":[174.90362500000001,-37.20063],"type":"Point"}
 }

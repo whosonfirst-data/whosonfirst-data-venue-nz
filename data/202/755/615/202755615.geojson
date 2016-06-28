@@ -2,13 +2,14 @@
   "id": 202755615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"168.352646,-46.377628,168.352646,-46.377628",
     "geom:latitude":-46.377628,
     "geom:longitude":168.352646,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Cargill St Waikiwi ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":202755615,
-    "wof:lastmodified":1449060839,
+    "wof:lastmodified":1466312322,
     "wof:name":"Cargill Home Southland Ltd",
     "wof:parent_id":85778907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "village"
     ]
 },
-  "bbox": [168.352646,-46.377628,168.352646,-46.377628],
-  "geometry": {"coordinates":[168.352646,-46.377628],"type":"Point"}
+  "bbox": [
+    168.352646,
+    -46.377628,
+    168.352646,
+    -46.377628
+],
+  "geometry": {"coordinates":[168.35264599999999,-46.377628],"type":"Point"}
 }

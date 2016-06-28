@@ -2,13 +2,14 @@
   "id": 220192229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.253662,-38.144913,176.253662,-38.144913",
     "geom:latitude":-38.144913,
     "geom:longitude":176.253662,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"263 Fenton St ",
     "sg:city":"Rotorua",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":220192229,
-    "wof:lastmodified":1449074621,
+    "wof:lastmodified":1466311404,
     "wof:name":"Mad Butcher",
     "wof:parent_id":85782497,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.253662,-38.144913,176.253662,-38.144913],
-  "geometry": {"coordinates":[176.253662,-38.144913],"type":"Point"}
+  "bbox": [
+    176.253662,
+    -38.144913,
+    176.253662,
+    -38.144913
+],
+  "geometry": {"coordinates":[176.25366199999999,-38.144913],"type":"Point"}
 }

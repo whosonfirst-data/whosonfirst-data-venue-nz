@@ -2,13 +2,14 @@
   "id": 186318071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"176.208359,-37.65926,176.208359,-37.65926",
     "geom:latitude":-37.65926,
     "geom:longitude":176.208359,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Cherokee Pl Mt Maunganui ",
     "sg:city":"Tauranga",
     "sg:classifiers":[],
@@ -40,14 +41,20 @@
         }
     ],
     "wof:id":186318071,
-    "wof:lastmodified":1449050987,
+    "wof:lastmodified":1466312253,
     "wof:name":"NZ Profiles Ltd",
     "wof:parent_id":85781423,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [176.208359,-37.65926,176.208359,-37.65926],
+  "bbox": [
+    176.208359,
+    -37.65926,
+    176.208359,
+    -37.65926
+],
   "geometry": {"coordinates":[176.208359,-37.65926],"type":"Point"}
 }

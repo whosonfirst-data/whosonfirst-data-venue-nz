@@ -2,13 +2,14 @@
   "id": 203288405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.320938,-35.724308,174.320938,-35.724308",
     "geom:latitude":-35.724308,
     "geom:longitude":174.320938,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Rathbone St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":203288405,
-    "wof:lastmodified":1449025140,
+    "wof:lastmodified":1466312189,
     "wof:name":"Jean Jones",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [174.320938,-35.724308,174.320938,-35.724308],
-  "geometry": {"coordinates":[174.320938,-35.724308],"type":"Point"}
+  "bbox": [
+    174.320938,
+    -35.724308,
+    174.320938,
+    -35.724308
+],
+  "geometry": {"coordinates":[174.32093800000001,-35.724308],"type":"Point"}
 }

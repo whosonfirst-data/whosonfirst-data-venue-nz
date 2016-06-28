@@ -2,13 +2,14 @@
   "id": 202608221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.56871,-43.544044,172.56871,-43.544044",
     "geom:latitude":-43.544044,
     "geom:longitude":172.56871,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Parkhouse Rd ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":202608221,
-    "wof:lastmodified":1449061201,
+    "wof:lastmodified":1466311586,
     "wof:name":"Leinster Silverware Ltd",
     "wof:parent_id":85778457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "silversmith"
     ]
 },
-  "bbox": [172.56871,-43.544044,172.56871,-43.544044],
-  "geometry": {"coordinates":[172.56871,-43.544044],"type":"Point"}
+  "bbox": [
+    172.56871,
+    -43.544044,
+    172.56871,
+    -43.544044
+],
+  "geometry": {"coordinates":[172.56871000000001,-43.544044],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 202958333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.584717,-40.371418,175.584717,-40.371418",
     "geom:latitude":-40.371418,
     "geom:longitude":175.584717,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"69 Rugby St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":202958333,
-    "wof:lastmodified":1449062100,
+    "wof:lastmodified":1466312907,
     "wof:name":"Keith's Garden Services",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.584717,-40.371418,175.584717,-40.371418],
-  "geometry": {"coordinates":[175.584717,-40.371418],"type":"Point"}
+  "bbox": [
+    175.584717,
+    -40.371418,
+    175.584717,
+    -40.371418
+],
+  "geometry": {"coordinates":[175.58471700000001,-40.371418],"type":"Point"}
 }

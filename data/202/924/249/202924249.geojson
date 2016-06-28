@@ -2,13 +2,14 @@
   "id": 202924249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"173.868118,-35.937752,173.868118,-35.937752",
     "geom:latitude":-35.937752,
     "geom:longitude":173.868118,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Parore St ",
     "sg:city":"Dargaville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":202924249,
-    "wof:lastmodified":1449060824,
+    "wof:lastmodified":1466312919,
     "wof:name":"The Village Garden Nursery Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "gardening"
     ]
 },
-  "bbox": [173.868118,-35.937752,173.868118,-35.937752],
-  "geometry": {"coordinates":[173.868118,-35.937752],"type":"Point"}
+  "bbox": [
+    173.868118,
+    -35.937752,
+    173.868118,
+    -35.937752
+],
+  "geometry": {"coordinates":[173.86811800000001,-35.937752],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 219939175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"172.537582,-43.537773,172.537582,-43.537773",
     "geom:latitude":-43.537773,
     "geom:longitude":172.537582,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Waterloo Rd Hornby ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -41,14 +42,20 @@
         }
     ],
     "wof:id":219939175,
-    "wof:lastmodified":1449071441,
+    "wof:lastmodified":1466313165,
     "wof:name":"Toro",
     "wof:parent_id":85772967,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [172.537582,-43.537773,172.537582,-43.537773],
-  "geometry": {"coordinates":[172.537582,-43.537773],"type":"Point"}
+  "bbox": [
+    172.537582,
+    -43.537773,
+    172.537582,
+    -43.537773
+],
+  "geometry": {"coordinates":[172.53758199999999,-43.537773],"type":"Point"}
 }

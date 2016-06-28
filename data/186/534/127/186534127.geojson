@@ -2,13 +2,14 @@
   "id": 186534127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"175.626907,-40.354031,175.626907,-40.354031",
     "geom:latitude":-40.354031,
     "geom:longitude":175.626907,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"170 Albert St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -38,14 +39,20 @@
         }
     ],
     "wof:id":186534127,
-    "wof:lastmodified":1449051090,
+    "wof:lastmodified":1466312855,
     "wof:name":"Concepts Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [175.626907,-40.354031,175.626907,-40.354031],
-  "geometry": {"coordinates":[175.626907,-40.354031],"type":"Point"}
+  "bbox": [
+    175.626907,
+    -40.354031,
+    175.626907,
+    -40.354031
+],
+  "geometry": {"coordinates":[175.62690699999999,-40.354031],"type":"Point"}
 }

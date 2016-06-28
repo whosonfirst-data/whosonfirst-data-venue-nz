@@ -2,13 +2,14 @@
   "id": 203107601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"174.500198,-36.994839,174.500198,-36.994839",
     "geom:latitude":-36.994839,
     "geom:longitude":174.500198,
     "iso:country":"NZ",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Lone Kauri Rd Karekare ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":203107601,
-    "wof:lastmodified":1449024946,
+    "wof:lastmodified":1466310588,
     "wof:name":"Fotofile Ltd Ted Scott",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "home"
     ]
 },
-  "bbox": [174.500198,-36.994839,174.500198,-36.994839],
-  "geometry": {"coordinates":[174.500198,-36.994839],"type":"Point"}
+  "bbox": [
+    174.500198,
+    -36.994839,
+    174.500198,
+    -36.994839
+],
+  "geometry": {"coordinates":[174.50019800000001,-36.994839],"type":"Point"}
 }
