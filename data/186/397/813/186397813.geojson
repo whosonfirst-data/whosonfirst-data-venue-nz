@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.584244,-43.563496,172.584244,-43.563496",
     "geom:latitude":-43.563496,
     "geom:longitude":172.584244,
@@ -23,27 +24,30 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1duf7sn4z9cpFBvQ4rIJPE_-43.563496_172.584244@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d9282c14119da6c172173cf92df67131",
+    "wof:geomhash":"deaca0df7e6175b49c81be27328c50fb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "region_id":85687179,
             "venue_id":186397813
         }
     ],
     "wof:id":186397813,
-    "wof:lastmodified":1473798771,
+    "wof:lastmodified":1496776054,
     "wof:name":"Weld-Tec Canterbury Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

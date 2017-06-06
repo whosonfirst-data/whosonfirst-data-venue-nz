@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.751587,-36.88905,174.751587,-36.88905",
     "geom:latitude":-36.88905,
     "geom:longitude":174.751587,
@@ -36,29 +37,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dxv2zlBAyVjcy2bTlRbTI_-36.889050_174.751587@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a0706c461911ec91e0ba375c3df53cb5",
+    "wof:geomhash":"add8b51e0960fad501288c242aaac4cc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778845,
+            "region_id":85687243,
             "venue_id":185708965
         }
     ],
     "wof:id":185708965,
-    "wof:lastmodified":1473798600,
+    "wof:lastmodified":1496775446,
     "wof:name":"Rush Coffee Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

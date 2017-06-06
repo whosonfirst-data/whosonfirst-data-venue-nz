@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.762833,-36.92268,174.762833,-36.92268",
     "geom:latitude":-36.92268,
     "geom:longitude":174.762833,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782479
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IGlSe0ykQZetPlgGzvpPX_-36.922680_174.762833@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5c0a14090e7f6d27a1088c6a22f41891",
+    "wof:geomhash":"0de5d71fc5528480a510900316bb7565",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782479,
+            "region_id":85687243,
             "venue_id":186391417
         }
     ],
     "wof:id":186391417,
-    "wof:lastmodified":1473798750,
+    "wof:lastmodified":1496775562,
     "wof:name":"Electrocom Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

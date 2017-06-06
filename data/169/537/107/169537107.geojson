@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.742065,-36.856506,174.742065,-36.856506",
     "geom:latitude":-36.856506,
     "geom:longitude":174.742065,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85773127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vDPznM3JzjwQvBjNljjIE_-36.856506_174.742065@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2b5e752f038bb5d05b54e140adbd50a3",
+    "wof:geomhash":"b317fed84192e747efdd7d10cde463a8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773127,
+            "region_id":85687243,
             "venue_id":169537107
         }
     ],
     "wof:id":169537107,
-    "wof:lastmodified":1473798554,
+    "wof:lastmodified":1496775662,
     "wof:name":"Rocket Pictures Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

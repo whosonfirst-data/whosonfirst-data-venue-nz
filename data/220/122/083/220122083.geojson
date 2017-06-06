@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.846405,-37.006428,175.846405,-37.006428",
     "geom:latitude":-37.006428,
     "geom:longitude":175.846405,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915061,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5I9m3W13iuLuvTkLY2j7Ow_-37.006428_175.846405@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8be10c02d08355a99387a018871390ac",
+    "wof:geomhash":"9a51981652d4922e5a1c87b5fc03d0e1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101915061,
+            "region_id":85687229,
             "venue_id":220122083
         }
     ],
     "wof:id":220122083,
-    "wof:lastmodified":1473798595,
+    "wof:lastmodified":1496776532,
     "wof:name":"Coromandel Cuisine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

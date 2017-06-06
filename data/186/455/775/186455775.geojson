@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.656738,-43.562984,172.656738,-43.562984",
     "geom:latitude":-43.562984,
     "geom:longitude":172.656738,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778153
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AVvIY2T7wfwQX04zBcH87_-43.562984_172.656738@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a93879df2f15f37af0c0e9bbed5cc30b",
+    "wof:geomhash":"9df82acc6d5ece8e181c4a9c78944765",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778153,
+            "region_id":85687179,
             "venue_id":186455775
         }
     ],
     "wof:id":186455775,
-    "wof:lastmodified":1473798756,
+    "wof:lastmodified":1496776068,
     "wof:name":"Compuprint",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

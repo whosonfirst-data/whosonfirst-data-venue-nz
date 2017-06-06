@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.780029,-36.87215,174.780029,-36.87215",
     "geom:latitude":-36.87215,
     "geom:longitude":174.780029,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778841
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UoJcmUJf7f5BBo3GuQFPP_-36.872150_174.780029@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f2d74323c089abae89860abd4d05e0c3",
+    "wof:geomhash":"9618eb2e6f34513770d08b7517bb256b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778841,
+            "region_id":85687243,
             "venue_id":219316539
         }
     ],
     "wof:id":219316539,
-    "wof:lastmodified":1473798680,
+    "wof:lastmodified":1496777128,
     "wof:name":"Newmarket Lodge",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

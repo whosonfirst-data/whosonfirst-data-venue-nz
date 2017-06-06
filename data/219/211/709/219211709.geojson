@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.211609,-42.453007,171.211609,-42.453007",
     "geom:latitude":-42.453007,
     "geom:longitude":171.211609,
@@ -23,9 +24,11 @@
     "sg:province":"West Coast",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687165,
         102191583,
         85633345,
-        101917297,
+        101915333,
+        102079361,
         85782401,
         85781665
     ],
@@ -34,31 +37,31 @@
         "sg:id":"SG_0vQHAKlnKV79rUMnhdYQMj_-42.453007_171.211609@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"87ad63bc5cc8f65edf414c7d5d79e747",
+    "wof:geomhash":"dc246de5971b6bc6f5d5e570eaf5b4f9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101917297,
+            "county_id":102079361,
+            "locality_id":101915333,
             "neighbourhood_id":85782401,
-            "region_id":-1,
+            "region_id":85687165,
             "venue_id":219211709
         },
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101917297,
+            "county_id":102079361,
+            "locality_id":-1,
             "neighbourhood_id":85781665,
-            "region_id":-1,
+            "region_id":85687165,
             "venue_id":219211709
         }
     ],
     "wof:id":219211709,
-    "wof:lastmodified":1473798640,
+    "wof:lastmodified":1496776666,
     "wof:name":"Grey Valley Couriers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

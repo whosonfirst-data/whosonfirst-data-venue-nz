@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.603027,-43.560757,172.603027,-43.560757",
     "geom:latitude":-43.560757,
     "geom:longitude":172.603027,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778369
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UpmNk8Oh2Hvy9EjjOAkPk_-43.560757_172.603027@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9ea4f9528b431c2b748bcfcbcc2eade8",
+    "wof:geomhash":"8684e2a7119cb3de7f9c0edf448bd8ad",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778369,
+            "region_id":85687179,
             "venue_id":185701829
         }
     ],
     "wof:id":185701829,
-    "wof:lastmodified":1473798603,
+    "wof:lastmodified":1496776053,
     "wof:name":"Juke Box Specialists",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

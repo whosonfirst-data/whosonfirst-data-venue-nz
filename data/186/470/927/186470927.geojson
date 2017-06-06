@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.574341,-40.363335,175.574341,-40.363335",
     "geom:latitude":-40.363335,
     "geom:longitude":175.574341,
@@ -23,9 +24,11 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780841
     ],
     "wof:breaches":[],
@@ -33,20 +36,20 @@
         "sg:id":"SG_4YqqmgOgz4ZFSpnxdYfxL4_-40.363335_175.574341@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"660be4aaf733450b12ac89e30c9974bf",
+    "wof:geomhash":"f076f99428f4604466e435173cc67688",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780841,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":186470927
         }
     ],
     "wof:id":186470927,
-    "wof:lastmodified":1473798757,
+    "wof:lastmodified":1496775739,
     "wof:name":"Gas Care",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.704849,-36.543785,174.704849,-36.543785",
     "geom:latitude":-36.543785,
     "geom:longitude":174.704849,
@@ -33,27 +34,30 @@
     "sg:website":"http://www.waiwera.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101916785,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wVVYeCm3SzL0mE9yqqXIW_-36.543785_174.704849@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1a92e6a742875d1252db34937fc2ffec",
+    "wof:geomhash":"88db5f373906bddb5278389db3f1ce0a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101916785,
+            "region_id":85687243,
             "venue_id":219394729
         }
     ],
     "wof:id":219394729,
-    "wof:lastmodified":1473798684,
+    "wof:lastmodified":1496776939,
     "wof:name":"Waiwera Thermal Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

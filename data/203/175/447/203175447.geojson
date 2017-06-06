@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.887756,-39.666054,176.887756,-39.666054",
     "geom:latitude":-39.666054,
     "geom:longitude":176.887756,
@@ -32,27 +33,30 @@
     "sg:website":"http://www.ps.org.nz/eastcoast",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914661,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77hKluDeU5M3hKzRaVN8LM_-39.666054_176.887756@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e77f218920a6cb773e3648fe05c80d12",
+    "wof:geomhash":"35cc1aff45cafb6958fcef3882a75651",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914661,
+            "region_id":85687189,
             "venue_id":203175447
         }
     ],
     "wof:id":203175447,
-    "wof:lastmodified":1473798648,
+    "wof:lastmodified":1496776231,
     "wof:name":"Presbyterian Support (East Coast)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

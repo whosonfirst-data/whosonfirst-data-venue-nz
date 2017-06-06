@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.140076,-37.668262,176.140076,-37.668262",
     "geom:latitude":-37.668262,
     "geom:longitude":176.140076,
@@ -23,29 +24,34 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914325,
+        102079285,
+        85781309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UvBROMzKldhn3CejkHc7T_-37.668262_176.140076@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f7eb2f3cab955d9acb02c2977e529b80",
+    "wof:geomhash":"b2b34b1f21ac91d9bdc94dfbdabcfe92",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101914325,
+            "neighbourhood_id":85781309,
+            "region_id":85687175,
             "venue_id":169717069
         }
     ],
     "wof:id":169717069,
-    "wof:lastmodified":1473798607,
+    "wof:lastmodified":1496775871,
     "wof:name":"Cherrywood Bookshop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

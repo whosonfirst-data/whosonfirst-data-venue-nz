@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.901123,-37.000572,174.901123,-37.000572",
     "geom:latitude":-37.000572,
     "geom:longitude":174.901123,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85780923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rCitzy180KO3jMt9ZhW5H_-37.000572_174.901123@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"34e2c3c5e4494a613fe213fbc82cc2e2",
+    "wof:geomhash":"c8d8317cfe469958dc130565d08a33de",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85780923,
+            "region_id":85687243,
             "venue_id":236038899
         }
     ],
     "wof:id":236038899,
-    "wof:lastmodified":1473798574,
+    "wof:lastmodified":1496775613,
     "wof:name":"Clark Raewyn P. JP",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

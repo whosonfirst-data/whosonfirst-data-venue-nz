@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.123337,41.189667,-73.123337,41.189667",
     "geom:latitude":41.189667,
     "geom:longitude":-73.123337,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85844831,
+        102191575,
+        404495857,
         85633793,
         85930997,
         102084283,
-        85844831
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"d964724b36c1d0e899c60b3c0293e64d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495857,
             "locality_id":85930997,
             "neighbourhood_id":85844831,
             "region_id":85688629,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":202912571,
-    "wof:lastmodified":1473798754,
+    "wof:lastmodified":1491929464,
     "wof:name":"Four Seasons Plant Centre",
     "wof:parent_id":85844831,
     "wof:placetype":"venue",

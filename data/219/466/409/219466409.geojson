@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.83049,-36.907524,174.83049,-36.907524",
     "geom:latitude":-36.907524,
     "geom:longitude":174.83049,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782457
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63xwRIJKLuN98hV6HwvS8p_-36.907524_174.830490@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1cfd062fd15a04e1e4ad9a30dbcb38b2",
+    "wof:geomhash":"d97ca4a5ce386383b39ed29d37f04721",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782457,
+            "region_id":85687243,
             "venue_id":219466409
         }
     ],
     "wof:id":219466409,
-    "wof:lastmodified":1473798712,
+    "wof:lastmodified":1496775488,
     "wof:name":"Reading With Phonics",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

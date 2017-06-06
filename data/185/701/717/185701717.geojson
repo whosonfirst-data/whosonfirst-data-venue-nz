@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.792816,-41.330105,174.792816,-41.330105",
     "geom:latitude":-41.330105,
     "geom:longitude":174.792816,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85778423
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_1fJPFLGQXscGPv914Zs5Nq_-41.330105_174.792816@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e789dc4e283e9027ee2fc3a6509fa0ee",
+    "wof:geomhash":"623ef8474a0756eccba6fa16b4f782a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85778423,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":185701717
         }
     ],
     "wof:id":185701717,
-    "wof:lastmodified":1473798602,
+    "wof:lastmodified":1496775811,
     "wof:name":"Selected Music Co",
     "wof:parent_id":85778423,
     "wof:placetype":"venue",

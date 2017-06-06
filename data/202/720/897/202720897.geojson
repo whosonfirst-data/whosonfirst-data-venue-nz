@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.867035,-38.239738,175.867035,-38.239738",
     "geom:latitude":-38.239738,
     "geom:longitude":175.867035,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914547,
+        102079277
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qTD930MkfQCc4xf2EWmLY_-38.239738_175.867035@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0025f9b83d4b96b4c4b5782b6f626c79",
+    "wof:geomhash":"d3bc701a1b728883f1e97e3a2fca0317",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":101914547,
+            "region_id":85687229,
             "venue_id":202720897
         }
     ],
     "wof:id":202720897,
-    "wof:lastmodified":1473798720,
+    "wof:lastmodified":1496776100,
     "wof:name":"H S Cleaning Tokoroa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

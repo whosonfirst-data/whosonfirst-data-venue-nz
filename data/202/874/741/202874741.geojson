@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.302368,-35.743725,174.302368,-35.743725",
     "geom:latitude":-35.743725,
     "geom:longitude":174.302368,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257,
+        85781713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fY9kKZTGZT6pNGXyaiBxV_-35.743725_174.302368@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"55af8e6d4ca496858a4172a1eb826ee3",
+    "wof:geomhash":"bba224a1ca541553d5c5cfbecc3bf6dd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "neighbourhood_id":85781713,
+            "region_id":85687149,
             "venue_id":202874741
         }
     ],
     "wof:id":202874741,
-    "wof:lastmodified":1473798764,
+    "wof:lastmodified":1496775331,
     "wof:name":"Brandon Upholstery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

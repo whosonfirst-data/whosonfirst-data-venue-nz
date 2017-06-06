@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.326706,-35.686649,174.326706,-35.686649",
     "geom:latitude":-35.686649,
     "geom:longitude":174.326706,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        101914901,
+        101914253,
+        102079257,
         85781183
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_04hsEDNijpFNiJpTbAr672_-35.686649_174.326706@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"eabe9563d6f400182688751f2062b8ae",
+    "wof:geomhash":"f81f24b0d1eaeab5c767b99a3a771548",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
+            "county_id":102079257,
+            "locality_id":101914253,
             "neighbourhood_id":85781183,
-            "region_id":-1,
+            "region_id":85687149,
             "venue_id":220060821
         }
     ],
     "wof:id":220060821,
-    "wof:lastmodified":1473798597,
+    "wof:lastmodified":1496775328,
     "wof:name":"Gumdiggers Liquor Shop",
     "wof:parent_id":85781183,
     "wof:placetype":"venue",

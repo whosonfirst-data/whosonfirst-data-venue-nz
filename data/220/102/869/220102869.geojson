@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.494812,-45.904835,170.494812,-45.904835",
     "geom:latitude":-45.904835,
     "geom:longitude":170.494812,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85772879
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZYeDNL6GsbdDG2OIwtiR6_-45.904835_170.494812@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"34a2996a1b06a30caf78fc86ecdbcb6b",
+    "wof:geomhash":"23f338b699309dd51cbeb71b18a28844",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85772879,
+            "region_id":85687201,
             "venue_id":220102869
         }
     ],
     "wof:id":220102869,
-    "wof:lastmodified":1473798602,
+    "wof:lastmodified":1496775757,
     "wof:name":"Pixie Pies & Pastry",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

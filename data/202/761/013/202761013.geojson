@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.880081,-39.667549,176.880081,-39.667549",
     "geom:latitude":-39.667549,
     "geom:longitude":176.880081,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914661,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EA9Og3AKy9DS6JSoYw9lX_-39.667549_176.880081@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"84fba986a822617b79fc6b07e9776c06",
+    "wof:geomhash":"116471aee6dd3a0d3d5ef6c688ed8675",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914661,
+            "region_id":85687189,
             "venue_id":202761013
         }
     ],
     "wof:id":202761013,
-    "wof:lastmodified":1473798719,
+    "wof:lastmodified":1496776233,
     "wof:name":"Pratley Healthcare Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.365692,-46.398243,168.365692,-46.398243",
     "geom:latitude":-46.398243,
     "geom:longitude":168.365692,
@@ -23,29 +24,33 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15UixJ0cwQ2aYmHziFbi0M_-46.398243_168.365692@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8b9a85dc3c8fd9c2577178f8025fbf8c",
+    "wof:geomhash":"a56c3c12991bc8c24616efc26ed41ae2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781555,
+            "region_id":85687211,
             "venue_id":169673545
         }
     ],
     "wof:id":169673545,
-    "wof:lastmodified":1473798609,
+    "wof:lastmodified":1496776713,
     "wof:name":"Windsor Stationery & Lotto Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

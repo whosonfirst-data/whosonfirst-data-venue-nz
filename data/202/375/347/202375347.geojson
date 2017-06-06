@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.070358,-38.689789,178.070358,-38.689789",
     "geom:latitude":-38.689789,
     "geom:longitude":178.070358,
@@ -34,29 +35,31 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85784657,
+        102191583,
+        85633345,
+        85687237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L79mFbWR4VYJlYzeDe1xV_-38.689789_178.070358@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4701503610c7cf911b21c04d9f9bb635",
+    "wof:geomhash":"6012429279847cdcd6f0e101dd6bbb7b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85784657,
+            "region_id":85687237,
             "venue_id":202375347
         }
     ],
     "wof:id":202375347,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496776861,
     "wof:name":"Darryl Ufton",
-    "wof:parent_id":-1,
+    "wof:parent_id":85784657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

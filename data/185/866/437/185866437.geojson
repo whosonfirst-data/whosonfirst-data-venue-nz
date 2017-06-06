@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.05542,-36.795933,175.05542,-36.795933",
     "geom:latitude":-36.795933,
     "geom:longitude":175.05542,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914787,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JcxNyU6pcdGQiQVDaeUKW_-36.795933_175.055420@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2d184101893ae60886d4ee41f93c04f7",
+    "wof:geomhash":"64d7dfad07752875c690f2dc270a13e9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914787,
+            "region_id":85687243,
             "venue_id":185866437
         }
     ],
     "wof:id":185866437,
-    "wof:lastmodified":1473798629,
+    "wof:lastmodified":1496776338,
     "wof:name":"Equestrian Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

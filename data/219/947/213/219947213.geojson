@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.456726,-37.756889,176.456726,-37.756889",
     "geom:latitude":-37.756889,
     "geom:longitude":176.456726,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-533 2313",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101916609,
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uTYFYPu0i5Lw12GcgpkZg_-37.756889_176.456726@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0021fa299b7c1c5660de8740d950cb96",
+    "wof:geomhash":"41a6797e2f8dff503debdf2e207eb386",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":101916609,
+            "region_id":85687175,
             "venue_id":219947213
         }
     ],
     "wof:id":219947213,
-    "wof:lastmodified":1473798794,
+    "wof:lastmodified":1496776921,
     "wof:name":"Seeka Kiwifruit Industries Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

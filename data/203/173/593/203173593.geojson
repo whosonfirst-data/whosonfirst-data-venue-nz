@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.649841,-43.529732,172.649841,-43.529732",
     "geom:latitude":-43.529732,
     "geom:longitude":172.649841,
@@ -32,29 +33,34 @@
     "sg:website":"http://www.blackandwhite.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781777
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bIrE50WPfmavBbXi79RBV_-43.529732_172.649841@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ae44468a8c4e5dfbc738adb411a156ff",
+    "wof:geomhash":"8c5f0ba2bf55529d51c6d589a48fdc5b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781777,
+            "region_id":85687179,
             "venue_id":203173593
         }
     ],
     "wof:id":203173593,
-    "wof:lastmodified":1473798657,
+    "wof:lastmodified":1496776046,
     "wof:name":"Black & White Trading Company Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

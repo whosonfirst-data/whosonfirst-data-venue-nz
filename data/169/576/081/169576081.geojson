@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.591492,-43.30402,172.591492,-43.30402",
     "geom:latitude":-43.30402,
     "geom:longitude":172.591492,
@@ -23,27 +24,30 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914361,
+        102079367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40BPGbh3pVm6qjfPyF9qZt_-43.304020_172.591492@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"352aa1a694b6e9a2a50453b3e585c1b5",
+    "wof:geomhash":"7bf40b2d24b9283210b8533ab7725455",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079367,
+            "locality_id":101914361,
+            "region_id":85687179,
             "venue_id":169576081
         }
     ],
     "wof:id":169576081,
-    "wof:lastmodified":1473798587,
+    "wof:lastmodified":1496775915,
     "wof:name":"Craft Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.730713,-43.628941,172.730713,-43.628941",
     "geom:latitude":-43.628941,
     "geom:longitude":172.730713,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-329 4264",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914441,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_094BnP4SvxvqdKC8CvQC2M_-43.628941_172.730713@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"18c8d5a39668490a84ba57a2937d2334",
+    "wof:geomhash":"4842036658edda4c6dd7204b27288d64",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914441,
+            "region_id":85687179,
             "venue_id":219868617
         }
     ],
     "wof:id":219868617,
-    "wof:lastmodified":1473798781,
+    "wof:lastmodified":1496775972,
     "wof:name":"A & D Sawmilling Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

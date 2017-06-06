@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.826553,-41.172272,174.826553,-41.172272",
     "geom:latitude":-41.172272,
     "geom:longitude":174.826553,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914575,
+        102079339,
+        85778565
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dUji3haXIYWCa0YuCcPp6_-41.172272_174.826553@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"061803598d18a166716e153de4816c3e",
+    "wof:geomhash":"d3c5617dbab5dc68bf6ffb7d847e7ba5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914575,
+            "neighbourhood_id":85778565,
+            "region_id":85687233,
             "venue_id":219263075
         }
     ],
     "wof:id":219263075,
-    "wof:lastmodified":1473798661,
+    "wof:lastmodified":1496776114,
     "wof:name":"House & Flat Rentals",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

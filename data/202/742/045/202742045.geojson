@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.650635,-40.954815,175.650635,-40.954815",
     "geom:latitude":-40.954815,
     "geom:longitude":175.650635,
@@ -35,9 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101916231,
+        101915543,
+        102079343,
         85782451
     ],
     "wof:breaches":[],
@@ -45,20 +48,20 @@
         "sg:id":"SG_2f7CAduz2NIXsDWX7yGJkJ_-40.954815_175.650635@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6ec38ce9c067bf82f83df5bd7caa0525",
+    "wof:geomhash":"14b9afcfbe432956e2c5b8f3e5004546",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101916231,
+            "county_id":102079343,
+            "locality_id":101915543,
             "neighbourhood_id":85782451,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":202742045
         }
     ],
     "wof:id":202742045,
-    "wof:lastmodified":1473798718,
+    "wof:lastmodified":1496776771,
     "wof:name":"Cornwall Rest Homes",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",

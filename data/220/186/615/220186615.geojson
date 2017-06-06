@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.084473,-38.681263,176.084473,-38.681263",
     "geom:latitude":-38.681263,
     "geom:longitude":176.084473,
@@ -23,29 +24,33 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        102079281,
+        85782499
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4te4YZvyloRy26yXmAF22X_-38.681263_176.084473@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8df640d93f9b4d3d3dd32691e3148a23",
+    "wof:geomhash":"8f77f3f426924dcfc64eb6dc3f8ad2fa",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782499,
+            "region_id":85687229,
             "venue_id":220186615
         }
     ],
     "wof:id":220186615,
-    "wof:lastmodified":1473798637,
+    "wof:lastmodified":1496775937,
     "wof:name":"Andersen Meats Homekills",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

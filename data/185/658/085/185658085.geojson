@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.477386,-45.886841,170.477386,-45.886841",
     "geom:latitude":-45.886841,
     "geom:longitude":170.477386,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        102079387,
+        85778177
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kvq85VWYvRnvwx7KQJdH8_-45.886841_170.477386@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bfcf6462136429c76eb10dff09ec9730",
+    "wof:geomhash":"685eb945ba6277b129a55d6904b148d6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778177,
+            "region_id":85687201,
             "venue_id":185658085
         }
     ],
     "wof:id":185658085,
-    "wof:lastmodified":1473798584,
+    "wof:lastmodified":1496775768,
     "wof:name":"Mark Wright Writing Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

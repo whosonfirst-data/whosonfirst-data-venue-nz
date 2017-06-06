@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.621292,-45.849529,170.621292,-45.849529",
     "geom:latitude":-45.849529,
     "geom:longitude":170.621292,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101916089,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KpyRUeBP2I5USqYuLGF3X_-45.849529_170.621292@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9d2acc371ef20255c9247ad8208a7c13",
+    "wof:geomhash":"ed445e0c28be13a9e18fcea17c7e711b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101916089,
+            "region_id":85687201,
             "venue_id":203049871
         }
     ],
     "wof:id":203049871,
-    "wof:lastmodified":1473798610,
+    "wof:lastmodified":1496776883,
     "wof:name":"Asphalt & Cobblestone Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

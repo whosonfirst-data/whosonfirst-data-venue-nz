@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.683578,-40.942154,175.683578,-40.942154",
     "geom:latitude":-40.942154,
     "geom:longitude":175.683578,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079343,
+        85780973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uWh0BnZb6A0s98lOVct0p_-40.942154_175.683578@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"597ce25a115d7b2cf59d057a27ba9e4c",
+    "wof:geomhash":"297eb27955d0a94510c106125f03b2ea",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780973,
+            "region_id":85687233,
             "venue_id":203348913
         }
     ],
     "wof:id":203348913,
-    "wof:lastmodified":1473798688,
+    "wof:lastmodified":1496776776,
     "wof:name":"Bigfoot Sox",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

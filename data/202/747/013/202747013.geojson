@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.352615,-45.882858,170.352615,-45.882858",
     "geom:latitude":-45.882858,
     "geom:longitude":170.352615,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914505,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xLyx36VVXUe4sag8XOCu0_-45.882858_170.352615@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"836490bd07fa9b64c85ba96333ed3ab5",
+    "wof:geomhash":"742ee272e3e4f4f659dbef4c93f8f3d1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914505,
+            "region_id":85687201,
             "venue_id":202747013
         }
     ],
     "wof:id":202747013,
-    "wof:lastmodified":1473798716,
+    "wof:lastmodified":1496776001,
     "wof:name":"Maran-Atha Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.626923,-36.83279,174.626923,-36.83279",
     "geom:latitude":-36.83279,
     "geom:longitude":174.626923,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781685
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vFMgLRLk1uxgIjcR5w6UP_-36.832790_174.626923@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"08348716a3f0059bf43acebcc14915ee",
+    "wof:geomhash":"84951ff9e916073dc3cea4c62f2b8390",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781685,
+            "region_id":85687243,
             "venue_id":202775079
         }
     ],
     "wof:id":202775079,
-    "wof:lastmodified":1473798721,
+    "wof:lastmodified":1496777129,
     "wof:name":"Auckland Garage Door Doctor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.647293,-43.511795,172.647293,-43.511795",
     "geom:latitude":-43.511795,
     "geom:longitude":172.647293,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b5Outt7pBhpq8eRQeFCD7_-43.511795_172.647293@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"250b9a32e5cb644b276f20c8b42e8e23",
+    "wof:geomhash":"ca5047fc6c72f3d4a79b243389eca79e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781693,
+            "region_id":85687179,
             "venue_id":185833621
         }
     ],
     "wof:id":185833621,
-    "wof:lastmodified":1473798627,
+    "wof:lastmodified":1496776046,
     "wof:name":"Drumming Tuition",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

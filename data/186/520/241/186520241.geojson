@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.365402,-46.397079,168.365402,-46.397079",
     "geom:latitude":-46.397079,
     "geom:longitude":168.365402,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KRb7SYyjIllu6OTgSbTJv_-46.397079_168.365402@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1a328c85f7bda7b0b9f94cee10dbe2f3",
+    "wof:geomhash":"cfd26d47b51ae7bfc8ab992ea5dd5b58",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781555,
+            "region_id":85687211,
             "venue_id":186520241
         }
     ],
     "wof:id":186520241,
-    "wof:lastmodified":1473798758,
+    "wof:lastmodified":1496776714,
     "wof:name":"Windsor Beauty",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.627487,-43.514721,172.627487,-43.514721",
     "geom:latitude":-43.514721,
     "geom:longitude":172.627487,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85773167
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31wClULYpMRtAHmGoDI6na_-43.514721_172.627487@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"952d20c6132515a708a048822aee8aed",
+    "wof:geomhash":"1e8d89c4eed3233948e989bf4e2fbcef",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85773167,
+            "region_id":85687179,
             "venue_id":185629717
         }
     ],
     "wof:id":185629717,
-    "wof:lastmodified":1473798572,
+    "wof:lastmodified":1496776070,
     "wof:name":"Mozarts Performing Arts School Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

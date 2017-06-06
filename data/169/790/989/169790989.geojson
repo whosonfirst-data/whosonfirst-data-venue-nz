@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.669281,-36.731548,175.669281,-36.731548",
     "geom:latitude":-36.731548,
     "geom:longitude":175.669281,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915999,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xaRya5Vd6eZMHEP0dBPhD_-36.731548_175.669281@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"91096b37330fc4da36296498e405e144",
+    "wof:geomhash":"240cf13540fa375fa6227c2931c76fb8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101915999,
+            "region_id":85687229,
             "venue_id":169790989
         }
     ],
     "wof:id":169790989,
-    "wof:lastmodified":1473798646,
+    "wof:lastmodified":1496776871,
     "wof:name":"Sasha Charters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

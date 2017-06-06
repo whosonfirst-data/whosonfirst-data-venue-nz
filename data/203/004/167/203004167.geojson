@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.376328,-46.435555,168.376328,-46.435555",
     "geom:latitude":-46.435555,
     "geom:longitude":168.376328,
@@ -23,27 +24,30 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hCAuGpjKRSX7zCC50Zii4_-46.435555_168.376328@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cf82c3c41dd3840885d00ae93c713be0",
+    "wof:geomhash":"f2cd143ed7ab07e74b188640f7d0a286",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":203004167
         }
     ],
     "wof:id":203004167,
-    "wof:lastmodified":1473798552,
+    "wof:lastmodified":1496776725,
     "wof:name":"Profel New Zealand Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

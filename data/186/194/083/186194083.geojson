@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.770416,-37.814625,175.770416,-37.814625",
     "geom:latitude":-37.814625,
     "geom:longitude":175.770416,
@@ -23,27 +24,30 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915135,
+        102079267
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hUimkdQfAfnnyvB8wE7f1_-37.814625_175.770416@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8e733381b40bd6eb240991b3ccb1bb22",
+    "wof:geomhash":"1b299b91267f83eed9f42ec6bb4890d4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101915135,
+            "region_id":85687229,
             "venue_id":186194083
         }
     ],
     "wof:id":186194083,
-    "wof:lastmodified":1473798708,
+    "wof:lastmodified":1496776563,
     "wof:name":"Boltholder Ltd The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

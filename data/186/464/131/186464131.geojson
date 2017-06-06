@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.40271,-45.897289,170.40271,-45.897289",
     "geom:latitude":-45.897289,
     "geom:longitude":170.40271,
@@ -23,27 +24,30 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915369,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yXixdgVR5OxRDMTZqSKKv_-45.897289_170.402710@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f1e13408b5e89ed3437b177346c0a7ea",
+    "wof:geomhash":"ba01b5d5126c3ef3f086e56bd601a76a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101915369,
+            "region_id":85687201,
             "venue_id":186464131
         }
     ],
     "wof:id":186464131,
-    "wof:lastmodified":1473798748,
+    "wof:lastmodified":1496776706,
     "wof:name":"Fulton Hogan Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

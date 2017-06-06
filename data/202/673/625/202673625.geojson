@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.316788,-37.797134,176.316788,-37.797134",
     "geom:latitude":-37.797134,
     "geom:longitude":176.316788,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101915141,
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5foPYTbwUUskY6EZDxp2E3_-37.797134_176.316788@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e744ca9fe521181263af40cb1c76eb14",
+    "wof:geomhash":"f88c07ea6a6fe933ff813d1611f66330",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":101915141,
+            "region_id":85687175,
             "venue_id":202673625
         }
     ],
     "wof:id":202673625,
-    "wof:lastmodified":1473798700,
+    "wof:lastmodified":1496776575,
     "wof:name":"Te Puke Plumbing Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

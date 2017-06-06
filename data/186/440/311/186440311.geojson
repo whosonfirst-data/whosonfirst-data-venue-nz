@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.27478,-41.281326,173.27478,-41.281326",
     "geom:latitude":-41.281326,
     "geom:longitude":173.27478,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        101915555,
+        102079351,
+        85781551
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vLP898ONNZ2IzuoljghsZ_-41.281326_173.274780@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1fc78a174c1cec6517bea7d92a0be623",
+    "wof:geomhash":"262cf3e42e0df68f62ebb26ace7a6d76",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":101915555,
+            "neighbourhood_id":85781551,
+            "region_id":85687157,
             "venue_id":186440311
         }
     ],
     "wof:id":186440311,
-    "wof:lastmodified":1473798751,
+    "wof:lastmodified":1496776779,
     "wof:name":"Baycity Refrigeration Craig Jones",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

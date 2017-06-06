@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.558258,-40.218719,175.558258,-40.218719",
     "geom:latitude":-40.218719,
     "geom:longitude":175.558258,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079303,
+        85778921
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VwBgI6S4BcJeUCfBAPigQ_-40.218719_175.558258@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cb2665219e57ce8ae298fd460deb9fe5",
+    "wof:geomhash":"bab1efa12e08a8ecfcb4420171859c45",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778921,
+            "region_id":85687251,
             "venue_id":202763991
         }
     ],
     "wof:id":202763991,
-    "wof:lastmodified":1473798730,
+    "wof:lastmodified":1496776281,
     "wof:name":"Wimbledon Rest Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

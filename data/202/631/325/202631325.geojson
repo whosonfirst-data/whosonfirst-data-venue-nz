@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.348755,-40.025589,176.348755,-40.025589",
     "geom:latitude":-40.025589,
     "geom:longitude":176.348755,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914863,
+        102079333
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wV6RMJbCiu9IZ81LV9RkE_-40.025589_176.348755@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e9d4a6bfebf024405c065a6e8935348a",
+    "wof:geomhash":"56b2d27a1027de5cff171deb9852f97f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079333,
+            "locality_id":101914863,
+            "region_id":85687189,
             "venue_id":202631325
         }
     ],
     "wof:id":202631325,
-    "wof:lastmodified":1473798695,
+    "wof:lastmodified":1496776367,
     "wof:name":"Waipukurau Construction 2002 Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

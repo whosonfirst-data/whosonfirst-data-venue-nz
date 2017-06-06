@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.03199,38.890369,-77.03199,38.890369",
     "geom:latitude":38.890369,
     "geom:longitude":-77.03199,
@@ -23,11 +24,13 @@
     "sg:province":"Nelson",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108724057,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85869683
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,19 +40,20 @@
     "wof:geomhash":"6307be362e8343d852c88a73833e72af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85869683,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108724057,
             "region_id":85688741,
             "venue_id":219592697
         }
     ],
     "wof:id":219592697,
-    "wof:lastmodified":1473798766,
+    "wof:lastmodified":1490401949,
     "wof:name":"BP Service Stations",
-    "wof:parent_id":85869683,
+    "wof:parent_id":1108724057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

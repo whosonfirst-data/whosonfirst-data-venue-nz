@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.623337,-36.816399,174.623337,-36.816399",
     "geom:latitude":-36.816399,
     "geom:longitude":174.623337,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778999
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61Ce2tDDnKIgAo16t0biyc_-36.816399_174.623337@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f0f8c23c67c693bf75884a7914232cc5",
+    "wof:geomhash":"4450ec78541885649181ca5c5d7abf52",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778999,
+            "region_id":85687243,
             "venue_id":219958831
         }
     ],
     "wof:id":219958831,
-    "wof:lastmodified":1473798796,
+    "wof:lastmodified":1496775584,
     "wof:name":"West Harbour Veterinary Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

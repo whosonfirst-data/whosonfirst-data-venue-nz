@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.823502,-41.306473,174.823502,-41.306473",
     "geom:latitude":-41.306473,
     "geom:longitude":174.823502,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85773025
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_4hGskn7faPXB1que86iPs7_-41.306473_174.823502@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fd453b0d9f7890e075c537d62aa91f63",
+    "wof:geomhash":"fed9b3bc36d1e1bc41716d6eb0da2dea",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85773025,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":219756245
         }
     ],
     "wof:id":219756245,
-    "wof:lastmodified":1473798779,
+    "wof:lastmodified":1496775807,
     "wof:name":"Mike's Transmission",
     "wof:parent_id":85773025,
     "wof:placetype":"venue",

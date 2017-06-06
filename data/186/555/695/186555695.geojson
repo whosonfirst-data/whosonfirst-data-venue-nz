@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.924271,-37.037571,174.924271,-37.037571",
     "geom:latitude":-37.037571,
     "geom:longitude":174.924271,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pFdcrSMuFBwAElgzj5ESk_-37.037571_174.924271@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b0aaf6c7e19f5528366ed6b235590a1f",
+    "wof:geomhash":"5435677fa621221fc2d673a7ef652985",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778241,
+            "region_id":85687243,
             "venue_id":186555695
         }
     ],
     "wof:id":186555695,
-    "wof:lastmodified":1473798772,
+    "wof:lastmodified":1496776136,
     "wof:name":"Heaven's Touch",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

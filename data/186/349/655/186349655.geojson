@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.94429,-45.10857,170.94429,-45.10857",
     "geom:latitude":-45.10857,
     "geom:longitude":170.94429,
@@ -37,27 +38,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914699,
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31pMwTpivZXvCPbW0msORl_-45.108570_170.944290@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bb02b11b341022adedea658adc0b9896",
+    "wof:geomhash":"3085b3be1a3d6d1530fa4e0e5745fbdf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101914699,
+            "region_id":85687179,
             "venue_id":186349655
         }
     ],
     "wof:id":186349655,
-    "wof:lastmodified":1473798745,
+    "wof:lastmodified":1496776263,
     "wof:name":"Wanaka Alpine Stone Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

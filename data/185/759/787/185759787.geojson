@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.688583,-36.895725,174.688583,-36.895725",
     "geom:latitude":-36.895725,
     "geom:longitude":174.688583,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778827
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vLeu38qn2oC8MPrqk2Dpc_-36.895725_174.688583@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5d3543f1bfd5b3ec921c5a7664401998",
+    "wof:geomhash":"6e1e6c22d9c96cc1a24a30203965bc63",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778827,
+            "region_id":85687243,
             "venue_id":185759787
         }
     ],
     "wof:id":185759787,
-    "wof:lastmodified":1473798622,
+    "wof:lastmodified":1496775676,
     "wof:name":"N.Z All Golds Cosmopolitan Club Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

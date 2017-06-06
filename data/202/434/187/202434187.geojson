@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.931427,-36.895828,174.931427,-36.895828",
     "geom:latitude":-36.895828,
     "geom:longitude":174.931427,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85772971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65IAcQoyj2gK2LypNa8bVP_-36.895828_174.931427@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"698b34a8a01423e7aac2ce6c9a8aed24",
+    "wof:geomhash":"047ad04040c5909b63635bf7a9f52bf4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772971,
+            "region_id":85687243,
             "venue_id":202434187
         }
     ],
     "wof:id":202434187,
-    "wof:lastmodified":1473798626,
+    "wof:lastmodified":1496777165,
     "wof:name":"Thickpenny John P",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.852692,-36.87183,174.852692,-36.87183",
     "geom:latitude":-36.87183,
     "geom:longitude":174.852692,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781121
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cbvjFhUfqxQBtY7PCEqSs_-36.871830_174.852692@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"61f1eb12ed11f7c8bd9f99ae1271d8ee",
+    "wof:geomhash":"1a3995b5b452574dc2b72478a9ac7ea0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781121,
+            "region_id":85687243,
             "venue_id":220156577
         }
     ],
     "wof:id":220156577,
-    "wof:lastmodified":1473798631,
+    "wof:lastmodified":1496777174,
     "wof:name":"Fruit World",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

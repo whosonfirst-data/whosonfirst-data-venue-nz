@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.774506,-36.791702,174.774506,-36.791702",
     "geom:latitude":-36.791702,
     "geom:longitude":174.774506,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        102079403,
         85773217,
+        101915597,
         85781417
     ],
     "wof:breaches":[],
@@ -42,31 +46,31 @@
         "sg:id":"SG_3aAx1ZuMjXaMzkwo7jLer8_-36.791702_174.774506@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"84a4994c977a85a900aba1674e72cc8e",
+    "wof:geomhash":"66c6647a182862e1f14e525fe1f8bcb9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85773217,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":186517577
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101915597,
             "neighbourhood_id":85781417,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":186517577
         }
     ],
     "wof:id":186517577,
-    "wof:lastmodified":1473798771,
+    "wof:lastmodified":1496776806,
     "wof:name":"Spectrum Hair and Beauty",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

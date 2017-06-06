@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.716354,-36.932377,174.716354,-36.932377",
     "geom:latitude":-36.932377,
     "geom:longitude":174.716354,
@@ -36,29 +37,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782439
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EordkHUyrAQMHOpygSHCZ_-36.932377_174.716354@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e53f898e091fef71a7fca92160397e7f",
+    "wof:geomhash":"ba96e71adc49018f6d48861f05bf15f7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782439,
+            "region_id":85687243,
             "venue_id":185918773
         }
     ],
     "wof:id":185918773,
-    "wof:lastmodified":1473798637,
+    "wof:lastmodified":1496777100,
     "wof:name":"Gayle Prescott Dance School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

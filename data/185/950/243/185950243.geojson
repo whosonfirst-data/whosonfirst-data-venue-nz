@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.762466,-36.888638,174.762466,-36.888638",
     "geom:latitude":-36.888638,
     "geom:longitude":174.762466,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nCXzYJjPbbZUtgGEz6ahv_-36.888638_174.762466@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"92fc096085f5a6cfc5b2c3fe443a9c85",
+    "wof:geomhash":"61cc38fe3be714847bc632bb00964e34",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778845,
+            "region_id":85687243,
             "venue_id":185950243
         }
     ],
     "wof:id":185950243,
-    "wof:lastmodified":1473798637,
+    "wof:lastmodified":1496775468,
     "wof:name":"Squash Auckland Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

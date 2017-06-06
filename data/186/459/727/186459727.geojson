@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.147034,-37.669857,175.147034,-37.669857",
     "geom:latitude":-37.669857,
     "geom:longitude":175.147034,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 21 991 390",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914465,
+        102079265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DEPDyaP7pbcLD0jPDeNvB_-37.669857_175.147034@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ec24ae05eb81fbe18558f7befef650c2",
+    "wof:geomhash":"5e656762e6060c98f78ac101523b2559",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101914465,
+            "region_id":85687229,
             "venue_id":186459727
         }
     ],
     "wof:id":186459727,
-    "wof:lastmodified":1473798753,
+    "wof:lastmodified":1496775986,
     "wof:name":"Quigley Technical Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

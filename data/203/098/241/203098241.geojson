@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.58696,-40.358112,175.58696,-40.358112",
     "geom:latitude":-40.358112,
     "geom:longitude":175.58696,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85781829
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Rw0kw0n6jMFmiUoAPBuW1_-40.358112_175.586960@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"74d29c085300867b98338e6c3aa7814e",
+    "wof:geomhash":"fe9b90b91524f3f5b4fd45c672483972",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85781829,
+            "region_id":85687251,
             "venue_id":203098241
         }
     ],
     "wof:id":203098241,
-    "wof:lastmodified":1473798629,
+    "wof:lastmodified":1496775731,
     "wof:name":"Te Aroha Noa Community Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

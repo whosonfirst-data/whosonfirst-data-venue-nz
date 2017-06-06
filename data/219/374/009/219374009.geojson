@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.65715,-45.641251,170.65715,-45.641251",
     "geom:latitude":-45.641251,
     "geom:longitude":170.65715,
@@ -34,27 +35,30 @@
     "sg:website":"http://www.seakayaknz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914967,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FvquPiyM27HrpAY7n1Q2Q_-45.641251_170.657150@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"20dd7ec104e3fb98691f7e5ef62d385d",
+    "wof:geomhash":"e3af60544f79ee503fcb93850aff78c5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914967,
+            "region_id":85687201,
             "venue_id":219374009
         }
     ],
     "wof:id":219374009,
-    "wof:lastmodified":1473798691,
+    "wof:lastmodified":1496776428,
     "wof:name":"Anderson A J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

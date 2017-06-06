@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.038193,-36.990433,175.038193,-36.990433",
     "geom:latitude":-36.990433,
     "geom:longitude":175.038193,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914783,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Vy3x16Ijh9mRx3hvjLxUp_-36.990433_175.038193@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"dc2be63addf8defd87e5e5917447ce90",
+    "wof:geomhash":"1843561c0641a1ee832a21441c8d11bb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914783,
+            "region_id":85687243,
             "venue_id":203257303
         }
     ],
     "wof:id":203257303,
-    "wof:lastmodified":1473798662,
+    "wof:lastmodified":1496776334,
     "wof:name":"Country Knits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

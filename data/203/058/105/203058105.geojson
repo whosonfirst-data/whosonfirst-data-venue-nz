@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.901566,-39.67395,176.901566,-39.67395",
     "geom:latitude":-39.67395,
     "geom:longitude":176.901566,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914661,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kqN1mriWY4mZzFe4HUOsL_-39.673950_176.901566@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5eed1daa74ced5f32d74d86bc18fb2b5",
+    "wof:geomhash":"4ddd7769f6bc21be950f9c4b9adf6b96",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914661,
+            "region_id":85687189,
             "venue_id":203058105
         }
     ],
     "wof:id":203058105,
-    "wof:lastmodified":1473798615,
+    "wof:lastmodified":1496776230,
     "wof:name":"Baywide Fencing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

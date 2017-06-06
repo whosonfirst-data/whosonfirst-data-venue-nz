@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.463973999,-41.0801277161,175.463973999,-41.0801277161",
     "geom:latitude":-41.080128,
     "geom:longitude":175.463974,
@@ -27,17 +28,32 @@
         "veges"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        85633345,
+        101915623,
+        102079347
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26BVaoeBQ9P6ptvy0Pv4CH_-41.080128_175.463974@1306270049"
     },
     "wof:country":"NZ",
     "wof:created":1473719457,
-    "wof:geomhash":"4de6539152672e31215203e0a05511de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"11c2e45c92113c77c744d911aa562dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079347,
+            "locality_id":101915623,
+            "region_id":85687233,
+            "venue_id":1058997599
+        }
+    ],
     "wof:id":1058997599,
-    "wof:lastmodified":1473719457,
+    "wof:lastmodified":1496776814,
     "wof:name":"Murphy's Orchard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

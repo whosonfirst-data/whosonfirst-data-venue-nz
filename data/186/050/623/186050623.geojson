@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.741547,-36.847427,174.741547,-36.847427",
     "geom:latitude":-36.847427,
     "geom:longitude":174.741547,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37CoL1W9KLgNwqD7hGBRkt_-36.847427_174.741547@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"936b914cef6ad4c5074f5ce509863587",
+    "wof:geomhash":"15748ce5fc1521244010fcb3f958dbf4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782035,
+            "region_id":85687243,
             "venue_id":186050623
         }
     ],
     "wof:id":186050623,
-    "wof:lastmodified":1473798619,
+    "wof:lastmodified":1496775645,
     "wof:name":"Damar Industries (NZ) Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.731689,-37.241501,174.731689,-37.241501",
     "geom:latitude":-37.241501,
     "geom:longitude":174.731689,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914619,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nfMwNlsT02tpfBUzVDpz8_-37.241501_174.731689@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"70c6e37b90502701b50b8a2c39c6f4c5",
+    "wof:geomhash":"03c6876a7fcb0516b4e0002f5e1004b8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914619,
+            "region_id":85687243,
             "venue_id":202754513
         }
     ],
     "wof:id":202754513,
-    "wof:lastmodified":1473798720,
+    "wof:lastmodified":1496776142,
     "wof:name":"Waiuku Estuary Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

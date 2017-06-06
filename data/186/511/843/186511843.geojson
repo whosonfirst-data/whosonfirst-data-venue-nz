@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.739944,-36.856621,174.739944,-36.856621",
     "geom:latitude":-36.856621,
     "geom:longitude":174.739944,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85773127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0C3T6ipfG0OuHIGmSdh3rl_-36.856621_174.739944@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a746b73c37427c6f0b8cfc2428142e8b",
+    "wof:geomhash":"59e8f7a7385f99c05eaf852b6c2cbd08",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773127,
+            "region_id":85687243,
             "venue_id":186511843
         }
     ],
     "wof:id":186511843,
-    "wof:lastmodified":1473798763,
+    "wof:lastmodified":1496777114,
     "wof:name":"Concept Beauty Therapy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

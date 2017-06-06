@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.761017,-36.884045,174.761017,-36.884045",
     "geom:latitude":-36.884045,
     "geom:longitude":174.761017,
@@ -23,29 +24,43 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778855,
+        85782453
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0N2BNqlHyOAAGyqynWgskQ_-36.884045_174.761017@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ab703d5e399dd18b103bdc8219a48466",
+    "wof:geomhash":"ab345402cfbc92ed9068af941809cf7a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778855,
+            "region_id":85687243,
+            "venue_id":186091571
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85782453,
+            "region_id":85687243,
             "venue_id":186091571
         }
     ],
     "wof:id":186091571,
-    "wof:lastmodified":1473798666,
+    "wof:lastmodified":1496775393,
     "wof:name":"Mandeno Electronic Equipment Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.20488,-38.080082,176.20488,-38.080082",
     "geom:latitude":-38.080082,
     "geom:longitude":176.20488,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914951,
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5If518UHUXRVXNLDknIWiS_-38.080082_176.204880@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"db8531b67a14b6c3b46180ca5aeefbc2",
+    "wof:geomhash":"ef4a9ab4445948db3eed75de5fea2477",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914951,
+            "region_id":85687175,
             "venue_id":202391367
         }
     ],
     "wof:id":202391367,
-    "wof:lastmodified":1473798566,
+    "wof:lastmodified":1496777628,
     "wof:name":"Emergency Management System Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

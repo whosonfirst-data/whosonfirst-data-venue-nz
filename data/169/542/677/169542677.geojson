@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.967926,-42.711647,170.967926,-42.711647",
     "geom:latitude":-42.711647,
     "geom:longitude":170.967926,
@@ -23,27 +24,30 @@
     "sg:province":"West Coast",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101915183,
+        102079363
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nyz7HITsNn2DXeDjXSKGR_-42.711647_170.967926@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1271571c965acdb920ee507b3a299a0a",
+    "wof:geomhash":"c41df48e38b00317ddda8fd5de7fd1b7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":101915183,
+            "region_id":85687165,
             "venue_id":169542677
         }
     ],
     "wof:id":169542677,
-    "wof:lastmodified":1473798565,
+    "wof:lastmodified":1496776619,
     "wof:name":"Piercy Tracie - Goldsmith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

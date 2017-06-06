@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.781265,-38.049763,175.781265,-38.049763",
     "geom:latitude":-38.049763,
     "geom:longitude":175.781265,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915689,
+        102079277
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KZUEU75np725eyhB4wMVV_-38.049763_175.781265@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"37c0c117bbf6be9464825cce928546ee",
+    "wof:geomhash":"3dc6be84d93a845a1a27bfaaab014b48",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":101915689,
+            "region_id":85687229,
             "venue_id":185917719
         }
     ],
     "wof:id":185917719,
-    "wof:lastmodified":1473798644,
+    "wof:lastmodified":1496776822,
     "wof:name":"Central Motors (1991)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.82756,-39.623528,176.82756,-39.623528",
     "geom:latitude":-39.623528,
     "geom:longitude":176.82756,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914313,
+        102079329,
+        85781711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hLkb3c6Df5NYrzaGbrKMu_-39.623528_176.827560@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a018900d49e0d1717dc75470c8644226",
+    "wof:geomhash":"f82b583896274e4a38c95f5c72ea5f2d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914313,
+            "neighbourhood_id":85781711,
+            "region_id":85687189,
             "venue_id":186149333
         }
     ],
     "wof:id":186149333,
-    "wof:lastmodified":1473798662,
+    "wof:lastmodified":1496775848,
     "wof:name":"David Robertson Sheetmetals Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

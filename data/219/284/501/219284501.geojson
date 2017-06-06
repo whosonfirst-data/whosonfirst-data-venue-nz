@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.764099,-36.630772,174.764099,-36.630772",
     "geom:latitude":-36.630772,
     "geom:longitude":174.764099,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914559,
+        102079403,
         85781689
     ],
     "wof:breaches":[],
@@ -41,20 +45,20 @@
         "sg:id":"SG_4uhMvsYwAKQQGLesZnHKh5_-36.630772_174.764099@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d12261301cd1bc033e1ae40c97bb4dcb",
+    "wof:geomhash":"b140f96c0dad72c53893931af810273e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914559,
             "neighbourhood_id":85781689,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":219284501
         }
     ],
     "wof:id":219284501,
-    "wof:lastmodified":1473798666,
+    "wof:lastmodified":1496776111,
     "wof:name":"Bayview Manly Quality Bed & Breakfast",
     "wof:parent_id":85781689,
     "wof:placetype":"venue",

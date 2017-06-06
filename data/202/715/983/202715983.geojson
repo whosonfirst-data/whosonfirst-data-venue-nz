@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.742126,-36.739704,174.742126,-36.739704",
     "geom:latitude":-36.739704,
     "geom:longitude":174.742126,
@@ -32,29 +33,34 @@
     "sg:website":"http://www.wrightsoutdoor.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778477
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UzK5bSJXMDMATkg5ST5nv_-36.739704_174.742126@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bc5483b8b090e7ddfc2e658976f1a096",
+    "wof:geomhash":"77c70966ce0b7ad826c8cb1f1f26bd74",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778477,
+            "region_id":85687243,
             "venue_id":202715983
         }
     ],
     "wof:id":202715983,
-    "wof:lastmodified":1473798724,
+    "wof:lastmodified":1496777104,
     "wof:name":"Wrights Outdoor Equipment Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

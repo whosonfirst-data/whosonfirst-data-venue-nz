@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.659943,-36.929684,174.659943,-36.929684",
     "geom:latitude":-36.929684,
     "geom:longitude":174.659943,
@@ -23,29 +24,31 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85779015,
+        102191583,
+        85633345,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7S0XOnCF9i97QwHoumfwlE_-36.929684_174.659943@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"79e8375dc0ba0ff1904ad11bac50a713",
+    "wof:geomhash":"2bc6d0573b95cc66e3476db6754fe35e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85779015,
+            "region_id":85687243,
             "venue_id":219237103
         }
     ],
     "wof:id":219237103,
-    "wof:lastmodified":1473798662,
+    "wof:lastmodified":1496775468,
     "wof:name":"Cold Freight Xpress",
-    "wof:parent_id":-1,
+    "wof:parent_id":85779015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

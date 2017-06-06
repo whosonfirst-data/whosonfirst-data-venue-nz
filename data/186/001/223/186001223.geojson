@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.733871,-43.525589,172.733871,-43.525589",
     "geom:latitude":-43.525589,
     "geom:longitude":172.733871,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85773047
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mJDJTY9SLXFfJSEpni1zR_-43.525589_172.733871@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"027e3a3cd585ee33dc4c91a3b93bd5bc",
+    "wof:geomhash":"f24e3abd7aff70a4587a60c75adeed04",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85773047,
+            "region_id":85687179,
             "venue_id":186001223
         }
     ],
     "wof:id":186001223,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496776049,
     "wof:name":"House David JP",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

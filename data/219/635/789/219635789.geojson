@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.785263,-38.056492,175.785263,-38.056492",
     "geom:latitude":-38.056492,
     "geom:longitude":175.785263,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-883 7041",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915689,
+        102079277
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rB7UNjC4Q5qkLnM3l3V1u_-38.056492_175.785263@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bdfd5a5940ef770d787c447c2da08b5e",
+    "wof:geomhash":"1c29d745df8ec047fc5bdf7233dd474c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":101915689,
+            "region_id":85687229,
             "venue_id":219635789
         }
     ],
     "wof:id":219635789,
-    "wof:lastmodified":1473798766,
+    "wof:lastmodified":1496776824,
     "wof:name":"Putaruru Partsworld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.578766,-40.362041,175.578766,-40.362041",
     "geom:latitude":-40.362041,
     "geom:longitude":175.578766,
@@ -35,9 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780841
     ],
     "wof:breaches":[],
@@ -45,20 +48,20 @@
         "sg:id":"SG_0Y1XHvQdGbV1VYDDxKuB3E_-40.362041_175.578766@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ce0bb25b664ca5df2551d0f12b93aa96",
+    "wof:geomhash":"b223934f2647a5a3cfd0c6708b48f9dc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780841,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":186642755
         }
     ],
     "wof:id":186642755,
-    "wof:lastmodified":1473798773,
+    "wof:lastmodified":1496775739,
     "wof:name":"Well Healed",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",

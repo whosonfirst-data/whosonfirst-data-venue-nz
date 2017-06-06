@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.950424,-41.517277,173.950424,-41.517277",
     "geom:latitude":-41.517277,
     "geom:longitude":173.950424,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        102079353,
+        85782355
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GCRV5vRBeXs7siLEqf0tS_-41.517277_173.950424@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7183079f91b544e20473355ae7621dd4",
+    "wof:geomhash":"8d33e18ae7c09f4834ce02723f528d0b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782355,
+            "region_id":85687185,
             "venue_id":186518783
         }
     ],
     "wof:id":186518783,
-    "wof:lastmodified":1473798763,
+    "wof:lastmodified":1496776834,
     "wof:name":"The Beauty Room",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

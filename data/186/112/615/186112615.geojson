@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.60437,-43.560154,172.60437,-43.560154",
     "geom:latitude":-43.560154,
     "geom:longitude":172.60437,
@@ -22,29 +23,34 @@
     "sg:phone":"+64 800 427 733",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778369
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75LKHL29TGoS293jWXbQRW_-43.560154_172.604370@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"620865ff9a41d8c7c92475717aced692",
+    "wof:geomhash":"0b4a5d870f3246fdc4df9d6be5355aa5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778369,
+            "region_id":85687179,
             "venue_id":186112615
         }
     ],
     "wof:id":186112615,
-    "wof:lastmodified":1473798666,
+    "wof:lastmodified":1496776087,
     "wof:name":"Canterbury Gas Refills",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

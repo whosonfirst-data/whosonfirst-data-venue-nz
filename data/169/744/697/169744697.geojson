@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.951019,-41.206837,174.951019,-41.206837",
     "geom:latitude":-41.206837,
     "geom:longitude":174.951019,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914319,
+        102079337,
+        85778137
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5facNTnIjyGIKaOATanCkH_-41.206837_174.951019@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"21e1bfd8e12b3b5cac57a7082247c41e",
+    "wof:geomhash":"a1383f9c0d98bf66a7c64688fc959073",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914319,
+            "neighbourhood_id":85778137,
+            "region_id":85687233,
             "venue_id":169744697
         }
     ],
     "wof:id":169744697,
-    "wof:lastmodified":1473798622,
+    "wof:lastmodified":1496775855,
     "wof:name":"Seddon St Four Square",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

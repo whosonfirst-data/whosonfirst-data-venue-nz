@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.923157,-41.208508,174.923157,-41.208508",
     "geom:latitude":-41.208508,
     "geom:longitude":174.923157,
@@ -23,29 +24,33 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079337,
+        85782435
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sPe5uWl35yFWgFUY6Fk2e_-41.208508_174.923157@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5dc7edfd2f579f476f68648aa84295a5",
+    "wof:geomhash":"177d40eebe552d22fd2592a60edd35bb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782435,
+            "region_id":85687233,
             "venue_id":185722963
         }
     ],
     "wof:id":185722963,
-    "wof:lastmodified":1473798602,
+    "wof:lastmodified":1496775857,
     "wof:name":"Magdalena Darby",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

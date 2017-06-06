@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.347565,-46.370014,168.347565,-46.370014",
     "geom:latitude":-46.370014,
     "geom:longitude":168.347565,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dcLJCCJBNa5qWgPxNc2OW_-46.370014_168.347565@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6a45d6e212f0e30d90c0e5a2064aa8d8",
+    "wof:geomhash":"e6c2eeb179b577da7c19da432d4edcf8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":219968675
         }
     ],
     "wof:id":219968675,
-    "wof:lastmodified":1473798796,
+    "wof:lastmodified":1496776714,
     "wof:name":"Combined Rural Traders Society Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

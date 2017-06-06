@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.063499,41.210743,-73.063499,41.210743",
     "geom:latitude":41.210743,
     "geom:longitude":-73.063499,
@@ -23,11 +24,13 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85820241,
+        102191575,
+        404495783,
         85633793,
         85930905,
         102086923,
-        85820241
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,10 @@
     "wof:geomhash":"0d9361ca3b2e51dc2d1d2616b4e54601",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086923,
+            "localadmin_id":404495783,
             "locality_id":85930905,
             "neighbourhood_id":85820241,
             "region_id":85688629,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":202505455,
-    "wof:lastmodified":1473798689,
+    "wof:lastmodified":1491932092,
     "wof:name":"Stewart Dr Glenn;",
     "wof:parent_id":85820241,
     "wof:placetype":"venue",

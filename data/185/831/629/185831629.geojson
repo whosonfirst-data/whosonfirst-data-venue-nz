@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.605591,-36.831253,174.605591,-36.831253",
     "geom:latitude":-36.831253,
     "geom:longitude":174.605591,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778999
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lkfZb1WRn2rSp9xyISNAX_-36.831253_174.605591@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"be7d3b7a235a454f815dd81a45f5fd9d",
+    "wof:geomhash":"7e6d625ac185403a47631c31132d17de",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778999,
+            "region_id":85687243,
             "venue_id":185831629
         }
     ],
     "wof:id":185831629,
-    "wof:lastmodified":1473798629,
+    "wof:lastmodified":1496777157,
     "wof:name":"Carroll Margaret",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

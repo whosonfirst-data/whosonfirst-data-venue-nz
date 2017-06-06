@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.971313,-37.935833,176.971313,-37.935833",
     "geom:latitude":-37.935833,
     "geom:longitude":176.971313,
@@ -23,27 +24,30 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101917623,
+        102079291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BQQuGiw0jER9Y342qonxs_-37.935833_176.971313@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3c2cc1900ed3c7a04d87c4d2acd89f83",
+    "wof:geomhash":"eec79b26da82d30c113eade3feff7c6a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
+            "locality_id":101917623,
+            "region_id":85687175,
             "venue_id":202526153
         }
     ],
     "wof:id":202526153,
-    "wof:lastmodified":1473798686,
+    "wof:lastmodified":1496776973,
     "wof:name":"Groothoff D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

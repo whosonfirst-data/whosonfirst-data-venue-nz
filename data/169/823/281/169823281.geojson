@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.865097,-36.977512,174.865097,-36.977512",
     "geom:latitude":-36.977512,
     "geom:longitude":174.865097,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781077
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_658GoZ4Bz1hGzuvEcDDCzD_-36.977512_174.865097@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"82910b31e92b4ee8b78253c56fecde28",
+    "wof:geomhash":"0c1839f4dfa186d03eba6c70af37f7bb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781077,
+            "region_id":85687243,
             "venue_id":169823281
         }
     ],
     "wof:id":169823281,
-    "wof:lastmodified":1473798640,
+    "wof:lastmodified":1496775556,
     "wof:name":"Qualsport Numbering Services (Div of Quality Sport Ltd)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.758347,-36.757889,174.758347,-36.757889",
     "geom:latitude":-36.757889,
     "geom:longitude":174.758347,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85772867
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PHtipAhpOEoXaz8Mr6vJT_-36.757889_174.758347@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"07b4f1cfcf9c5a9e8e656b56098c217e",
+    "wof:geomhash":"05425f6cbd427aed1e3973a9fa96fbf5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772867,
+            "region_id":85687243,
             "venue_id":169591025
         }
     ],
     "wof:id":169591025,
-    "wof:lastmodified":1473798592,
+    "wof:lastmodified":1496775606,
     "wof:name":"Millennium Batteries Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

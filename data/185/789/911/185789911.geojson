@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.987991,-40.92371,174.987991,-40.92371",
     "geom:latitude":-40.92371,
     "geom:longitude":174.987991,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ULaTsDQwENRt55ppzlUGf_-40.923710_174.987991@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d6e4cbde4c0186066166b78fddb0fbd4",
+    "wof:geomhash":"d052fa0cd1feaf615fb70c17c9dfbfd2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":185789911
         }
     ],
     "wof:id":185789911,
-    "wof:lastmodified":1473798623,
+    "wof:lastmodified":1496776187,
     "wof:name":"Kapiti Arts & Crafts Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

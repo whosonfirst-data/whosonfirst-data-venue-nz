@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.044632,-40.877647,175.044632,-40.877647",
     "geom:latitude":-40.877647,
     "geom:longitude":175.044632,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 272 412 151",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914637,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BO86lKtlBtmk75Vi5CTQS_-40.877647_175.044632@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fc2b5b34e9f2682cf13018c4dc958eb4",
+    "wof:geomhash":"eda6eb628ce31005ee21cc5c6c7ecb4a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914637,
+            "region_id":85687233,
             "venue_id":219190031
         }
     ],
     "wof:id":219190031,
-    "wof:lastmodified":1473798612,
+    "wof:lastmodified":1496776201,
     "wof:name":"Kapiti Shuttles (2002)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.827759,-39.627998,176.827759,-39.627998",
     "geom:latitude":-39.627998,
     "geom:longitude":176.827759,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914313,
+        102079329,
+        85781711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dbyK8crr9SVppprhb9xWE_-39.627998_176.827759@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8133d09ee890360252c5a345604ae688",
+    "wof:geomhash":"1ffdccc56bc0f9f739a424b4e413571d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914313,
+            "neighbourhood_id":85781711,
+            "region_id":85687189,
             "venue_id":186562929
         }
     ],
     "wof:id":186562929,
-    "wof:lastmodified":1473798766,
+    "wof:lastmodified":1496775848,
     "wof:name":"The Hair Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

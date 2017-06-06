@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.755875,-40.287991,175.755875,-40.287991",
     "geom:latitude":-40.287991,
     "geom:longitude":175.755875,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101915881,
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33fgbxri4rF7huoYsf0rhK_-40.287991_175.755875@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f31cd45f450acca91606f2257ae2ff11",
+    "wof:geomhash":"64828c7ca9937a11a5a468d0b4b1a41f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101915881,
+            "region_id":85687251,
             "venue_id":186104067
         }
     ],
     "wof:id":186104067,
-    "wof:lastmodified":1473798700,
+    "wof:lastmodified":1496776857,
     "wof:name":"Hall & Telford Sawmill & Retail Yard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

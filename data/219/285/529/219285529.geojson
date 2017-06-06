@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.789688,-41.324631,174.789688,-41.324631",
     "geom:latitude":-41.324631,
     "geom:longitude":174.789688,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85778453
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_2L8q07UheSdD795A64UkYn_-41.324631_174.789688@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b6a02323267c50dd76b4c09f906caab2",
+    "wof:geomhash":"09d6a12eb6125fc670ebf917d7758f57",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85778453,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":219285529
         }
     ],
     "wof:id":219285529,
-    "wof:lastmodified":1473798664,
+    "wof:lastmodified":1496775826,
     "wof:name":"Buckley Road Homestay B & B",
     "wof:parent_id":85778453,
     "wof:placetype":"venue",

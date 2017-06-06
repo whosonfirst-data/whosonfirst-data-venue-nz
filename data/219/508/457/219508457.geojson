@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.321762,-35.7183,174.321762,-35.7183",
     "geom:latitude":-35.7183,
     "geom:longitude":174.321762,
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        101914901,
+        101914253,
+        102079257,
         85780991
     ],
     "wof:breaches":[],
@@ -41,20 +44,20 @@
         "sg:id":"SG_0ULjGlc9M6LIJ2h34yLefo_-35.718300_174.321762@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5bac87d96976b118d9fe85d4c036db73",
+    "wof:geomhash":"86650ce2beb2f03c6607c2a0ee57b363",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
+            "county_id":102079257,
+            "locality_id":101914253,
             "neighbourhood_id":85780991,
-            "region_id":-1,
+            "region_id":85687149,
             "venue_id":219508457
         }
     ],
     "wof:id":219508457,
-    "wof:lastmodified":1473798726,
+    "wof:lastmodified":1496775338,
     "wof:name":"Regent Training Centre Ltd",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",

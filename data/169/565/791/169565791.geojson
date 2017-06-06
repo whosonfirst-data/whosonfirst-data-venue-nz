@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.736908,-36.855373,174.736908,-36.855373",
     "geom:latitude":-36.855373,
     "geom:longitude":174.736908,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85773127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_559wkjQgRMiZVVia8R5Vvz_-36.855373_174.736908@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3ff871aecd544809ac0e7ea2bfb6b562",
+    "wof:geomhash":"552969f0ac47b72e1033b4a713a0fece",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773127,
+            "region_id":85687243,
             "venue_id":169565791
         }
     ],
     "wof:id":169565791,
-    "wof:lastmodified":1473798576,
+    "wof:lastmodified":1496777102,
     "wof:name":"The Potted Plant Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

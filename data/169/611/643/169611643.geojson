@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.738785,-41.284267,174.738785,-41.284267",
     "geom:latitude":-41.284267,
     "geom:longitude":174.738785,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37Vm7acPfB4LS5tCZuezE0_-41.284267_174.738785@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d9cc93a0d6b57d224613a489d59eed8b",
+    "wof:geomhash":"7e8bc76638cd7f36ab52364334874c98",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772989,
+            "region_id":85687233,
             "venue_id":169611643
         }
     ],
     "wof:id":169611643,
-    "wof:lastmodified":1473798604,
+    "wof:lastmodified":1496775809,
     "wof:name":"Karori Mall Lotto & Books",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

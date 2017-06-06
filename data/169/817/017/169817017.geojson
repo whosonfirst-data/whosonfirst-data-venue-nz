@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.803284,-36.602524,174.803284,-36.602524",
     "geom:latitude":-36.602524,
     "geom:longitude":174.803284,
@@ -22,29 +23,34 @@
     "sg:phone":"+64 9-424 0505",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914559,
+        102079403,
+        85782001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yJ3UXSQN4Nnt2jbWnkfqV_-36.602524_174.803284@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b47ed43e64ba0d95b622169f9c45c381",
+    "wof:geomhash":"2e432f0b1fe0e4a1827852f0605e76b9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914559,
+            "neighbourhood_id":85782001,
+            "region_id":85687243,
             "venue_id":169817017
         }
     ],
     "wof:id":169817017,
-    "wof:lastmodified":1473798638,
+    "wof:lastmodified":1496776108,
     "wof:name":"Stirling Sports",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

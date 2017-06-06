@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.801056,-41.321198,174.801056,-41.321198",
     "geom:latitude":-41.321198,
     "geom:longitude":174.801056,
@@ -23,29 +24,33 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079339,
+        85773001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gUB9G3DQXhlwHzgu5z6CR_-41.321198_174.801056@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"caf851fedee98135e8bf3fb1afedf2a5",
+    "wof:geomhash":"9e277ce19c4c34433c2822a61f5ca3a7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85773001,
+            "region_id":85687233,
             "venue_id":185859807
         }
     ],
     "wof:id":185859807,
-    "wof:lastmodified":1473798628,
+    "wof:lastmodified":1496775811,
     "wof:name":"Wellington Aero Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.469681,-45.907654,170.469681,-45.907654",
     "geom:latitude":-45.907654,
     "geom:longitude":170.469681,
@@ -23,29 +24,34 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85781451
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qUexlsrTTCgRsOTqVNjvr_-45.907654_170.469681@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"92229ba563dc19aad535039d12cb1a5e",
+    "wof:geomhash":"9cd65af593acf0ea2548cbbdeb60063d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85781451,
+            "region_id":85687201,
             "venue_id":219228945
         }
     ],
     "wof:id":219228945,
-    "wof:lastmodified":1473798636,
+    "wof:lastmodified":1496775771,
     "wof:name":"Southmove",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

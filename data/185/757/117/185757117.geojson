@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.879028,-39.672005,176.879028,-39.672005",
     "geom:latitude":-39.672005,
     "geom:longitude":176.879028,
@@ -23,27 +24,30 @@
     "sg:province":"Hawke's Bay",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914661,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IYKfj6iuOu4ky2C44R6Sx_-39.672005_176.879028@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ab0c687959c6865ba4d9e975a835f2ad",
+    "wof:geomhash":"10c32b0fdaf06346601e8bcd517f7286",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914661,
+            "region_id":85687189,
             "venue_id":185757117
         }
     ],
     "wof:id":185757117,
-    "wof:lastmodified":1473798608,
+    "wof:lastmodified":1496776238,
     "wof:name":"Havelock North Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

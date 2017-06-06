@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.782074,-36.920845,174.782074,-36.920845",
     "geom:latitude":-36.920845,
     "geom:longitude":174.782074,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782479
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qq0OYfhYTwihW0xzrC9HN_-36.920845_174.782074@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2212db1d805c7f978326b88903cae82c",
+    "wof:geomhash":"64a531722cfe61c18f216b909c7feb03",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782479,
+            "region_id":85687243,
             "venue_id":219267301
         }
     ],
     "wof:id":219267301,
-    "wof:lastmodified":1473798701,
+    "wof:lastmodified":1496777109,
     "wof:name":"Barbaree Lodge",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

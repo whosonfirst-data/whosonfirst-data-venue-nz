@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.782471,-36.884392,174.782471,-36.884392",
     "geom:latitude":-36.884392,
     "geom:longitude":174.782471,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cWwlIGo1cAT16btlwX533_-36.884392_174.782471@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7dd8916c337b07517895aa21c304e8ad",
+    "wof:geomhash":"2851a45807b3376457048f73efe5d7ce",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782389,
+            "region_id":85687243,
             "venue_id":202741385
         }
     ],
     "wof:id":202741385,
-    "wof:lastmodified":1473798719,
+    "wof:lastmodified":1496775625,
     "wof:name":"Belhaven Rest Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

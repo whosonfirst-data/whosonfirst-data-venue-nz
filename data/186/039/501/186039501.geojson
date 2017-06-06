@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.744034,-36.738945,174.744034,-36.738945",
     "geom:latitude":-36.738945,
     "geom:longitude":174.744034,
@@ -31,29 +32,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778477
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LXbBTJFEmsttzfPGrZ5TH_-36.738945_174.744034@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"47d5ec9f8002b314e4f6643ef7d9f566",
+    "wof:geomhash":"361cfbb64557c3143d8bec2cc4d5a31b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778477,
+            "region_id":85687243,
             "venue_id":186039501
         }
     ],
     "wof:id":186039501,
-    "wof:lastmodified":1473798594,
+    "wof:lastmodified":1496777104,
     "wof:name":"Tollesbury Enterprises Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

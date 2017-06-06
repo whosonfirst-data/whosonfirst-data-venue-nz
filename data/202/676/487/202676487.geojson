@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.609131,-40.34906,175.609131,-40.34906",
     "geom:latitude":-40.34906,
     "geom:longitude":175.609131,
@@ -23,9 +24,11 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -33,20 +36,20 @@
         "sg:id":"SG_17FcOFxi2iDn9paf2hThQw_-40.349060_175.609131@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"49798c4716c24e95ed996056a632af82",
+    "wof:geomhash":"7b49ecdcd1db91f2a5db43bb8a259e91",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":202676487
         }
     ],
     "wof:id":202676487,
-    "wof:lastmodified":1473798700,
+    "wof:lastmodified":1496775741,
     "wof:name":"SchoolCare",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

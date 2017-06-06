@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.353027,-45.876137,170.353027,-45.876137",
     "geom:latitude":-45.876137,
     "geom:longitude":170.353027,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914505,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wb2uibgBModXNGKXlxNIM_-45.876137_170.353027@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"163942a80d4234bcea9ebd3c6a98eb1a",
+    "wof:geomhash":"bdbaf96a160053f7f42325fdc967702e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914505,
+            "region_id":85687201,
             "venue_id":202728011
         }
     ],
     "wof:id":202728011,
-    "wof:lastmodified":1473798715,
+    "wof:lastmodified":1496776003,
     "wof:name":"Home Support Services Otago",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

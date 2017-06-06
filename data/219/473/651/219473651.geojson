@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.48436,-45.895054,170.48436,-45.895054",
     "geom:latitude":-45.895054,
     "geom:longitude":170.48436,
@@ -23,29 +24,34 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85772879
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hXuezICCDqAGgrrSkuGPX_-45.895054_170.484360@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a5aae4baf18550d7d8ea71eb07da0b72",
+    "wof:geomhash":"68eac8e92ed686022553eb0400b64c5c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85772879,
+            "region_id":85687201,
             "venue_id":219473651
         }
     ],
     "wof:id":219473651,
-    "wof:lastmodified":1473798713,
+    "wof:lastmodified":1496775766,
     "wof:name":"Caversham Primary School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

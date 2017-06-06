@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.613937,-36.852001,174.613937,-36.852001",
     "geom:latitude":-36.852001,
     "geom:longitude":174.613937,
@@ -32,29 +33,33 @@
     "sg:website":"http://www.yellowpages.co.nz/pages/218532888/dp56003.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781087
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62IYQwC2swS3s9FXmosWan_-36.852001_174.613937@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3660379618ab566da7dd6cc9ff5bd8e8",
+    "wof:geomhash":"47300c75782be3e3ee145f6cf63029aa",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781087,
+            "region_id":85687243,
             "venue_id":186498337
         }
     ],
     "wof:id":186498337,
-    "wof:lastmodified":1473798770,
+    "wof:lastmodified":1496775564,
     "wof:name":"Just Tables",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

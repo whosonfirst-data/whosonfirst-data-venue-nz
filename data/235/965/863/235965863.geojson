@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.518433,-45.854824,170.518433,-45.854824",
     "geom:latitude":-45.854824,
     "geom:longitude":170.518433,
@@ -33,9 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
-        101914759,
+        102079387,
         85778263,
         85778255
     ],
@@ -44,31 +46,31 @@
         "sg:id":"SG_2vAOULDBm5fUKVyX2GmZSz_-45.854824_170.518433@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"74c409bff4376b935a04af0191ad0531",
+    "wof:geomhash":"6f408b1f029dbcfc9e56bdc20dab66b1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914759,
+            "county_id":102079387,
+            "locality_id":-1,
             "neighbourhood_id":85778263,
-            "region_id":-1,
+            "region_id":85687201,
             "venue_id":235965863
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914759,
+            "county_id":102079387,
+            "locality_id":-1,
             "neighbourhood_id":85778255,
-            "region_id":-1,
+            "region_id":85687201,
             "venue_id":235965863
         }
     ],
     "wof:id":235965863,
-    "wof:lastmodified":1473798576,
+    "wof:lastmodified":1496775762,
     "wof:name":"Inch Bar",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

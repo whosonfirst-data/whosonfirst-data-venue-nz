@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.370041,-46.422722,168.370041,-46.422722",
     "geom:latitude":-46.422722,
     "geom:longitude":168.370041,
@@ -23,29 +24,33 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781463
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AvYJ6sB1ck4fwKCFL9QWR_-46.422722_168.370041@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0fdb83326367d89f50e27b5575253250",
+    "wof:geomhash":"66cd676c54ac294ad65668a017f0743f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781463,
+            "region_id":85687211,
             "venue_id":169652621
         }
     ],
     "wof:id":169652621,
-    "wof:lastmodified":1473798610,
+    "wof:lastmodified":1496776720,
     "wof:name":"Doll's Hospital",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

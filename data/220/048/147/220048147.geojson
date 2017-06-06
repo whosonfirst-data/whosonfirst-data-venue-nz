@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.390335,-38.996754,174.390335,-38.996754",
     "geom:latitude":-38.996754,
     "geom:longitude":174.390335,
@@ -30,27 +31,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687195,
+        102191583,
+        85633345,
+        101916361,
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qOJJ8npE5ZyOH83JHov33_-38.996754_174.390335@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6be27d75dd1ed08a4bbb1411f0757a8c",
+    "wof:geomhash":"60455dad2e87a61d6f02efd01e495f72",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101916361,
+            "region_id":85687195,
             "venue_id":220048147
         }
     ],
     "wof:id":220048147,
-    "wof:lastmodified":1473798614,
+    "wof:lastmodified":1496776907,
     "wof:name":"White Cliffs Brewing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

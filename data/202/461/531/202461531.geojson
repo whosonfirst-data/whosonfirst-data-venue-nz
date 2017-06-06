@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.016891,-38.657784,178.016891,-38.657784",
     "geom:latitude":-38.657784,
     "geom:longitude":178.016891,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ntk7HHpAqziEIWZVfBcz4_-38.657784_178.016891@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"84bacf8daac3e576bc702e550e0de326",
+    "wof:geomhash":"6163f90f37200e9475518546fc718b4b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":202461531
         }
     ],
     "wof:id":202461531,
-    "wof:lastmodified":1473798682,
+    "wof:lastmodified":1496776126,
     "wof:name":"Gisborne Stewart Centre Trust",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

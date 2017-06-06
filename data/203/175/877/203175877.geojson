@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.403412,-45.897236,170.403412,-45.897236",
     "geom:latitude":-45.897236,
     "geom:longitude":170.403412,
@@ -31,27 +32,30 @@
     "sg:website":"http://www.tartansofnz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915369,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45da7siIKecZpB0Kb2EyNJ_-45.897236_170.403412@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ac39d16a0e69944b910bb68e2952c12e",
+    "wof:geomhash":"bc1454642b04b8ab33e01c703a0aeb7d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101915369,
+            "region_id":85687201,
             "venue_id":203175877
         }
     ],
     "wof:id":203175877,
-    "wof:lastmodified":1473798653,
+    "wof:lastmodified":1496776706,
     "wof:name":"Tartans Of New Zealand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

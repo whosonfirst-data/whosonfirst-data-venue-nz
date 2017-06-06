@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.755783,-41.297817,174.755783,-41.297817",
     "geom:latitude":-41.297817,
     "geom:longitude":174.755783,
@@ -23,9 +24,11 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85778463
     ],
     "wof:breaches":[],
@@ -33,20 +36,20 @@
         "sg:id":"SG_3Vx7libqryfvbgziqO0D7z_-41.297817_174.755783@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"893e4b50852c914327407a601d0229b7",
+    "wof:geomhash":"fa80b4e76f873659b853f8d37e218c5b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85778463,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":169764925
         }
     ],
     "wof:id":169764925,
-    "wof:lastmodified":1473798637,
+    "wof:lastmodified":1496775828,
     "wof:name":"Roadworks",
     "wof:parent_id":85778463,
     "wof:placetype":"venue",

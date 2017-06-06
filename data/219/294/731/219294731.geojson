@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.616165,-40.344208,175.616165,-40.344208",
     "geom:latitude":-40.344208,
     "geom:longitude":175.616165,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079307,
+        85781111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6299bWar7Z6RBYmS644Mjc_-40.344208_175.616165@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"18d4c358e7ee02318acb1d83a6ee8533",
+    "wof:geomhash":"c4ebde845ed5f373488f17fb8992ad29",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781111,
+            "region_id":85687251,
             "venue_id":219294731
         }
     ],
     "wof:id":219294731,
-    "wof:lastmodified":1473798678,
+    "wof:lastmodified":1496775738,
     "wof:name":"Plum Tree Lodge Bed & Breakfast",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.868378,-42.114098,171.868378,-42.114098",
     "geom:latitude":-42.114098,
     "geom:longitude":171.868378,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-732 8596",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101915213,
+        102079357
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Qw2ZDD7DZdJlHyV7NKSN0_-42.114098_171.868378@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c4633b13d4074c618a6ea216cac622be",
+    "wof:geomhash":"a4f9200bd7ca1333a3e11ecc8ed3e608",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":101915213,
+            "region_id":85687165,
             "venue_id":185770607
         }
     ],
     "wof:id":185770607,
-    "wof:lastmodified":1473798619,
+    "wof:lastmodified":1496776639,
     "wof:name":"Workingmen's Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

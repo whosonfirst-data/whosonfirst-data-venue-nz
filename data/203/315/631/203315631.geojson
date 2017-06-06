@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.072083,-40.881905,175.072083,-40.881905",
     "geom:latitude":-40.881905,
     "geom:longitude":175.072083,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914637,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0H4F04GUMhZky9MoKttKgk_-40.881905_175.072083@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8b9912f808752c6ea5bfd5f06faa1194",
+    "wof:geomhash":"f0a04b70abe221779d84745ca870d0d6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914637,
+            "region_id":85687233,
             "venue_id":203315631
         }
     ],
     "wof:id":203315631,
-    "wof:lastmodified":1473798686,
+    "wof:lastmodified":1496776193,
     "wof:name":"The Leather Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

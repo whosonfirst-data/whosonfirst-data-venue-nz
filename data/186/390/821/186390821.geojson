@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.192032,-44.384575,171.192032,-44.384575",
     "geom:latitude":-44.384575,
     "geom:longitude":171.192032,
@@ -23,27 +24,30 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dA9TccOGMtNnGc1ILZ5oF_-44.384575_171.192032@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"938c58e13f99992259fea8c22f151f1a",
+    "wof:geomhash":"31d71cbc3f2540bc9e0e670af39ae63e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "region_id":85687179,
             "venue_id":186390821
         }
     ],
     "wof:id":186390821,
-    "wof:lastmodified":1473798745,
+    "wof:lastmodified":1496776751,
     "wof:name":"Andrew Greenwood Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

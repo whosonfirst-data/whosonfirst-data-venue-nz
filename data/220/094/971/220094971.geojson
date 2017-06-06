@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.479706,-45.896172,170.479706,-45.896172",
     "geom:latitude":-45.896172,
     "geom:longitude":170.479706,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85772879
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fMjO9BQqIjn9B1nb6eC6w_-45.896172_170.479706@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"54e0ab3d878b2d552bbd8554b23b1ff7",
+    "wof:geomhash":"4bad57d26e1605f36de9e997099f84f0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85772879,
+            "region_id":85687201,
             "venue_id":220094971
         }
     ],
     "wof:id":220094971,
-    "wof:lastmodified":1473798606,
+    "wof:lastmodified":1496775772,
     "wof:name":"Caversham Bakery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

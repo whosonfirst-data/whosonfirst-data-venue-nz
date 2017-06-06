@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.965775,-37.961071,176.965775,-37.961071",
     "geom:latitude":-37.961071,
     "geom:longitude":176.965775,
@@ -23,29 +24,33 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079291,
+        85782901
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39Y3DjCxMjMXybRfKYHSec_-37.961071_176.965775@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5d53e39023ad32167249b76b04ee7b75",
+    "wof:geomhash":"c33a8b4af973b1aeafbbd7d8023d34fc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782901,
+            "region_id":85687175,
             "venue_id":202987295
         }
     ],
     "wof:id":202987295,
-    "wof:lastmodified":1473798761,
+    "wof:lastmodified":1496775892,
     "wof:name":"ABC Mowing Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

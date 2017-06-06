@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.965622,-45.102345,170.965622,-45.102345",
     "geom:latitude":-45.102345,
     "geom:longitude":170.965622,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UGkjCH0cdwKRlt3JAV4eP_-45.102345_170.965622@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2f96dc442981166e710b6706a053ad4b",
+    "wof:geomhash":"150c0804f52061d53a6d80a9ccf5f495",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":203107493
         }
     ],
     "wof:id":203107493,
-    "wof:lastmodified":1473798631,
+    "wof:lastmodified":1496776265,
     "wof:name":"Gary Speer Wedding Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

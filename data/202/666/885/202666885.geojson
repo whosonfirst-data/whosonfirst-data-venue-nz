@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.833191,-42.518784,172.833191,-42.518784",
     "geom:latitude":-42.518784,
     "geom:longitude":172.833191,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914953,
+        102079365
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nUtTGJyG7RcIA4zmPyLc2_-42.518784_172.833191@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ffa459d9d4da848ba4ff5e4343e2712f",
+    "wof:geomhash":"56d26fab8029099f7ceb0a5ea9e0bb35",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079365,
+            "locality_id":101914953,
+            "region_id":85687179,
             "venue_id":202666885
         }
     ],
     "wof:id":202666885,
-    "wof:lastmodified":1473798705,
+    "wof:lastmodified":1496776427,
     "wof:name":"J O'Donnell Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.708771,-37.539074,175.708771,-37.539074",
     "geom:latitude":-37.539074,
     "geom:longitude":175.708771,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-884 9650",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915341,
+        102079267
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K18WWJU82JlGBwTkUktYC_-37.539074_175.708771@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c52e38b78e1af5b3acef24f1db11a21d",
+    "wof:geomhash":"b8dc1abf1f529b4641a1d032e8772355",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101915341,
+            "region_id":85687229,
             "venue_id":185619209
         }
     ],
     "wof:id":185619209,
-    "wof:lastmodified":1473798566,
+    "wof:lastmodified":1496776689,
     "wof:name":"Mike Walker - Artist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

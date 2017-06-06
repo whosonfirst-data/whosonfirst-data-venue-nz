@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.773514,-36.910019,174.773514,-36.910019",
     "geom:latitude":-36.910019,
     "geom:longitude":174.773514,
@@ -35,8 +36,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        102079403,
         85778583
     ],
     "wof:breaches":[],
@@ -49,15 +52,15 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85778583,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":219525533
         }
     ],
     "wof:id":219525533,
-    "wof:lastmodified":1473798728,
+    "wof:lastmodified":1491901951,
     "wof:name":"Classworks",
     "wof:parent_id":85778583,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.796951,-36.975994,174.796951,-36.975994",
     "geom:latitude":-36.975994,
     "geom:longitude":174.796951,
@@ -24,29 +25,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/paylessrentals/dp61043.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914267,
+        102079403,
+        85773023
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tRAVclSIQJSSImpAn3Fd9_-36.975994_174.796951@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7d0270ef05dd0e12d4a397acc4ef16be",
+    "wof:geomhash":"832ae03e6b6a4079aaa468fe314ff4c2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914267,
+            "neighbourhood_id":85773023,
+            "region_id":85687243,
             "venue_id":219584865
         }
     ],
     "wof:id":219584865,
-    "wof:lastmodified":1473798736,
+    "wof:lastmodified":1496775754,
     "wof:name":"Payle$$ Rentals",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

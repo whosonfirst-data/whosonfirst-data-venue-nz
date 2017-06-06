@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.62236,-40.370529,175.62236,-40.370529",
     "geom:latitude":-40.370529,
     "geom:longitude":175.62236,
@@ -34,9 +35,12 @@
     "sg:website":"http://www.yellowpages.co.nz/for/harringtons/dp32203.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
+        85780937,
         85780891
     ],
     "wof:breaches":[],
@@ -44,22 +48,31 @@
         "sg:id":"SG_3BGiqavwxsyuurHSM2MCHx_-40.370529_175.622360@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fe908857f20b35f9466fac9667a93097",
+    "wof:geomhash":"50e94b3ee9732223e62f35e067bd696c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85780937,
+            "region_id":85687251,
+            "venue_id":219339519
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780891,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":219339519
         }
     ],
     "wof:id":219339519,
-    "wof:lastmodified":1473798687,
+    "wof:lastmodified":1496775730,
     "wof:name":"Harringtons Motor Lodge",
-    "wof:parent_id":85780891,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

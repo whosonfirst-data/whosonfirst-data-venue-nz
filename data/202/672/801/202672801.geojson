@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.349472,-46.393555,168.349472,-46.393555",
     "geom:latitude":-46.393555,
     "geom:longitude":168.349472,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781431
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54TwROigRl6BiPMF4PFUna_-46.393555_168.349472@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ff53086f69b4557e0ceb6e9068549a96",
+    "wof:geomhash":"6b7eb6a695728f0bf78dc889481357f5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781431,
+            "region_id":85687211,
             "venue_id":202672801
         }
     ],
     "wof:id":202672801,
-    "wof:lastmodified":1473798703,
+    "wof:lastmodified":1496776718,
     "wof:name":"Stewart Graeme T",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.952682,-41.271816,174.952682,-41.271816",
     "geom:latitude":-41.271816,
     "geom:longitude":174.952682,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914357,
+        102079337,
+        85782517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66xNkfU8MXaXyGmI3heD5X_-41.271816_174.952682@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"63920a8ff042cfbe11f3f1b46c160274",
+    "wof:geomhash":"163fac83b066b4541e3c43f49354680e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914357,
+            "neighbourhood_id":85782517,
+            "region_id":85687233,
             "venue_id":202562543
         }
     ],
     "wof:id":202562543,
-    "wof:lastmodified":1473798693,
+    "wof:lastmodified":1496775911,
     "wof:name":"Wainuiomata Foot Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

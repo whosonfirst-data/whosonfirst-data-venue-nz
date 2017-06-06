@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.237122,-38.110779,176.237122,-38.110779",
     "geom:latitude":-38.110779,
     "geom:longitude":176.237122,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914629,
+        102079289,
+        85781825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hX7XxKfH6qJaEomyMDqFE_-38.110779_176.237122@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f34c7e799d95f75f1fbbed265dcc5409",
+    "wof:geomhash":"14a808a19e6c1c43f11194e89446893f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914629,
+            "neighbourhood_id":85781825,
+            "region_id":85687175,
             "venue_id":202758389
         }
     ],
     "wof:id":202758389,
-    "wof:lastmodified":1473798722,
+    "wof:lastmodified":1496776158,
     "wof:name":"Kawaha Point Manor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

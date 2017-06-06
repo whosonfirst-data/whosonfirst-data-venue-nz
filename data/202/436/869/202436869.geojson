@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.768768,-36.872829,174.768768,-36.872829",
     "geom:latitude":-36.872829,
     "geom:longitude":174.768768,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778841
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49nFJNp5IIvZO6ZCNbyAkk_-36.872829_174.768768@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9edb7a3ae5f4c2242262a2ab6891cb81",
+    "wof:geomhash":"780bc12f49f1a422d97f2e23e6bb4602",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778841,
+            "region_id":85687243,
             "venue_id":202436869
         }
     ],
     "wof:id":202436869,
-    "wof:lastmodified":1473798632,
+    "wof:lastmodified":1496775499,
     "wof:name":"Liese Groot-Alberts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

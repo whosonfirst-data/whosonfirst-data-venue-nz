@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.227585,-38.136436,176.227585,-38.136436",
     "geom:latitude":-38.136436,
     "geom:longitude":176.227585,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079289,
+        85781203
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZmfrvlTy1do7Qwv8lqLK2_-38.136436_176.227585@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ec3d4887a9a22ea53863a593da488eea",
+    "wof:geomhash":"dfa746bdb721c00cf1c1e6a62fc27060",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781203,
+            "region_id":85687175,
             "venue_id":202685275
         }
     ],
     "wof:id":202685275,
-    "wof:lastmodified":1473798705,
+    "wof:lastmodified":1496776156,
     "wof:name":"Amazing Place (Christian) Preschools & Day Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

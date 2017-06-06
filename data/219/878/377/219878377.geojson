@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.425369,-40.29261,175.425369,-40.29261",
     "geom:latitude":-40.29261,
     "geom:longitude":175.425369,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 6-324 8859",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101915329,
+        102079303
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JorA4DhhfdhaIt6ElD4y5_-40.292610_175.425369@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4e74540a3ac2b06e037c28aa3eac9712",
+    "wof:geomhash":"62f761425e9134ee410aa9a0eaca131a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":101915329,
+            "region_id":85687251,
             "venue_id":219878377
         }
     ],
     "wof:id":219878377,
-    "wof:lastmodified":1473798783,
+    "wof:lastmodified":1496776663,
     "wof:name":"Amey & Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

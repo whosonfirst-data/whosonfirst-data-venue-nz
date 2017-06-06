@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.712402,-45.486641,170.712402,-45.486641",
     "geom:latitude":-45.486641,
     "geom:longitude":170.712402,
@@ -30,27 +31,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915761,
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jcUXYnkfOkFHdu5WNaswN_-45.486641_170.712402@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"340f8355027b97f26b41a6ea8e92e890",
+    "wof:geomhash":"d96f14b2a8cb3af578581b6fb1456fe9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101915761,
+            "region_id":85687179,
             "venue_id":169538899
         }
     ],
     "wof:id":169538899,
-    "wof:lastmodified":1473798557,
+    "wof:lastmodified":1496776841,
     "wof:name":"Radio Puketapu",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

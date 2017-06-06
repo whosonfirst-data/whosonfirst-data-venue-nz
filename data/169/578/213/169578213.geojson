@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.23999,-36.958897,175.23999,-36.958897",
     "geom:latitude":-36.958897,
     "geom:longitude":175.23999,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101915961,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0i6zv6ZnoE8s0fOZaUAeJY_-36.958897_175.239990@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"81db345379f246eacb1a8d682ada25a1",
+    "wof:geomhash":"b319d06370aa23cff33bd6af078eaa69",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915961,
+            "region_id":85687243,
             "venue_id":169578213
         }
     ],
     "wof:id":169578213,
-    "wof:lastmodified":1473798590,
+    "wof:lastmodified":1496776865,
     "wof:name":"Visini A G Stamps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

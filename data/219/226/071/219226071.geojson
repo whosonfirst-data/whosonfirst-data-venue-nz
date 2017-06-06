@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.631638,-43.517654,172.631638,-43.517654",
     "geom:latitude":-43.517654,
     "geom:longitude":172.631638,
@@ -24,29 +25,34 @@
     "sg:website":"http://www.moveout.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85773167
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00mazEIhrQb2eUobJ3bt17_-43.517654_172.631638@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"63d9fe0856ae7429fcae4288eb6c3581",
+    "wof:geomhash":"8c630920dcc6fb9bcbac035ba6f19a38",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85773167,
+            "region_id":85687179,
             "venue_id":219226071
         }
     ],
     "wof:id":219226071,
-    "wof:lastmodified":1473798650,
+    "wof:lastmodified":1496776093,
     "wof:name":"G & H Removals",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

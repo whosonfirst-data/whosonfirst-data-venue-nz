@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.030777,-37.61095,175.030777,-37.61095",
     "geom:latitude":-37.61095,
     "geom:longitude":175.030777,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101917363,
+        102079265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0B4XoLOL6Q41vfai272aFb_-37.610950_175.030777@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f052389527dfa8d4411022550dc651a2",
+    "wof:geomhash":"13a3ee027d5cc8dee84da369105195f5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101917363,
+            "region_id":85687229,
             "venue_id":186105883
         }
     ],
     "wof:id":186105883,
-    "wof:lastmodified":1473798659,
+    "wof:lastmodified":1496776968,
     "wof:name":"Pukemiro Coal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

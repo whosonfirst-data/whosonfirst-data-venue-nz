@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.893799,-37.025131,174.893799,-37.025131",
     "geom:latitude":-37.025131,
     "geom:longitude":174.893799,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914625,
+        102079403,
+        85782445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ma2qrnVbg8Z5c6FUGmqpw_-37.025131_174.893799@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d3b27b094e74968ec66032f8df7b7b18",
+    "wof:geomhash":"aa1bfed8d6c37639e3911510f52444b4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914625,
+            "neighbourhood_id":85782445,
+            "region_id":85687243,
             "venue_id":220165563
         }
     ],
     "wof:id":220165563,
-    "wof:lastmodified":1473798637,
+    "wof:lastmodified":1496776151,
     "wof:name":"Mack's Fruit & Vegetable Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

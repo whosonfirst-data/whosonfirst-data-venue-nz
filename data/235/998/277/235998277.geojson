@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.762512,-41.289394,174.762512,-41.289394",
     "geom:latitude":-41.289394,
     "geom:longitude":174.762512,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772991
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sxqoQx6dTpBJJNyHHcBqN_-41.289394_174.762512@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9b95fe13aa88f23417e3176df7a19475",
+    "wof:geomhash":"c7fb936efd55efa2a7845b1f00f0ef57",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772991,
+            "region_id":85687233,
             "venue_id":235998277
         }
     ],
     "wof:id":235998277,
-    "wof:lastmodified":1473798583,
+    "wof:lastmodified":1496775805,
     "wof:name":"Red Tomatoes Pizzeria",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

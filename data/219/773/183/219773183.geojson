@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.978241,-37.959854,176.978241,-37.959854",
     "geom:latitude":-37.959854,
     "geom:longitude":176.978241,
@@ -23,29 +24,33 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079291,
+        85782901
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4S2xTSZYHXYYr0A22exG4w_-37.959854_176.978241@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"93c627eeeaa5164afade2da8c3f8b069",
+    "wof:geomhash":"7b2f327c889e5a3cdb72418d9a1fe7f4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782901,
+            "region_id":85687175,
             "venue_id":219773183
         }
     ],
     "wof:id":219773183,
-    "wof:lastmodified":1473798777,
+    "wof:lastmodified":1496775886,
     "wof:name":"Canvas & Trim Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

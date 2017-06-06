@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.781937,-38.045063,175.781937,-38.045063",
     "geom:latitude":-38.045063,
     "geom:longitude":175.781937,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-882 1310",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915689,
+        102079277
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uL3XTvQVgsXHr5x0pK47s_-38.045063_175.781937@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9ce5df322b3f4255ac14170ce9368441",
+    "wof:geomhash":"653f7150c4a57b3305e8c70850ea2cf5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":101915689,
+            "region_id":85687229,
             "venue_id":219922175
         }
     ],
     "wof:id":219922175,
-    "wof:lastmodified":1473798787,
+    "wof:lastmodified":1496776826,
     "wof:name":"Maber Motors Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

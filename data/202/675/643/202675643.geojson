@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.700241,-36.906826,174.700241,-36.906826",
     "geom:latitude":-36.906826,
     "geom:longitude":174.700241,
@@ -23,30 +24,43 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
+        102191583,
         85633345,
-        85779011
+        102079403,
+        85779011,
+        85778823
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xencW4zI6bn6GqezxuOeI_-36.906826_174.700241@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7ef1ecacc06d9886bc2c9de2b66723b2",
+    "wof:geomhash":"431a2c9e6163202175e8736ad8f388d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85779011,
-            "region_id":-1,
+            "region_id":85687243,
+            "venue_id":202675643
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85778823,
+            "region_id":85687243,
             "venue_id":202675643
         }
     ],
     "wof:id":202675643,
-    "wof:lastmodified":1473798707,
+    "wof:lastmodified":1496775542,
     "wof:name":"Kiwicare Pre School",
-    "wof:parent_id":85779011,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

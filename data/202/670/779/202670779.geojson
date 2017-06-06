@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.942688,-37.407562,175.942688,-37.407562",
     "geom:latitude":-37.407562,
     "geom:longitude":175.942688,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101915147,
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LX2Y4agPPs6SZ7ytnQtmr_-37.407562_175.942688@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f846b37adb23da81203da1f923bcc289",
+    "wof:geomhash":"263bcbe6768b5f9ac66601c83e96c96b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":101915147,
+            "region_id":85687175,
             "venue_id":202670779
         }
     ],
     "wof:id":202670779,
-    "wof:lastmodified":1473798702,
+    "wof:lastmodified":1496776579,
     "wof:name":"Pennell Brian & Shelley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

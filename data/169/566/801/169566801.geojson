@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.714874,-45.487808,170.714874,-45.487808",
     "geom:latitude":-45.487808,
     "geom:longitude":170.714874,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915761,
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cEchSBSIQIxlVCHZEbgbJ_-45.487808_170.714874@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"806e110e2c564ced238af8899a22696e",
+    "wof:geomhash":"d50e9d070c99a6f56957eb44599b146e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101915761,
+            "region_id":85687179,
             "venue_id":169566801
         }
     ],
     "wof:id":169566801,
-    "wof:lastmodified":1473798576,
+    "wof:lastmodified":1496776842,
     "wof:name":"Gemini Studio Gallery & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

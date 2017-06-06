@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.809402,-36.87825,174.809402,-36.87825",
     "geom:latitude":-36.87825,
     "geom:longitude":174.809402,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778833
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mM8OSlRfFidJpQXFArRTq_-36.878250_174.809402@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bc860842a1837097c5695a621fee7233",
+    "wof:geomhash":"fb847a57453ce51b8ad2b1f5c9c57aa1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778833,
+            "region_id":85687243,
             "venue_id":186556737
         }
     ],
     "wof:id":186556737,
-    "wof:lastmodified":1473798772,
+    "wof:lastmodified":1496775623,
     "wof:name":"Suzanne's Natural Sculptured Nails",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

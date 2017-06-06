@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.398666,-45.895485,170.398666,-45.895485",
     "geom:latitude":-45.895485,
     "geom:longitude":170.398666,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915369,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jtB5xc60nMH97Q4hENcsT_-45.895485_170.398666@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a5b31d34b0cc835f93d862e1b518ea94",
+    "wof:geomhash":"6e7d9467727650c52295ffe40df53355",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101915369,
+            "region_id":85687201,
             "venue_id":186514631
         }
     ],
     "wof:id":186514631,
-    "wof:lastmodified":1473798760,
+    "wof:lastmodified":1496776706,
     "wof:name":"Holistic Healing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

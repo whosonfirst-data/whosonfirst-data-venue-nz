@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.568039,-43.500519,172.568039,-43.500519",
     "geom:latitude":-43.500519,
     "geom:longitude":172.568039,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pTqi6Ia0Jn8AhmuL0kCVD_-43.500519_172.568039@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"aa7d2f52ac3e0965cfa2b3c8883e3481",
+    "wof:geomhash":"7a83d34a40abae3a237b69780c98c806",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778215,
+            "region_id":85687179,
             "venue_id":169554471
         }
     ],
     "wof:id":169554471,
-    "wof:lastmodified":1473798567,
+    "wof:lastmodified":1496776079,
     "wof:name":"Kahu Publishing Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

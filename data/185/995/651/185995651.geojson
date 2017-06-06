@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.571075,-43.508305,172.571075,-43.508305",
     "geom:latitude":-43.508305,
     "geom:longitude":172.571075,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZtHxhGwxjXwUihQEE9j4Y_-43.508305_172.571075@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"18b1aab70ca8474afe0182629cc266eb",
+    "wof:geomhash":"2b380c07abb2cc7e5d25df30890eb093",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778215,
+            "region_id":85687179,
             "venue_id":185995651
         }
     ],
     "wof:id":185995651,
-    "wof:lastmodified":1473798666,
+    "wof:lastmodified":1496776047,
     "wof:name":"Cargo Allan",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

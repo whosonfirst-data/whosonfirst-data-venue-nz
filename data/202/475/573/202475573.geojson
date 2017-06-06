@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.831284,-44.938557,168.831284,-44.938557",
     "geom:latitude":-44.938557,
     "geom:longitude":168.831284,
@@ -23,27 +24,30 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915303,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bC0QnZCM5tqolFUHTEUBp_-44.938557_168.831284@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e309a264da80aeb9e7905c61db053f02",
+    "wof:geomhash":"8a737c93b3e7f574de4aa1a9e2c57e5b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":101915303,
+            "region_id":85687201,
             "venue_id":202475573
         }
     ],
     "wof:id":202475573,
-    "wof:lastmodified":1473798680,
+    "wof:lastmodified":1496776657,
     "wof:name":"Arrowtown Pharmacy Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

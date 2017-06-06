@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.249237,-41.296108,173.249237,-41.296108",
     "geom:latitude":-41.296108,
     "geom:longitude":173.249237,
@@ -23,29 +24,33 @@
     "sg:province":"Nelson",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        102079351,
+        85781837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nRYBkLSn5rEHgJGHpde0t_-41.296108_173.249237@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9410585841a6bc059b58f60475c8d0a8",
+    "wof:geomhash":"ef49bb175c6ad08a3dd995b7668a6c68",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781837,
+            "region_id":85687157,
             "venue_id":219884003
         }
     ],
     "wof:id":219884003,
-    "wof:lastmodified":1473798776,
+    "wof:lastmodified":1496776779,
     "wof:name":"Global Flowers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

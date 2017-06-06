@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.917969,-45.079994,170.917969,-45.079994",
     "geom:latitude":-45.079994,
     "geom:longitude":170.917969,
@@ -23,27 +24,30 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101916123,
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fVCtmcIOjB1FDmEJo0v4B_-45.079994_170.917969@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"12202492b6565eef95f327f03fc54a38",
+    "wof:geomhash":"9cc0bd4e1b2fa58769faeb345472a65b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101916123,
+            "region_id":85687179,
             "venue_id":169749633
         }
     ],
     "wof:id":169749633,
-    "wof:lastmodified":1473798604,
+    "wof:lastmodified":1496776885,
     "wof:name":"Weston Supermarket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

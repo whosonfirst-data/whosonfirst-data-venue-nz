@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.861771,-36.891823,174.861771,-36.891823",
     "geom:latitude":-36.891823,
     "geom:longitude":174.861771,
@@ -23,29 +24,34 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914891,
+        102079403,
+        85778657
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Nfyayl3ARQ9UxhdsmGtZD_-36.891823_174.861771@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a8e9dfb886380646cceff7f300ead700",
+    "wof:geomhash":"3a9e78b1e13177d684bd5bd48007c0d8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914891,
+            "neighbourhood_id":85778657,
+            "region_id":85687243,
             "venue_id":203197889
         }
     ],
     "wof:id":203197889,
-    "wof:lastmodified":1473798658,
+    "wof:lastmodified":1496776374,
     "wof:name":"Baby Factory",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.242157,-38.144417,176.242157,-38.144417",
     "geom:latitude":-38.144417,
     "geom:longitude":176.242157,
@@ -34,9 +35,12 @@
     "sg:website":"http://www.rotoruamotel.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        101914727,
+        101914629,
+        102079289,
+        85781705,
         85782497
     ],
     "wof:breaches":[],
@@ -44,22 +48,31 @@
         "sg:id":"SG_5nJTHGCj9qikKrxFIYTQex_-38.144417_176.242157@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3019c980735db69e6a503ad5718c79c2",
+    "wof:geomhash":"19c2a12a1585323272b97536d4b68681",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914727,
+            "county_id":102079289,
+            "locality_id":101914629,
+            "neighbourhood_id":85781705,
+            "region_id":85687175,
+            "venue_id":219336403
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":-1,
             "neighbourhood_id":85782497,
-            "region_id":-1,
+            "region_id":85687175,
             "venue_id":219336403
         }
     ],
     "wof:id":219336403,
-    "wof:lastmodified":1473798703,
+    "wof:lastmodified":1496776175,
     "wof:name":"Ann's Volcanic Rotorua Motel",
-    "wof:parent_id":85782497,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

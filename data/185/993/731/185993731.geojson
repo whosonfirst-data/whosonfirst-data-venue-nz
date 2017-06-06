@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.7892,-39.63356,176.7892,-39.63356",
     "geom:latitude":-39.63356,
     "geom:longitude":176.7892,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914311,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ek0QRMTocnctjDWvv0US9_-39.633560_176.789200@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1083a63c90fbf801294b50b0879a6876",
+    "wof:geomhash":"7cf1b071a6f623829aa31cda80e19e09",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914311,
+            "region_id":85687189,
             "venue_id":185993731
         }
     ],
     "wof:id":185993731,
-    "wof:lastmodified":1473798666,
+    "wof:lastmodified":1496775845,
     "wof:name":"Baxter J M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

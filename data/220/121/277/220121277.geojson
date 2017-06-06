@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.979965,-42.72057,170.979965,-42.72057",
     "geom:latitude":-42.72057,
     "geom:longitude":170.979965,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101915183,
+        102079363
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hQrr6Nl3zqu4b3QJuD18I_-42.720570_170.979965@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6362336a261a1a0f69cb241053a02e80",
+    "wof:geomhash":"b9c560743984ac6385d1715601e0f2e3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":101915183,
+            "region_id":85687165,
             "venue_id":220121277
         }
     ],
     "wof:id":220121277,
-    "wof:lastmodified":1473798595,
+    "wof:lastmodified":1496776614,
     "wof:name":"Westland Milk Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

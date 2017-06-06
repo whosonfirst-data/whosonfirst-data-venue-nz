@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.039536,-36.881462,175.039536,-36.881462",
     "geom:latitude":-36.881462,
     "geom:longitude":175.039536,
@@ -34,27 +35,30 @@
     "sg:website":"http://www.aquahort.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914283,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cPaHwMB02dmzvsu5sUDtb_-36.881462_175.039536@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cfc25b3c760cd1333edba5c80f8ecede",
+    "wof:geomhash":"8c4b6fef9a55e7f7de8a8ec741f5d020",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914283,
+            "region_id":85687243,
             "venue_id":203409535
         }
     ],
     "wof:id":203409535,
-    "wof:lastmodified":1473798706,
+    "wof:lastmodified":1496775798,
     "wof:name":"Aquahort Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

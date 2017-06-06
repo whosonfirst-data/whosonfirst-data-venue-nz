@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.629715,-36.837254,174.629715,-36.837254",
     "geom:latitude":-36.837254,
     "geom:longitude":174.629715,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781685
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Iuzkkk72YsPVzlbkfOaId_-36.837254_174.629715@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9ad62e4c16025f195bd96a91f27ed2d8",
+    "wof:geomhash":"67d62f63e2cdd7f91b7a3e9fa54dac5b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781685,
+            "region_id":85687243,
             "venue_id":202467359
         }
     ],
     "wof:id":202467359,
-    "wof:lastmodified":1473798678,
+    "wof:lastmodified":1496775477,
     "wof:name":"Acutech Electronics Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

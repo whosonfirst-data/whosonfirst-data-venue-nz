@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.615387,-40.340088,175.615387,-40.340088",
     "geom:latitude":-40.340088,
     "geom:longitude":175.615387,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079307,
+        85781111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KW2X7XtkQpYAvpAeaVPM8_-40.340088_175.615387@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a23633a5ac58ca1322e6232e997473a6",
+    "wof:geomhash":"9da14ebf2a7494d74201a696fa9cbc4b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781111,
+            "region_id":85687251,
             "venue_id":202378583
         }
     ],
     "wof:id":202378583,
-    "wof:lastmodified":1473798553,
+    "wof:lastmodified":1496775737,
     "wof:name":"Kevin Barnes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

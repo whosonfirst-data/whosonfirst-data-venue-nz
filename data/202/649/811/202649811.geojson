@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.951614,-41.280548,174.951614,-41.280548",
     "geom:latitude":-41.280548,
     "geom:longitude":174.951614,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914357,
+        102079337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oOhAHGrqPG6iQZFjpnkGl_-41.280548_174.951614@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ab26b1882e8d5a3c31e09ded9d397c0c",
+    "wof:geomhash":"c5e1b08168e272b0201709bb8aa97f25",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914357,
+            "region_id":85687233,
             "venue_id":202649811
         }
     ],
     "wof:id":202649811,
-    "wof:lastmodified":1473798700,
+    "wof:lastmodified":1496775912,
     "wof:name":"Artexture Specialist Coatings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

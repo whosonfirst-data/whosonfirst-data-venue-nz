@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.130127,-39.549328,174.130127,-39.549328",
     "geom:latitude":-39.549328,
     "geom:longitude":174.130127,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687195,
+        102191583,
+        85633345,
+        101915831,
+        102079295
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ixBr1r88QEgqXlVZar2cI_-39.549328_174.130127@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7a416c65681f9fbdb60782976094736f",
+    "wof:geomhash":"b1c8cb1d6d9ed099e2c5f69eb5be913e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079295,
+            "locality_id":101915831,
+            "region_id":85687195,
             "venue_id":202397231
         }
     ],
     "wof:id":202397231,
-    "wof:lastmodified":1473798569,
+    "wof:lastmodified":1496776846,
     "wof:name":"Ngaruahine Iwi Health Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

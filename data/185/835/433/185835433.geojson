@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.479263,-45.888252,170.479263,-45.888252",
     "geom:latitude":-45.888252,
     "geom:longitude":170.479263,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        102079387,
+        85778177
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wCHc5Q3n0xsMAZeP5LfVT_-45.888252_170.479263@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b10cec7bc059e90ec6a10ebfe455954f",
+    "wof:geomhash":"24b0ce413a08f2e636e3beb4d4bd61a3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778177,
+            "region_id":85687201,
             "venue_id":185835433
         }
     ],
     "wof:id":185835433,
-    "wof:lastmodified":1473798629,
+    "wof:lastmodified":1496775765,
     "wof:name":"Mackay Richard & Hume Sally",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

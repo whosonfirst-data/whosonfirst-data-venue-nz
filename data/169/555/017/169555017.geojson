@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.265091,-35.113609,173.265091,-35.113609",
     "geom:latitude":-35.113609,
     "geom:longitude":173.265091,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101915171,
+        102079255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_799tj98QBDHhu9RhbAxL25_-35.113609_173.265091@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2d36c2c5cd22ea8b7d01fafa7d49f74f",
+    "wof:geomhash":"e8fed73ba5127fda85fde0b017015f5f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101915171,
+            "region_id":85687149,
             "venue_id":169555017
         }
     ],
     "wof:id":169555017,
-    "wof:lastmodified":1473798565,
+    "wof:lastmodified":1496776606,
     "wof:name":"Empire Mart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

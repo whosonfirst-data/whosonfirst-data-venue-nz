@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.851593,-36.939121,174.851593,-36.939121",
     "geom:latitude":-36.939121,
     "geom:longitude":174.851593,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85773325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QUUkIYxS7R4myvoQlb6KV_-36.939121_174.851593@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"43b72ac8d0fc4b679d03b161a1e531af",
+    "wof:geomhash":"34eb7bd0d2b3d5e93e379d257befcc07",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85773325,
+            "region_id":85687243,
             "venue_id":220154879
         }
     ],
     "wof:id":220154879,
-    "wof:lastmodified":1473798652,
+    "wof:lastmodified":1496776222,
     "wof:name":"Bhana Jasmat",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

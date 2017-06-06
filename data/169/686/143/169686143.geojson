@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.980042,-40.930641,174.980042,-40.930641",
     "geom:latitude":-40.930641,
     "geom:longitude":174.980042,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 4-292 8787",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XyH3HY862TwRLONqgxpkI_-40.930641_174.980042@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e199e1480fcd14d10b32a1a5d8cab58b",
+    "wof:geomhash":"b8ddfd52d8cca7cd2e4485e4cc442901",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":169686143
         }
     ],
     "wof:id":169686143,
-    "wof:lastmodified":1473798618,
+    "wof:lastmodified":1496776190,
     "wof:name":"Stables On The Park",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

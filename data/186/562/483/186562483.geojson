@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.795563,-41.32288,174.795563,-41.32288",
     "geom:latitude":-41.32288,
     "geom:longitude":174.795563,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079339,
+        85773001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CCPR7MT38UPUNUrGZZFYK_-41.322880_174.795563@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a51ea214701dbc0262f5d45b283e6ee9",
+    "wof:geomhash":"8a4578c27e3eb5d1390957cfe51eec37",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85773001,
+            "region_id":85687233,
             "venue_id":186562483
         }
     ],
     "wof:id":186562483,
-    "wof:lastmodified":1473798762,
+    "wof:lastmodified":1496775825,
     "wof:name":"Sunbeds Cortex Hairdesign",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

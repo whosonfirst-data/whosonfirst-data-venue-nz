@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.979614,-40.896301,174.979614,-40.896301",
     "geom:latitude":-40.896301,
     "geom:longitude":174.979614,
@@ -33,27 +34,30 @@
     "sg:website":"http://www.yellowpages.co.nz/pages/400019772/dp52883.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0M0aQZREYY0PLpWm4HVVPa_-40.896301_174.979614@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5a1470bc2c30813d4941601c7cc0078c",
+    "wof:geomhash":"96a09760d532043fa6933d99a1a70402",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":219259385
         }
     ],
     "wof:id":219259385,
-    "wof:lastmodified":1473798661,
+    "wof:lastmodified":1496776181,
     "wof:name":"Netlets.tv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

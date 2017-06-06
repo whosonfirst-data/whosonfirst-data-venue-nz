@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.344009,-38.038059,175.344009,-38.038059",
     "geom:latitude":-38.038059,
     "geom:longitude":175.344009,
@@ -23,27 +24,30 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914945,
+        102079273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Y4JoLt55xqUC1Z0mf72qb_-38.038059_175.344009@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d38b63faa4dbd53960c8b172d8267e77",
+    "wof:geomhash":"a1b61b360d7722b98d33d0677fd73625",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079273,
+            "locality_id":101914945,
+            "region_id":85687229,
             "venue_id":219924755
         }
     ],
     "wof:id":219924755,
-    "wof:lastmodified":1473798797,
+    "wof:lastmodified":1496776425,
     "wof:name":"Te Awamutu Tractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

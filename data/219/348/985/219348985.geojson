@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.784317,-36.887833,174.784317,-36.887833",
     "geom:latitude":-36.887833,
     "geom:longitude":174.784317,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qYlHD7JvlleEhf1R1P64H_-36.887833_174.784317@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3a8be98683e6fa9c322378032156a81c",
+    "wof:geomhash":"9ae85af50b76a33e69e65522143eef08",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782389,
+            "region_id":85687243,
             "venue_id":219348985
         }
     ],
     "wof:id":219348985,
-    "wof:lastmodified":1473798694,
+    "wof:lastmodified":1496775621,
     "wof:name":"Clarke Maurice Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

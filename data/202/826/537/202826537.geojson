@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.282272,-37.754261,175.282272,-37.754261",
     "geom:latitude":-37.754261,
     "geom:longitude":175.282272,
@@ -23,29 +24,33 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        102079271,
+        85780887
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qnsiUW5pGErRH1i634TPF_-37.754261_175.282272@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"85b992ac815d27fc009f05f5fbee1d64",
+    "wof:geomhash":"7cca140f939837fc7d95f9b84e42bcd5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780887,
+            "region_id":85687229,
             "venue_id":202826537
         }
     ],
     "wof:id":202826537,
-    "wof:lastmodified":1473798727,
+    "wof:lastmodified":1496775779,
     "wof:name":"Chair Doctor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

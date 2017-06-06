@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.870544,-41.095112,174.870544,-41.095112",
     "geom:latitude":-41.095112,
     "geom:longitude":174.870544,
@@ -39,8 +40,11 @@
     "sg:website":"http://www.divespot.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
+        102191583,
         85633345,
-        101914927,
+        101914355,
+        102079317,
         85781159
     ],
     "wof:breaches":[],
@@ -48,20 +52,20 @@
         "sg:id":"SG_1PdUBqsbQ7vKA11ZPx7Di1_-41.095112_174.870544@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"42f6ed85e2e4adfa9e448c989a662e36",
+    "wof:geomhash":"bbd6248211dc5d15bb5e7873b047e96d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914927,
+            "county_id":102079317,
+            "locality_id":101914355,
             "neighbourhood_id":85781159,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":169832525
         }
     ],
     "wof:id":169832525,
-    "wof:lastmodified":1473798645,
+    "wof:lastmodified":1496776153,
     "wof:name":"Dive Spot",
     "wof:parent_id":85781159,
     "wof:placetype":"venue",

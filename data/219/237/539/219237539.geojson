@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.636444,-40.356056,175.636444,-40.356056",
     "geom:latitude":-40.356056,
     "geom:longitude":175.636444,
@@ -23,29 +24,34 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85780937
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59RII6HheUGux6SZB2SNZh_-40.356056_175.636444@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0f23fa29f522f9643c9ad493881f099f",
+    "wof:geomhash":"c15196bed6c0a3efd0ecdeeb1a1aeae2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85780937,
+            "region_id":85687251,
             "venue_id":219237539
         }
     ],
     "wof:id":219237539,
-    "wof:lastmodified":1473798666,
+    "wof:lastmodified":1496775746,
     "wof:name":"Gary's Cool Transport",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

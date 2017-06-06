@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.831894,-44.938637,168.831894,-44.938637",
     "geom:latitude":-44.938637,
     "geom:longitude":168.831894,
@@ -23,27 +24,30 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915303,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48bd0pDSlp4vQfFDm8FwTS_-44.938637_168.831894@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"60ef952f78c43acc7f22dfa62ec3a70a",
+    "wof:geomhash":"e9c6eb876f658410233260769ea8bd26",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":101915303,
+            "region_id":85687201,
             "venue_id":203272825
         }
     ],
     "wof:id":203272825,
-    "wof:lastmodified":1473798665,
+    "wof:lastmodified":1496776655,
     "wof:name":"Wallace & Gibbs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

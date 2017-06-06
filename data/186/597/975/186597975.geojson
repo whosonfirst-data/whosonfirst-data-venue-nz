@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.812424,-36.855934,174.812424,-36.855934",
     "geom:latitude":-36.855934,
     "geom:longitude":174.812424,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85773093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZbWdyvzLLIZ5RqIFcR4xC_-36.855934_174.812424@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5af278b2d49f1bd1e3d9aa3ae7e6a931",
+    "wof:geomhash":"6c18c3e089b12d49ae73d18975a448b3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85773093,
+            "region_id":85687243,
             "venue_id":186597975
         }
     ],
     "wof:id":186597975,
-    "wof:lastmodified":1473798773,
+    "wof:lastmodified":1496777131,
     "wof:name":"Herbalife (NZ) Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

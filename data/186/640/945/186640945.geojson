@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.557968,-40.216949,175.557968,-40.216949",
     "geom:latitude":-40.216949,
     "geom:longitude":175.557968,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079303,
+        85778921
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BcZTGtuIW9bIVwlKKQZt0_-40.216949_175.557968@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c528d0b942a2cb765bff6776ae448895",
+    "wof:geomhash":"a357d696c867116ce33a3992b05fa37e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778921,
+            "region_id":85687251,
             "venue_id":186640945
         }
     ],
     "wof:id":186640945,
-    "wof:lastmodified":1473798773,
+    "wof:lastmodified":1496776280,
     "wof:name":"Magic Circle Healing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

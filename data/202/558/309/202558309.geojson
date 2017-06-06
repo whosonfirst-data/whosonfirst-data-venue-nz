@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.773468,-41.335365,174.773468,-41.335365",
     "geom:latitude":-41.335365,
     "geom:longitude":174.773468,
@@ -23,8 +24,11 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
+        102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85772975
     ],
     "wof:breaches":[],
@@ -32,20 +36,20 @@
         "sg:id":"SG_0zraG03VgsWFpmc4018HS0_-41.335365_174.773468@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"29ba47758d8da3402746f62d0b168832",
+    "wof:geomhash":"527ec73e86f877695ba412877841006f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85772975,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":202558309
         }
     ],
     "wof:id":202558309,
-    "wof:lastmodified":1473798691,
+    "wof:lastmodified":1496775812,
     "wof:name":"Island Bay Medical Centre",
     "wof:parent_id":85772975,
     "wof:placetype":"venue",

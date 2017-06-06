@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.022919,-39.908218,175.022919,-39.908218",
     "geom:latitude":-39.908218,
     "geom:longitude":175.022919,
@@ -33,29 +34,33 @@
     "sg:website":"http://www.yellowpages.co.nz/for/devonhomes/dp20080.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079299,
+        85781125
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aRMK1jrZrrIMAobTx8YNL_-39.908218_175.022919@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"22f57346849df02c9feeb91b89a6fbbc",
+    "wof:geomhash":"0dac820fb9a545a6e1963da389e3cef4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781125,
+            "region_id":85687251,
             "venue_id":202621109
         }
     ],
     "wof:id":202621109,
-    "wof:lastmodified":1473798694,
+    "wof:lastmodified":1496776215,
     "wof:name":"Devon Homes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

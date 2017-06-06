@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.641571,-36.908852,174.641571,-36.908852",
     "geom:latitude":-36.908852,
     "geom:longitude":174.641571,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778643
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OIYeEkh1pesyMZM6uwGwD_-36.908852_174.641571@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0317fa994eef4b92f3faee9098ddf49f",
+    "wof:geomhash":"16efcde9f851c7129d8eb94531cfdcb9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778643,
+            "region_id":85687243,
             "venue_id":202845827
         }
     ],
     "wof:id":202845827,
-    "wof:lastmodified":1473798733,
+    "wof:lastmodified":1496775661,
     "wof:name":"Aries Manufacturing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

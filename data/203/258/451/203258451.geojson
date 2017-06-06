@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.596268,-43.312828,172.596268,-43.312828",
     "geom:latitude":-43.312828,
     "geom:longitude":172.596268,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914361,
+        102079367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hwsvZAYofXwszXwEkrCnl_-43.312828_172.596268@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8d842d15e870e2971559944fd91074e7",
+    "wof:geomhash":"bca1a241e627baeb1479be06e5f8362b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079367,
+            "locality_id":101914361,
+            "region_id":85687179,
             "venue_id":203258451
         }
     ],
     "wof:id":203258451,
-    "wof:lastmodified":1473798664,
+    "wof:lastmodified":1496775915,
     "wof:name":"Kotare Knitwear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

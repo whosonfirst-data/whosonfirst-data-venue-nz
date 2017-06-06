@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.527786,-45.849468,170.527786,-45.849468",
     "geom:latitude":-45.849468,
     "geom:longitude":170.527786,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85773063
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iTSLANfL4tlpnGva1TTOl_-45.849468_170.527786@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1701a15cc9fd0c1071ff351311769e7e",
+    "wof:geomhash":"addf2708279c5e89c6cbf68ba89bafad",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85773063,
+            "region_id":85687201,
             "venue_id":185636451
         }
     ],
     "wof:id":185636451,
-    "wof:lastmodified":1473798564,
+    "wof:lastmodified":1496775767,
     "wof:name":"Gray's Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

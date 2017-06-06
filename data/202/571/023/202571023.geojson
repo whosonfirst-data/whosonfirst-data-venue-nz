@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.775864,-36.793648,174.775864,-36.793648",
     "geom:latitude":-36.793648,
     "geom:longitude":174.775864,
@@ -31,8 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101915597,
+        102079403,
         85781417
     ],
     "wof:breaches":[],
@@ -40,20 +44,20 @@
         "sg:id":"SG_6XqUEjNcxA5iLGAhJLnNsx_-36.793648_174.775864@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"14c5a000fc06c8f4f38dece9da6c69fa",
+    "wof:geomhash":"bac64bdad9faa7c4fa0c9dff87476165",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101915597,
             "neighbourhood_id":85781417,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202571023
         }
     ],
     "wof:id":202571023,
-    "wof:lastmodified":1473798688,
+    "wof:lastmodified":1496776807,
     "wof:name":"Hammer Hardware",
     "wof:parent_id":85781417,
     "wof:placetype":"venue",

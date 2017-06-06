@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.503052,-36.754353,175.503052,-36.754353",
     "geom:latitude":-36.754353,
     "geom:longitude":175.503052,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-866 0166",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914791,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74DhKLy3sMHlWIbz0mOhze_-36.754353_175.503052@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1efc5c8957c1bfd99957af2d5147bb85",
+    "wof:geomhash":"b811347ec73087d45a5c4f3ecf596825",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101914791,
+            "region_id":85687229,
             "venue_id":219301679
         }
     ],
     "wof:id":219301679,
-    "wof:lastmodified":1473798678,
+    "wof:lastmodified":1496776343,
     "wof:name":"Halcyon Heights",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

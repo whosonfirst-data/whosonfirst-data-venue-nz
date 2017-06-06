@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.734375,-36.89867,174.734375,-36.89867",
     "geom:latitude":-36.89867,
     "geom:longitude":174.734375,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781227
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lA5yWpeF6ZIsu4mPDXPg6_-36.898670_174.734375@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e712017b74e08157555a8b391a9b8f9a",
+    "wof:geomhash":"2b0c24c479e153d072e9ccc5a5514592",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781227,
+            "region_id":85687243,
             "venue_id":202428809
         }
     ],
     "wof:id":202428809,
-    "wof:lastmodified":1473798622,
+    "wof:lastmodified":1496777115,
     "wof:name":"The Bungalow Psychotherapy & Counselling",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

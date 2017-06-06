@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.054993,-36.793564,175.054993,-36.793564",
     "geom:latitude":-36.793564,
     "geom:longitude":175.054993,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914787,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RJZ2I0tPEpnpBNKqyCOTI_-36.793564_175.054993@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3cc147ce0a376853a15229979962ad2e",
+    "wof:geomhash":"2db70e6d4cc816b435995aa830eaef93",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914787,
+            "region_id":85687243,
             "venue_id":186302221
         }
     ],
     "wof:id":186302221,
-    "wof:lastmodified":1473798721,
+    "wof:lastmodified":1496776338,
     "wof:name":"Waiheke Aluminium Products Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

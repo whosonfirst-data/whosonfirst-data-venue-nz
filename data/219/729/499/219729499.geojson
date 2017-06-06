@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.650101,-40.95562,175.650101,-40.95562",
     "geom:latitude":-40.95562,
     "geom:longitude":175.650101,
@@ -33,42 +34,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101916231,
-        85782867,
-        85782451
+        101915543,
+        102079343,
+        85782451,
+        85782867
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WaoyeyRtXtfnLRQVOs8uh_-40.955620_175.650101@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c16e3dd8be6aa79d708c92115e8eb24c",
+    "wof:geomhash":"fb17d18431edd253fbeac725a55d78a5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101916231,
-            "neighbourhood_id":85782867,
-            "region_id":-1,
+            "county_id":102079343,
+            "locality_id":101915543,
+            "neighbourhood_id":85782451,
+            "region_id":85687233,
             "venue_id":219729499
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101916231,
-            "neighbourhood_id":85782451,
-            "region_id":-1,
+            "county_id":102079343,
+            "locality_id":101915543,
+            "neighbourhood_id":85782867,
+            "region_id":85687233,
             "venue_id":219729499
         }
     ],
     "wof:id":219729499,
-    "wof:lastmodified":1473798782,
+    "wof:lastmodified":1496776768,
     "wof:name":"Advanced Automotive Electrics 2000",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

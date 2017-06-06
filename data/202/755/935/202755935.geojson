@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.042709,-44.730419,171.042709,-44.730419",
     "geom:latitude":-44.730419,
     "geom:longitude":171.042709,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914701,
+        102079379
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m9V1gDSfEwyqQzGLXa0FS_-44.730419_171.042709@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"59520c3d91855e6090f05c7cca714299",
+    "wof:geomhash":"4c0d52ed396b05d871e7055a9820af3e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079379,
+            "locality_id":101914701,
+            "region_id":85687179,
             "venue_id":202755935
         }
     ],
     "wof:id":202755935,
-    "wof:lastmodified":1473798726,
+    "wof:lastmodified":1496776273,
     "wof:name":"Woodham Lodge Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

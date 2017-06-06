@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.699356,-36.893341,174.699356,-36.893341",
     "geom:latitude":-36.893341,
     "geom:longitude":174.699356,
@@ -23,29 +24,44 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778529,
+        85778827
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44MUvPQ1p5dqWe8RCBbG6b_-36.893341_174.699356@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1805430d8f92195c04a4f6340ceecedb",
+    "wof:geomhash":"22bee8169ae65095e70e06ebcde192e7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778529,
+            "region_id":85687243,
+            "venue_id":186473217
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778827,
+            "region_id":85687243,
             "venue_id":186473217
         }
     ],
     "wof:id":186473217,
-    "wof:lastmodified":1473798750,
+    "wof:lastmodified":1496775409,
     "wof:name":"N.T. Gas Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

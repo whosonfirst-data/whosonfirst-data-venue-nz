@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.938324,-37.400799,175.938324,-37.400799",
     "geom:latitude":-37.400799,
     "geom:longitude":175.938324,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101915147,
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CmvnVUejyBSfTIE8gLSCy_-37.400799_175.938324@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9d6a789c9d4e0b0f700362618b633629",
+    "wof:geomhash":"69f35adad2a8d37b83ef2a5a61d35dcd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":101915147,
+            "region_id":85687175,
             "venue_id":203228903
         }
     ],
     "wof:id":203228903,
-    "wof:lastmodified":1473798658,
+    "wof:lastmodified":1496776578,
     "wof:name":"Carisma Clothing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.226318,-38.126362,176.226318,-38.126362",
     "geom:latitude":-38.126362,
     "geom:longitude":176.226318,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        101914727,
+        101914629,
+        102079289,
         85773009
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_2XME5wVXiWjunV77JfVqBo_-38.126362_176.226318@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"585b1c9d179b899263ffe71033637e1e",
+    "wof:geomhash":"ca0b5e7ce921283e4dd443e1b90fc568",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914727,
+            "county_id":102079289,
+            "locality_id":101914629,
             "neighbourhood_id":85773009,
-            "region_id":-1,
+            "region_id":85687175,
             "venue_id":203160265
         }
     ],
     "wof:id":203160265,
-    "wof:lastmodified":1473798647,
+    "wof:lastmodified":1496776170,
     "wof:name":"Wonderworld Aquarium & Pet Centre",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",

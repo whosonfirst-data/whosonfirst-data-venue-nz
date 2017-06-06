@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.084351,-38.689285,176.084351,-38.689285",
     "geom:latitude":-38.689285,
     "geom:longitude":176.084351,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        102079281,
+        85782499
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4txDXJTFaJv79YaOCcabng_-38.689285_176.084351@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"55d81de3d3b49e0283f08367bcd9c738",
+    "wof:geomhash":"699c86a1ec18d3eabaac8d9ce4f4e7c2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782499,
+            "region_id":85687229,
             "venue_id":202563285
         }
     ],
     "wof:id":202563285,
-    "wof:lastmodified":1473798688,
+    "wof:lastmodified":1496775936,
     "wof:name":"Pregnancy Help Incorporated",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

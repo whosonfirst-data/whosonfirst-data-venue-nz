@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.163788,-40.756145,175.163788,-40.756145",
     "geom:latitude":-40.756145,
     "geom:longitude":175.163788,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914931,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mZiOfn3ZC5WoYEc0RZSZk_-40.756145_175.163788@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9b0247c405574b879a86977e8cb24e6f",
+    "wof:geomhash":"e789ab852402cd48a6713474ee02fb28",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914931,
+            "region_id":85687233,
             "venue_id":169570517
         }
     ],
     "wof:id":169570517,
-    "wof:lastmodified":1473798586,
+    "wof:lastmodified":1496777621,
     "wof:name":"Ancient Secrets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

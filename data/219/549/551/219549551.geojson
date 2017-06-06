@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.83902,-36.90921,174.83902,-36.90921",
     "geom:latitude":-36.90921,
     "geom:longitude":174.83902,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782457
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Wroti31faNouekOiBZO6h_-36.909210_174.839020@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0d61f6375c031a7c553378f0f1e9c7b3",
+    "wof:geomhash":"e0440154da5c29939e9c059b2d6505b7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782457,
+            "region_id":85687243,
             "venue_id":219549551
         }
     ],
     "wof:id":219549551,
-    "wof:lastmodified":1473798733,
+    "wof:lastmodified":1496775488,
     "wof:name":"Awesome Sound & Security",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

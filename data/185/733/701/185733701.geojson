@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.638809,-36.92178,174.638809,-36.92178",
     "geom:latitude":-36.92178,
     "geom:longitude":174.638809,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778299
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dac85T0qkidvXuamNsLU7_-36.921780_174.638809@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ef434b4198d109d91387675f51c71a9e",
+    "wof:geomhash":"fd9299418a47c8780414801715a1d134",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778299,
+            "region_id":85687243,
             "venue_id":185733701
         }
     ],
     "wof:id":185733701,
-    "wof:lastmodified":1473798600,
+    "wof:lastmodified":1496775641,
     "wof:name":"Lille Video Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

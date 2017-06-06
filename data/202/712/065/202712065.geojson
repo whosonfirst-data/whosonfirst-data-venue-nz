@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.015213,-40.8722,175.015213,-40.8722",
     "geom:latitude":-40.8722,
     "geom:longitude":175.015213,
@@ -23,27 +24,30 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914635,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6S0CRZn2Zo83yXpD2ACeY8_-40.872200_175.015213@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bcd7b9eed7883d4bf8923e47934b789d",
+    "wof:geomhash":"58f514657c01d83bbefd0da215ce8648",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914635,
+            "region_id":85687233,
             "venue_id":202712065
         }
     ],
     "wof:id":202712065,
-    "wof:lastmodified":1473798714,
+    "wof:lastmodified":1496776192,
     "wof:name":"Helen's Helpers Nanny Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

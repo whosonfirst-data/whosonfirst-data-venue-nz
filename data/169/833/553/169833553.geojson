@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.598038,-40.348152,175.598038,-40.348152",
     "geom:latitude":-40.348152,
     "geom:longitude":175.598038,
@@ -38,9 +39,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -48,20 +51,20 @@
         "sg:id":"SG_6yFMTbfU4uIP10m1O525JU_-40.348152_175.598038@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9da12093ddc9d4532fe03f12d31f36d5",
+    "wof:geomhash":"2235c528ecc5fd9411202363a8e9d265",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":169833553
         }
     ],
     "wof:id":169833553,
-    "wof:lastmodified":1473798641,
+    "wof:lastmodified":1496775741,
     "wof:name":"NZ Adventure College",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

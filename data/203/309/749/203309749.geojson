@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.98204,-37.961975,176.98204,-37.961975",
     "geom:latitude":-37.961975,
     "geom:longitude":176.98204,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079291,
+        85782901
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L6ClY8M8kib3gB28Gu14l_-37.961975_176.982040@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3337a008f44b426047046d2c3d4955e8",
+    "wof:geomhash":"a1ad08502014a445ec11edaf25b20a0d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782901,
+            "region_id":85687175,
             "venue_id":203309749
         }
     ],
     "wof:id":203309749,
-    "wof:lastmodified":1473798682,
+    "wof:lastmodified":1496775887,
     "wof:name":"Kope Wool & Crafts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

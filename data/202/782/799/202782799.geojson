@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.648071,-40.956322,175.648071,-40.956322",
     "geom:latitude":-40.956322,
     "geom:longitude":175.648071,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101916231,
+        101915543,
+        102079343,
         85782451
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_4w3YY3lH6sqz4JxEnud6ly_-40.956322_175.648071@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"39d6bd93e4ecb8212cf6fe93dfaf8c85",
+    "wof:geomhash":"fee31ed689e844a9975b7d55b3b1673b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101916231,
+            "county_id":102079343,
+            "locality_id":101915543,
             "neighbourhood_id":85782451,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":202782799
         }
     ],
     "wof:id":202782799,
-    "wof:lastmodified":1473798731,
+    "wof:lastmodified":1496776778,
     "wof:name":"Chris's Kitchens & Joinery",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",

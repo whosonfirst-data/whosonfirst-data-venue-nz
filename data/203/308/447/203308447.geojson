@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"177.996582,-38.657089,177.996582,-38.657089",
     "geom:latitude":-38.657089,
     "geom:longitude":177.996582,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10e1YTjFxRoX6FJHu2Mt30_-38.657089_177.996582@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"67a5a5e2681dcc10b4fe80cd6a1e7b01",
+    "wof:geomhash":"18af06a339a5fc13d617aea66820c754",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":203308447
         }
     ],
     "wof:id":203308447,
-    "wof:lastmodified":1473798680,
+    "wof:lastmodified":1496776132,
     "wof:name":"Elgin Variety Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

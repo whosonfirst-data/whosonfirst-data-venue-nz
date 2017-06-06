@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.530411,-45.892162,170.530411,-45.892162",
     "geom:latitude":-45.892162,
     "geom:longitude":170.530411,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85778125
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UVxgtTYLaN34shzAJAKCv_-45.892162_170.530411@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"247d2525ef979a04e3a64a11ecc538b9",
+    "wof:geomhash":"393885ec98aef869c8b85b0eef1c362b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85778125,
+            "region_id":85687201,
             "venue_id":186645521
         }
     ],
     "wof:id":186645521,
-    "wof:lastmodified":1473798767,
+    "wof:lastmodified":1496775767,
     "wof:name":"Berkana Natural Therapy Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

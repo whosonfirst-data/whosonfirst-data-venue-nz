@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.661179,-36.397224,174.661179,-36.397224",
     "geom:latitude":-36.397224,
     "geom:longitude":174.661179,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914751,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bdam9ZowNm4G8JA6UK12u_-36.397224_174.661179@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4e1261a2950f54f7209f6e186fc760d8",
+    "wof:geomhash":"4685d0db34b5cb65719463d7123767ed",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914751,
+            "region_id":85687243,
             "venue_id":203308557
         }
     ],
     "wof:id":203308557,
-    "wof:lastmodified":1473798681,
+    "wof:lastmodified":1496776314,
     "wof:name":"Connies Wool & Handknits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

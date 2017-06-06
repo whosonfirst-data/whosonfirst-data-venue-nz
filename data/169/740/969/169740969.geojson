@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.401688,-39.41486,175.401688,-39.41486",
     "geom:latitude":-39.41486,
     "geom:longitude":175.401688,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 6-385 8587",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914531,
+        102079297
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OVFib008KpCGAMAQ9oXEk_-39.414860_175.401688@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f2cf7ab4ced103aace75944d1e39da4a",
+    "wof:geomhash":"0a05562e7afb39422b303b3e31661100",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101914531,
+            "region_id":85687251,
             "venue_id":169740969
         }
     ],
     "wof:id":169740969,
-    "wof:lastmodified":1473798622,
+    "wof:lastmodified":1496776096,
     "wof:name":"Ohakune New World Supermarket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

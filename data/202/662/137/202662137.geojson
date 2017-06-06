@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.684906,-43.511517,172.684906,-43.511517",
     "geom:latitude":-43.511517,
     "geom:longitude":172.684906,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18UdVmcPnj8TfjPX0B9X8b_-43.511517_172.684906@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"db2446101e119bc31f173598b305eb12",
+    "wof:geomhash":"8ec6b4e2344b291f84d817789513b05f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778711,
+            "region_id":85687179,
             "venue_id":202662137
         }
     ],
     "wof:id":202662137,
-    "wof:lastmodified":1473798695,
+    "wof:lastmodified":1496776038,
     "wof:name":"Chisnallwood Plumbing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

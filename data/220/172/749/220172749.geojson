@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.668884,-43.316307,172.668884,-43.316307",
     "geom:latitude":-43.316307,
     "geom:longitude":172.668884,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915327,
+        102079367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42keswOYY6w4OlAY51wd9J_-43.316307_172.668884@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1b7eb09e6780ae9d6e03f58eec8711ec",
+    "wof:geomhash":"f9309eae9f864f1b161b7846b0246313",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079367,
+            "locality_id":101915327,
+            "region_id":85687179,
             "venue_id":220172749
         }
     ],
     "wof:id":220172749,
-    "wof:lastmodified":1473798635,
+    "wof:lastmodified":1496776661,
     "wof:name":"Windy Willows",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

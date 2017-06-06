@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.557663,-40.216702,175.557663,-40.216702",
     "geom:latitude":-40.216702,
     "geom:longitude":175.557663,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079303,
+        85778921
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_520xia9VbhkIGgASeWn3T4_-40.216702_175.557663@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9ed8a153e27cdc6b009af3cef4ff5686",
+    "wof:geomhash":"0b041f56d1bfbcadbeb35ed43bfc5ed2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778921,
+            "region_id":85687251,
             "venue_id":186530707
         }
     ],
     "wof:id":186530707,
-    "wof:lastmodified":1473798764,
+    "wof:lastmodified":1496776281,
     "wof:name":"Feilding's House of Beauty",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

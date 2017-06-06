@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.344101,-46.397682,168.344101,-46.397682",
     "geom:latitude":-46.397682,
     "geom:longitude":168.344101,
@@ -23,29 +24,34 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781431
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vK7gVl2XoSgnl3x2EOJOr_-46.397682_168.344101@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1d3d5cc1b060b4ca8a67f0c088089c76",
+    "wof:geomhash":"72e1c679c9a3fc8c61c9972f92d43518",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781431,
+            "region_id":85687211,
             "venue_id":202524121
         }
     ],
     "wof:id":202524121,
-    "wof:lastmodified":1473798684,
+    "wof:lastmodified":1496776729,
     "wof:name":"Burke Kathy J",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

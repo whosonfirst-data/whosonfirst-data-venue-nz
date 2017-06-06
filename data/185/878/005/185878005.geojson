@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.024246,-43.756042,172.024246,-43.756042",
     "geom:latitude":-43.756042,
     "geom:longitude":172.024246,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-302 7439",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101916159,
+        102079371
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LMCiRaFn0s4UDKdYjNgUV_-43.756042_172.024246@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"02ba418e125d28ea1a5efd7e8e854aca",
+    "wof:geomhash":"368f85deef8885b3f626e3e2fbab0910",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "locality_id":101916159,
+            "region_id":85687179,
             "venue_id":185878005
         }
     ],
     "wof:id":185878005,
-    "wof:lastmodified":1473798653,
+    "wof:lastmodified":1496776887,
     "wof:name":"Paritai Stud",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

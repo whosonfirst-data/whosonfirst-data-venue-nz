@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.664825,-40.952381,175.664825,-40.952381",
     "geom:latitude":-40.952381,
     "geom:longitude":175.664825,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101916231,
+        101915543,
+        102079343,
         85782867
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_3U1bbkvtvbgRkmVDsysrF6_-40.952381_175.664825@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0f9cfaa4b8ccc7e2c45bae9b89d00f74",
+    "wof:geomhash":"828804073a7cd23af1a19d65b0b7280e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101916231,
+            "county_id":102079343,
+            "locality_id":101915543,
             "neighbourhood_id":85782867,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":186631451
         }
     ],
     "wof:id":186631451,
-    "wof:lastmodified":1473798766,
+    "wof:lastmodified":1496776759,
     "wof:name":"The Acupuncture Clinic",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",

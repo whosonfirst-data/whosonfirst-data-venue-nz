@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.629486,-36.914928,174.629486,-36.914928",
     "geom:latitude":-36.914928,
     "geom:longitude":174.629486,
@@ -35,29 +36,33 @@
     "sg:website":"http://www.scrapbooker.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tu6fHbV3uLmkbT2vWPFQB_-36.914928_174.629486@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fd6ef00cf8497590ec7710ab80911f3f",
+    "wof:geomhash":"cceefa7ebe2820a70f42cb23380ca628",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778989,
+            "region_id":85687243,
             "venue_id":185793061
         }
     ],
     "wof:id":185793061,
-    "wof:lastmodified":1473798622,
+    "wof:lastmodified":1496775611,
     "wof:name":"Scrapbooker & Co.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

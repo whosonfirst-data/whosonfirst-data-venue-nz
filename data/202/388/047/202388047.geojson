@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.614944,-40.330555,175.614944,-40.330555",
     "geom:latitude":-40.330555,
     "geom:longitude":175.614944,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079307,
+        85781111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dlgPXH2aUTBmwwOoxdbPR_-40.330555_175.614944@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1db246fd155628d896b0835cd13b547b",
+    "wof:geomhash":"3576cb939d66bf77347a81447094865e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781111,
+            "region_id":85687251,
             "venue_id":202388047
         }
     ],
     "wof:id":202388047,
-    "wof:lastmodified":1473798558,
+    "wof:lastmodified":1496775734,
     "wof:name":"Milson Medical Chambers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

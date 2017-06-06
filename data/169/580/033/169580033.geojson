@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.774216,-36.894379,174.774216,-36.894379",
     "geom:latitude":-36.894379,
     "geom:longitude":174.774216,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qJMtpIOGe6htvi4hFnbDf_-36.894379_174.774216@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"13166a46f3f4592c9a7db149fa73f3d6",
+    "wof:geomhash":"b1894f615863af88936a83e8c30213c2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778837,
+            "region_id":85687243,
             "venue_id":169580033
         }
     ],
     "wof:id":169580033,
-    "wof:lastmodified":1473798585,
+    "wof:lastmodified":1496775635,
     "wof:name":"Antiques Etc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

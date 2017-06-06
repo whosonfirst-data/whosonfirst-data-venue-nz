@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.595428,-39.941483,176.595428,-39.941483",
     "geom:latitude":-39.941483,
     "geom:longitude":176.595428,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101915399,
+        102079333
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eQt8dF6XyzbOP2UefAOu4_-39.941483_176.595428@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2f4c8d7eab096fa35024aba130f1b97f",
+    "wof:geomhash":"21e424f0cd8617487a7a63aebe0945b4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079333,
+            "locality_id":101915399,
+            "region_id":85687189,
             "venue_id":186003501
         }
     ],
     "wof:id":186003501,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496776708,
     "wof:name":"Lucas W F",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

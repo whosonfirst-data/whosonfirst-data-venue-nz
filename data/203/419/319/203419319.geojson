@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.98204,-37.960136,176.98204,-37.960136",
     "geom:latitude":-37.960136,
     "geom:longitude":176.98204,
@@ -23,29 +24,33 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079291,
+        85782901
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7B9vuQVq7moGkcQMAmAhoK_-37.960136_176.982040@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2582ab4677a42bd1bc81a9b3f61fde38",
+    "wof:geomhash":"27ecb0aee76157f0e0395045a4b5e139",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782901,
+            "region_id":85687175,
             "venue_id":203419319
         }
     ],
     "wof:id":203419319,
-    "wof:lastmodified":1473798731,
+    "wof:lastmodified":1496775891,
     "wof:name":"Kope Radio & TV Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

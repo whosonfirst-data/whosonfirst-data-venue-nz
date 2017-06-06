@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.828705,-36.851555,174.828705,-36.851555",
     "geom:latitude":-36.851555,
     "geom:longitude":174.828705,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778461
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NkLRfDqaoGCXg5nUuHNBE_-36.851555_174.828705@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3b41d192cc3163dba4852a67df6e169e",
+    "wof:geomhash":"589e6c034f58030799d0f1b6a5e761b6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778461,
+            "region_id":85687243,
             "venue_id":219935147
         }
     ],
     "wof:id":219935147,
-    "wof:lastmodified":1473798793,
+    "wof:lastmodified":1496775676,
     "wof:name":"AquaSpray",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

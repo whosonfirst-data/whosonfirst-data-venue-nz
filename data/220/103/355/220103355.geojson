@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.943817,-41.511681,173.943817,-41.511681",
     "geom:latitude":-41.511681,
     "geom:longitude":173.943817,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        102079353,
+        85782355
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fYYbJo0BKOqYpKCMr8S9c_-41.511681_173.943817@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c12691db6689ac43b038f02e8a0e6a5b",
+    "wof:geomhash":"af3835aaa34a7f60066c55c903869bd8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782355,
+            "region_id":85687185,
             "venue_id":220103355
         }
     ],
     "wof:id":220103355,
-    "wof:lastmodified":1473798595,
+    "wof:lastmodified":1496776833,
     "wof:name":"Renwick Meat Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

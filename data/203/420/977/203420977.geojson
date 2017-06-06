@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.147537,-37.695953,176.147537,-37.695953",
     "geom:latitude":-37.695953,
     "geom:longitude":176.147537,
@@ -23,29 +24,33 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85780779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KAbK2mJjCGSpd5PNUghIC_-37.695953_176.147537@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9e17431188229566160247518796787b",
+    "wof:geomhash":"13a0f1fb832b89b554c84ca194b20f06",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780779,
+            "region_id":85687175,
             "venue_id":203420977
         }
     ],
     "wof:id":203420977,
-    "wof:lastmodified":1473798723,
+    "wof:lastmodified":1496775877,
     "wof:name":"Marina Diesels Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

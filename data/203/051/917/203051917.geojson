@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.346527,-45.938938,170.346527,-45.938938",
     "geom:latitude":-45.938938,
     "geom:longitude":170.346527,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915297,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69LsMgRfQhre0zc4aWwl1Y_-45.938938_170.346527@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2270f6244105d696db2e8cf96651cb05",
+    "wof:geomhash":"f10343b4ceb6f4214f46578c0088c50d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101915297,
+            "region_id":85687201,
             "venue_id":203051917
         }
     ],
     "wof:id":203051917,
-    "wof:lastmodified":1473798604,
+    "wof:lastmodified":1496776653,
     "wof:name":"East Coast Landscapes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.610245,-43.566162,172.610245,-43.566162",
     "geom:latitude":-43.566162,
     "geom:longitude":172.610245,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778369
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68aSP4Yzsmb4vpXXHm7C9l_-43.566162_172.610245@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e579e29fa4ed593b7cdcd006d2d72b91",
+    "wof:geomhash":"9fa5dbb701bc451252aad48d15de6363",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778369,
+            "region_id":85687179,
             "venue_id":169565163
         }
     ],
     "wof:id":169565163,
-    "wof:lastmodified":1473798568,
+    "wof:lastmodified":1496776054,
     "wof:name":"Gifts Of Indulgence",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

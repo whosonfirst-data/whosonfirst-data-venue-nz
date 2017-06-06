@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.83963,-37.390518,175.83963,-37.390518",
     "geom:latitude":-37.390518,
     "geom:longitude":175.83963,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-863 8023",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915083,
+        102079263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OcwobHZdfYWbbsKIRIOhZ_-37.390518_175.839630@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9b7c64b13a0f3ac30989fd06fa2e0015",
+    "wof:geomhash":"b4777a0d3ddbe218d181289ddb7007ba",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079263,
+            "locality_id":101915083,
+            "region_id":85687229,
             "venue_id":186090605
         }
     ],
     "wof:id":186090605,
-    "wof:lastmodified":1473798701,
+    "wof:lastmodified":1496776539,
     "wof:name":"Elbate Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

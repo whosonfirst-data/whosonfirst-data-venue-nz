@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.560516,-45.863281,170.560516,-45.863281",
     "geom:latitude":-45.863281,
     "geom:longitude":170.560516,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        102079387,
+        85773153
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uqc4Rmd0VUhycXSfpMGJL_-45.863281_170.560516@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ce5200a2c7fbeccd8c4ba500c7dde0a9",
+    "wof:geomhash":"0e4a42f6dbdfc36f03669e5e0b333ea2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85773153,
+            "region_id":85687201,
             "venue_id":202426201
         }
     ],
     "wof:id":202426201,
-    "wof:lastmodified":1473798625,
+    "wof:lastmodified":1496775764,
     "wof:name":"Bannister Margaret",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

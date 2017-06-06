@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.339172,-46.382908,168.339172,-46.382908",
     "geom:latitude":-46.382908,
     "geom:longitude":168.339172,
@@ -23,27 +24,30 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_498MvUHE0GPQXY4JGeST2o_-46.382908_168.339172@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e5c3707b6ebb864abe4be3ae7f916077",
+    "wof:geomhash":"58dd4c6caabe56e0c703a4a2cac03eb1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":169734179
         }
     ],
     "wof:id":169734179,
-    "wof:lastmodified":1473798610,
+    "wof:lastmodified":1496776717,
     "wof:name":"Grasmere Grocery Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

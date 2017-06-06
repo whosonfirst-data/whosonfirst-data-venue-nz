@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.932938,-36.894958,174.932938,-36.894958",
     "geom:latitude":-36.894958,
     "geom:longitude":174.932938,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85772971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kEtbwiPyBSy8tkI3cRXj6_-36.894958_174.932938@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ba09bfee9f806e976c66d074c09ddcfd",
+    "wof:geomhash":"7750662b5710ddec9a450d208997f48d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772971,
+            "region_id":85687243,
             "venue_id":219265599
         }
     ],
     "wof:id":219265599,
-    "wof:lastmodified":1473798667,
+    "wof:lastmodified":1496775484,
     "wof:name":"Rutherford First National Real Estate",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

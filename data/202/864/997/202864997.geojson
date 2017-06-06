@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.380325,-46.40926,168.380325,-46.40926",
     "geom:latitude":-46.40926,
     "geom:longitude":168.380325,
@@ -35,29 +36,34 @@
     "sg:website":"http://www.bullings.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DgHvFr0fUj6QajvrFdjdU_-46.409260_168.380325@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"81bb8f0e40f2fde785d559dd4b8c0707",
+    "wof:geomhash":"519e6eba398f229edf2bcbfdbafb878b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781519,
+            "region_id":85687211,
             "venue_id":202864997
         }
     ],
     "wof:id":202864997,
-    "wof:lastmodified":1473798744,
+    "wof:lastmodified":1496776723,
     "wof:name":"Bulling Ivan L",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

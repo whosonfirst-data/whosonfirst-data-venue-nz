@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.675034,-40.936569,175.675034,-40.936569",
     "geom:latitude":-40.936569,
     "geom:longitude":175.675034,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079343,
+        85780973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72FPmgCNKYyqm53TORF1aw_-40.936569_175.675034@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2a59a51eb577ab71b6a4c3a7797caafb",
+    "wof:geomhash":"db63f855454a7ca8eaae0fb1d4798ed9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780973,
+            "region_id":85687233,
             "venue_id":219364393
         }
     ],
     "wof:id":219364393,
-    "wof:lastmodified":1473798688,
+    "wof:lastmodified":1496776766,
     "wof:name":"Country Encounters",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.781738,-36.873344,174.781738,-36.873344",
     "geom:latitude":-36.873344,
     "geom:longitude":174.781738,
@@ -32,29 +33,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778841,
+        85778887
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PJe0yJoqmL27pNc20Sa3y_-36.873344_174.781738@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"caddb4b90da426e5ebb33ae8ab267fa0",
+    "wof:geomhash":"1d028743b9a84c6d72721c4f2bcfde51",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778841,
+            "region_id":85687243,
+            "venue_id":202425573
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778887,
+            "region_id":85687243,
             "venue_id":202425573
         }
     ],
     "wof:id":202425573,
-    "wof:lastmodified":1473798623,
+    "wof:lastmodified":1496777172,
     "wof:name":"Wright Mark S",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

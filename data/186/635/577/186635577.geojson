@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.675034,-37.381428,175.675034,-37.381428",
     "geom:latitude":-37.381428,
     "geom:longitude":175.675034,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914241,
+        102079263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cldRZTls617PqeWD42xGm_-37.381428_175.675034@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8053e6a86717c51ae9e5a53c42aa442f",
+    "wof:geomhash":"2e78cb90a3baf15cc3baa35dcd3b8e34",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079263,
+            "locality_id":101914241,
+            "region_id":85687229,
             "venue_id":186635577
         }
     ],
     "wof:id":186635577,
-    "wof:lastmodified":1473798770,
+    "wof:lastmodified":1496775298,
     "wof:name":"Aninga Ann-Marie & Charles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

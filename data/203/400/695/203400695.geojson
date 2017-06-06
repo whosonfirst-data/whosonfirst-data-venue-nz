@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.636078,-43.557541,172.636078,-43.557541",
     "geom:latitude":-43.557541,
     "geom:longitude":172.636078,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778153
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wtttJoAXkG02JrG0LGGN8_-43.557541_172.636078@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2f2b98fecd2e032cfdbc0e2db13cb90b",
+    "wof:geomhash":"7925637d766988ba2695f1bafb10324f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778153,
+            "region_id":85687179,
             "venue_id":203400695
         }
     ],
     "wof:id":203400695,
-    "wof:lastmodified":1473798688,
+    "wof:lastmodified":1496776086,
     "wof:name":"Beckenham Automotive Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.596115,-40.35788,175.596115,-40.35788",
     "geom:latitude":-40.35788,
     "geom:longitude":175.596115,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_5RIEfNpV104sYW1xqq1ytG_-40.357880_175.596115@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2d211e8e599483726032e929a0c01101",
+    "wof:geomhash":"1527004798b81dfedca0f54c4303796c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":219704903
         }
     ],
     "wof:id":219704903,
-    "wof:lastmodified":1473798789,
+    "wof:lastmodified":1496775735,
     "wof:name":"American Motorcycle Dismantlers",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

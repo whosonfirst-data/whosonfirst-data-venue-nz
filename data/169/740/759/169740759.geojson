@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.736343,-36.891182,174.736343,-36.891182",
     "geom:latitude":-36.891182,
     "geom:longitude":174.736343,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778591
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NB0j9UOkxVx7VU60Jrm45_-36.891182_174.736343@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bc57d30c10ddabc5dba6137a903ea7f1",
+    "wof:geomhash":"89b482d4f0ab515ee6e66a04444d3c14",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778591,
+            "region_id":85687243,
             "venue_id":169740759
         }
     ],
     "wof:id":169740759,
-    "wof:lastmodified":1473798621,
+    "wof:lastmodified":1496775421,
     "wof:name":"One Stop Grocer",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778591,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

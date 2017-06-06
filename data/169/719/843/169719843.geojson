@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.865646,-46.194031,168.865646,-46.194031",
     "geom:latitude":-46.194031,
     "geom:longitude":168.865646,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-203 8147",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101914503,
+        102079393
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2klZ61yUajOgogl4AK4wgN_-46.194031_168.865646@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bb03158ee21992edcfd51781c152d81c",
+    "wof:geomhash":"ceb619a7af102abc1e9e64c919b36e63",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079393,
+            "locality_id":101914503,
+            "region_id":85687211,
             "venue_id":169719843
         }
     ],
     "wof:id":169719843,
-    "wof:lastmodified":1473798619,
+    "wof:lastmodified":1496776000,
     "wof:name":"Mataura Stationery (1999)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

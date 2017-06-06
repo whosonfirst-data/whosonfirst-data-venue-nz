@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.024689,-38.654369,178.024689,-38.654369",
     "geom:latitude":-38.654369,
     "geom:longitude":178.024689,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RNR3fP8AuAUNJSSUR3VmA_-38.654369_178.024689@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a14ccbbfa3254387bfa47009f5ed350c",
+    "wof:geomhash":"fb2c68db03fd84e8a594711b8fb39369",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":186508869
         }
     ],
     "wof:id":186508869,
-    "wof:lastmodified":1473798765,
+    "wof:lastmodified":1496776123,
     "wof:name":"Anne's Beauty Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

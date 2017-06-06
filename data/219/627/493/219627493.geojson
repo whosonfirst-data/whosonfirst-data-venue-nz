@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.714798,-36.88784,174.714798,-36.88784",
     "geom:latitude":-36.88784,
     "geom:longitude":174.714798,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85773035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4P1nybSkFqEr5tOyGaTZXc_-36.887840_174.714798@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"da6180e82cca610e9d860515dc363e1a",
+    "wof:geomhash":"f7eaf5a7b1e6ba01f5ccb20657abee4e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773035,
+            "region_id":85687243,
             "venue_id":219627493
         }
     ],
     "wof:id":219627493,
-    "wof:lastmodified":1473798761,
+    "wof:lastmodified":1496775422,
     "wof:name":"ABCO Auto Spares Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

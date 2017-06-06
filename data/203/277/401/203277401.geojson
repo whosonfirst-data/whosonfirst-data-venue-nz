@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.731247,-36.728779,174.731247,-36.728779",
     "geom:latitude":-36.728779,
     "geom:longitude":174.731247,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79xyV3vM9iuSTlg9dEg4dk_-36.728779_174.731247@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f8782efc50b8479e445875bd9f622a95",
+    "wof:geomhash":"2a94d5fdc651561be92b2edafd6569d1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781057,
+            "region_id":85687243,
             "venue_id":203277401
         }
     ],
     "wof:id":203277401,
-    "wof:lastmodified":1473798665,
+    "wof:lastmodified":1496775557,
     "wof:name":"M J Fashions",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

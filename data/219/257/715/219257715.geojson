@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.704117,-36.543694,174.704117,-36.543694",
     "geom:latitude":-36.543694,
     "geom:longitude":174.704117,
@@ -32,27 +33,30 @@
     "sg:website":"http://www.yellowpages.co.nz/for/waiweralodge/dp15481.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101916785,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6H05L7878CTNTA8E5ivouK_-36.543694_174.704117@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c96a02577a16b3936783b8375a6ba06b",
+    "wof:geomhash":"1c3b8de91c82899720fe3faf7c1c2b9b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101916785,
+            "region_id":85687243,
             "venue_id":219257715
         }
     ],
     "wof:id":219257715,
-    "wof:lastmodified":1473798668,
+    "wof:lastmodified":1496776941,
     "wof:name":"Waiwera Coach Trail Villas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

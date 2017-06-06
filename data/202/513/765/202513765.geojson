@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.712631,-37.542126,175.712631,-37.542126",
     "geom:latitude":-37.542126,
     "geom:longitude":175.712631,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915341,
+        102079267
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WNcDnEENQ1VElkaFqMgP0_-37.542126_175.712631@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0064271f771ee17c0b74f17d6b223589",
+    "wof:geomhash":"5bd026f968ee50cd22956a29e7d2e855",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101915341,
+            "region_id":85687229,
             "venue_id":202513765
         }
     ],
     "wof:id":202513765,
-    "wof:lastmodified":1473798691,
+    "wof:lastmodified":1496776686,
     "wof:name":"Medical Laboratory",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

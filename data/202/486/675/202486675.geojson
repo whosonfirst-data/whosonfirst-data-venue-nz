@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.00769,-38.65543,178.00769,-38.65543",
     "geom:latitude":-38.65543,
     "geom:longitude":178.00769,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nTbqcez2yHb8GGe0Igf9O_-38.655430_178.007690@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ee60f482679085b3fe6f708d45cec1d2",
+    "wof:geomhash":"73c1f4bdb953da1749ddba897643ec9f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":202486675
         }
     ],
     "wof:id":202486675,
-    "wof:lastmodified":1473798681,
+    "wof:lastmodified":1496776126,
     "wof:name":"Shivnan Sean Pharmacy Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

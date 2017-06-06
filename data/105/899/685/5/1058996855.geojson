@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.95413208,-37.0518875122,174.95413208,-37.0518875122",
     "geom:latitude":-37.051888,
     "geom:longitude":174.954132,
@@ -18,17 +19,32 @@
     "sg:phone":"+64 9-299 1114",
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687243,
+        102191583,
+        85633345,
+        101915043,
+        102079403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FXTLPyKtO40ZoTHhGlj8s_-37.051888_174.954132@1306270036"
     },
     "wof:country":"NZ",
     "wof:created":1473719385,
-    "wof:geomhash":"6b3dc821d4778b3dbd92c70419170c30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a97a508ff905e7258ca5f63f76e615f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915043,
+            "region_id":85687243,
+            "venue_id":1058996855
+        }
+    ],
     "wof:id":1058996855,
-    "wof:lastmodified":1473719385,
+    "wof:lastmodified":1496777647,
     "wof:name":"Lomas Environmental Structures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.868683,-41.13467,174.868683,-41.13467",
     "geom:latitude":-41.13467,
     "geom:longitude":174.868683,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914925,
+        102079317,
+        85780853
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T9vrlh5Oo29VMYGMkU0v6_-41.134670_174.868683@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2266e72d3b16e53df0d94f524d047001",
+    "wof:geomhash":"1423a635bc56a3dbf4ad248cb73f10d7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "locality_id":101914925,
+            "neighbourhood_id":85780853,
+            "region_id":85687233,
             "venue_id":220187947
         }
     ],
     "wof:id":220187947,
-    "wof:lastmodified":1473798642,
+    "wof:lastmodified":1496776416,
     "wof:name":"Cannons Creek Butchery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780853,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

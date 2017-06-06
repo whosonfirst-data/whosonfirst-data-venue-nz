@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.797348,-39.675198,175.797348,-39.675198",
     "geom:latitude":-39.675198,
     "geom:longitude":175.797348,
@@ -34,27 +35,30 @@
     "sg:website":"http://www.tarata.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914473,
+        102079301
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7c6lVlR1HDoo67RlIdkd1t_-39.675198_175.797348@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"547c7e5a910852a8d4230c044dc4cc4d",
+    "wof:geomhash":"4ed114fde92c510b9b80b740d703533d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":101914473,
+            "region_id":85687251,
             "venue_id":219381059
         }
     ],
     "wof:id":219381059,
-    "wof:lastmodified":1473798691,
+    "wof:lastmodified":1496775990,
     "wof:name":"Tarata Fishaway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

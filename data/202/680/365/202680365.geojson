@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.984879,-36.882397,174.984879,-36.882397",
     "geom:latitude":-36.882397,
     "geom:longitude":174.984879,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914895,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zc0T1F9WDj0i4dRNn1V7b_-36.882397_174.984879@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d194da4d65a95ea1ed8b119ad377fdcd",
+    "wof:geomhash":"9327751d8e31b04bd416919751e62cbc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914895,
+            "region_id":85687243,
             "venue_id":202680365
         }
     ],
     "wof:id":202680365,
-    "wof:lastmodified":1473798698,
+    "wof:lastmodified":1496776381,
     "wof:name":"Better Baby Buggies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

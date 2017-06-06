@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.875443,-37.203266,175.875443,-37.203266",
     "geom:latitude":-37.203266,
     "geom:longitude":175.875443,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915149,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_009KqloRAY3vm1xBKxl80C_-37.203266_175.875443@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ec028cb2bb287ba332c5b942b4a4727a",
+    "wof:geomhash":"cb7c93761f49a60aa4342b4190ed6741",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101915149,
+            "region_id":85687229,
             "venue_id":219299009
         }
     ],
     "wof:id":219299009,
-    "wof:lastmodified":1473798671,
+    "wof:lastmodified":1496776585,
     "wof:name":"Tucks Landing Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

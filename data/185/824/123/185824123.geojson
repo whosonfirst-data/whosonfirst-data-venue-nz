@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.042496,-44.733086,171.042496,-44.733086",
     "geom:latitude":-44.733086,
     "geom:longitude":171.042496,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-689 1377",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914701,
+        102079379
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fuUO4K7knYqKI2G4aPEwy_-44.733086_171.042496@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6d481f76edcfea005700fe0f395c1176",
+    "wof:geomhash":"4fec58a2c4973ee27072d3168279acf8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079379,
+            "locality_id":101914701,
+            "region_id":85687179,
             "venue_id":185824123
         }
     ],
     "wof:id":185824123,
-    "wof:lastmodified":1473798653,
+    "wof:lastmodified":1496776276,
     "wof:name":"Craig Dempster Taxidermy Artist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.706467,-37.539906,175.706467,-37.539906",
     "geom:latitude":-37.539906,
     "geom:longitude":175.706467,
@@ -23,27 +24,30 @@
     "sg:website":"http://www.yellowpages.co.nz/for/cullensengineering/dp30623.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915341,
+        102079267
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k12kKwEOTDbjW8XtejLml_-37.539906_175.706467@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9b4f2b855a32e723c812f5c2290566ad",
+    "wof:geomhash":"16f96815798d6c61dcf73da90f2f72c3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101915341,
+            "region_id":85687229,
             "venue_id":186130353
         }
     ],
     "wof:id":186130353,
-    "wof:lastmodified":1473798662,
+    "wof:lastmodified":1496776687,
     "wof:name":"Cullen Engineering Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

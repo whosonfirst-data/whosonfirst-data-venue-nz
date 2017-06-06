@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.587006,-43.482025,172.587006,-43.482025",
     "geom:latitude":-43.482025,
     "geom:longitude":172.587006,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778221
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EccwhjZ39W91EtGAUJeaL_-43.482025_172.587006@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bbf46fe813449e9deba5ac6a6e28a61f",
+    "wof:geomhash":"892a474d9374d710ae37acefd5e9176d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778221,
+            "region_id":85687179,
             "venue_id":202687711
         }
     ],
     "wof:id":202687711,
-    "wof:lastmodified":1473798669,
+    "wof:lastmodified":1496776015,
     "wof:name":"Cotswold Avenue Free Kindergarten",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778221,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.293823,-41.269409,173.293823,-41.269409",
     "geom:latitude":-41.269409,
     "geom:longitude":173.293823,
@@ -22,42 +23,44 @@
     "sg:province":"Nelson",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
-        101917331,
-        85781545,
-        85781833
+        102079351,
+        85781833,
+        101915555,
+        85781545
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Fqgk6ez8YkoTzSWgQC63l_-41.269409_173.293823@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7cb030d5cf5393d639aa4d7036a8f5a4",
+    "wof:geomhash":"226a8810cdb7ff433c92e9fbb43a544b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101917331,
-            "neighbourhood_id":85781545,
-            "region_id":-1,
+            "county_id":102079351,
+            "locality_id":-1,
+            "neighbourhood_id":85781833,
+            "region_id":85687157,
             "venue_id":169592221
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101917331,
-            "neighbourhood_id":85781833,
-            "region_id":-1,
+            "county_id":102079351,
+            "locality_id":101915555,
+            "neighbourhood_id":85781545,
+            "region_id":85687157,
             "venue_id":169592221
         }
     ],
     "wof:id":169592221,
-    "wof:lastmodified":1473798598,
+    "wof:lastmodified":1496776781,
     "wof:name":"Book Collector",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

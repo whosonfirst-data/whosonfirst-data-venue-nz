@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.797348,-36.880814,174.797348,-36.880814",
     "geom:latitude":-36.880814,
     "geom:longitude":174.797348,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778887
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04bNGM8jITNKyYfCHYISWI_-36.880814_174.797348@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"403800b00e8a1e8f926c5467a87def9c",
+    "wof:geomhash":"0c5bb3453ff72f0d33f9b6c412a08ff1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778887,
+            "region_id":85687243,
             "venue_id":185674953
         }
     ],
     "wof:id":185674953,
-    "wof:lastmodified":1473798604,
+    "wof:lastmodified":1496775622,
     "wof:name":"Momento's",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

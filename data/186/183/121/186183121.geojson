@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.978638,-45.090195,170.978638,-45.090195",
     "geom:latitude":-45.090195,
     "geom:longitude":170.978638,
@@ -23,29 +24,33 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kuA6ayKjeK7x2QZ163xnM_-45.090195_170.978638@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"600780a8ed704fe6225051c06fe7025f",
+    "wof:geomhash":"f21c2933ce69a4e44767fa49ca59d10c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":186183121
         }
     ],
     "wof:id":186183121,
-    "wof:lastmodified":1473798690,
+    "wof:lastmodified":1496776266,
     "wof:name":"Heads Off",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

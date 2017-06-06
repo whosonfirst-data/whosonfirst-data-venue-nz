@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.709961,-38.082043,176.709961,-38.082043",
     "geom:latitude":-38.082043,
     "geom:longitude":176.709961,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-323 7275",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914419,
+        102079319
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I7RCfXTrJzrBh82cYVoXb_-38.082043_176.709961@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3448fe626b7e37ac9635b18af11826d9",
+    "wof:geomhash":"a2eae537ac9df601ab373f54c8d3d0c5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079319,
+            "locality_id":101914419,
+            "region_id":85687175,
             "venue_id":202528367
         }
     ],
     "wof:id":202528367,
-    "wof:lastmodified":1473798687,
+    "wof:lastmodified":1496775960,
     "wof:name":"Midwifery Well Women Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

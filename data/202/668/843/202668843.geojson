@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.297043,-35.68523,174.297043,-35.68523",
     "geom:latitude":-35.68523,
     "geom:longitude":174.297043,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jCqk3F0sdxoRTAppoukUu_-35.685230_174.297043@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d167c1b02bd3c45577575450bce840d3",
+    "wof:geomhash":"a582b2ffca1360a94665bc1883d67eb6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "region_id":85687149,
             "venue_id":202668843
         }
     ],
     "wof:id":202668843,
-    "wof:lastmodified":1473798701,
+    "wof:lastmodified":1496775340,
     "wof:name":"Marshall Kevin Plumber",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

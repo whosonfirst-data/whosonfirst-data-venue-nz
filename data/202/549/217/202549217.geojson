@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.444519,-45.737198,168.444519,-45.737198",
     "geom:latitude":-45.737198,
     "geom:longitude":168.444519,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-248 7750",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101916059,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ybVru7cNg0b4GjyWxzIss_-45.737198_168.444519@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"555d834e502466c4f6cd31ff93b6a6ed",
+    "wof:geomhash":"58d92cfd6923b9364e4d6d7b36c5906a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101916059,
+            "region_id":85687211,
             "venue_id":202549217
         }
     ],
     "wof:id":202549217,
-    "wof:lastmodified":1473798688,
+    "wof:lastmodified":1496776880,
     "wof:name":"Lumsden Physiotherapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

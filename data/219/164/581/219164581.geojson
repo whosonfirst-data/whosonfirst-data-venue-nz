@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.82222,-36.858753,174.82222,-36.858753",
     "geom:latitude":-36.858753,
     "geom:longitude":174.82222,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85773093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yeP3F2lcYsYHNSv9RuPRQ_-36.858753_174.822220@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8cf82a8e37d5c65bbc36c32632dce258",
+    "wof:geomhash":"14cc89df72a00ae8ea0a1d579c54d6e8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85773093,
+            "region_id":85687243,
             "venue_id":219164581
         }
     ],
     "wof:id":219164581,
-    "wof:lastmodified":1473798566,
+    "wof:lastmodified":1496777140,
     "wof:name":"Pacific Provedores Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

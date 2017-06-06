@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.781143,-36.916218,174.781143,-36.916218",
     "geom:latitude":-36.916218,
     "geom:longitude":174.781143,
@@ -24,29 +25,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/cityparks/dp18060.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782479
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ok9LADpbqNZeciFlwijei_-36.916218_174.781143@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9b3ca45a16ec4e528501775b815ca1fd",
+    "wof:geomhash":"658bc5e6f7321e9b95b5216ec4bebc5a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782479,
+            "region_id":85687243,
             "venue_id":202978141
         }
     ],
     "wof:id":202978141,
-    "wof:lastmodified":1473798746,
+    "wof:lastmodified":1496777132,
     "wof:name":"City Park Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

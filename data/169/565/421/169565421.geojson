@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.954498,-37.054554,174.954498,-37.054554",
     "geom:latitude":-37.054554,
     "geom:longitude":174.954498,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101915043,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bz3Vb7CpZwXKRc41o3SF1_-37.054554_174.954498@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1048d0db0097c9eee933c5b4350b6d44",
+    "wof:geomhash":"2d8d032bc8f0fcc0513fa430ec92feff",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915043,
+            "region_id":85687243,
             "venue_id":169565421
         }
     ],
     "wof:id":169565421,
-    "wof:lastmodified":1473798570,
+    "wof:lastmodified":1496777645,
     "wof:name":"Optimus Pyxidis Boxed Gifts (OPBG)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.679108,-40.943329,175.679108,-40.943329",
     "geom:latitude":-40.943329,
     "geom:longitude":175.679108,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079343,
+        85780973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_757jzIMcQbUznH9CTuaX9F_-40.943329_175.679108@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c27f7149fc520be1cd0478b864db1119",
+    "wof:geomhash":"009f8414669a3773be947bb154d5cd75",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780973,
+            "region_id":85687233,
             "venue_id":202447255
         }
     ],
     "wof:id":202447255,
-    "wof:lastmodified":1473798633,
+    "wof:lastmodified":1496776760,
     "wof:name":"Bloomfield & Partners",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

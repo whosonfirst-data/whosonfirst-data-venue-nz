@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.686646,-42.411369,173.686646,-42.411369",
     "geom:latitude":-42.411369,
     "geom:longitude":173.686646,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914427,
+        102079355
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Rx35oWZrMOVOq9gOTOq2f_-42.411369_173.686646@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"130d97f3305f887243fc05fe6eb6a618",
+    "wof:geomhash":"966893efce078f6cbdbb1ad251199dd3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079355,
+            "locality_id":101914427,
+            "region_id":85687179,
             "venue_id":203243507
         }
     ],
     "wof:id":203243507,
-    "wof:lastmodified":1473798664,
+    "wof:lastmodified":1496775968,
     "wof:name":"Stoneham Cottage B S K Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

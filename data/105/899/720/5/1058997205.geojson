@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.972213745,-42.7190322876,170.972213745,-42.7190322876",
     "geom:latitude":-42.719032,
     "geom:longitude":170.972214,
@@ -30,17 +31,32 @@
     ],
     "sg:website":"http://www.kokatahihelicopters.co.nz",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687165,
+        102191583,
+        85633345,
+        101915183,
+        102079363
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sXh3bR9JfIxQHymrtKhfH_-42.719032_170.972214@1306270042"
     },
     "wof:country":"NZ",
     "wof:created":1473719413,
-    "wof:geomhash":"de45791361c22b01af8a9a6ceb0a0041",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f72c237705d26a1407a0c41353f67e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":101915183,
+            "region_id":85687165,
+            "venue_id":1058997205
+        }
+    ],
     "wof:id":1058997205,
-    "wof:lastmodified":1473719413,
+    "wof:lastmodified":1496776615,
     "wof:name":"Kokatahi Helicopters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

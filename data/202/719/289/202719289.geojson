@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.655869,-40.951611,175.655869,-40.951611",
     "geom:latitude":-40.951611,
     "geom:longitude":175.655869,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101916231,
+        101915543,
+        102079343,
         85782451
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_2AQEdIypYU9C1w4FIBBqhx_-40.951611_175.655869@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"89200704b9b0ba011f31508abf132e3f",
+    "wof:geomhash":"eed47576e00479757162c42e9b75b1a7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101916231,
+            "county_id":102079343,
+            "locality_id":101915543,
             "neighbourhood_id":85782451,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":202719289
         }
     ],
     "wof:id":202719289,
-    "wof:lastmodified":1473798717,
+    "wof:lastmodified":1496776768,
     "wof:name":"Fabricare/Floorcare",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",

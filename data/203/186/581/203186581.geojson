@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.874023,-41.223999,174.874023,-41.223999",
     "geom:latitude":-41.223999,
     "geom:longitude":174.874023,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633345,
-        85782489,
+        85687233,
         102191583,
+        85633345,
         101914741,
-        85773005
+        102079337,
+        85773005,
+        85782489
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +51,28 @@
     "wof:geomhash":"55d458f5afc318f5b23acccb4c5da366",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914741,
+            "neighbourhood_id":85773005,
+            "region_id":85687233,
+            "venue_id":203186581
+        },
+        {
             "continent_id":-1,
             "country_id":85633345,
             "county_id":-1,
             "locality_id":-1,
             "neighbourhood_id":85782489,
-            "region_id":-1,
-            "venue_id":203186581
-        },
-        {
-            "continent_id":102191583,
-            "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914741,
-            "neighbourhood_id":85773005,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":203186581
         }
     ],
     "wof:id":203186581,
-    "wof:lastmodified":1473798658,
+    "wof:lastmodified":1491895562,
     "wof:name":"Mansfield Drycleaner & Personal Launderers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

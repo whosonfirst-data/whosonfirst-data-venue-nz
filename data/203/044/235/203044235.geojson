@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.311554,-37.781109,176.311554,-37.781109",
     "geom:latitude":-37.781109,
     "geom:longitude":176.311554,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101915141,
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06nIg81Vjfxk2oIyOKqYhb_-37.781109_176.311554@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"33029b3373f299ce8e1bb19224aa871c",
+    "wof:geomhash":"b567efcf3b8369d0efd51a562ae0f2d2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":101915141,
+            "region_id":85687175,
             "venue_id":203044235
         }
     ],
     "wof:id":203044235,
-    "wof:lastmodified":1473798606,
+    "wof:lastmodified":1496776574,
     "wof:name":"Clipper Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

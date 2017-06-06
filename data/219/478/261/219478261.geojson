@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.305878,-37.9193,175.305878,-37.9193",
     "geom:latitude":-37.9193,
     "geom:longitude":175.305878,
@@ -23,27 +24,30 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914459,
+        102079273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5f60zNZhBIuzrdhXxAa6I0_-37.919300_175.305878@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"58c5762b5936df5f91cf8c572524882e",
+    "wof:geomhash":"72cceea23a7ced750aa2822ae88e407a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079273,
+            "locality_id":101914459,
+            "region_id":85687229,
             "venue_id":219478261
         }
     ],
     "wof:id":219478261,
-    "wof:lastmodified":1473798709,
+    "wof:lastmodified":1496775981,
     "wof:name":"Kaipaki School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

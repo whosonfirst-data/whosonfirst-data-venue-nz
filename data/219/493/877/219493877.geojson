@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.666748,-36.908009,174.666748,-36.908009",
     "geom:latitude":-36.908009,
     "geom:longitude":174.666748,
@@ -32,29 +33,31 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85779005,
+        102191583,
+        85633345,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45iE0lCDBGATj7yGz1T94Q_-36.908009_174.666748@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7ab8a0f69c9550558db9f5678b139042",
+    "wof:geomhash":"fccc5257146278a1841b1a4d291d8f54",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85779005,
+            "region_id":85687243,
             "venue_id":219493877
         }
     ],
     "wof:id":219493877,
-    "wof:lastmodified":1473798737,
+    "wof:lastmodified":1496777107,
     "wof:name":"Duck 'n' Dive Swim Academy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85779005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

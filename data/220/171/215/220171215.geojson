@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.453568,-41.08231,175.453568,-41.08231",
     "geom:latitude":-41.08231,
     "geom:longitude":175.453568,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101915623,
+        102079347
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26j0TuZAKcAmJexTT2oXJb_-41.082310_175.453568@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c28b2ee239b3666ed6aad6010ea4c8ab",
+    "wof:geomhash":"5f335f32786624e75d93142fcfa74dd6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079347,
+            "locality_id":101915623,
+            "region_id":85687233,
             "venue_id":220171215
         }
     ],
     "wof:id":220171215,
-    "wof:lastmodified":1473798654,
+    "wof:lastmodified":1496776814,
     "wof:name":"Tui Glen Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

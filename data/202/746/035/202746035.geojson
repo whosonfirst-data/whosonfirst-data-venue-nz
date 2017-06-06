@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.488861,-45.869499,170.488861,-45.869499",
     "geom:latitude":-45.869499,
     "geom:longitude":170.488861,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85773163
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Xuk6fNQjMjogz3VFdIyDd_-45.869499_170.488861@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"aea0c05ab29bf35cfaf912f31a27955a",
+    "wof:geomhash":"a84155966a62d6c6f35eaa94969fcf1e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85773163,
+            "region_id":85687201,
             "venue_id":202746035
         }
     ],
     "wof:id":202746035,
-    "wof:lastmodified":1473798738,
+    "wof:lastmodified":1496775763,
     "wof:name":"Leslie Groves Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

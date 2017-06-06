@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.019058,-38.659348,178.019058,-38.659348",
     "geom:latitude":-38.659348,
     "geom:longitude":178.019058,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KwM15VFvlxEQM9gCXbbL8_-38.659348_178.019058@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1e03ac7659e7ec76f35dc7c7bdee9fea",
+    "wof:geomhash":"b364dfb347c8d384efb44dbce729c56e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":219995023
         }
     ],
     "wof:id":219995023,
-    "wof:lastmodified":1473798788,
+    "wof:lastmodified":1496776125,
     "wof:name":"Roberts & Harper Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

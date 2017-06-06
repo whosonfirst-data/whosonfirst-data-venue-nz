@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.671692,-37.372013,175.671692,-37.372013",
     "geom:latitude":-37.372013,
     "geom:longitude":175.671692,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-862 8802",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914241,
+        102079263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1n8QNGmEzWskXtVQZr0p1E_-37.372013_175.671692@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b7593c2da4339e5c5018e387ab62188d",
+    "wof:geomhash":"bce4086cc402d2813d2148e2708013a3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079263,
+            "locality_id":101914241,
+            "region_id":85687229,
             "venue_id":203020153
         }
     ],
     "wof:id":203020153,
-    "wof:lastmodified":1473798559,
+    "wof:lastmodified":1496775298,
     "wof:name":"Versatile Home Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

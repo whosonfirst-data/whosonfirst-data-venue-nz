@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.623688,-36.891106,174.623688,-36.891106",
     "geom:latitude":-36.891106,
     "geom:longitude":174.623688,
@@ -33,8 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        102079403,
         85781035
     ],
     "wof:breaches":[],
@@ -47,15 +50,15 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85781035,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":203317149
         }
     ],
     "wof:id":203317149,
-    "wof:lastmodified":1473798677,
+    "wof:lastmodified":1491934916,
     "wof:name":"Dawn Murray Bears",
     "wof:parent_id":85781035,
     "wof:placetype":"venue",

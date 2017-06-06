@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.761948,-36.88221,174.761948,-36.88221",
     "geom:latitude":-36.88221,
     "geom:longitude":174.761948,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782453
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1C0N32LJRS0sVm12ypJRZA_-36.882210_174.761948@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7153f20f60143f21830478349e103244",
+    "wof:geomhash":"98ae49b54b516e4c177727aa7ac9c178",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782453,
+            "region_id":85687243,
             "venue_id":202560599
         }
     ],
     "wof:id":202560599,
-    "wof:lastmodified":1473798697,
+    "wof:lastmodified":1496775452,
     "wof:name":"Mt Eden Foot Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

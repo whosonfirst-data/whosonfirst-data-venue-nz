@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.614761,-43.517998,172.614761,-43.517998",
     "geom:latitude":-43.517998,
     "geom:longitude":172.614761,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778455
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7O6aLTfax5QeDwUzD4zM5i_-43.517998_172.614761@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f6a9c799cdd2fe4cd35bf9a7e1df8d6f",
+    "wof:geomhash":"981ddab173b86ebfcac981ba0b425038",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778455,
+            "region_id":85687179,
             "venue_id":202747323
         }
     ],
     "wof:id":202747323,
-    "wof:lastmodified":1473798719,
+    "wof:lastmodified":1496776087,
     "wof:name":"Merivale Rest Home and Hospital",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

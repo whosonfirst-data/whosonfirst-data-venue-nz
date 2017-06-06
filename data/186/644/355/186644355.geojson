@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.595139,-43.554947,172.595139,-43.554947",
     "geom:latitude":-43.554947,
     "geom:longitude":172.595139,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778369
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45nXfXZxTRLxl7q4Gywpjq_-43.554947_172.595139@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6b59c2d3150c15188f7b46e1e779fc12",
+    "wof:geomhash":"a931771c2f71516ab3e51c00d35fec2b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778369,
+            "region_id":85687179,
             "venue_id":186644355
         }
     ],
     "wof:id":186644355,
-    "wof:lastmodified":1473798767,
+    "wof:lastmodified":1496776054,
     "wof:name":"Transcendental Meditation Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

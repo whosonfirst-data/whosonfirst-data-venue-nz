@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.353958,-36.110321,174.353958,-36.110321",
     "geom:latitude":-36.110321,
     "geom:longitude":174.353958,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 9-431 7079",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101915357,
+        102079259
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7aCozHE3P6cuh5XQTrSGIy_-36.110321_174.353958@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bed24013df0365970c036fa67969ce74",
+    "wof:geomhash":"4677bc3356657bf96f8bc7cafc452deb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":101915357,
+            "region_id":85687149,
             "venue_id":185883077
         }
     ],
     "wof:id":185883077,
-    "wof:lastmodified":1473798625,
+    "wof:lastmodified":1496776702,
     "wof:name":"Matarua Golf Course",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

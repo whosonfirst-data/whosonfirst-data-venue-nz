@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.067673,-39.928246,175.067673,-39.928246",
     "geom:latitude":-39.928246,
     "geom:longitude":175.067673,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914639,
+        102079299,
+        85780873
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Zx9R1mT88bvuf4LEyFVsd_-39.928246_175.067673@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6eaa3f8e27cf2d3daa374eee0f077e36",
+    "wof:geomhash":"1d5fae6dd7263908a2f9a6acf398c059",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":101914639,
+            "neighbourhood_id":85780873,
+            "region_id":85687251,
             "venue_id":202649901
         }
     ],
     "wof:id":202649901,
-    "wof:lastmodified":1473798701,
+    "wof:lastmodified":1496776204,
     "wof:name":"Bill Drewery Plasterers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

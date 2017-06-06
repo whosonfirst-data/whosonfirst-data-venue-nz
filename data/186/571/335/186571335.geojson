@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.860031,-46.195827,168.860031,-46.195827",
     "geom:latitude":-46.195827,
     "geom:longitude":168.860031,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101914503,
+        102079393
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PXY4tiEdGiFzC6HbApf1e_-46.195827_168.860031@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2945c14cd9352e55175b461098461cc0",
+    "wof:geomhash":"6d8631c85dc6dbf0dab2b73300a89fa6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079393,
+            "locality_id":101914503,
+            "region_id":85687211,
             "venue_id":186571335
         }
     ],
     "wof:id":186571335,
-    "wof:lastmodified":1473798771,
+    "wof:lastmodified":1496776000,
     "wof:name":"Mataura School Dental Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

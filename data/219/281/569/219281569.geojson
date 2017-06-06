@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.331268,-35.72385,174.331268,-35.72385",
     "geom:latitude":-35.72385,
     "geom:longitude":174.331268,
@@ -23,10 +24,12 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        101914901,
+        102079257,
         85782533,
+        101914253,
         85780991
     ],
     "wof:breaches":[],
@@ -34,31 +37,31 @@
         "sg:id":"SG_0KHZDs8sqHzc6ibBYL07ul_-35.723850_174.331268@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"de49d39381fa453d13bc3bfd492e25b8",
+    "wof:geomhash":"946ebd2308bf2b43d5d6e6e567f30008",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
+            "county_id":102079257,
+            "locality_id":-1,
             "neighbourhood_id":85782533,
-            "region_id":-1,
+            "region_id":85687149,
             "venue_id":219281569
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
+            "county_id":102079257,
+            "locality_id":101914253,
             "neighbourhood_id":85780991,
-            "region_id":-1,
+            "region_id":85687149,
             "venue_id":219281569
         }
     ],
     "wof:id":219281569,
-    "wof:lastmodified":1473798665,
+    "wof:lastmodified":1496775341,
     "wof:name":"YHA Hostels",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

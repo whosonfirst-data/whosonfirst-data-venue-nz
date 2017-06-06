@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.007858,-36.781822,175.007858,-36.781822",
     "geom:latitude":-36.781822,
     "geom:longitude":175.007858,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914897,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05U7KPpDrCd5gUb3zOKWFk_-36.781822_175.007858@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9c86b3c22d5ceaaba479a405f5dd880f",
+    "wof:geomhash":"42390a9168dd57217933f736a260e270",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914897,
+            "region_id":85687243,
             "venue_id":219571021
         }
     ],
     "wof:id":219571021,
-    "wof:lastmodified":1473798730,
+    "wof:lastmodified":1496776384,
     "wof:name":"Car Clean Company The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

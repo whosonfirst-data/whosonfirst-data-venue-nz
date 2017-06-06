@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.303818,-38.002815,175.303818,-38.002815",
     "geom:latitude":-38.002815,
     "geom:longitude":175.303818,
@@ -36,8 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
+        101914417,
+        102079273,
         85782893
     ],
     "wof:breaches":[],
@@ -45,20 +49,20 @@
         "sg:id":"SG_6OUvBFaYB24SFlIpFYNz2C_-38.002815_175.303818@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c756f71440270f462b18a170784a320a",
+    "wof:geomhash":"1523bcfff14df175a74d349e32158474",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079273,
+            "locality_id":101914417,
             "neighbourhood_id":85782893,
-            "region_id":-1,
+            "region_id":85687229,
             "venue_id":219682959
         }
     ],
     "wof:id":219682959,
-    "wof:lastmodified":1473798782,
+    "wof:lastmodified":1496775958,
     "wof:name":"McBeth Commercial Vehicles",
     "wof:parent_id":85782893,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.744232,-36.847733,174.744232,-36.847733",
     "geom:latitude":-36.847733,
     "geom:longitude":174.744232,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gCr0G1afo84Z7VBMfpPql_-36.847733_174.744232@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5378b1fed652bb088ade6416af690c00",
+    "wof:geomhash":"99758aca5d618c1e222b9437783955af",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782035,
+            "region_id":85687243,
             "venue_id":169636623
         }
     ],
     "wof:id":169636623,
-    "wof:lastmodified":1473798618,
+    "wof:lastmodified":1496775605,
     "wof:name":"Rhythm Compact Discs Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

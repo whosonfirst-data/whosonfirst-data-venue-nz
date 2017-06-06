@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.161972,-37.740509,176.161972,-37.740509",
     "geom:latitude":-37.740509,
     "geom:longitude":176.161972,
@@ -36,27 +37,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914325,
+        102079285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UICuJY0CCRoxpDhW9JGrB_-37.740509_176.161972@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"01ef60f1886425d262ad05bcb2564c4d",
+    "wof:geomhash":"f1e51b5f78a7c3ec92b0cd8523b79ce1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101914325,
+            "region_id":85687175,
             "venue_id":185918557
         }
     ],
     "wof:id":185918557,
-    "wof:lastmodified":1473798636,
+    "wof:lastmodified":1496775877,
     "wof:name":"Deanna Bowden School of Dance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.926514,-36.89994,174.926514,-36.89994",
     "geom:latitude":-36.89994,
     "geom:longitude":174.926514,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85772971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73TwOSlf0dYfkcBFMwIVUn_-36.899940_174.926514@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d4acf350afce75839d0c273e291ae5ab",
+    "wof:geomhash":"620e05f7a1de7bf63fa7dadc41526753",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772971,
+            "region_id":85687243,
             "venue_id":186064237
         }
     ],
     "wof:id":186064237,
-    "wof:lastmodified":1473798612,
+    "wof:lastmodified":1496775394,
     "wof:name":"B & P Coatings",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

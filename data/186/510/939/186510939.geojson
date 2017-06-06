@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.952377,-41.515282,173.952377,-41.515282",
     "geom:latitude":-41.515282,
     "geom:longitude":173.952377,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        102079353,
+        85782355
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ArdOoM4NZavcMkzxULdn7_-41.515282_173.952377@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"391af50954bf17d8cdfc0e4da8e3daac",
+    "wof:geomhash":"f6a733ef96f0516f36bf1d26fb072754",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782355,
+            "region_id":85687185,
             "venue_id":186510939
         }
     ],
     "wof:id":186510939,
-    "wof:lastmodified":1473798763,
+    "wof:lastmodified":1496776832,
     "wof:name":"Caci Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

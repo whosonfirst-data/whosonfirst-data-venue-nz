@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.886887,-41.223396,174.886887,-41.223396",
     "geom:latitude":-41.223396,
     "geom:longitude":174.886887,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914411,
+        102079337,
+        85780825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jvj3LhbcZhPZ5SzaimyWY_-41.223396_174.886887@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ce31774d92bb734b281dca009bc70fed",
+    "wof:geomhash":"0320ed1a6424b4f0c46c8bd473181728",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914411,
+            "neighbourhood_id":85780825,
+            "region_id":85687233,
             "venue_id":186251887
         }
     ],
     "wof:id":186251887,
-    "wof:lastmodified":1473798719,
+    "wof:lastmodified":1496775948,
     "wof:name":"Sew It Seams",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

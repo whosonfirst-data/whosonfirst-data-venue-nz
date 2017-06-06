@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.669708,-40.943813,175.669708,-40.943813",
     "geom:latitude":-40.943813,
     "geom:longitude":175.669708,
@@ -23,29 +24,33 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079343,
+        85780973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pjU3QvUKnmkr56T2k03if_-40.943813_175.669708@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fcf7ef4bc4e5d3cb61139b4ace2b3261",
+    "wof:geomhash":"1056be3cdf97e1856338b107c3d2d9d2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780973,
+            "region_id":85687233,
             "venue_id":202502093
         }
     ],
     "wof:id":202502093,
-    "wof:lastmodified":1473798674,
+    "wof:lastmodified":1496776775,
     "wof:name":"Field Chiropractic Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

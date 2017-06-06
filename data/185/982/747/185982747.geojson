@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.783173,-36.877781,174.783173,-36.877781",
     "geom:latitude":-36.877781,
     "geom:longitude":174.783173,
@@ -33,29 +34,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/broadbentphotography/dp39343.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778887
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KSMlR8WLCN9TlMiOjoUWi_-36.877781_174.783173@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4177d42e69fc8f12dfb571c4ce1b8555",
+    "wof:geomhash":"ae17f5365df54c10ea87197e05ac4778",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778887,
+            "region_id":85687243,
             "venue_id":185982747
         }
     ],
     "wof:id":185982747,
-    "wof:lastmodified":1473798702,
+    "wof:lastmodified":1496775621,
     "wof:name":"Broadbent Vicky",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

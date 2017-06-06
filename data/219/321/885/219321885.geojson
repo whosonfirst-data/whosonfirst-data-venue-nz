@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.612259,-43.525974,172.612259,-43.525974",
     "geom:latitude":-43.525974,
     "geom:longitude":172.612259,
@@ -34,29 +35,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/chateauonthepark/dp22061.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778455
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0On2osXjAehmrSR87GVZvX_-43.525974_172.612259@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"dea1fbf367959fa678bc4299cbea8050",
+    "wof:geomhash":"a3f7e30cf4feec7c8612682d64ccf8af",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778455,
+            "region_id":85687179,
             "venue_id":219321885
         }
     ],
     "wof:id":219321885,
-    "wof:lastmodified":1473798677,
+    "wof:lastmodified":1496776088,
     "wof:name":"Chateau On The Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

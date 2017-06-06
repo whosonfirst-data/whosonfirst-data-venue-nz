@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.758606,-36.894669,174.758606,-36.894669",
     "geom:latitude":-36.894669,
     "geom:longitude":174.758606,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7il5GBm3jQxBub2Ryd0zil_-36.894669_174.758606@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2be73d2378cfe7c67593d0a86352fd91",
+    "wof:geomhash":"6612796fccaac0cbd71f1697dfed1121",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778845,
+            "region_id":85687243,
             "venue_id":186160163
         }
     ],
     "wof:id":186160163,
-    "wof:lastmodified":1473798670,
+    "wof:lastmodified":1496775469,
     "wof:name":"CC (NZ) Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

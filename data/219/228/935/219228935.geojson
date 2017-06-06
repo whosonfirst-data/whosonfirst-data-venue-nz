@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.866776,-42.115482,171.866776,-42.115482",
     "geom:latitude":-42.115482,
     "geom:longitude":171.866776,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-732 8115",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101915213,
+        102079357
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1niIyGcMR4RPUUDJVOX5dp_-42.115482_171.866776@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3e4693009bcd93e8eb84716e16884ae8",
+    "wof:geomhash":"5a8ae6e0a58b95c7b900f5268f24718a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":101915213,
+            "region_id":85687165,
             "venue_id":219228935
         }
     ],
     "wof:id":219228935,
-    "wof:lastmodified":1473798636,
+    "wof:lastmodified":1496776640,
     "wof:name":"Reefton Section Maintenance and Labour Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.763443,-41.30603,174.763443,-41.30603",
     "geom:latitude":-41.30603,
     "geom:longitude":174.763443,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85772849
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_0UmxK2Sig6FkF2yQul4kxO_-41.306030_174.763443@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3221a66b7b69c8d10c167c7e605f80de",
+    "wof:geomhash":"a9c985be041d1ba3e92bf4c99446d900",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85772849,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":235992533
         }
     ],
     "wof:id":235992533,
-    "wof:lastmodified":1473798587,
+    "wof:lastmodified":1496775803,
     "wof:name":"Bogarts Pizza",
     "wof:parent_id":85772849,
     "wof:placetype":"venue",

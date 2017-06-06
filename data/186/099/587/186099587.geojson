@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.031006,-45.971939,168.031006,-45.971939",
     "geom:latitude":-45.971939,
     "geom:longitude":168.031006,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101916943,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QQsYxPgjIKQgg06HFHCaV_-45.971939_168.031006@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"eab32fb998f375e034506ae57e49850e",
+    "wof:geomhash":"90330a90095275953d93a3e7798d164c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101916943,
+            "region_id":85687211,
             "venue_id":186099587
         }
     ],
     "wof:id":186099587,
-    "wof:lastmodified":1473798689,
+    "wof:lastmodified":1496776963,
     "wof:name":"Ohai Coal Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

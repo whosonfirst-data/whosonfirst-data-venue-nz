@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.74057,-36.855923,174.74057,-36.855923",
     "geom:latitude":-36.855923,
     "geom:longitude":174.74057,
@@ -35,29 +36,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/eic/dp23963.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85773127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FdVq4Hpa6lcpL1kg2JfcM_-36.855923_174.740570@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cdb94f54393815304d14e89f2fe70064",
+    "wof:geomhash":"81aca86b68f12321326165cbb787aa44",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773127,
+            "region_id":85687243,
             "venue_id":185805967
         }
     ],
     "wof:id":185805967,
-    "wof:lastmodified":1473798631,
+    "wof:lastmodified":1496775651,
     "wof:name":"E I C Digital Studios Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

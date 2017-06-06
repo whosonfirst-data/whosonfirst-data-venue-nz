@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.688034,-43.498184,172.688034,-43.498184",
     "geom:latitude":-43.498184,
     "geom:longitude":172.688034,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778761
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iMAbvvvariYGNtN9KRiUu_-43.498184_172.688034@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c4f60b6b583b81ae553bf09b8bb2173a",
+    "wof:geomhash":"ae007dc42c0eabed5dd05db76af4304c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778761,
+            "region_id":85687179,
             "venue_id":185934803
         }
     ],
     "wof:id":185934803,
-    "wof:lastmodified":1473798640,
+    "wof:lastmodified":1496776083,
     "wof:name":"Advanced Automotive Engineering",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

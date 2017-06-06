@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"151.216309,-33.87645,151.216309,-33.87645",
     "geom:latitude":-33.87645,
     "geom:longitude":151.216309,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681545,
+        85779229,
+        102191583,
+        404222979,
         85632793,
         101930065,
         102049151,
-        85779229
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"b779dd872ee030a3f291ab7a21e31e03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85632793,
             "county_id":102049151,
+            "localadmin_id":404222979,
             "locality_id":101930065,
             "neighbourhood_id":85779229,
             "region_id":85681545,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":220000777,
-    "wof:lastmodified":1473798551,
+    "wof:lastmodified":1491908086,
     "wof:name":"Dresdner RCM Global Investors",
     "wof:parent_id":85779229,
     "wof:placetype":"venue",

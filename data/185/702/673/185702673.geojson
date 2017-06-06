@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.330719,-37.780483,176.330719,-37.780483",
     "geom:latitude":-37.780483,
     "geom:longitude":176.330719,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101915141,
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Qe4DpTdCMNVlLwjJ2IQnj_-37.780483_176.330719@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b3f521060938d2206bd4e73ea5ee38d9",
+    "wof:geomhash":"0b744a334cae495012a0b0e739a15499",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":101915141,
+            "region_id":85687175,
             "venue_id":185702673
         }
     ],
     "wof:id":185702673,
-    "wof:lastmodified":1473798602,
+    "wof:lastmodified":1496776577,
     "wof:name":"Northern Air Hockey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

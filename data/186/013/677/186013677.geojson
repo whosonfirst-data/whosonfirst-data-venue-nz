@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.896896,-37.030212,174.896896,-37.030212",
     "geom:latitude":-37.030212,
     "geom:longitude":174.896896,
@@ -34,29 +35,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/celebrationcakes/dp48864.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914625,
+        102079403,
+        85782445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YrwLkiNpOd4rY027geSNv_-37.030212_174.896896@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fcea9c60acf905354d6f8b954d38d6c2",
+    "wof:geomhash":"7ed1eabc1b28d3436dd3a9a04bed901a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914625,
+            "neighbourhood_id":85782445,
+            "region_id":85687243,
             "venue_id":186013677
         }
     ],
     "wof:id":186013677,
-    "wof:lastmodified":1473798558,
+    "wof:lastmodified":1496776145,
     "wof:name":"Celebration Cakes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

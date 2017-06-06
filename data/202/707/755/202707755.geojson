@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.660172,-36.915623,174.660172,-36.915623",
     "geom:latitude":-36.915623,
     "geom:longitude":174.660172,
@@ -23,29 +24,31 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85779015,
+        102191583,
+        85633345,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PSdQGEFAzBoM0IsCOFIh8_-36.915623_174.660172@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4765e43fc16db383f8b47af84cf0cd99",
+    "wof:geomhash":"f8725118535e0dc3928a45a9f3095f3f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85779015,
+            "region_id":85687243,
             "venue_id":202707755
         }
     ],
     "wof:id":202707755,
-    "wof:lastmodified":1473798718,
+    "wof:lastmodified":1496775665,
     "wof:name":"Jennifer's Children's Music",
-    "wof:parent_id":-1,
+    "wof:parent_id":85779015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

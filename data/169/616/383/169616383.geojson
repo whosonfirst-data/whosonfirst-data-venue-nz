@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.631195,-40.331703,175.631195,-40.331703",
     "geom:latitude":-40.331703,
     "geom:longitude":175.631195,
@@ -23,29 +24,33 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079307,
+        85781111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FX0OIYKAIrJIpxFvYGsFF_-40.331703_175.631195@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8a9a6f1f46126a510eefeadbc2ec0932",
+    "wof:geomhash":"c91dc8c7a214922909baa8b40b540661",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781111,
+            "region_id":85687251,
             "venue_id":169616383
         }
     ],
     "wof:id":169616383,
-    "wof:lastmodified":1473798603,
+    "wof:lastmodified":1496775745,
     "wof:name":"Regal Book Shop & Lotto",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

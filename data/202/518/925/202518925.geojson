@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.777267,-36.791431,174.777267,-36.791431",
     "geom:latitude":-36.791431,
     "geom:longitude":174.777267,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101915597,
+        102079403,
         85781417
     ],
     "wof:breaches":[],
@@ -43,20 +47,20 @@
         "sg:id":"SG_3WAqRlQdfuIEs8ZARFXsYt_-36.791431_174.777267@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7677a23c3b77a30889fe2abd24f35091",
+    "wof:geomhash":"dedfd3e7e50ebeeb54d311aed0e70bc7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101915597,
             "neighbourhood_id":85781417,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202518925
         }
     ],
     "wof:id":202518925,
-    "wof:lastmodified":1473798692,
+    "wof:lastmodified":1496776807,
     "wof:name":"McCallum Dr A B",
     "wof:parent_id":85781417,
     "wof:placetype":"venue",

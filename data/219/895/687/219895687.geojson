@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.945999,-36.900871,174.945999,-36.900871",
     "geom:latitude":-36.900871,
     "geom:longitude":174.945999,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85772971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dsl8vpW9hHo1CfzFfDnet_-36.900871_174.945999@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b22f6a69442484945416f24bf64c8067",
+    "wof:geomhash":"9ab4b4bfdf14043d32a6facbd7660463",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772971,
+            "region_id":85687243,
             "venue_id":219895687
         }
     ],
     "wof:id":219895687,
-    "wof:lastmodified":1473798789,
+    "wof:lastmodified":1496775484,
     "wof:name":"Roots Shoots & Fruits Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

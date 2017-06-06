@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.765198,-36.794895,174.765198,-36.794895",
     "geom:latitude":-36.794895,
     "geom:longitude":174.765198,
@@ -35,10 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        85773217,
-        85781279
+        102079403,
+        85781279,
+        85773217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,26 +53,26 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":85773217,
-            "region_id":-1,
+            "neighbourhood_id":85781279,
+            "region_id":85687243,
             "venue_id":169805821
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":85781279,
-            "region_id":-1,
+            "neighbourhood_id":85773217,
+            "region_id":85687243,
             "venue_id":169805821
         }
     ],
     "wof:id":169805821,
-    "wof:lastmodified":1473798641,
+    "wof:lastmodified":1491921874,
     "wof:name":"Snow & Waterski Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

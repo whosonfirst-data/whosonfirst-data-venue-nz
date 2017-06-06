@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.420807,-39.913952,176.420807,-39.913952",
     "geom:latitude":-39.913952,
     "geom:longitude":176.420807,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 6-856 6803",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914471,
+        102079333
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qQVLNbS94UjuwwZyaucV6_-39.913952_176.420807@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"37c3820fe1df4c868c03e7901749ebc2",
+    "wof:geomhash":"3e522392e4b998dfde36b36ca925e8cc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079333,
+            "locality_id":101914471,
+            "region_id":85687189,
             "venue_id":169684973
         }
     ],
     "wof:id":169684973,
-    "wof:lastmodified":1473798621,
+    "wof:lastmodified":1496775987,
     "wof:name":"Noble Horsewear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

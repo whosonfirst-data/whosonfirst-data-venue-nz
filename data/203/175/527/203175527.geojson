@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.784317,-41.296265,174.784317,-41.296265",
     "geom:latitude":-41.296265,
     "geom:longitude":174.784317,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85778473
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_2dIt2RB6gG0KWUQpaXuWj1_-41.296265_174.784317@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5d4feb99e2d47bdef3142797d00d61c8",
+    "wof:geomhash":"4a2da208a523eb4b79389a2b32f822dd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85778473,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":203175527
         }
     ],
     "wof:id":203175527,
-    "wof:lastmodified":1473798650,
+    "wof:lastmodified":1496775828,
     "wof:name":"Agitator Laundrette",
     "wof:parent_id":85778473,
     "wof:placetype":"venue",

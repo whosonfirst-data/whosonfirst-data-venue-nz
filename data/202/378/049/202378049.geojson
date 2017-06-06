@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.351257,41.140221,-73.351257,41.140221",
     "geom:latitude":41.140221,
     "geom:longitude":-73.351257,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85847197,
+        102191575,
+        404495861,
         85633793,
         85930969,
         102084283,
-        85847197
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"2a1fc5a03f76bfe8ae3aa230c0d45706",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495861,
             "locality_id":85930969,
             "neighbourhood_id":85847197,
             "region_id":85688629,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":202378049,
-    "wof:lastmodified":1473798552,
+    "wof:lastmodified":1492022066,
     "wof:name":"Leeann Hill",
     "wof:parent_id":85847197,
     "wof:placetype":"venue",

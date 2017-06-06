@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.675934,-37.369904,175.675934,-37.369904",
     "geom:latitude":-37.369904,
     "geom:longitude":175.675934,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914241,
+        102079263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_405hXCIBmb7VIeqnQvFCWI_-37.369904_175.675934@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7da086e72fac2f2fcc07875bb7178a83",
+    "wof:geomhash":"4b468147e96fe7ddfb9fd3e2e7154690",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079263,
+            "locality_id":101914241,
+            "region_id":85687229,
             "venue_id":202652335
         }
     ],
     "wof:id":202652335,
-    "wof:lastmodified":1473798698,
+    "wof:lastmodified":1496775299,
     "wof:name":"Elliffe Ron",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.077866,-38.68277,176.077866,-38.68277",
     "geom:latitude":-38.68277,
     "geom:longitude":176.077866,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        102079281,
+        85782499
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sYFo4BeRqv0tCFVGWZASf_-38.682770_176.077866@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2dd228e2c1b5e6fe58888f5746b82969",
+    "wof:geomhash":"99cb28ec678ae0d5d5fdab60afd2b9cf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782499,
+            "region_id":85687229,
             "venue_id":186565685
         }
     ],
     "wof:id":186565685,
-    "wof:lastmodified":1473798763,
+    "wof:lastmodified":1496775934,
     "wof:name":"Casswell Chris Dental Surgeon",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

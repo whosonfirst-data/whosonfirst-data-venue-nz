@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.597504,-40.354725,175.597504,-40.354725",
     "geom:latitude":-40.354725,
     "geom:longitude":175.597504,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_72xszfovX2pQbe0J58cvy2_-40.354725_175.597504@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"583a86d67a7009919a8452fc615505d5",
+    "wof:geomhash":"25358e7ada3afae66d8a1750d098028a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":185689667
         }
     ],
     "wof:id":185689667,
-    "wof:lastmodified":1473798598,
+    "wof:lastmodified":1496775741,
     "wof:name":"Arena Manawatu",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.000961,-38.65292,178.000961,-38.65292",
     "geom:latitude":-38.65292,
     "geom:longitude":178.000961,
@@ -35,29 +36,33 @@
     "sg:website":"http://www.sycamorepark.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HJPo7ORuXNsMI7Hix3Elx_-38.652920_178.000961@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2d0796faf39ef2b2bec8a5c46a7bfe53",
+    "wof:geomhash":"bafa34282038e12eaa8ac3c160c15cc9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":202762923
         }
     ],
     "wof:id":202762923,
-    "wof:lastmodified":1473798731,
+    "wof:lastmodified":1496776132,
     "wof:name":"Sycamore Park",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

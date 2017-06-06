@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.683121,-36.893169,174.683121,-36.893169",
     "geom:latitude":-36.893169,
     "geom:longitude":174.683121,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778827
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18LZTOY58PrlfOcXoY9Yb9_-36.893169_174.683121@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fed1abcca6e2734f0ffd707a42a48945",
+    "wof:geomhash":"c085c18217cb03c3894f89dcf3d3305f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778827,
+            "region_id":85687243,
             "venue_id":186250627
         }
     ],
     "wof:id":186250627,
-    "wof:lastmodified":1473798711,
+    "wof:lastmodified":1496775685,
     "wof:name":"MCRB Industrial Sewing Machines",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

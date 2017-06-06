@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.026169,-39.913803,175.026169,-39.913803",
     "geom:latitude":-39.913803,
     "geom:longitude":175.026169,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079299,
+        85781125
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N0rwCwcjXOz1VSrAzCb7l_-39.913803_175.026169@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fb46cdbfcc725c50c7f9abcde68bd13f",
+    "wof:geomhash":"995e6e66041d02d164b9178b6fdc9067",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781125,
+            "region_id":85687251,
             "venue_id":186009655
         }
     ],
     "wof:id":186009655,
-    "wof:lastmodified":1473798553,
+    "wof:lastmodified":1496776211,
     "wof:name":"Spurdle Mrs J A JP",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

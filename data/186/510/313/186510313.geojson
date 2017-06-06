@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.745575,-36.815971,174.745575,-36.815971",
     "geom:latitude":-36.815971,
     "geom:longitude":174.745575,
@@ -32,29 +33,31 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85778507,
+        102191583,
+        85633345,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x1H4C1mQh0wCd7zmV8P1Y_-36.815971_174.745575@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"eaea569ede3107163e99f814dbde1f40",
+    "wof:geomhash":"e3a1377f16d8863b47fcef806ddbc751",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778507,
+            "region_id":85687243,
             "venue_id":186510313
         }
     ],
     "wof:id":186510313,
-    "wof:lastmodified":1473798759,
+    "wof:lastmodified":1496775429,
     "wof:name":"Bio Sculpture NZ",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

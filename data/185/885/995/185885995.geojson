@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.732666,-37.236553,174.732666,-37.236553",
     "geom:latitude":-37.236553,
     "geom:longitude":174.732666,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914619,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57dhIU9z9WbAHhTfDcQ1EI_-37.236553_174.732666@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f9e406e35fe8cf510781a82867175a16",
+    "wof:geomhash":"089382163893eb290fd7c71398959e72",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914619,
+            "region_id":85687243,
             "venue_id":185885995
         }
     ],
     "wof:id":185885995,
-    "wof:lastmodified":1473798638,
+    "wof:lastmodified":1496776141,
     "wof:name":"Waiuku Golf & Squash Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

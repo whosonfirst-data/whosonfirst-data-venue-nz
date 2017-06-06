@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.376526,-40.071472,175.376526,-40.071472",
     "geom:latitude":-40.071472,
     "geom:longitude":175.376526,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101915195,
+        102079301
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jKwpwAKqLQKNbC43pRaXi_-40.071472_175.376526@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3944af1c1efe12c6b5d6eb9abbe2ebec",
+    "wof:geomhash":"07df6edaa76a5455dfc2742fa54f35cf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":101915195,
+            "region_id":85687251,
             "venue_id":202884761
         }
     ],
     "wof:id":202884761,
-    "wof:lastmodified":1473798756,
+    "wof:lastmodified":1496776624,
     "wof:name":"Widt Country Recover Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

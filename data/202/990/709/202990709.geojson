@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.233673,-40.46772,175.233673,-40.46772",
     "geom:latitude":-40.46772,
     "geom:longitude":175.233673,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 6-363 7534",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914365,
+        102079313
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5J1ywdibK3ABQYHch2TT46_-40.467720_175.233673@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1b79d2d76d94b721577caef8119d9c54",
+    "wof:geomhash":"7493496a335d68e37b4feeb47bbf8efc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":101914365,
+            "region_id":85687251,
             "venue_id":202990709
         }
     ],
     "wof:id":202990709,
-    "wof:lastmodified":1473798762,
+    "wof:lastmodified":1496775923,
     "wof:name":"Foxton Lawn Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

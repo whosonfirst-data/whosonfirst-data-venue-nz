@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.151413,-39.026466,174.151413,-39.026466",
     "geom:latitude":-39.026466,
     "geom:longitude":174.151413,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687195,
+        102191583,
+        85633345,
+        101915837,
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5suEIRNrhEQwL9WCKrCZmo_-39.026466_174.151413@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"890479d481197e2bf031c364e3cfcd69",
+    "wof:geomhash":"c9216f35263b14d40095636f91d6e7a1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101915837,
+            "region_id":85687195,
             "venue_id":219286165
         }
     ],
     "wof:id":219286165,
-    "wof:lastmodified":1473798662,
+    "wof:lastmodified":1496776847,
     "wof:name":"Braithwell Keep",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

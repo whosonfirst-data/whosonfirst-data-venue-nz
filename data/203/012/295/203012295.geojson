@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"151.203857,-33.868462,151.203857,-33.868462",
     "geom:latitude":-33.868462,
     "geom:longitude":151.203857,
@@ -24,11 +25,13 @@
     "sg:website":"http://www.propertylaw.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681545,
+        85782721,
+        102191583,
+        404226357,
         85632793,
         101932003,
         102049151,
-        85782721
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,9 +41,10 @@
     "wof:geomhash":"9e2a4999bf642f4a669a7f8718fc6868",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85632793,
             "county_id":102049151,
+            "localadmin_id":404226357,
             "locality_id":101932003,
             "neighbourhood_id":85782721,
             "region_id":85681545,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":203012295,
-    "wof:lastmodified":1473798558,
+    "wof:lastmodified":1491899943,
     "wof:name":"Wairarapa Property Law Service",
     "wof:parent_id":85782721,
     "wof:placetype":"venue",

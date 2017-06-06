@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.523819,-41.02393,175.523819,-41.02393",
     "geom:latitude":-41.02393,
     "geom:longitude":175.523819,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101915629,
+        102079345
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rHZDVk8Pr06s7ETH9eV6C_-41.023930_175.523819@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b1b12de8f22a14f8824f88e517c7e794",
+    "wof:geomhash":"c0bdc4191ca65717a62b74b55f80a594",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079345,
+            "locality_id":101915629,
+            "region_id":85687233,
             "venue_id":236030237
         }
     ],
     "wof:id":236030237,
-    "wof:lastmodified":1473798559,
+    "wof:lastmodified":1496776816,
     "wof:name":"Gladstone Vineyard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

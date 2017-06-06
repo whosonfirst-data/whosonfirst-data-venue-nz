@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.977341,-45.091316,170.977341,-45.091316",
     "geom:latitude":-45.091316,
     "geom:longitude":170.977341,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Mumm7tIouuuALxwCWk7Fy_-45.091316_170.977341@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2eda268656820f1f2665dade19a45ab7",
+    "wof:geomhash":"83a4b67fab4a9e7817d936a8cd9a4a15",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":219746035
         }
     ],
     "wof:id":219746035,
-    "wof:lastmodified":1473798791,
+    "wof:lastmodified":1496776263,
     "wof:name":"Gibson Automotives",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

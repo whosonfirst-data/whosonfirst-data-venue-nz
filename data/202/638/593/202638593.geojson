@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.223206,-44.386272,171.223206,-44.386272",
     "geom:latitude":-44.386272,
     "geom:longitude":171.223206,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781471
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OOr553ngqTIFrotxzqy1X_-44.386272_171.223206@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1c6a2112b051c16567ff5c53107ba4bd",
+    "wof:geomhash":"b9b0ef00d07d45e89f2679be0ad53aa4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781471,
+            "region_id":85687179,
             "venue_id":202638593
         }
     ],
     "wof:id":202638593,
-    "wof:lastmodified":1473798704,
+    "wof:lastmodified":1496776751,
     "wof:name":"Graham Taylor Electricians Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

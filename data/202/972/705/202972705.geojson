@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"169.134537,-44.703392,169.134537,-44.703392",
     "geom:latitude":-44.703392,
     "geom:longitude":169.134537,
@@ -23,27 +24,30 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914337,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KMLbUjDV1V4Jp7lOU9y8X_-44.703392_169.134537@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2c6f01cda59b84ecebabb66d73f7bf3e",
+    "wof:geomhash":"7c201664b3d0fed8f76b38921e705810",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":101914337,
+            "region_id":85687201,
             "venue_id":202972705
         }
     ],
     "wof:id":202972705,
-    "wof:lastmodified":1473798753,
+    "wof:lastmodified":1496775902,
     "wof:name":"Georgie P Landscape Architect",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

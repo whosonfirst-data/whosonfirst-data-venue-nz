@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.652313,-36.84642,174.652313,-36.84642",
     "geom:latitude":-36.84642,
     "geom:longitude":174.652313,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782077
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Dmi3RZU2brz4NVcP4yMiK_-36.846420_174.652313@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ed9aef0ac88e4d71cde7e3e6880976bd",
+    "wof:geomhash":"3a31a19a82e1750ba2c534b27d30ea6f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782077,
+            "region_id":85687243,
             "venue_id":203327963
         }
     ],
     "wof:id":203327963,
-    "wof:lastmodified":1473798688,
+    "wof:lastmodified":1496775478,
     "wof:name":"Ray Spencer Agencies",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

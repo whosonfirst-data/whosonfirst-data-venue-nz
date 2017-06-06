@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.09108,-38.715008,176.09108,-38.715008",
     "geom:latitude":-38.715008,
     "geom:longitude":176.09108,
@@ -23,29 +24,33 @@
     "sg:province":"Nelson",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        102079281,
+        85782061
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dSybtxaY0nChV79tgRbHr_-38.715008_176.091080@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"78a5ab0691629134f0244e7478103835",
+    "wof:geomhash":"ff3262c5874f52824751b5cad5162274",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782061,
+            "region_id":85687229,
             "venue_id":169744181
         }
     ],
     "wof:id":169744181,
-    "wof:lastmodified":1473798614,
+    "wof:lastmodified":1496775929,
     "wof:name":"Richmond Heights Foodcentre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

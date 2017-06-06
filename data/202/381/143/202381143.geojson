@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.608353,-36.866837,174.608353,-36.866837",
     "geom:latitude":-36.866837,
     "geom:longitude":174.608353,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781087
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iJu9WNsd1QQYnhIW7cy9z_-36.866837_174.608353@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"03667411b3cdffef77cfc7b5bb94d11c",
+    "wof:geomhash":"c954bd2e6a40968374b6b43a5c4d5e9b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781087,
+            "region_id":85687243,
             "venue_id":202381143
         }
     ],
     "wof:id":202381143,
-    "wof:lastmodified":1473798556,
+    "wof:lastmodified":1496777145,
     "wof:name":"Reiki Healing Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.901321,-41.113213,174.901321,-41.113213",
     "geom:latitude":-41.113213,
     "geom:longitude":174.901321,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079317,
+        85778715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2F2L3bxWtfBHvPIuRyduiL_-41.113213_174.901321@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"18f5041183e2293a7644b426c6258317",
+    "wof:geomhash":"92860605f507e9a2d8bbec403a3b0983",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778715,
+            "region_id":85687233,
             "venue_id":202668175
         }
     ],
     "wof:id":202668175,
-    "wof:lastmodified":1473798695,
+    "wof:lastmodified":1496775860,
     "wof:name":"M P Snook Plumbing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

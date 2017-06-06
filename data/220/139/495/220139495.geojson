@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.629852,-40.346672,175.629852,-40.346672",
     "geom:latitude":-40.346672,
     "geom:longitude":175.629852,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85773241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nRQcrTDoElIzOSsI6Rucj_-40.346672_175.629852@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c0006b2005adff78054316e0feb2c342",
+    "wof:geomhash":"dbb71efdc7f1b3c09d51a613ff7041ea",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85773241,
+            "region_id":85687251,
             "venue_id":220139495
         }
     ],
     "wof:id":220139495,
-    "wof:lastmodified":1473798600,
+    "wof:lastmodified":1496775743,
     "wof:name":"Nectar Juices",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

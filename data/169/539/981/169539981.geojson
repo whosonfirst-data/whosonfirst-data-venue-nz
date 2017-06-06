@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.65332,-36.898983,174.65332,-36.898983",
     "geom:latitude":-36.898983,
     "geom:longitude":174.65332,
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914257,
+        102079403,
         85778985
     ],
     "wof:breaches":[],
@@ -42,20 +46,20 @@
         "sg:id":"SG_0LfWX1NcMffTohPZXWmXFW_-36.898983_174.653320@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"69103e0effbaf37d1a5b169d89380bd6",
+    "wof:geomhash":"dba8aa27d606d8e006036e88bf5ccc63",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914257,
             "neighbourhood_id":85778985,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":169539981
         }
     ],
     "wof:id":169539981,
-    "wof:lastmodified":1473798558,
+    "wof:lastmodified":1496775478,
     "wof:name":"Elephant Audio",
     "wof:parent_id":85778985,
     "wof:placetype":"venue",

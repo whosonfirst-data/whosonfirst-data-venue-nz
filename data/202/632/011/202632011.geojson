@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.605957,-43.533318,172.605957,-43.533318",
     "geom:latitude":-43.533318,
     "geom:longitude":172.605957,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
+        102079401,
         85778569,
         85772821
     ],
@@ -43,31 +46,31 @@
         "sg:id":"SG_0hn7b25Zu4aEzxl7IjOiuz_-43.533318_172.605957@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cb66a1b056e45919d3903f1c653b9a1c",
+    "wof:geomhash":"5b318c67b5f1d84e1062ba7ca7edd4e6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079401,
             "locality_id":101914521,
             "neighbourhood_id":85778569,
-            "region_id":-1,
+            "region_id":85687179,
             "venue_id":202632011
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914521,
+            "county_id":102079401,
+            "locality_id":-1,
             "neighbourhood_id":85772821,
-            "region_id":-1,
+            "region_id":85687179,
             "venue_id":202632011
         }
     ],
     "wof:id":202632011,
-    "wof:lastmodified":1473798693,
+    "wof:lastmodified":1496776029,
     "wof:name":"Aotea Electric Canterbury Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

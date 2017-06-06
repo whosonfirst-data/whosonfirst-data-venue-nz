@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.229599,-41.311211,173.229599,-41.311211",
     "geom:latitude":-41.311211,
     "geom:longitude":173.229599,
@@ -29,29 +30,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/citheatandcool/dp36704.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        101915661,
+        102079351,
+        85773201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2s67DEVWZrTUDBtzrqRQUh_-41.311211_173.229599@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2b95d09907e31f87b830f516e758fbe4",
+    "wof:geomhash":"a4c8cbaa550d9061d380e5186762c856",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":101915661,
+            "neighbourhood_id":85773201,
+            "region_id":85687157,
             "venue_id":169541193
         }
     ],
     "wof:id":169541193,
-    "wof:lastmodified":1473798560,
+    "wof:lastmodified":1496776821,
     "wof:name":"Citi-Heat & Cool",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

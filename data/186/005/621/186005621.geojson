@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.59845,-45.860626,170.59845,-45.860626",
     "geom:latitude":-45.860626,
     "geom:longitude":170.59845,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914315,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LBklJYqQ6nwHCtKJoHtuY_-45.860626_170.598450@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"784cb865774e284d7a324d6801350809",
+    "wof:geomhash":"af7db2389405a92b5ba23bd2ea231421",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914315,
+            "region_id":85687201,
             "venue_id":186005621
         }
     ],
     "wof:id":186005621,
-    "wof:lastmodified":1473798551,
+    "wof:lastmodified":1496775849,
     "wof:name":"Nelson B L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

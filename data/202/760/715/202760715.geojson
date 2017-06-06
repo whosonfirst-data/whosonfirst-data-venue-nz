@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.061127,-40.869598,175.061127,-40.869598",
     "geom:latitude":-40.869598,
     "geom:longitude":175.061127,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914637,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68ZA8hrFxnJsWmnWsv4aSA_-40.869598_175.061127@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ce59ea1089fd8a5e57ba6c9e81f0c72b",
+    "wof:geomhash":"cc02abbe8f36066e71a8ab2b6c591395",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914637,
+            "region_id":85687233,
             "venue_id":202760715
         }
     ],
     "wof:id":202760715,
-    "wof:lastmodified":1473798727,
+    "wof:lastmodified":1496776200,
     "wof:name":"Parkwood Retirement Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

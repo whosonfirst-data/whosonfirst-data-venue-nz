@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.023392,-38.648846,178.023392,-38.648846",
     "geom:latitude":-38.648846,
     "geom:longitude":178.023392,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xFUsmaQ2U4HWORRIK6xiv_-38.648846_178.023392@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6a7f888b1fce610fb42a1a990d54a515",
+    "wof:geomhash":"57c72d083376423da7ce517a59a9f806",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":169685759
         }
     ],
     "wof:id":169685759,
-    "wof:lastmodified":1473798624,
+    "wof:lastmodified":1496776125,
     "wof:name":"Gisborne Riding Club For Disabled Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.818039,-41.311909,174.818039,-41.311909",
     "geom:latitude":-41.311909,
     "geom:longitude":174.818039,
@@ -31,9 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85773025
     ],
     "wof:breaches":[],
@@ -41,20 +44,20 @@
         "sg:id":"SG_4AHz8lylRRugkax5V9fEHg_-41.311909_174.818039@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4c05e076c324d0386bfae887d5dd3e74",
+    "wof:geomhash":"192eb43ffa5e1c816f9dffc87912967f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85773025,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":220150475
         }
     ],
     "wof:id":220150475,
-    "wof:lastmodified":1473798605,
+    "wof:lastmodified":1496775818,
     "wof:name":"The New Zealand Ice Cream Co. Ltd",
     "wof:parent_id":85773025,
     "wof:placetype":"venue",

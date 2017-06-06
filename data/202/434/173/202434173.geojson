@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.775879,-36.883846,174.775879,-36.883846",
     "geom:latitude":-36.883846,
     "geom:longitude":174.775879,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03zCVlE0P7sd6SEYd3Bgcl_-36.883846_174.775879@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2a367c812928179ae779e0cdcb379f5d",
+    "wof:geomhash":"641995b56b8499563d94518c0f0337d6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782389,
+            "region_id":85687243,
             "venue_id":202434173
         }
     ],
     "wof:id":202434173,
-    "wof:lastmodified":1473798625,
+    "wof:lastmodified":1496777126,
     "wof:name":"The Keenan Consulting Group Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

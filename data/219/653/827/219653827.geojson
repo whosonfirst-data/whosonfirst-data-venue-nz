@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.834671,-36.904076,174.834671,-36.904076",
     "geom:latitude":-36.904076,
     "geom:longitude":174.834671,
@@ -36,29 +37,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782457
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aZk1N7t9wd4MsXiPe4cTK_-36.904076_174.834671@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"69a271ee154a36c2f94ba473942cc66b",
+    "wof:geomhash":"62f324f338fece9153a67ae09a6a2254",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782457,
+            "region_id":85687243,
             "venue_id":219653827
         }
     ],
     "wof:id":219653827,
-    "wof:lastmodified":1473798792,
+    "wof:lastmodified":1496775488,
     "wof:name":"Mt Wellington Radiators",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

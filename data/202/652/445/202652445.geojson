@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.772858,-37.805218,175.772858,-37.805218",
     "geom:latitude":-37.805218,
     "geom:longitude":175.772858,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915135,
+        102079267
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LHWOlHElZAziArFkPh0fQ_-37.805218_175.772858@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6887f15c8bc7bc0e9022b6760898cf36",
+    "wof:geomhash":"b32c2dad29046d937bea9560b057014b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101915135,
+            "region_id":85687229,
             "venue_id":202652445
         }
     ],
     "wof:id":202652445,
-    "wof:lastmodified":1473798705,
+    "wof:lastmodified":1496776566,
     "wof:name":"Emson N S & L W",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

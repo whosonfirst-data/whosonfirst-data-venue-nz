@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.645248,-43.560062,172.645248,-43.560062",
     "geom:latitude":-43.560062,
     "geom:longitude":172.645248,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778153
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4l2yIOounim3SJqkQJKazx_-43.560062_172.645248@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e0e543b86709291013d6f2798b2661ec",
+    "wof:geomhash":"d76341cbbe4456278af7f2d259b4a347",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778153,
+            "region_id":85687179,
             "venue_id":219493569
         }
     ],
     "wof:id":219493569,
-    "wof:lastmodified":1473798713,
+    "wof:lastmodified":1496776075,
     "wof:name":"Bumble Bees Swim School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

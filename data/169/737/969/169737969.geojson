@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.294418,-44.244259,171.294418,-44.244259",
     "geom:latitude":-44.244259,
     "geom:longitude":171.294418,
@@ -22,29 +23,34 @@
     "sg:phone":"+64 3-615 7598",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914401,
+        102079373,
+        85782503
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gc6vmo2tTEBcWNJgH4cWh_-44.244259_171.294418@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e79fe78ecd9d7c73071b55a0d83f0475",
+    "wof:geomhash":"c0f33a9cf91cb6a8edd8a78e2c074428",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101914401,
+            "neighbourhood_id":85782503,
+            "region_id":85687179,
             "venue_id":169737969
         }
     ],
     "wof:id":169737969,
-    "wof:lastmodified":1473798623,
+    "wof:lastmodified":1496775941,
     "wof:name":"Maude St Foodcentre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

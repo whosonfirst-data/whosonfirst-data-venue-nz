@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.865158,-41.142586,174.865158,-41.142586",
     "geom:latitude":-41.142586,
     "geom:longitude":174.865158,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914925,
+        102079317,
+        85780853
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sdZhuSvSUS6Gd17hfjILe_-41.142586_174.865158@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b00c146b044577cabf311dc7adb70c7e",
+    "wof:geomhash":"0c1a835f95b7209caeac97a68845ac2a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "locality_id":101914925,
+            "neighbourhood_id":85780853,
+            "region_id":85687233,
             "venue_id":202388259
         }
     ],
     "wof:id":202388259,
-    "wof:lastmodified":1473798559,
+    "wof:lastmodified":1496776406,
     "wof:name":"Pacific Health Services Porirua",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780853,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

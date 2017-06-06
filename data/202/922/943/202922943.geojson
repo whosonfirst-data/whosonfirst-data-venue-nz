@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.024429,-39.927593,175.024429,-39.927593",
     "geom:latitude":-39.927593,
     "geom:longitude":175.024429,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914639,
+        102079299,
+        85781145
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75aPpoVekPRvGNLwmvuLmg_-39.927593_175.024429@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ca32c98ae421f9851f8fd8b538f98242",
+    "wof:geomhash":"9b4ef55377bc2246d34eb434a925571c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":101914639,
+            "neighbourhood_id":85781145,
+            "region_id":85687251,
             "venue_id":202922943
         }
     ],
     "wof:id":202922943,
-    "wof:lastmodified":1473798750,
+    "wof:lastmodified":1496776211,
     "wof:name":"Springvale Garden Centre and Nursery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.378708,-40.064812,175.378708,-40.064812",
     "geom:latitude":-40.064812,
     "geom:longitude":175.378708,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 6-327 5159",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101915195,
+        102079301
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qysZTbhSxxoWsCTkxPl0z_-40.064812_175.378708@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"83927e306776805082aa3d48894b2173",
+    "wof:geomhash":"ec241d0b39d98752be33d2bb05d39e9b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":101915195,
+            "region_id":85687251,
             "venue_id":203171511
         }
     ],
     "wof:id":203171511,
-    "wof:lastmodified":1473798649,
+    "wof:lastmodified":1496776624,
     "wof:name":"Anne's Lead Lighting & Pots",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

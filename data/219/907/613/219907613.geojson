@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.8694,-35.935871,173.8694,-35.935871",
     "geom:latitude":-35.935871,
     "geom:longitude":173.8694,
@@ -23,29 +24,34 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914663,
+        102079259,
+        85782377
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GKKhXlM0HInP7mnmweujx_-35.935871_173.869400@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e9bc987d4e3a35381f5d6f7f52fa4f88",
+    "wof:geomhash":"1b6e6984610c8d59ed16668052e617e4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":101914663,
+            "neighbourhood_id":85782377,
+            "region_id":85687149,
             "venue_id":219907613
         }
     ],
     "wof:id":219907613,
-    "wof:lastmodified":1473798784,
+    "wof:lastmodified":1496776243,
     "wof:name":"Crompton Engineering Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782377,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

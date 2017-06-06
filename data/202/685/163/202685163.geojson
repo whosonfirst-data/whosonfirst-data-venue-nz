@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.211456,-42.453197,171.211456,-42.453197",
     "geom:latitude":-42.453197,
     "geom:longitude":171.211456,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687165,
         102191583,
         85633345,
-        101917297,
+        101915333,
+        102079361,
         85782401,
         85781665
     ],
@@ -44,31 +47,31 @@
         "sg:id":"SG_7hfWYtbwZNpbtKx8TRQgSK_-42.453197_171.211456@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2747fdb799af354ff47eb679b2b33309",
+    "wof:geomhash":"efef9b9890b2b1c86d9e61633749147c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101917297,
+            "county_id":102079361,
+            "locality_id":101915333,
             "neighbourhood_id":85782401,
-            "region_id":-1,
+            "region_id":85687165,
             "venue_id":202685163
         },
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101917297,
+            "county_id":102079361,
+            "locality_id":-1,
             "neighbourhood_id":85781665,
-            "region_id":-1,
+            "region_id":85687165,
             "venue_id":202685163
         }
     ],
     "wof:id":202685163,
-    "wof:lastmodified":1473798699,
+    "wof:lastmodified":1496776664,
     "wof:name":"Barnardos New Zealand",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

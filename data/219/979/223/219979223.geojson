@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.972626,-42.71669,170.972626,-42.71669",
     "geom:latitude":-42.71669,
     "geom:longitude":170.972626,
@@ -23,27 +24,30 @@
     "sg:province":"West Coast",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101915183,
+        102079363
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IA13GFEvvuOv4ZlYJQiSW_-42.716690_170.972626@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f91311f7954e06848b3995a24f75ec3b",
+    "wof:geomhash":"52c4798dd128ac905f11503fe7a428cd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":101915183,
+            "region_id":85687165,
             "venue_id":219979223
         }
     ],
     "wof:id":219979223,
-    "wof:lastmodified":1473798791,
+    "wof:lastmodified":1496776622,
     "wof:name":"Hokitika Veterinary Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

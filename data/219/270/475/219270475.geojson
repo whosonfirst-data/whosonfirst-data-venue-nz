@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.464966,-35.880501,174.464966,-35.880501",
     "geom:latitude":-35.880501,
     "geom:longitude":174.464966,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914421,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qwMyhPKI2pEuucMZa2WLZ_-35.880501_174.464966@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b396aaef25e343ea2e2c186d1bf7f4e1",
+    "wof:geomhash":"570fd451a53f66c71e9e9f9b87cd1ded",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914421,
+            "region_id":85687149,
             "venue_id":219270475
         }
     ],
     "wof:id":219270475,
-    "wof:lastmodified":1473798660,
+    "wof:lastmodified":1496775966,
     "wof:name":"Ataahua Charitable Trust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

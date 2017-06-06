@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.686798,-42.412739,173.686798,-42.412739",
     "geom:latitude":-42.412739,
     "geom:longitude":173.686798,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914427,
+        102079355
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mA4y6WStMsIbcU044w6PW_-42.412739_173.686798@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b824a69f0e690597d4e102f45eafc15e",
+    "wof:geomhash":"33fa38db8b5ee2df6b06839427341c3d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079355,
+            "locality_id":101914427,
+            "region_id":85687179,
             "venue_id":219269807
         }
     ],
     "wof:id":219269807,
-    "wof:lastmodified":1473798665,
+    "wof:lastmodified":1496775967,
     "wof:name":"Albatross Backpacker Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

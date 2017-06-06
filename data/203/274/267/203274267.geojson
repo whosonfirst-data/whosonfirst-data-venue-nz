@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.925766,-36.902847,174.925766,-36.902847",
     "geom:latitude":-36.902847,
     "geom:longitude":174.925766,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85772971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iZ4cfjLn1z9PL57cw3e5F_-36.902847_174.925766@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ce82691f1c5b9406d254df4196888f62",
+    "wof:geomhash":"e7a663d35ac1b667fec1a29b07583579",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772971,
+            "region_id":85687243,
             "venue_id":203274267
         }
     ],
     "wof:id":203274267,
-    "wof:lastmodified":1473798662,
+    "wof:lastmodified":1496775501,
     "wof:name":"NZ Knit Co. Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

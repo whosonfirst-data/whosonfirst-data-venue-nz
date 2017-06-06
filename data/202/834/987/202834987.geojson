@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.233521,-38.147049,176.233521,-38.147049",
     "geom:latitude":-38.147049,
     "geom:longitude":176.233521,
@@ -23,29 +24,34 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914629,
+        102079289,
+        85781705
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_407LqFfHJFJI27Gv9eHnBD_-38.147049_176.233521@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d95944b968513515efe98a83cb5a0b4d",
+    "wof:geomhash":"871c2aecf48ca6a181a21721c9b2f724",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914629,
+            "neighbourhood_id":85781705,
+            "region_id":85687175,
             "venue_id":202834987
         }
     ],
     "wof:id":202834987,
-    "wof:lastmodified":1473798732,
+    "wof:lastmodified":1496776163,
     "wof:name":"Barnetts Colourplus",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

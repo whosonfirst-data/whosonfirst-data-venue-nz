@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.479645,-45.896809,170.479645,-45.896809",
     "geom:latitude":-45.896809,
     "geom:longitude":170.479645,
@@ -23,29 +24,34 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85772879
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rmh9LzvSdkOZ3Po69rYun_-45.896809_170.479645@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"519f264bb8f4c4e23b0b5dce5f89d1dc",
+    "wof:geomhash":"b10283c13dc8f064d1bf9f94e20c578c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85772879,
+            "region_id":85687201,
             "venue_id":219599297
         }
     ],
     "wof:id":219599297,
-    "wof:lastmodified":1473798750,
+    "wof:lastmodified":1496775757,
     "wof:name":"Mobil Caversham",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

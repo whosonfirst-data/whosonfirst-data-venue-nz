@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.75087,-40.297771,175.75087,-40.297771",
     "geom:latitude":-40.297771,
     "geom:longitude":175.75087,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101915881,
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58jbhFGL8RyPi0eNMMpX49_-40.297771_175.750870@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7ab8a82a74b999a0814e2ef6cffe0211",
+    "wof:geomhash":"3f4ca38151d7a0750b538f067125c27f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101915881,
+            "region_id":85687251,
             "venue_id":185924795
         }
     ],
     "wof:id":185924795,
-    "wof:lastmodified":1473798643,
+    "wof:lastmodified":1496776857,
     "wof:name":"Freiling L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

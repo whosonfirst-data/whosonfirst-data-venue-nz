@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.097076,-38.714455,176.097076,-38.714455",
     "geom:latitude":-38.714455,
     "geom:longitude":176.097076,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        102079281,
+        85782061
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FDizL8nJnkhkqfAVJinXk_-38.714455_176.097076@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f89adef3906666692a8aac8ac8aa1f5c",
+    "wof:geomhash":"a8dcb61f2cbda66c98e50bb3f70b4bbf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782061,
+            "region_id":85687229,
             "venue_id":185839279
         }
     ],
     "wof:id":185839279,
-    "wof:lastmodified":1473798627,
+    "wof:lastmodified":1496775928,
     "wof:name":"Wayne Cornwall",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

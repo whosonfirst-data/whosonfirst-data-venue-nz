@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.477402,-45.885113,170.477402,-45.885113",
     "geom:latitude":-45.885113,
     "geom:longitude":170.477402,
@@ -36,29 +37,33 @@
     "sg:website":"http://www.imagesphotography.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        102079387,
+        85778177
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O631LBPpEE16uTi2UlMXu_-45.885113_170.477402@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"87b1ffb28c51249a0890f2d9379e98e7",
+    "wof:geomhash":"c60ec1967a9299e0081798d8b141acc9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778177,
+            "region_id":85687201,
             "venue_id":203108255
         }
     ],
     "wof:id":203108255,
-    "wof:lastmodified":1473798628,
+    "wof:lastmodified":1496775767,
     "wof:name":"Images Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.714172,-45.485615,170.714172,-45.485615",
     "geom:latitude":-45.485615,
     "geom:longitude":170.714172,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-465 1128",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915761,
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76I0VpN5Pgc5sYRQkDlS9X_-45.485615_170.714172@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c756cff253a8368b7e309bc4b4f9b94d",
+    "wof:geomhash":"bb73c198512474b9bfdf0db4187b8adc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101915761,
+            "region_id":85687179,
             "venue_id":169716095
         }
     ],
     "wof:id":169716095,
-    "wof:lastmodified":1473798609,
+    "wof:lastmodified":1496776842,
     "wof:name":"Applebys Gift Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

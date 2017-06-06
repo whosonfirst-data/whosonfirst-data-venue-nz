@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.890793,-37.023087,174.890793,-37.023087",
     "geom:latitude":-37.023087,
     "geom:longitude":174.890793,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914625,
+        102079403,
+        85782445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TN2mV9HAJXyggez0krQ8T_-37.023087_174.890793@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"725117a1d5a462d9af6debe4764334c6",
+    "wof:geomhash":"2cefbbe9afd2e8b965c56c2a6483057d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914625,
+            "neighbourhood_id":85782445,
+            "region_id":85687243,
             "venue_id":169558343
         }
     ],
     "wof:id":169558343,
-    "wof:lastmodified":1473798561,
+    "wof:lastmodified":1496776147,
     "wof:name":"Inscribe Signs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

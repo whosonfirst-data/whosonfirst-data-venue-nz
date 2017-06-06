@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.838104,-36.908085,174.838104,-36.908085",
     "geom:latitude":-36.908085,
     "geom:longitude":174.838104,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782457
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3z0TU13DuuUEjMKOTDWSyQ_-36.908085_174.838104@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0c2175fdb6338ea0ebfdd607240d46d2",
+    "wof:geomhash":"3adca038fbc9d1c7da5ab16bf9a4fcf8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782457,
+            "region_id":85687243,
             "venue_id":220008067
         }
     ],
     "wof:id":220008067,
-    "wof:lastmodified":1473798554,
+    "wof:lastmodified":1496775621,
     "wof:name":"Cash Exchange Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

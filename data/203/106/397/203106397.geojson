@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.977112,-42.712559,170.977112,-42.712559",
     "geom:latitude":-42.712559,
     "geom:longitude":170.977112,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101915183,
+        102079363
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OXkN56zTB3iXvhgVLF4fW_-42.712559_170.977112@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8f6be44adb964d8393b3af0be9557674",
+    "wof:geomhash":"6ce97f19317074bcd01635e05342ae13",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":101915183,
+            "region_id":85687165,
             "venue_id":203106397
         }
     ],
     "wof:id":203106397,
-    "wof:lastmodified":1473798630,
+    "wof:lastmodified":1496776618,
     "wof:name":"Dennis Knight Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.296539,-35.684765,174.296539,-35.684765",
     "geom:latitude":-35.684765,
     "geom:longitude":174.296539,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rjXYonBsBMKWSla78t9mc_-35.684765_174.296539@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b8aaea9df6fcd03bf27f148bb22779fb",
+    "wof:geomhash":"6759b2171e4eadfe254a01e1ced42dca",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "region_id":85687149,
             "venue_id":219478557
         }
     ],
     "wof:id":219478557,
-    "wof:lastmodified":1473798715,
+    "wof:lastmodified":1496775335,
     "wof:name":"Kamo Primary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

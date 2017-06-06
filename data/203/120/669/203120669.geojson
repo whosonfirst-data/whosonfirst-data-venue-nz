@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.739517,-43.192371,172.739517,-43.192371",
     "geom:latitude":-43.192371,
     "geom:longitude":172.739517,
@@ -33,27 +34,30 @@
     "sg:website":"http://www.yellowpages.co.nz/pages/101968752/dp47643.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915337,
+        102079365
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2buUPIImydONQh4PxqRLOY_-43.192371_172.739517@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"129c87774a0e8dee61e0609629a8f6dd",
+    "wof:geomhash":"f9e2e974be4987fc6120816de5a21f8b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079365,
+            "locality_id":101915337,
+            "region_id":85687179,
             "venue_id":203120669
         }
     ],
     "wof:id":203120669,
-    "wof:lastmodified":1473798631,
+    "wof:lastmodified":1496776668,
     "wof:name":"Kowai Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.093552,-35.28685,174.093552,-35.28685",
     "geom:latitude":-35.28685,
     "geom:longitude":174.093552,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101915123,
+        102079255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55BpbG0rNGoUj1JEuEPCNk_-35.286850_174.093552@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d5e0f35bf12b89307dc8760b79ce3703",
+    "wof:geomhash":"135979b99e9fc70d63b026ebb745a523",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101915123,
+            "region_id":85687149,
             "venue_id":202633421
         }
     ],
     "wof:id":202633421,
-    "wof:lastmodified":1473798697,
+    "wof:lastmodified":1496776546,
     "wof:name":"Bay Of Islands Electrical (1988)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

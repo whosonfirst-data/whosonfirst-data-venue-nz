@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.024414,-38.655228,178.024414,-38.655228",
     "geom:latitude":-38.655228,
     "geom:longitude":178.024414,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fYgxwcMEuvTLf1RlpXbhX_-38.655228_178.024414@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f0eb2208c2dfac46bd74e017366d9b3a",
+    "wof:geomhash":"cdaa96d68c1b433a9f7792330ddbcd46",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":169663047
         }
     ],
     "wof:id":169663047,
-    "wof:lastmodified":1473798606,
+    "wof:lastmodified":1496776125,
     "wof:name":"Debs 'n' Bloom",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

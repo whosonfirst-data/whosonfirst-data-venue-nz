@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.763657,-41.302956,174.763657,-41.302956",
     "geom:latitude":-41.302956,
     "geom:longitude":174.763657,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85772849
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_5vXKgn5qo6xB7fZGYwdgNt_-41.302956_174.763657@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9191e9a7be02060736c86653506f543a",
+    "wof:geomhash":"8e2e3fe75ae0de865d35e46c153b3bf2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85772849,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":202803539
         }
     ],
     "wof:id":202803539,
-    "wof:lastmodified":1473798725,
+    "wof:lastmodified":1496775822,
     "wof:name":"McMurray Water Heater Services",
     "wof:parent_id":85772849,
     "wof:placetype":"venue",

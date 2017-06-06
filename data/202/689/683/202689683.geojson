@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.348785,-46.393166,168.348785,-46.393166",
     "geom:latitude":-46.393166,
     "geom:longitude":168.348785,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781431
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JeP7tiMEPrZ6TuGm3JRNQ_-46.393166_168.348785@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1fbbf5454a8997ffcfd7be1d92b7c2fe",
+    "wof:geomhash":"1daa31f56e9330608ac356e5ed1e895c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781431,
+            "region_id":85687211,
             "venue_id":202689683
         }
     ],
     "wof:id":202689683,
-    "wof:lastmodified":1473798693,
+    "wof:lastmodified":1496776714,
     "wof:name":"Gladstone Pre School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

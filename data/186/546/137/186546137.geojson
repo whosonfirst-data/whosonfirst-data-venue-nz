@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.365112,-46.447479,168.365112,-46.447479",
     "geom:latitude":-46.447479,
     "geom:longitude":168.365112,
@@ -23,27 +24,30 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OGNTQvWMVKbBOSTrFPlgM_-46.447479_168.365112@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"231e435eaa484d87fd42dcd50900708c",
+    "wof:geomhash":"351caed8a2b176df29f258d466a6730e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":186546137
         }
     ],
     "wof:id":186546137,
-    "wof:lastmodified":1473798759,
+    "wof:lastmodified":1496776722,
     "wof:name":"Stranz Hair Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

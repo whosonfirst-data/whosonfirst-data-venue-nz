@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.123131,41.189907,-73.123131,41.189907",
     "geom:latitude":41.189907,
     "geom:longitude":-73.123131,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85844831,
+        102191575,
+        404495857,
         85633793,
         85930997,
         102084283,
-        85844831
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"758ea4ea28ae8827a3ccde6c7c119d7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495857,
             "locality_id":85930997,
             "neighbourhood_id":85844831,
             "region_id":85688629,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":203216717,
-    "wof:lastmodified":1473798657,
+    "wof:lastmodified":1491929464,
     "wof:name":"Secondwear Clothing",
     "wof:parent_id":85844831,
     "wof:placetype":"venue",

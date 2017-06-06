@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.1436,-37.713898,176.1436,-37.713898",
     "geom:latitude":-37.713898,
     "geom:longitude":176.1436,
@@ -23,29 +24,33 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85782819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2n9ig1nqUfC0YGd2o6kqUv_-37.713898_176.143600@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b277877b9e0a10d2d2785e720467cc03",
+    "wof:geomhash":"43655323c51b083044c4c2b6c02ea566",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782819,
+            "region_id":85687175,
             "venue_id":186433897
         }
     ],
     "wof:id":186433897,
-    "wof:lastmodified":1473798750,
+    "wof:lastmodified":1496775877,
     "wof:name":"Affordable Aluminium Joinery Repairs & Security",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

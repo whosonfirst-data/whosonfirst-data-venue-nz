@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.964157,-37.96534,176.964157,-37.96534",
     "geom:latitude":-37.96534,
     "geom:longitude":176.964157,
@@ -33,29 +34,33 @@
     "sg:website":"http://www.wananga.ac.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079291,
+        85782901
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jXDTRcg0FmnnRuoYewWfN_-37.965340_176.964157@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a95601a87e45c53ece52de4a27e4512f",
+    "wof:geomhash":"9a7c7b3105d6d023cedfb487e8772bfd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782901,
+            "region_id":85687175,
             "venue_id":219515273
         }
     ],
     "wof:id":219515273,
-    "wof:lastmodified":1473798726,
+    "wof:lastmodified":1496775892,
     "wof:name":"Te Whare Wananga O Awanuiarangi",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.973206,-45.092739,170.973206,-45.092739",
     "geom:latitude":-45.092739,
     "geom:longitude":170.973206,
@@ -23,29 +24,33 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_449uG0upaUqKLC5DyDUJi8_-45.092739_170.973206@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"800b2481173117edaa709d80b5b2da82",
+    "wof:geomhash":"5cc4269145d29c70e535913fc163e299",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":219955057
         }
     ],
     "wof:id":219955057,
-    "wof:lastmodified":1473798786,
+    "wof:lastmodified":1496776271,
     "wof:name":"Pat Brooks & Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

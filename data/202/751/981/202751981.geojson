@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.66481,-43.524685,172.66481,-43.524685",
     "geom:latitude":-43.524685,
     "geom:longitude":172.66481,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781777
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QdcQzn0aNzhS0UkIpe5lf_-43.524685_172.664810@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7df655c30918ffd63a5bd84bb09870e2",
+    "wof:geomhash":"40e501d3db8c4b2e275f008bc6b0ddb1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781777,
+            "region_id":85687179,
             "venue_id":202751981
         }
     ],
     "wof:id":202751981,
-    "wof:lastmodified":1473798723,
+    "wof:lastmodified":1496776042,
     "wof:name":"St James Rest Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

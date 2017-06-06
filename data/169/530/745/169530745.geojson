@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.731277,-43.515919,172.731277,-43.515919",
     "geom:latitude":-43.515919,
     "geom:longitude":172.731277,
@@ -28,29 +29,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85773047
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uBRMXx2iHKm5goo17ryAK_-43.515919_172.731277@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fb6c1cda53cd5fe91b573b9d027b0e30",
+    "wof:geomhash":"5717a7458fe3a5233ac72e229c777374",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85773047,
+            "region_id":85687179,
             "venue_id":169530745
         }
     ],
     "wof:id":169530745,
-    "wof:lastmodified":1473798552,
+    "wof:lastmodified":1496776076,
     "wof:name":"Bank of New Zealand",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

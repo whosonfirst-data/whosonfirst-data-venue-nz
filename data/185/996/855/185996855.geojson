@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.474442,-45.903728,170.474442,-45.903728",
     "geom:latitude":-45.903728,
     "geom:longitude":170.474442,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85772879
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sBn64VrmWBMpNlUVp2Sk8_-45.903728_170.474442@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7a3726cdd33bf38b142809a16c5c81b4",
+    "wof:geomhash":"81d7d29765b273f95e65c3c8a06a365b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85772879,
+            "region_id":85687201,
             "venue_id":185996855
         }
     ],
     "wof:id":185996855,
-    "wof:lastmodified":1473798667,
+    "wof:lastmodified":1496775768,
     "wof:name":"Coster Rev D",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

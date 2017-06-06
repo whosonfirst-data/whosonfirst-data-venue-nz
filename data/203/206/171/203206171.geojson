@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.74881,-43.90921,171.74881,-43.90921",
     "geom:latitude":-43.90921,
     "geom:longitude":171.74881,
@@ -23,29 +24,33 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079371,
+        85782347
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72T8UFDlS9yGZqNyYYBmsI_-43.909210_171.748810@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4ad60a45b4ce88f5b62c8656e2c8da24",
+    "wof:geomhash":"58ce4788bda2aeefda124eda58cc5ae2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782347,
+            "region_id":85687179,
             "venue_id":203206171
         }
     ],
     "wof:id":203206171,
-    "wof:lastmodified":1473798646,
+    "wof:lastmodified":1496776277,
     "wof:name":"Tiny Toes Baby Shoes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

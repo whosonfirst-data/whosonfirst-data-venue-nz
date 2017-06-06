@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.33519,-46.387936,168.33519,-46.387936",
     "geom:latitude":-46.387936,
     "geom:longitude":168.33519,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yZsoAdKq8BdRGK6556Vpv_-46.387936_168.335190@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b776467827ce95d06bf8626eae5172a2",
+    "wof:geomhash":"d8abe0b7cf340f9e7464ec2e68e8b977",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":202620913
         }
     ],
     "wof:id":202620913,
-    "wof:lastmodified":1473798705,
+    "wof:lastmodified":1496776730,
     "wof:name":"Conner Barry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

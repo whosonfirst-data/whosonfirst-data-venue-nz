@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.162354,-37.697899,176.162354,-37.697899",
     "geom:latitude":-37.697899,
     "geom:longitude":176.162354,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85780779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3etfOlLx2iyTFfeOrketQH_-37.697899_176.162354@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f5f5e4f134090dab216e252d4ba17a1b",
+    "wof:geomhash":"44d39fbc8ab08d3a1586f200b38e70c3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780779,
+            "region_id":85687175,
             "venue_id":202763203
         }
     ],
     "wof:id":202763203,
-    "wof:lastmodified":1473798720,
+    "wof:lastmodified":1496775868,
     "wof:name":"The Avenues Retirement Resort",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

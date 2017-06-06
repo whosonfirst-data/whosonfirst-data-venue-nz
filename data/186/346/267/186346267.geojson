@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.963043,-41.197506,174.963043,-41.197506",
     "geom:latitude":-41.197506,
     "geom:longitude":174.963043,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914741,
+        101914319,
+        102079337,
         85778479
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_6B8VjVKaAO9HI7UxuDms6D_-41.197506_174.963043@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"368d9c864e95be285ce58b21b5c7a5e0",
+    "wof:geomhash":"67684991bc9a0863948d9d6a723e48eb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914741,
+            "county_id":102079337,
+            "locality_id":101914319,
             "neighbourhood_id":85778479,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":186346267
         }
     ],
     "wof:id":186346267,
-    "wof:lastmodified":1473798742,
+    "wof:lastmodified":1496775853,
     "wof:name":"Capital Furnaces",
     "wof:parent_id":85778479,
     "wof:placetype":"venue",

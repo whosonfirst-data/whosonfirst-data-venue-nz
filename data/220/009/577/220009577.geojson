@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.748352,-36.906998,174.748352,-36.906998",
     "geom:latitude":-36.906998,
     "geom:longitude":174.748352,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ujnjOoAJHpaBabfdSb23f_-36.906998_174.748352@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e385479738efeabe19f8615318e736f3",
+    "wof:geomhash":"c58a21fb3c5d455647002ad25d38b907",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778845,
+            "region_id":85687243,
             "venue_id":220009577
         }
     ],
     "wof:id":220009577,
-    "wof:lastmodified":1473798564,
+    "wof:lastmodified":1496775447,
     "wof:name":"Freddies Finance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.796661,-36.880741,174.796661,-36.880741",
     "geom:latitude":-36.880741,
     "geom:longitude":174.796661,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778887
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GTCVyGfjDNFouuv5GnsSq_-36.880741_174.796661@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"255e1b75fcceedc863b7a1a6437e08bf",
+    "wof:geomhash":"3b9c3204dfd870cfe2325549c0733992",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778887,
+            "region_id":85687243,
             "venue_id":169547555
         }
     ],
     "wof:id":169547555,
-    "wof:lastmodified":1473798560,
+    "wof:lastmodified":1496777184,
     "wof:name":"Antheas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.137054,-37.697163,176.137054,-37.697163",
     "geom:latitude":-37.697163,
     "geom:longitude":176.137054,
@@ -23,29 +24,33 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85780779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lVuTynqHgw4dvCgXbaDru_-37.697163_176.137054@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bb6d3d91b9e2cbecc3640db3adbf9e4b",
+    "wof:geomhash":"18de5e66df51a7de4d5be4b389ea5b2f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780779,
+            "region_id":85687175,
             "venue_id":219667061
         }
     ],
     "wof:id":219667061,
-    "wof:lastmodified":1473798790,
+    "wof:lastmodified":1496775876,
     "wof:name":"S & M White Walling",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

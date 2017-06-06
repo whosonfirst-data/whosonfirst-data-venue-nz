@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.842545,-37.391705,175.842545,-37.391705",
     "geom:latitude":-37.391705,
     "geom:longitude":175.842545,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915083,
+        102079263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jD47kVHOuXy0sAY0LH4rJ_-37.391705_175.842545@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"95abf6158b6bfe1c4d2b87cf875e595d",
+    "wof:geomhash":"5c639fc12ff97d71ceb5c13666b819fb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079263,
+            "locality_id":101915083,
+            "region_id":85687229,
             "venue_id":203118299
         }
     ],
     "wof:id":203118299,
-    "wof:lastmodified":1473798630,
+    "wof:lastmodified":1496776536,
     "wof:name":"Tattoo Studio - Dynamic Dermagraphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

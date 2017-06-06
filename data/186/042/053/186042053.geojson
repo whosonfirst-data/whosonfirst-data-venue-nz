@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.835388,-36.891541,174.835388,-36.891541",
     "geom:latitude":-36.891541,
     "geom:longitude":174.835388,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101915591,
+        102079403,
+        85778857
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +50,19 @@
     "wof:geomhash":"b431cf2a56257f79d49a1a8474f71fa5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915591,
+            "neighbourhood_id":85778857,
+            "region_id":85687243,
             "venue_id":186042053
         }
     ],
     "wof:id":186042053,
-    "wof:lastmodified":1473798615,
+    "wof:lastmodified":1491889852,
     "wof:name":"Eco Tech Solutions Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

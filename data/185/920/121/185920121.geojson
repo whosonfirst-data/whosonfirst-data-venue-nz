@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.740875,-41.283745,174.740875,-41.283745",
     "geom:latitude":-41.283745,
     "geom:longitude":174.740875,
@@ -36,29 +37,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LKCgigEho2k6ziD1IahOn_-41.283745_174.740875@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9aa6e656f6f071754520705c28aa0067",
+    "wof:geomhash":"fdaf104a8818fbe6888b4deae1b1d933",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772989,
+            "region_id":85687233,
             "venue_id":185920121
         }
     ],
     "wof:id":185920121,
-    "wof:lastmodified":1473798655,
+    "wof:lastmodified":1496775808,
     "wof:name":"Karori Dance Academy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

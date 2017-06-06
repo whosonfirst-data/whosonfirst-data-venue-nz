@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.744858,-36.851871,174.744858,-36.851871",
     "geom:latitude":-36.851871,
     "geom:longitude":174.744858,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85773127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o3z22o8XrjoxP9u0Wvobx_-36.851871_174.744858@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"43470ef43f10b3171b3dfb453f85cd2b",
+    "wof:geomhash":"468c7029a0733d436f12107e432c1aed",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773127,
+            "region_id":85687243,
             "venue_id":235970547
         }
     ],
     "wof:id":235970547,
-    "wof:lastmodified":1473798578,
+    "wof:lastmodified":1496775423,
     "wof:name":"The Oval Cafe & Bar",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

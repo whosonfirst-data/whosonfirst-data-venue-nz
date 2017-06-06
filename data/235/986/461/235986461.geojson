@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.275269,-44.235115,171.275269,-44.235115",
     "geom:latitude":-44.235115,
     "geom:longitude":171.275269,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914401,
+        102079373,
+        85782503
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KrF41BDfJI8d9zsfjnYlr_-44.235115_171.275269@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f8b1f8c650a4d96e0c63e3b9921bbd88",
+    "wof:geomhash":"161dbe5744a627dae51cbb2afeefcbf3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101914401,
+            "neighbourhood_id":85782503,
+            "region_id":85687179,
             "venue_id":235986461
         }
     ],
     "wof:id":235986461,
-    "wof:lastmodified":1473798574,
+    "wof:lastmodified":1496775942,
     "wof:name":"Tea Pot Inn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

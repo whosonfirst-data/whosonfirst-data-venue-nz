@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.894989,-39.605679,176.894989,-39.605679",
     "geom:latitude":-39.605679,
     "geom:longitude":176.894989,
@@ -23,27 +24,30 @@
     "sg:province":"Hawke's Bay",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101915031,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BulThkitw6UfRJfV0lrI2_-39.605679_176.894989@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"38651fe84c446803ad15fb5a2c16c59f",
+    "wof:geomhash":"eada063f24233c3b91827fb9a9917da7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101915031,
+            "region_id":85687189,
             "venue_id":169749717
         }
     ],
     "wof:id":169749717,
-    "wof:lastmodified":1473798605,
+    "wof:lastmodified":1496777633,
     "wof:name":"Whakatu Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.755661,-36.640549,174.755661,-36.640549",
     "geom:latitude":-36.640549,
     "geom:longitude":174.755661,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914559,
+        102079403,
+        85781995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vkvBi9TDOXW4nCJ3BXHk3_-36.640549_174.755661@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9e520adfdbc8de1f4a9b3ba4214c7f5e",
+    "wof:geomhash":"c2eef92aea0db418c6320bd6e4ce7bbf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914559,
+            "neighbourhood_id":85781995,
+            "region_id":85687243,
             "venue_id":202502589
         }
     ],
     "wof:id":202502589,
-    "wof:lastmodified":1473798681,
+    "wof:lastmodified":1496776111,
     "wof:name":"Hibiscus Coast Chiropractic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

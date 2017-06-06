@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.944092,-37.416344,175.944092,-37.416344",
     "geom:latitude":-37.416344,
     "geom:longitude":175.944092,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101915147,
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WJzri9NyFy5aSOvyWzgU4_-37.416344_175.944092@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"94b5ea3da35a94bf1aa65b6918c75646",
+    "wof:geomhash":"3d43056bda696eea99905d6eac162c45",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":101915147,
+            "region_id":85687175,
             "venue_id":203231451
         }
     ],
     "wof:id":203231451,
-    "wof:lastmodified":1473798650,
+    "wof:lastmodified":1496776579,
     "wof:name":"Kaimai Socks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

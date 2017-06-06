@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.786041,-36.884037,174.786041,-36.884037",
     "geom:latitude":-36.884037,
     "geom:longitude":174.786041,
@@ -35,29 +36,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778887,
+        85782389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1v9EUSq9CnLaB7ubn4XL2N_-36.884037_174.786041@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4cfa081c21437668219505ca0d2cebd3",
+    "wof:geomhash":"11439d0923abaad6855ddc0a03603b86",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778887,
+            "region_id":85687243,
+            "venue_id":219991541
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782389,
+            "region_id":85687243,
             "venue_id":219991541
         }
     ],
     "wof:id":219991541,
-    "wof:lastmodified":1473798797,
+    "wof:lastmodified":1496775626,
     "wof:name":"Laery & Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

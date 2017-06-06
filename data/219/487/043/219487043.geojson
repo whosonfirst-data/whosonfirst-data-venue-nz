@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.917145,-41.210518,174.917145,-41.210518",
     "geom:latitude":-41.210518,
     "geom:longitude":174.917145,
@@ -23,8 +24,12 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914915,
+        102079337,
+        85782435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,18 +39,19 @@
     "wof:geomhash":"39169bbed7631cf75500a08a24c38020",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914915,
+            "neighbourhood_id":85782435,
+            "region_id":85687233,
             "venue_id":219487043
         }
     ],
     "wof:id":219487043,
-    "wof:lastmodified":1473798709,
+    "wof:lastmodified":1491908125,
     "wof:name":"St Bernard's College",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

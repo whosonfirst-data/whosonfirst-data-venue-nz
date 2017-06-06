@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.000015,-41.294628,174.000015,-41.294628",
     "geom:latitude":-41.294628,
     "geom:longitude":174.000015,
@@ -23,27 +24,30 @@
     "sg:province":"Marlborough",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101915339,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lVkmsLRsfeFsZMoeZoPoi_-41.294628_174.000015@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0fe26e33211ae172ea990f6b301fdc01",
+    "wof:geomhash":"faaef69aa2289e0f2a20fc3109a87d49",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101915339,
+            "region_id":85687185,
             "venue_id":202965091
         }
     ],
     "wof:id":202965091,
-    "wof:lastmodified":1473798746,
+    "wof:lastmodified":1496776676,
     "wof:name":"Environmental Design Consultancy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

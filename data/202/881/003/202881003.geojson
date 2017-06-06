@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.689346,-43.51421,172.689346,-43.51421",
     "geom:latitude":-43.51421,
     "geom:longitude":172.689346,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53n0eAqAxWX2uFIoPRcHoE_-43.514210_172.689346@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"89dd6d86483dd28b841a9147cf955d2f",
+    "wof:geomhash":"689eeb70430d3f8f0b8069edc79f5d9d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778711,
+            "region_id":85687179,
             "venue_id":202881003
         }
     ],
     "wof:id":202881003,
-    "wof:lastmodified":1473798745,
+    "wof:lastmodified":1496776059,
     "wof:name":"Old Oak Upholstery Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

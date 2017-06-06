@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.951218,-41.529556,173.951218,-41.529556",
     "geom:latitude":-41.529556,
     "geom:longitude":173.951218,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101915709,
+        102079353,
+        85781697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BPNWfw5PGXhGk32GFYwVD_-41.529556_173.951218@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c88ca12cb6274fc327e91b36ea6961a2",
+    "wof:geomhash":"ff00e053d64bfd821d6e2057578ed025",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101915709,
+            "neighbourhood_id":85781697,
+            "region_id":85687185,
             "venue_id":186441513
         }
     ],
     "wof:id":186441513,
-    "wof:lastmodified":1473798751,
+    "wof:lastmodified":1496776831,
     "wof:name":"Dey J B & S F",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

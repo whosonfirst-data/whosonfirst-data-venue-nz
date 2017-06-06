@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.520706,-45.839832,170.520706,-45.839832",
     "geom:latitude":-45.839832,
     "geom:longitude":170.520706,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
-        101914759,
+        101914269,
+        102079387,
         85778419
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_0fV29PW5z418gtXUz5eSbe_-45.839832_170.520706@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8f6bf20ecff9b65f9bd850573ea873f7",
+    "wof:geomhash":"eb1e931d31d92705749f25ae065e4b9a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914759,
+            "county_id":102079387,
+            "locality_id":101914269,
             "neighbourhood_id":85778419,
-            "region_id":-1,
+            "region_id":85687201,
             "venue_id":203181765
         }
     ],
     "wof:id":203181765,
-    "wof:lastmodified":1473798654,
+    "wof:lastmodified":1496775772,
     "wof:name":"Looking Good",
     "wof:parent_id":85778419,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.533798,-45.883518,170.533798,-45.883518",
     "geom:latitude":-45.883518,
     "geom:longitude":170.533798,
@@ -23,29 +24,34 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85778701
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O9pHdxAMKYNGWP7B8UEGz_-45.883518_170.533798@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7d78d0c6ba34df90fc11adbe0f19f5bc",
+    "wof:geomhash":"7a3c48ecca5f055e7a4a3dee8e93e9f0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85778701,
+            "region_id":85687201,
             "venue_id":202991731
         }
     ],
     "wof:id":202991731,
-    "wof:lastmodified":1473798764,
+    "wof:lastmodified":1496775773,
     "wof:name":"Howard's Way",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.875076,-41.221294,174.875076,-41.221294",
     "geom:latitude":-41.221294,
     "geom:longitude":174.875076,
@@ -23,10 +24,11 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633345,
-        85782489,
+        85687233,
         102191583,
-        101914741,
+        85633345,
+        102079337,
+        85782489,
         85773005
     ],
     "wof:breaches":[],
@@ -34,31 +36,31 @@
         "sg:id":"SG_50ByR22cVO68r8qdfcOuQE_-41.221294_174.875076@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9267628e70eb0773d69d118d1a39b55a",
+    "wof:geomhash":"009b50300ebb80ae1a51964f03fa8135",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079337,
             "locality_id":-1,
             "neighbourhood_id":85782489,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":186276239
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914741,
+            "county_id":102079337,
+            "locality_id":-1,
             "neighbourhood_id":85773005,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":186276239
         }
     ],
     "wof:id":186276239,
-    "wof:lastmodified":1473798710,
+    "wof:lastmodified":1496775945,
     "wof:name":"Electronic Communication Solutions Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

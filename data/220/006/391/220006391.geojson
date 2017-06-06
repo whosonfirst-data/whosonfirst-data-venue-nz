@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.976028,-37.957615,176.976028,-37.957615",
     "geom:latitude":-37.957615,
     "geom:longitude":176.976028,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079291,
+        85782901
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03QXHh3GtUAHjHPZTw5wGm_-37.957615_176.976028@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9f8dbafc66a080c139ce9c671f2a4642",
+    "wof:geomhash":"fa3fbe55d9e4c2b3bf702389e54bc4d5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782901,
+            "region_id":85687175,
             "venue_id":220006391
         }
     ],
     "wof:id":220006391,
-    "wof:lastmodified":1473798556,
+    "wof:lastmodified":1496775891,
     "wof:name":"Spicers Portfolio Management Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

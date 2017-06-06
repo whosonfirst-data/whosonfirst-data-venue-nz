@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.047012,-40.87841,175.047012,-40.87841",
     "geom:latitude":-40.87841,
     "geom:longitude":175.047012,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914637,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZQ9VlEuy4a74HlhDwttaj_-40.878410_175.047012@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d20411187e2f886df352d1217d5a9f24",
+    "wof:geomhash":"25ae38b623bd2b6351d0d9e37dd055d3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914637,
+            "region_id":85687233,
             "venue_id":202429111
         }
     ],
     "wof:id":202429111,
-    "wof:lastmodified":1473798624,
+    "wof:lastmodified":1496776194,
     "wof:name":"Waikanae Psychological Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

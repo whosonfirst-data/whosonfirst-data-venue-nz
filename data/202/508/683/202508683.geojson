@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.77478,-36.792099,174.77478,-36.792099",
     "geom:latitude":-36.792099,
     "geom:longitude":174.77478,
@@ -34,9 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        102079403,
         85773217,
+        101915597,
         85781417
     ],
     "wof:breaches":[],
@@ -44,31 +48,31 @@
         "sg:id":"SG_3eXEke7lejxPsQYSSQR5xE_-36.792099_174.774780@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"150fa1b4d181b8cd015836676831ce4a",
+    "wof:geomhash":"484bac7e8bf3e84ef3844b8b19ae4dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85773217,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202508683
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101915597,
             "neighbourhood_id":85781417,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202508683
         }
     ],
     "wof:id":202508683,
-    "wof:lastmodified":1473798690,
+    "wof:lastmodified":1496776806,
     "wof:name":"Julian A Lofts",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

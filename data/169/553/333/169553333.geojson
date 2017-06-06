@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.353973,-36.110321,174.353973,-36.110321",
     "geom:latitude":-36.110321,
     "geom:longitude":174.353973,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 800 306 615",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101915357,
+        102079259
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XQ1ahvl8I2Cd9qTgEVWRM_-36.110321_174.353973@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"867712ac250795c181cf6c888152f7aa",
+    "wof:geomhash":"23544b2a2635bdd598203aa19a77292b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":101915357,
+            "region_id":85687149,
             "venue_id":169553333
         }
     ],
     "wof:id":169553333,
-    "wof:lastmodified":1473798570,
+    "wof:lastmodified":1496776703,
     "wof:name":"Eclipse Eyewear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.259735,-35.100063,173.259735,-35.100063",
     "geom:latitude":-35.100063,
     "geom:longitude":173.259735,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101915171,
+        102079255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GUmY6l7S2TOvn2gyHg55H_-35.100063_173.259735@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"148f71bf8b5ee0fd5dcba68dfba5d62f",
+    "wof:geomhash":"b9c94b93364698f07a23af87a0f683de",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101915171,
+            "region_id":85687149,
             "venue_id":186570149
         }
     ],
     "wof:id":186570149,
-    "wof:lastmodified":1473798761,
+    "wof:lastmodified":1496776607,
     "wof:name":"Kaitaia Intermediate School Dental Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

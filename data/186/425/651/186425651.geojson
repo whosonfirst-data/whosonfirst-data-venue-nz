@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.027835,51.407162,-0.027835,51.407162",
     "geom:latitude":51.407162,
     "geom:longitude":-0.027835,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85785551,
-        85633159,
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
         101750367,
-        85684235
+        85684061
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,18 @@
     "wof:geomhash":"d2879877ae8b088025c76cccd016cf6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
+            "macroregion_id":404227469,
             "neighbourhood_id":85785551,
-            "region_id":85684235,
+            "region_id":85684061,
             "venue_id":186425651
         }
     ],
     "wof:id":186425651,
-    "wof:lastmodified":1473798758,
+    "wof:lastmodified":1491908090,
     "wof:name":"Commercial Interiors",
     "wof:parent_id":85785551,
     "wof:placetype":"venue",

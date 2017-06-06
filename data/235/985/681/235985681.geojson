@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.249207,-44.411327,171.249207,-44.411327",
     "geom:latitude":-44.411327,
     "geom:longitude":171.249207,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1npYrKBBdRpkyVsRwZYBIl_-44.411327_171.249207@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d197912a09d1780f28405fe55a524553",
+    "wof:geomhash":"2fb14589d7da594c72ff883a768cc67a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781671,
+            "region_id":85687179,
             "venue_id":235985681
         }
     ],
     "wof:id":235985681,
-    "wof:lastmodified":1473798578,
+    "wof:lastmodified":1496776742,
     "wof:name":"Snack Attack",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

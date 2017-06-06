@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.558472,-43.517033,172.558472,-43.517033",
     "geom:latitude":-43.517033,
     "geom:longitude":172.558472,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778141
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qiyYXxcH9oUEMpqCoUe2W_-43.517033_172.558472@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"139fd02fe10342989aef9dc769d0a181",
+    "wof:geomhash":"db78bbcf8414436059cf8fff8a132c14",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778141,
+            "region_id":85687179,
             "venue_id":203113321
         }
     ],
     "wof:id":203113321,
-    "wof:lastmodified":1473798628,
+    "wof:lastmodified":1496776056,
     "wof:name":"Simply Wedding Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

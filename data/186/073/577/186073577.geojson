@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.79274,-36.807266,174.79274,-36.807266",
     "geom:latitude":-36.807266,
     "geom:longitude":174.79274,
@@ -23,7 +24,12 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
+        102191583,
         85633345,
+        101915597,
+        102079403,
+        85781267,
         85778157
     ],
     "wof:breaches":[],
@@ -31,22 +37,31 @@
         "sg:id":"SG_4bvjtZZ5hLtQADFqUvN3E9_-36.807266_174.792740@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"92ef20cb952d610133cc506e86c2ef4d",
+    "wof:geomhash":"5b9fb8882893902503c7ade0ef8f9265",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101915597,
+            "neighbourhood_id":85781267,
+            "region_id":85687243,
+            "venue_id":186073577
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915597,
             "neighbourhood_id":85778157,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":186073577
         }
     ],
     "wof:id":186073577,
-    "wof:lastmodified":1473798631,
+    "wof:lastmodified":1496776806,
     "wof:name":"Solution Management Ltd",
-    "wof:parent_id":85778157,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

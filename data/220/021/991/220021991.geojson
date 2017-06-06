@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.775162,-41.25161,174.775162,-41.25161",
     "geom:latitude":-41.25161,
     "geom:longitude":174.775162,
@@ -29,29 +30,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/cossiganzltd/dp35586.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85773055
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2L3ifL3AlqKWGLASPNAQx7_-41.251610_174.775162@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f34eb0dee427dae3620b467129998e02",
+    "wof:geomhash":"05989dc6736918452bbc893e6ee67023",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85773055,
+            "region_id":85687233,
             "venue_id":220021991
         }
     ],
     "wof:id":220021991,
-    "wof:lastmodified":1473798574,
+    "wof:lastmodified":1496775802,
     "wof:name":"Cossiga Wellington Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

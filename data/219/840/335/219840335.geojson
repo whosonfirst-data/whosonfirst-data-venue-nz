@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.887817,-39.52,176.887817,-39.52",
     "geom:latitude":-39.52,
     "geom:longitude":176.887817,
@@ -23,29 +24,34 @@
     "sg:province":"Hawke's Bay",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914679,
+        102079331,
+        85781063
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tFOvZ7pviyXyrvHomwT0n_-39.520000_176.887817@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2043e6ef99a7bb2e085064296b9583f7",
+    "wof:geomhash":"8a90325ad3e9859e6772df34581b5314",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101914679,
+            "neighbourhood_id":85781063,
+            "region_id":85687189,
             "venue_id":219840335
         }
     ],
     "wof:id":219840335,
-    "wof:lastmodified":1473798781,
+    "wof:lastmodified":1496776259,
     "wof:name":"G R Taylor Hort Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

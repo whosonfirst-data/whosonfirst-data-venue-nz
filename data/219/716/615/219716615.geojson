@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.943985,-41.20219,174.943985,-41.20219",
     "geom:latitude":-41.20219,
     "geom:longitude":174.943985,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914319,
+        102079337,
+        85778137
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yqT6BO8LpY1bPwz1xzQHL_-41.202190_174.943985@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6d64ec44afe81ac58147aff61d6b8c94",
+    "wof:geomhash":"c31a62c17ab18edfc37e1d9bf99ed4ea",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914319,
+            "neighbourhood_id":85778137,
+            "region_id":85687233,
             "venue_id":219716615
         }
     ],
     "wof:id":219716615,
-    "wof:lastmodified":1473798779,
+    "wof:lastmodified":1496775859,
     "wof:name":"BP Overbridge Auto Services Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

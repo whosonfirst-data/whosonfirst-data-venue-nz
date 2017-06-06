@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.199326,-44.387493,171.199326,-44.387493",
     "geom:latitude":-44.387493,
     "geom:longitude":171.199326,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781471
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67HV7tnBw2RAGgqgJMRyCn_-44.387493_171.199326@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"620a13040da1d83c700e54d04f47d7fa",
+    "wof:geomhash":"96f35a2f5eb2e8f93648859aa9b5652e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781471,
+            "region_id":85687179,
             "venue_id":202480565
         }
     ],
     "wof:id":202480565,
-    "wof:lastmodified":1473798678,
+    "wof:lastmodified":1496776757,
     "wof:name":"Highfield Pharmacy Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

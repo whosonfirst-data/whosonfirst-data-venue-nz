@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.320633,-35.718082,174.320633,-35.718082",
     "geom:latitude":-35.718082,
     "geom:longitude":174.320633,
@@ -36,9 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        101914901,
+        101914253,
+        102079257,
         85780991
     ],
     "wof:breaches":[],
@@ -46,20 +49,20 @@
         "sg:id":"SG_3WxVVdqn9NOopUI1QcUohg_-35.718082_174.320633@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3430965cd4c3193e78a919cbe3c844f4",
+    "wof:geomhash":"cfa0cc81ff3514ebf58354743e73e5a1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
+            "county_id":102079257,
+            "locality_id":101914253,
             "neighbourhood_id":85780991,
-            "region_id":-1,
+            "region_id":85687149,
             "venue_id":203129221
         }
     ],
     "wof:id":203129221,
-    "wof:lastmodified":1473798635,
+    "wof:lastmodified":1496775341,
     "wof:name":"Catnap Boarding Cattery",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",

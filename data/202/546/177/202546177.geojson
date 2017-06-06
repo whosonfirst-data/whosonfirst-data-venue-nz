@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.783234,-39.623001,176.783234,-39.623001",
     "geom:latitude":-39.623001,
     "geom:longitude":176.783234,
@@ -23,27 +24,30 @@
     "sg:province":"Hawke's Bay",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914311,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Gx0GXku9dE52O510M9nuS_-39.623001_176.783234@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"95e364ea86a93f093fa398488b9e2100",
+    "wof:geomhash":"6c95ccf5b9e19e6eb3e1331a7a394f5e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914311,
+            "region_id":85687189,
             "venue_id":202546177
         }
     ],
     "wof:id":202546177,
-    "wof:lastmodified":1473798686,
+    "wof:lastmodified":1496775846,
     "wof:name":"Flaxmere Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

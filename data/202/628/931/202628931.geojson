@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.007782,-38.652096,178.007782,-38.652096",
     "geom:latitude":-38.652096,
     "geom:longitude":178.007782,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1J7Y6c3BD05mWJb7jx3MZb_-38.652096_178.007782@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"eecff56c57a2b6a6cab3ba2bed44c5c9",
+    "wof:geomhash":"51680a99ce0bb0f483749de05dd43427",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":202628931
         }
     ],
     "wof:id":202628931,
-    "wof:lastmodified":1473798702,
+    "wof:lastmodified":1496776126,
     "wof:name":"Sharpsy Building Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.887985,-41.22184,174.887985,-41.22184",
     "geom:latitude":-41.22184,
     "geom:longitude":174.887985,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914411,
+        102079337,
+        85780825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WjTTNgMjNhK6k9HTuGV34_-41.221840_174.887985@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"27da4896ab1d056888885a152ddffb14",
+    "wof:geomhash":"38329201fbe4d991eee9a3cdacc887fa",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914411,
+            "neighbourhood_id":85780825,
+            "region_id":85687233,
             "venue_id":203117943
         }
     ],
     "wof:id":203117943,
-    "wof:lastmodified":1473798641,
+    "wof:lastmodified":1496775953,
     "wof:name":"Tattoo City",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

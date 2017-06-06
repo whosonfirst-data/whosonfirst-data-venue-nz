@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.80423,-35.403576,173.80423,-35.403576",
     "geom:latitude":-35.403576,
     "geom:longitude":173.80423,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914251,
+        102079255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_503Kmyc19gOM2ar1sDkZHZ_-35.403576_173.804230@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f0983467428167747f51dd4fd21fce6c",
+    "wof:geomhash":"f41d0499733708be340a5820537029c9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101914251,
+            "region_id":85687149,
             "venue_id":202693651
         }
     ],
     "wof:id":202693651,
-    "wof:lastmodified":1473798715,
+    "wof:lastmodified":1496775319,
     "wof:name":"Mid Northland Playcentre Assn (Inc)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

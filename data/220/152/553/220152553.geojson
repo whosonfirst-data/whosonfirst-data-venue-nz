@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.106079,-45.126709,170.106079,-45.126709",
     "geom:latitude":-45.126709,
     "geom:longitude":170.106079,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915763,
+        102079383
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mCtBfIw64WS9zhiLpxZqt_-45.126709_170.106079@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"64eae00e11910bfae6a1cc0c31561923",
+    "wof:geomhash":"98962f651f6a51f581425d50e30809d9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079383,
+            "locality_id":101915763,
+            "region_id":85687201,
             "venue_id":220152553
         }
     ],
     "wof:id":220152553,
-    "wof:lastmodified":1473798623,
+    "wof:lastmodified":1496776843,
     "wof:name":"Gardiner Ltd David & Yvonne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

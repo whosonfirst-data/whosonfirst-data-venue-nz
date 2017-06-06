@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.865265,-37.204063,175.865265,-37.204063",
     "geom:latitude":-37.204063,
     "geom:longitude":175.865265,
@@ -23,27 +24,30 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915149,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RL8RdYtcUqpnqPLFoHJoH_-37.204063_175.865265@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c9f166a8fa895ecf6593d729a1ad57bb",
+    "wof:geomhash":"73de6b971bd1a04021349908e692a464",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101915149,
+            "region_id":85687229,
             "venue_id":169801581
         }
     ],
     "wof:id":169801581,
-    "wof:lastmodified":1473798647,
+    "wof:lastmodified":1496776583,
     "wof:name":"Whisper Canvas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

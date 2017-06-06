@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.301819,-35.697857,174.301819,-35.697857",
     "geom:latitude":-35.697857,
     "geom:longitude":174.301819,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iHIkgunTSjV2ZYVcNlMRO_-35.697857_174.301819@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"951248b945acf64633626da152f696a2",
+    "wof:geomhash":"82ef6f1254ff5db0a4cbf39833239786",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "region_id":85687149,
             "venue_id":203072717
         }
     ],
     "wof:id":203072717,
-    "wof:lastmodified":1473798622,
+    "wof:lastmodified":1496775342,
     "wof:name":"Fred Osborne - Stonemason",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

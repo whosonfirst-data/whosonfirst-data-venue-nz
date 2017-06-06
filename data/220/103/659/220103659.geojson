@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.009857,-38.643032,178.009857,-38.643032",
     "geom:latitude":-38.643032,
     "geom:longitude":178.009857,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687237,
         102191583,
         85633345,
+        101914591,
+        102079325,
         85781099
     ],
     "wof:breaches":[],
@@ -41,20 +45,20 @@
         "sg:id":"SG_1LqY7nw27Pa8zLemjsYHZR_-38.643032_178.009857@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f1e20a4a3c3e15d78dc423e1b1e8e682",
+    "wof:geomhash":"0d01c17d8016a27f28aedcb1d6915e98",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079325,
+            "locality_id":101914591,
             "neighbourhood_id":85781099,
-            "region_id":-1,
+            "region_id":85687237,
             "venue_id":220103659
         }
     ],
     "wof:id":220103659,
-    "wof:lastmodified":1473798598,
+    "wof:lastmodified":1496776130,
     "wof:name":"The Cake Kitchen",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",

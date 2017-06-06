@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.02507,-38.655186,178.02507,-38.655186",
     "geom:latitude":-38.655186,
     "geom:longitude":178.02507,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mheAlLXypAfIgF3SoRGAI_-38.655186_178.025070@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"43dfd3add8387d02b715c867498c2736",
+    "wof:geomhash":"ff8f5a308dad65fd4d9fba1d2d6a64e7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":220197947
         }
     ],
     "wof:id":220197947,
-    "wof:lastmodified":1473798638,
+    "wof:lastmodified":1496776133,
     "wof:name":"Village Butchery (1991)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

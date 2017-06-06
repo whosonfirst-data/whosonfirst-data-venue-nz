@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.444519,-45.737202,168.444519,-45.737202",
     "geom:latitude":-45.737202,
     "geom:longitude":168.444519,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101916059,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yv1c9MfbDsKXgihpRcWh1_-45.737202_168.444519@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fd9215e85a2d6b513b8839eeffa99d53",
+    "wof:geomhash":"1f5efe436cdb92fc8a55ccf4a42a180e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101916059,
+            "region_id":85687211,
             "venue_id":219745507
         }
     ],
     "wof:id":219745507,
-    "wof:lastmodified":1473798791,
+    "wof:lastmodified":1496776880,
     "wof:name":"Five Rivers Motors Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

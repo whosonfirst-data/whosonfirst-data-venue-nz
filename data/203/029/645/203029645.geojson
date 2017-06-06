@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.307755,-42.45322,171.307755,-42.45322",
     "geom:latitude":-42.45322,
     "geom:longitude":171.307755,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101916373,
+        102079361
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BSMGP94RlfDkkjHpMLlVG_-42.453220_171.307755@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6ef8e886e0fc0378c8a2de64c0154586",
+    "wof:geomhash":"30d02f8e06ac233a0f063f445712cdbe",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "locality_id":101916373,
+            "region_id":85687165,
             "venue_id":203029645
         }
     ],
     "wof:id":203029645,
-    "wof:lastmodified":1473798566,
+    "wof:lastmodified":1496776907,
     "wof:name":"On Track Pest Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

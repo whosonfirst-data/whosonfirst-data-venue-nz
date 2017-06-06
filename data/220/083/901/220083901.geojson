@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.921051,-37.555534,175.921051,-37.555534",
     "geom:latitude":-37.555534,
     "geom:longitude":175.921051,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914243,
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IbAHla4IEot88G0MAa38O_-37.555534_175.921051@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9ae9587d1a50b01e1d2834fcfd098942",
+    "wof:geomhash":"ead08d4c867703a66ddfb14153d65604",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":101914243,
+            "region_id":85687175,
             "venue_id":220083901
         }
     ],
     "wof:id":220083901,
-    "wof:lastmodified":1473798604,
+    "wof:lastmodified":1496775302,
     "wof:name":"Dubler Food Processing Machinery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

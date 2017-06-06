@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"177.995804,-38.656834,177.995804,-38.656834",
     "geom:latitude":-38.656834,
     "geom:longitude":177.995804,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vPXAobgznlT6pxYiwrIGD_-38.656834_177.995804@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c7553b41132e66dd37c04ccc32bfc637",
+    "wof:geomhash":"48bbba4c8da300d518de34d90168a68b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":202512383
         }
     ],
     "wof:id":202512383,
-    "wof:lastmodified":1473798686,
+    "wof:lastmodified":1496776126,
     "wof:name":"La Patrice (Leigh's) Hair & Beauty",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

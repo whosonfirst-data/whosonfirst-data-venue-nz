@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.264175,-37.770271,175.264175,-37.770271",
     "geom:latitude":-37.770271,
     "geom:longitude":175.264175,
@@ -34,8 +35,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
+        102079271,
         85781245,
         85780847
     ],
@@ -44,31 +47,31 @@
         "sg:id":"SG_0rItzdPOimedTLG8UmSTcm_-37.770271_175.264175@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"286ed838dfff04d565adb9f588e71396",
+    "wof:geomhash":"815ad10cf07ea072ac597deb95a67e0b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079271,
             "locality_id":-1,
             "neighbourhood_id":85781245,
-            "region_id":-1,
+            "region_id":85687229,
             "venue_id":202521283
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079271,
             "locality_id":-1,
             "neighbourhood_id":85780847,
-            "region_id":-1,
+            "region_id":85687229,
             "venue_id":202521283
         }
     ],
     "wof:id":202521283,
-    "wof:lastmodified":1473798687,
+    "wof:lastmodified":1496775778,
     "wof:name":"Upsdell Dr Raewyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

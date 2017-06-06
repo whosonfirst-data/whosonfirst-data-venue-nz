@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.398285,-46.422657,168.398285,-46.422657",
     "geom:latitude":-46.422657,
     "geom:longitude":168.398285,
@@ -23,27 +24,30 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ydaulcfv8Gq4Gn55CSMMz_-46.422657_168.398285@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a92386f87df0efa70281180edc28a3e3",
+    "wof:geomhash":"15e1ee58dec8f7c6c5d92a9c833c7a3a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":169560485
         }
     ],
     "wof:id":169560485,
-    "wof:lastmodified":1473798565,
+    "wof:lastmodified":1496776727,
     "wof:name":"Scribimus 21st Century Engravers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

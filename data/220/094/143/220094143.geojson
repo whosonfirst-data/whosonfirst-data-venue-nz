@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.347626,-46.374653,168.347626,-46.374653",
     "geom:latitude":-46.374653,
     "geom:longitude":168.347626,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0O2mhClwkcEneIc1zC4PVl_-46.374653_168.347626@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5bf29be04536c8ecd5dddb235e93384a",
+    "wof:geomhash":"b5b7573509fb632d0f864e118f23d72e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":220094143
         }
     ],
     "wof:id":220094143,
-    "wof:lastmodified":1473798617,
+    "wof:lastmodified":1496776715,
     "wof:name":"Bells Bakery Waikiwi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

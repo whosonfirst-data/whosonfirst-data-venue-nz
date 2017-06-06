@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.972412,-45.094391,170.972412,-45.094391",
     "geom:latitude":-45.094391,
     "geom:longitude":170.972412,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zV8f7gt19j07c3yLHVIhp_-45.094391_170.972412@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"91ab54aa3d381dedc9794a6acd70f962",
+    "wof:geomhash":"2a271d4c9f215dfe2bfe534e44fcef7f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":219731821
         }
     ],
     "wof:id":219731821,
-    "wof:lastmodified":1473798791,
+    "wof:lastmodified":1496776270,
     "wof:name":"Battery Auto Electric's 1986",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.95845,-45.109322,170.95845,-45.109322",
     "geom:latitude":-45.109322,
     "geom:longitude":170.95845,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GONyGhCe45MEKDdYa5Lge_-45.109322_170.958450@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a8173ed3d2ad47161e599643a949e706",
+    "wof:geomhash":"46af7fbb6945b6bbeb89b41f47c844db",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":202666961
         }
     ],
     "wof:id":202666961,
-    "wof:lastmodified":1473798707,
+    "wof:lastmodified":1496776269,
     "wof:name":"Jamieson (Warren) Plumbing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.733337,-36.728004,174.733337,-36.728004",
     "geom:latitude":-36.728004,
     "geom:longitude":174.733337,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6d4BvhVh9ScmYF3CJ8nuov_-36.728004_174.733337@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"82175a643077e3758ff1c34c0adb8978",
+    "wof:geomhash":"a47d1194abf0c02a1182513a017a7ec8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781057,
+            "region_id":85687243,
             "venue_id":186070477
         }
     ],
     "wof:id":186070477,
-    "wof:lastmodified":1473798626,
+    "wof:lastmodified":1496775591,
     "wof:name":"MacDonell & Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

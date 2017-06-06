@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.384384,-46.409538,168.384384,-46.409538",
     "geom:latitude":-46.409538,
     "geom:longitude":168.384384,
@@ -23,29 +24,34 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xSxJe4539ToAjmdu3G1PF_-46.409538_168.384384@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9a55778f20f46f0d749c089172b99565",
+    "wof:geomhash":"1bc8288ffdd7f2274cc6fb47eff94592",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781519,
+            "region_id":85687211,
             "venue_id":169550959
         }
     ],
     "wof:id":169550959,
-    "wof:lastmodified":1473798569,
+    "wof:lastmodified":1496776727,
     "wof:name":"Stuart Ide. Watch & Clock Repairs(MNZHI)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

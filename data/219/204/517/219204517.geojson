@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.147034,-37.669849,175.147034,-37.669849",
     "geom:latitude":-37.669849,
     "geom:longitude":175.147034,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-824 7398",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914465,
+        102079265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wqWog4IJynCaAc3tl7R9l_-37.669849_175.147034@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ad245dce1a88d6746c7df9d93ea7f129",
+    "wof:geomhash":"01994ed9bdd222415bf8fce0f9106d42",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101914465,
+            "region_id":85687229,
             "venue_id":219204517
         }
     ],
     "wof:id":219204517,
-    "wof:lastmodified":1473798648,
+    "wof:lastmodified":1496775984,
     "wof:name":"Horticultural Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.810532,-36.978603,174.810532,-36.978603",
     "geom:latitude":-36.978603,
     "geom:longitude":174.810532,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914267,
+        102079403,
+        85773023
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ySFvOcvlvQTmGX9NzDSQq_-36.978603_174.810532@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e1b7bf9c8b3442c623b5d416df949a94",
+    "wof:geomhash":"4c85a0c8af7ba463ee06a2db75585eae",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914267,
+            "neighbourhood_id":85773023,
+            "region_id":85687243,
             "venue_id":202580207
         }
     ],
     "wof:id":202580207,
-    "wof:lastmodified":1473798693,
+    "wof:lastmodified":1496775754,
     "wof:name":"Auckland Clothesline Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

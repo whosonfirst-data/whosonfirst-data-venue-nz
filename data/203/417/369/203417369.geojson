@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.727585,-36.41523,174.727585,-36.41523",
     "geom:latitude":-36.41523,
     "geom:longitude":174.727585,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101915975,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JksW3YnO4GwwXliTAFNGc_-36.415230_174.727585@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0b26c185f9324dad126ffbf28a9778fa",
+    "wof:geomhash":"d87938f4af8b1a102eefe20de307eda8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915975,
+            "region_id":85687243,
             "venue_id":203417369
         }
     ],
     "wof:id":203417369,
-    "wof:lastmodified":1473798711,
+    "wof:lastmodified":1496776868,
     "wof:name":"Paktronics Systems Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

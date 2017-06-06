@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.460175,-41.218441,175.460175,-41.218441",
     "geom:latitude":-41.218441,
     "geom:longitude":175.460175,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914287,
+        102079347
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gKDTfxRvWJrlI6KRgvWrG_-41.218441_175.460175@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b6c53ebe5aec91da2c2c59be96771476",
+    "wof:geomhash":"4cdd44b30cbdf375abb78011b08e8865",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079347,
+            "locality_id":101914287,
+            "region_id":85687233,
             "venue_id":236008505
         }
     ],
     "wof:id":236008505,
-    "wof:lastmodified":1473798558,
+    "wof:lastmodified":1496775831,
     "wof:name":"The Vines On The Square",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

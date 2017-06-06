@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.745972,-41.282154,174.745972,-41.282154",
     "geom:latitude":-41.282154,
     "geom:longitude":174.745972,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sB5c4qTtaTm9mBo3TRj8Q_-41.282154_174.745972@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cbf35c6e7cfadda3ec44ea38af749f8b",
+    "wof:geomhash":"574776a2ee16932220928ae59b4782b8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772989,
+            "region_id":85687233,
             "venue_id":236042897
         }
     ],
     "wof:id":236042897,
-    "wof:lastmodified":1473798573,
+    "wof:lastmodified":1496775817,
     "wof:name":"Harbour City Funeral Home Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.142258,-37.695412,176.142258,-37.695412",
     "geom:latitude":-37.695412,
     "geom:longitude":176.142258,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85780779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xArOD3xyC0rKzJNh1JR0D_-37.695412_176.142258@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b7408fede23b0ae56b02853720f44a45",
+    "wof:geomhash":"72b25dfaf5a904e736319a459e1a6734",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780779,
+            "region_id":85687175,
             "venue_id":202743509
         }
     ],
     "wof:id":202743509,
-    "wof:lastmodified":1473798722,
+    "wof:lastmodified":1496775878,
     "wof:name":"Elmswood Retirement Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

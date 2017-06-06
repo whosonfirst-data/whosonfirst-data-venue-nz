@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.797089,-36.880787,174.797089,-36.880787",
     "geom:latitude":-36.880787,
     "geom:longitude":174.797089,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778887
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77hNgrlbn5RgckbUxoiHYH_-36.880787_174.797089@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2ae7d09e823ba99363b5629df51e2b3f",
+    "wof:geomhash":"981d7ceeb6be0ac3eb56fbd3a8794f6c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778887,
+            "region_id":85687243,
             "venue_id":203196165
         }
     ],
     "wof:id":203196165,
-    "wof:lastmodified":1473798645,
+    "wof:lastmodified":1496775622,
     "wof:name":"Newborn Necessities",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

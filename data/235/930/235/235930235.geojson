@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.320084,-37.786819,176.320084,-37.786819",
     "geom:latitude":-37.786819,
     "geom:longitude":176.320084,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101915141,
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IKYGrU84TVeSO9Yw98MZ3_-37.786819_176.320084@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9219fb3cd58664e57f9fbb2e7c5bf85f",
+    "wof:geomhash":"fe8d143a9e062c3ae2886c5b385f9b40",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":101915141,
+            "region_id":85687175,
             "venue_id":235930235
         }
     ],
     "wof:id":235930235,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496776571,
     "wof:name":"AFFCO Wholesale Meats Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

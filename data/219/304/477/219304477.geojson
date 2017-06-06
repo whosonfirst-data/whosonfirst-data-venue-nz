@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.760483,-36.875568,174.760483,-36.875568",
     "geom:latitude":-36.875568,
     "geom:longitude":174.760483,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782453
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2c9D1og3g42HUz3XugXoaO_-36.875568_174.760483@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ed1b6ff25c807b5f7c3ba977898e7c3f",
+    "wof:geomhash":"931fd182cd9436e21cc54bd41393800d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782453,
+            "region_id":85687243,
             "venue_id":219304477
         }
     ],
     "wof:id":219304477,
-    "wof:lastmodified":1473798678,
+    "wof:lastmodified":1496775624,
     "wof:name":"Bellevue Guest House",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

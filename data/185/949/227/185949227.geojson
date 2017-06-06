@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.619583,-45.818707,170.619583,-45.818707",
     "geom:latitude":-45.818707,
     "geom:longitude":170.619583,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915301,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BKpn491Qh7Z8nDBUq0rhA_-45.818707_170.619583@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8e3857a969aa9b1d9e020cfb8a5dd29a",
+    "wof:geomhash":"a03d2f3350260046cbfe4763c18a962c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101915301,
+            "region_id":85687201,
             "venue_id":185949227
         }
     ],
     "wof:id":185949227,
-    "wof:lastmodified":1473798637,
+    "wof:lastmodified":1496776653,
     "wof:name":"Port Chalmers Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

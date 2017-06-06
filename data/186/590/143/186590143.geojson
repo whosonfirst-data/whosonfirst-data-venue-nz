@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.280838,-41.278469,173.280838,-41.278469",
     "geom:latitude":-41.278469,
     "geom:longitude":173.280838,
@@ -23,9 +24,12 @@
     "sg:province":"Nelson",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
-        101917331,
+        101915555,
+        102079351,
+        85781551,
         85782467
     ],
     "wof:breaches":[],
@@ -33,22 +37,31 @@
         "sg:id":"SG_66CVCEXz9lQ05zyFzG9BMa_-41.278469_173.280838@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"802adb2b30e0fca9bd76f64be48fc7cf",
+    "wof:geomhash":"00d8a543b14bcdb546e4675359546d28",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101917331,
+            "county_id":102079351,
+            "locality_id":101915555,
+            "neighbourhood_id":85781551,
+            "region_id":85687157,
+            "venue_id":186590143
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":-1,
             "neighbourhood_id":85782467,
-            "region_id":-1,
+            "region_id":85687157,
             "venue_id":186590143
         }
     ],
     "wof:id":186590143,
-    "wof:lastmodified":1473798761,
+    "wof:lastmodified":1496776779,
     "wof:name":"Meffan Andrew",
-    "wof:parent_id":85782467,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

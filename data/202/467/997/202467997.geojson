@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.720795,-41.288551,174.720795,-41.288551",
     "geom:latitude":-41.288551,
     "geom:longitude":174.720795,
@@ -35,9 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85781743
     ],
     "wof:breaches":[],
@@ -45,20 +48,20 @@
         "sg:id":"SG_0CRscnS2gFMzBuFvZd9oph_-41.288551_174.720795@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"03a7c4c89a7175974602b8b9e64c5a64",
+    "wof:geomhash":"753ff74890acb904674c0ac7b1ba81cf",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85781743,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":202467997
         }
     ],
     "wof:id":202467997,
-    "wof:lastmodified":1473798703,
+    "wof:lastmodified":1496775829,
     "wof:name":"Bell R A Instruments Ltd",
     "wof:parent_id":85781743,
     "wof:placetype":"venue",

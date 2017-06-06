@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.375031,-43.593182,172.375031,-43.593182",
     "geom:latitude":-43.593182,
     "geom:longitude":172.375031,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101916253,
+        102079369
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WFnWcArfqP9GMrDJLcSHl_-43.593182_172.375031@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"899d3a0bfc88a5221d2f692de75c9317",
+    "wof:geomhash":"bd9ec15bc423e279393f8efde198d551",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":101916253,
+            "region_id":85687179,
             "venue_id":202797647
         }
     ],
     "wof:id":202797647,
-    "wof:lastmodified":1473798723,
+    "wof:lastmodified":1496776901,
     "wof:name":"Simply Bathrooms",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

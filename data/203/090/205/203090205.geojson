@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.942627,-41.5242,173.942627,-41.5242",
     "geom:latitude":-41.5242,
     "geom:longitude":173.942627,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101915709,
+        102079353,
+        85781697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uamwcoJdUpzIMk5F2Pyfv_-41.524200_173.942627@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8bd770dbf74efda5dd7260ca51265679",
+    "wof:geomhash":"79ef6ed4e7f485c77dea31f9138e1194",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101915709,
+            "neighbourhood_id":85781697,
+            "region_id":85687185,
             "venue_id":203090205
         }
     ],
     "wof:id":203090205,
-    "wof:lastmodified":1473798627,
+    "wof:lastmodified":1496776832,
     "wof:name":"Dale Yeoman MNZAC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

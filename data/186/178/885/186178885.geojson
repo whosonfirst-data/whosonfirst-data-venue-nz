@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.344162,-38.037903,175.344162,-38.037903",
     "geom:latitude":-38.037903,
     "geom:longitude":175.344162,
@@ -23,27 +24,30 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914945,
+        102079273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hAlYdjyfFcXjYajAJKI7o_-38.037903_175.344162@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ae743317091b9c89c6fe305f3a344b83",
+    "wof:geomhash":"8a61cca852b894febde5915614263f75",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079273,
+            "locality_id":101914945,
+            "region_id":85687229,
             "venue_id":186178885
         }
     ],
     "wof:id":186178885,
-    "wof:lastmodified":1473798671,
+    "wof:lastmodified":1496776425,
     "wof:name":"Bedford Engineering Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

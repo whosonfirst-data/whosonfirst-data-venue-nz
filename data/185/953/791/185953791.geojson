@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.47966,-45.896809,170.47966,-45.896809",
     "geom:latitude":-45.896809,
     "geom:longitude":170.47966,
@@ -34,29 +35,34 @@
     "sg:website":"http://www.otagorugby.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85772879
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PanzozGLF3OmqJaHFpZLN_-45.896809_170.479660@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"db89255dccae295029a09d90ed8d28d7",
+    "wof:geomhash":"3cdec99747bf43897e7ca943b4f24d6c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85772879,
+            "region_id":85687201,
             "venue_id":185953791
         }
     ],
     "wof:id":185953791,
-    "wof:lastmodified":1473798646,
+    "wof:lastmodified":1496775772,
     "wof:name":"Carisbrook Otago Rugby Football Union",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

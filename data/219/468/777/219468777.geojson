@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.318573,-38.004253,175.318573,-38.004253",
     "geom:latitude":-38.004253,
     "geom:longitude":175.318573,
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
+        101914417,
+        102079273,
         85782893
     ],
     "wof:breaches":[],
@@ -42,20 +46,20 @@
         "sg:id":"SG_5JLBjJX2R1w7ke5zlv5yWE_-38.004253_175.318573@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8c496f336754c6e2d1863e0400cff4fd",
+    "wof:geomhash":"6dc487089c732e17c2ff8a9876682a2f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079273,
+            "locality_id":101914417,
             "neighbourhood_id":85782893,
-            "region_id":-1,
+            "region_id":85687229,
             "venue_id":219468777
         }
     ],
     "wof:id":219468777,
-    "wof:lastmodified":1473798718,
+    "wof:lastmodified":1496775955,
     "wof:name":"Te Wananga o Aotearoa",
     "wof:parent_id":85782893,
     "wof:placetype":"venue",

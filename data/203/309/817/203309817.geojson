@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.618942,-36.846889,174.618942,-36.846889",
     "geom:latitude":-36.846889,
     "geom:longitude":174.618942,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781681
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56f567r6bF7OorTn5HfRBi_-36.846889_174.618942@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"028acf1bb3c92d5acc176f36418ae036",
+    "wof:geomhash":"6814c39e06d909f26e39c4a7a93b23a3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781681,
+            "region_id":85687243,
             "venue_id":203309817
         }
     ],
     "wof:id":203309817,
-    "wof:lastmodified":1473798683,
+    "wof:lastmodified":1496775551,
     "wof:name":"Lister Yarns",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

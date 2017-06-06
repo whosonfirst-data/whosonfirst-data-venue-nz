@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"177.079407,-37.976288,177.079407,-37.976288",
     "geom:latitude":-37.976288,
     "geom:longitude":177.079407,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 252868036",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914825,
+        102079291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vEmzXP9xovpNXjyzxvTKy_-37.976288_177.079407@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"216238d9a478dfa1b32297e46ceac8c9",
+    "wof:geomhash":"d3ae44bbb9189a2a3e6034d14cd74e07",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
+            "locality_id":101914825,
+            "region_id":85687175,
             "venue_id":203006415
         }
     ],
     "wof:id":203006415,
-    "wof:lastmodified":1473798552,
+    "wof:lastmodified":1496776354,
     "wof:name":"Treewise",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.845398,-40.450798,175.845398,-40.450798",
     "geom:latitude":-40.450798,
     "geom:longitude":175.845398,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101915205,
+        102079309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nGu8dJW526DjG3MpoR3df_-40.450798_175.845398@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7050e44eb345421e6ce4a6a57b8a2d38",
+    "wof:geomhash":"f3d73837feabf7eaba9c008f08d978a3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":101915205,
+            "region_id":85687251,
             "venue_id":202663133
         }
     ],
     "wof:id":202663133,
-    "wof:lastmodified":1473798697,
+    "wof:lastmodified":1496776628,
     "wof:name":"Cornelius C A Toss",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

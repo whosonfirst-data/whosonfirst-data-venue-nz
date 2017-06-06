@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.884644,-39.671093,176.884644,-39.671093",
     "geom:latitude":-39.671093,
     "geom:longitude":176.884644,
@@ -23,27 +24,30 @@
     "sg:province":"Hawke's Bay",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914661,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67UzmbJ6vuZU41KAxHcTzh_-39.671093_176.884644@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fee88626a4ca8f5e10f0173f21f269bd",
+    "wof:geomhash":"214edda28516916aae1561770f89752d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914661,
+            "region_id":85687189,
             "venue_id":202402505
         }
     ],
     "wof:id":202402505,
-    "wof:lastmodified":1473798564,
+    "wof:lastmodified":1496776230,
     "wof:name":"Duart Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

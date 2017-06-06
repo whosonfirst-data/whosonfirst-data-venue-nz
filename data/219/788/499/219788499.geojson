@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.649994,-36.833302,174.649994,-36.833302",
     "geom:latitude":-36.833302,
     "geom:longitude":174.649994,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782077
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xEMhUqwjhHBG63h1ljAqb_-36.833302_174.649994@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0fff4fb101f8eacef24f6fc841d0a0ac",
+    "wof:geomhash":"08434087ea79e0639c0da9b3d196b9c4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782077,
+            "region_id":85687243,
             "venue_id":219788499
         }
     ],
     "wof:id":219788499,
-    "wof:lastmodified":1473798779,
+    "wof:lastmodified":1496775477,
     "wof:name":"Al's Mechanical Repairs Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.726639,-36.84671,174.726639,-36.84671",
     "geom:latitude":-36.84671,
     "geom:longitude":174.726639,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778351
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CUTHsCn5LZe9yThHGJMpx_-36.846710_174.726639@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c4c7dde9b372bfbd30b72f44fbaadd92",
+    "wof:geomhash":"a331d9fc624bb8435fba5ca77c934af4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778351,
+            "region_id":85687243,
             "venue_id":169578563
         }
     ],
     "wof:id":169578563,
-    "wof:lastmodified":1473798586,
+    "wof:lastmodified":1496775551,
     "wof:name":"Video Collectors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778351,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

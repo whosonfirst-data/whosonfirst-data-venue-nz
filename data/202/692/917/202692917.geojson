@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.653885,-36.397247,174.653885,-36.397247",
     "geom:latitude":-36.397247,
     "geom:longitude":174.653885,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914751,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ab5OSnjM3sXVLYfct2rdQ_-36.397247_174.653885@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a8457edc527ecfd9df9be25adb7aa57c",
+    "wof:geomhash":"95dec803e2abac734ba9b46e51c66a10",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914751,
+            "region_id":85687243,
             "venue_id":202692917
         }
     ],
     "wof:id":202692917,
-    "wof:lastmodified":1473798716,
+    "wof:lastmodified":1496776310,
     "wof:name":"Mahurangi Kindergarten",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

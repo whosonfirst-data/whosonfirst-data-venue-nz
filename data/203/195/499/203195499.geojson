@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.753983,-40.293945,175.753983,-40.293945",
     "geom:latitude":-40.293945,
     "geom:longitude":175.753983,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101915881,
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20nbFOx7vHGLDdFvZicFix_-40.293945_175.753983@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a06b93abc8ddd61fa22ccf0d9d5e26d8",
+    "wof:geomhash":"815a4ca8d4e691d442dead3b49327bc2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101915881,
+            "region_id":85687251,
             "venue_id":203195499
         }
     ],
     "wof:id":203195499,
-    "wof:lastmodified":1473798653,
+    "wof:lastmodified":1496776856,
     "wof:name":"Gladd Holdings Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

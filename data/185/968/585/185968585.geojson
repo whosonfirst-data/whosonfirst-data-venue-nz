@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.321609,-35.709213,174.321609,-35.709213",
     "geom:latitude":-35.709213,
     "geom:longitude":174.321609,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        101914901,
+        101914253,
+        102079257,
         85780991
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_1CEtkedZZjyIewPbp3RV5w_-35.709213_174.321609@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"28019c221db412c3a9c18d03f180cc82",
+    "wof:geomhash":"1264cae3d3267f964d1fded217a45eca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
+            "county_id":102079257,
+            "locality_id":101914253,
             "neighbourhood_id":85780991,
-            "region_id":-1,
+            "region_id":85687149,
             "venue_id":185968585
         }
     ],
     "wof:id":185968585,
-    "wof:lastmodified":1473798670,
+    "wof:lastmodified":1496775325,
     "wof:name":"Kensington Refrigeration Ltd",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",

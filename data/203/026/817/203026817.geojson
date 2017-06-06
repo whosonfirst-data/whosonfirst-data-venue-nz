@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.778122,-38.045773,175.778122,-38.045773",
     "geom:latitude":-38.045773,
     "geom:longitude":175.778122,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915689,
+        102079277
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77RrpPsW8Faed8keDILot7_-38.045773_175.778122@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b3ac1389bd4bb1312217268e4afd44d9",
+    "wof:geomhash":"e7adaa9de72e0d826c035c553d6180e4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":101915689,
+            "region_id":85687229,
             "venue_id":203026817
         }
     ],
     "wof:id":203026817,
-    "wof:lastmodified":1473798573,
+    "wof:lastmodified":1496776825,
     "wof:name":"Fly Kill Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

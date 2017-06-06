@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.640488,-40.336845,175.640488,-40.336845",
     "geom:latitude":-40.336845,
     "geom:longitude":175.640488,
@@ -23,29 +24,34 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85773241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2r9QHwqsZSxkfVmTi9kDkx_-40.336845_175.640488@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"40ef8dbd1f758dc93969c775a1f24ec4",
+    "wof:geomhash":"6e62007cdf1ecc55f3cc9ac4fde33571",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85773241,
+            "region_id":85687251,
             "venue_id":186296353
         }
     ],
     "wof:id":186296353,
-    "wof:lastmodified":1473798723,
+    "wof:lastmodified":1496775730,
     "wof:name":"Altherm Aluminium (Man) Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

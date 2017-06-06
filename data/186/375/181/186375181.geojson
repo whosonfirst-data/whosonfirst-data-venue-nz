@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.73381,-36.726353,174.73381,-36.726353",
     "geom:latitude":-36.726353,
     "geom:longitude":174.73381,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781057
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eR8EHm5lRg2ykUu4oPzMO_-36.726353_174.733810@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f5ea8a51630a438757b0c06c49c30d40",
+    "wof:geomhash":"58f7c75a00898ee4757050fd184ee23a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781057,
+            "region_id":85687243,
             "venue_id":186375181
         }
     ],
     "wof:id":186375181,
-    "wof:lastmodified":1473798736,
+    "wof:lastmodified":1496775558,
     "wof:name":"John Woodriffe Electrical Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

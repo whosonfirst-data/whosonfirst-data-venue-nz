@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.783691,-41.299343,174.783691,-41.299343",
     "geom:latitude":-41.299343,
     "geom:longitude":174.783691,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85778473
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_072M9MKTxGrsA96kuqWbjf_-41.299343_174.783691@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f23844f4abff19c728d423959065f2af",
+    "wof:geomhash":"4eb1267fe8708c50c1abe38f710f2adb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85778473,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":219304831
         }
     ],
     "wof:id":219304831,
-    "wof:lastmodified":1473798703,
+    "wof:lastmodified":1496775810,
     "wof:name":"Richmond Guest House",
     "wof:parent_id":85778473,
     "wof:placetype":"venue",

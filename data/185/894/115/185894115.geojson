@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.891342,-36.926785,174.891342,-36.926785",
     "geom:latitude":-36.926785,
     "geom:longitude":174.891342,
@@ -38,7 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
+        102191583,
         85633345,
+        101914255,
+        102079403,
+        85781291,
         85781293
     ],
     "wof:breaches":[],
@@ -49,19 +55,28 @@
     "wof:geomhash":"4c1ad3b3d7e159b8d02b617d9e786c07",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914255,
+            "neighbourhood_id":85781291,
+            "region_id":85687243,
+            "venue_id":185894115
+        },
+        {
             "continent_id":-1,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85781293,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":185894115
         }
     ],
     "wof:id":185894115,
-    "wof:lastmodified":1473798633,
+    "wof:lastmodified":1491885131,
     "wof:name":"Scuba Experience Company",
-    "wof:parent_id":85781293,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

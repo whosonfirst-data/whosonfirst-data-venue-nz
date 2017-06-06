@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.946869,-39.605087,176.946869,-39.605087",
     "geom:latitude":-39.605087,
     "geom:longitude":176.946869,
@@ -34,27 +35,30 @@
     "sg:website":"http://www.gannets.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101916507,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NWqirpCRtKqdEB08jRigv_-39.605087_176.946869@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"77a14a57575107b63d78207915808839",
+    "wof:geomhash":"04c5e053093c6edf669569776d7efda3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101916507,
+            "region_id":85687189,
             "venue_id":219359265
         }
     ],
     "wof:id":219359265,
-    "wof:lastmodified":1473798691,
+    "wof:lastmodified":1496776913,
     "wof:name":"Gannet Beach Adventures",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

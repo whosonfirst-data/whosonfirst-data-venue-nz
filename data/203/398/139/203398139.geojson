@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.241653,-44.091122,171.241653,-44.091122",
     "geom:latitude":-44.091122,
     "geom:longitude":171.241653,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-693 9204",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914513,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ullG3GwffYPWOY2MHRqBB_-44.091122_171.241653@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"82ebdff0dd485af201530f20dec6a8af",
+    "wof:geomhash":"b8b5dfd953ef66331c941f3f1850a200",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101914513,
+            "region_id":85687179,
             "venue_id":203398139
         }
     ],
     "wof:id":203398139,
-    "wof:lastmodified":1473798684,
+    "wof:lastmodified":1496776005,
     "wof:name":"South Canterbury Jet Boat Sales & Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

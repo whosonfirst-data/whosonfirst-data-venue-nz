@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.459961,-41.220081,175.459961,-41.220081",
     "geom:latitude":-41.220081,
     "geom:longitude":175.459961,
@@ -23,27 +24,30 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914287,
+        102079347
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CIB6nVIHE9lXz4njeyIP8_-41.220081_175.459961@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f15b85fbc08771d488147ca2fc6bd94c",
+    "wof:geomhash":"e745a1f245e3a6c77fbda9d647223092",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079347,
+            "locality_id":101914287,
+            "region_id":85687233,
             "venue_id":202591033
         }
     ],
     "wof:id":202591033,
-    "wof:lastmodified":1473798691,
+    "wof:lastmodified":1496775832,
     "wof:name":"Mitre 10",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

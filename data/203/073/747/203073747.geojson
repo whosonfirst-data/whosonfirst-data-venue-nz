@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.976105,-40.944546,174.976105,-40.944546",
     "geom:latitude":-40.944546,
     "geom:longitude":174.976105,
@@ -23,27 +24,30 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MBWLxzICiSyVXgbuLoAPX_-40.944546_174.976105@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"aad95fe8ee93bd8352b6828748d39db4",
+    "wof:geomhash":"da1ebb7d45afc7b1dc67f8be7b07a142",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":203073747
         }
     ],
     "wof:id":203073747,
-    "wof:lastmodified":1473798615,
+    "wof:lastmodified":1496776191,
     "wof:name":"Kiel Landscaping Specialists Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

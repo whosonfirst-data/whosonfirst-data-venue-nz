@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.897705078,-36.9273223877,174.897705078,-36.9273223877",
     "geom:latitude":-36.927322,
     "geom:longitude":174.897705,
@@ -29,12 +30,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85687243,
-        102191583,
         85633345,
+        85781725,
+        102191583,
         101914255,
         102079403,
-        85781291,
-        85781725
+        85781291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +46,6 @@
     "wof:geomhash":"38090345bbbef739b05b59d15ac22948",
     "wof:hierarchy":[
         {
-            "continent_id":102191583,
-            "country_id":85633345,
-            "county_id":102079403,
-            "locality_id":101914255,
-            "neighbourhood_id":85781291,
-            "region_id":85687243,
-            "venue_id":1058996813
-        },
-        {
             "continent_id":-1,
             "country_id":85633345,
             "county_id":-1,
@@ -61,12 +53,21 @@
             "neighbourhood_id":85781725,
             "region_id":85687243,
             "venue_id":1058996813
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914255,
+            "neighbourhood_id":85781291,
+            "region_id":85687243,
+            "venue_id":1058996813
         }
     ],
     "wof:id":1058996813,
-    "wof:lastmodified":1473719381,
+    "wof:lastmodified":1491939083,
     "wof:name":"Jim's Furniture",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

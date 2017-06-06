@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.772369,-36.878895,174.772369,-36.878895",
     "geom:latitude":-36.878895,
     "geom:longitude":174.772369,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778841
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AtI6K0MUYeqpAa8FswMUR_-36.878895_174.772369@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6f7dea5b2fa14e0bef266c9ca1f90676",
+    "wof:geomhash":"dbe6623ea1c7b47712769cd55b723e4b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778841,
+            "region_id":85687243,
             "venue_id":219315075
         }
     ],
     "wof:id":219315075,
-    "wof:lastmodified":1473798672,
+    "wof:lastmodified":1496775624,
     "wof:name":"Baptist Action",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

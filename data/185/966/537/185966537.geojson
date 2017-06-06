@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.021317,-38.660645,178.021317,-38.660645",
     "geom:latitude":-38.660645,
     "geom:longitude":178.021317,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79EoqjEXHISd13ieo9UmID_-38.660645_178.021317@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1da505b4689b331ee4f2ae95830e9fa3",
+    "wof:geomhash":"5f99a96911ae2d6a50f606eb4d689d71",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":185966537
         }
     ],
     "wof:id":185966537,
-    "wof:lastmodified":1473798689,
+    "wof:lastmodified":1496776130,
     "wof:name":"Clarke Refrigeration & Electrical",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

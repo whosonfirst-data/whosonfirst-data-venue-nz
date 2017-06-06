@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.367722,-46.406548,168.367722,-46.406548",
     "geom:latitude":-46.406548,
     "geom:longitude":168.367722,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WVt7OCqGZ2ADDIyvtvU42_-46.406548_168.367722@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f772180797283beb3e15726d2acba064",
+    "wof:geomhash":"8595eca24971a1731e0ee8e1291bf10f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781519,
+            "region_id":85687211,
             "venue_id":202698637
         }
     ],
     "wof:id":202698637,
-    "wof:lastmodified":1473798713,
+    "wof:lastmodified":1496776721,
     "wof:name":"Southland Kindergarten Association",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

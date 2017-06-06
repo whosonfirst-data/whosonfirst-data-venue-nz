@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.983276,-45.079933,170.983276,-45.079933",
     "geom:latitude":-45.079933,
     "geom:longitude":170.983276,
@@ -23,29 +24,34 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914699,
+        102079381,
+        85781633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xqgO7rTGADpU22waQWCE6_-45.079933_170.983276@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f563ef53efa6aadfacac3440a360a978",
+    "wof:geomhash":"ceb46509d45cb6efe53783be766d1d9b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101914699,
+            "neighbourhood_id":85781633,
+            "region_id":85687179,
             "venue_id":203399237
         }
     ],
     "wof:id":203399237,
-    "wof:lastmodified":1473798685,
+    "wof:lastmodified":1496776265,
     "wof:name":"Whitestone Marine & Hire Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

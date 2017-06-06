@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.750366,-36.722374,174.750366,-36.722374",
     "geom:latitude":-36.722374,
     "geom:longitude":174.750366,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778477
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pdEZfsQdyjr3TLrKQlQuY_-36.722374_174.750366@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c7bcc5a3818d7e4df3755fc6c52358d9",
+    "wof:geomhash":"89262111a37a093c7f2a4b2633811aca",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778477,
+            "region_id":85687243,
             "venue_id":220140293
         }
     ],
     "wof:id":220140293,
-    "wof:lastmodified":1473798598,
+    "wof:lastmodified":1496775470,
     "wof:name":"Robert Importers Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

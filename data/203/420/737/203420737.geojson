@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.718735,-43.601803,172.718735,-43.601803",
     "geom:latitude":-43.601803,
     "geom:longitude":172.718735,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-328 7671",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914667,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tKdcoV5NeB0SVxODWyTCs_-43.601803_172.718735@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"072edb4d9722c03c6588e91834439ee3",
+    "wof:geomhash":"fd26eae87d74f2b89400b7e83c83bf46",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914667,
+            "region_id":85687179,
             "venue_id":203420737
         }
     ],
     "wof:id":203420737,
-    "wof:lastmodified":1473798717,
+    "wof:lastmodified":1496776247,
     "wof:name":"Banks Peninsula Marine Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

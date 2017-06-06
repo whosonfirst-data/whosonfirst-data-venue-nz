@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.12854,-37.664036,176.12854,-37.664036",
     "geom:latitude":-37.664036,
     "geom:longitude":176.12854,
@@ -23,29 +24,34 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914325,
+        102079285,
+        85781309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4irELsGGUxJEK6KfXo92Q0_-37.664036_176.128540@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"23dffcb262f7ba1bfa044e4165e58658",
+    "wof:geomhash":"414f354d23350326b9327d6003239431",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101914325,
+            "neighbourhood_id":85781309,
+            "region_id":85687175,
             "venue_id":219188467
         }
     ],
     "wof:id":219188467,
-    "wof:lastmodified":1473798615,
+    "wof:lastmodified":1496775871,
     "wof:name":"Call A Bus",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

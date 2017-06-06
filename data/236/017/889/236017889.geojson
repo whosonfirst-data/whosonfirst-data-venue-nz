@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.019226,-38.659477,178.019226,-38.659477",
     "geom:latitude":-38.659477,
     "geom:longitude":178.019226,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tIpzvx9A1QSzZdFCSbSAJ_-38.659477_178.019226@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5d5ce2da618b8c70fc36c6982de47a63",
+    "wof:geomhash":"f3d5d4ea34569bc97b9355cb498f0335",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":236017889
         }
     ],
     "wof:id":236017889,
-    "wof:lastmodified":1473798564,
+    "wof:lastmodified":1496776130,
     "wof:name":"Maggie's Lunch Bar",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

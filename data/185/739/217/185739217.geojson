@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.365189,-46.398575,168.365189,-46.398575",
     "geom:latitude":-46.398575,
     "geom:longitude":168.365189,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qatabmHhh3fyNOrJ3QGEs_-46.398575_168.365189@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"11c17c0ca8ae1e847411e654d8b481ad",
+    "wof:geomhash":"d92209e54b18cba2ed54cdef84ec4e25",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781555,
+            "region_id":85687211,
             "venue_id":185739217
         }
     ],
     "wof:id":185739217,
-    "wof:lastmodified":1473798607,
+    "wof:lastmodified":1496776727,
     "wof:name":"United Video Windsor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

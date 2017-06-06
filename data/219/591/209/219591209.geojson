@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.74382,-36.810982,174.74382,-36.810982",
     "geom:latitude":-36.810982,
     "geom:longitude":174.74382,
@@ -23,29 +24,31 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85778507,
+        102191583,
+        85633345,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72woqGWTyZ7Wdf9IEcJbmd_-36.810982_174.743820@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5eb95984d9b3c23eae0489e9d225c78d",
+    "wof:geomhash":"3c73e7641407822fabe97889e04a45b7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778507,
+            "region_id":85687243,
             "venue_id":219591209
         }
     ],
     "wof:id":219591209,
-    "wof:lastmodified":1473798762,
+    "wof:lastmodified":1496775506,
     "wof:name":"BP Oil",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

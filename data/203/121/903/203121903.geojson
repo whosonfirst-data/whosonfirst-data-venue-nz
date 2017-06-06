@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.705048,-36.886192,174.705048,-36.886192",
     "geom:latitude":-36.886192,
     "geom:longitude":174.705048,
@@ -35,7 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
+        102191583,
         85633345,
+        101914257,
+        102079403,
+        85773035,
         85778729
     ],
     "wof:breaches":[],
@@ -43,22 +49,31 @@
         "sg:id":"SG_5uQhLDzSxWqp4FuXgDScQJ_-36.886192_174.705048@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0a25f627aeebe538385c5deb069e9217",
+    "wof:geomhash":"39c6f28777405e10ea9f30b2bc351f70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773035,
+            "region_id":85687243,
+            "venue_id":203121903
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
             "neighbourhood_id":85778729,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":203121903
         }
     ],
     "wof:id":203121903,
-    "wof:lastmodified":1473798641,
+    "wof:lastmodified":1496775580,
     "wof:name":"Akarana Dog Obedience & Agility Assn (Inc)",
-    "wof:parent_id":85778729,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

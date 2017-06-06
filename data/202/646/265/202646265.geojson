@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.30928,-35.693127,174.30928,-35.693127",
     "geom:latitude":-35.693127,
     "geom:longitude":174.30928,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jpXxJCZQ7sBh73JRs0KDs_-35.693127_174.309280@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"90f3ff6087c01800bf4fbab59bba88ae",
+    "wof:geomhash":"eb1cabc8a0607df5ff524aaf96a0bf94",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "region_id":85687149,
             "venue_id":202646265
         }
     ],
     "wof:id":202646265,
-    "wof:lastmodified":1473798704,
+    "wof:lastmodified":1496775333,
     "wof:name":"Soulsby Electrical Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.608154,-43.561218,172.608154,-43.561218",
     "geom:latitude":-43.561218,
     "geom:longitude":172.608154,
@@ -31,29 +32,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778369
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zPrDPuSAB3DTlHKjXSOQi_-43.561218_172.608154@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9864ca8ea97d258d2fc9b74a51cd0817",
+    "wof:geomhash":"f3fa30ed7df85e874b21b2ae62bb2a84",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778369,
+            "region_id":85687179,
             "venue_id":220076579
         }
     ],
     "wof:id":220076579,
-    "wof:lastmodified":1473798601,
+    "wof:lastmodified":1496776088,
     "wof:name":"Mainland Wine Negociants",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

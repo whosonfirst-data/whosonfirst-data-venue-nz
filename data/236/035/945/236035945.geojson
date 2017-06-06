@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.214996,-40.069328,176.214996,-40.069328",
     "geom:latitude":-40.069328,
     "geom:longitude":176.214996,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101917453,
+        102079309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ahAoA14W6oIKlqm8SgooS_-40.069328_176.214996@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b2ae098ea7a02e7a9576474d47c79b7c",
+    "wof:geomhash":"bfaf59ed902d039534259024dbc45f9f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":101917453,
+            "region_id":85687251,
             "venue_id":236035945
         }
     ],
     "wof:id":236035945,
-    "wof:lastmodified":1473798575,
+    "wof:lastmodified":1496776972,
     "wof:name":"Stone M A & L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.749954,-36.706764,174.749954,-36.706764",
     "geom:latitude":-36.706764,
     "geom:longitude":174.749954,
@@ -28,29 +29,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48G5E4rHaSKDDvliQbhuvv_-36.706764_174.749954@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c124bb1405a45c4d334c5e175d274278",
+    "wof:geomhash":"9139fc3877b22f5ce5df9c6ca456d9a3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781263,
+            "region_id":85687243,
             "venue_id":169528907
         }
     ],
     "wof:id":169528907,
-    "wof:lastmodified":1473798551,
+    "wof:lastmodified":1496775406,
     "wof:name":"ASB Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

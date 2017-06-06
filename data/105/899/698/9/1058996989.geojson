@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.148788452,-40.7591438293,175.148788452,-40.7591438293",
     "geom:latitude":-40.759144,
     "geom:longitude":175.148788,
@@ -18,17 +19,32 @@
     "sg:phone":"+64 6-364 8634",
     "sg:website":"http://www.concretedoctor.co.nz",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        85633345,
+        101914931,
+        102079315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pz2TDpnbyltQcBDbrCXdo_-40.759144_175.148788@1306270037"
     },
     "wof:country":"NZ",
     "wof:created":1473719393,
-    "wof:geomhash":"15d4ae6e70ece08022c081168a4bda93",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9eb6c9a42f40b503c2630726f613dd37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914931,
+            "region_id":85687233,
+            "venue_id":1058996989
+        }
+    ],
     "wof:id":1058996989,
-    "wof:lastmodified":1473719393,
+    "wof:lastmodified":1496776421,
     "wof:name":"Concrete Doctors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

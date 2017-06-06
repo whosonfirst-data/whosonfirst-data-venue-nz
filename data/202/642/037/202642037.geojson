@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.212311,-44.39006,171.212311,-44.39006",
     "geom:latitude":-44.39006,
     "geom:longitude":171.212311,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781471
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3t4GBb3Kkd2vOpyheloLAx_-44.390060_171.212311@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e5eaa441b90f300c2747ef5ae67561b0",
+    "wof:geomhash":"4ab474893f6a10314aad0e69d7138e08",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781471,
+            "region_id":85687179,
             "venue_id":202642037
         }
     ],
     "wof:id":202642037,
-    "wof:lastmodified":1473798694,
+    "wof:lastmodified":1496776757,
     "wof:name":"McDonalds Electrical & Inspection Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

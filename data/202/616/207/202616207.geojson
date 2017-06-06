@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.699142,-37.135536,174.699142,-37.135536",
     "geom:latitude":-37.135536,
     "geom:longitude":174.699142,
@@ -32,27 +33,30 @@
     "sg:website":"http://www.totalbuild.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914275,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47K74NZMlL8g3f2h65PCCc_-37.135536_174.699142@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"82fb3ed8c64552078c4dee1bc61a1ba2",
+    "wof:geomhash":"60bb60704f29496d943f6a0c492e2614",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914275,
+            "region_id":85687243,
             "venue_id":202616207
         }
     ],
     "wof:id":202616207,
-    "wof:lastmodified":1473798692,
+    "wof:lastmodified":1496775789,
     "wof:name":"Total Building Solutions Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

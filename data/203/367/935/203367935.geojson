@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"177.084549,-37.977673,177.084549,-37.977673",
     "geom:latitude":-37.977673,
     "geom:longitude":177.084549,
@@ -21,27 +22,30 @@
     "sg:owner":"simplegeo",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914825,
+        102079291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ja4OpxZwVLSzJFkF9T8Xb_-37.977673_177.084549@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3acf361f554f1a236053ebebab623794",
+    "wof:geomhash":"886bd7abb2b162e5b0013a1be197f365",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
+            "locality_id":101914825,
+            "region_id":85687175,
             "venue_id":203367935
         }
     ],
     "wof:id":203367935,
-    "wof:lastmodified":1473798685,
+    "wof:lastmodified":1496776353,
     "wof:name":"Heliwing Helicopters Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

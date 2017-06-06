@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.02066,-40.866123,175.02066,-40.866123",
     "geom:latitude":-40.866123,
     "geom:longitude":175.02066,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 4-293 8891",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914635,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Q0nC2cbfrkeTriBgEjyuU_-40.866123_175.020660@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"055fd9f96051ad089178b1dbdbe65e85",
+    "wof:geomhash":"b57c9549d1fca0eb9405c713460be8d0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914635,
+            "region_id":85687233,
             "venue_id":203017433
         }
     ],
     "wof:id":203017433,
-    "wof:lastmodified":1473798561,
+    "wof:lastmodified":1496776192,
     "wof:name":"Jills Of All Trades Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

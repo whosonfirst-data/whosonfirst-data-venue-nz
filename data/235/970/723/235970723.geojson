@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.794174,-41.304474,174.794174,-41.304474",
     "geom:latitude":-41.304474,
     "geom:longitude":174.794174,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772951
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NkynfIIBjrz1pqAJKBZjI_-41.304474_174.794174@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"81c7281ef0a3000f1eb6981847c84dac",
+    "wof:geomhash":"6ff9ee62f2f8dffc3e0f42e877f425ca",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772951,
+            "region_id":85687233,
             "venue_id":235970723
         }
     ],
     "wof:id":235970723,
-    "wof:lastmodified":1473798574,
+    "wof:lastmodified":1496775804,
     "wof:name":"The Realm Tavern & Grill",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

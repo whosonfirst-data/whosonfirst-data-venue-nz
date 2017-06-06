@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.613007,-36.842968,174.613007,-36.842968",
     "geom:latitude":-36.842968,
     "geom:longitude":174.613007,
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914257,
+        102079403,
         85779003
     ],
     "wof:breaches":[],
@@ -42,20 +46,20 @@
         "sg:id":"SG_760uMysLwDF6kLlZWX9P8k_-36.842968_174.613007@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1a812bf054f7c622272effdaa92581fc",
+    "wof:geomhash":"6ccbb9aef604727f9be7199efa4653ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914257,
             "neighbourhood_id":85779003,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202696185
         }
     ],
     "wof:id":202696185,
-    "wof:lastmodified":1473798709,
+    "wof:lastmodified":1496775396,
     "wof:name":"Playcentres",
     "wof:parent_id":85779003,
     "wof:placetype":"venue",

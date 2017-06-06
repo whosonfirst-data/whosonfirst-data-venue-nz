@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.982483,-45.080784,170.982483,-45.080784",
     "geom:latitude":-45.080784,
     "geom:longitude":170.982483,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914699,
+        102079381,
+        85781633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CHS7aPpDlVa8JACr0FlvT_-45.080784_170.982483@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"766763f3e29e63a472e0065674fea541",
+    "wof:geomhash":"23e25b2de35c314cf04aa7b9ae5689aa",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101914699,
+            "neighbourhood_id":85781633,
+            "region_id":85687179,
             "venue_id":202447613
         }
     ],
     "wof:id":202447613,
-    "wof:lastmodified":1473798639,
+    "wof:lastmodified":1496776267,
     "wof:name":"Dick Peter Optometrists",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

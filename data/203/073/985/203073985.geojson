@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.797226,-36.95845,174.797226,-36.95845",
     "geom:latitude":-36.95845,
     "geom:longitude":174.797226,
@@ -23,8 +24,12 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101915503,
+        102079403,
+        85772903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,18 +39,19 @@
     "wof:geomhash":"750f9f85e0ad381667bb4b563b8af4e9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915503,
+            "neighbourhood_id":85772903,
+            "region_id":85687243,
             "venue_id":203073985
         }
     ],
     "wof:id":203073985,
-    "wof:lastmodified":1473798622,
+    "wof:lastmodified":1491930979,
     "wof:name":"Maile Ua Stonemason Contractor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

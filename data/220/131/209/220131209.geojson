@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.639435,-40.335495,175.639435,-40.335495",
     "geom:latitude":-40.335495,
     "geom:longitude":175.639435,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079307,
+        85781111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A4k00nkZlCTCnjMSUNvBH_-40.335495_175.639435@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"67ae014513a6ce44dd991dc99e68610c",
+    "wof:geomhash":"36b22aab3655045e1180724aa9073770",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781111,
+            "region_id":85687251,
             "venue_id":220131209
         }
     ],
     "wof:id":220131209,
-    "wof:lastmodified":1473798599,
+    "wof:lastmodified":1496775734,
     "wof:name":"Meal Innovations Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.867096,-36.982674,174.867096,-36.982674",
     "geom:latitude":-36.982674,
     "geom:longitude":174.867096,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781077
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p3kTR4BZlqbe42lxZ708q_-36.982674_174.867096@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5d19b0bab1969524532a3e4d8894eec7",
+    "wof:geomhash":"967d1f23422ce892c6965b97c35a48e9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781077,
+            "region_id":85687243,
             "venue_id":219775045
         }
     ],
     "wof:id":219775045,
-    "wof:lastmodified":1473798775,
+    "wof:lastmodified":1496775660,
     "wof:name":"Papatoetoe Upholsterers Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

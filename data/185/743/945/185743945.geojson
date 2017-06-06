@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.959457,-37.059521,174.959457,-37.059521",
     "geom:latitude":-37.059521,
     "geom:longitude":174.959457,
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101915043,
+        102079403
     ],
     "wof:brand_id":420575023,
     "wof:breaches":[],
@@ -42,19 +46,19 @@
         "sg:id":"SG_5YAPZQFbPQec79Q65PQgDL_-37.059521_174.959457@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f44e0d5b12a4e95b5ca35c482741b13a",
+    "wof:geomhash":"246ee7ba82f4d8e7cf08b1d20a01ad73",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915043,
+            "region_id":85687243,
             "venue_id":185743945
         }
     ],
     "wof:id":185743945,
-    "wof:lastmodified":1473798610,
+    "wof:lastmodified":1496777648,
     "wof:name":"Video Ezy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

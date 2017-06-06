@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"167.717026,-45.412125,167.717026,-45.412125",
     "geom:latitude":-45.412125,
     "geom:longitude":167.717026,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101914801,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1U4T8Eo85QXYtxynxWuQFZ_-45.412125_167.717026@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"69fb808b5c4cf6008331cd1c6b0c5b28",
+    "wof:geomhash":"8d6809db3f20427133facdb184ab6a76",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101914801,
+            "region_id":85687211,
             "venue_id":219417979
         }
     ],
     "wof:id":219417979,
-    "wof:lastmodified":1473798711,
+    "wof:lastmodified":1496776347,
     "wof:name":"Top Line Tours Te Anau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

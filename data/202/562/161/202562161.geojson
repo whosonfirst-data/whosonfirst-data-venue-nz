@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.980469,-40.894974,174.980469,-40.894974",
     "geom:latitude":-40.894974,
     "geom:longitude":174.980469,
@@ -23,27 +24,30 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WWGOFJBbyitptNTF4PWGM_-40.894974_174.980469@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"dbb891cfe2bf10f3b86f2e8430ade8b3",
+    "wof:geomhash":"c6045dbe4279a613123aa5439d3d2469",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":202562161
         }
     ],
     "wof:id":202562161,
-    "wof:lastmodified":1473798688,
+    "wof:lastmodified":1496776179,
     "wof:name":"Shore Jeanette Podiatrist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

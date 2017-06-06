@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.790817,-41.246719,174.790817,-41.246719",
     "geom:latitude":-41.246719,
     "geom:longitude":174.790817,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85781175
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Wq1zGnrcypHXNktZhZpNo_-41.246719_174.790817@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ecd449f12b01897076ab7768f93630b7",
+    "wof:geomhash":"6ec4be04db86df261c2b4e2147e1f4f3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85781175,
+            "region_id":85687233,
             "venue_id":220132531
         }
     ],
     "wof:id":220132531,
-    "wof:lastmodified":1473798599,
+    "wof:lastmodified":1496775814,
     "wof:name":"Rosa Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

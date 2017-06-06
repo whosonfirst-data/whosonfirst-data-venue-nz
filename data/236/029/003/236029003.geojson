@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.86618,-39.420326,176.86618,-39.420326",
     "geom:latitude":-39.420326,
     "geom:longitude":176.86618,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101915291,
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ugZuvafsq1cvbTL6fWRyR_-39.420326_176.866180@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"838299577a5163ec946d80c209dc9a79",
+    "wof:geomhash":"8f9d37188fdd2d1cb07d21d85c7d9ad1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101915291,
+            "region_id":85687189,
             "venue_id":236029003
         }
     ],
     "wof:id":236029003,
-    "wof:lastmodified":1473798563,
+    "wof:lastmodified":1496776651,
     "wof:name":"Crab Farm Winery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

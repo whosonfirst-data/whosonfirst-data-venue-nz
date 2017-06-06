@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.88913,-37.011497,174.88913,-37.011497",
     "geom:latitude":-37.011497,
     "geom:longitude":174.88913,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85780923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KWPi6CcoOuMqjMUoUc9QO_-37.011497_174.889130@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d0617c14d4c6deec6fb6d354d650aeb4",
+    "wof:geomhash":"641eaaf0b51c2be0555ca200f8aa49c9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85780923,
+            "region_id":85687243,
             "venue_id":203403351
         }
     ],
     "wof:id":203403351,
-    "wof:lastmodified":1473798693,
+    "wof:lastmodified":1496776151,
     "wof:name":"Marine Cut & Polish",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

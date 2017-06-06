@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.650711,-43.568481,172.650711,-43.568481",
     "geom:latitude":-43.568481,
     "geom:longitude":172.650711,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778153
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1b6MgL7LvkCUm2LFTSiXUA_-43.568481_172.650711@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"671ffe081877540a762216217bb5ecfe",
+    "wof:geomhash":"4e007d090c0d6acec9cee3005bb0acb0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778153,
+            "region_id":85687179,
             "venue_id":186127903
         }
     ],
     "wof:id":186127903,
-    "wof:lastmodified":1473798676,
+    "wof:lastmodified":1496776074,
     "wof:name":"4D Electronics Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

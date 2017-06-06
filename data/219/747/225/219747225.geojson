@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.972198,-42.711411,170.972198,-42.711411",
     "geom:latitude":-42.711411,
     "geom:longitude":170.972198,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101915183,
+        102079363
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iQOKQHwXIhNaywUIqsyVd_-42.711411_170.972198@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4b2093ad82b530ef6429474b46176cda",
+    "wof:geomhash":"f162e3ca5d54ff4ed961994b82c65fc7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":101915183,
+            "region_id":85687165,
             "venue_id":219747225
         }
     ],
     "wof:id":219747225,
-    "wof:lastmodified":1473798777,
+    "wof:lastmodified":1496776621,
     "wof:name":"Hokitika Service Station (1992) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

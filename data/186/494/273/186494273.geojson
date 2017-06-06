@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.731323,-36.854977,174.731323,-36.854977",
     "geom:latitude":-36.854977,
     "geom:longitude":174.731323,
@@ -24,8 +25,12 @@
     "sg:website":"http://www.yellowpages.co.nz/for/its/dp52864.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914397,
+        102079403,
+        85778333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,18 +40,19 @@
     "wof:geomhash":"4646e7b992930d635f4e1a6b8414fcb9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914397,
+            "neighbourhood_id":85778333,
+            "region_id":85687243,
             "venue_id":186494273
         }
     ],
     "wof:id":186494273,
-    "wof:lastmodified":1473798753,
+    "wof:lastmodified":1491893671,
     "wof:name":"Innovative Training Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

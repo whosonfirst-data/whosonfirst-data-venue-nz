@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.875046,-39.667858,176.875046,-39.667858",
     "geom:latitude":-39.667858,
     "geom:longitude":176.875046,
@@ -23,27 +24,30 @@
     "sg:province":"Hawke's Bay",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914661,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NzxllLTZ5zcWzJWakSIXs_-39.667858_176.875046@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"60534295d9a2129fb052faf29232edc0",
+    "wof:geomhash":"ef1900cc5850d21c8ee15f088441f546",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914661,
+            "region_id":85687189,
             "venue_id":219268383
         }
     ],
     "wof:id":219268383,
-    "wof:lastmodified":1473798663,
+    "wof:lastmodified":1496776237,
     "wof:name":"Havelock North Brompton Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

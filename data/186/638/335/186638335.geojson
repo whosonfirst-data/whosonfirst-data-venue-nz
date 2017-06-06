@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.094788,-38.686119,176.094788,-38.686119",
     "geom:latitude":-38.686119,
     "geom:longitude":176.094788,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        102079281,
+        85782499
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1y2UGcZHZyu64cEY306gic_-38.686119_176.094788@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c2f2e5880f766067db89dedc4307dde5",
+    "wof:geomhash":"f56f7e01ae52893d692d80bf4bbb0a37",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782499,
+            "region_id":85687229,
             "venue_id":186638335
         }
     ],
     "wof:id":186638335,
-    "wof:lastmodified":1473798764,
+    "wof:lastmodified":1496775933,
     "wof:name":"Deborah Jay",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

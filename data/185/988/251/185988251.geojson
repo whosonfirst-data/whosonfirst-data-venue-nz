@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.743515,-36.886208,174.743515,-36.886208",
     "geom:latitude":-36.886208,
     "geom:longitude":174.743515,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778143
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kzRL330MX8ChiXpzFoom2_-36.886208_174.743515@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"211e917013cac1151553c5f93dbc8f5e",
+    "wof:geomhash":"fe68b7fc28cdd7b4b0256c59ab976e5d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778143,
+            "region_id":85687243,
             "venue_id":185988251
         }
     ],
     "wof:id":185988251,
-    "wof:lastmodified":1473798662,
+    "wof:lastmodified":1496775504,
     "wof:name":"Karma Designs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

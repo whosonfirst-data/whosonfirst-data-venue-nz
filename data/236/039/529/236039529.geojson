@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.776062,-36.881355,174.776062,-36.881355",
     "geom:latitude":-36.881355,
     "geom:longitude":174.776062,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VY25ECPhEoVDqs0WxhGQt_-36.881355_174.776062@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"695ee7c5d69eaca794b4b96d469ba556",
+    "wof:geomhash":"c695589764d0d294652b7929bb7c6f05",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782389,
+            "region_id":85687243,
             "venue_id":236039529
         }
     ],
     "wof:id":236039529,
-    "wof:lastmodified":1473798575,
+    "wof:lastmodified":1496775543,
     "wof:name":"Jardiniere Floral Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

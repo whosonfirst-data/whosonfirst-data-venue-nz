@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.789185,-36.807011,174.789185,-36.807011",
     "geom:latitude":-36.807011,
     "geom:longitude":174.789185,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101915597,
+        102079403,
+        85778149
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29jpjLBg4JUaeByhIsRjJd_-36.807011_174.789185@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"42e4d57bb8ad0df9adafcd36c3e37944",
+    "wof:geomhash":"a0fe4dec43ad74e9a2238d78126a1a83",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915597,
+            "neighbourhood_id":85778149,
+            "region_id":85687243,
             "venue_id":219948949
         }
     ],
     "wof:id":219948949,
-    "wof:lastmodified":1473798794,
+    "wof:lastmodified":1496776806,
     "wof:name":"Belmont Veterinary Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

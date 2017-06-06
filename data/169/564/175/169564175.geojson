@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.761047,-36.885384,174.761047,-36.885384",
     "geom:latitude":-36.885384,
     "geom:longitude":174.761047,
@@ -24,29 +25,33 @@
     "sg:website":"http://www.thestudio.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EDieHR49ZQXQlMdpAUPLu_-36.885384_174.761047@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cc5bc9639f3524743b9224f61d745cca",
+    "wof:geomhash":"fa6ad4a36212d0ebc6e16f95fb90bb62",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778855,
+            "region_id":85687243,
             "venue_id":169564175
         }
     ],
     "wof:id":169564175,
-    "wof:lastmodified":1473798572,
+    "wof:lastmodified":1496775448,
     "wof:name":"The Studio of Tableware",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

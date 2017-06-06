@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.766708,-36.879951,174.766708,-36.879951",
     "geom:latitude":-36.879951,
     "geom:longitude":174.766708,
@@ -33,29 +34,33 @@
     "sg:website":"http://www.salescoach.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782453
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xi2XNO0wfhP9KOoMnrTuT_-36.879951_174.766708@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e335da49378cc712c4446b319210f6ab",
+    "wof:geomhash":"2ebe6c8fa373b0995f939279d6fb227a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782453,
+            "region_id":85687243,
             "venue_id":219533813
         }
     ],
     "wof:id":219533813,
-    "wof:lastmodified":1473798737,
+    "wof:lastmodified":1496775456,
     "wof:name":"Salescoach Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

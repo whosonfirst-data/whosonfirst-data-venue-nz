@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"151.203857,-33.868462,151.203857,-33.868462",
     "geom:latitude":-33.868462,
     "geom:longitude":151.203857,
@@ -23,11 +24,13 @@
     "sg:province":"Marlborough",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681545,
+        85782721,
+        102191583,
+        404226357,
         85632793,
         101932003,
         102049151,
-        85782721
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,10 @@
     "wof:geomhash":"9e2a4999bf642f4a669a7f8718fc6868",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85632793,
             "county_id":102049151,
+            "localadmin_id":404226357,
             "locality_id":101932003,
             "neighbourhood_id":85782721,
             "region_id":85681545,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":186170957,
-    "wof:lastmodified":1473798679,
+    "wof:lastmodified":1491899943,
     "wof:name":"Opus International Consultants Limited",
     "wof:parent_id":85782721,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.564819,-45.861271,170.564819,-45.861271",
     "geom:latitude":-45.861271,
     "geom:longitude":170.564819,
@@ -23,29 +24,33 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        102079387,
+        85773153
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qDaAHkMKvbBjfOxMbdL68_-45.861271_170.564819@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"691447e1c4ef823b95149a4cee598ebd",
+    "wof:geomhash":"9cfa796af4f65758626b387726320b4a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85773153,
+            "region_id":85687201,
             "venue_id":202993663
         }
     ],
     "wof:id":202993663,
-    "wof:lastmodified":1473798771,
+    "wof:lastmodified":1496775764,
     "wof:name":"Mr Green Lawnmowing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

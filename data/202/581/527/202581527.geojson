@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.008896,-40.91362,175.008896,-40.91362",
     "geom:latitude":-40.91362,
     "geom:longitude":175.008896,
@@ -23,27 +24,30 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6F3bo3yoltoQTkBvaGrLRW_-40.913620_175.008896@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c607caf7365e6ba53837f8ed2d5d8271",
+    "wof:geomhash":"1a699439f3bb8bf50f7d19ee17fa2a7f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":202581527
         }
     ],
     "wof:id":202581527,
-    "wof:lastmodified":1473798704,
+    "wof:lastmodified":1496776186,
     "wof:name":"Le Beauchamp Xmas Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

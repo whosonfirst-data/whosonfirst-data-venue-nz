@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.076843,-40.871567,175.076843,-40.871567",
     "geom:latitude":-40.871567,
     "geom:longitude":175.076843,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914637,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vs3G0fUpRniMoJgyE0b9H_-40.871567_175.076843@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"970ff66ae39a7662ae80dc802333f804",
+    "wof:geomhash":"8d2ef1d3834991a6fa57c0e9680d812b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914637,
+            "region_id":85687233,
             "venue_id":186009893
         }
     ],
     "wof:id":186009893,
-    "wof:lastmodified":1473798555,
+    "wof:lastmodified":1496776199,
     "wof:name":"Sowry K M JP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

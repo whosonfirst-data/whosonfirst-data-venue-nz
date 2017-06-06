@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.138107,-37.680111,176.138107,-37.680111",
     "geom:latitude":-37.680111,
     "geom:longitude":176.138107,
@@ -23,27 +24,30 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914325,
+        102079285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mLCxznv7ZycDw8ufC3sP2_-37.680111_176.138107@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e665d1613a2461023cfdf980481d4afc",
+    "wof:geomhash":"4c91d43fe336958d5081fdb6ece9ea51",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101914325,
+            "region_id":85687175,
             "venue_id":203014901
         }
     ],
     "wof:id":203014901,
-    "wof:lastmodified":1473798566,
+    "wof:lastmodified":1496775876,
     "wof:name":"Bugsy McFly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

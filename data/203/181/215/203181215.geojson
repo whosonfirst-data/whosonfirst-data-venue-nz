@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.723648,-36.781315,174.723648,-36.781315",
     "geom:latitude":-36.781315,
     "geom:longitude":174.723648,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Al0Nbl0DrxWl3JDVFCFIk_-36.781315_174.723648@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2cadcb80aa366092380136e59b96b35a",
+    "wof:geomhash":"b4c680bd5df8b532b5be96edd7ed65e1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782397,
+            "region_id":85687243,
             "venue_id":203181215
         }
     ],
     "wof:id":203181215,
-    "wof:lastmodified":1473798648,
+    "wof:lastmodified":1496777100,
     "wof:name":"Clothing Alterations Threds",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

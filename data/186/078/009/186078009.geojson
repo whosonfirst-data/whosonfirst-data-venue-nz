@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.364243,-46.395802,168.364243,-46.395802",
     "geom:latitude":-46.395802,
     "geom:longitude":168.364243,
@@ -23,29 +24,33 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BpQcDsHRrmrGwIpAr4Vdd_-46.395802_168.364243@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f56fd75353164e7a530f58435655df14",
+    "wof:geomhash":"9ad58e53b2a8d7f638f5f65861b741a8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781555,
+            "region_id":85687211,
             "venue_id":186078009
         }
     ],
     "wof:id":186078009,
-    "wof:lastmodified":1473798642,
+    "wof:lastmodified":1496776729,
     "wof:name":"Stuart Control Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

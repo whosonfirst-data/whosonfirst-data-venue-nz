@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.717087,-43.598938,172.717087,-43.598938",
     "geom:latitude":-43.598938,
     "geom:longitude":172.717087,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914667,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jBLywkelfpyPPIdBOi2FL_-43.598938_172.717087@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fd403dd3e626d4ad4a2f10bb9107494a",
+    "wof:geomhash":"ed66aaba241bbdd45392bd8e488109f5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914667,
+            "region_id":85687179,
             "venue_id":219286865
         }
     ],
     "wof:id":219286865,
-    "wof:lastmodified":1473798669,
+    "wof:lastmodified":1496776246,
     "wof:name":"Cavendish House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

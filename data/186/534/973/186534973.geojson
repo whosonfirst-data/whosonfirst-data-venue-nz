@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.896866,-37.03009,174.896866,-37.03009",
     "geom:latitude":-37.03009,
     "geom:longitude":174.896866,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914625,
+        102079403,
+        85782445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uaxqupve7H3yfwhdOmhx5_-37.030090_174.896866@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"85542a856a926de00ec16eb97094385e",
+    "wof:geomhash":"f3d19613d7973f553000c3e6bcc7166b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914625,
+            "neighbourhood_id":85782445,
+            "region_id":85687243,
             "venue_id":186534973
         }
     ],
     "wof:id":186534973,
-    "wof:lastmodified":1473798765,
+    "wof:lastmodified":1496776148,
     "wof:name":"Debbie & Co Hairdesign",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

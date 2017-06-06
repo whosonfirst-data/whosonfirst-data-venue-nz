@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.833359,-36.978436,174.833359,-36.978436",
     "geom:latitude":-36.978436,
     "geom:longitude":174.833359,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778437
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04Jg9JwPk1t50OT3tLVnyS_-36.978436_174.833359@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fbcdc897ce4f43f9bc1893f17f1e2dc9",
+    "wof:geomhash":"acdc856686e7f0278563dc8e7e4f315e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778437,
+            "region_id":85687243,
             "venue_id":219408251
         }
     ],
     "wof:id":219408251,
-    "wof:lastmodified":1473798728,
+    "wof:lastmodified":1496777121,
     "wof:name":"Abbots Holdings Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

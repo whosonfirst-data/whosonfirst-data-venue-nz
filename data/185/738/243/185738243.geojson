@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.942429,-37.066441,174.942429,-37.066441",
     "geom:latitude":-37.066441,
     "geom:longitude":174.942429,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101915043,
+        102079403,
         85782487
     ],
     "wof:breaches":[],
@@ -43,20 +47,20 @@
         "sg:id":"SG_5dTPYVjKr5EiKTkoOkoh3B_-37.066441_174.942429@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"427b816430c38f25c874899b4dceb827",
+    "wof:geomhash":"29a48cd800cba285cedd2319d7f61e47",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101915043,
             "neighbourhood_id":85782487,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":185738243
         }
     ],
     "wof:id":185738243,
-    "wof:lastmodified":1473798605,
+    "wof:lastmodified":1496776486,
     "wof:name":"United Video",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",

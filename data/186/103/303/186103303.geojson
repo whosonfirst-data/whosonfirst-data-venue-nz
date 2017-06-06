@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.944504,-37.257168,174.944504,-37.257168",
     "geom:latitude":-37.257168,
     "geom:longitude":174.944504,
@@ -36,27 +37,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915029,
+        102079265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0G4mQi9PAfdEDyN12jYr0a_-37.257168_174.944504@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"34a06ec77df23d227210f51f417314e6",
+    "wof:geomhash":"adf556ef778a41d07a51e3db9c150776",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101915029,
+            "region_id":85687229,
             "venue_id":186103303
         }
     ],
     "wof:id":186103303,
-    "wof:lastmodified":1473798690,
+    "wof:lastmodified":1496776431,
     "wof:name":"Firewood Tuakau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.774002,-36.782623,174.774002,-36.782623",
     "geom:latitude":-36.782623,
     "geom:longitude":174.774002,
@@ -23,41 +24,43 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        85773217,
-        85778459
+        102079403,
+        85778459,
+        85773217
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3n1BT85N7UExume7VNhHCn_-36.782623_174.774002@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ba6542f71956d0734ecad0f2ed0470ee",
+    "wof:geomhash":"caf9699e1ed3ab2bc5e6842c51262d67",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":85773217,
-            "region_id":-1,
+            "neighbourhood_id":85778459,
+            "region_id":85687243,
             "venue_id":186593347
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":85778459,
-            "region_id":-1,
+            "neighbourhood_id":85773217,
+            "region_id":85687243,
             "venue_id":186593347
         }
     ],
     "wof:id":186593347,
-    "wof:lastmodified":1473798763,
+    "wof:lastmodified":1496775398,
     "wof:name":"Takapuna Dental Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

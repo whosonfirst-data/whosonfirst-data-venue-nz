@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.813873,-41.223667,174.813873,-41.223667",
     "geom:latitude":-41.223667,
     "geom:longitude":174.813873,
@@ -33,31 +34,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
+        102191583,
         85633345,
-        101914409,
-        85778481
+        102079339,
+        85778481,
+        101914285,
+        85781039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28EXKRRFNqpkVv1ax6nHhB_-41.223667_174.813873@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"33a51426d9a43b20d2253d29f1373da0",
+    "wof:geomhash":"658b2e2bc0e966efdb48f0060f8ec04f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":-1,
             "neighbourhood_id":85778481,
-            "region_id":-1,
+            "region_id":85687233,
+            "venue_id":203057877
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85781039,
+            "region_id":85687233,
             "venue_id":203057877
         }
     ],
     "wof:id":203057877,
-    "wof:lastmodified":1473798605,
+    "wof:lastmodified":1496775805,
     "wof:name":"Chinnock M",
-    "wof:parent_id":85778481,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

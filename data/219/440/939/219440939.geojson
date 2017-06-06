@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.65799,-36.917774,174.65799,-36.917774",
     "geom:latitude":-36.917774,
     "geom:longitude":174.65799,
@@ -33,29 +34,31 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85779015,
+        102191583,
+        85633345,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Np4frylSFfJ2BRarvwLaZ_-36.917774_174.657990@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5e8ade191457a41d0f85d1ca185cd840",
+    "wof:geomhash":"4147f7ecc2c16e0cdffe25aeff83d178",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85779015,
+            "region_id":85687243,
             "venue_id":219440939
         }
     ],
     "wof:id":219440939,
-    "wof:lastmodified":1473798708,
+    "wof:lastmodified":1496775409,
     "wof:name":"Five Star Driver Education",
-    "wof:parent_id":-1,
+    "wof:parent_id":85779015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

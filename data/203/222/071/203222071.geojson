@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.728973,-36.877918,174.728973,-36.877918",
     "geom:latitude":-36.877918,
     "geom:longitude":174.728973,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NimpjwWHVK0rjVixCAynN_-36.877918_174.728973@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"00735460d6c8fe70319a301d0e99dfd7",
+    "wof:geomhash":"d57acfdccf314b92896473634ab985a6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778467,
+            "region_id":85687243,
             "venue_id":203222071
         }
     ],
     "wof:id":203222071,
-    "wof:lastmodified":1473798647,
+    "wof:lastmodified":1496775592,
     "wof:name":"Hound Dog",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

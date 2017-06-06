@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.78508,-41.296371,174.78508,-41.296371",
     "geom:latitude":-41.296371,
     "geom:longitude":174.78508,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85778473
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_3hJBXV1KhbTYMEl9mTS9YN_-41.296371_174.785080@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c90036c47c8820b7e8beaf317256d5c9",
+    "wof:geomhash":"27aec65e4a5af6ab6ebb1a47f33515d3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85778473,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":202686859
         }
     ],
     "wof:id":202686859,
-    "wof:lastmodified":1473798705,
+    "wof:lastmodified":1496775829,
     "wof:name":"Crossways Community Creche",
     "wof:parent_id":85778473,
     "wof:placetype":"venue",

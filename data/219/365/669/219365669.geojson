@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"167.616943,-45.565819,167.616943,-45.565819",
     "geom:latitude":-45.565819,
     "geom:longitude":167.616943,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101914877,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eDKsc15z0Cne7ViY1wW3E_-45.565819_167.616943@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f4a7bfe5e4ade6bcc51abd6c9a8e009f",
+    "wof:geomhash":"b5c113ca899c6815f427cbe4771dd66d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101914877,
+            "region_id":85687211,
             "venue_id":219365669
         }
     ],
     "wof:id":219365669,
-    "wof:lastmodified":1473798695,
+    "wof:lastmodified":1496776371,
     "wof:name":"Hunt South",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

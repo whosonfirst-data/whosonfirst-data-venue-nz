@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.61972,-43.509651,172.61972,-43.509651",
     "geom:latitude":-43.509651,
     "geom:longitude":172.61972,
@@ -35,29 +36,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/drgrantbellaney/dp22527.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778455
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TM6tpRHZtYPJPVPGlajyY_-43.509651_172.619720@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3d50c715467dfaf424f7e5c9b75a9af4",
+    "wof:geomhash":"c11bdb22775b4d23a8dd583afe5ea966",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778455,
+            "region_id":85687179,
             "venue_id":202564079
         }
     ],
     "wof:id":202564079,
-    "wof:lastmodified":1473798686,
+    "wof:lastmodified":1496776065,
     "wof:name":"Bellaney Dr Grant",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.815048,-41.224339,174.815048,-41.224339",
     "geom:latitude":-41.224339,
     "geom:longitude":174.815048,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85781039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Z5VqcKM5zv9hy3k4o0jpX_-41.224339_174.815048@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4031c1e35cee8388a862e7e3b55f57ff",
+    "wof:geomhash":"2be051a1ae78350b1b664aa6401cb47e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85781039,
+            "region_id":85687233,
             "venue_id":203239231
         }
     ],
     "wof:id":203239231,
-    "wof:lastmodified":1473798699,
+    "wof:lastmodified":1496775803,
     "wof:name":"Maggies",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

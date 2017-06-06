@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.611298,-36.830635,174.611298,-36.830635",
     "geom:latitude":-36.830635,
     "geom:longitude":174.611298,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778999
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0legEOSxVs4NaMLdHKO7OX_-36.830635_174.611298@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"407190982e9370c343f93bcf49a5036b",
+    "wof:geomhash":"f5b4439fd066261b0f4463983e4be168",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778999,
+            "region_id":85687243,
             "venue_id":203019195
         }
     ],
     "wof:id":203019195,
-    "wof:lastmodified":1473798568,
+    "wof:lastmodified":1496775431,
     "wof:name":"Royal Handyman Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

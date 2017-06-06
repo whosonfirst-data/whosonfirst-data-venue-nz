@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.070236,-38.691601,178.070236,-38.691601",
     "geom:latitude":-38.691601,
     "geom:longitude":178.070236,
@@ -32,29 +33,31 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85784657,
+        102191583,
+        85633345,
+        85687237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65BajoiSaiCty4x2YPR78e_-38.691601_178.070236@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7efafc1541f213badc280deca91e69aa",
+    "wof:geomhash":"586d2b5ac75821d71ddc5bf8e28d16a2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85784657,
+            "region_id":85687237,
             "venue_id":202624431
         }
     ],
     "wof:id":202624431,
-    "wof:lastmodified":1473798697,
+    "wof:lastmodified":1496776861,
     "wof:name":"John Fitzgerald",
-    "wof:parent_id":-1,
+    "wof:parent_id":85784657,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

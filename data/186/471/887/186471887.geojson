@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.100555,-39.049675,174.100555,-39.049675",
     "geom:latitude":-39.049675,
     "geom:longitude":174.100555,
@@ -23,42 +24,43 @@
     "sg:province":"Taranaki",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687195,
         102191583,
         85633345,
-        101914745,
-        85772911,
-        85781389
+        102079311,
+        85781389,
+        85772911
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57wdI4B8gOmFZ5eDQ15QAV_-39.049675_174.100555@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4b2dd1508d2164089ac8d055a64be802",
+    "wof:geomhash":"7ade9432f7c3177c51713c4b1328afb4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914745,
-            "neighbourhood_id":85772911,
-            "region_id":-1,
+            "county_id":102079311,
+            "locality_id":-1,
+            "neighbourhood_id":85781389,
+            "region_id":85687195,
             "venue_id":186471887
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914745,
-            "neighbourhood_id":85781389,
-            "region_id":-1,
+            "county_id":102079311,
+            "locality_id":-1,
+            "neighbourhood_id":85772911,
+            "region_id":85687195,
             "venue_id":186471887
         }
     ],
     "wof:id":186471887,
-    "wof:lastmodified":1473798759,
+    "wof:lastmodified":1496776300,
     "wof:name":"Ivan Heal Plumbing Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

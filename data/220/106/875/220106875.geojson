@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.125031,-39.550308,174.125031,-39.550308",
     "geom:latitude":-39.550308,
     "geom:longitude":174.125031,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687195,
+        102191583,
+        85633345,
+        101915831,
+        102079295
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rh4Io6V5z5FtplHnBmarJ_-39.550308_174.125031@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"89f044650ffc775f5cd40725f94dea8e",
+    "wof:geomhash":"fd50b5c8e5e6e30923692d125214165b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079295,
+            "locality_id":101915831,
+            "region_id":85687195,
             "venue_id":220106875
         }
     ],
     "wof:id":220106875,
-    "wof:lastmodified":1473798606,
+    "wof:lastmodified":1496776846,
     "wof:name":"Yarrows (The Bakers) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

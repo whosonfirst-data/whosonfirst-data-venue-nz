@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.647232,-43.566437,172.647232,-43.566437",
     "geom:latitude":-43.566437,
     "geom:longitude":172.647232,
@@ -32,29 +33,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/flowergirls/dp38323.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778153
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60t6wY1inctz5YsO1v1Chp_-43.566437_172.647232@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"721e58aa5ead20035ffd391de762d915",
+    "wof:geomhash":"946bc66f4b1bed36a9af54ba0ae2abde",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778153,
+            "region_id":85687179,
             "venue_id":169579295
         }
     ],
     "wof:id":169579295,
-    "wof:lastmodified":1473798586,
+    "wof:lastmodified":1496776037,
     "wof:name":"Flower Girls",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

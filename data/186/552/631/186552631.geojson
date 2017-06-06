@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.792023,-36.876461,174.792023,-36.876461",
     "geom:latitude":-36.876461,
     "geom:longitude":174.792023,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778887
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0R3kWC5uL9Yzowk4MIMian_-36.876461_174.792023@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4d223956308ff30c368f32db8066337c",
+    "wof:geomhash":"562e05e36832e8771f863549f2eb3bcf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778887,
+            "region_id":85687243,
             "venue_id":186552631
         }
     ],
     "wof:id":186552631,
-    "wof:lastmodified":1473798773,
+    "wof:lastmodified":1496775680,
     "wof:name":"Colours",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

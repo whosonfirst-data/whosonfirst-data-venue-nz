@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.974167,-37.958572,176.974167,-37.958572",
     "geom:latitude":-37.958572,
     "geom:longitude":176.974167,
@@ -23,29 +24,33 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079291,
+        85782901
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0s6EWznX1rFlmo2177qVor_-37.958572_176.974167@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"38c2651e96f496fb1b27851f4438618c",
+    "wof:geomhash":"02a9165ab90df3f87dbd93a59a170a0d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782901,
+            "region_id":85687175,
             "venue_id":202507159
         }
     ],
     "wof:id":202507159,
-    "wof:lastmodified":1473798684,
+    "wof:lastmodified":1496775890,
     "wof:name":"Whakatane Chiropractic Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

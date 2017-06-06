@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.06102,-40.873184,175.06102,-40.873184",
     "geom:latitude":-40.873184,
     "geom:longitude":175.06102,
@@ -30,27 +31,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914637,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62asNDmXLX8LOpu5MAqbwy_-40.873184_175.061020@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e640259df0001f14857718ab08e21e90",
+    "wof:geomhash":"99b9c65ff02bc471fc5b51885fff6221",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914637,
+            "region_id":85687233,
             "venue_id":169537969
         }
     ],
     "wof:id":169537969,
-    "wof:lastmodified":1473798555,
+    "wof:lastmodified":1496776196,
     "wof:name":"Coast Access F M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

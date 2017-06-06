@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"151.187637,-33.85751,151.187637,-33.85751",
     "geom:latitude":-33.85751,
     "geom:longitude":151.187637,
@@ -23,11 +24,13 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681545,
+        85776079,
+        102191583,
+        404221629,
         85632793,
         101929451,
         102049643,
-        85776079
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,10 @@
     "wof:geomhash":"ef7b9e56ea0c1549b6dc09d30e5f8209",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85632793,
             "county_id":102049643,
+            "localadmin_id":404221629,
             "locality_id":101929451,
             "neighbourhood_id":85776079,
             "region_id":85681545,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":219599589,
-    "wof:lastmodified":1473798753,
+    "wof:lastmodified":1491929231,
     "wof:name":"Northern Auto Services",
     "wof:parent_id":85776079,
     "wof:placetype":"venue",

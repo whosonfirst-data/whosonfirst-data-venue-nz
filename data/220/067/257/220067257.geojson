@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.613434,-40.30162,176.613434,-40.30162",
     "geom:latitude":-40.30162,
     "geom:longitude":176.613434,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101916471,
+        102079333
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aCfRF8HqVl1HOVaKQRTuD_-40.301620_176.613434@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"665742fea15fd1550c72b37510589eb5",
+    "wof:geomhash":"7d1c26b670ed65d036f92f7174082523",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079333,
+            "locality_id":101916471,
+            "region_id":85687189,
             "venue_id":220067257
         }
     ],
     "wof:id":220067257,
-    "wof:lastmodified":1473798617,
+    "wof:lastmodified":1496776912,
     "wof:name":"Porangahau Beach Bottle Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

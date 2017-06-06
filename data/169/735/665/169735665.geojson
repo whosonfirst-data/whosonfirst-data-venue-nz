@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.016663,-38.646908,178.016663,-38.646908",
     "geom:latitude":-38.646908,
     "geom:longitude":178.016663,
@@ -23,27 +24,30 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        101914591,
+        102079325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lk46rRbwLCVO2VsbRDINE_-38.646908_178.016663@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2e4024d9ae80001a01edf21b0f0b94f8",
+    "wof:geomhash":"c9875a4df242773952edcc6eefca53af",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":101914591,
+            "region_id":85687237,
             "venue_id":169735665
         }
     ],
     "wof:id":169735665,
-    "wof:lastmodified":1473798613,
+    "wof:lastmodified":1496776127,
     "wof:name":"Hospital Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

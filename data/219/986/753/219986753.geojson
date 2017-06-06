@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.617935,-40.350033,175.617935,-40.350033",
     "geom:latitude":-40.350033,
     "geom:longitude":175.617935,
@@ -35,32 +36,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
-        85782485
+        102079307,
+        85782485,
+        101914259,
+        85773241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RY6ETm6xNhj0oiKY7JT4J_-40.350033_175.617935@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5db4e6fe8d4837b5d4fae0b0d4a37ee3",
+    "wof:geomhash":"0ff927af505d49503a2b80484fe2c357",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":-1,
             "neighbourhood_id":85782485,
-            "region_id":-1,
+            "region_id":85687251,
+            "venue_id":219986753
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85773241,
+            "region_id":85687251,
             "venue_id":219986753
         }
     ],
     "wof:id":219986753,
-    "wof:lastmodified":1473798797,
+    "wof:lastmodified":1496775734,
     "wof:name":"Devlin Cameron & Hayes Ltd",
-    "wof:parent_id":85782485,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

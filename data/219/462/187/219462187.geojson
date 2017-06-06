@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.548889,-43.515011,172.548889,-43.515011",
     "geom:latitude":-43.515011,
     "geom:longitude":172.548889,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778587
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36shhvaCHabgg1NHtiSd1U_-43.515011_172.548889@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3557fca5b0783a9a79654186475d97fc",
+    "wof:geomhash":"9d8325f4a2ace03742763974b839b234",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778587,
+            "region_id":85687179,
             "venue_id":219462187
         }
     ],
     "wof:id":219462187,
-    "wof:lastmodified":1473798711,
+    "wof:lastmodified":1496776033,
     "wof:name":"International Education Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

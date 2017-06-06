@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.062584,38.807781,-77.062584,38.807781",
     "geom:latitude":38.807781,
     "geom:longitude":-77.062584,
@@ -34,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728581,
-        102080641
+        102080641,
+        85814135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,19 @@
     "wof:geomhash":"b6880db82441fa0a90a98073f71a37e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85814135,
             "region_id":85688747,
             "venue_id":219785453
         }
     ],
     "wof:id":219785453,
-    "wof:lastmodified":1473798778,
+    "wof:lastmodified":1490398587,
     "wof:name":"Millis Auto Engineering Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85814135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

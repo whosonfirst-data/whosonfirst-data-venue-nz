@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.637375,-43.512054,172.637375,-43.512054",
     "geom:latitude":-43.512054,
     "geom:longitude":172.637375,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85773167
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PLU2UCy31SGQr0wlofZHY_-43.512054_172.637375@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e5d1aa0ad563598134c39d5948db2315",
+    "wof:geomhash":"0c51e9b58adeb8f6f07e1290356ca1b8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85773167,
+            "region_id":85687179,
             "venue_id":186113461
         }
     ],
     "wof:id":186113461,
-    "wof:lastmodified":1473798667,
+    "wof:lastmodified":1496776071,
     "wof:name":"Heater Rentals Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.150558,-37.703976,176.150558,-37.703976",
     "geom:latitude":-37.703976,
     "geom:longitude":176.150558,
@@ -34,29 +35,33 @@
     "sg:website":"http://www.swimwith dolphins.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85780779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fP8B30fLESXtyAYt0ZhSZ_-37.703976_176.150558@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3389ca395777281dc57bf68d69bcb993",
+    "wof:geomhash":"8e6fb48490f54594757435b2a3914793",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780779,
+            "region_id":85687175,
             "venue_id":219361071
         }
     ],
     "wof:id":219361071,
-    "wof:lastmodified":1473798688,
+    "wof:lastmodified":1496775885,
     "wof:name":"Tauranga Dolphin Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

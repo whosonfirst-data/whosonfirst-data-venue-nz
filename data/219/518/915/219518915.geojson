@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.787521,-41.245888,174.787521,-41.245888",
     "geom:latitude":-41.245888,
     "geom:longitude":174.787521,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85781175
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XWrhFVnZa7o8EAf0LmTKI_-41.245888_174.787521@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1b4756cb33768be47b770bd63e7c7856",
+    "wof:geomhash":"98b8b6aa8276eedee1c5d9344beb3692",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85781175,
+            "region_id":85687233,
             "venue_id":219518915
         }
     ],
     "wof:id":219518915,
-    "wof:lastmodified":1473798731,
+    "wof:lastmodified":1496775805,
     "wof:name":"Elite Learning - English Tuition",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.106445,-39.074455,174.106445,-39.074455",
     "geom:latitude":-39.074455,
     "geom:longitude":174.106445,
@@ -23,27 +24,30 @@
     "sg:province":"Taranaki",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687195,
+        102191583,
+        85633345,
+        101914745,
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RHnSAHEOvSxToWnp9ZhfR_-39.074455_174.106445@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"723219a599520c29b23a0ad91ce8d8cd",
+    "wof:geomhash":"db73f7efcdc7d92be7b1ea464ec127e7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101914745,
+            "region_id":85687195,
             "venue_id":203002337
         }
     ],
     "wof:id":203002337,
-    "wof:lastmodified":1473798551,
+    "wof:lastmodified":1496776301,
     "wof:name":"Hodson Stuart & Linda",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

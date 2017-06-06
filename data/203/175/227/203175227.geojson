@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.629959,-43.521053,172.629959,-43.521053",
     "geom:latitude":-43.521053,
     "geom:longitude":172.629959,
@@ -32,29 +33,34 @@
     "sg:website":"http://www.ps.org.nz/uppersouthisland/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85773167
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lTXH7h9odFvRfUS1llK9R_-43.521053_172.629959@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4f484931e548406bbe7a61376c4e6907",
+    "wof:geomhash":"34a769153c3b2d2edeb7dec93325f4e1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85773167,
+            "region_id":85687179,
             "venue_id":203175227
         }
     ],
     "wof:id":203175227,
-    "wof:lastmodified":1473798645,
+    "wof:lastmodified":1496776086,
     "wof:name":"Presbyterian Support",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

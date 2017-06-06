@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.636246,-43.506451,172.636246,-43.506451",
     "geom:latitude":-43.506451,
     "geom:longitude":172.636246,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85773167
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61WeFvX8WCl7Cbeq0aPm1R_-43.506451_172.636246@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b757a70b7b5530eb69fb2d19a5712319",
+    "wof:geomhash":"d74d12247eaa15f4f4c9fd81be58e365",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85773167,
+            "region_id":85687179,
             "venue_id":203181047
         }
     ],
     "wof:id":203181047,
-    "wof:lastmodified":1473798644,
+    "wof:lastmodified":1496776071,
     "wof:name":"Chris's Clothing Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.780731,-36.873844,174.780731,-36.873844",
     "geom:latitude":-36.873844,
     "geom:longitude":174.780731,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778841
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SucK2hl65QkvPYUSDflqx_-36.873844_174.780731@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"26c880e5135ec1e48d253123fca57e5d",
+    "wof:geomhash":"ed945177a09cf30dca986567594d98d0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778841,
+            "region_id":85687243,
             "venue_id":202445989
         }
     ],
     "wof:id":202445989,
-    "wof:lastmodified":1473798639,
+    "wof:lastmodified":1496775566,
     "wof:name":"Auckland Eye",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

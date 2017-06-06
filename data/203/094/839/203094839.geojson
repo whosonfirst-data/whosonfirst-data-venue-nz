@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.308105,-35.74229,174.308105,-35.74229",
     "geom:latitude":-35.74229,
     "geom:longitude":174.308105,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257,
+        85781713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77akrh1N8l7Izl6XmZfmEq_-35.742290_174.308105@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f28f256654265dd5c1c299beca941623",
+    "wof:geomhash":"fe007d616328758052fa768e63d81110",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "neighbourhood_id":85781713,
+            "region_id":85687149,
             "venue_id":203094839
         }
     ],
     "wof:id":203094839,
-    "wof:lastmodified":1473798637,
+    "wof:lastmodified":1496775331,
     "wof:name":"Parent & Family Counselling Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

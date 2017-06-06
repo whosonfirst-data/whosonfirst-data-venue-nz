@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.678635,-43.502426,172.678635,-43.502426",
     "geom:latitude":-43.502426,
     "geom:longitude":172.678635,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778761
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18jm0OXjgQmJIPMGkiOtuE_-43.502426_172.678635@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"23781eec8afe976fb4aeba80eff9b63d",
+    "wof:geomhash":"19c935f006e14011a044b920b48c2264",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778761,
+            "region_id":85687179,
             "venue_id":219523243
         }
     ],
     "wof:id":219523243,
-    "wof:lastmodified":1473798724,
+    "wof:lastmodified":1496776043,
     "wof:name":"SLT Services Christchurch",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

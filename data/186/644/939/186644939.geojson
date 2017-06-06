@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.343979,-46.392284,168.343979,-46.392284",
     "geom:latitude":-46.392284,
     "geom:longitude":168.343979,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781431
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Hh5vlWr4mT200CZqm0qBv_-46.392284_168.343979@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ce16c2b3c1848605b86a9efac2827139",
+    "wof:geomhash":"a41e3c0c33711b5a0c26903bd6e945a7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781431,
+            "region_id":85687211,
             "venue_id":186644939
         }
     ],
     "wof:id":186644939,
-    "wof:lastmodified":1473798773,
+    "wof:lastmodified":1496776734,
     "wof:name":"Aquarian Healing Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

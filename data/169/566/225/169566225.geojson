@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.751953,-40.29945,175.751953,-40.29945",
     "geom:latitude":-40.29945,
     "geom:longitude":175.751953,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101915881,
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5f3f6dBqC2K1iusqaeQs6O_-40.299450_175.751953@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"768067c0856a5f8d0229ddfe2b879ae2",
+    "wof:geomhash":"215f91c6417c29cade352df1f8982496",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101915881,
+            "region_id":85687251,
             "venue_id":169566225
         }
     ],
     "wof:id":169566225,
-    "wof:lastmodified":1473798575,
+    "wof:lastmodified":1496776857,
     "wof:name":"Colin Macpherson Garden Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

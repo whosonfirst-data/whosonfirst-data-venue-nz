@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.107941,-39.079201,174.107941,-39.079201",
     "geom:latitude":-39.079201,
     "geom:longitude":174.107941,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687195,
+        102191583,
+        85633345,
+        101914745,
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ycuaIQSMellUOQRyvvv5X_-39.079201_174.107941@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ad8b7b60ead9bce47547cab9ce17b88f",
+    "wof:geomhash":"fdf4f19e2b8be8c120a689da8ff91dba",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101914745,
+            "region_id":85687195,
             "venue_id":202762205
         }
     ],
     "wof:id":202762205,
-    "wof:lastmodified":1473798721,
+    "wof:lastmodified":1496776304,
     "wof:name":"Riverview Lodge - Rest Home & Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

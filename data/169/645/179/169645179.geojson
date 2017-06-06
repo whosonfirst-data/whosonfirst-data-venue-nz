@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.033974,38.890259,-77.033974,38.890259",
     "geom:latitude":38.890259,
     "geom:longitude":-77.033974,
@@ -23,11 +24,13 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688741,
+        1108724057,
+        102191575,
+        1108723661,
         85633793,
         85931779,
         102084889,
-        85838397
+        85688741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,19 +40,20 @@
     "wof:geomhash":"054646d202d0e6b2054eaadd07c72b80",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084889,
             "locality_id":85931779,
-            "neighbourhood_id":85838397,
+            "macrohood_id":1108723661,
+            "neighbourhood_id":1108724057,
             "region_id":85688741,
             "venue_id":169645179
         }
     ],
     "wof:id":169645179,
-    "wof:lastmodified":1473798608,
+    "wof:lastmodified":1490401949,
     "wof:name":"Farmers Trading Co Ltd",
-    "wof:parent_id":85838397,
+    "wof:parent_id":1108724057,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

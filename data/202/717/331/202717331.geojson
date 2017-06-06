@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.916962,-37.021488,174.916962,-37.021488",
     "geom:latitude":-37.021488,
     "geom:longitude":174.916962,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781193
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Os8JgbumMQXZtoy3lKAG4_-37.021488_174.916962@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9c58e4f1a1d33c4dc19ded594352f5b3",
+    "wof:geomhash":"f138a7d6d89c96de8635927dec3f5eab",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781193,
+            "region_id":85687243,
             "venue_id":202717331
         }
     ],
     "wof:id":202717331,
-    "wof:lastmodified":1473798716,
+    "wof:lastmodified":1496776150,
     "wof:name":"Aqua-Care Systems Cleaning Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

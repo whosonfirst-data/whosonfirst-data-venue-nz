@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.063522,-38.680359,176.063522,-38.680359",
     "geom:latitude":-38.680359,
     "geom:longitude":176.063522,
@@ -23,29 +24,33 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        102079281,
+        85782499
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sEvvlLxtYQRBCcDr1k7Ey_-38.680359_176.063522@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"afd79fbedcf001f0202112028d41f6f7",
+    "wof:geomhash":"29cf38c6e6c846e1bac300b553aa17f1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782499,
+            "region_id":85687229,
             "venue_id":219957173
         }
     ],
     "wof:id":219957173,
-    "wof:lastmodified":1473798790,
+    "wof:lastmodified":1496775927,
     "wof:name":"The Animal Hospital",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

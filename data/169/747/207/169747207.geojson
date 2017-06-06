@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.36937,-46.443493,168.36937,-46.443493",
     "geom:latitude":-46.443493,
     "geom:longitude":168.36937,
@@ -23,27 +24,30 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33ZFevRD0YzlNgXEtl2VjU_-46.443493_168.369370@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"afe46836efada64079504eb1898b0011",
+    "wof:geomhash":"cdd81ce2c18899b90337cf89952828af",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":169747207
         }
     ],
     "wof:id":169747207,
-    "wof:lastmodified":1473798614,
+    "wof:lastmodified":1496776726,
     "wof:name":"Thrifty Foods",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

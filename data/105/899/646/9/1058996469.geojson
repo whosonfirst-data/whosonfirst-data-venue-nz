@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.143371582,-39.0346069336,174.143371582,-39.0346069336",
     "geom:latitude":-39.034607,
     "geom:longitude":174.143372,
@@ -30,17 +31,32 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687195,
+        102191583,
+        85633345,
+        101915837,
+        102079311
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Tf0YtQ7HBy1KeLd4Ak73G_-39.034607_174.143372@1306270026"
     },
     "wof:country":"NZ",
     "wof:created":1473719353,
-    "wof:geomhash":"d06031e92b8a76a7f3ba1868a5941a10",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2af34107683c14183a59e0dc2d855a6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101915837,
+            "region_id":85687195,
+            "venue_id":1058996469
+        }
+    ],
     "wof:id":1058996469,
-    "wof:lastmodified":1473719353,
+    "wof:lastmodified":1496776848,
     "wof:name":"Natural Gas Corporation Community Pool Bell Block",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

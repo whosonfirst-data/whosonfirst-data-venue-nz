@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.592896,-43.490246,172.592896,-43.490246",
     "geom:latitude":-43.490246,
     "geom:longitude":172.592896,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778169
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16Ojmk6ktjRIRE4sdQKnqH_-43.490246_172.592896@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bb38af4b391bc1952a595c1b42e09911",
+    "wof:geomhash":"0f0ca7334b44a2af7b6b51d9456408e9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778169,
+            "region_id":85687179,
             "venue_id":185866359
         }
     ],
     "wof:id":185866359,
-    "wof:lastmodified":1473798629,
+    "wof:lastmodified":1496776090,
     "wof:name":"Harewood Veterinary Hospital",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

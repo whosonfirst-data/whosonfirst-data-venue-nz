@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.74086,-36.742538,174.74086,-36.742538",
     "geom:latitude":-36.742538,
     "geom:longitude":174.74086,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85772867
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4I98dV2IfWLiPzDbKTnrU8_-36.742538_174.740860@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7af0951aa74efe963523a8c4c6efbe95",
+    "wof:geomhash":"1acb9cc7fdad8a728db0d0785c18de75",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772867,
+            "region_id":85687243,
             "venue_id":236045465
         }
     ],
     "wof:id":236045465,
-    "wof:lastmodified":1473798573,
+    "wof:lastmodified":1496775403,
     "wof:name":"Warren Vernon",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

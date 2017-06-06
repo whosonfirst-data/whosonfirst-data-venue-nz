@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.982025,-37.96088,176.982025,-37.96088",
     "geom:latitude":-37.96088,
     "geom:longitude":176.982025,
@@ -23,29 +24,33 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079291,
+        85782901
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AEFGRFXPiokw00wSLhMm4_-37.960880_176.982025@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"23ab6591c2cdbfe1d8a6e934b8133f07",
+    "wof:geomhash":"79a76d353f2024e59eec1071f5c44b21",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782901,
+            "region_id":85687175,
             "venue_id":203224755
         }
     ],
     "wof:id":203224755,
-    "wof:lastmodified":1473798651,
+    "wof:lastmodified":1496775893,
     "wof:name":"Pattersons Apparel",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

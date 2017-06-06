@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.679962,-43.520283,172.679962,-43.520283",
     "geom:latitude":-43.520283,
     "geom:longitude":172.679962,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wtbJmhVlINYuXCHjvp4pA_-43.520283_172.679962@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"32371285467c171cbf8df27c24372390",
+    "wof:geomhash":"178bb2a91d5ed07e55e16172593b5056",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778711,
+            "region_id":85687179,
             "venue_id":203023697
         }
     ],
     "wof:id":203023697,
-    "wof:lastmodified":1473798568,
+    "wof:lastmodified":1496776058,
     "wof:name":"A & N Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

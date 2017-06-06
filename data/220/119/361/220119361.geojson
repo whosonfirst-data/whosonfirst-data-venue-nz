@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.985718,-40.920132,174.985718,-40.920132",
     "geom:latitude":-40.920132,
     "geom:longitude":174.985718,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6E6KGOPfAueBh7uEKwmrwQ_-40.920132_174.985718@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"858d302d2192c8d69c83526558c8046f",
+    "wof:geomhash":"4f1c397ed2667a00bf367147a343248f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":220119361
         }
     ],
     "wof:id":220119361,
-    "wof:lastmodified":1473798598,
+    "wof:lastmodified":1496776180,
     "wof:name":"Nyco Chocolates Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.64682,-36.830479,174.64682,-36.830479",
     "geom:latitude":-36.830479,
     "geom:longitude":174.64682,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782077
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50v9EP7DkJ9gGqKsdo4B5r_-36.830479_174.646820@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e0bba23d99cc986602ef6d4bef8df00b",
+    "wof:geomhash":"a7d99437fe783f8ed576ed1a00866df5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782077,
+            "region_id":85687243,
             "venue_id":203406367
         }
     ],
     "wof:id":203406367,
-    "wof:lastmodified":1473798690,
+    "wof:lastmodified":1496775430,
     "wof:name":"Marine Haulage & Storage",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

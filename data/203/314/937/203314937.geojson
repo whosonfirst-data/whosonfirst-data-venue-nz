@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.403183,-45.924629,170.403183,-45.924629",
     "geom:latitude":-45.924629,
     "geom:longitude":170.403183,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101916051,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GnHAgZTvWuQscPHbhSn6E_-45.924629_170.403183@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9a85e763c0a2a1fca9005c81f0a09815",
+    "wof:geomhash":"8956c7c999f43a091ec27c955815c9da",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101916051,
+            "region_id":85687201,
             "venue_id":203314937
         }
     ],
     "wof:id":203314937,
-    "wof:lastmodified":1473798680,
+    "wof:lastmodified":1496776879,
     "wof:name":"NZ Vinyl Repair Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

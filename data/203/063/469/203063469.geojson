@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.000656,-46.145306,168.000656,-46.145306",
     "geom:latitude":-46.145306,
     "geom:longitude":168.000656,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101916017,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qvC7bN0hotlBmGK6N2wcE_-46.145306_168.000656@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"25b2a3e8489adc68c627acbde0d79071",
+    "wof:geomhash":"6ca42fa048b85703a5c169ef78e47ca8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101916017,
+            "region_id":85687211,
             "venue_id":203063469
         }
     ],
     "wof:id":203063469,
-    "wof:lastmodified":1473798614,
+    "wof:lastmodified":1496776877,
     "wof:name":"McKenzie Bruce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

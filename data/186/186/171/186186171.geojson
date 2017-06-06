@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.79834,-39.678192,175.79834,-39.678192",
     "geom:latitude":-39.678192,
     "geom:longitude":175.79834,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 6-388 0209",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914473,
+        102079301
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SY5LutFKgzoz8Pn5MfBd2_-39.678192_175.798340@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ca882cc2b8dbd2b32096420ca36585df",
+    "wof:geomhash":"41d12f3e03bd8f6bd8cfb2114f5f04fb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":101914473,
+            "region_id":85687251,
             "venue_id":186186171
         }
     ],
     "wof:id":186186171,
-    "wof:lastmodified":1473798690,
+    "wof:lastmodified":1496775989,
     "wof:name":"Newton Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

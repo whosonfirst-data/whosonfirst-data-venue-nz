@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.696106,-36.893658,174.696106,-36.893658",
     "geom:latitude":-36.893658,
     "geom:longitude":174.696106,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778827
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qE2FfaCW6SOSPyvD09GeR_-36.893658_174.696106@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"49bb9be53701e7f118d666c809d00984",
+    "wof:geomhash":"172c161bd0647d5d3b6023d9ae22dda8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778827,
+            "region_id":85687243,
             "venue_id":186112457
         }
     ],
     "wof:id":186112457,
-    "wof:lastmodified":1473798665,
+    "wof:lastmodified":1496775617,
     "wof:name":"Caltex Avondale",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

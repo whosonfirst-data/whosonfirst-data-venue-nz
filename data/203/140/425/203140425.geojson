@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.14975,-40.756622,175.14975,-40.756622",
     "geom:latitude":-40.756622,
     "geom:longitude":175.14975,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914931,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39nGQH6dM5jPKrWIhR80po_-40.756622_175.149750@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d7acc124a04e43a05feffa2ee8031906",
+    "wof:geomhash":"74abe70b1e2e553df80d1268f599d586",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914931,
+            "region_id":85687233,
             "venue_id":203140425
         }
     ],
     "wof:id":203140425,
-    "wof:lastmodified":1473798641,
+    "wof:lastmodified":1496776418,
     "wof:name":"The Oaks Cattery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

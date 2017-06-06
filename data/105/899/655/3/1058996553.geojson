@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.798721314,-39.6792755127,175.798721314,-39.6792755127",
     "geom:latitude":-39.679276,
     "geom:longitude":175.798721,
@@ -17,17 +18,32 @@
     "sg:owner":"simplegeo",
     "sg:phone":"+64 6-388 0626",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687251,
+        102191583,
+        85633345,
+        101914473,
+        102079301
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M50eemJE2VplKKM8Y5vDn_-39.679276_175.798721@1306270028"
     },
     "wof:country":"NZ",
     "wof:created":1473719363,
-    "wof:geomhash":"e8b05ee87219f5dab709da97c35b9e0a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3be3b0033ef65f7416ed12dedd457c34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":101914473,
+            "region_id":85687251,
+            "venue_id":1058996553
+        }
+    ],
     "wof:id":1058996553,
-    "wof:lastmodified":1473719363,
+    "wof:lastmodified":1496775992,
     "wof:name":"Taihape Engineering Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

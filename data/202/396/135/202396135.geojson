@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.596115,-40.368664,175.596115,-40.368664",
     "geom:latitude":-40.368664,
     "geom:longitude":175.596115,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85781231
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lf60Xk96FzfzbzpgWKG2Y_-40.368664_175.596115@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e63d09df02bb7605cda6a23e46c862d7",
+    "wof:geomhash":"d82fd1b9c070073f566607983b06666e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85781231,
+            "region_id":85687251,
             "venue_id":202396135
         }
     ],
     "wof:id":202396135,
-    "wof:lastmodified":1473798566,
+    "wof:lastmodified":1496775740,
     "wof:name":"Injury Compensation Services Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.701752,-43.51725,172.701752,-43.51725",
     "geom:latitude":-43.51725,
     "geom:longitude":172.701752,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CFsewnOYhJQBJwAP3rnLd_-43.517250_172.701752@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4bee51596277433a08774b4aea48f8c3",
+    "wof:geomhash":"7b27efd666d3c617fa042dec5bed79cf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778711,
+            "region_id":85687179,
             "venue_id":185944231
         }
     ],
     "wof:id":185944231,
-    "wof:lastmodified":1473798636,
+    "wof:lastmodified":1496776034,
     "wof:name":"Cowles Stadium",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

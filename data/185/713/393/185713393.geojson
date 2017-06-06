@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.746872,-36.816853,174.746872,-36.816853",
     "geom:latitude":-36.816853,
     "geom:longitude":174.746872,
@@ -33,29 +34,31 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85778507,
+        102191583,
+        85633345,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QOvNvZWCFfLAYIW4Fpbgg_-36.816853_174.746872@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0a6cbf0049d5796b87caa91ae79eb6f3",
+    "wof:geomhash":"9d0b1b6ed085f555aa5ba6e06c6840b5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778507,
+            "region_id":85687243,
             "venue_id":185713393
         }
     ],
     "wof:id":185713393,
-    "wof:lastmodified":1473798598,
+    "wof:lastmodified":1496775429,
     "wof:name":"Mavericks Casino",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778507,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

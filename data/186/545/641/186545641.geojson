@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.029648,-38.655594,178.029648,-38.655594",
     "geom:latitude":-38.655594,
     "geom:longitude":178.029648,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hUknXe8Dqlf1motTjuAUr_-38.655594_178.029648@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e14fda8d0949a2a968e561ebcab8df95",
+    "wof:geomhash":"bb3b64c9aa8e8ff71c69af4a6ed8426f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":186545641
         }
     ],
     "wof:id":186545641,
-    "wof:lastmodified":1473798772,
+    "wof:lastmodified":1496776123,
     "wof:name":"Stomp'N Hair",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

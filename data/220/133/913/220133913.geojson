@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.247833,-44.416241,171.247833,-44.416241",
     "geom:latitude":-44.416241,
     "geom:longitude":171.247833,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OVdXfcgZvgPYrPbu1cFNU_-44.416241_171.247833@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9d2bd08779273deafd4428b8c2102306",
+    "wof:geomhash":"ff2d6f5dc03c04f2e409b0bd358ba841",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781671,
+            "region_id":85687179,
             "venue_id":220133913
         }
     ],
     "wof:id":220133913,
-    "wof:lastmodified":1473798606,
+    "wof:lastmodified":1496776741,
     "wof:name":"Variety Products Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

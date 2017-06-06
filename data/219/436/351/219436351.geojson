@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.625748,-43.51152,172.625748,-43.51152",
     "geom:latitude":-43.51152,
     "geom:longitude":172.625748,
@@ -29,29 +30,34 @@
     "sg:website":"http://www.ballroom-sequence.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85773167
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lQp2lx5V5nTa8vwgCYBsH_-43.511520_172.625748@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2d6ef6aceda8ab4c7d2d43568afca34b",
+    "wof:geomhash":"2279b9a46e04d42bb7e91d9e0f418fae",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85773167,
+            "region_id":85687179,
             "venue_id":219436351
         }
     ],
     "wof:id":219436351,
-    "wof:lastmodified":1473798710,
+    "wof:lastmodified":1496776072,
     "wof:name":"Alan Wright's School of Ballroom Dancing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

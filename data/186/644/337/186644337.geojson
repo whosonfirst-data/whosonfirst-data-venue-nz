@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.595566,-36.861599,174.595566,-36.861599",
     "geom:latitude":-36.861599,
     "geom:longitude":174.595566,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781087
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EfB5iNziR8B6zDgQH4jrM_-36.861599_174.595566@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"589c300e59abaec97bd252ed016f6c49",
+    "wof:geomhash":"5eb16d070346886e8414c3b95cefe0a5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781087,
+            "region_id":85687243,
             "venue_id":186644337
         }
     ],
     "wof:id":186644337,
-    "wof:lastmodified":1473798772,
+    "wof:lastmodified":1496775396,
     "wof:name":"Adelia Sadler The Feldenkrais Method",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

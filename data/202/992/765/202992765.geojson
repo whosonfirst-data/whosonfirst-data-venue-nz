@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.462006,-45.868076,170.462006,-45.868076",
     "geom:latitude":-45.868076,
     "geom:longitude":170.462006,
@@ -23,29 +24,33 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        102079387,
+        85778177
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ulaqt4PsObJKTXXIn4q5E_-45.868076_170.462006@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d4ae14930f4e550f27a68e07d048a9b1",
+    "wof:geomhash":"29a63cb5ff116c6cc4352477af9152af",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778177,
+            "region_id":85687201,
             "venue_id":202992765
         }
     ],
     "wof:id":202992765,
-    "wof:lastmodified":1473798764,
+    "wof:lastmodified":1496775764,
     "wof:name":"Lawnz 'N' Things",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

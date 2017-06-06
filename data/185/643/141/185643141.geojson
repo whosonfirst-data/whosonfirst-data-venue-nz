@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.73204,-36.816837,174.73204,-36.816837",
     "geom:latitude":-36.816837,
     "geom:longitude":174.73204,
@@ -35,7 +36,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
+        102191583,
         85633345,
+        102079403,
         85778355,
         85778957
     ],
@@ -44,31 +48,30 @@
         "sg:id":"SG_6I5KDyrnumGQJu3Y4iXdKB_-36.816837_174.732040@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"65d66d8d78283c3d5e60a5c32a4f1f98",
+    "wof:geomhash":"fa10d5e164fc9f83eb0a53fa3d10267a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85778355,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":185643141
         },
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
             "locality_id":-1,
             "neighbourhood_id":85778957,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":185643141
         }
     ],
     "wof:id":185643141,
-    "wof:lastmodified":1473798582,
+    "wof:lastmodified":1496776690,
     "wof:name":"Who Framed Johnnie",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

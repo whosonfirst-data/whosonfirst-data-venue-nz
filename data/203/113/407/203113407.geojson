@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.364532,-46.422691,168.364532,-46.422691",
     "geom:latitude":-46.422691,
     "geom:longitude":168.364532,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781463
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Un0dPm2NA4MElCTTPNi21_-46.422691_168.364532@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"149c92bd9022fb1b81cfb0238e42b70d",
+    "wof:geomhash":"9f4a6bc3e3db801553c0f51a9f78571f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781463,
+            "region_id":85687211,
             "venue_id":203113407
         }
     ],
     "wof:id":203113407,
-    "wof:lastmodified":1473798629,
+    "wof:lastmodified":1496776722,
     "wof:name":"Southern Exposures Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

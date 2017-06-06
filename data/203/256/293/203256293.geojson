@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.781433,-36.857281,174.781433,-36.857281",
     "geom:latitude":-36.857281,
     "geom:longitude":174.781433,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85773115
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DvzBtxQH33QFx71GwA24C_-36.857281_174.781433@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"76eaad8a37ea92ef5f409f1f9d5b4961",
+    "wof:geomhash":"e735fdde8b472abb41ff8c021bc3229e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773115,
+            "region_id":85687243,
             "venue_id":203256293
         }
     ],
     "wof:id":203256293,
-    "wof:lastmodified":1473798664,
+    "wof:lastmodified":1496775536,
     "wof:name":"Alpaca Heaven",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773115,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.984467,-40.885315,174.984467,-40.885315",
     "geom:latitude":-40.885315,
     "geom:longitude":174.984467,
@@ -23,27 +24,30 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ega6TX14qxptGNMhXPkED_-40.885315_174.984467@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a1107943077711dcc862963a74a763c4",
+    "wof:geomhash":"6dca501d2f8f043feaf3ae48272bd221",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":169642007
         }
     ],
     "wof:id":169642007,
-    "wof:lastmodified":1473798606,
+    "wof:lastmodified":1496776190,
     "wof:name":"Manly Street Superstore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.460922,-41.077442,175.460922,-41.077442",
     "geom:latitude":-41.077442,
     "geom:longitude":175.460922,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101915623,
+        102079347
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r9lyqO6gzUUshq43krqCl_-41.077442_175.460922@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b29f65d30002e13c2d4a15f8c7cb5403",
+    "wof:geomhash":"51dd1cf2547ff9a7440693296e4c0bcc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079347,
+            "locality_id":101915623,
+            "region_id":85687233,
             "venue_id":219284331
         }
     ],
     "wof:id":219284331,
-    "wof:lastmodified":1473798664,
+    "wof:lastmodified":1496776814,
     "wof:name":"Ambers Homestay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

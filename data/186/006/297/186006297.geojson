@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.059174,-39.936707,175.059174,-39.936707",
     "geom:latitude":-39.936707,
     "geom:longitude":175.059174,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914639,
+        102079299,
+        85780873
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AGlMDGmiDUZB052i68TJE_-39.936707_175.059174@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b063e32ccceb3be1f02496bdf75c75ba",
+    "wof:geomhash":"837a42a1c0517724e923cd0772a6e3a5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":101914639,
+            "neighbourhood_id":85780873,
+            "region_id":85687251,
             "venue_id":186006297
         }
     ],
     "wof:id":186006297,
-    "wof:lastmodified":1473798551,
+    "wof:lastmodified":1496776212,
     "wof:name":"Penn A R",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

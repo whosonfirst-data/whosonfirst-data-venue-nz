@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.743484,-36.846878,174.743484,-36.846878",
     "geom:latitude":-36.846878,
     "geom:longitude":174.743484,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SVnumk6wcSpBtzQcjB6oN_-36.846878_174.743484@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"75cba9dec6165c6809fb68b3b1ca35a6",
+    "wof:geomhash":"90b1b2403a010fa50ae2c9497f9172ed",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782035,
+            "region_id":85687243,
             "venue_id":203296231
         }
     ],
     "wof:id":203296231,
-    "wof:lastmodified":1473798681,
+    "wof:lastmodified":1496775402,
     "wof:name":"Taylor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.375931,-46.404099,168.375931,-46.404099",
     "geom:latitude":-46.404099,
     "geom:longitude":168.375931,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70ID0Pj9RnsNS8j9LHkX3M_-46.404099_168.375931@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0c775bbf9ac2930ca6489efc8c0060d3",
+    "wof:geomhash":"01a641354b994629f478031a0f7bcf77",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781519,
+            "region_id":85687211,
             "venue_id":202722789
         }
     ],
     "wof:id":202722789,
-    "wof:lastmodified":1473798726,
+    "wof:lastmodified":1496776726,
     "wof:name":"Nevco Cleaning Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

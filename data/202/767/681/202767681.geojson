@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.643433,-40.361542,175.643433,-40.361542",
     "geom:latitude":-40.361542,
     "geom:longitude":175.643433,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85780937
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oXOTwV58rSlToqnuTZl5o_-40.361542_175.643433@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"27cb2d528b743a390270389289582cb6",
+    "wof:geomhash":"0313975b8ba97b10f11e5b759d97620c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85780937,
+            "region_id":85687251,
             "venue_id":202767681
         }
     ],
     "wof:id":202767681,
-    "wof:lastmodified":1473798728,
+    "wof:lastmodified":1496775735,
     "wof:name":"Arthur Nicol Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

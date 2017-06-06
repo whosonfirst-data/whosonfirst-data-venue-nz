@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.319702,-35.719151,174.319702,-35.719151",
     "geom:latitude":-35.719151,
     "geom:longitude":174.319702,
@@ -35,42 +36,43 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        101914901,
-        85782533,
-        85780967
+        102079257,
+        85780967,
+        85782533
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hsZswFlEn4Y3EK2Unfd3F_-35.719151_174.319702@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f6afc5e16ff6e3a04e775acef831d347",
+    "wof:geomhash":"1dd9f15b1c55c6d23fe87613835a4b9d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
-            "neighbourhood_id":85782533,
-            "region_id":-1,
+            "county_id":102079257,
+            "locality_id":-1,
+            "neighbourhood_id":85780967,
+            "region_id":85687149,
             "venue_id":203110949
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
-            "neighbourhood_id":85780967,
-            "region_id":-1,
+            "county_id":102079257,
+            "locality_id":-1,
+            "neighbourhood_id":85782533,
+            "region_id":85687149,
             "venue_id":203110949
         }
     ],
     "wof:id":203110949,
-    "wof:lastmodified":1473798637,
+    "wof:lastmodified":1496775341,
     "wof:name":"Photo-Art",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

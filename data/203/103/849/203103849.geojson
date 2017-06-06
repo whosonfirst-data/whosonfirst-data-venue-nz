@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.369278,-46.42757,168.369278,-46.42757",
     "geom:latitude":-46.42757,
     "geom:longitude":168.369278,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781463
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FRj6Ot6FQnPSy4UHhbeEG_-46.427570_168.369278@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"83d6496fd45ea0c06a33e49de46ce7e2",
+    "wof:geomhash":"cc5300ab09b65263f7fd7c3d90756721",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781463,
+            "region_id":85687211,
             "venue_id":203103849
         }
     ],
     "wof:id":203103849,
-    "wof:lastmodified":1473798637,
+    "wof:lastmodified":1496776732,
     "wof:name":"Affordable Weddings",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

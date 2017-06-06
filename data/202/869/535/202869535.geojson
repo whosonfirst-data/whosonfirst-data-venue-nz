@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.231979,-41.306538,173.231979,-41.306538",
     "geom:latitude":-41.306538,
     "geom:longitude":173.231979,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        101915661,
+        102079351,
+        85773201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aXGQ1Wdr0tBT2ivaikosD_-41.306538_173.231979@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"630eedad8ad5f5d08b91ac8c68cece47",
+    "wof:geomhash":"6ad2a7e4691e0371842354f6927c787c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":101915661,
+            "neighbourhood_id":85773201,
+            "region_id":85687157,
             "venue_id":202869535
         }
     ],
     "wof:id":202869535,
-    "wof:lastmodified":1473798743,
+    "wof:lastmodified":1496776820,
     "wof:name":"McNaughton's Furniture Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

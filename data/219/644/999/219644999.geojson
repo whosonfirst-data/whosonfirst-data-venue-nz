@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.486786,-45.897945,170.486786,-45.897945",
     "geom:latitude":-45.897945,
     "geom:longitude":170.486786,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85772879
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62bAf90XbiP6jYF8UkVZYr_-45.897945_170.486786@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4a7e8eee9f3a0120da5e12bde3d5cc17",
+    "wof:geomhash":"143a3610785dd5e589f188c1548ffd8b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85772879,
+            "region_id":85687201,
             "venue_id":219644999
         }
     ],
     "wof:id":219644999,
-    "wof:lastmodified":1473798789,
+    "wof:lastmodified":1496775761,
     "wof:name":"NZ Cooling Systems Supplies",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

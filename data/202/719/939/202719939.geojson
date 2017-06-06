@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.363251,-46.402122,168.363251,-46.402122",
     "geom:latitude":-46.402122,
     "geom:longitude":168.363251,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YWDq8wRfcg9KaENL5jo0A_-46.402122_168.363251@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"594f147e12128e0691d9cb376fa1fc1f",
+    "wof:geomhash":"8ccba26bee49c4e0c9728190b7fa5844",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781555,
+            "region_id":85687211,
             "venue_id":202719939
         }
     ],
     "wof:id":202719939,
-    "wof:lastmodified":1473798722,
+    "wof:lastmodified":1496776719,
     "wof:name":"Envirovac Carpet Cleaning Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

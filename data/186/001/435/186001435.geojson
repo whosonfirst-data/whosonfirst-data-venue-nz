@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.017731,-38.647781,178.017731,-38.647781",
     "geom:latitude":-38.647781,
     "geom:longitude":178.017731,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        101914591,
+        102079325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YGUyEe52yrWEpKv3pSg17_-38.647781_178.017731@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7a14f827b165c58337b5a3ed79908e93",
+    "wof:geomhash":"d38a105b44f3e96b79db90f0b9834281",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":101914591,
+            "region_id":85687237,
             "venue_id":186001435
         }
     ],
     "wof:id":186001435,
-    "wof:lastmodified":1473798549,
+    "wof:lastmodified":1496776125,
     "wof:name":"Hope Leslynne",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

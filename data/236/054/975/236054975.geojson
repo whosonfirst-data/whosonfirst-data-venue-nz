@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.64325,-40.343426,175.64325,-40.343426",
     "geom:latitude":-40.343426,
     "geom:longitude":175.64325,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85773241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NcqladrNz1lL75MwNntsG_-40.343426_175.643250@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5f6ac9774651726027c10972c967bc18",
+    "wof:geomhash":"e4a807e2e1b896b05b115c16dd04d647",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85773241,
+            "region_id":85687251,
             "venue_id":236054975
         }
     ],
     "wof:id":236054975,
-    "wof:lastmodified":1473798584,
+    "wof:lastmodified":1496775744,
     "wof:name":"Jones Memorials",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

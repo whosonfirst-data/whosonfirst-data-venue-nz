@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.633865,-43.573734,172.633865,-43.573734",
     "geom:latitude":-43.573734,
     "geom:longitude":172.633865,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781867
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WJwMiFouZGQSaYVcxUgkn_-43.573734_172.633865@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3893c8a54742b49dd89289a0fe27f08b",
+    "wof:geomhash":"195524da117045899849792367fbb6f4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781867,
+            "region_id":85687179,
             "venue_id":185832861
         }
     ],
     "wof:id":185832861,
-    "wof:lastmodified":1473798631,
+    "wof:lastmodified":1496776072,
     "wof:name":"Cornelia Dragusin - NZIRMT - Piano & Early Childhood Music",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

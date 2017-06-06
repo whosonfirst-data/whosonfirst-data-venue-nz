@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.605164,-36.836121,174.605164,-36.836121",
     "geom:latitude":-36.836121,
     "geom:longitude":174.605164,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778999
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5plcB7mR694qi0nAyyiUU0_-36.836121_174.605164@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"745c75a58d628437f033e0b1c151b661",
+    "wof:geomhash":"7f21a33ac61602064432d3aa11b68416",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778999,
+            "region_id":85687243,
             "venue_id":219411049
         }
     ],
     "wof:id":219411049,
-    "wof:lastmodified":1473798707,
+    "wof:lastmodified":1496775477,
     "wof:name":"Day Trip Touring Co Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

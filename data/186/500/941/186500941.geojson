@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.622513,-40.339977,175.622513,-40.339977",
     "geom:latitude":-40.339977,
     "geom:longitude":175.622513,
@@ -31,29 +32,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079307,
+        85781111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GWxVxuxLAgFZH8Siu1KiW_-40.339977_175.622513@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cfef905d88a34bba88e030a0e9e5870f",
+    "wof:geomhash":"02346d38c33ec3d5e7dd792390a6b5a1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781111,
+            "region_id":85687251,
             "venue_id":186500941
         }
     ],
     "wof:id":186500941,
-    "wof:lastmodified":1473798764,
+    "wof:lastmodified":1496775745,
     "wof:name":"Georgies Hair Shoppe",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

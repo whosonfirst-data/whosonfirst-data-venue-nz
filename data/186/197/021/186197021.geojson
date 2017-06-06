@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.13192,41.197262,-73.13192,41.197262",
     "geom:latitude":41.197262,
     "geom:longitude":-73.13192,
@@ -22,11 +23,13 @@
     "sg:phone":"+64 6-765 8229",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85888495,
+        102191575,
+        404495857,
         85633793,
         85930997,
         102084283,
-        85888495
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,9 +39,10 @@
     "wof:geomhash":"67aeee4e9e20022abab6f9692751c8c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495857,
             "locality_id":85930997,
             "neighbourhood_id":85888495,
             "region_id":85688629,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":186197021,
-    "wof:lastmodified":1473798731,
+    "wof:lastmodified":1492067374,
     "wof:name":"Stratford Engineering",
     "wof:parent_id":85888495,
     "wof:placetype":"venue",

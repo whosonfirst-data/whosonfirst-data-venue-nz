@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.262024,-35.11092,173.262024,-35.11092",
     "geom:latitude":-35.11092,
     "geom:longitude":173.262024,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101915171,
+        102079255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13pFUQFXRGA5zgqcgqyXvN_-35.110920_173.262024@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f74e9f79ed55d60db980d5a2f7c81962",
+    "wof:geomhash":"cecea11a6e2f32474eaf50a07c6412bb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101915171,
+            "region_id":85687149,
             "venue_id":219785399
         }
     ],
     "wof:id":219785399,
-    "wof:lastmodified":1473798778,
+    "wof:lastmodified":1496776602,
     "wof:name":"Kaitaia Engine Reconditioning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

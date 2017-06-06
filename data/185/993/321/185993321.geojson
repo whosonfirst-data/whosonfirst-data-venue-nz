@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.698273,-36.829056,175.698273,-36.829056",
     "geom:latitude":-36.829056,
     "geom:longitude":175.698273,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914279,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RwzGpsucMCXqe492rXTWi_-36.829056_175.698273@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c2fc402a0c02c847fdd3a8afe7497887",
+    "wof:geomhash":"db4ddac53e3ee3b9d3d6895c9d8d5f9b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101914279,
+            "region_id":85687229,
             "venue_id":185993321
         }
     ],
     "wof:id":185993321,
-    "wof:lastmodified":1473798661,
+    "wof:lastmodified":1496775796,
     "wof:name":"Barnaby Gordon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

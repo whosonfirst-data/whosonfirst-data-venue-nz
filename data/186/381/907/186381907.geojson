@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.885864,-36.929527,174.885864,-36.929527",
     "geom:latitude":-36.929527,
     "geom:longitude":174.885864,
@@ -23,7 +24,9 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         85633345,
+        102079403,
         85781293
     ],
     "wof:breaches":[],
@@ -36,15 +39,15 @@
         {
             "continent_id":-1,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85781293,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":186381907
         }
     ],
     "wof:id":186381907,
-    "wof:lastmodified":1473798744,
+    "wof:lastmodified":1491885125,
     "wof:name":"Steel & Tube Distribution",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",

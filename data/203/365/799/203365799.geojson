@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.697342,-43.501781,172.697342,-43.501781",
     "geom:latitude":-43.501781,
     "geom:longitude":172.697342,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778761
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26etdbd6mtezjr9HBY7O3Q_-43.501781_172.697342@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6012f783dc49c723730dfa6b495374e3",
+    "wof:geomhash":"4f88523812674c15b706b76ef244300e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778761,
+            "region_id":85687179,
             "venue_id":203365799
         }
     ],
     "wof:id":203365799,
-    "wof:lastmodified":1473798684,
+    "wof:lastmodified":1496776082,
     "wof:name":"Allreef Aviation Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

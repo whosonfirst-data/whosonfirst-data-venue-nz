@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.280441,-41.279259,173.280441,-41.279259",
     "geom:latitude":-41.279259,
     "geom:longitude":173.280441,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        101915555,
+        102079351,
+        85781551
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56ZhjqOqmkNLsQ4FEN7ck8_-41.279259_173.280441@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e1ee0333f586d10be3eee2ed2a9cbab3",
+    "wof:geomhash":"8b5302d2a1185f02cc7a7d0fc81d18ea",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":101915555,
+            "neighbourhood_id":85781551,
+            "region_id":85687157,
             "venue_id":186510983
         }
     ],
     "wof:id":186510983,
-    "wof:lastmodified":1473798763,
+    "wof:lastmodified":1496776782,
     "wof:name":"Carol Priest Natural Cosmetics NZ Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

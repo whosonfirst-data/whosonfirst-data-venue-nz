@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.815857,-36.874252,174.815857,-36.874252",
     "geom:latitude":-36.874252,
     "geom:longitude":174.815857,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778449
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1B5n7nhktxy4Yisyp0ISGw_-36.874252_174.815857@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ae48574f177913d611e7ef91804918bb",
+    "wof:geomhash":"444cb501e06317ac4b95ce0597502155",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778449,
+            "region_id":85687243,
             "venue_id":203006769
         }
     ],
     "wof:id":203006769,
-    "wof:lastmodified":1473798552,
+    "wof:lastmodified":1496775402,
     "wof:name":"Borland Chemicals Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

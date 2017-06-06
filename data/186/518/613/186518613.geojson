@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.721985,-43.60265,172.721985,-43.60265",
     "geom:latitude":-43.60265,
     "geom:longitude":172.721985,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914667,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KoK3sGhgQ1IhSWz91hhZQ_-43.602650_172.721985@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b71597a7eb2723c1bf964df302c40e6c",
+    "wof:geomhash":"5e99e98c22cbfde8e093ad532e1f402d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914667,
+            "region_id":85687179,
             "venue_id":186518613
         }
     ],
     "wof:id":186518613,
-    "wof:lastmodified":1473798760,
+    "wof:lastmodified":1496776247,
     "wof:name":"Skin Therapy Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

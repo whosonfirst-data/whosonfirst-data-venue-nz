@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.132202,-37.726974,176.132202,-37.726974",
     "geom:latitude":-37.726974,
     "geom:longitude":176.132202,
@@ -23,27 +24,30 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914325,
+        102079285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eeq3Z2o6i1TpnynXvrm2Y_-37.726974_176.132202@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"628b5566b922cad3424c400a125c7f4e",
+    "wof:geomhash":"4da92ad7bcb6ae962c72c005528a1b1d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101914325,
+            "region_id":85687175,
             "venue_id":169602567
         }
     ],
     "wof:id":169602567,
-    "wof:lastmodified":1473798597,
+    "wof:lastmodified":1496775869,
     "wof:name":"Greerton Book Exchange",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

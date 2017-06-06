@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.876709,-41.220558,174.876709,-41.220558",
     "geom:latitude":-41.220558,
     "geom:longitude":174.876709,
@@ -35,10 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633345,
-        85782489,
+        85687233,
         102191583,
-        101914741,
+        85633345,
+        102079337,
+        85782489,
         85773005
     ],
     "wof:breaches":[],
@@ -46,31 +48,31 @@
         "sg:id":"SG_6R9z4faxFTu0heXt6A8bW7_-41.220558_174.876709@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e6fe67d82d8592381c4a8874b33c4dbe",
+    "wof:geomhash":"2f92b0f9dd0101202d08e360630c22d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079337,
             "locality_id":-1,
             "neighbourhood_id":85782489,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":186388501
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914741,
+            "county_id":102079337,
+            "locality_id":-1,
             "neighbourhood_id":85773005,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":186388501
         }
     ],
     "wof:id":186388501,
-    "wof:lastmodified":1473798715,
+    "wof:lastmodified":1496775947,
     "wof:name":"Maud Kirk Machinery Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

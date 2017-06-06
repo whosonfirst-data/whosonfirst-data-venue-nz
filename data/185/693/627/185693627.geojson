@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.613037,-36.89822,174.613037,-36.89822",
     "geom:latitude":-36.89822,
     "geom:longitude":174.613037,
@@ -32,8 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        102079403,
         85781035
     ],
     "wof:breaches":[],
@@ -46,15 +49,15 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85781035,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":185693627
         }
     ],
     "wof:id":185693627,
-    "wof:lastmodified":1473798604,
+    "wof:lastmodified":1491934915,
     "wof:name":"Kiwi Mazes",
     "wof:parent_id":85781035,
     "wof:placetype":"venue",

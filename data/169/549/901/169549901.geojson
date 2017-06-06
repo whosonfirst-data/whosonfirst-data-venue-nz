@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.721024,-36.782578,174.721024,-36.782578",
     "geom:latitude":-36.782578,
     "geom:longitude":174.721024,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oVzi8dbuRopimXmXwR7Kt_-36.782578_174.721024@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d5c30615d4b4ea2f1c1448cee8db29e0",
+    "wof:geomhash":"d7fc226db83e3a74e2b8fcc0358a5c35",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782397,
+            "region_id":85687243,
             "venue_id":169549901
         }
     ],
     "wof:id":169549901,
-    "wof:lastmodified":1473798572,
+    "wof:lastmodified":1496777100,
     "wof:name":"Merlin Jewellers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

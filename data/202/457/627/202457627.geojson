@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.493561,-37.279789,175.493561,-37.279789",
     "geom:latitude":-37.279789,
     "geom:longitude":175.493561,
@@ -32,27 +33,30 @@
     "sg:website":"http://www.yellowpages.co.nz/pages/221823821/dp44963.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915875,
+        102079263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wBOxniWZQvGNuyMcXRYlK_-37.279789_175.493561@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"69d2cd96f109a76e5eb1cf4f7a1117c2",
+    "wof:geomhash":"ea9821624f5b770c11acada4434557f5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079263,
+            "locality_id":101915875,
+            "region_id":85687229,
             "venue_id":202457627
         }
     ],
     "wof:id":202457627,
-    "wof:lastmodified":1473798681,
+    "wof:lastmodified":1496776855,
     "wof:name":"Pharmaceutical Distributors PTY Ltd (Aust)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

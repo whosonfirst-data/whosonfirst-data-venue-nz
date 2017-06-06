@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.744766,-36.864155,174.744766,-36.864155",
     "geom:latitude":-36.864155,
     "geom:longitude":174.744766,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778131
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qBQwchBD8VuuQWAiGOnpL_-36.864155_174.744766@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"930f32656d52b7a624ac7ffd50247e04",
+    "wof:geomhash":"eb13acd9bbde0e5a8f938f366fd17210",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778131,
+            "region_id":85687243,
             "venue_id":203169197
         }
     ],
     "wof:id":203169197,
-    "wof:lastmodified":1473798645,
+    "wof:lastmodified":1496775393,
     "wof:name":"Leadlight World",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

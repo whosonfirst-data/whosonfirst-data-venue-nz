@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.442886353,-35.9868011475,174.442886353,-35.9868011475",
     "geom:latitude":-35.986801,
     "geom:longitude":174.442886,
@@ -27,17 +28,32 @@
         "beauty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687149,
+        102191583,
+        85633345,
+        101916809,
+        102079257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mzK3pxoHfFphnzDQcKoDe_-35.986801_174.442886@1306270032"
     },
     "wof:country":"NZ",
     "wof:created":1473719370,
-    "wof:geomhash":"1c7b35806147828f626b7c1ae2625b47",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7bce4c497c1d26e1d6df71a7618862ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101916809,
+            "region_id":85687149,
+            "venue_id":1058996643
+        }
+    ],
     "wof:id":1058996643,
-    "wof:lastmodified":1473719370,
+    "wof:lastmodified":1496776950,
     "wof:name":"Waipu Medical Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.34639,-46.376682,168.34639,-46.376682",
     "geom:latitude":-46.376682,
     "geom:longitude":168.34639,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mbG9mQZw3sHZ1b6CZHvo9_-46.376682_168.346390@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3245cba71158e7bd281413fd81399a8a",
+    "wof:geomhash":"248203f8e0b391c659bfc7fc3a1f9992",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":202739461
         }
     ],
     "wof:id":202739461,
-    "wof:lastmodified":1473798720,
+    "wof:lastmodified":1496776719,
     "wof:name":"Abbotsleigh Village",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

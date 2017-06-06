@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.699844,-36.840389,175.699844,-36.840389",
     "geom:latitude":-36.840389,
     "geom:longitude":175.699844,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914279,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sC50gWXVEoVHlFsUzNuYi_-36.840389_175.699844@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d44e0c98f4eda2b8647f82368d1216a0",
+    "wof:geomhash":"24cf5a5101139de378cbcbd721ef9d4b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101914279,
+            "region_id":85687229,
             "venue_id":203110549
         }
     ],
     "wof:id":203110549,
-    "wof:lastmodified":1473798632,
+    "wof:lastmodified":1496775792,
     "wof:name":"M.B. Photographics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

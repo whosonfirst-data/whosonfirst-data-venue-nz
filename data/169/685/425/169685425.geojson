@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.727341,-43.155392,172.727341,-43.155392",
     "geom:latitude":-43.155392,
     "geom:longitude":172.727341,
@@ -23,27 +24,30 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915889,
+        102079365
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4D8uN3vnlHlS5jbhthKwVH_-43.155392_172.727341@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a2e24290c88f06eeb3e7909f4cfcc8ec",
+    "wof:geomhash":"1505c1085b524241526ad634051f6c68",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079365,
+            "locality_id":101915889,
+            "region_id":85687179,
             "venue_id":169685425
         }
     ],
     "wof:id":169685425,
-    "wof:lastmodified":1473798623,
+    "wof:lastmodified":1496776860,
     "wof:name":"Slade Farm",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

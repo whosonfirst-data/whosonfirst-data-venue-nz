@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.021255,-39.927814,175.021255,-39.927814",
     "geom:latitude":-39.927814,
     "geom:longitude":175.021255,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914639,
+        102079299,
+        85781145
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TCdwS6Y5NKGEdvwYQCzmT_-39.927814_175.021255@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"eaa9203520f047fc90152d9f82cd9c5f",
+    "wof:geomhash":"83ab4f9fe19601849d70a99af5044913",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":101914639,
+            "neighbourhood_id":85781145,
+            "region_id":85687251,
             "venue_id":219587765
         }
     ],
     "wof:id":219587765,
-    "wof:lastmodified":1473798740,
+    "wof:lastmodified":1496776216,
     "wof:name":"Fuelquip",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

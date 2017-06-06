@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.020981,-38.664867,178.020981,-38.664867",
     "geom:latitude":-38.664867,
     "geom:longitude":178.020981,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33grE4tvIR17q3mO8zqOUj_-38.664867_178.020981@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1ca0245ab0a8d14fb9315b6785cfbe8e",
+    "wof:geomhash":"0e681c58f51c3a5c323268722a3a5e0f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":220016287
         }
     ],
     "wof:id":220016287,
-    "wof:lastmodified":1473798562,
+    "wof:lastmodified":1496776125,
     "wof:name":"Mortgage Link Eastland Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

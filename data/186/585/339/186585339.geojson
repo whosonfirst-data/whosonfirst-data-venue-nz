@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.804474,-36.881573,174.804474,-36.881573",
     "geom:latitude":-36.881573,
     "geom:longitude":174.804474,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778833
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jsu81GhQLUOVpZ2iXOIhq_-36.881573_174.804474@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"62a0e9b50cb647370db71c7554054209",
+    "wof:geomhash":"6ba7a20156c86cf7f266d98657a3bbcd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778833,
+            "region_id":85687243,
             "venue_id":186585339
         }
     ],
     "wof:id":186585339,
-    "wof:lastmodified":1473798766,
+    "wof:lastmodified":1496775599,
     "wof:name":"Bell Warren J",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

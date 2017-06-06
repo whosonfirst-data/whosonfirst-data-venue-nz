@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.620056,-41.752739,171.620056,-41.752739",
     "geom:latitude":-41.752739,
     "geom:longitude":171.620056,
@@ -36,27 +37,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101915699,
+        102079357
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56WTLlzUN2I8KMHKyQJzBj_-41.752739_171.620056@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"88421230473ae1631e8c28d320dcf498",
+    "wof:geomhash":"24df40876ec05e4acaa915d99bcd9b1f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":101915699,
+            "region_id":85687165,
             "venue_id":203135309
         }
     ],
     "wof:id":203135309,
-    "wof:lastmodified":1473798644,
+    "wof:lastmodified":1496776829,
     "wof:name":"KLS Vet Clinic & Cattery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

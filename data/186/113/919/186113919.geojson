@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.638474,-36.909054,174.638474,-36.909054",
     "geom:latitude":-36.909054,
     "geom:longitude":174.638474,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778643
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19QvWOaf8cbwefSwB3pbsI_-36.909054_174.638474@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9417d7056894c93bac07232dbf1e0fd1",
+    "wof:geomhash":"4ebd80db74a22367ff48ed451ce0dd1c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778643,
+            "region_id":85687243,
             "venue_id":186113919
         }
     ],
     "wof:id":186113919,
-    "wof:lastmodified":1473798673,
+    "wof:lastmodified":1496777107,
     "wof:name":"Main Motors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

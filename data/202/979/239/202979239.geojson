@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.877975,-39.413235,176.877975,-39.413235",
     "geom:latitude":-39.413235,
     "geom:longitude":176.877975,
@@ -23,27 +24,30 @@
     "sg:province":"Hawke's Bay",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101915291,
+        102079331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FTwo6rAjXvzEB8W6KbJyi_-39.413235_176.877975@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"252ec40ee64b9f97158a0176e8e23637",
+    "wof:geomhash":"9924b3c65d4b49f0b382078af3105a4b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101915291,
+            "region_id":85687189,
             "venue_id":202979239
         }
     ],
     "wof:id":202979239,
-    "wof:lastmodified":1473798755,
+    "wof:lastmodified":1496776651,
     "wof:name":"Couper J R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.636642,-40.940205,175.636642,-40.940205",
     "geom:latitude":-40.940205,
     "geom:longitude":175.636642,
@@ -23,27 +24,30 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101915543,
+        102079343
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZKKyLTo5LlzXZAEpVLMbC_-40.940205_175.636642@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5a3d6407ed07cbb09aff590a3de1f4cd",
+    "wof:geomhash":"6f2e1f3f3fff259b7f25c78925bfe9d0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
+            "locality_id":101915543,
+            "region_id":85687233,
             "venue_id":219838713
         }
     ],
     "wof:id":219838713,
-    "wof:lastmodified":1473798780,
+    "wof:lastmodified":1496776776,
     "wof:name":"Candy Contracts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

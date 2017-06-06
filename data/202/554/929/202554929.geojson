@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.666046,-36.399536,174.666046,-36.399536",
     "geom:latitude":-36.399536,
     "geom:longitude":174.666046,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914751,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VqsMjgKRpXfMtNC50ij41_-36.399536_174.666046@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b24c9932373fc5f8c1254776025ac812",
+    "wof:geomhash":"99b8260f63300ab639e28eea5f0ac196",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914751,
+            "region_id":85687243,
             "venue_id":202554929
         }
     ],
     "wof:id":202554929,
-    "wof:lastmodified":1473798696,
+    "wof:lastmodified":1496776306,
     "wof:name":"Warkworth Physiotherapy Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.343689,-38.040134,175.343689,-38.040134",
     "geom:latitude":-38.040134,
     "geom:longitude":175.343689,
@@ -23,27 +24,30 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914945,
+        102079273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kSMLU9pYFOZOgKMRR0loT_-38.040134_175.343689@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5f1110a71eed9f484cbd0bbc77b2e0ff",
+    "wof:geomhash":"79567d5f21498b63640b7b16badecc2c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079273,
+            "locality_id":101914945,
+            "region_id":85687229,
             "venue_id":203018901
         }
     ],
     "wof:id":203018901,
-    "wof:lastmodified":1473798568,
+    "wof:lastmodified":1496776425,
     "wof:name":"Property Maintenance Services (Waipa)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

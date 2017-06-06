@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.831344605,-42.5241088867,172.831344605,-42.5241088867",
     "geom:latitude":-42.524109,
     "geom:longitude":172.831345,
@@ -28,17 +29,32 @@
         "garden"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687179,
+        102191583,
+        85633345,
+        101914953,
+        102079365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03kGTgaBlnahjMSoCs2V0Z_-42.524109_172.831345@1306270037"
     },
     "wof:country":"NZ",
     "wof:created":1473719402,
-    "wof:geomhash":"15664ca7b07aad39bdf5d039d598c182",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3cef31815fd7fb88b15c06ff38814429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079365,
+            "locality_id":101914953,
+            "region_id":85687179,
+            "venue_id":1058997047
+        }
+    ],
     "wof:id":1058997047,
-    "wof:lastmodified":1473719402,
+    "wof:lastmodified":1496776428,
     "wof:name":"Hanmer Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

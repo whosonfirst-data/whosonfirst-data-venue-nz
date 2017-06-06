@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.655716,-40.950546,175.655716,-40.950546",
     "geom:latitude":-40.950546,
     "geom:longitude":175.655716,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101916231,
+        101915543,
+        102079343,
         85782451
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_6LX8aleueH0Dt8lCCJp0Me_-40.950546_175.655716@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8ee7425b12d93916a0db2913cbf02286",
+    "wof:geomhash":"c0e555123d0917a55afbbd74beb4efb1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101916231,
+            "county_id":102079343,
+            "locality_id":101915543,
             "neighbourhood_id":85782451,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":203037313
         }
     ],
     "wof:id":203037313,
-    "wof:lastmodified":1473798576,
+    "wof:lastmodified":1496776763,
     "wof:name":"Biotech New Zealand Ltd",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",

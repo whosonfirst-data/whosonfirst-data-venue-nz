@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"169.847,-46.283558,169.847,-46.283558",
     "geom:latitude":-46.283558,
     "geom:longitude":169.847,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914303,
+        102079389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r1dSMvwUxN4OJukCWNUdW_-46.283558_169.847000@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"75f6ff39363033e13410d8db8ba1590e",
+    "wof:geomhash":"69d3350296a167c4254a5302798533ab",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":101914303,
+            "region_id":85687201,
             "venue_id":220118359
         }
     ],
     "wof:id":220118359,
-    "wof:lastmodified":1473798601,
+    "wof:lastmodified":1496775841,
     "wof:name":"Kaitangata Dairy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

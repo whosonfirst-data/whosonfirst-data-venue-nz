@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.888351,-39.676712,176.888351,-39.676712",
     "geom:latitude":-39.676712,
     "geom:longitude":176.888351,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914661,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2APV9xKuzu4NZD57vq4vhZ_-39.676712_176.888351@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2b2f1a9f48f46c99e014458e8f614c08",
+    "wof:geomhash":"c72e29cb354c695fdb3b1fe7dc5becb0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914661,
+            "region_id":85687189,
             "venue_id":203333655
         }
     ],
     "wof:id":203333655,
-    "wof:lastmodified":1473798679,
+    "wof:lastmodified":1496776231,
     "wof:name":"Horn Leon 1986 Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

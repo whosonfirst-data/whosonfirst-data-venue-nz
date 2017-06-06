@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.014496,-38.658417,178.014496,-38.658417",
     "geom:latitude":-38.658417,
     "geom:longitude":178.014496,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71eHsvLRHb7nngoyXusb20_-38.658417_178.014496@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e360dc771f58e7d47ee44ad6735fbc9a",
+    "wof:geomhash":"f1bf8f0779f48a39d08b9f433e89f984",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":219708303
         }
     ],
     "wof:id":219708303,
-    "wof:lastmodified":1473798776,
+    "wof:lastmodified":1496776126,
     "wof:name":"Gisborne Machinery & Cycle World",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.77562,-36.882729,174.77562,-36.882729",
     "geom:latitude":-36.882729,
     "geom:longitude":174.77562,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sFGYTfYemqsnLLzE59irA_-36.882729_174.775620@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0e06f868af25a3f49753a6d40137bd69",
+    "wof:geomhash":"d432fc295339be017aacaf93e45d3526",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782389,
+            "region_id":85687243,
             "venue_id":202459413
         }
     ],
     "wof:id":202459413,
-    "wof:lastmodified":1473798676,
+    "wof:lastmodified":1496775451,
     "wof:name":"Brain Injury Association (Auckland) Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.011292,-36.788273,175.011292,-36.788273",
     "geom:latitude":-36.788273,
     "geom:longitude":175.011292,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914897,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nZ1clekbOA2JL9Cn6XpDC_-36.788273_175.011292@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4dab77e1e24223905fb951968bb30c93",
+    "wof:geomhash":"bceca08942b1ee2245af5bbc77da15ba",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914897,
+            "region_id":85687243,
             "venue_id":185776025
         }
     ],
     "wof:id":185776025,
-    "wof:lastmodified":1473798611,
+    "wof:lastmodified":1496776384,
     "wof:name":"Old Blackpool School Hall",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

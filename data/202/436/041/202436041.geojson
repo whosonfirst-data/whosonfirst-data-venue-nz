@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.74556,-36.905319,174.74556,-36.905319",
     "geom:latitude":-36.905319,
     "geom:longitude":174.74556,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SmOcaapOAesmQmbnc1ODd_-36.905319_174.745560@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"596fe43eb1ed46614eca0c1e0f4d032c",
+    "wof:geomhash":"72aa974e7c0754f01110b4aeb8f95f86",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778845,
+            "region_id":85687243,
             "venue_id":202436041
         }
     ],
     "wof:id":202436041,
-    "wof:lastmodified":1473798623,
+    "wof:lastmodified":1496775445,
     "wof:name":"Elley-Brown Roger;",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

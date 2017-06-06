@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.169847,43.230305,-0.169847,43.230305",
     "geom:latitude":43.230305,
     "geom:longitude":-0.169847,
@@ -33,27 +34,37 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85683539,
+        102191581,
         85633147,
-        85683539
+        404371253,
+        404228137,
+        1108826385,
+        136253037,
+        102070191
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29ptM5F9MevJpHyDl5Uhbq_43.230305_-0.169847@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c8bc4b0cdea6267f8c91e6677aa09c8f",
+    "wof:geomhash":"7be6be0d9bd2536f74e241b19498f35f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
+            "county_id":102070191,
+            "empire_id":136253037,
+            "localadmin_id":404371253,
             "locality_id":-1,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404228137,
+            "macroregion_id":1108826385,
             "region_id":85683539,
             "venue_id":219767045
         }
     ],
     "wof:id":219767045,
-    "wof:lastmodified":1473798774,
+    "wof:lastmodified":1496776783,
     "wof:name":"Papakura Truck Towing & Heavy Salvage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

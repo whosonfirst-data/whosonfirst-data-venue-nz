@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.798645,-36.88092,174.798645,-36.88092",
     "geom:latitude":-36.88092,
     "geom:longitude":174.798645,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778887
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cphNEjlZ7e2fDyiTRFt6D_-36.880920_174.798645@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"058d12a09351164dc62af554cfe79633",
+    "wof:geomhash":"95d9e80cb3751e2da1f42e84d061a5a2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778887,
+            "region_id":85687243,
             "venue_id":169598143
         }
     ],
     "wof:id":169598143,
-    "wof:lastmodified":1473798593,
+    "wof:lastmodified":1496775623,
     "wof:name":"Wheelers Bookshop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

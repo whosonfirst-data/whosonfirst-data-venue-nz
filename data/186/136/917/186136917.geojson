@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.714752,-43.595665,172.714752,-43.595665",
     "geom:latitude":-43.595665,
     "geom:longitude":172.714752,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-328 9228",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914667,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EyJFVZHukRxHzpeLqPku4_-43.595665_172.714752@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"94c0646955d282a444b9cf1487d2c9a9",
+    "wof:geomhash":"9242a9461661c8abefd22c037c13a183",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914667,
+            "region_id":85687179,
             "venue_id":186136917
         }
     ],
     "wof:id":186136917,
-    "wof:lastmodified":1473798670,
+    "wof:lastmodified":1496776245,
     "wof:name":"Davis Engineering Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

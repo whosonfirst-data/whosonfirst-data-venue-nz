@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.207642,-38.184097,175.207642,-38.184097",
     "geom:latitude":-38.184097,
     "geom:longitude":175.207642,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-873 0704",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914943,
+        102079275
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZDKpELTzEAgynnRoQbhlf_-38.184097_175.207642@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"878d98b9d91e98544ec147a65fe34612",
+    "wof:geomhash":"057fbb7936f15dc820cab2e8a03c02f5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079275,
+            "locality_id":101914943,
+            "region_id":85687229,
             "venue_id":186035259
         }
     ],
     "wof:id":186035259,
-    "wof:lastmodified":1473798594,
+    "wof:lastmodified":1496776423,
     "wof:name":"Pride Cleaning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

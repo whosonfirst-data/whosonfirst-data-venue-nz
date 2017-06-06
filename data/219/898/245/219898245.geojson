@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.13443,-37.690361,176.13443,-37.690361",
     "geom:latitude":-37.690361,
     "geom:longitude":176.13443,
@@ -23,29 +24,33 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85780779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PgiZKt0ydxdD9GyXp1wYe_-37.690361_176.134430@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6eba64d7de90831f965dfc56bf300226",
+    "wof:geomhash":"f98db6ea427e28175eef10790ff966f3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780779,
+            "region_id":85687175,
             "venue_id":219898245
         }
     ],
     "wof:id":219898245,
-    "wof:lastmodified":1473798787,
+    "wof:lastmodified":1496775883,
     "wof:name":"Sydenham Gardens Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

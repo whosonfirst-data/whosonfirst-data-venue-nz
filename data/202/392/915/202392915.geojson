@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.808319,-36.95388,174.808319,-36.95388",
     "geom:latitude":-36.95388,
     "geom:longitude":174.808319,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85772903
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4I1gBQJyTxBjVvHPEOBsJO_-36.953880_174.808319@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8bb63d80673f745dc616eef6ef2c3951",
+    "wof:geomhash":"2f27d1bda93dc92bd24658b7817ad33f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85772903,
+            "region_id":85687243,
             "venue_id":202392915
         }
     ],
     "wof:id":202392915,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496775644,
     "wof:name":"NZ Red Cross Inc Northern Region",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772903,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

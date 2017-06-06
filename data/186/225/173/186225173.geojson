@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.838715,-36.90852,174.838715,-36.90852",
     "geom:latitude":-36.90852,
     "geom:longitude":174.838715,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782457
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CJM5mtW5Vq33IXAEm1On4_-36.908520_174.838715@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bce910b0b1a25958768c5e79403d5527",
+    "wof:geomhash":"a05964ba1b33fa4b582a37d014f9816f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782457,
+            "region_id":85687243,
             "venue_id":186225173
         }
     ],
     "wof:id":186225173,
-    "wof:lastmodified":1473798710,
+    "wof:lastmodified":1496775487,
     "wof:name":"Jenkins Labels Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

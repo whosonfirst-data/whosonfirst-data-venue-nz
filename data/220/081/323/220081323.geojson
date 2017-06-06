@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.731415,-36.859222,174.731415,-36.859222",
     "geom:latitude":-36.859222,
     "geom:longitude":174.731415,
@@ -31,29 +32,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778333
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ber1LhEZV9XzXRZHZtuDx_-36.859222_174.731415@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7426d014c2e7f30b4e32db8eaa31d497",
+    "wof:geomhash":"63139490d6fbbb7fd8355eafb8f18133",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778333,
+            "region_id":85687243,
             "venue_id":220081323
         }
     ],
     "wof:id":220081323,
-    "wof:lastmodified":1473798594,
+    "wof:lastmodified":1496775526,
     "wof:name":"Weta Wines",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

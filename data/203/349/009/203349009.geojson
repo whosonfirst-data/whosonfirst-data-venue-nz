@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.62619,-40.347912,175.62619,-40.347912",
     "geom:latitude":-40.347912,
     "geom:longitude":175.62619,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85773241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2o2CNCxg23drx0OyjjEc0D_-40.347912_175.626190@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4b020e0a350c9d718dba9a3e54961c4d",
+    "wof:geomhash":"101771465db62aa8c839b83490b0b801",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85773241,
+            "region_id":85687251,
             "venue_id":203349009
         }
     ],
     "wof:id":203349009,
-    "wof:lastmodified":1473798678,
+    "wof:lastmodified":1496775745,
     "wof:name":"Broadtop Footwear",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

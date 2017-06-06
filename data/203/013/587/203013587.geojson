@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.747665,-36.699665,174.747665,-36.699665",
     "geom:latitude":-36.699665,
     "geom:longitude":174.747665,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ev9hXehjujC1yQzyypiQQ_-36.699665_174.747665@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ef2c890c4c2d7c5730b4438af4300999",
+    "wof:geomhash":"897e3057eed4b0531b7b94ef46ebf067",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781263,
+            "region_id":85687243,
             "venue_id":203013587
         }
     ],
     "wof:id":203013587,
-    "wof:lastmodified":1473798560,
+    "wof:lastmodified":1496777134,
     "wof:name":"Soil Guard Fabric Protector",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

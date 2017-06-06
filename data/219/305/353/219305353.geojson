@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.639404,-43.520626,172.639404,-43.520626",
     "geom:latitude":-43.520626,
     "geom:longitude":172.639404,
@@ -34,29 +35,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781693,
+        85781777
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pmAtvZFTJMLpO7lYmhvre_-43.520626_172.639404@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ee6e2094652dee5a2f72df74bc770030",
+    "wof:geomhash":"de96963d307b989b7c6db6c087a54887",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781693,
+            "region_id":85687179,
+            "venue_id":219305353
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781777,
+            "region_id":85687179,
             "venue_id":219305353
         }
     ],
     "wof:id":219305353,
-    "wof:lastmodified":1473798675,
+    "wof:lastmodified":1496776051,
     "wof:name":"Home-Lea Bed & Breakfast",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

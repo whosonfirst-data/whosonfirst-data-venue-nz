@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.699661,-36.802601,174.699661,-36.802601",
     "geom:latitude":-36.802601,
     "geom:longitude":174.699661,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782833
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1b7P7WlvO2L3WgQELtB9aV_-36.802601_174.699661@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"237579cb8ea41620fcdc23729c42fe4c",
+    "wof:geomhash":"81fe9c8a50b880241e2317929e7cca24",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782833,
+            "region_id":85687243,
             "venue_id":186416347
         }
     ],
     "wof:id":186416347,
-    "wof:lastmodified":1473798768,
+    "wof:lastmodified":1496775417,
     "wof:name":"North Shore Rubber Stamps",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

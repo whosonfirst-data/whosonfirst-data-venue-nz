@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.67749,-45.608173,170.67749,-45.608173",
     "geom:latitude":-45.608173,
     "geom:longitude":170.67749,
@@ -23,27 +24,30 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915373,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pyZkoYmExLcgIMjxukPl7_-45.608173_170.677490@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e87ea29c4e37202701b7474e73c6af2b",
+    "wof:geomhash":"6d657001fbd8d931c3d61d6a4484b0dd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101915373,
+            "region_id":85687201,
             "venue_id":186176047
         }
     ],
     "wof:id":186176047,
-    "wof:lastmodified":1473798669,
+    "wof:lastmodified":1496776707,
     "wof:name":"Asbic Consultants Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

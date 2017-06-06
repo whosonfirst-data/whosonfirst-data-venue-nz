@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.962463,-43.809849,172.962463,-43.809849",
     "geom:latitude":-43.809849,
     "geom:longitude":172.962463,
@@ -23,27 +24,30 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101916237,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5H1lEUbyiNDrCmxwyZ90id_-43.809849_172.962463@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d7b2ea48361463f3c587e3e46adb47cf",
+    "wof:geomhash":"bf449ec65dfe9bb4120441ca33234fd0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101916237,
+            "region_id":85687179,
             "venue_id":169564439
         }
     ],
     "wof:id":169564439,
-    "wof:lastmodified":1473798573,
+    "wof:lastmodified":1496776892,
     "wof:name":"Fire & Ice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

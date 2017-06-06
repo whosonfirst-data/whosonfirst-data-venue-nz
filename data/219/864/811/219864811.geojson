@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.211609,-38.080776,176.211609,-38.080776",
     "geom:latitude":-38.080776,
     "geom:longitude":176.211609,
@@ -23,27 +24,30 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914951,
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4luRjTnVdxLQDXcB8UGYfK_-38.080776_176.211609@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"12573b7ab581a426754e14a927369071",
+    "wof:geomhash":"7e48b91df74e034bd992f686d85dabf7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914951,
+            "region_id":85687175,
             "venue_id":219864811
         }
     ],
     "wof:id":219864811,
-    "wof:lastmodified":1473798794,
+    "wof:lastmodified":1496777627,
     "wof:name":"Forest And Woodlot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.74498,-36.85556,174.74498,-36.85556",
     "geom:latitude":-36.85556,
     "geom:longitude":174.74498,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778131
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aIwNRCBl4B1VTo408RBWg_-36.855560_174.744980@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8929f9c30219926863bde8d1059c495f",
+    "wof:geomhash":"fb1b8d281249a5f131be2387a4e0bdf2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778131,
+            "region_id":85687243,
             "venue_id":185687241
         }
     ],
     "wof:id":185687241,
-    "wof:lastmodified":1473798594,
+    "wof:lastmodified":1496775606,
     "wof:name":"Nairobi Trio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

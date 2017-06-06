@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.789642,-36.807381,174.789642,-36.807381",
     "geom:latitude":-36.807381,
     "geom:longitude":174.789642,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101915597,
+        102079403,
+        85778149
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kHJDkYOC4TiNTmWo5SuAa_-36.807381_174.789642@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e645d290c38a0945d80b0911d3a909c3",
+    "wof:geomhash":"a631aa9e434d51b8de0c350f9b419ea1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915597,
+            "neighbourhood_id":85778149,
+            "region_id":85687243,
             "venue_id":202561699
         }
     ],
     "wof:id":202561699,
-    "wof:lastmodified":1473798693,
+    "wof:lastmodified":1496776807,
     "wof:name":"Ross Morgan's Foot Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

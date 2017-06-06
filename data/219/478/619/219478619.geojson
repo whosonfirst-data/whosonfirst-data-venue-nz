@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.708344,-38.089272,176.708344,-38.089272",
     "geom:latitude":-38.089272,
     "geom:longitude":176.708344,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-323 1034",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914419,
+        102079319
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5T2Os5CZLKPw7rzKIPY2Sw_-38.089272_176.708344@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c90341c49dfb341ceaad093e62ff019f",
+    "wof:geomhash":"7497e36f3d387c2e5b67d1b549a15bb3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079319,
+            "locality_id":101914419,
+            "region_id":85687175,
             "venue_id":219478619
         }
     ],
     "wof:id":219478619,
-    "wof:lastmodified":1473798716,
+    "wof:lastmodified":1496775961,
     "wof:name":"Kawerau Central School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

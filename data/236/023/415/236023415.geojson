@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.79274,-36.807259,174.79274,-36.807259",
     "geom:latitude":-36.807259,
     "geom:longitude":174.79274,
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
+        102191583,
         85633345,
+        101915597,
+        102079403,
+        85781267,
         85778157
     ],
     "wof:breaches":[],
@@ -41,22 +47,31 @@
         "sg:id":"SG_71GjFNK3TErXxgKtIPEXJ0_-36.807259_174.792740@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c3bcb74e3d387283ea34d2eaff82a31a",
+    "wof:geomhash":"82d47be1283ae689c8c0eb3bfffb59aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101915597,
+            "neighbourhood_id":85781267,
+            "region_id":85687243,
+            "venue_id":236023415
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915597,
             "neighbourhood_id":85778157,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":236023415
         }
     ],
     "wof:id":236023415,
-    "wof:lastmodified":1473798568,
+    "wof:lastmodified":1496776806,
     "wof:name":"The Rice & Roast Kitchen",
-    "wof:parent_id":85778157,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

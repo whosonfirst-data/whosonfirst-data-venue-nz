@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.679749,-40.943794,175.679749,-40.943794",
     "geom:latitude":-40.943794,
     "geom:longitude":175.679749,
@@ -23,29 +24,33 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079343,
+        85780973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I2Idf99uGZpv8F5tRHQGU_-40.943794_175.679749@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ee22ad18890030f91da2bda7e23c72ff",
+    "wof:geomhash":"7055b7df1bb3bb21e0590365ab207a10",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780973,
+            "region_id":85687233,
             "venue_id":203201569
         }
     ],
     "wof:id":203201569,
-    "wof:lastmodified":1473798650,
+    "wof:lastmodified":1496776775,
     "wof:name":"Little Darling Crafts",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

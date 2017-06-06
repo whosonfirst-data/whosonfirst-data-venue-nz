@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.947128,-39.605808,176.947128,-39.605808",
     "geom:latitude":-39.605808,
     "geom:longitude":176.947128,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101916507,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qpuhmOfFs72KJR4n2myDD_-39.605808_176.947128@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bc2862b381a7888df7b0cd01182ef08f",
+    "wof:geomhash":"c5c1e07a490fcd2ebf2609cfc0807a7a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101916507,
+            "region_id":85687189,
             "venue_id":203117557
         }
     ],
     "wof:id":203117557,
-    "wof:lastmodified":1473798638,
+    "wof:lastmodified":1496776913,
     "wof:name":"Rainbow Tribe Productions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

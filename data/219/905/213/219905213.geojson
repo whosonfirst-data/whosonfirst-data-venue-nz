@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.484818,-43.640163,172.484818,-43.640163",
     "geom:latitude":-43.640163,
     "geom:longitude":172.484818,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-325 6985",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101916247,
+        102079369
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T5hw4URzLWv6dydBdgTKZ_-43.640163_172.484818@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4650c5daa20924c2a397b0301a179283",
+    "wof:geomhash":"c4a181bf5c5742d542c8ce9c88473005",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":101916247,
+            "region_id":85687179,
             "venue_id":219905213
         }
     ],
     "wof:id":219905213,
-    "wof:lastmodified":1473798785,
+    "wof:lastmodified":1496776895,
     "wof:name":"WRONZ Development Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

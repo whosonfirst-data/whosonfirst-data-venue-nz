@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.783234,-37.81374,175.783234,-37.81374",
     "geom:latitude":-37.81374,
     "geom:longitude":175.783234,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915135,
+        102079267
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FCD7YOlaTFKCC8AJMlrFq_-37.813740_175.783234@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4dea7a8c425a79c441f86ecc32dbddde",
+    "wof:geomhash":"6dcdc90d86f06afa391f10bf31ad1c55",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101915135,
+            "region_id":85687229,
             "venue_id":186230257
         }
     ],
     "wof:id":186230257,
-    "wof:lastmodified":1473798711,
+    "wof:lastmodified":1496776556,
     "wof:name":"All Crane Sales & Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

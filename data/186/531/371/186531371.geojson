@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.324951,-37.786449,176.324951,-37.786449",
     "geom:latitude":-37.786449,
     "geom:longitude":176.324951,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101915141,
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IHrzBIHX4NkMfc2U3ZpF8_-37.786449_176.324951@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ce1e2c1eedb1543184fada04f87a55a5",
+    "wof:geomhash":"90ef92a4cfbb1c4e72f74cb316df7062",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":101915141,
+            "region_id":85687175,
             "venue_id":186531371
         }
     ],
     "wof:id":186531371,
-    "wof:lastmodified":1473798771,
+    "wof:lastmodified":1496776572,
     "wof:name":"McElney Kim Beauty Therapist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

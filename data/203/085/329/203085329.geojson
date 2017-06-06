@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.632233,-43.521114,172.632233,-43.521114",
     "geom:latitude":-43.521114,
     "geom:longitude":172.632233,
@@ -34,29 +35,34 @@
     "sg:website":"http://www.thedeanery.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85773167
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aAA77WfcegkL6BJVCqIdG_-43.521114_172.632233@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"802bd5f6fef120f0d2a4d052a0b5a66e",
+    "wof:geomhash":"5b8b78aef89899b181aaecf64a4440d8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85773167,
+            "region_id":85687179,
             "venue_id":203085329
         }
     ],
     "wof:id":203085329,
-    "wof:lastmodified":1473798628,
+    "wof:lastmodified":1496776080,
     "wof:name":"The Deanery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

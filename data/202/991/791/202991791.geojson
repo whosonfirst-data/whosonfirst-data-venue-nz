@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.880753,-39.672981,176.880753,-39.672981",
     "geom:latitude":-39.672981,
     "geom:longitude":176.880753,
@@ -23,27 +24,30 @@
     "sg:province":"Hawke's Bay",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914661,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LmwddhahXW9gNI5MukHag_-39.672981_176.880753@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c160a210d71f1799af9fe7bb55cf71b9",
+    "wof:geomhash":"b936b391f429cbb3befc7f4bd21a6b5b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914661,
+            "region_id":85687189,
             "venue_id":202991791
         }
     ],
     "wof:id":202991791,
-    "wof:lastmodified":1473798766,
+    "wof:lastmodified":1496776233,
     "wof:name":"Havelock North Lawn & Garden Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

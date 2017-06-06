@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.636017,-36.909389,174.636017,-36.909389",
     "geom:latitude":-36.909389,
     "geom:longitude":174.636017,
@@ -31,29 +32,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778643
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19r3ggBK9n1uuUC14WE3Fp_-36.909389_174.636017@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7a1bef473607c42e1913fd3d34588b27",
+    "wof:geomhash":"43b4ee4d2d24fd2cbb9cfe0bd5ac804d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778643,
+            "region_id":85687243,
             "venue_id":220085615
         }
     ],
     "wof:id":220085615,
-    "wof:lastmodified":1473798602,
+    "wof:lastmodified":1496777147,
     "wof:name":"Cottage Bakeries",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

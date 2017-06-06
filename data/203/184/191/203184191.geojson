@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.47998,-45.896244,170.47998,-45.896244",
     "geom:latitude":-45.896244,
     "geom:longitude":170.47998,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85772879
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sE2DoK27Lh5RmmoqtQ7Bf_-45.896244_170.479980@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c47a36024a67f7d8a1e541f1ee17b077",
+    "wof:geomhash":"ddbbd261d34da3d6e3484e3d0169a2c8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85772879,
+            "region_id":85687201,
             "venue_id":203184191
         }
     ],
     "wof:id":203184191,
-    "wof:lastmodified":1473798648,
+    "wof:lastmodified":1496775771,
     "wof:name":"Sewing Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

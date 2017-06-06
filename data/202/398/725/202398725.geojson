@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.346985,-46.391731,168.346985,-46.391731",
     "geom:latitude":-46.391731,
     "geom:longitude":168.346985,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781431
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cgLTmKx0SaKVnOk12Nv4X_-46.391731_168.346985@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1e77aaf6dd31d3fca859250daf26b866",
+    "wof:geomhash":"6cf080b546bb66cd3806cbced9a1c402",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781431,
+            "region_id":85687211,
             "venue_id":202398725
         }
     ],
     "wof:id":202398725,
-    "wof:lastmodified":1473798560,
+    "wof:lastmodified":1496776731,
     "wof:name":"Southland Asthma Society",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

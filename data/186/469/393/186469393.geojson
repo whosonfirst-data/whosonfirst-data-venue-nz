@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.899826,-41.114182,174.899826,-41.114182",
     "geom:latitude":-41.114182,
     "geom:longitude":174.899826,
@@ -23,29 +24,33 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079317,
+        85778715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mwF03RhHO5B4fdX0e1aYk_-41.114182_174.899826@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2eb064ebe7c1d4c48df92f0bc7af1629",
+    "wof:geomhash":"6ac5d0953bfa940b55829dad9d19a8cb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778715,
+            "region_id":85687233,
             "venue_id":186469393
         }
     ],
     "wof:id":186469393,
-    "wof:lastmodified":1473798752,
+    "wof:lastmodified":1496775860,
     "wof:name":"Anton Gas Appliance Services Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

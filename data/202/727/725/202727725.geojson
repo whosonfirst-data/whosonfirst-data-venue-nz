@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.044449,-36.795731,175.044449,-36.795731",
     "geom:latitude":-36.795731,
     "geom:longitude":175.044449,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914787,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5soLdjLt6zzQEXMSBuJITP_-36.795731_175.044449@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1f5492d443c9c1bb6f95ae156069efca",
+    "wof:geomhash":"6bb603145bf3bbf768240c8a1376612d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914787,
+            "region_id":85687243,
             "venue_id":202727725
         }
     ],
     "wof:id":202727725,
-    "wof:lastmodified":1473798720,
+    "wof:lastmodified":1496776338,
     "wof:name":"Home Care 60s Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

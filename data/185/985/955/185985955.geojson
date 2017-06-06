@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.863022,-36.971909,174.863022,-36.971909",
     "geom:latitude":-36.971909,
     "geom:longitude":174.863022,
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914257,
+        102079403,
         85778947
     ],
     "wof:breaches":[],
@@ -42,20 +46,20 @@
         "sg:id":"SG_1PUXZnwT5FmXuwr5Sm7dRY_-36.971909_174.863022@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"83e2e05ff31d5241d772db6f2c0b18f9",
+    "wof:geomhash":"222779c69cbeac8a5dfcc507d68ced29",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914257,
             "neighbourhood_id":85778947,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":185985955
         }
     ],
     "wof:id":185985955,
-    "wof:lastmodified":1473798677,
+    "wof:lastmodified":1496775555,
     "wof:name":"Brides Corner",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",

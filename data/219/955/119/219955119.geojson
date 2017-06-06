@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.154022,-40.761951,175.154022,-40.761951",
     "geom:latitude":-40.761951,
     "geom:longitude":175.154022,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 6-364 7089",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914931,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CVtXZo3D3zqjuu59AsaIO_-40.761951_175.154022@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"aee2f855d3394d3bf377467bd82e7128",
+    "wof:geomhash":"cf333315bd031c448ea5102a604f0c8d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914931,
+            "region_id":85687233,
             "venue_id":219955119
         }
     ],
     "wof:id":219955119,
-    "wof:lastmodified":1473798787,
+    "wof:lastmodified":1496776417,
     "wof:name":"Otaki Vet Graham Kirker",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

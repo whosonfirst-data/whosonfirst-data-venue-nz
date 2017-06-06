@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.300385,-35.681961,174.300385,-35.681961",
     "geom:latitude":-35.681961,
     "geom:longitude":174.300385,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Iuew9Se9mfdFCVfLqJicA_-35.681961_174.300385@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a507d48fa318589c83326113fcbc796a",
+    "wof:geomhash":"ba12da039ad3a3f2c831662a3e237c7b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "region_id":85687149,
             "venue_id":186281045
         }
     ],
     "wof:id":186281045,
-    "wof:lastmodified":1473798708,
+    "wof:lastmodified":1496775328,
     "wof:name":"Wedderburn Scales Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

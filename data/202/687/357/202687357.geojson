@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.981491,-45.076584,170.981491,-45.076584",
     "geom:latitude":-45.076584,
     "geom:longitude":170.981491,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914699,
+        102079381,
+        85781633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xHbZZKFB3aPeqkiX10iJ9_-45.076584_170.981491@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b8e597ab8a049e4bed9d49b3fb97fc3a",
+    "wof:geomhash":"37873814c4285826d8df0e780782a020",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101914699,
+            "neighbourhood_id":85781633,
+            "region_id":85687179,
             "venue_id":202687357
         }
     ],
     "wof:id":202687357,
-    "wof:lastmodified":1473798666,
+    "wof:lastmodified":1496776270,
     "wof:name":"Casa Nova",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

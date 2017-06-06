@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.790878,-41.24678,174.790878,-41.24678",
     "geom:latitude":-41.24678,
     "geom:longitude":174.790878,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85781175
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hCXZvK7FGVDN9mGafRTF2_-41.246780_174.790878@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"28468a867bbacd02ad2eac8d2100a0fd",
+    "wof:geomhash":"41d49946beaf29c1c8fee6c5d105047c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85781175,
+            "region_id":85687233,
             "venue_id":220091583
         }
     ],
     "wof:id":220091583,
-    "wof:lastmodified":1473798600,
+    "wof:lastmodified":1496775813,
     "wof:name":"Tonle Sap",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

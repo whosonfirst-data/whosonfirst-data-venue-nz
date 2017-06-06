@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.900513,-36.88554,174.900513,-36.88554",
     "geom:latitude":-36.88554,
     "geom:longitude":174.900513,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gZpP5KsAVkMYu0pnYMk6r_-36.885540_174.900513@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"60f7d7a40450676721ae5843e231257e",
+    "wof:geomhash":"cf92c2e5652ce5d21747135500e64329",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778337,
+            "region_id":85687243,
             "venue_id":203402575
         }
     ],
     "wof:id":203402575,
-    "wof:lastmodified":1473798697,
+    "wof:lastmodified":1496775600,
     "wof:name":"Half Moon Bay Marina Boatbuilders Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778337,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

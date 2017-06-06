@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.889496,-36.918976,174.889496,-36.918976",
     "geom:latitude":-36.918976,
     "geom:longitude":174.889496,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1egVV7P5oETcBzQoqYeNoT_-36.918976_174.889496@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"005139e6794af01ddbefb9375284931b",
+    "wof:geomhash":"3cbac98948d29d7168a97e499bcb3fd5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781291,
+            "region_id":85687243,
             "venue_id":202722263
         }
     ],
     "wof:id":202722263,
-    "wof:lastmodified":1473798737,
+    "wof:lastmodified":1496775457,
     "wof:name":"Master Clean Carpet Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

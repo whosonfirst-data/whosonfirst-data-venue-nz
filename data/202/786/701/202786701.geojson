@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.454727,-41.224133,175.454727,-41.224133",
     "geom:latitude":-41.224133,
     "geom:longitude":175.454727,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914287,
+        102079347
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68m8aAmZyWYt2Hh7tkjXsX_-41.224133_175.454727@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9fc2c2f5bec272849690c767fa84dc23",
+    "wof:geomhash":"bcec0a88dcd2bf894390f95ddfd41764",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079347,
+            "locality_id":101914287,
+            "region_id":85687233,
             "venue_id":202786701
         }
     ],
     "wof:id":202786701,
-    "wof:lastmodified":1473798727,
+    "wof:lastmodified":1496775832,
     "wof:name":"Into Decor Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

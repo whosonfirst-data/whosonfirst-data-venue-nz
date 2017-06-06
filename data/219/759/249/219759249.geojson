@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.011551,-40.918575,175.011551,-40.918575",
     "geom:latitude":-40.918575,
     "geom:longitude":175.011551,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_322LN75uPKO4z9ydX6PDdB_-40.918575_175.011551@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6ddae14342a4b7f4e6c3273b2fa212ee",
+    "wof:geomhash":"7a7f695595c0892f40d7fec07dae7238",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":219759249
         }
     ],
     "wof:id":219759249,
-    "wof:lastmodified":1473798774,
+    "wof:lastmodified":1496776180,
     "wof:name":"Brake Disc Machining",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

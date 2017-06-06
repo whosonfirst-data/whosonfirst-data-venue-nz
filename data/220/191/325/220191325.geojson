@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.922958,-41.214344,174.922958,-41.214344",
     "geom:latitude":-41.214344,
     "geom:longitude":174.922958,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914319,
+        102079337,
+        85778725
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rFGCfnQo6BqB7BE2Nc3Ze_-41.214344_174.922958@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b0cb6760004f6599aaf879a0ede792d3",
+    "wof:geomhash":"0b52096ca6f03b0f19f09df809b0cfd2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914319,
+            "neighbourhood_id":85778725,
+            "region_id":85687233,
             "venue_id":220191325
         }
     ],
     "wof:id":220191325,
-    "wof:lastmodified":1473798634,
+    "wof:lastmodified":1496775853,
     "wof:name":"Hardy Street Quality Meats 2000",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

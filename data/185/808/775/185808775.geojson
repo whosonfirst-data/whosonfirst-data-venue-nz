@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"169.137024,-44.697044,169.137024,-44.697044",
     "geom:latitude":-44.697044,
     "geom:longitude":169.137024,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914337,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Mg420L5fU8bzoZCCUczkT_-44.697044_169.137024@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bd40eafee80ad033c3afbacd1109aecf",
+    "wof:geomhash":"86b1f4de2dedf362d0adb501a56f72a7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":101914337,
+            "region_id":85687201,
             "venue_id":185808775
         }
     ],
     "wof:id":185808775,
-    "wof:lastmodified":1473798630,
+    "wof:lastmodified":1496775903,
     "wof:name":"Kodak Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

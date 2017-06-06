@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.486298,-45.88348,170.486298,-45.88348",
     "geom:latitude":-45.88348,
     "geom:longitude":170.486298,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        102079387,
+        85778177
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X602wdbc6hIGdangTmIYe_-45.883480_170.486298@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7e663848c8de3bb58b88f86b97334bb3",
+    "wof:geomhash":"d0eb19c48aa94eed4bae3d1c8bc323fe",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778177,
+            "region_id":85687201,
             "venue_id":202410605
         }
     ],
     "wof:id":202410605,
-    "wof:lastmodified":1473798591,
+    "wof:lastmodified":1496775767,
     "wof:name":"Miramare Needs Assessment & Service Co-Ordination",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

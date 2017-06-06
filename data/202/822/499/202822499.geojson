@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.771317,-36.814774,174.771317,-36.814774",
     "geom:latitude":-36.814774,
     "geom:longitude":174.771317,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101915597,
+        102079403,
+        85778149
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gfJTV9VygZ2LYx050zuYl_-36.814774_174.771317@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3ad94eba751cbfb73a29480667decdb8",
+    "wof:geomhash":"8d53fc365106ab50919b76e359ca30ec",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915597,
+            "neighbourhood_id":85778149,
+            "region_id":85687243,
             "venue_id":202822499
         }
     ],
     "wof:id":202822499,
-    "wof:lastmodified":1473798725,
+    "wof:lastmodified":1496776807,
     "wof:name":"Sarah McNeish Designer Blinds",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778149,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

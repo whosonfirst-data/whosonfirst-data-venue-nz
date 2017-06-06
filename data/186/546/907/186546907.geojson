@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"169.265137,-45.943466,169.265137,-45.943466",
     "geom:latitude":-45.943466,
     "geom:longitude":169.265137,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-204 8459",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915731,
+        102079389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3n2jWHX1jRjYTouSNp8tJg_-45.943466_169.265137@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2d5a4ca78d130a59f3a83df9d4fbd4ac",
+    "wof:geomhash":"936e6927a1e3a23c1e0d0dd754dc15ce",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":101915731,
+            "region_id":85687201,
             "venue_id":186546907
         }
     ],
     "wof:id":186546907,
-    "wof:lastmodified":1473798768,
+    "wof:lastmodified":1496776838,
     "wof:name":"Tapanui Hair Shoppe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

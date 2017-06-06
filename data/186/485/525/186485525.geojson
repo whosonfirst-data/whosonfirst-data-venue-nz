@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.759094,-36.901539,174.759094,-36.901539",
     "geom:latitude":-36.901539,
     "geom:longitude":174.759094,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RC71cszO8cEnL5JShVJOH_-36.901539_174.759094@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b382ebed6e20223aa275936e0f9a48f6",
+    "wof:geomhash":"8e5133fe88ac6acf52996f1ca2c52f06",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778845,
+            "region_id":85687243,
             "venue_id":186485525
         }
     ],
     "wof:id":186485525,
-    "wof:lastmodified":1473798753,
+    "wof:lastmodified":1496775554,
     "wof:name":"TeleLab Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

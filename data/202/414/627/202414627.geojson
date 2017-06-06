@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.280472,-41.278534,173.280472,-41.278534",
     "geom:latitude":-41.278534,
     "geom:longitude":173.280472,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
-        101917331,
+        101915555,
+        102079351,
+        85781551,
         85782467
     ],
     "wof:breaches":[],
@@ -42,22 +46,31 @@
         "sg:id":"SG_2JM5JhzXMvorgaNauK3fLw_-41.278534_173.280472@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"27e9ea0ea3e3de25495c91a91f02faa5",
+    "wof:geomhash":"8e29f2f736c0143c13c029596cce2c4d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101917331,
+            "county_id":102079351,
+            "locality_id":101915555,
+            "neighbourhood_id":85781551,
+            "region_id":85687157,
+            "venue_id":202414627
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":-1,
             "neighbourhood_id":85782467,
-            "region_id":-1,
+            "region_id":85687157,
             "venue_id":202414627
         }
     ],
     "wof:id":202414627,
-    "wof:lastmodified":1473798595,
+    "wof:lastmodified":1496776782,
     "wof:name":"Citycare",
-    "wof:parent_id":85782467,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

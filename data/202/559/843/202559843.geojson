@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.763062,-41.289345,174.763062,-41.289345",
     "geom:latitude":-41.289345,
     "geom:longitude":174.763062,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772991
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OnhwZHJWLud09VRmUUTlX_-41.289345_174.763062@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3a6a5a6407c5e47984ac21263c129447",
+    "wof:geomhash":"b9c89c71bb686d8b7cd6ad8982e23e6b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772991,
+            "region_id":85687233,
             "venue_id":202559843
         }
     ],
     "wof:id":202559843,
-    "wof:lastmodified":1473798693,
+    "wof:lastmodified":1496775809,
     "wof:name":"Lubransky J B",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

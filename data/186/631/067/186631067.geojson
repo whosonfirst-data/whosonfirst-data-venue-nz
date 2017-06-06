@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.663651,-43.55423,172.663651,-43.55423",
     "geom:latitude":-43.55423,
     "geom:longitude":172.663651,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778515
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P6MqoepryY56fwtdwAduy_-43.554230_172.663651@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"110a86dac1859505f1a878fbda404e02",
+    "wof:geomhash":"cfe9db8a34fd33c3876d5f094a058e6b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778515,
+            "region_id":85687179,
             "venue_id":186631067
         }
     ],
     "wof:id":186631067,
-    "wof:lastmodified":1473798761,
+    "wof:lastmodified":1496776068,
     "wof:name":"Pearson Dr E A",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

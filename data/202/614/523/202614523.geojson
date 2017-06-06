@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.561813,-40.207298,175.561813,-40.207298",
     "geom:latitude":-40.207298,
     "geom:longitude":175.561813,
@@ -32,27 +33,30 @@
     "sg:website":"http://www.yellowpages.co.nz/for/lovebuilthomes/dp22402.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914717,
+        102079303
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30IWzXxK3ZSDOtcMnlOWUv_-40.207298_175.561813@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"14710f392a47106aa40cb2f5b87ce19e",
+    "wof:geomhash":"ee89eaf337e35e6f5f3de340d1e89429",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":101914717,
+            "region_id":85687251,
             "venue_id":202614523
         }
     ],
     "wof:id":202614523,
-    "wof:lastmodified":1473798697,
+    "wof:lastmodified":1496776282,
     "wof:name":"Lovebuilt Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

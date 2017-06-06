@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.671021,-45.596027,170.671021,-45.596027",
     "geom:latitude":-45.596027,
     "geom:longitude":170.671021,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-465 7613",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915373,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13MylrP81lmz0lDQ7t1Lvd_-45.596027_170.671021@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"297730a3cc2c87a8e35e582419f6806d",
+    "wof:geomhash":"75504ddb879ed38fe48e79bc0b3f9fac",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101915373,
+            "region_id":85687201,
             "venue_id":219958847
         }
     ],
     "wof:id":219958847,
-    "wof:lastmodified":1473798796,
+    "wof:lastmodified":1496776707,
     "wof:name":"Waikouaiti Veterinary Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

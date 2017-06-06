@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.018982,-38.664528,178.018982,-38.664528",
     "geom:latitude":-38.664528,
     "geom:longitude":178.018982,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kzFMH6RhyQwrwBGl2LdM4_-38.664528_178.018982@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f2dd96f59b6862e47bff3a464eece90c",
+    "wof:geomhash":"0023ee6ad7b31c127971f2fd39d5acad",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":202510577
         }
     ],
     "wof:id":202510577,
-    "wof:lastmodified":1473798690,
+    "wof:lastmodified":1496776122,
     "wof:name":"Stephen Gilbert",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

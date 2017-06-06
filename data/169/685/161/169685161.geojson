@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.892548,-36.926292,174.892548,-36.926292",
     "geom:latitude":-36.926292,
     "geom:longitude":174.892548,
@@ -23,8 +24,12 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914255,
+        102079403,
+        85781291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,18 +39,19 @@
     "wof:geomhash":"cd571ad3703d52bbe7b37c30dd68b61e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914255,
+            "neighbourhood_id":85781291,
+            "region_id":85687243,
             "venue_id":169685161
         }
     ],
     "wof:id":169685161,
-    "wof:lastmodified":1473798620,
+    "wof:lastmodified":1491939090,
     "wof:name":"The Tackroom",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

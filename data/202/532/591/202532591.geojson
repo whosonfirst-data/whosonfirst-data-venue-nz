@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.625397,-36.823795,174.625397,-36.823795",
     "geom:latitude":-36.823795,
     "geom:longitude":174.625397,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778999
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aox6LkleEKdQ2QUoNl1ra_-36.823795_174.625397@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8048e44ddb296f97c16a47f331e81891",
+    "wof:geomhash":"964096c50da675b2eb96922b87ce9c85",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778999,
+            "region_id":85687243,
             "venue_id":202532591
         }
     ],
     "wof:id":202532591,
-    "wof:lastmodified":1473798703,
+    "wof:lastmodified":1496777129,
     "wof:name":"Nurseline Co Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

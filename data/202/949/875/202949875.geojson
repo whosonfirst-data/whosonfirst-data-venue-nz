@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.141693,-37.71376,176.141693,-37.71376",
     "geom:latitude":-37.71376,
     "geom:longitude":176.141693,
@@ -24,29 +25,33 @@
     "sg:website":"http://www.chainsaw.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85782819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YIXrxph8ygyTVfZ1TBl9d_-37.713760_176.141693@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e81de33d45f9fec454d33b490ec15f1e",
+    "wof:geomhash":"c488d99b844ed0b28904c44ea82236f9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782819,
+            "region_id":85687175,
             "venue_id":202949875
         }
     ],
     "wof:id":202949875,
-    "wof:lastmodified":1473798753,
+    "wof:lastmodified":1496775883,
     "wof:name":"Tauranga Chainsaw Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

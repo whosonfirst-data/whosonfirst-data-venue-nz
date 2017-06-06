@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.622345,-40.349632,175.622345,-40.349632",
     "geom:latitude":-40.349632,
     "geom:longitude":175.622345,
@@ -23,29 +24,34 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85773241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vIMrsRZd77oZWxQe0VeAW_-40.349632_175.622345@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4fb2eb5f1bf753707487fa42bedd5246",
+    "wof:geomhash":"c2299d9acf012f1c22c2b49569e92630",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85773241,
+            "region_id":85687251,
             "venue_id":202433307
         }
     ],
     "wof:id":202433307,
-    "wof:lastmodified":1473798627,
+    "wof:lastmodified":1496775737,
     "wof:name":"Pain Management & Rehabilitation Services Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

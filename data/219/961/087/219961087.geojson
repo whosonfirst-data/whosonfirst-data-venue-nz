@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.205887,-35.756401,174.205887,-35.756401",
     "geom:latitude":-35.756401,
     "geom:longitude":174.205887,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101916817,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6py2wGNz9bqwOxz1o8nY9Y_-35.756401_174.205887@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8674d3dd86b2e87c3131cb8cdb1d1e8d",
+    "wof:geomhash":"da848b56116168c06cd85788002bc4cc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101916817,
+            "region_id":85687149,
             "venue_id":219961087
         }
     ],
     "wof:id":219961087,
-    "wof:lastmodified":1473798789,
+    "wof:lastmodified":1496776951,
     "wof:name":"Pearce R S & K M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

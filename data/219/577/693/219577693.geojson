@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.639694,-36.918594,174.639694,-36.918594",
     "geom:latitude":-36.918594,
     "geom:longitude":174.639694,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778299
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wcRIfrpRE6Dns8STBiG1o_-36.918594_174.639694@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2f1a5ab38b27a1457bd509d47eb40ab6",
+    "wof:geomhash":"ee69a6e9a84a9b16c6b2fe9c6c929a00",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778299,
+            "region_id":85687243,
             "venue_id":219577693
         }
     ],
     "wof:id":219577693,
-    "wof:lastmodified":1473798738,
+    "wof:lastmodified":1496777147,
     "wof:name":"Hyundai Engine Industries",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778299,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

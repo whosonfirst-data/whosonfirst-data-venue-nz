@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.746094,-43.887348,171.746094,-43.887348",
     "geom:latitude":-43.887348,
     "geom:longitude":171.746094,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914705,
+        102079371
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oBrbryfBOhqLjGJi51JdM_-43.887348_171.746094@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2e302410060f336b49f4630efcc5adcc",
+    "wof:geomhash":"d87db2e8d1a46a908ce9136bbc6042ba",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "locality_id":101914705,
+            "region_id":85687179,
             "venue_id":185995923
         }
     ],
     "wof:id":185995923,
-    "wof:lastmodified":1473798668,
+    "wof:lastmodified":1496776276,
     "wof:name":"Carol Gunn Celebrant Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

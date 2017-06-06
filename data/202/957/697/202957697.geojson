@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.727921,-36.78371,174.727921,-36.78371",
     "geom:latitude":-36.78371,
     "geom:longitude":174.727921,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778443
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OFKlkdoxgnlAhPC50On5G_-36.783710_174.727921@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5220d01d40c1d1d84cf7f027afca78ad",
+    "wof:geomhash":"f85018c907a397aa22d3fecbf46ccb8e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778443,
+            "region_id":85687243,
             "venue_id":202957697
         }
     ],
     "wof:id":202957697,
-    "wof:lastmodified":1473798753,
+    "wof:lastmodified":1496775672,
     "wof:name":"Gardens 'R' Us",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

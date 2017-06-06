@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.321579,-35.709061,174.321579,-35.709061",
     "geom:latitude":-35.709061,
     "geom:longitude":174.321579,
@@ -35,9 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        101914901,
+        101914253,
+        102079257,
         85780991
     ],
     "wof:breaches":[],
@@ -45,20 +48,20 @@
         "sg:id":"SG_4zwROaBhXlP7QsAUmEnH5a_-35.709061_174.321579@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5c7cb512b33d038bc5c3d3313e2b08ee",
+    "wof:geomhash":"914ce94fb2cf45f6f501822168684826",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
+            "county_id":102079257,
+            "locality_id":101914253,
             "neighbourhood_id":85780991,
-            "region_id":-1,
+            "region_id":85687149,
             "venue_id":186639491
         }
     ],
     "wof:id":186639491,
-    "wof:lastmodified":1473798773,
+    "wof:lastmodified":1496775333,
     "wof:name":"Kensington Remedial Massage Clinic",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",

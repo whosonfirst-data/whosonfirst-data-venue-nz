@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.608002,-40.34927,175.608002,-40.34927",
     "geom:latitude":-40.34927,
     "geom:longitude":175.608002,
@@ -23,9 +24,11 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -33,20 +36,20 @@
         "sg:id":"SG_4JtJW52FvN64byFuyQ0iZR_-40.349270_175.608002@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"69a32b8b77888cef74a380eab9432b9c",
+    "wof:geomhash":"56b8b22e9b8e059c29225da9e5acca7d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":220026877
         }
     ],
     "wof:id":220026877,
-    "wof:lastmodified":1473798588,
+    "wof:lastmodified":1496775738,
     "wof:name":"Bakers Bakery",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

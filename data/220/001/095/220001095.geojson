@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.719238,-36.919823,174.719238,-36.919823",
     "geom:latitude":-36.919823,
     "geom:longitude":174.719238,
@@ -34,29 +35,34 @@
     "sg:website":"http://www.verghese2000.cashevolution.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782439
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ICQgRHbNBMrCDnndRh8w4_-36.919823_174.719238@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1c72bc7d2646d9ac592f1c5a0d47e3af",
+    "wof:geomhash":"076ecfb040402afbec7e5f99012e07b5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782439,
+            "region_id":85687243,
             "venue_id":220001095
         }
     ],
     "wof:id":220001095,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496777147,
     "wof:name":"Cash options for u",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.40126,-39.417915,175.40126,-39.417915",
     "geom:latitude":-39.417915,
     "geom:longitude":175.40126,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914531,
+        102079297
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lY57mWug1nt3XA3y9L82F_-39.417915_175.401260@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a66e2f44f8d8d50394979dd1cf28a706",
+    "wof:geomhash":"83d2017022e562dd01535577513ca4a5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101914531,
+            "region_id":85687251,
             "venue_id":219994275
         }
     ],
     "wof:id":219994275,
-    "wof:lastmodified":1473798789,
+    "wof:lastmodified":1496776096,
     "wof:name":"Peach Cornwall Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.003021,-38.6534,178.003021,-38.6534",
     "geom:latitude":-38.6534,
     "geom:longitude":178.003021,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67kvaJzFLz9DlGBs0ywdlb_-38.653400_178.003021@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c0af4982dcc825a41f7f88b5c1b10444",
+    "wof:geomhash":"45fecffe40f96e694a8471b5c06b4680",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":202539521
         }
     ],
     "wof:id":202539521,
-    "wof:lastmodified":1473798693,
+    "wof:lastmodified":1496776122,
     "wof:name":"Osteopathic Health Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

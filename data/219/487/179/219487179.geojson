@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.527878,-45.898411,170.527878,-45.898411",
     "geom:latitude":-45.898411,
     "geom:longitude":170.527878,
@@ -23,29 +24,34 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85778125
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MPPgyW26dCQmLyUHwlTEC_-45.898411_170.527878@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0a775b551e9e6831a2cb20003c2f9c47",
+    "wof:geomhash":"14822d3b2e325f8ec25138b922287a55",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85778125,
+            "region_id":85687201,
             "venue_id":219487179
         }
     ],
     "wof:id":219487179,
-    "wof:lastmodified":1473798709,
+    "wof:lastmodified":1496775769,
     "wof:name":"St Brigid's",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

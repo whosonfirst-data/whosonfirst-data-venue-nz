@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.817566,-41.173225,174.817566,-41.173225",
     "geom:latitude":-41.173225,
     "geom:longitude":174.817566,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914575,
+        102079339,
+        85778565
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aqz5fypdAEgo764QMlfVf_-41.173225_174.817566@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"10bb3c496cbca5710f15e95a1347be9a",
+    "wof:geomhash":"2259f40a76135686c1c11385ee312be1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914575,
+            "neighbourhood_id":85778565,
+            "region_id":85687233,
             "venue_id":202706777
         }
     ],
     "wof:id":202706777,
-    "wof:lastmodified":1473798718,
+    "wof:lastmodified":1496776117,
     "wof:name":"Boing Boing Bouncy Castles",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

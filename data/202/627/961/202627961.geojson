@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.032974,-39.909245,175.032974,-39.909245",
     "geom:latitude":-39.909245,
     "geom:longitude":175.032974,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079299,
+        85781125
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OQCRRdjnS8AfMaN9vmA21_-39.909245_175.032974@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ca61dc2d05d56bf96893c5ef467a8c9e",
+    "wof:geomhash":"63d5486d8709afe0173ac981302fb3e0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781125,
+            "region_id":85687251,
             "venue_id":202627961
         }
     ],
     "wof:id":202627961,
-    "wof:lastmodified":1473798704,
+    "wof:lastmodified":1496776204,
     "wof:name":"Rapson John",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

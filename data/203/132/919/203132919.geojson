@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.838943,-44.943054,168.838943,-44.943054",
     "geom:latitude":-44.943054,
     "geom:longitude":168.838943,
@@ -36,27 +37,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915303,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z7TJLQGGeivsjdI75Qzxf_-44.943054_168.838943@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7409c7bf174f46184a071e7b6bedcc35",
+    "wof:geomhash":"fdfa23d3e42d4c3a6b1c5bcac932151b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":101915303,
+            "region_id":85687201,
             "venue_id":203132919
         }
     ],
     "wof:id":203132919,
-    "wof:lastmodified":1473798647,
+    "wof:lastmodified":1496776659,
     "wof:name":"Glenfoyle Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

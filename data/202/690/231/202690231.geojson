@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.94606,-45.105663,170.94606,-45.105663",
     "geom:latitude":-45.105663,
     "geom:longitude":170.94606,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15YJEWpIvWG3Wf2jAZrcPv_-45.105663_170.946060@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"01a28400fbf6a68e3ae3c61720cfa8f7",
+    "wof:geomhash":"ad7380de99ac125e69c0a66ab1fe9235",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":202690231
         }
     ],
     "wof:id":202690231,
-    "wof:lastmodified":1473798699,
+    "wof:lastmodified":1496776271,
     "wof:name":"Holmes Kindergarten",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

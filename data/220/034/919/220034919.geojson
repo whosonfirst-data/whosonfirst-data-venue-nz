@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.949509,-45.102627,170.949509,-45.102627",
     "geom:latitude":-45.102627,
     "geom:longitude":170.949509,
@@ -23,29 +24,33 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sZzaTDnVo1AiG9qvsVzLX_-45.102627_170.949509@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"07284bf46cd8986204772800248bc759",
+    "wof:geomhash":"efc610497cc4d7b67ef280c3e7411933",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":220034919
         }
     ],
     "wof:id":220034919,
-    "wof:lastmodified":1473798588,
+    "wof:lastmodified":1496776265,
     "wof:name":"The Homestead Caterers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

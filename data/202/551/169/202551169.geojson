@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.710785,-36.87812,174.710785,-36.87812",
     "geom:latitude":-36.87812,
     "geom:longitude":174.710785,
@@ -23,8 +24,10 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         85633345,
         85778729,
+        102079403,
         85778875
     ],
     "wof:breaches":[],
@@ -40,23 +43,23 @@
             "county_id":-1,
             "locality_id":-1,
             "neighbourhood_id":85778729,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202551169
         },
         {
             "continent_id":-1,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85778875,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202551169
         }
     ],
     "wof:id":202551169,
-    "wof:lastmodified":1473798685,
+    "wof:lastmodified":1491907297,
     "wof:name":"Pt Chevalier & Unitec Physiotherapy Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

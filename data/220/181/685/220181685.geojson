@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.412384,-42.36351,171.412384,-42.36351",
     "geom:latitude":-42.36351,
     "geom:longitude":171.412384,
@@ -30,27 +31,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101916655,
+        102079361
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HHzivTAjblwX6Dshvvdmb_-42.363510_171.412384@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c18c9982930a9ff2a3fe1629768ca9cb",
+    "wof:geomhash":"9b3ab70633aa5cdc9f6455d7fd95b71a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "locality_id":101916655,
+            "region_id":85687165,
             "venue_id":220181685
         }
     ],
     "wof:id":220181685,
-    "wof:lastmodified":1473798654,
+    "wof:lastmodified":1496776922,
     "wof:name":"Blackball Salami Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

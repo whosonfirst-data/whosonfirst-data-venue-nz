@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.657227,-43.545124,172.657227,-43.545124",
     "geom:latitude":-43.545124,
     "geom:longitude":172.657227,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781515
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0h9vw1znqMNBBfDBnh9Mc9_-43.545124_172.657227@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c6957e7cb7155df7889fabd079ce4afc",
+    "wof:geomhash":"99e7546f084f4b60cc58dec034b24037",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781515,
+            "region_id":85687179,
             "venue_id":202936127
         }
     ],
     "wof:id":202936127,
-    "wof:lastmodified":1473798747,
+    "wof:lastmodified":1496776084,
     "wof:name":"Exal Glasshouse Equipment Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

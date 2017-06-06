@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.900436,-41.288494,174.900436,-41.288494",
     "geom:latitude":-41.288494,
     "geom:longitude":174.900436,
@@ -23,27 +24,30 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914345,
+        102079337
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AhwJCEZAgWnDs7jZMFLRa_-41.288494_174.900436@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bdbe3807bcf51bc4949a251f80d562a5",
+    "wof:geomhash":"17f02dcaa37b91a17e994cfde9ef90dd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914345,
+            "region_id":85687233,
             "venue_id":169581543
         }
     ],
     "wof:id":169581543,
-    "wof:lastmodified":1473798591,
+    "wof:lastmodified":1496775907,
     "wof:name":"G & L Antiques",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

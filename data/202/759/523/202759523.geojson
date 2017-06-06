@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.226746,-37.678024,176.226746,-37.678024",
     "geom:latitude":-37.678024,
     "geom:longitude":176.226746,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85781333
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54hWRfIMTahELxYMqesRWR_-37.678024_176.226746@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e99d8626e70ad61896f319710706ffc9",
+    "wof:geomhash":"e40f497777cf607a65ec4585e32ed52d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781333,
+            "region_id":85687175,
             "venue_id":202759523
         }
     ],
     "wof:id":202759523,
-    "wof:lastmodified":1473798726,
+    "wof:lastmodified":1496776800,
     "wof:name":"Metlifecare",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

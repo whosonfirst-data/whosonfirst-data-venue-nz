@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.982758,-40.892197,174.982758,-40.892197",
     "geom:latitude":-40.892197,
     "geom:longitude":174.982758,
@@ -24,27 +25,30 @@
     "sg:website":"http://www.paraparaumubeachgolfclub.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DFYuh7iBZThdba9bSZHtv_-40.892197_174.982758@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7395f8a546637eb978309f653efb6a5f",
+    "wof:geomhash":"2028fcff2d5591fb9005715e89580900",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":185883781
         }
     ],
     "wof:id":185883781,
-    "wof:lastmodified":1473798630,
+    "wof:lastmodified":1496776177,
     "wof:name":"Paraparaumu Beach Golf Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

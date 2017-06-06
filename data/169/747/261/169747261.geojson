@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.957275,-41.522724,173.957275,-41.522724",
     "geom:latitude":-41.522724,
     "geom:longitude":173.957275,
@@ -23,29 +24,34 @@
     "sg:province":"Marlborough",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101915709,
+        102079353,
+        85781697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2c75lnangjxDhHpRx2fmXK_-41.522724_173.957275@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cf61b9b11ef8b9467182174a3ccaf0f6",
+    "wof:geomhash":"17c8c9dc983619cab51425b8ecbda95d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101915709,
+            "neighbourhood_id":85781697,
+            "region_id":85687185,
             "venue_id":169747261
         }
     ],
     "wof:id":169747261,
-    "wof:lastmodified":1473798619,
+    "wof:lastmodified":1496776832,
     "wof:name":"Tip Top Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

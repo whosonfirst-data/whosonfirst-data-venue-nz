@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.271957,-37.735184,175.271957,-37.735184",
     "geom:latitude":-37.735184,
     "geom:longitude":175.271957,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
+        101914271,
+        102079271,
         85781849
     ],
     "wof:breaches":[],
@@ -43,20 +47,20 @@
         "sg:id":"SG_7gg3X2bvqC8DnuYUFOhj5m_-37.735184_175.271957@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"44754be784fc77d680e6674949447c33",
+    "wof:geomhash":"1051e1f56e682b944f96d67c9cefea39",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079271,
+            "locality_id":101914271,
             "neighbourhood_id":85781849,
-            "region_id":-1,
+            "region_id":85687229,
             "venue_id":186007159
         }
     ],
     "wof:id":186007159,
-    "wof:lastmodified":1473798551,
+    "wof:lastmodified":1496775781,
     "wof:name":"Salisbury Warren",
     "wof:parent_id":85781849,
     "wof:placetype":"venue",

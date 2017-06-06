@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.75621,-37.980274,175.75621,-37.980274",
     "geom:latitude":-37.980274,
     "geom:longitude":175.75621,
@@ -23,27 +24,30 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101916583,
+        102079277
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xm3kKZwFQHE0W9UCAAvGL_-37.980274_175.756210@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c297f763491ba09bfc19cee7aa7d33db",
+    "wof:geomhash":"b857d2508f44ab21e1df23109ba55923",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":101916583,
+            "region_id":85687229,
             "venue_id":169583883
         }
     ],
     "wof:id":169583883,
-    "wof:lastmodified":1473798585,
+    "wof:lastmodified":1496776919,
     "wof:name":"Oxford Court Antique Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

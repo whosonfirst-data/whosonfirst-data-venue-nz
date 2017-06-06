@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.663116,-36.919594,174.663116,-36.919594",
     "geom:latitude":-36.919594,
     "geom:longitude":174.663116,
@@ -33,29 +34,31 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85779015,
+        102191583,
+        85633345,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1asvGVFY8kuCfvS5NweAIH_-36.919594_174.663116@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"94d81b7da6662c6d52e598eac4e45bad",
+    "wof:geomhash":"d1f675f6867f69bf7cefd3a35d59505b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85779015,
+            "region_id":85687243,
             "venue_id":185831189
         }
     ],
     "wof:id":185831189,
-    "wof:lastmodified":1473798625,
+    "wof:lastmodified":1496775478,
     "wof:name":"A Bridge To Music",
-    "wof:parent_id":-1,
+    "wof:parent_id":85779015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

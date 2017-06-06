@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.621017,-45.849312,170.621017,-45.849312",
     "geom:latitude":-45.849312,
     "geom:longitude":170.621017,
@@ -23,27 +24,30 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101916089,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1544E3eY2fqILLNHqdw9jY_-45.849312_170.621017@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c3813c798460bab67ab03f22437f3fb5",
+    "wof:geomhash":"2279ae2082e46c56f9b7ef394c4b987d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101916089,
+            "region_id":85687201,
             "venue_id":169580459
         }
     ],
     "wof:id":169580459,
-    "wof:lastmodified":1473798584,
+    "wof:lastmodified":1496776884,
     "wof:name":"Broad Bay China",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

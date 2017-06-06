@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.867416,-37.220547,175.867416,-37.220547",
     "geom:latitude":-37.220547,
     "geom:longitude":175.867416,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-865 9015",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915149,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Q8YxCajTd7V0Ch23f4Y5F_-37.220547_175.867416@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9a048bb47e2b612dc917dd7dde710e82",
+    "wof:geomhash":"e2ce6c0323ef03e89b29c42b795ae0c0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101915149,
+            "region_id":85687229,
             "venue_id":186402045
         }
     ],
     "wof:id":186402045,
-    "wof:lastmodified":1473798767,
+    "wof:lastmodified":1496776584,
     "wof:name":"The Skimmer Valve Company 2001 Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

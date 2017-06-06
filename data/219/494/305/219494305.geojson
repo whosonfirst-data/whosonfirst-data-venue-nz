@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.722443,-36.780952,174.722443,-36.780952",
     "geom:latitude":-36.780952,
     "geom:longitude":174.722443,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06YtjescE990XQNgcCFycm_-36.780952_174.722443@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c04822879ed955638666f551b068dd1b",
+    "wof:geomhash":"a1e2c6f0ae2b680f3605db3675455b24",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782397,
+            "region_id":85687243,
             "venue_id":219494305
         }
     ],
     "wof:id":219494305,
-    "wof:lastmodified":1473798710,
+    "wof:lastmodified":1496777144,
     "wof:name":"Glenfield Leisure Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

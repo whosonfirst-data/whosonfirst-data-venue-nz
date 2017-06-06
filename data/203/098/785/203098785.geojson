@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.863937,-41.140079,174.863937,-41.140079",
     "geom:latitude":-41.140079,
     "geom:longitude":174.863937,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914925,
+        102079317,
+        85780853
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xOodpsLuPJQj58PzhEfKg_-41.140079_174.863937@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0b55f640fd4388d870a5291b4156d1f8",
+    "wof:geomhash":"d30203ce88153d428ae626a0ae6b89c4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
+            "locality_id":101914925,
+            "neighbourhood_id":85780853,
+            "region_id":85687233,
             "venue_id":203098785
         }
     ],
     "wof:id":203098785,
-    "wof:lastmodified":1473798635,
+    "wof:lastmodified":1496776414,
     "wof:name":"Te Roopu Whakapakari Ora Trust",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780853,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

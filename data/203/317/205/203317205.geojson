@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.849503,-46.326347,168.849503,-46.326347",
     "geom:latitude":-46.326347,
     "geom:longitude":168.849503,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101916021,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PSkFNlXNLYfqJLiC51PtT_-46.326347_168.849503@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b069422a4fefc754a69a99a6268dfff7",
+    "wof:geomhash":"6555652d37daacc25530b6a3e16b4310",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101916021,
+            "region_id":85687211,
             "venue_id":203317205
         }
     ],
     "wof:id":203317205,
-    "wof:lastmodified":1473798678,
+    "wof:lastmodified":1496776878,
     "wof:name":"Active Handz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

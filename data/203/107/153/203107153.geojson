@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.758499,-40.286072,175.758499,-40.286072",
     "geom:latitude":-40.286072,
     "geom:longitude":175.758499,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101915881,
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bl8NWJOcKTEUxWS9rH0XA_-40.286072_175.758499@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8eb16cb891e793abc6e24dc4f5a84f03",
+    "wof:geomhash":"0edbeb7092da7aa463ed3108cdbd58fc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101915881,
+            "region_id":85687251,
             "venue_id":203107153
         }
     ],
     "wof:id":203107153,
-    "wof:lastmodified":1473798628,
+    "wof:lastmodified":1496776857,
     "wof:name":"Extraeye Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

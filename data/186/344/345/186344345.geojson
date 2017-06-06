@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.873077,-37.801029,174.873077,-37.801029",
     "geom:latitude":-37.801029,
     "geom:longitude":174.873077,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915335,
+        102079265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HsWVdwAeFvjhcTATkoA8J_-37.801029_174.873077@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a870f2152d4a28e7e9fcff31d52af21d",
+    "wof:geomhash":"27de009b08a30ff14f086579f3534037",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101915335,
+            "region_id":85687229,
             "venue_id":186344345
         }
     ],
     "wof:id":186344345,
-    "wof:lastmodified":1473798735,
+    "wof:lastmodified":1496776667,
     "wof:name":"Tom Jowsey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

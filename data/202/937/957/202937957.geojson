@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.662277,-36.886524,174.662277,-36.886524",
     "geom:latitude":-36.886524,
     "geom:longitude":174.662277,
@@ -23,8 +24,10 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        102079403,
         85780905
     ],
     "wof:breaches":[],
@@ -37,15 +40,15 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85780905,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202937957
         }
     ],
     "wof:id":202937957,
-    "wof:lastmodified":1473798759,
+    "wof:lastmodified":1491889561,
     "wof:name":"Masterchem Manufacturing Ltd",
     "wof:parent_id":85780905,
     "wof:placetype":"venue",

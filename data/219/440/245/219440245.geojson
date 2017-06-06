@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.693527,-43.504063,172.693527,-43.504063",
     "geom:latitude":-43.504063,
     "geom:longitude":172.693527,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778761
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64J3EksxrCv5oOH3M4gxhP_-43.504063_172.693527@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"73e541420b3c6b62b14a1b77bc99e18a",
+    "wof:geomhash":"3edc32b74ba373e47810cd18e88d3d7b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778761,
+            "region_id":85687179,
             "venue_id":219440245
         }
     ],
     "wof:id":219440245,
-    "wof:lastmodified":1473798735,
+    "wof:lastmodified":1496776025,
     "wof:name":"Corrigan School of Motoring",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.886505,-41.223904,174.886505,-41.223904",
     "geom:latitude":-41.223904,
     "geom:longitude":174.886505,
@@ -33,30 +34,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
+        102191583,
         85633345,
-        85782489
+        102079337,
+        85782489,
+        101914411,
+        85780825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_349gWTN3cjiIEjQ0Dj6E74_-41.223904_174.886505@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"406e2e0383aacaf5c68fe56cf9b860ba",
+    "wof:geomhash":"97af556f6d36f05c68ef8902967520eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079337,
             "locality_id":-1,
             "neighbourhood_id":85782489,
-            "region_id":-1,
+            "region_id":85687233,
+            "venue_id":236013789
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914411,
+            "neighbourhood_id":85780825,
+            "region_id":85687233,
             "venue_id":236013789
         }
     ],
     "wof:id":236013789,
-    "wof:lastmodified":1473798557,
+    "wof:lastmodified":1496775951,
     "wof:name":"Golden Horse Takeaway",
-    "wof:parent_id":85782489,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

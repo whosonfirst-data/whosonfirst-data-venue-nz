@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.0215,-39.928009,175.0215,-39.928009",
     "geom:latitude":-39.928009,
     "geom:longitude":175.0215,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914639,
+        102079299,
+        85781145
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PtGxBdUHci43W3R6BkNA4_-39.928009_175.021500@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"17310c32920420390b737711f60652e1",
+    "wof:geomhash":"4db13d5966822d6e946564c1e7916711",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":101914639,
+            "neighbourhood_id":85781145,
+            "region_id":85687251,
             "venue_id":186003875
         }
     ],
     "wof:id":186003875,
-    "wof:lastmodified":1473798551,
+    "wof:lastmodified":1496776209,
     "wof:name":"Matheson M A",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

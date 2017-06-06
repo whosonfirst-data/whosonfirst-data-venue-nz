@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.599869,-43.496452,172.599869,-43.496452",
     "geom:latitude":-43.496452,
     "geom:longitude":172.599869,
@@ -33,8 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778211
     ],
     "wof:brand_id":420574763,
     "wof:breaches":[],
@@ -42,21 +47,22 @@
         "sg:id":"SG_12QHoTsgNBzR0lsLMjUtyX_-43.496452_172.599869@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ea2ca7ea94c97cc4936b20bcee6fb2f4",
+    "wof:geomhash":"bcfa9a88d7b6645e47129be29c5357e6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778211,
+            "region_id":85687179,
             "venue_id":219397413
         }
     ],
     "wof:id":219397413,
-    "wof:lastmodified":1473798732,
+    "wof:lastmodified":1496776021,
     "wof:name":"Flight Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

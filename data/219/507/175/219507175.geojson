@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.863815,-37.028355,175.863815,-37.028355",
     "geom:latitude":-37.028355,
     "geom:longitude":175.863815,
@@ -30,27 +31,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914277,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25dwdRIys62e8sQQPyvGcU_-37.028355_175.863815@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2e0a8a975948b455f68dc6f930f1f687",
+    "wof:geomhash":"d89ed8ec5af137e237d3bdce1d122bc5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101914277,
+            "region_id":85687229,
             "venue_id":219507175
         }
     ],
     "wof:id":219507175,
-    "wof:lastmodified":1473798722,
+    "wof:lastmodified":1496775789,
     "wof:name":"Matataki New Zealand Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

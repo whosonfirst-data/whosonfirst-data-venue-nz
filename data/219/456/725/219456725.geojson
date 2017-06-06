@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.702591,-36.896118,174.702591,-36.896118",
     "geom:latitude":-36.896118,
     "geom:longitude":174.702591,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778529
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mzuOqHUnNKH1WPldxw2GV_-36.896118_174.702591@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"eb6dbc871a71f0ceaf80ac54007bf5cf",
+    "wof:geomhash":"1524bfaf258323141d1e96b6cdcaeb38",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778529,
+            "region_id":85687243,
             "venue_id":219456725
         }
     ],
     "wof:id":219456725,
-    "wof:lastmodified":1473798719,
+    "wof:lastmodified":1496775409,
     "wof:name":"GEMACD Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

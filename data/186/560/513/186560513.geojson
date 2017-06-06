@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.154099,-39.028427,174.154099,-39.028427",
     "geom:latitude":-39.028427,
     "geom:longitude":174.154099,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687195,
+        102191583,
+        85633345,
+        101915837,
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XT6DbfQV062s5hoKkXZKt_-39.028427_174.154099@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3183a066cf5966a1604b0d15963a1b5d",
+    "wof:geomhash":"d3e70e3b6b0342168ebf015346afd014",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101915837,
+            "region_id":85687195,
             "venue_id":186560513
         }
     ],
     "wof:id":186560513,
-    "wof:lastmodified":1473798766,
+    "wof:lastmodified":1496776847,
     "wof:name":"High Voltage Sun Shack",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

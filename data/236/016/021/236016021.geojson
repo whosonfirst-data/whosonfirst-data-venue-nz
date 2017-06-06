@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.238312,-38.119747,176.238312,-38.119747",
     "geom:latitude":-38.119747,
     "geom:longitude":176.238312,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        101914727,
+        101914629,
+        102079289,
         85773009
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_3ronLjAqDb2lLaXdFsgzug_-38.119747_176.238312@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bc02177a6378546e95671a94b1405d77",
+    "wof:geomhash":"59ca50c28cea14ca8627cec50898d789",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914727,
+            "county_id":102079289,
+            "locality_id":101914629,
             "neighbourhood_id":85773009,
-            "region_id":-1,
+            "region_id":85687175,
             "venue_id":236016021
         }
     ],
     "wof:id":236016021,
-    "wof:lastmodified":1473798561,
+    "wof:lastmodified":1496776159,
     "wof:name":"Koutu Fish Shop",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",

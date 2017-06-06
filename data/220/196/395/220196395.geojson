@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.368683,-46.407368,168.368683,-46.407368",
     "geom:latitude":-46.407368,
     "geom:longitude":168.368683,
@@ -23,29 +24,34 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tf9G4O4eORs5RxlucT5Bv_-46.407368_168.368683@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"406ce75a1f5a70978ad297e849345860",
+    "wof:geomhash":"e5544dc6974d01d9580c5a77fd08f6f9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781519,
+            "region_id":85687211,
             "venue_id":220196395
         }
     ],
     "wof:id":220196395,
-    "wof:lastmodified":1473798633,
+    "wof:lastmodified":1496776722,
     "wof:name":"Southlamb Gourmet Meats",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

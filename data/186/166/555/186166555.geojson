@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.595367,-40.375809,175.595367,-40.375809",
     "geom:latitude":-40.375809,
     "geom:longitude":175.595367,
@@ -23,29 +24,34 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85781231
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6o2qDQkQ15H5WgBSHEKmyD_-40.375809_175.595367@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"be277a4f2fdaf91d26ac8e9539b6aed0",
+    "wof:geomhash":"4b5b4db2b1f55401db26acf5be7734b5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85781231,
+            "region_id":85687251,
             "venue_id":186166555
         }
     ],
     "wof:id":186166555,
-    "wof:lastmodified":1473798671,
+    "wof:lastmodified":1496775739,
     "wof:name":"David Napier & Associates Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

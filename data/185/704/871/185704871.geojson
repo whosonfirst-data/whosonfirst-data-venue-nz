@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.776154,-41.333443,174.776154,-41.333443",
     "geom:latitude":-41.333443,
     "geom:longitude":174.776154,
@@ -36,8 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
+        102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85772975
     ],
     "wof:breaches":[],
@@ -45,20 +49,20 @@
         "sg:id":"SG_10QqitRov2ngJIWkmF7DGI_-41.333443_174.776154@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a5b894322d3384c3179a709aa9fc9910",
+    "wof:geomhash":"59cb6e3eb80f031f88cc45f80dda779e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85772975,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":185704871
         }
     ],
     "wof:id":185704871,
-    "wof:lastmodified":1473798606,
+    "wof:lastmodified":1496775823,
     "wof:name":"Erskine",
     "wof:parent_id":85772975,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.892715,-39.677677,176.892715,-39.677677",
     "geom:latitude":-39.677677,
     "geom:longitude":176.892715,
@@ -23,27 +24,30 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914661,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6S1tUB8ubLCC6vSgSQeHZv_-39.677677_176.892715@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"956df3259536548bdf19e402a46b2bac",
+    "wof:geomhash":"f2f32833b0e0820c462db978f065cb3e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914661,
+            "region_id":85687189,
             "venue_id":186198785
         }
     ],
     "wof:id":186198785,
-    "wof:lastmodified":1473798716,
+    "wof:lastmodified":1496776232,
     "wof:name":"Tools Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

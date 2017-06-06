@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.714691,-36.801838,174.714691,-36.801838",
     "geom:latitude":-36.801838,
     "geom:longitude":174.714691,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781717
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NkYCkvE6yRr4W06QBC7kW_-36.801838_174.714691@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"505e706d8d0e09b5fc65d8e0eedc6839",
+    "wof:geomhash":"f1c3c34b9147dc33985a017b48969001",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781717,
+            "region_id":85687243,
             "venue_id":186641143
         }
     ],
     "wof:id":186641143,
-    "wof:lastmodified":1473798771,
+    "wof:lastmodified":1496775534,
     "wof:name":"Masoos Corporate Massage",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

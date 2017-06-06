@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.713196,-45.48402,170.713196,-45.48402",
     "geom:latitude":-45.48402,
     "geom:longitude":170.713196,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-465 1291",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915761,
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63PLa6Y2rzKGRPlACxdujp_-45.484020_170.713196@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"497fffea251891f6156ad943895af8f1",
+    "wof:geomhash":"9a1df285fcaf7a88e12c3dbbecd7bd71",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101915761,
+            "region_id":85687179,
             "venue_id":185897603
         }
     ],
     "wof:id":185897603,
-    "wof:lastmodified":1473798633,
+    "wof:lastmodified":1496776842,
     "wof:name":"Palmerston Veterinary Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

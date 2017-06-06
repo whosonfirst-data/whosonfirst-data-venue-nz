@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"169.73999,-46.240398,169.73999,-46.240398",
     "geom:latitude":-46.240398,
     "geom:longitude":169.73999,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-418 2166",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914847,
+        102079389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jFXGDecRBGSjJY4aTAXLp_-46.240398_169.739990@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d251d376195e338bd74b6c43cfa353d1",
+    "wof:geomhash":"b439a59cf4bc62531dd3631786868994",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":101914847,
+            "region_id":85687201,
             "venue_id":202577537
         }
     ],
     "wof:id":202577537,
-    "wof:lastmodified":1473798692,
+    "wof:lastmodified":1496776358,
     "wof:name":"Clutha Ceramics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

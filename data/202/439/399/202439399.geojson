@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.720901,-36.78286,174.720901,-36.78286",
     "geom:latitude":-36.78286,
     "geom:longitude":174.720901,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CnAf8fpDoQNPFwySEXZHJ_-36.782860_174.720901@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"254d38499a9b0bdc5152c67ef2608777",
+    "wof:geomhash":"7999f20d5f642c1fb46a3acfbc0a5f40",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782397,
+            "region_id":85687243,
             "venue_id":202439399
         }
     ],
     "wof:id":202439399,
-    "wof:lastmodified":1473798627,
+    "wof:lastmodified":1496777101,
     "wof:name":"Glenfield Optometrist",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

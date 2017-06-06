@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.599243,-40.34808,175.599243,-40.34808",
     "geom:latitude":-40.34808,
     "geom:longitude":175.599243,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_0Eza2kbLC13hv868Uv9EjA_-40.348080_175.599243@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ecabdf22d56c8e1321baca7326deec90",
+    "wof:geomhash":"434db84bb2cf1b2568a6315b1fda01dd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":186644839
         }
     ],
     "wof:id":186644839,
-    "wof:lastmodified":1473798773,
+    "wof:lastmodified":1496775731,
     "wof:name":"Bowen & Aromatherapy Clinic",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

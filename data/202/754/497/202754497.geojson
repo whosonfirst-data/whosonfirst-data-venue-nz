@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.02887,-39.922337,175.02887,-39.922337",
     "geom:latitude":-39.922337,
     "geom:longitude":175.02887,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914639,
+        102079299,
+        85781145
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jTMpJzhvIFDRr7Bj9yXdC_-39.922337_175.028870@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8224310b7e4086c19391839bc74c9cfc",
+    "wof:geomhash":"892b2f06dc02d5ab6039253460dc13f3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":101914639,
+            "neighbourhood_id":85781145,
+            "region_id":85687251,
             "venue_id":202754497
         }
     ],
     "wof:id":202754497,
-    "wof:lastmodified":1473798719,
+    "wof:lastmodified":1496776204,
     "wof:name":"Wattle Downs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

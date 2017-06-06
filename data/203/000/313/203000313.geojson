@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.482773,-45.885586,170.482773,-45.885586",
     "geom:latitude":-45.885586,
     "geom:longitude":170.482773,
@@ -23,29 +24,33 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        102079387,
+        85778177
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aCNMLYAJ8Z5UJtFqlUsh8_-45.885586_170.482773@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"251dbdd8de576a9b591e6bcb9e573a95",
+    "wof:geomhash":"0abc75dfe7d74fb78de8be3c4ac1b4ef",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778177,
+            "region_id":85687201,
             "venue_id":203000313
         }
     ],
     "wof:id":203000313,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496775770,
     "wof:name":"David Baird Tree Advocate",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

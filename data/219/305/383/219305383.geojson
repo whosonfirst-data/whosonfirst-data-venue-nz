@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.767899,-36.910172,174.767899,-36.910172",
     "geom:latitude":-36.910172,
     "geom:longitude":174.767899,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914257,
+        102079403,
         85778583
     ],
     "wof:breaches":[],
@@ -43,20 +47,20 @@
         "sg:id":"SG_3A9I4QeZaNOHwDktvoI2kS_-36.910172_174.767899@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6e399df35d8d807e3f21d861c737c808",
+    "wof:geomhash":"79f473e418bfbd7c82fae54bb1f0d378",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914257,
             "neighbourhood_id":85778583,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":219305383
         }
     ],
     "wof:id":219305383,
-    "wof:lastmodified":1473798677,
+    "wof:lastmodified":1496775656,
     "wof:name":"Willow Lodge",
     "wof:parent_id":85778583,
     "wof:placetype":"venue",

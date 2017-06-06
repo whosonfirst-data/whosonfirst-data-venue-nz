@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.365067,-46.398575,168.365067,-46.398575",
     "geom:latitude":-46.398575,
     "geom:longitude":168.365067,
@@ -24,29 +25,33 @@
     "sg:website":"http://www.yellowpages.co.nz/for/windsorflorist/dp9819.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EoUVtyqXZdnJjU7DdtZXz_-46.398575_168.365067@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c123e970c5750498718dacf4bec885e3",
+    "wof:geomhash":"79be3bf460a4c8e7c65e1441ffa4787e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781555,
+            "region_id":85687211,
             "venue_id":169671565
         }
     ],
     "wof:id":169671565,
-    "wof:lastmodified":1473798618,
+    "wof:lastmodified":1496776720,
     "wof:name":"Windsor Florist",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.845642,-36.952381,174.845642,-36.952381",
     "geom:latitude":-36.952381,
     "geom:longitude":174.845642,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914651,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fbQ4XJCNuFQ8Cp63X9aXX_-36.952381_174.845642@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5038a4fdccd58175178c120ee493007d",
+    "wof:geomhash":"b69076d1fbb735cd6ab3e70524bd24a4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914651,
+            "region_id":85687243,
             "venue_id":219669789
         }
     ],
     "wof:id":219669789,
-    "wof:lastmodified":1473798790,
+    "wof:lastmodified":1496776224,
     "wof:name":"LWT (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

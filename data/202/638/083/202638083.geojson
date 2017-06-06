@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.857361,-38.208168,175.857361,-38.208168",
     "geom:latitude":-38.208168,
     "geom:longitude":175.857361,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914547,
+        102079277
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0J190235vSVXdc0ATDgden_-38.208168_175.857361@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"098c1128496708d592f2ed19d36d2475",
+    "wof:geomhash":"12caef0ad83b3a8dcdd9edd0fec61690",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":101914547,
+            "region_id":85687229,
             "venue_id":202638083
         }
     ],
     "wof:id":202638083,
-    "wof:lastmodified":1473798704,
+    "wof:lastmodified":1496776102,
     "wof:name":"Galen House Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

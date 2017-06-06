@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.917648,-36.893597,174.917648,-36.893597",
     "geom:latitude":-36.893597,
     "geom:longitude":174.917648,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lZdAQXrlEOzlnVhNOGTlB_-36.893597_174.917648@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"29084e3d65321e4040c1340f2d8ed005",
+    "wof:geomhash":"992d26149434c0bd4471f480ef8c5dac",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778927,
+            "region_id":85687243,
             "venue_id":186004375
         }
     ],
     "wof:id":186004375,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496775493,
     "wof:name":"Melville Trevor JP",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

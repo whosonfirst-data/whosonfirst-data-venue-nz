@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.962906,-43.809879,172.962906,-43.809879",
     "geom:latitude":-43.809879,
     "geom:longitude":172.962906,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101916237,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39XPR0UjZgG9oWbXBePOLi_-43.809879_172.962906@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"105ea6604acb54dd5bc90ba061f717a8",
+    "wof:geomhash":"f6646f61edba7fec3e638dde7940e861",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101916237,
+            "region_id":85687179,
             "venue_id":203176723
         }
     ],
     "wof:id":203176723,
-    "wof:lastmodified":1473798653,
+    "wof:lastmodified":1496776893,
     "wof:name":"Akaroa Laundry Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

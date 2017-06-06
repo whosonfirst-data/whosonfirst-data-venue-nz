@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.674408,-40.942753,175.674408,-40.942753",
     "geom:latitude":-40.942753,
     "geom:longitude":175.674408,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079343,
+        85780973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24S9he1w9FpTp54uB2HUjr_-40.942753_175.674408@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"48d8e6e99d5035a3954ab947f2b395ee",
+    "wof:geomhash":"c6920773301713f244ec59114a0d9f1b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780973,
+            "region_id":85687233,
             "venue_id":202691447
         }
     ],
     "wof:id":202691447,
-    "wof:lastmodified":1473798707,
+    "wof:lastmodified":1496776775,
     "wof:name":"Kindergarten Wairarapa Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

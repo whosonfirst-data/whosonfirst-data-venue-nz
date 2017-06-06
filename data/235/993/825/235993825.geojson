@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.777786,-37.81144,175.777786,-37.81144",
     "geom:latitude":-37.81144,
     "geom:longitude":175.777786,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915135,
+        102079267
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Jot0cVqsCiv9gwX4yzRsu_-37.811440_175.777786@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e21756add0fd4379e10795f83ff51246",
+    "wof:geomhash":"c49c81719618dcf995af64a420f99f72",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101915135,
+            "region_id":85687229,
             "venue_id":235993825
         }
     ],
     "wof:id":235993825,
-    "wof:lastmodified":1473798584,
+    "wof:lastmodified":1496776549,
     "wof:name":"DK's Burger Bar",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

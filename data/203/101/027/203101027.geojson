@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.317062,-38.012035,175.317062,-38.012035",
     "geom:latitude":-38.012035,
     "geom:longitude":175.317062,
@@ -35,8 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
+        101914417,
+        102079273,
         85782893
     ],
     "wof:breaches":[],
@@ -44,20 +48,20 @@
         "sg:id":"SG_4hFeqVATwmT66TIHa4sxb5_-38.012035_175.317062@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"059cdfc09d229c6f918d61e45663c8a4",
+    "wof:geomhash":"f3cee71c07201d980761eca2126109c2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079273,
+            "locality_id":101914417,
             "neighbourhood_id":85782893,
-            "region_id":-1,
+            "region_id":85687229,
             "venue_id":203101027
         }
     ],
     "wof:id":203101027,
-    "wof:lastmodified":1473798624,
+    "wof:lastmodified":1496775957,
     "wof:name":"Te Ata Services For The Elderly",
     "wof:parent_id":85782893,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.721588,-43.602547,172.721588,-43.602547",
     "geom:latitude":-43.602547,
     "geom:longitude":172.721588,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914667,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xFajSyBaoljvpEKQHGDQq_-43.602547_172.721588@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"26d29063e25ccac915af2916609db48f",
+    "wof:geomhash":"9db7d5ebddf461b1ea496d6fcdc3cb22",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914667,
+            "region_id":85687179,
             "venue_id":185707235
         }
     ],
     "wof:id":185707235,
-    "wof:lastmodified":1473798598,
+    "wof:lastmodified":1496776246,
     "wof:name":"Harbour Light Entertainment & Function Venue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.364349,-46.407166,168.364349,-46.407166",
     "geom:latitude":-46.407166,
     "geom:longitude":168.364349,
@@ -36,29 +37,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49abHOkKKhbYpnJeCzCZlQ_-46.407166_168.364349@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"afd96cdedc5f607e9e0709d3e45c3d33",
+    "wof:geomhash":"180056a545d1235ef968e82a2e3707e3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781555,
+            "region_id":85687211,
             "venue_id":203126609
         }
     ],
     "wof:id":203126609,
-    "wof:lastmodified":1473798634,
+    "wof:lastmodified":1496776728,
     "wof:name":"A Grooming Room",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

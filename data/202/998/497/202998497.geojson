@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.7724,-41.253483,174.7724,-41.253483",
     "geom:latitude":-41.253483,
     "geom:longitude":174.7724,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85773055
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fbD3D0us13VdYddre42Zo_-41.253483_174.772400@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"35deabe6021bf8d5a8c91410a54c857b",
+    "wof:geomhash":"f6e7f5db9997dfa27599baaf5b69db52",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85773055,
+            "region_id":85687233,
             "venue_id":202998497
         }
     ],
     "wof:id":202998497,
-    "wof:lastmodified":1473798760,
+    "wof:lastmodified":1496775804,
     "wof:name":"Arborist Howard Watson",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

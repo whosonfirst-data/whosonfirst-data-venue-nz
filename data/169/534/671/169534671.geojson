@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.746002,-36.864719,174.746002,-36.864719",
     "geom:latitude":-36.864719,
     "geom:longitude":174.746002,
@@ -31,8 +32,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914397,
+        102079403,
+        85778131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,18 +47,19 @@
     "wof:geomhash":"fd4ee714040214b28a3d99b3c978b4ae",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914397,
+            "neighbourhood_id":85778131,
+            "region_id":85687243,
             "venue_id":169534671
         }
     ],
     "wof:id":169534671,
-    "wof:lastmodified":1473798555,
+    "wof:lastmodified":1491908527,
     "wof:name":"Freedom Television Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.875076,-41.221291,174.875076,-41.221291",
     "geom:latitude":-41.221291,
     "geom:longitude":174.875076,
@@ -23,10 +24,11 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85633345,
-        85782489,
+        85687233,
         102191583,
-        101914741,
+        85633345,
+        102079337,
+        85782489,
         85773005
     ],
     "wof:breaches":[],
@@ -34,31 +36,31 @@
         "sg:id":"SG_1JFVMFTkWr6sGGZMWtGJ6D_-41.221291_174.875076@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f9fcab852123da1cb0493ab20a8bbd07",
+    "wof:geomhash":"876f3796bfd01316ec9ca8d63d3be381",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079337,
             "locality_id":-1,
             "neighbourhood_id":85782489,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":219250661
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914741,
+            "county_id":102079337,
+            "locality_id":-1,
             "neighbourhood_id":85773005,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":219250661
         }
     ],
     "wof:id":219250661,
-    "wof:lastmodified":1473798660,
+    "wof:lastmodified":1496775950,
     "wof:name":"TNL Freighting",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

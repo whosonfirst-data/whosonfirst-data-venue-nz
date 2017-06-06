@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"167.722687,-45.4203,167.722687,-45.4203",
     "geom:latitude":-45.4203,
     "geom:longitude":167.722687,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101914801,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pEIP8KC8LxhwsFRHNGSrM_-45.420300_167.722687@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1bc99a0b6fcde2549a5cd57674ad414e",
+    "wof:geomhash":"4548b8478d759f818c0b4055408ebd8c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101914801,
+            "region_id":85687211,
             "venue_id":185664817
         }
     ],
     "wof:id":185664817,
-    "wof:lastmodified":1473798583,
+    "wof:lastmodified":1496776346,
     "wof:name":"Bev's Tramping Gear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.302368,-40.628624,175.302368,-40.628624",
     "geom:latitude":-40.628624,
     "geom:longitude":175.302368,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914363,
+        102079313
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iHl3xgkaXwO2i58fwiePk_-40.628624_175.302368@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b4ebfbaae9d12e02a1d23171cd284991",
+    "wof:geomhash":"628de35dfad3645a9a60c07cb7b1c65b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":101914363,
+            "region_id":85687251,
             "venue_id":219968169
         }
     ],
     "wof:id":219968169,
-    "wof:lastmodified":1473798789,
+    "wof:lastmodified":1496775921,
     "wof:name":"AllFarms Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

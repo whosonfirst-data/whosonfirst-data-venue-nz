@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.69133,-43.520119,172.69133,-43.520119",
     "geom:latitude":-43.520119,
     "geom:longitude":172.69133,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68qFeqDiqhdJD7KfbJnrxZ_-43.520119_172.691330@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5aee5bf3286b44e9baf31fba6326f67d",
+    "wof:geomhash":"cbb8ae0285b272759a0724a72d66656a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778711,
+            "region_id":85687179,
             "venue_id":219774011
         }
     ],
     "wof:id":219774011,
-    "wof:lastmodified":1473798774,
+    "wof:lastmodified":1496776057,
     "wof:name":"J R Little",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

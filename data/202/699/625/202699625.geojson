@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.584961,-40.374153,175.584961,-40.374153",
     "geom:latitude":-40.374153,
     "geom:longitude":175.584961,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780841
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_205GpsrDfgKJLRE6WnTywS_-40.374153_175.584961@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e04dcc0436aa9498bde825933579a212",
+    "wof:geomhash":"66fad7e4c1b0200fb9100abc3ca65758",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780841,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":202699625
         }
     ],
     "wof:id":202699625,
-    "wof:lastmodified":1473798712,
+    "wof:lastmodified":1496775734,
     "wof:name":"Te Reo Tupua O Awapuni",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",

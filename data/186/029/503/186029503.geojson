@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"177.044952,-37.96703,177.044952,-37.96703",
     "geom:latitude":-37.96703,
     "geom:longitude":177.044952,
@@ -23,27 +24,30 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914825,
+        102079291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CSXy3UCdU7AfNzudn60mj_-37.967030_177.044952@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f1f9c54c96779dd6323ada3eaf8fc939",
+    "wof:geomhash":"5fa9979859bf5999dadb714d612551a6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
+            "locality_id":101914825,
+            "region_id":85687175,
             "venue_id":186029503
         }
     ],
     "wof:id":186029503,
-    "wof:lastmodified":1473798589,
+    "wof:lastmodified":1496776354,
     "wof:name":"Whakatane Sandblasting Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

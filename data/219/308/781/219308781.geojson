@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.991058,-45.071503,170.991058,-45.071503",
     "geom:latitude":-45.071503,
     "geom:longitude":170.991058,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914699,
+        102079381,
+        85781633
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CRS987MQEfWn3IiDoxpxK_-45.071503_170.991058@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f1ab0827c406d0b307dddb7b68976226",
+    "wof:geomhash":"a2fb6e13e01ad9c10590aa4fd1bc8ffa",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101914699,
+            "neighbourhood_id":85781633,
+            "region_id":85687179,
             "venue_id":219308781
         }
     ],
     "wof:id":219308781,
-    "wof:lastmodified":1473798681,
+    "wof:lastmodified":1496776268,
     "wof:name":"Colonial Lodge Motel",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.957825,-45.113071,170.957825,-45.113071",
     "geom:latitude":-45.113071,
     "geom:longitude":170.957825,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02EB1IbHIdmpS4BC23KXvP_-45.113071_170.957825@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"653b9e5400e9ae5bdca125c4f324ad94",
+    "wof:geomhash":"5efba723673ff2e09df47d69087434b3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":202634869
         }
     ],
     "wof:id":202634869,
-    "wof:lastmodified":1473798707,
+    "wof:lastmodified":1496776264,
     "wof:name":"Clark Graeme",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

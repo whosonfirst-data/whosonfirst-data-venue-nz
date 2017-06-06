@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.812729,-38.982136,175.812729,-38.982136",
     "geom:latitude":-38.982136,
     "geom:longitude":175.812729,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914657,
+        102079281
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YvUOPTPTM2irGHwVuwJe4_-38.982136_175.812729@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f3f00d80840b7621a61a84b14ae9c582",
+    "wof:geomhash":"b019ff17bae0b42f177359834d78cc97",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
+            "locality_id":101914657,
+            "region_id":85687229,
             "venue_id":186000053
         }
     ],
     "wof:id":186000053,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496776227,
     "wof:name":"Green Janeve",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

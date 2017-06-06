@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.198975,-44.386646,171.198975,-44.386646",
     "geom:latitude":-44.386646,
     "geom:longitude":171.198975,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781471
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57fPvB470nsug45shNFJsT_-44.386646_171.198975@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"627acf578cf087f1b4b04c439407e4a4",
+    "wof:geomhash":"8a4215e93a7d5bc1eada9816a3a9c390",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781471,
+            "region_id":85687179,
             "venue_id":185791695
         }
     ],
     "wof:id":185791695,
-    "wof:lastmodified":1473798636,
+    "wof:lastmodified":1496776736,
     "wof:name":"Paint A Plate",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

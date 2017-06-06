@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.773193,-36.878181,174.773193,-36.878181",
     "geom:latitude":-36.878181,
     "geom:longitude":174.773193,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778841
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25Yd4sCU2syO5BZ4jjPoJa_-36.878181_174.773193@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fe81c91b78a8af528ba9fdfae9e5f75d",
+    "wof:geomhash":"a8347c676866618ac4ea78ee065c2b01",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778841,
+            "region_id":85687243,
             "venue_id":202434981
         }
     ],
     "wof:id":202434981,
-    "wof:lastmodified":1473798634,
+    "wof:lastmodified":1496775451,
     "wof:name":"Auckland Family Counselling & Psychotherapy Centre Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

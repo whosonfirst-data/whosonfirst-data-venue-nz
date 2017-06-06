@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.639801,-43.516521,172.639801,-43.516521",
     "geom:latitude":-43.516521,
     "geom:longitude":172.639801,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00mKNEXLckBnQPTC4gSgXP_-43.516521_172.639801@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"692f7936be7a30020a1b47251f590849",
+    "wof:geomhash":"f67b8f13b6b967f52342312527a70ec7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781693,
+            "region_id":85687179,
             "venue_id":185837847
         }
     ],
     "wof:id":185837847,
-    "wof:lastmodified":1473798632,
+    "wof:lastmodified":1496776034,
     "wof:name":"Sing It",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

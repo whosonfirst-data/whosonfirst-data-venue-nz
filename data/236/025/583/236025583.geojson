@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.764496,-41.304924,174.764496,-41.304924",
     "geom:latitude":-41.304924,
     "geom:longitude":174.764496,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85772849
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_4pwYAgS1MAo6Sfpzae4UoN_-41.304924_174.764496@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"482dc3128f3a6369afc5905aee280db9",
+    "wof:geomhash":"fe53e07fd06781a30c99927c5ef13d53",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85772849,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":236025583
         }
     ],
     "wof:id":236025583,
-    "wof:lastmodified":1473798570,
+    "wof:lastmodified":1496775820,
     "wof:name":"Vino's Wine Bar Cafe & Casino",
     "wof:parent_id":85772849,
     "wof:placetype":"venue",

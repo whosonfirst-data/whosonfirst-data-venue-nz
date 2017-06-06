@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.296021,-37.765778,175.296021,-37.765778",
     "geom:latitude":-37.765778,
     "geom:longitude":175.296021,
@@ -23,29 +24,34 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914271,
+        102079271,
+        85780883
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xqL7HEd9ovdm3LzuuNGh0_-37.765778_175.296021@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e430c4d7eec92a8f941ff48e9a9fff6b",
+    "wof:geomhash":"2ace3dfe598ee2b42acdb86c955d3511",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
+            "locality_id":101914271,
+            "neighbourhood_id":85780883,
+            "region_id":85687229,
             "venue_id":203238851
         }
     ],
     "wof:id":203238851,
-    "wof:lastmodified":1473798667,
+    "wof:lastmodified":1496775775,
     "wof:name":"Joanne's Dressmaking & Hire",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

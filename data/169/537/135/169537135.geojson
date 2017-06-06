@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.637299,-43.515827,172.637299,-43.515827",
     "geom:latitude":-43.515827,
     "geom:longitude":172.637299,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yx0Eub5TPWZRFHq07Sn37_-43.515827_172.637299@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"346e2671d1b102f71bc00a54e63278ba",
+    "wof:geomhash":"dbc923452f234231108592f4b760a782",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781693,
+            "region_id":85687179,
             "venue_id":169537135
         }
     ],
     "wof:id":169537135,
-    "wof:lastmodified":1473798554,
+    "wof:lastmodified":1496776071,
     "wof:name":"Ruffell Films Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

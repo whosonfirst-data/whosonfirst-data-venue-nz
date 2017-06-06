@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.517517,-45.894623,170.517517,-45.894623",
     "geom:latitude":-45.894623,
     "geom:longitude":170.517517,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85781647
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uhhI8zRLcW1TcHfLSAAem_-45.894623_170.517517@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"aefc8a7ef2c2248bcdfcf7b9fa30e6ac",
+    "wof:geomhash":"145e308306483b90c6f2e222363b0932",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85781647,
+            "region_id":85687201,
             "venue_id":202662381
         }
     ],
     "wof:id":202662381,
-    "wof:lastmodified":1473798697,
+    "wof:lastmodified":1496775766,
     "wof:name":"City Plumbing Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

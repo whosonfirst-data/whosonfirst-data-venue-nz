@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.701286,40.204281,-74.701286,40.204281",
     "geom:latitude":40.204281,
     "geom:longitude":-74.701286,
@@ -23,11 +24,13 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85859321,
+        102191575,
+        404478251,
         85633793,
         85976391,
         102081129,
-        85859321
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,10 @@
     "wof:geomhash":"b7af0c8d40cc31a14033419f6247d41c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081129,
+            "localadmin_id":404478251,
             "locality_id":85976391,
             "neighbourhood_id":85859321,
             "region_id":85688607,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":219882263,
-    "wof:lastmodified":1473798778,
+    "wof:lastmodified":1492022065,
     "wof:name":"Floraglen Ltd",
     "wof:parent_id":85859321,
     "wof:placetype":"venue",

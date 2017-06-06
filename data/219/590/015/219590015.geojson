@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.020645,-38.65073,178.020645,-38.65073",
     "geom:latitude":-38.65073,
     "geom:longitude":178.020645,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jx1dKCCLYJVXWcTiKnfrG_-38.650730_178.020645@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"228d8354edd4a4b63a3e6fcbe64fdcbc",
+    "wof:geomhash":"8799d554c6e1f54e812198d118067e3e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":219590015
         }
     ],
     "wof:id":219590015,
-    "wof:lastmodified":1473798767,
+    "wof:lastmodified":1496776127,
     "wof:name":"BP Oil",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

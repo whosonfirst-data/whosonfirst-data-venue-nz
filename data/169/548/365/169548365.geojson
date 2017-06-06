@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.252457,34.039051,-118.252457,34.039051",
     "geom:latitude":34.039051,
     "geom:longitude":-118.252457,
@@ -23,11 +24,14 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1092456417,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869233
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,19 +41,21 @@
     "wof:geomhash":"85c1d0555d4f99978f760611c5a1519f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869233,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456417,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":169548365
         }
     ],
     "wof:id":169548365,
-    "wof:lastmodified":1473798563,
+    "wof:lastmodified":1488945235,
     "wof:name":"Downtown Souvenirs",
-    "wof:parent_id":85869233,
+    "wof:parent_id":1092456417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

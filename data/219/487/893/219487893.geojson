@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.009003,-41.293903,174.009003,-41.293903",
     "geom:latitude":-41.293903,
     "geom:longitude":174.009003,
@@ -23,27 +24,30 @@
     "sg:province":"Marlborough",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101915339,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jUcMAXARqGhQOJnQpA9W7_-41.293903_174.009003@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7ab94137589fb41de342220ffec17ff0",
+    "wof:geomhash":"e1a620928086d59625ce63301013035f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101915339,
+            "region_id":85687185,
             "venue_id":219487893
         }
     ],
     "wof:id":219487893,
-    "wof:lastmodified":1473798717,
+    "wof:lastmodified":1496776680,
     "wof:name":"St Josephs School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

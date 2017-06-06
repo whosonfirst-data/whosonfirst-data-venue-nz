@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.643463,-43.513451,172.643463,-43.513451",
     "geom:latitude":-43.513451,
     "geom:longitude":172.643463,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ohJybPmK1r0yzcxzO6yDi_-43.513451_172.643463@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b74f26ef0724659374f938853ff1a51e",
+    "wof:geomhash":"20dcf5d95690ddc12d556bb406f08b50",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781693,
+            "region_id":85687179,
             "venue_id":169601673
         }
     ],
     "wof:id":169601673,
-    "wof:lastmodified":1473798603,
+    "wof:lastmodified":1496776046,
     "wof:name":"Edgeware Paper Back Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

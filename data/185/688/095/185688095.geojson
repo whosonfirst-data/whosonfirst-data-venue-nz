@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.790771,-41.32708,174.790771,-41.32708",
     "geom:latitude":-41.32708,
     "geom:longitude":174.790771,
@@ -23,9 +24,11 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85778453,
         85778423
     ],
@@ -34,31 +37,31 @@
         "sg:id":"SG_1CKAjNnn936Ze8YGzo9194_-41.327080_174.790771@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"caebe7f4a0a1d491c7d0496c43df0554",
+    "wof:geomhash":"e321b0f56440df2b75057ea788f69912",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85778453,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":185688095
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85778423,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":185688095
         }
     ],
     "wof:id":185688095,
-    "wof:lastmodified":1473798595,
+    "wof:lastmodified":1496775819,
     "wof:name":"Strait Groove Big Band",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.825195,-41.16901,174.825195,-41.16901",
     "geom:latitude":-41.16901,
     "geom:longitude":174.825195,
@@ -36,29 +37,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914575,
+        102079339,
+        85778565
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rE0tCbUF7yyQhVU8mH6do_-41.169010_174.825195@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b8f43f99649768e73fcee9f4b93bdd9e",
+    "wof:geomhash":"141ed76ea3d371406a60e043e16a484b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914575,
+            "neighbourhood_id":85778565,
+            "region_id":85687233,
             "venue_id":203134273
         }
     ],
     "wof:id":203134273,
-    "wof:lastmodified":1473798647,
+    "wof:lastmodified":1496776114,
     "wof:name":"Kapi-Mana veterinary Hospital Boarding Cattery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

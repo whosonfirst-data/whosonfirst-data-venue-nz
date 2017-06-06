@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.245514,-44.418198,171.245514,-44.418198",
     "geom:latitude":-44.418198,
     "geom:longitude":171.245514,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jkDraHi9BKz2pDrBDh7Sb_-44.418198_171.245514@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"aeeac5dc5c650ec32d0b4d9b2bf273a8",
+    "wof:geomhash":"7fefe52034aa823a423071b8e2e7be15",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781671,
+            "region_id":85687179,
             "venue_id":202789447
         }
     ],
     "wof:id":202789447,
-    "wof:lastmodified":1473798721,
+    "wof:lastmodified":1496776740,
     "wof:name":"P R Joinery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.004272461,-41.2947883606,174.004272461,-41.2947883606",
     "geom:latitude":-41.294788,
     "geom:longitude":174.004272,
@@ -18,17 +19,32 @@
     "sg:phone":"+64 3-573 7387",
     "sg:province":"Marlborough",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687185,
+        102191583,
+        85633345,
+        101915339,
+        102079353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Gqihd3n2d9uECfmgMEMSz_-41.294788_174.004272@1306270044"
     },
     "wof:country":"NZ",
     "wof:created":1473719418,
-    "wof:geomhash":"aa0c4904688f8b17c0f172ac2213f164",
-    "wof:hierarchy":[],
+    "wof:geomhash":"afc5073a7eda4563377729426342bec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101915339,
+            "region_id":85687185,
+            "venue_id":1058997291
+        }
+    ],
     "wof:id":1058997291,
-    "wof:lastmodified":1473719418,
+    "wof:lastmodified":1496776681,
     "wof:name":"Thrifty Car Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

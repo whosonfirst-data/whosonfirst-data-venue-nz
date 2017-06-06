@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.731583,-36.875648,174.731583,-36.875648",
     "geom:latitude":-36.875648,
     "geom:longitude":174.731583,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914257,
+        102079403,
         85773319
     ],
     "wof:breaches":[],
@@ -43,20 +47,20 @@
         "sg:id":"SG_1JtBwyZK4ofXgKdbBSddnk_-36.875648_174.731583@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b6d6bd31c8b77af4d253bca3a1162b0d",
+    "wof:geomhash":"305fe7236f51fa20bc3455748adb2a10",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914257,
             "neighbourhood_id":85773319,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":185929603
         }
     ],
     "wof:id":185929603,
-    "wof:lastmodified":1473798646,
+    "wof:lastmodified":1496775543,
     "wof:name":"John Bing Muay Thai Boxing Gym",
     "wof:parent_id":85773319,
     "wof:placetype":"venue",

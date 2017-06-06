@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.131332,-37.732826,176.131332,-37.732826",
     "geom:latitude":-37.732826,
     "geom:longitude":176.131332,
@@ -23,27 +24,30 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914325,
+        102079285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10nUUVsG3MQ4LGtfroa7PQ_-37.732826_176.131332@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8197013ce5dcf502242d64ed8d778c7c",
+    "wof:geomhash":"d51b776e2a8360a9939c909cb1764000",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101914325,
+            "region_id":85687175,
             "venue_id":185866629
         }
     ],
     "wof:id":185866629,
-    "wof:lastmodified":1473798633,
+    "wof:lastmodified":1496775874,
     "wof:name":"Greerton Saddlery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

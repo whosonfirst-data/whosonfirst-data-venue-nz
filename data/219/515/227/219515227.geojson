@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-0.092138,51.43074,-0.092138,51.43074",
     "geom:latitude":51.43074,
     "geom:longitude":-0.092138,
@@ -33,12 +34,14 @@
     "sg:website":"http://www.waikato.ac.nz/language",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85860547,
-        85633159,
-        101750367,
-        85684533,
         85791477,
-        85684289
+        "102191581",
+        404435563,
+        "85633159",
+        404227469,
+        101750367,
+        85684061,
+        85860547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +51,30 @@
     "wof:geomhash":"3791a6bf080ca29f2aee7a26f0965e61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85860547,
-            "region_id":85684533,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85791477,
+            "region_id":85684061,
             "venue_id":219515227
         },
         {
-            "continent_id":-1,
-            "country_id":85633159,
+            "continent_id":"102191581",
+            "country_id":"85633159",
+            "localadmin_id":404435563,
             "locality_id":101750367,
-            "neighbourhood_id":85791477,
-            "region_id":85684289,
+            "macroregion_id":404227469,
+            "neighbourhood_id":85860547,
+            "region_id":85684061,
             "venue_id":219515227
         }
     ],
     "wof:id":219515227,
-    "wof:lastmodified":1473798724,
+    "wof:lastmodified":1491898030,
     "wof:name":"University of Waikato Language Institute",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

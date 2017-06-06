@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.765167,-41.307262,174.765167,-41.307262",
     "geom:latitude":-41.307262,
     "geom:longitude":174.765167,
@@ -34,32 +35,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
-        85772849
+        101914285,
+        102079339,
+        85772849,
+        85781213
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05zajFe76qXz5YVI9PFSRN_-41.307262_174.765167@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ff98944b8be302246a405e32fa517a75",
+    "wof:geomhash":"14b65654d09bced876b6cb5962652de6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85772849,
-            "region_id":-1,
+            "region_id":85687233,
+            "venue_id":203165677
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85781213,
+            "region_id":85687233,
             "venue_id":203165677
         }
     ],
     "wof:id":203165677,
-    "wof:lastmodified":1473798656,
+    "wof:lastmodified":1496775803,
     "wof:name":"A A Leadlighting",
-    "wof:parent_id":85772849,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

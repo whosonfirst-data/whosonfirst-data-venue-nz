@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.651642,-36.846275,174.651642,-36.846275",
     "geom:latitude":-36.846275,
     "geom:longitude":174.651642,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782077
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Jf1QJBafW1Ql4LlEPmIHF_-36.846275_174.651642@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b50efe1043395199a26decb0e2b83a41",
+    "wof:geomhash":"21a5440f73e463f484cf347ddb0b5b3d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782077,
+            "region_id":85687243,
             "venue_id":219801005
         }
     ],
     "wof:id":219801005,
-    "wof:lastmodified":1473798775,
+    "wof:lastmodified":1496775613,
     "wof:name":"Autocourt Service Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

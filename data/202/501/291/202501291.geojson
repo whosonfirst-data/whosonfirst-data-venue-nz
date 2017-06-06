@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.263275,-35.114185,173.263275,-35.114185",
     "geom:latitude":-35.114185,
     "geom:longitude":173.263275,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101915171,
+        102079255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OKo8L4VQhK7FktzkLb08S_-35.114185_173.263275@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0147b3c5baf33c64c763502d2f2076d8",
+    "wof:geomhash":"d94388d6c5e281dcb98f3934b6fe5b7d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101915171,
+            "region_id":85687149,
             "venue_id":202501291
         }
     ],
     "wof:id":202501291,
-    "wof:lastmodified":1473798675,
+    "wof:lastmodified":1496776597,
     "wof:name":"Caruso Dr Susan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

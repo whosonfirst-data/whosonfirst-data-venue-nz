@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.780731,-41.249992,174.780731,-41.249992",
     "geom:latitude":-41.249992,
     "geom:longitude":174.780731,
@@ -34,29 +35,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85773055,
+        85781175
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ik2vuIazUWbzDbij4Msve_-41.249992_174.780731@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9c1c398f7eeb9070139f29cd5ccb2b1c",
+    "wof:geomhash":"e8abe624db2e580ed7bb29114e7bc496",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85773055,
+            "region_id":85687233,
+            "venue_id":202761003
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85781175,
+            "region_id":85687233,
             "venue_id":202761003
         }
     ],
     "wof:id":202761003,
-    "wof:lastmodified":1473798719,
+    "wof:lastmodified":1496775802,
     "wof:name":"Presbyterian Support Central",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

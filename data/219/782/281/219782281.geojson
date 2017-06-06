@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.603577,-40.354332,175.603577,-40.354332",
     "geom:latitude":-40.354332,
     "geom:longitude":175.603577,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_3UgjJbkRQpmwQqTQD4ZLtx_-40.354332_175.603577@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4d24d8cea7811bc3cd1fc4ff8ddb2263",
+    "wof:geomhash":"303e011e2abdcefdb35d3318eb565254",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":219782281
         }
     ],
     "wof:id":219782281,
-    "wof:lastmodified":1473798779,
+    "wof:lastmodified":1496775742,
     "wof:name":"Colt Cams Ltd",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.953796,-41.520058,173.953796,-41.520058",
     "geom:latitude":-41.520058,
     "geom:longitude":173.953796,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        102079353,
+        85782355
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RyQi6dafACXdbdIyOluEf_-41.520058_173.953796@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"697dbc3294d2ebdb9bf107a4e2b80545",
+    "wof:geomhash":"d54b26bee7a1bef10f751e5a1bca4b56",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782355,
+            "region_id":85687185,
             "venue_id":203076515
         }
     ],
     "wof:id":203076515,
-    "wof:lastmodified":1473798621,
+    "wof:lastmodified":1496776831,
     "wof:name":"Aquanort Pools",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

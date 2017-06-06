@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.628479,-43.574677,172.628479,-43.574677",
     "geom:latitude":-43.574677,
     "geom:longitude":172.628479,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781867
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UdmlyJbQOG4zM4IRRWoxW_-43.574677_172.628479@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a15d630d57d8ec0c5f10e70649c5bbc5",
+    "wof:geomhash":"57ceb4dac8c18b8ceda71317628240f0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781867,
+            "region_id":85687179,
             "venue_id":202975757
         }
     ],
     "wof:id":202975757,
-    "wof:lastmodified":1473798752,
+    "wof:lastmodified":1496776075,
     "wof:name":"Sphere ltd (Dan Rutherford)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

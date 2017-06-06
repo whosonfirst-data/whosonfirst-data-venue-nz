@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.824844,-41.168579,174.824844,-41.168579",
     "geom:latitude":-41.168579,
     "geom:longitude":174.824844,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914575,
+        102079339,
+        85778565
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AYNlCNklATHe59fyei4d8_-41.168579_174.824844@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b94742c5fcc14a26f2ee4868dc2eaac9",
+    "wof:geomhash":"04249b3c1600f1c51179abd19ba68ef8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914575,
+            "neighbourhood_id":85778565,
+            "region_id":85687233,
             "venue_id":219265963
         }
     ],
     "wof:id":219265963,
-    "wof:lastmodified":1473798673,
+    "wof:lastmodified":1496776115,
     "wof:name":"T J Management Services Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

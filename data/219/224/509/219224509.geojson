@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.29776,-35.686539,174.29776,-35.686539",
     "geom:latitude":-35.686539,
     "geom:longitude":174.29776,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IbQEX3EqOjnQZnx5oVAzW_-35.686539_174.297760@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"23579bc4f3c71c4d48242499caf8d6d3",
+    "wof:geomhash":"6c0d3c269138877905a1b8a20c086486",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "region_id":85687149,
             "venue_id":219224509
         }
     ],
     "wof:id":219224509,
-    "wof:lastmodified":1473798658,
+    "wof:lastmodified":1496775332,
     "wof:name":"Backload Freight Brokers Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.828033,-39.622021,176.828033,-39.622021",
     "geom:latitude":-39.622021,
     "geom:longitude":176.828033,
@@ -23,29 +24,34 @@
     "sg:province":"Hawke's Bay",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914313,
+        102079329,
+        85781711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bUq1zCCZhVh6vAeFSp9vm_-39.622021_176.828033@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"871d7448b377b9a385cc57ea411f701e",
+    "wof:geomhash":"7786d6eeac9bd2e1891753541ff2f5de",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914313,
+            "neighbourhood_id":85781711,
+            "region_id":85687189,
             "venue_id":186246827
         }
     ],
     "wof:id":186246827,
-    "wof:lastmodified":1473798716,
+    "wof:lastmodified":1496775848,
     "wof:name":"Allan Boon Sewing Machine Sales & Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

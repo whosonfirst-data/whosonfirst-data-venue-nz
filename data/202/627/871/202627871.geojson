@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.004272,-41.294796,174.004272,-41.294796",
     "geom:latitude":-41.294796,
     "geom:longitude":174.004272,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101915339,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Tpx75vzNoxT6E0s8ySM57_-41.294796_174.004272@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"774115c705363243cccc79cd858850a0",
+    "wof:geomhash":"96098f8ee4e687ae2a5ca4b1974ada04",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101915339,
+            "region_id":85687185,
             "venue_id":202627871
         }
     ],
     "wof:id":202627871,
-    "wof:lastmodified":1473798699,
+    "wof:lastmodified":1496776678,
     "wof:name":"Pope Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

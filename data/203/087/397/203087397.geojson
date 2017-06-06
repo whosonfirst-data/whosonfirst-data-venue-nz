@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.323486,-35.713276,174.323486,-35.713276",
     "geom:latitude":-35.713276,
     "geom:longitude":174.323486,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        101914901,
+        101914253,
+        102079257,
         85780991
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_2VztNWqF1zZEwdihJtSeIz_-35.713276_174.323486@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"db3c164bf278abefb1e00c8e43a5bd21",
+    "wof:geomhash":"25be921049334d22ed19fd79dcc27134",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
+            "county_id":102079257,
+            "locality_id":101914253,
             "neighbourhood_id":85780991,
-            "region_id":-1,
+            "region_id":85687149,
             "venue_id":203087397
         }
     ],
     "wof:id":203087397,
-    "wof:lastmodified":1473798631,
+    "wof:lastmodified":1496775332,
     "wof:name":"Anglican Counselling & Care",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",

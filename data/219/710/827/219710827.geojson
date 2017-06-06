@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.953918,-41.272552,174.953918,-41.272552",
     "geom:latitude":-41.272552,
     "geom:longitude":174.953918,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914357,
+        102079337,
+        85782517
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CEO8CtLb3ZFyb7P5J0iMr_-41.272552_174.953918@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"28f7844fe01583581288c5b75b9a359b",
+    "wof:geomhash":"3e776a88c7809dbd50268e1cfe68875f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914357,
+            "neighbourhood_id":85782517,
+            "region_id":85687233,
             "venue_id":219710827
         }
     ],
     "wof:id":219710827,
-    "wof:lastmodified":1473798783,
+    "wof:lastmodified":1496775910,
     "wof:name":"MC Motorcycles Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

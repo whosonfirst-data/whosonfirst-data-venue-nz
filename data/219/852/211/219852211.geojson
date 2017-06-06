@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.024063,-39.927498,175.024063,-39.927498",
     "geom:latitude":-39.927498,
     "geom:longitude":175.024063,
@@ -23,29 +24,34 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914639,
+        102079299,
+        85781145
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27Cl8EYlcP2Xg37a4g2h6Q_-39.927498_175.024063@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5e69937f825c626a5bb8fa3ec89a35d9",
+    "wof:geomhash":"63f98768ce8838d62ee5efbfbaf8d599",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":101914639,
+            "neighbourhood_id":85781145,
+            "region_id":85687251,
             "venue_id":219852211
         }
     ],
     "wof:id":219852211,
-    "wof:lastmodified":1473798776,
+    "wof:lastmodified":1496776204,
     "wof:name":"Canaan Honey & Learning Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

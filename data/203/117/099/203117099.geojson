@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.247696,-41.285233,173.247696,-41.285233",
     "geom:latitude":-41.285233,
     "geom:longitude":173.247696,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        102079351,
+        85781589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GO5HiSw6D4HoLIlDN6iRS_-41.285233_173.247696@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a38149122a0edcf9985a2933d0455a17",
+    "wof:geomhash":"62144f69b67d6c7364df8fd512fc5ff3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781589,
+            "region_id":85687157,
             "venue_id":203117099
         }
     ],
     "wof:id":203117099,
-    "wof:lastmodified":1473798632,
+    "wof:lastmodified":1496776780,
     "wof:name":"Phoenix Tattoos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

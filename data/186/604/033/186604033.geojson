@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.757782,-36.919788,174.757782,-36.919788",
     "geom:latitude":-36.919788,
     "geom:longitude":174.757782,
@@ -35,8 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914257,
+        102079403,
         85778583
     ],
     "wof:breaches":[],
@@ -44,20 +48,20 @@
         "sg:id":"SG_6NHDKnJATLZziNi6xBAxKF_-36.919788_174.757782@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"41aa094113d3a589773d6a151e054040",
+    "wof:geomhash":"e260fd269c55251888a83722c5343759",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914257,
             "neighbourhood_id":85778583,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":186604033
         }
     ],
     "wof:id":186604033,
-    "wof:lastmodified":1473798760,
+    "wof:lastmodified":1496777139,
     "wof:name":"Weight Clinic, The",
     "wof:parent_id":85778583,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.675995,-40.939342,175.675995,-40.939342",
     "geom:latitude":-40.939342,
     "geom:longitude":175.675995,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079343,
+        85780973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jDodpDyznp6YlOZxohb4q_-40.939342_175.675995@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"de1ca52fe58a9389d51e6a764fe09689",
+    "wof:geomhash":"7aebe9bd45a2e70ecf381c9be211516e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780973,
+            "region_id":85687233,
             "venue_id":202397681
         }
     ],
     "wof:id":202397681,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496776777,
     "wof:name":"Plunket Nurses",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

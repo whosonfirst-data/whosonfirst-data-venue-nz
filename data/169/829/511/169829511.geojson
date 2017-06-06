@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.761871,40.608231,-73.761871,40.608231",
     "geom:latitude":40.608231,
     "geom:longitude":-73.761871,
@@ -22,10 +23,14 @@
     "sg:phone":"+64 9-446 0020",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688543,
+        907131779,
+        102191575,
+        907157757,
         85633793,
         85977539,
-        102082361
+        421205767,
+        102082377,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -35,19 +40,21 @@
     "wof:geomhash":"b043bd8551e920f60289e6311720faa7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "borough_id":421205767,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102082361,
+            "county_id":102082377,
             "locality_id":85977539,
-            "neighbourhood_id":-1,
+            "macrohood_id":907157757,
+            "neighbourhood_id":907131779,
             "region_id":85688543,
             "venue_id":169829511
         }
     ],
     "wof:id":169829511,
-    "wof:lastmodified":1473798643,
+    "wof:lastmodified":1491267876,
     "wof:name":"Wings & Waves PG and Kitesurfing",
-    "wof:parent_id":-1,
+    "wof:parent_id":907131779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

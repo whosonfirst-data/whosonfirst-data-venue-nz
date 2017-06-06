@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.804932,-36.823975,174.804932,-36.823975",
     "geom:latitude":-36.823975,
     "geom:longitude":174.804932,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914729,
+        102079403,
+        85778237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iUaVuhE4iQxXOutr29tyz_-36.823975_174.804932@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b07f598dbc7fd985223f42abcb359bfc",
+    "wof:geomhash":"6a1295513c1f32a85a4d72c908947b03",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914729,
+            "neighbourhood_id":85778237,
+            "region_id":85687243,
             "venue_id":203086871
         }
     ],
     "wof:id":203086871,
-    "wof:lastmodified":1473798632,
+    "wof:lastmodified":1496776299,
     "wof:name":"Shiloh Retreat & Renewal Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.603485,-40.351295,175.603485,-40.351295",
     "geom:latitude":-40.351295,
     "geom:longitude":175.603485,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_4ontu1pdLVLE4w95AE3VPv_-40.351295_175.603485@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ea2694998449f09a2c3850c60219e8ac",
+    "wof:geomhash":"c5472c2e4c2c44bc9609ed69b8c4bb44",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":203183587
         }
     ],
     "wof:id":203183587,
-    "wof:lastmodified":1473798650,
+    "wof:lastmodified":1496775748,
     "wof:name":"Stitch It Studio",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

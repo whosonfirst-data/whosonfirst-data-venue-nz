@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.743973,-36.776436,174.743973,-36.776436",
     "geom:latitude":-36.776436,
     "geom:longitude":174.743973,
@@ -29,8 +30,12 @@
     "sg:website":"http://www.lk.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101915513,
+        102079403,
+        85781677
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +45,19 @@
     "wof:geomhash":"c7a00239aa8f038f7a919b46275dbf03",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915513,
+            "neighbourhood_id":85781677,
+            "region_id":85687243,
             "venue_id":220042913
         }
     ],
     "wof:id":220042913,
-    "wof:lastmodified":1473798590,
+    "wof:lastmodified":1491924710,
     "wof:name":"Liquor King",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.643814,-43.560688,172.643814,-43.560688",
     "geom:latitude":-43.560688,
     "geom:longitude":172.643814,
@@ -37,29 +38,34 @@
     "sg:website":"http://www.canterburysailing.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778153
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UwxLTHqqghSGs4KiRZ61O_-43.560688_172.643814@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"03aee30814d96fa916f1638ae9ba3943",
+    "wof:geomhash":"a860835b789c6da7520e0bfb11c70bbd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778153,
+            "region_id":85687179,
             "venue_id":203407165
         }
     ],
     "wof:id":203407165,
-    "wof:lastmodified":1473798703,
+    "wof:lastmodified":1496776079,
     "wof:name":"Lyttelton Sailing School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

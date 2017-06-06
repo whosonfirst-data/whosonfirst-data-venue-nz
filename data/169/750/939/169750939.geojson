@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.057587,-40.87534,175.057587,-40.87534",
     "geom:latitude":-40.87534,
     "geom:longitude":175.057587,
@@ -23,27 +24,30 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914637,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RNJ2j7fv5lATKiX7hNSwN_-40.875340_175.057587@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3e23190b32f56f39e8669068481cbdf4",
+    "wof:geomhash":"af914032d3f8a4a227c00973ae3508d7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914637,
+            "region_id":85687233,
             "venue_id":169750939
         }
     ],
     "wof:id":169750939,
-    "wof:lastmodified":1473798621,
+    "wof:lastmodified":1496776198,
     "wof:name":"Woolworths (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

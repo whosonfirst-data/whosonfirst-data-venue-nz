@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.75441,-36.872414,174.75441,-36.872414",
     "geom:latitude":-36.872414,
     "geom:longitude":174.75441,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        102079403,
+        85778851,
         85778399
     ],
     "wof:breaches":[],
@@ -43,22 +47,31 @@
         "sg:id":"SG_5EwvEPZHJ1BFEsyXTdBvBm_-36.872414_174.754410@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3142b4b713b330bfc23e9352fd72715a",
+    "wof:geomhash":"a5bc7586a28298d715043bbdadecd1f5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
+            "locality_id":-1,
+            "neighbourhood_id":85778851,
+            "region_id":85687243,
+            "venue_id":203167739
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85778399,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":203167739
         }
     ],
     "wof:id":203167739,
-    "wof:lastmodified":1473798652,
+    "wof:lastmodified":1496775447,
     "wof:name":"Glassworks-The",
-    "wof:parent_id":85778399,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

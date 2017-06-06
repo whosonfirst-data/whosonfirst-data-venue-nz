@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.746048,-41.283474,174.746048,-41.283474",
     "geom:latitude":-41.283474,
     "geom:longitude":174.746048,
@@ -24,29 +25,34 @@
     "sg:website":"http://www.marsden.school.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Da3kDA9usBL9oneUopynj_-41.283474_174.746048@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fff3744ae73f1c8c3cd6852c5a26b5e0",
+    "wof:geomhash":"e7a42fb2faf1d6155ccb9ad843fb42a7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772989,
+            "region_id":85687233,
             "venue_id":219486391
         }
     ],
     "wof:id":219486391,
-    "wof:lastmodified":1473798714,
+    "wof:lastmodified":1496775807,
     "wof:name":"Samuel Marsden Collegiate School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.205765,-44.388138,171.205765,-44.388138",
     "geom:latitude":-44.388138,
     "geom:longitude":171.205765,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781471
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KLIGek5sASgb0miI4czuW_-44.388138_171.205765@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"51fa88c5ae8b8076250085184f96bb1c",
+    "wof:geomhash":"d4e7d26dff6ef95f418b45e6548e64ad",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781471,
+            "region_id":85687179,
             "venue_id":202696439
         }
     ],
     "wof:id":202696439,
-    "wof:lastmodified":1473798715,
+    "wof:lastmodified":1496776752,
     "wof:name":"Playcentre Association",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

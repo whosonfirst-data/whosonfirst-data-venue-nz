@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.73027,-36.880779,174.73027,-36.880779",
     "geom:latitude":-36.880779,
     "geom:longitude":174.73027,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Oxo9McDMaUQWDcXmiguGm_-36.880779_174.730270@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"120e3bf9063b3957e6c73be6e9bdeb8a",
+    "wof:geomhash":"ea5ea694d6fe686516516d9187249e48",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778467,
+            "region_id":85687243,
             "venue_id":169758953
         }
     ],
     "wof:id":169758953,
-    "wof:lastmodified":1473798626,
+    "wof:lastmodified":1496775547,
     "wof:name":"Lethaby George M Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

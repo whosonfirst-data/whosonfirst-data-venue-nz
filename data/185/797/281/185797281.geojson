@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.231277,-45.85873,170.231277,-45.85873",
     "geom:latitude":-45.85873,
     "geom:longitude":170.231277,
@@ -23,27 +24,30 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915049,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LVQdT22Io3QJ1U38TiRE0_-45.858730_170.231277@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e96a68a2195c9789733e1ff55d7406b0",
+    "wof:geomhash":"700555e97bbd912514d4a526a964b232",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101915049,
+            "region_id":85687201,
             "venue_id":185797281
         }
     ],
     "wof:id":185797281,
-    "wof:lastmodified":1473798628,
+    "wof:lastmodified":1496776526,
     "wof:name":"Kathy Moss Calligraphy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

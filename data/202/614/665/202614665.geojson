@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.478561,-45.860027,170.478561,-45.860027",
     "geom:latitude":-45.860027,
     "geom:longitude":170.478561,
@@ -32,29 +33,33 @@
     "sg:website":"http://www.yellowpages.co.nz/pages/112434738/dp46023.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        102079387,
+        85778177
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59BdnBKTMkmCRDy7HtkOLU_-45.860027_170.478561@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0e6356e5d22788e3419d3a1b9c36ffd0",
+    "wof:geomhash":"c04fe812dffd366ecea49e30953b2b93",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778177,
+            "region_id":85687201,
             "venue_id":202614665
         }
     ],
     "wof:id":202614665,
-    "wof:lastmodified":1473798699,
+    "wof:lastmodified":1496775768,
     "wof:name":"Ray Scarlet",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

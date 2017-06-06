@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.300568,-37.798737,175.300568,-37.798737",
     "geom:latitude":-37.798737,
     "geom:longitude":175.300568,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914271,
+        102079271,
+        85781845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lTH33gYnGAtWWPrCqjPmG_-37.798737_175.300568@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2f0e55dc2dbbaa10a458a6fd3d9fd818",
+    "wof:geomhash":"d5b52e435ac22cbeb0cfc77e21f24f8c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
+            "locality_id":101914271,
+            "neighbourhood_id":85781845,
+            "region_id":85687229,
             "venue_id":185634905
         }
     ],
     "wof:id":185634905,
-    "wof:lastmodified":1473798569,
+    "wof:lastmodified":1496775784,
     "wof:name":"Framing Workshop The",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

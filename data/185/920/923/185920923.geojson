@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.424835,-45.901009,170.424835,-45.901009",
     "geom:latitude":-45.901009,
     "geom:longitude":170.424835,
@@ -36,9 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
-        101914759,
+        101914269,
+        102079387,
         85772923
     ],
     "wof:breaches":[],
@@ -46,20 +49,20 @@
         "sg:id":"SG_7a40wiOna3SAc2ZMwe2ubL_-45.901009_170.424835@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5242ca32093fd961a1eac28990e3a466",
+    "wof:geomhash":"0aa1afb7ff492259ece8f0913814a14d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914759,
+            "county_id":102079387,
+            "locality_id":101914269,
             "neighbourhood_id":85772923,
-            "region_id":-1,
+            "region_id":85687201,
             "venue_id":185920923
         }
     ],
     "wof:id":185920923,
-    "wof:lastmodified":1473798649,
+    "wof:lastmodified":1496775758,
     "wof:name":"Royal Academy of Dance",
     "wof:parent_id":85772923,
     "wof:placetype":"venue",

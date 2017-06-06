@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.006927,-41.114948,173.006927,-41.114948",
     "geom:latitude":-41.114948,
     "geom:longitude":173.006927,
@@ -23,27 +24,30 @@
     "sg:province":"Tasman",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687219,
+        102191583,
+        85633345,
+        101914769,
+        102079349
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hAPPSv6DZDtXlFhKrJOhQ_-41.114948_173.006927@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"63d6f0af4746b07865df1411e2861c23",
+    "wof:geomhash":"54c41901db1a0c11877f54f766b0604d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101914769,
+            "region_id":85687219,
             "venue_id":219926311
         }
     ],
     "wof:id":219926311,
-    "wof:lastmodified":1473798796,
+    "wof:lastmodified":1496776321,
     "wof:name":"Aquarius Irrigation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

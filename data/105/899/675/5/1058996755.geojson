@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.451019287,-36.6756057739,174.451019287,-36.6756057739",
     "geom:latitude":-36.675606,
     "geom:longitude":174.451019,
@@ -29,17 +30,32 @@
         "garden"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687243,
+        102191583,
+        85633345,
+        101914329,
+        102079403
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_697rBB4IMBA8JL7FvJWit1_-36.675606_174.451019@1306270034"
     },
     "wof:country":"NZ",
     "wof:created":1473719378,
-    "wof:geomhash":"b4b815d7e87c1a8fab7dcb0bab7aa31f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9f7dbc2ae1662a23e17f20863322112b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914329,
+            "region_id":85687243,
+            "venue_id":1058996755
+        }
+    ],
     "wof:id":1058996755,
-    "wof:lastmodified":1473719378,
+    "wof:lastmodified":1496775898,
     "wof:name":"Nor-West Home Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

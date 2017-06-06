@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.761246,-36.884773,174.761246,-36.884773",
     "geom:latitude":-36.884773,
     "geom:longitude":174.761246,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MovRkD4PGEltnjTGXSFzB_-36.884773_174.761246@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0fb1b8f896a7fc43bd2ec5e277c719f3",
+    "wof:geomhash":"90c49601aaa767bc101e7e2cbeac5eae",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778855,
+            "region_id":85687243,
             "venue_id":186504223
         }
     ],
     "wof:id":186504223,
-    "wof:lastmodified":1473798755,
+    "wof:lastmodified":1496775664,
     "wof:name":"Body Bliss",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

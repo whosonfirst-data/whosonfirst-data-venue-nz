@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.235519,-44.409588,171.235519,-44.409588",
     "geom:latitude":-44.409588,
     "geom:longitude":171.235519,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35xxRxpgLWGeMJuGvqlo4x_-44.409588_171.235519@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f5483dc4c93841987b808a670d004d16",
+    "wof:geomhash":"e04e9f1917f70beddb3d96c98a6cc3d1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781671,
+            "region_id":85687179,
             "venue_id":202650033
         }
     ],
     "wof:id":202650033,
-    "wof:lastmodified":1473798694,
+    "wof:lastmodified":1496776753,
     "wof:name":"Blissett L G",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

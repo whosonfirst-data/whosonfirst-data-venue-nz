@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.578903,-43.496628,172.578903,-43.496628",
     "geom:latitude":-43.496628,
     "geom:longitude":172.578903,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42gozo4Wdwn8kUqRde05NX_-43.496628_172.578903@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c05df45eb65642d6723c523da9284c35",
+    "wof:geomhash":"bb14078a01cd0537c327484471641307",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778215,
+            "region_id":85687179,
             "venue_id":202414873
         }
     ],
     "wof:id":202414873,
-    "wof:lastmodified":1473798595,
+    "wof:lastmodified":1496776092,
     "wof:name":"Burnside Medical Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

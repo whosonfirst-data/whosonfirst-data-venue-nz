@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.207642,-38.184101,175.207642,-38.184101",
     "geom:latitude":-38.184101,
     "geom:longitude":175.207642,
@@ -32,27 +33,30 @@
     "sg:website":"http://www.circlem.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914943,
+        102079275
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49MHtDt3DLJYtWAZdmdyXZ_-38.184101_175.207642@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"aed732fa229bca5aab97ef7f4b9b24e6",
+    "wof:geomhash":"0a80b76164b472c055ed0d267af98592",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079275,
+            "locality_id":101914943,
+            "region_id":85687229,
             "venue_id":203194959
         }
     ],
     "wof:id":203194959,
-    "wof:lastmodified":1473798652,
+    "wof:lastmodified":1496776423,
     "wof:name":"Circle M Workwear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

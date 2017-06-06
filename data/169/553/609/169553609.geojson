@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.74292,-36.847313,174.74292,-36.847313",
     "geom:latitude":-36.847313,
     "geom:longitude":174.74292,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JxJlD3RorV9sDi2QS988x_-36.847313_174.742920@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"10bad7037c51d54c6dda4117541ffe4f",
+    "wof:geomhash":"4bd3dda1ea764b064919db3ad5dbb797",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782035,
+            "region_id":85687243,
             "venue_id":169553609
         }
     ],
     "wof:id":169553609,
-    "wof:lastmodified":1473798572,
+    "wof:lastmodified":1496775398,
     "wof:name":"Pacific Optics Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

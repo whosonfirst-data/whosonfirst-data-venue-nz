@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.59581,-43.305134,172.59581,-43.305134",
     "geom:latitude":-43.305134,
     "geom:longitude":172.59581,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914361,
+        102079367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HZ71wWRebxvCaEbvcRa0K_-43.305134_172.595810@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ac653f25214d174de1689e39d08ca430",
+    "wof:geomhash":"f9c43e02c2c1d7e678f88ad192c2cacb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079367,
+            "locality_id":101914361,
+            "region_id":85687179,
             "venue_id":235998969
         }
     ],
     "wof:id":235998969,
-    "wof:lastmodified":1473798580,
+    "wof:lastmodified":1496775912,
     "wof:name":"The Coop Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

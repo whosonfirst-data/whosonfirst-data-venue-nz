@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.804871,-36.981701,174.804871,-36.981701",
     "geom:latitude":-36.981701,
     "geom:longitude":174.804871,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914267,
+        102079403,
+        85773023
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WB35K9IBJrYSLWEdtb2F5_-36.981701_174.804871@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"30b021a49fc03cc412fd694b13a0109c",
+    "wof:geomhash":"171ba1dd484a9f7fe3b29b2b66c66342",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914267,
+            "neighbourhood_id":85773023,
+            "region_id":85687243,
             "venue_id":202565459
         }
     ],
     "wof:id":202565459,
-    "wof:lastmodified":1473798704,
+    "wof:lastmodified":1496775754,
     "wof:name":"Diane's Natural Massage Wax",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

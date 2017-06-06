@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.893234,-41.215145,174.893234,-41.215145",
     "geom:latitude":-41.215145,
     "geom:longitude":174.893234,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914411,
+        102079337,
+        85780825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f6KFjhnmefbnVGNdA8QVy_-41.215145_174.893234@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3eec3e6a4e6587edcd6a775cfca0df9a",
+    "wof:geomhash":"4f37e2cb95cbb4d45922a54d7d7872e2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914411,
+            "neighbourhood_id":85780825,
+            "region_id":85687233,
             "venue_id":220057455
         }
     ],
     "wof:id":220057455,
-    "wof:lastmodified":1473798614,
+    "wof:lastmodified":1496775953,
     "wof:name":"Roderick Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

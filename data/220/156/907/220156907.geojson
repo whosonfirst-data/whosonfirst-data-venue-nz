@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.316238,-37.799095,175.316238,-37.799095",
     "geom:latitude":-37.799095,
     "geom:longitude":175.316238,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914271,
+        102079271,
+        85780931
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EGizvZuYuYTdETvCoGqVv_-37.799095_175.316238@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"42582a4f13458c4b1ef3db37b31edf1e",
+    "wof:geomhash":"4a8c3c46fa544682eba47f3af7cbbf66",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
+            "locality_id":101914271,
+            "neighbourhood_id":85780931,
+            "region_id":85687229,
             "venue_id":220156907
         }
     ],
     "wof:id":220156907,
-    "wof:lastmodified":1473798635,
+    "wof:lastmodified":1496775785,
     "wof:name":"Hillcrest Fruit & Vegetable Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780931,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

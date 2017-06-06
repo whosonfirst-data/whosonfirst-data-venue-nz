@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.968002,-45.097237,170.968002,-45.097237",
     "geom:latitude":-45.097237,
     "geom:longitude":170.968002,
@@ -23,29 +24,33 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w4tRnCNDJGlOW5QbB50w5_-45.097237_170.968002@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c136897e98d4e89afd5998164bc7f2c3",
+    "wof:geomhash":"6f03609c8ca7d2e63bbded094556839c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":219966397
         }
     ],
     "wof:id":219966397,
-    "wof:lastmodified":1473798794,
+    "wof:lastmodified":1496776264,
     "wof:name":"Versatile Buildings",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.661591,-36.918701,174.661591,-36.918701",
     "geom:latitude":-36.918701,
     "geom:longitude":174.661591,
@@ -35,29 +36,31 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85779015,
+        102191583,
+        85633345,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6P6rj2NZIfmZz15eGg4kmH_-36.918701_174.661591@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"31d30cb68372eb64faa6329ce42eca45",
+    "wof:geomhash":"c1fc74cedcdd2f2cdc8d31dbd1427b1b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85779015,
+            "region_id":85687243,
             "venue_id":202764263
         }
     ],
     "wof:id":202764263,
-    "wof:lastmodified":1473798723,
+    "wof:lastmodified":1496775641,
     "wof:name":"Maaka T Tibble & Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":85779015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

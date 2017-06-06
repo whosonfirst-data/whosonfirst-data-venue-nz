@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.773758,-38.055702,175.773758,-38.055702",
     "geom:latitude":-38.055702,
     "geom:longitude":175.773758,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915689,
+        102079277
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b0My5p6obPLKvlTudIHAA_-38.055702_175.773758@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7e7841088557b9dc0939176035023e29",
+    "wof:geomhash":"4b34315a5c5282f37e6a47c59b6e1a5a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":101915689,
+            "region_id":85687229,
             "venue_id":185958453
         }
     ],
     "wof:id":185958453,
-    "wof:lastmodified":1473798658,
+    "wof:lastmodified":1496776825,
     "wof:name":"Putaruru Bowling Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

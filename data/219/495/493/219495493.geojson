@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.269592,-37.752316,175.269592,-37.752316",
     "geom:latitude":-37.752316,
     "geom:longitude":175.269592,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
+        101914271,
+        102079271,
         85781849
     ],
     "wof:breaches":[],
@@ -41,20 +45,20 @@
         "sg:id":"SG_2WpA6HGpB4k4elP7msuDN7_-37.752316_175.269592@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d4b151e4913e6da80bf145c3ffa1f0ed",
+    "wof:geomhash":"7d2f507cbf0591526dd53322e7093d6f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079271,
+            "locality_id":101914271,
             "neighbourhood_id":85781849,
-            "region_id":-1,
+            "region_id":85687229,
             "venue_id":219495493
         }
     ],
     "wof:id":219495493,
-    "wof:lastmodified":1473798715,
+    "wof:lastmodified":1496775783,
     "wof:name":"Sue Mayo Swim School",
     "wof:parent_id":85781849,
     "wof:placetype":"venue",

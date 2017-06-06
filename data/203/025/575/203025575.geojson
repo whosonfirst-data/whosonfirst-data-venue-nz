@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.579971,-43.487617,172.579971,-43.487617",
     "geom:latitude":-43.487617,
     "geom:longitude":172.579971,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778169
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JGbOkiL2uWzo7ZvsGMil8_-43.487617_172.579971@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"38cfa849ec454ea29c871ab257847cc4",
+    "wof:geomhash":"06c97aea17fbf252e7bff13a50b90427",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778169,
+            "region_id":85687179,
             "venue_id":203025575
         }
     ],
     "wof:id":203025575,
-    "wof:lastmodified":1473798570,
+    "wof:lastmodified":1496776063,
     "wof:name":"Ecomist Canterbury",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

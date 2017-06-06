@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.377487,-46.426693,168.377487,-46.426693",
     "geom:latitude":-46.426693,
     "geom:longitude":168.377487,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781463
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3raTqkPepmmyvHldAjrjJH_-46.426693_168.377487@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3d34ec74965a717587f67cf43725b5f3",
+    "wof:geomhash":"d39985a85a96a25c9226c37b1057b201",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781463,
+            "region_id":85687211,
             "venue_id":185691805
         }
     ],
     "wof:id":185691805,
-    "wof:lastmodified":1473798606,
+    "wof:lastmodified":1496776726,
     "wof:name":"Bouncy Castles",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

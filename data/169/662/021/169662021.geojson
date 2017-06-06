@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.1427,-37.667744,176.1427,-37.667744",
     "geom:latitude":-37.667744,
     "geom:longitude":176.1427,
@@ -24,29 +25,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/cherrywoodflorist/dp48223.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914325,
+        102079285,
+        85781309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iwSgZgaXpb2olv49fSD01_-37.667744_176.142700@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8cedbde8ebec076c7287beffe995ebb9",
+    "wof:geomhash":"252cf407dbd1e1554b3a4ff1af0343d8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101914325,
+            "neighbourhood_id":85781309,
+            "region_id":85687175,
             "venue_id":169662021
         }
     ],
     "wof:id":169662021,
-    "wof:lastmodified":1473798608,
+    "wof:lastmodified":1496775866,
     "wof:name":"Cherrywood Florist",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

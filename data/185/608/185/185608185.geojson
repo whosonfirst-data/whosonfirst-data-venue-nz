@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.933243,-36.895584,174.933243,-36.895584",
     "geom:latitude":-36.895584,
     "geom:longitude":174.933243,
@@ -34,29 +35,34 @@
     "sg:website":"http://www.montereyartgallery.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85772971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VmrqU6xjDE2up6xZMDTBf_-36.895584_174.933243@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cab513700274e5b8c2d1803915c9dca8",
+    "wof:geomhash":"28f52bd27394eb2a127d78b258fc7dc5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772971,
+            "region_id":85687243,
             "venue_id":185608185
         }
     ],
     "wof:id":185608185,
-    "wof:lastmodified":1473798553,
+    "wof:lastmodified":1496775480,
     "wof:name":"Monterey Art Gallery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"169.744843,-46.232124,169.744843,-46.232124",
     "geom:latitude":-46.232124,
     "geom:longitude":169.744843,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914847,
+        102079389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LcD3Aw5oEG0cIyYBzaPGf_-46.232124_169.744843@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cdbd5a3678767a4ec7ec223ab4608181",
+    "wof:geomhash":"47d7c0bdbe4dba9cd503aa80492ee771",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":101914847,
+            "region_id":85687201,
             "venue_id":203037719
         }
     ],
     "wof:id":203037719,
-    "wof:lastmodified":1473798584,
+    "wof:lastmodified":1496776359,
     "wof:name":"Allen S J Balclutha",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

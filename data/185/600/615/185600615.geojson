@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.2229,-38.13876,176.2229,-38.13876",
     "geom:latitude":-38.13876,
     "geom:longitude":176.2229,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079289,
+        85781203
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0I9ToPewM5iok0PLF3LpeF_-38.138760_176.222900@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"447dbebe60e076e45b03956965600d74",
+    "wof:geomhash":"4ccf4eda4334c4156a62ae0a6324e3f7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781203,
+            "region_id":85687175,
             "venue_id":185600615
         }
     ],
     "wof:id":185600615,
-    "wof:lastmodified":1473798549,
+    "wof:lastmodified":1496776174,
     "wof:name":"Able Art",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

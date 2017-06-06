@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.016861,-38.651966,178.016861,-38.651966",
     "geom:latitude":-38.651966,
     "geom:longitude":178.016861,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2z54j1WxDvHYKVKiCYkKpH_-38.651966_178.016861@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e4651689b9e69584598ebceced8f48b8",
+    "wof:geomhash":"7a1529b4c5c6b18f964fe650c6f7c1ea",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":185691603
         }
     ],
     "wof:id":185691603,
-    "wof:lastmodified":1473798617,
+    "wof:lastmodified":1496776125,
     "wof:name":"Bouncers Inflatable Castles",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

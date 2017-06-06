@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.688889,-43.514896,172.688889,-43.514896",
     "geom:latitude":-43.514896,
     "geom:longitude":172.688889,
@@ -31,29 +32,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aWvEK8bzv2Q2vxTG2KDUu_-43.514896_172.688889@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0178bfb0b8a37daa7ddb3b248ef1d383",
+    "wof:geomhash":"a21b5867883ca949170fea488293597d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778711,
+            "region_id":85687179,
             "venue_id":220054481
         }
     ],
     "wof:id":220054481,
-    "wof:lastmodified":1473798615,
+    "wof:lastmodified":1496776052,
     "wof:name":"Double R Softdrinks Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

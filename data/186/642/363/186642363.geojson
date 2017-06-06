@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.787903,-41.293385,174.787903,-41.293385",
     "geom:latitude":-41.293385,
     "geom:longitude":174.787903,
@@ -35,9 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85778473
     ],
     "wof:breaches":[],
@@ -45,20 +48,20 @@
         "sg:id":"SG_2sxAwI66InO6GvCAW6a78o_-41.293385_174.787903@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"80aa03223c9df5284cff70250a34bb14",
+    "wof:geomhash":"fed3989a9757a3241cc1e1d49f68e27a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85778473,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":186642363
         }
     ],
     "wof:id":186642363,
-    "wof:lastmodified":1473798767,
+    "wof:lastmodified":1496775828,
     "wof:name":"Steve Thomson",
     "wof:parent_id":85778473,
     "wof:placetype":"venue",

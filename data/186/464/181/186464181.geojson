@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.749176,-36.634243,174.749176,-36.634243",
     "geom:latitude":-36.634243,
     "geom:longitude":174.749176,
@@ -22,29 +23,34 @@
     "sg:phone":"+64 25481435",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914559,
+        102079403,
+        85781995
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tI5lBhQ8Q0fCY8SrAgS8y_-36.634243_174.749176@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e65008440741e88c309678b0c92d44b2",
+    "wof:geomhash":"6687c65f12686a2249af07c69ede5d46",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914559,
+            "neighbourhood_id":85781995,
+            "region_id":85687243,
             "venue_id":186464181
         }
     ],
     "wof:id":186464181,
-    "wof:lastmodified":1473798749,
+    "wof:lastmodified":1496776111,
     "wof:name":"Harrison Drilling",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781995,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

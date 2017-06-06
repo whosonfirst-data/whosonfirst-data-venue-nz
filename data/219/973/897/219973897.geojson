@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.157303,-38.329704,175.157303,-38.329704",
     "geom:latitude":-38.329704,
     "geom:longitude":175.157303,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914457,
+        102079279
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qzdA0sZEyTNwqRPeMecoP_-38.329704_175.157303@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1c038084cb43f18c8bc3dc5021fa4b11",
+    "wof:geomhash":"ef5b2d20e4449ad4ca22e4a968ec8ea1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079279,
+            "locality_id":101914457,
+            "region_id":85687229,
             "venue_id":219973897
         }
     ],
     "wof:id":219973897,
-    "wof:lastmodified":1473798795,
+    "wof:lastmodified":1496775979,
     "wof:name":"Stocktech Waipa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

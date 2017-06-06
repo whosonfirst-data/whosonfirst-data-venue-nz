@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.823334,-41.221859,174.823334,-41.221859",
     "geom:latitude":-41.221859,
     "geom:longitude":174.823334,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85781039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nPI7dSRaAZN5Asg8hNXTY_-41.221859_174.823334@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5dc20beaf2b8ff2ed8704dee983154ef",
+    "wof:geomhash":"c9a77f62af2f4b02ccda95d7cae55164",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85781039,
+            "region_id":85687233,
             "venue_id":185760581
         }
     ],
     "wof:id":185760581,
-    "wof:lastmodified":1473798612,
+    "wof:lastmodified":1496775807,
     "wof:name":"Northern Squash Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

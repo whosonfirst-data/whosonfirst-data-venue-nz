@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.663498,-40.95969,175.663498,-40.95969",
     "geom:latitude":-40.95969,
     "geom:longitude":175.663498,
@@ -36,29 +37,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079343,
+        85780973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZW6GdDMO1aSZbHuM7P6C0_-40.959690_175.663498@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"231ebd31535c90b14239cede000fee8b",
+    "wof:geomhash":"92128d4d7355e7b5428a904a5c23bab1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780973,
+            "region_id":85687233,
             "venue_id":185919265
         }
     ],
     "wof:id":185919265,
-    "wof:lastmodified":1473798638,
+    "wof:lastmodified":1496776767,
     "wof:name":"Inder Dance/Drama",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.805664,-36.604321,174.805664,-36.604321",
     "geom:latitude":-36.604321,
     "geom:longitude":174.805664,
@@ -36,29 +37,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914559,
+        102079403,
+        85782001
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3piEdsNB2RbOPad4pVxySi_-36.604321_174.805664@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0b21a0185c175e29bd32e35908d43003",
+    "wof:geomhash":"f4d4cac80963c091eed199172183ff01",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914559,
+            "neighbourhood_id":85782001,
+            "region_id":85687243,
             "venue_id":169791095
         }
     ],
     "wof:id":169791095,
-    "wof:lastmodified":1473798637,
+    "wof:lastmodified":1496776107,
     "wof:name":"Serious Fishing Co Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

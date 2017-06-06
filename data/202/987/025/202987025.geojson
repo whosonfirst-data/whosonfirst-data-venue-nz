@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.516327,-45.8992,170.516327,-45.8992",
     "geom:latitude":-45.8992,
     "geom:longitude":170.516327,
@@ -23,29 +24,34 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85781647
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hyYbZqE1sAmCiiI8gnarC_-45.899200_170.516327@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fdc56a9ddd2fe6b1a1fccb994da1abc0",
+    "wof:geomhash":"b538b9b97867238c77235ef99a09c72c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85781647,
+            "region_id":85687201,
             "venue_id":202987025
         }
     ],
     "wof:id":202987025,
-    "wof:lastmodified":1473798757,
+    "wof:lastmodified":1496775773,
     "wof:name":"4 Corners Property Maintenance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

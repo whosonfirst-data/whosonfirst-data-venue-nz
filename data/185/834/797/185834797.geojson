@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.224518,-44.398304,171.224518,-44.398304",
     "geom:latitude":-44.398304,
     "geom:longitude":171.224518,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39uj5zFBZ6jXimqjJkFp9k_-44.398304_171.224518@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3188bb79e17b52669e3eeef73c703c65",
+    "wof:geomhash":"d53e20766669763d20b032d023d2ff74",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "region_id":85687179,
             "venue_id":185834797
         }
     ],
     "wof:id":185834797,
-    "wof:lastmodified":1473798634,
+    "wof:lastmodified":1496776747,
     "wof:name":"Institute of Registered Music Teachers of NZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

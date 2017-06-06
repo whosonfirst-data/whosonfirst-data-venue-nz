@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.905777,-41.225697,174.905777,-41.225697",
     "geom:latitude":-41.225697,
     "geom:longitude":174.905777,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914319,
+        102079337,
+        85778465
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XwDfz1mxWLRB6cjrqrm2e_-41.225697_174.905777@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"780f4165bae3b2dda6af19c40a374535",
+    "wof:geomhash":"d8c7a71650347b9fb90084647d7531af",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914319,
+            "neighbourhood_id":85778465,
+            "region_id":85687233,
             "venue_id":186198383
         }
     ],
     "wof:id":186198383,
-    "wof:lastmodified":1473798709,
+    "wof:lastmodified":1496775857,
     "wof:name":"Tool & Gauge Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

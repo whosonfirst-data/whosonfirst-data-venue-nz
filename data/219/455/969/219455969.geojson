@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.610214,-40.340939,175.610214,-40.340939",
     "geom:latitude":-40.340939,
     "geom:longitude":175.610214,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_2teP9vScmqVU16ZiAnus6Y_-40.340939_175.610214@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f5f4f49b5fd72005369e45e828a521f2",
+    "wof:geomhash":"fbb7093e24a3cfa7fac151972d84648c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":219455969
         }
     ],
     "wof:id":219455969,
-    "wof:lastmodified":1473798726,
+    "wof:lastmodified":1496775738,
     "wof:name":"Home Schooling Advice Network",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

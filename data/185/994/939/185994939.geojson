@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.481461,-45.852009,170.481461,-45.852009",
     "geom:latitude":-45.852009,
     "geom:longitude":170.481461,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67pWCRpNnOZoWGUQEdLDPb_-45.852009_170.481461@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4e9ff44203fe0c70cac546e9f889f4d3",
+    "wof:geomhash":"0dba1b25338f4516b9632bec5186c18b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "region_id":85687201,
             "venue_id":185994939
         }
     ],
     "wof:id":185994939,
-    "wof:lastmodified":1473798670,
+    "wof:lastmodified":1496775769,
     "wof:name":"Brown E W G JP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.228699,-45.85714,170.228699,-45.85714",
     "geom:latitude":-45.85714,
     "geom:longitude":170.228699,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-486 1225",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915049,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68atmupQk3HLHApAY3sqMU_-45.857140_170.228699@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2d1683514f555b70334f308802906ad9",
+    "wof:geomhash":"8dd7abd85a0280086c0a26d7d84702ad",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101915049,
+            "region_id":85687201,
             "venue_id":186179707
         }
     ],
     "wof:id":186179707,
-    "wof:lastmodified":1473798675,
+    "wof:lastmodified":1496776526,
     "wof:name":"Chaplin Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

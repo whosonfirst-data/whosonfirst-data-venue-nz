@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.726028,-43.627613,172.726028,-43.627613",
     "geom:latitude":-43.627613,
     "geom:longitude":172.726028,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914441,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BtDxQnRzD0jKZAc88Y6Di_-43.627613_172.726028@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fef30d7385c1f1f36af7c9cd100a3989",
+    "wof:geomhash":"51868fa22d2da69b648256487b362348",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914441,
+            "region_id":85687179,
             "venue_id":202743411
         }
     ],
     "wof:id":202743411,
-    "wof:lastmodified":1473798721,
+    "wof:lastmodified":1496775973,
     "wof:name":"Diamond Harbour Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.856079,-37.023319,174.856079,-37.023319",
     "geom:latitude":-37.023319,
     "geom:longitude":174.856079,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914625,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WBR5kQOjguihbDiywpg7i_-37.023319_174.856079@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e62836ce736dc5e3fb66ff5bfb24e1ac",
+    "wof:geomhash":"7f61b4d470bf27341cb4246ed46303c8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914625,
+            "region_id":85687243,
             "venue_id":186067439
         }
     ],
     "wof:id":186067439,
-    "wof:lastmodified":1473798617,
+    "wof:lastmodified":1496776148,
     "wof:name":"Sandon Textured Ceilings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

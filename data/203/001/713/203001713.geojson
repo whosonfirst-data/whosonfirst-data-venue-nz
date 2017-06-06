@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.979584,-40.938499,174.979584,-40.938499",
     "geom:latitude":-40.938499,
     "geom:longitude":174.979584,
@@ -24,27 +25,30 @@
     "sg:website":"http://www.yellowpages.co.nz/for/habitattreesurgery/dp55183.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YoSJK4iS8wjti9eycE9ig_-40.938499_174.979584@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"df5cafcdbdd083ebd86d14057167bd2a",
+    "wof:geomhash":"e4e65e65c629431a931f62975eff7b0b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":203001713
         }
     ],
     "wof:id":203001713,
-    "wof:lastmodified":1473798551,
+    "wof:lastmodified":1496776177,
     "wof:name":"Habitat Tree Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

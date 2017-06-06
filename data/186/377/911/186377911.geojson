@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.723587,-36.917694,174.723587,-36.917694",
     "geom:latitude":-36.917694,
     "geom:longitude":174.723587,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782439
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xKArruzrF5Tf6eUqrdIwn_-36.917694_174.723587@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"54c086bddf9a2096f64c1eb9b9e80158",
+    "wof:geomhash":"b4435ed80c2686a922c7d86d7216cf5e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782439,
+            "region_id":85687243,
             "venue_id":186377911
         }
     ],
     "wof:id":186377911,
-    "wof:lastmodified":1473798744,
+    "wof:lastmodified":1496775561,
     "wof:name":"General Bearing Supplies Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

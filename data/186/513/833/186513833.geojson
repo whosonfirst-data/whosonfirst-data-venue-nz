@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.593887,-40.360237,175.593887,-40.360237",
     "geom:latitude":-40.360237,
     "geom:longitude":175.593887,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_25C2Ol8Tvy71lYlAFQQRiJ_-40.360237_175.593887@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"35886a6077ab790f4b14d529cf4102a3",
+    "wof:geomhash":"6879718a98f21bec4d6d76d43d309b5a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":186513833
         }
     ],
     "wof:id":186513833,
-    "wof:lastmodified":1473798765,
+    "wof:lastmodified":1496775739,
     "wof:name":"Infinite Grace",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.810501,-41.221756,174.810501,-41.221756",
     "geom:latitude":-41.221756,
     "geom:longitude":174.810501,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85781039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Yp9p8SkJp8HH7KbGV7SD2_-41.221756_174.810501@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"55c31f387bfcd4cf85ac37df867c1a0b",
+    "wof:geomhash":"59d84c6ff9a92405635c107186df65d7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85781039,
+            "region_id":85687233,
             "venue_id":202740603
         }
     ],
     "wof:id":202740603,
-    "wof:lastmodified":1473798718,
+    "wof:lastmodified":1496775817,
     "wof:name":"Aotea Hospital",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

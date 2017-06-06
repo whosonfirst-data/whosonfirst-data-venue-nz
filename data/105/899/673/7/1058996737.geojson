@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.750701904,-43.2123413086,172.750701904,-43.2123413086",
     "geom:latitude":-43.212341,
     "geom:longitude":172.750702,
@@ -18,17 +19,32 @@
     "sg:phone":"+64 252830600",
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687179,
+        102191583,
+        85633345,
+        101915887,
+        102079365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HXiUp45vs3vtdnPQNlHok_-43.212341_172.750702@1306270034"
     },
     "wof:country":"NZ",
     "wof:created":1473719377,
-    "wof:geomhash":"1464a01de438fcba267ac0fddb958b0f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dc35df02331f7dc6b59396282533ad30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079365,
+            "locality_id":101915887,
+            "region_id":85687179,
+            "venue_id":1058996737
+        }
+    ],
     "wof:id":1058996737,
-    "wof:lastmodified":1473719377,
+    "wof:lastmodified":1496776859,
     "wof:name":"Blow Up Bob",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

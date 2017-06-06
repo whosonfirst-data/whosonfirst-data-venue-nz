@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.140915,-37.714352,176.140915,-37.714352",
     "geom:latitude":-37.714352,
     "geom:longitude":176.140915,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85782819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_193NAFHrHPlBD0WfVr0XD5_-37.714352_176.140915@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e2edd7a32eee3031a767d0d208c686f6",
+    "wof:geomhash":"bc50cc49c5483166b9183f20b78667b8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782819,
+            "region_id":85687175,
             "venue_id":202417205
         }
     ],
     "wof:id":202417205,
-    "wof:lastmodified":1473798614,
+    "wof:lastmodified":1496775882,
     "wof:name":"Gate Pa Medical Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

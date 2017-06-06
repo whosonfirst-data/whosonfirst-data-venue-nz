@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.593002,-40.372711,175.593002,-40.372711",
     "geom:latitude":-40.372711,
     "geom:longitude":175.593002,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780841
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_2P8gNknyrYMw8C1Y71dGKc_-40.372711_175.593002@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4f174fd194e83ba173a7e1867d3251e2",
+    "wof:geomhash":"476b8b573c4afb847583fc2c0ff7c32d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780841,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":203117579
         }
     ],
     "wof:id":203117579,
-    "wof:lastmodified":1473798639,
+    "wof:lastmodified":1496775739,
     "wof:name":"Anderson's Veterinary Hospital",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.242691,-38.035484,176.242691,-38.035484",
     "geom:latitude":-38.035484,
     "geom:longitude":176.242691,
@@ -36,27 +37,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101916563,
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Y4bcP3X8jFa9vd98E0Jbs_-38.035484_176.242691@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"328c5ffa9908b80ba8d9f3e9649422f4",
+    "wof:geomhash":"3ddd12e4ad4241c53f326f90a01ee656",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101916563,
+            "region_id":85687175,
             "venue_id":169791451
         }
     ],
     "wof:id":169791451,
-    "wof:lastmodified":1473798640,
+    "wof:lastmodified":1496776918,
     "wof:name":"Silver Hilton Trout Fishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.76622,-36.630104,174.76622,-36.630104",
     "geom:latitude":-36.630104,
     "geom:longitude":174.76622,
@@ -23,8 +24,11 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914559,
+        102079403,
         85781689
     ],
     "wof:breaches":[],
@@ -32,20 +36,20 @@
         "sg:id":"SG_4X49eRT0Pp4hV6aEJki5gy_-36.630104_174.766220@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c63064fd22d428490fa6e8cf0c81554d",
+    "wof:geomhash":"141876f02e91b22dac5d6f88ebbd5dc1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914559,
             "neighbourhood_id":85781689,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202403633
         }
     ],
     "wof:id":202403633,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496776108,
     "wof:name":"NorthHaven Medical Hospital",
     "wof:parent_id":85781689,
     "wof:placetype":"venue",

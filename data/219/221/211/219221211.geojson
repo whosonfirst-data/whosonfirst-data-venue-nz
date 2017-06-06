@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.934113,-36.902191,174.934113,-36.902191",
     "geom:latitude":-36.902191,
     "geom:longitude":174.934113,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85772971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SAxLQP9rtJNzSTzvjCd6n_-36.902191_174.934113@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d5a0e46e4031dcd7cece68263c6799b8",
+    "wof:geomhash":"25661471bad716e3b67694376db98dbd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772971,
+            "region_id":85687243,
             "venue_id":219221211
         }
     ],
     "wof:id":219221211,
-    "wof:lastmodified":1473798639,
+    "wof:lastmodified":1496775503,
     "wof:name":"Ronfleet International Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

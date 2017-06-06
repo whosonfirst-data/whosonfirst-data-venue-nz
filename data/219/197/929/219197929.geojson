@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.346985,-46.397198,168.346985,-46.397198",
     "geom:latitude":-46.397198,
     "geom:longitude":168.346985,
@@ -23,29 +24,34 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781431
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RnyBDJFDUXbiCFxHZFgDZ_-46.397198_168.346985@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"386dc110d78da3ae0e76dbe2928f519d",
+    "wof:geomhash":"44f652a16092a5cf1102aad5c3239c8e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781431,
+            "region_id":85687211,
             "venue_id":219197929
         }
     ],
     "wof:id":219197929,
-    "wof:lastmodified":1473798621,
+    "wof:lastmodified":1496776715,
     "wof:name":"Taxi Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

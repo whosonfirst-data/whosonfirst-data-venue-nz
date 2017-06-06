@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.309845,-35.742729,174.309845,-35.742729",
     "geom:latitude":-35.742729,
     "geom:longitude":174.309845,
@@ -23,29 +24,34 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257,
+        85781713
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Fyo8zbmAO4ZyZmNZ8JsvI_-35.742729_174.309845@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9f409bc286c7dd94e7a48140947e6b69",
+    "wof:geomhash":"9328fa764c5ee887a6b35d3d045441c8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "neighbourhood_id":85781713,
+            "region_id":85687149,
             "venue_id":219213551
         }
     ],
     "wof:id":219213551,
-    "wof:lastmodified":1473798632,
+    "wof:lastmodified":1496775344,
     "wof:name":"Online Freight Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.611816,-40.347244,175.611816,-40.347244",
     "geom:latitude":-40.347244,
     "geom:longitude":175.611816,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_02iPwtDAyVmKRSa6oQyjMv_-40.347244_175.611816@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9544e45c4c045e62a2792257d4f51796",
+    "wof:geomhash":"86a75d4f6749695d05145d5691fc7f18",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":203357975
         }
     ],
     "wof:id":203357975,
-    "wof:lastmodified":1473798690,
+    "wof:lastmodified":1496775734,
     "wof:name":"Cobbler",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

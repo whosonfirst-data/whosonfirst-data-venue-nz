@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.782806,-38.050781,175.782806,-38.050781",
     "geom:latitude":-38.050781,
     "geom:longitude":175.782806,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-883 7544",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915689,
+        102079277
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0A9pK54qnoTEDAywZkTt2u_-38.050781_175.782806@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e2e8d3dd51c17fc5226065cbed665608",
+    "wof:geomhash":"7d4e9dcaf2812cc2d7427a20bb20ec96",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":101915689,
+            "region_id":85687229,
             "venue_id":186138849
         }
     ],
     "wof:id":186138849,
-    "wof:lastmodified":1473798670,
+    "wof:lastmodified":1496776823,
     "wof:name":"Putaruru Engineering Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

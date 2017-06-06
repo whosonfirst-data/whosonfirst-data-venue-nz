@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.791687,-41.246193,174.791687,-41.246193",
     "geom:latitude":-41.246193,
     "geom:longitude":174.791687,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85781175
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pVY6lux6Qn4R6YIoGqKDg_-41.246193_174.791687@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5feaf9f6c8519c9ec236bd435d6fab09",
+    "wof:geomhash":"4a6ff9e2af8e1bff4235fb23024b5f77",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85781175,
+            "region_id":85687233,
             "venue_id":186005387
         }
     ],
     "wof:id":186005387,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496775817,
     "wof:name":"Newell K W JP",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

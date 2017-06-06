@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.774246,-36.782696,174.774246,-36.782696",
     "geom:latitude":-36.782696,
     "geom:longitude":174.774246,
@@ -23,41 +24,43 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        85773217,
-        85778459
+        102079403,
+        85778459,
+        85773217
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iII3LgUaAmKh628EM5PNm_-36.782696_174.774246@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"349fd26ede4e3202861c71fc35fdc1b7",
+    "wof:geomhash":"22f08b8cff60a55bb02202db2f408134",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":85773217,
-            "region_id":-1,
+            "neighbourhood_id":85778459,
+            "region_id":85687243,
             "venue_id":203399319
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":85778459,
-            "region_id":-1,
+            "neighbourhood_id":85773217,
+            "region_id":85687243,
             "venue_id":203399319
         }
     ],
     "wof:id":203399319,
-    "wof:lastmodified":1473798688,
+    "wof:lastmodified":1496775603,
     "wof:name":"Young Jim Yacht Designer",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.755753,-36.892178,174.755753,-36.892178",
     "geom:latitude":-36.892178,
     "geom:longitude":174.755753,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24FC8CVqFroCCPIHINlzoQ_-36.892178_174.755753@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2e1b3975a31c03924783db416d0c6bbb",
+    "wof:geomhash":"f7312237603bd3752c440db0ebfb9ea0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778845,
+            "region_id":85687243,
             "venue_id":185999195
         }
     ],
     "wof:id":185999195,
-    "wof:lastmodified":1473798701,
+    "wof:lastmodified":1496775469,
     "wof:name":"Gola Rhonda Joy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

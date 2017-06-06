@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.238297,-44.409328,171.238297,-44.409328",
     "geom:latitude":-44.409328,
     "geom:longitude":171.238297,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75vLZggJdKys0qVepByoPr_-44.409328_171.238297@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fc531d28653445770c4986d9e3c7bed2",
+    "wof:geomhash":"95996e0fbad30f27c84f73b9bf5b2d0c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781671,
+            "region_id":85687179,
             "venue_id":203206843
         }
     ],
     "wof:id":203206843,
-    "wof:lastmodified":1473798654,
+    "wof:lastmodified":1496776739,
     "wof:name":"Zulu Zoo 2002",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.375732,-46.435093,168.375732,-46.435093",
     "geom:latitude":-46.435093,
     "geom:longitude":168.375732,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6C6ag0aYon1lzUlsAlvxQ0_-46.435093_168.375732@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e7f2fc5db8886603f9b3e7eba9f40796",
+    "wof:geomhash":"c0e70b301358ca8cc0ae10503fe3689f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":169570843
         }
     ],
     "wof:id":169570843,
-    "wof:lastmodified":1473798584,
+    "wof:lastmodified":1496776719,
     "wof:name":"Choose Health",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.003769,-41.29649,174.003769,-41.29649",
     "geom:latitude":-41.29649,
     "geom:longitude":174.003769,
@@ -34,27 +35,30 @@
     "sg:website":"http://www.marlinmotel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101915339,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5viG19ZO0MgNKbMPCfvwTe_-41.296490_174.003769@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9c57a41ce01c275a9d3eedeffed36b20",
+    "wof:geomhash":"8188fe31a25e3773f97ded4ce9eb4022",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101915339,
+            "region_id":85687185,
             "venue_id":219311463
         }
     ],
     "wof:id":219311463,
-    "wof:lastmodified":1473798673,
+    "wof:lastmodified":1496776678,
     "wof:name":"Marlin Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

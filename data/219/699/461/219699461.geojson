@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.325867,-37.799938,175.325867,-37.799938",
     "geom:latitude":-37.799938,
     "geom:longitude":175.325867,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
+        101914271,
+        102079271,
         85782881
     ],
     "wof:breaches":[],
@@ -43,20 +47,20 @@
         "sg:id":"SG_7Wj0lVekw5NENL1WptJ8cn_-37.799938_175.325867@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"376a83efe51a8a90422a395513a65098",
+    "wof:geomhash":"62b7142b5a494af1251706a88d5147ce",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079271,
+            "locality_id":101914271,
             "neighbourhood_id":85782881,
-            "region_id":-1,
+            "region_id":85687229,
             "venue_id":219699461
         }
     ],
     "wof:id":219699461,
-    "wof:lastmodified":1473798792,
+    "wof:lastmodified":1496775780,
     "wof:name":"City Caravan Rentals",
     "wof:parent_id":85782881,
     "wof:placetype":"venue",

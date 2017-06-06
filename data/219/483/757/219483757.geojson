@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.675034,-37.381428,175.675034,-37.381428",
     "geom:latitude":-37.381428,
     "geom:longitude":175.675034,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-862 8342",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914241,
+        102079263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ReHmgoI9odAcBV9xOVFCn_-37.381428_175.675034@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8053e6a86717c51ae9e5a53c42aa442f",
+    "wof:geomhash":"2e78cb90a3baf15cc3baa35dcd3b8e34",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079263,
+            "locality_id":101914241,
+            "region_id":85687229,
             "venue_id":219483757
         }
     ],
     "wof:id":219483757,
-    "wof:lastmodified":1473798715,
+    "wof:lastmodified":1496775300,
     "wof:name":"Paeroa Central School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

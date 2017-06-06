@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.740753,-36.760098,174.740753,-36.760098",
     "geom:latitude":-36.760098,
     "geom:longitude":174.740753,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32k6pHQphWrGMaxkaIjl2Q_-36.760098_174.740753@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b60fe241f52ec3b107095505be0879ed",
+    "wof:geomhash":"9786fd8c4b5e4e438cb2ebeb18fab2e1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778285,
+            "region_id":85687243,
             "venue_id":202440539
         }
     ],
     "wof:id":202440539,
-    "wof:lastmodified":1473798650,
+    "wof:lastmodified":1496777143,
     "wof:name":"North Shore Optometrists",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

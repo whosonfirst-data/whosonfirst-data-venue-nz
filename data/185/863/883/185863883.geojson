@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.773544,-37.81176,175.773544,-37.81176",
     "geom:latitude":-37.81176,
     "geom:longitude":175.773544,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915135,
+        102079267
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oPekfyQsWBUxG5eTpQVKe_-37.811760_175.773544@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0a86276aeaefdfc54ea8358671eebad6",
+    "wof:geomhash":"fb8fd11c04a0a09f9972614cf224d5d0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101915135,
+            "region_id":85687229,
             "venue_id":185863883
         }
     ],
     "wof:id":185863883,
-    "wof:lastmodified":1473798636,
+    "wof:lastmodified":1496776553,
     "wof:name":"Sky Dive Waikato",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

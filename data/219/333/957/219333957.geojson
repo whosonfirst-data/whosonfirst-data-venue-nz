@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.005371,-38.652065,178.005371,-38.652065",
     "geom:latitude":-38.652065,
     "geom:longitude":178.005371,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0b1xQ4o4lG1EskVhZ18aaz_-38.652065_178.005371@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ddc3063e0702120e1dcebc1dcd235fd8",
+    "wof:geomhash":"fd12965d82daa698d151daa8d79bac19",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":219333957
         }
     ],
     "wof:id":219333957,
-    "wof:lastmodified":1473798686,
+    "wof:lastmodified":1496776127,
     "wof:name":"Tolaga Bay Inn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

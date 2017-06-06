@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.620422,-40.337215,175.620422,-40.337215",
     "geom:latitude":-40.337215,
     "geom:longitude":175.620422,
@@ -34,29 +35,33 @@
     "sg:website":"http://www.yellowpages.co.nz/for/aabode/dp48283.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079307,
+        85781111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OQiuINEJeYnVq8eOJJyO8_-40.337215_175.620422@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8a384bdded7fd15b2e1528dfb94b2bac",
+    "wof:geomhash":"0dc4c3ffb549b6fb5e3d166e8b41e956",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781111,
+            "region_id":85687251,
             "venue_id":219306199
         }
     ],
     "wof:id":219306199,
-    "wof:lastmodified":1473798672,
+    "wof:lastmodified":1496775743,
     "wof:name":"A'Abode Motor Lodge",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

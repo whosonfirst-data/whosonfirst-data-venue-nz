@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.65744,-43.318832,172.65744,-43.318832",
     "geom:latitude":-43.318832,
     "geom:longitude":172.65744,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915327,
+        102079367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uMgrP8syiGDfJInn3oEDY_-43.318832_172.657440@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c302988a48c02b66526c0ef2931d60bc",
+    "wof:geomhash":"f9271d78e4ee0e85d7e90929e0686f92",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079367,
+            "locality_id":101915327,
+            "region_id":85687179,
             "venue_id":202756417
         }
     ],
     "wof:id":202756417,
-    "wof:lastmodified":1473798718,
+    "wof:lastmodified":1496776661,
     "wof:name":"Bloomfield Court Retirement Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

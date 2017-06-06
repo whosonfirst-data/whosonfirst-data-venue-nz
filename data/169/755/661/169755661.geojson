@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.714279,-37.54192,175.714279,-37.54192",
     "geom:latitude":-37.54192,
     "geom:longitude":175.714279,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-884 8140",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915341,
+        102079267
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pSwehkaOoGs308TqYXpAB_-37.541920_175.714279@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"471d9db28f3d3aa7ba5192674414b9c9",
+    "wof:geomhash":"c918cee1eb0ca1c789129705f0c02443",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101915341,
+            "region_id":85687229,
             "venue_id":169755661
         }
     ],
     "wof:id":169755661,
-    "wof:lastmodified":1473798623,
+    "wof:lastmodified":1496776688,
     "wof:name":"Optix New Zealand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

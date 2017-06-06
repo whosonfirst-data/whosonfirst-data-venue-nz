@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.922882,-41.202381,174.922882,-41.202381",
     "geom:latitude":-41.202381,
     "geom:longitude":174.922882,
@@ -23,9 +24,11 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914741,
+        101914319,
+        102079337,
         85778173
     ],
     "wof:breaches":[],
@@ -33,20 +36,20 @@
         "sg:id":"SG_40FXdCeThvo7AUVe4GC5Gj_-41.202381_174.922882@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c97c19e990cbc79ba19f1a94123a1eb0",
+    "wof:geomhash":"570626170ed4b56ed5bb421b3cab9121",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914741,
+            "county_id":102079337,
+            "locality_id":101914319,
             "neighbourhood_id":85778173,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":185904787
         }
     ],
     "wof:id":185904787,
-    "wof:lastmodified":1473798642,
+    "wof:lastmodified":1496775854,
     "wof:name":"Professional Golfers Assn of NZ",
     "wof:parent_id":85778173,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.253998,-38.149284,176.253998,-38.149284",
     "geom:latitude":-38.149284,
     "geom:longitude":176.253998,
@@ -23,29 +24,34 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914629,
+        102079289,
+        85780909
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FFZuAujc0LRvz0zcAqAVD_-38.149284_176.253998@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5ef5016e8b82e569c17fa3d0ad7ce046",
+    "wof:geomhash":"c0ab3d474ee0bf7d89538dcbc7c54c64",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914629,
+            "neighbourhood_id":85780909,
+            "region_id":85687175,
             "venue_id":185764943
         }
     ],
     "wof:id":185764943,
-    "wof:lastmodified":1473798620,
+    "wof:lastmodified":1496776171,
     "wof:name":"Rotorua Club Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

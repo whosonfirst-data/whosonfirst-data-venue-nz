@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.709869,-43.503239,172.709869,-43.503239",
     "geom:latitude":-43.503239,
     "geom:longitude":172.709869,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778761
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KEL1kcWvimki6WeOtoXf2_-43.503239_172.709869@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6a80f4a225cfa80d3d2fb208f90d4189",
+    "wof:geomhash":"5e32cd28f5ae24f2f6fc9e70f267f282",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778761,
+            "region_id":85687179,
             "venue_id":202832653
         }
     ],
     "wof:id":202832653,
-    "wof:lastmodified":1473798740,
+    "wof:lastmodified":1496776024,
     "wof:name":"Wood Plus Interiors Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.070663,-40.873554,175.070663,-40.873554",
     "geom:latitude":-40.873554,
     "geom:longitude":175.070663,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914637,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LPX6FIERqPUIJwW8YCfnx_-40.873554_175.070663@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f39e4578dab1d39d2d9a5afa742466e8",
+    "wof:geomhash":"a8a70d4004fa682c95e327cefe8737bd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914637,
+            "region_id":85687233,
             "venue_id":203274569
         }
     ],
     "wof:id":203274569,
-    "wof:lastmodified":1473798666,
+    "wof:lastmodified":1496776197,
     "wof:name":"Pleatwear Manufacturing (1985) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

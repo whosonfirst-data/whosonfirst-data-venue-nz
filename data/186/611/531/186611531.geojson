@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.209961,-44.385571,171.209961,-44.385571",
     "geom:latitude":-44.385571,
     "geom:longitude":171.209961,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781471
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58wMWe2vldySI2uq7X20UG_-44.385571_171.209961@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3a827e4f99b65e09d7e10a5b368d24f0",
+    "wof:geomhash":"1b6bca490ebc6ee8fa0772ea56ac9d1a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781471,
+            "region_id":85687179,
             "venue_id":186611531
         }
     ],
     "wof:id":186611531,
-    "wof:lastmodified":1473798773,
+    "wof:lastmodified":1496776756,
     "wof:name":"Community Trust Sports Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

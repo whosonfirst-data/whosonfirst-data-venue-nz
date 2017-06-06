@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.869171,-36.984478,174.869171,-36.984478",
     "geom:latitude":-36.984478,
     "geom:longitude":174.869171,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781077
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x8EbAVtmzdULT9hFJ1qje_-36.984478_174.869171@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a811b6d60f6dd003e2faa078487bee8d",
+    "wof:geomhash":"d7169f75954d4df50bae397413ee12ce",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781077,
+            "region_id":85687243,
             "venue_id":169555451
         }
     ],
     "wof:id":169555451,
-    "wof:lastmodified":1473798573,
+    "wof:lastmodified":1496777121,
     "wof:name":"Product Brokers Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

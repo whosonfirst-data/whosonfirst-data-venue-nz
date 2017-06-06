@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.821487,-41.510174,173.821487,-41.510174",
     "geom:latitude":-41.510174,
     "geom:longitude":173.821487,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101916001,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yQcJThIUa8E9Q99V57kcG_-41.510174_173.821487@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f1093f3aac6e5adcc2f0fd18d53d6524",
+    "wof:geomhash":"b5ca79086045aa5d1173c7c0d42d382b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101916001,
+            "region_id":85687185,
             "venue_id":203029653
         }
     ],
     "wof:id":203029653,
-    "wof:lastmodified":1473798565,
+    "wof:lastmodified":1496776875,
     "wof:name":"Opossum 2000",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

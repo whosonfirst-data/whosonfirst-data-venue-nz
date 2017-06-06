@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.5287323,-37.6541099548,175.5287323,-37.6541099548",
     "geom:latitude":-37.65411,
     "geom:longitude":175.528732,
@@ -18,17 +19,32 @@
     "sg:phone":"+64 7-889 6075",
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687229,
+        102191583,
+        85633345,
+        101914919,
+        102079267
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3B8PRtai4oLfDEeaE8mT71_-37.654110_175.528732@1306270030"
     },
     "wof:country":"NZ",
     "wof:created":1473719367,
-    "wof:geomhash":"e2de6485c79eb2d5e614002e140901af",
-    "wof:hierarchy":[],
+    "wof:geomhash":"98abdcdb07d128498f5ef1c416d3cdd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101914919,
+            "region_id":85687229,
+            "venue_id":1058996609
+        }
+    ],
     "wof:id":1058996609,
-    "wof:lastmodified":1473719367,
+    "wof:lastmodified":1496776396,
     "wof:name":"Odlum Cable Installers Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

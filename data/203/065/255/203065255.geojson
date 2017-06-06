@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.106247,-41.374481,173.106247,-41.374481",
     "geom:latitude":-41.374481,
     "geom:longitude":173.106247,
@@ -34,27 +35,30 @@
     "sg:website":"http://www.stonehurstfarm.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687219,
+        102191583,
+        85633345,
+        101915227,
+        102079349
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zlgTHt1kBotoL1WLkjWw8_-41.374481_173.106247@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f1bac86f2bbc0739a10a454b9de22f52",
+    "wof:geomhash":"fc6e9fe29467f5a962d6152b98479561",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101915227,
+            "region_id":85687219,
             "venue_id":203065255
         }
     ],
     "wof:id":203065255,
-    "wof:lastmodified":1473798609,
+    "wof:lastmodified":1496776645,
     "wof:name":"Stonehurst Farm Horse Trek & Riding Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

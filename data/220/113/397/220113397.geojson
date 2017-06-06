@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.237,-38.144871,176.237,-38.144871",
     "geom:latitude":-38.144871,
     "geom:longitude":176.237,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914629,
+        102079289,
+        85781705
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yMOKgupJeWxFzjCgSwBzY_-38.144871_176.237000@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1e69ed39ae0ed77635bbf99d230d5dbc",
+    "wof:geomhash":"b18ff950f97eaba2bda46896740a4b8e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914629,
+            "neighbourhood_id":85781705,
+            "region_id":85687175,
             "venue_id":220113397
         }
     ],
     "wof:id":220113397,
-    "wof:lastmodified":1473798596,
+    "wof:lastmodified":1496776174,
     "wof:name":"West End Cake Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.280594,-41.277966,173.280594,-41.277966",
     "geom:latitude":-41.277966,
     "geom:longitude":173.280594,
@@ -35,9 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687157,
         102191583,
         85633345,
-        101917331,
+        101915555,
+        102079351,
+        85781551,
         85782467
     ],
     "wof:breaches":[],
@@ -45,22 +49,31 @@
         "sg:id":"SG_4cRf0yAyCBGZ9crCBP4D6q_-41.277966_173.280594@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"91719d6bbfb58d806ec94b11c9d23f51",
+    "wof:geomhash":"46a7593a3b1e074b8ecc2c91a8f4f4cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101917331,
+            "county_id":102079351,
+            "locality_id":101915555,
+            "neighbourhood_id":85781551,
+            "region_id":85687157,
+            "venue_id":202605157
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":-1,
             "neighbourhood_id":85782467,
-            "region_id":-1,
+            "region_id":85687157,
             "venue_id":202605157
         }
     ],
     "wof:id":202605157,
-    "wof:lastmodified":1473798704,
+    "wof:lastmodified":1496776782,
     "wof:name":"Morris & James Pottery",
-    "wof:parent_id":85782467,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

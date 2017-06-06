@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.622742,-36.846375,174.622742,-36.846375",
     "geom:latitude":-36.846375,
     "geom:longitude":174.622742,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781681
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IgkO3C0NtcAojuqX9A9S5_-36.846375_174.622742@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6b61aa53f25960ea474083e2cec5396c",
+    "wof:geomhash":"d8e4fdedd051ce8ef15af0532f32c8e3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781681,
+            "region_id":85687243,
             "venue_id":219400071
         }
     ],
     "wof:id":219400071,
-    "wof:lastmodified":1473798730,
+    "wof:lastmodified":1496777130,
     "wof:name":"Awesome Boat Charters",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

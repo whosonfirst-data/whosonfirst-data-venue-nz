@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.84874,-46.329075,168.84874,-46.329075",
     "geom:latitude":-46.329075,
     "geom:longitude":168.84874,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-206 6730",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101916021,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6y06PEYZUwpVUu7g6PVoMs_-46.329075_168.848740@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ae1f3b72adf206fd695b78bec55ed71b",
+    "wof:geomhash":"853be0b7f28aa9d77b1243f67cdfec8c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101916021,
+            "region_id":85687211,
             "venue_id":219846083
         }
     ],
     "wof:id":219846083,
-    "wof:lastmodified":1473798774,
+    "wof:lastmodified":1496776878,
     "wof:name":"Sinclair Contracting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

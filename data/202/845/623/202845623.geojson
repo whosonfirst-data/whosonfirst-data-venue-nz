@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.717239,-36.774559,174.717239,-36.774559",
     "geom:latitude":-36.774559,
     "geom:longitude":174.717239,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UMEZVifXIaJWBhb8rtado_-36.774559_174.717239@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"61a3011d763428569b0db2e98d6c1a9b",
+    "wof:geomhash":"7815aa515178f217a658913f1a3d9927",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782397,
+            "region_id":85687243,
             "venue_id":202845623
         }
     ],
     "wof:id":202845623,
-    "wof:lastmodified":1473798731,
+    "wof:lastmodified":1496777142,
     "wof:name":"All-Furniture Repair Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

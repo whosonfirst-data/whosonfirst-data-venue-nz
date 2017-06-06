@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.601273,-40.352291,175.601273,-40.352291",
     "geom:latitude":-40.352291,
     "geom:longitude":175.601273,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_484C6y5D6CveLYAPR9IBl6_-40.352291_175.601273@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a470a082c16d65efc0aceadd05521b43",
+    "wof:geomhash":"5bb8dc4cd76e610fef4f5799a5e0f112",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":236009239
         }
     ],
     "wof:id":236009239,
-    "wof:lastmodified":1473798557,
+    "wof:lastmodified":1496775748,
     "wof:name":"Annie's Takeaways",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

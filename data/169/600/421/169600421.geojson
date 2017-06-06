@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.981857,-40.919086,174.981857,-40.919086",
     "geom:latitude":-40.919086,
     "geom:longitude":174.981857,
@@ -23,27 +24,30 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NTTfdB9VsSmJykeyFYNhT_-40.919086_174.981857@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ff1496940b5b6f82f17ca5741ec8a4b6",
+    "wof:geomhash":"da9fcd553f11b0ce2af04f6875526edb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":169600421
         }
     ],
     "wof:id":169600421,
-    "wof:lastmodified":1473798597,
+    "wof:lastmodified":1496776187,
     "wof:name":"Bookstacks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

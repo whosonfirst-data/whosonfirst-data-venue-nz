@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.782089,-36.862057,174.782089,-36.862057",
     "geom:latitude":-36.862057,
     "geom:longitude":174.782089,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914257,
+        102079403,
+        85773115,
         85778485
     ],
     "wof:breaches":[],
@@ -41,22 +46,31 @@
         "sg:id":"SG_3VOKvnunU2FyqCAoFBwb3Y_-36.862057_174.782089@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2923e3b5df00ff70d6497b57004f243a",
+    "wof:geomhash":"d5ef146a9f3451620c027862181bac62",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773115,
+            "region_id":85687243,
+            "venue_id":186503473
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85778485,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":186503473
         }
     ],
     "wof:id":186503473,
-    "wof:lastmodified":1473798761,
+    "wof:lastmodified":1496775475,
     "wof:name":"Completely Nailed !",
-    "wof:parent_id":85778485,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

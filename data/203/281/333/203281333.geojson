@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.785095,-41.296368,174.785095,-41.296368",
     "geom:latitude":-41.296368,
     "geom:longitude":174.785095,
@@ -23,9 +24,11 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85778473
     ],
     "wof:breaches":[],
@@ -33,20 +36,20 @@
         "sg:id":"SG_0nFUAbbKBzBD51gOJYMUgr_-41.296368_174.785095@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4b264e23819a840564fd7580e6ef9dc6",
+    "wof:geomhash":"85894ff5ad7531850150a4f42c8f04c6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85778473,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":203281333
         }
     ],
     "wof:id":203281333,
-    "wof:lastmodified":1473798666,
+    "wof:lastmodified":1496775828,
     "wof:name":"Wellington College",
     "wof:parent_id":85778473,
     "wof:placetype":"venue",

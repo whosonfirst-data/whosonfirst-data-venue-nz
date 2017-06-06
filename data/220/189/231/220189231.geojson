@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"177.99649,-38.65707,177.99649,-38.65707",
     "geom:latitude":-38.65707,
     "geom:longitude":177.99649,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SflwJjvNVS9lQbfkNuE1j_-38.657070_177.996490@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b44b17ac3a4011e5154762557488b982",
+    "wof:geomhash":"895a78b5ec435e75ac7350276e53a37a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":220189231
         }
     ],
     "wof:id":220189231,
-    "wof:lastmodified":1473798636,
+    "wof:lastmodified":1496776127,
     "wof:name":"Elgin Butchery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

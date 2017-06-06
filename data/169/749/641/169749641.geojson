@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.365433,-46.397331,168.365433,-46.397331",
     "geom:latitude":-46.397331,
     "geom:longitude":168.365433,
@@ -23,29 +24,33 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UZaViWYYOzxndNFxXrdNR_-46.397331_168.365433@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"47d728862daef566bd396dac95760c18",
+    "wof:geomhash":"fa5034be9b2445c403f4f696a586978b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781555,
+            "region_id":85687211,
             "venue_id":169749641
         }
     ],
     "wof:id":169749641,
-    "wof:lastmodified":1473798604,
+    "wof:lastmodified":1496776728,
     "wof:name":"Windsor Crown Finest Foods Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

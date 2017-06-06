@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.29985,-35.681503,174.29985,-35.681503",
     "geom:latitude":-35.681503,
     "geom:longitude":174.29985,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1A9xHumLxLVW2bXnTimZwe_-35.681503_174.299850@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b5ed0c0747951064efb6d2c4182eeb73",
+    "wof:geomhash":"d49912715b924d6ceb10601798254434",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "region_id":85687149,
             "venue_id":202622573
         }
     ],
     "wof:id":202622573,
-    "wof:lastmodified":1473798697,
+    "wof:lastmodified":1496775335,
     "wof:name":"G J Gardner Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

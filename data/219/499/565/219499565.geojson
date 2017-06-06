@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.983856,-40.919498,174.983856,-40.919498",
     "geom:latitude":-40.919498,
     "geom:longitude":174.983856,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eRrGNpfpU6kF1lbTmRDHg_-40.919498_174.983856@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"01d970f80f5a6d6c2e15385779b20b3b",
+    "wof:geomhash":"eda677530ee7a0f9cd2f3a83f0c3b48f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":219499565
         }
     ],
     "wof:id":219499565,
-    "wof:lastmodified":1473798723,
+    "wof:lastmodified":1496776189,
     "wof:name":"Kip McGrath Education Centres Kapiti Coast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

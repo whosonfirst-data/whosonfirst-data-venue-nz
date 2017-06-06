@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.365723,-46.397968,168.365723,-46.397968",
     "geom:latitude":-46.397968,
     "geom:longitude":168.365723,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kOF7EyskKvE50X3on3wvm_-46.397968_168.365723@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2c755bcbc0ad1acd408e57e5bf25acbc",
+    "wof:geomhash":"841145799f61e1e65a41c13421c41458",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781555,
+            "region_id":85687211,
             "venue_id":220113421
         }
     ],
     "wof:id":220113421,
-    "wof:lastmodified":1473798598,
+    "wof:lastmodified":1496776719,
     "wof:name":"Windsor Lunch Bar",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

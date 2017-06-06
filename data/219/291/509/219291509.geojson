@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.0327,-39.919537,175.0327,-39.919537",
     "geom:latitude":-39.919537,
     "geom:longitude":175.0327,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079299,
+        85781125
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lxMXsnj7rApoojAFbo5vY_-39.919537_175.032700@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"16e032f83c3ff958d4474dccaa094fe5",
+    "wof:geomhash":"7b13876fa04ec4e9bc7c91f0a438f774",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781125,
+            "region_id":85687251,
             "venue_id":219291509
         }
     ],
     "wof:id":219291509,
-    "wof:lastmodified":1473798677,
+    "wof:lastmodified":1496776206,
     "wof:name":"Kembali Bed & Breakfast",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

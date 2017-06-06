@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.067474,-41.098431,176.067474,-41.098431",
     "geom:latitude":-41.098431,
     "geom:longitude":176.067474,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101915815,
+        102079343
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JaJvXrzxGFYHvr7hKw42v_-41.098431_176.067474@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"27e00f8d33dc82a9dbc933ec01c7ed56",
+    "wof:geomhash":"f03718816a2e9036909a0eebd8785773",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
+            "locality_id":101915815,
+            "region_id":85687233,
             "venue_id":186009683
         }
     ],
     "wof:id":186009683,
-    "wof:lastmodified":1473798555,
+    "wof:lastmodified":1496776845,
     "wof:name":"Sladden Helen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

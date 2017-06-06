@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.841934,-36.939831,174.841934,-36.939831",
     "geom:latitude":-36.939831,
     "geom:longitude":174.841934,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85773325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VqkEzayMnhu8i6A2wmmAv_-36.939831_174.841934@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3c98fbb628caea981a7b203c3c133c8e",
+    "wof:geomhash":"03d4f5af198da416d30c3b56a5a3a18e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85773325,
+            "region_id":85687243,
             "venue_id":219739687
         }
     ],
     "wof:id":219739687,
-    "wof:lastmodified":1473798780,
+    "wof:lastmodified":1496776224,
     "wof:name":"South Auckland Auto Electrical",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

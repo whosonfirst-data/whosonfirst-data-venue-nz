@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.482224,-45.881691,170.482224,-45.881691",
     "geom:latitude":-45.881691,
     "geom:longitude":170.482224,
@@ -36,29 +37,33 @@
     "sg:website":"http://www.shotz.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        102079387,
+        85778177
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_651Ox84uXlldB56zCgornv_-45.881691_170.482224@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"927821f0f748030b6308e2c85e6ca6c9",
+    "wof:geomhash":"e05fdb2fa5475951bed1ef8ee8664116",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778177,
+            "region_id":85687201,
             "venue_id":203113103
         }
     ],
     "wof:id":203113103,
-    "wof:lastmodified":1473798625,
+    "wof:lastmodified":1496775760,
     "wof:name":"Shotz-36 Photography",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

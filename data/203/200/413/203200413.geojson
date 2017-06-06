@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.886993,-41.223351,174.886993,-41.223351",
     "geom:latitude":-41.223351,
     "geom:longitude":174.886993,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914411,
+        102079337,
+        85780825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LpZdFVxVLe0djC906VkpI_-41.223351_174.886993@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"feb885e62567235f290efd21e0653679",
+    "wof:geomhash":"4187464144a20a4adf5a55a69cccbc67",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914411,
+            "neighbourhood_id":85780825,
+            "region_id":85687233,
             "venue_id":203200413
         }
     ],
     "wof:id":203200413,
-    "wof:lastmodified":1473798653,
+    "wof:lastmodified":1496775947,
     "wof:name":"Giftplus Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.247375,-41.283051,173.247375,-41.283051",
     "geom:latitude":-41.283051,
     "geom:longitude":173.247375,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        102079351,
+        85781589
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_249Ryri8RQSj3PC6SZjiZk_-41.283051_173.247375@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5a42f244519131d23136da3407b7cb83",
+    "wof:geomhash":"dfd18cd9d5d820cf0c39d057d5fa457a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781589,
+            "region_id":85687157,
             "venue_id":219328429
         }
     ],
     "wof:id":219328429,
-    "wof:lastmodified":1473798681,
+    "wof:lastmodified":1496776783,
     "wof:name":"Ocean Lodge",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781589,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

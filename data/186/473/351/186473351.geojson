@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.021027,-41.109554,173.021027,-41.109554",
     "geom:latitude":-41.109554,
     "geom:longitude":173.021027,
@@ -23,27 +24,30 @@
     "sg:province":"Tasman",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687219,
+        102191583,
+        85633345,
+        101914769,
+        102079349
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6h9DDoErqk4Cl9qL6V6KBx_-41.109554_173.021027@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"056205a390f115ed7c3950a19399e2aa",
+    "wof:geomhash":"54257e5c310af626c2d54f472ec6eea7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101914769,
+            "region_id":85687219,
             "venue_id":186473351
         }
     ],
     "wof:id":186473351,
-    "wof:lastmodified":1473798752,
+    "wof:lastmodified":1496776319,
     "wof:name":"Lusty's Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

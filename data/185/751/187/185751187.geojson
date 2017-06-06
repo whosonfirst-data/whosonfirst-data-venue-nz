@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.723129,-36.777931,174.723129,-36.777931",
     "geom:latitude":-36.777931,
     "geom:longitude":174.723129,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ioeCBNUDKoD32Dyqt97Hz_-36.777931_174.723129@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9093b87de5cb898f6e335d15376f047b",
+    "wof:geomhash":"8749c7ab5b4afde84af99be3a83732be",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782397,
+            "region_id":85687243,
             "venue_id":185751187
         }
     ],
     "wof:id":185751187,
-    "wof:lastmodified":1473798610,
+    "wof:lastmodified":1496775573,
     "wof:name":"Rowley Patricia",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

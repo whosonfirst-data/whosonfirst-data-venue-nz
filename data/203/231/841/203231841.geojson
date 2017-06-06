@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.273575,-41.279526,173.273575,-41.279526",
     "geom:latitude":-41.279526,
     "geom:longitude":173.273575,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        101915555,
+        102079351,
+        85781551
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pePS8HBqkuckLDVv9LTue_-41.279526_173.273575@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"eccc619290c2bbe2a7a55be14c0a8508",
+    "wof:geomhash":"4d842e02d9b96f3844a5cdc981947eb2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":101915555,
+            "neighbourhood_id":85781551,
+            "region_id":85687157,
             "venue_id":203231841
         }
     ],
     "wof:id":203231841,
-    "wof:lastmodified":1473798651,
+    "wof:lastmodified":1496776782,
     "wof:name":"MADCAT Design Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

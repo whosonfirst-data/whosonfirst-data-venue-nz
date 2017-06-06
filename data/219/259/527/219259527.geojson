@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.790527,-36.888039,174.790527,-36.888039",
     "geom:latitude":-36.888039,
     "geom:longitude":174.790527,
@@ -33,29 +34,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/royalparklodge/dp25006.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uzfwSh4H7XFWCobknJ3U9_-36.888039_174.790527@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f9b7278c1e58daed9c6bfa4804ef23b2",
+    "wof:geomhash":"8ce34e1fd84e9c35f329a37ca85c0bfc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778331,
+            "region_id":85687243,
             "venue_id":219259527
         }
     ],
     "wof:id":219259527,
-    "wof:lastmodified":1473798664,
+    "wof:lastmodified":1496775638,
     "wof:name":"Royal Park Lodge",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

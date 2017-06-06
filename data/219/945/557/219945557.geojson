@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.099014,-45.127953,170.099014,-45.127953",
     "geom:latitude":-45.127953,
     "geom:longitude":170.099014,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-444 9805",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915763,
+        102079383
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZDo85WlTxLxIk3QTrenyP_-45.127953_170.099014@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2bbce201f6a8907d7cad4e6c19c2cf0b",
+    "wof:geomhash":"2036a03bcde7c518aaacbbb3ae570c0b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079383,
+            "locality_id":101915763,
+            "region_id":85687201,
             "venue_id":219945557
         }
     ],
     "wof:id":219945557,
-    "wof:lastmodified":1473798791,
+    "wof:lastmodified":1496776843,
     "wof:name":"Maniototo Shearing Company Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

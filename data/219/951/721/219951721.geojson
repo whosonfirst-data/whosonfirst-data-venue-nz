@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.620483,-43.557949,172.620483,-43.557949",
     "geom:latitude":-43.557949,
     "geom:longitude":172.620483,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778621
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TRW1WHXDibjw7BESOhcEN_-43.557949_172.620483@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3f0f596baaca4ddb44f05100d6a56c30",
+    "wof:geomhash":"265db23bf3642216c89f24120efafd21",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778621,
+            "region_id":85687179,
             "venue_id":219951721
         }
     ],
     "wof:id":219951721,
-    "wof:lastmodified":1473798790,
+    "wof:lastmodified":1496776088,
     "wof:name":"Greig Andrea M.Sc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778621,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

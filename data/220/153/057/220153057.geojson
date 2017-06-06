@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.447113,-45.738171,168.447113,-45.738171",
     "geom:latitude":-45.738171,
     "geom:longitude":168.447113,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101916059,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_496VlMBdx7hqkpC0OlrpFv_-45.738171_168.447113@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a1361360c3b36b56fbae5233a8ea1811",
+    "wof:geomhash":"9bb5d5ef55c222d25f74642b8f56dbaa",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101916059,
+            "region_id":85687211,
             "venue_id":220153057
         }
     ],
     "wof:id":220153057,
-    "wof:lastmodified":1473798653,
+    "wof:lastmodified":1496776881,
     "wof:name":"Walker C M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

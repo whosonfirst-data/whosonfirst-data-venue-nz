@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.715164,-36.933163,174.715164,-36.933163",
     "geom:latitude":-36.933163,
     "geom:longitude":174.715164,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782439
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ThDXTgN51zU0tg7FeVpS1_-36.933163_174.715164@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"92c1d1e4bceb51064de4b32e9c1c7de7",
+    "wof:geomhash":"70dc0853823dbcc9b7e5714350d5fc33",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782439,
+            "region_id":85687243,
             "venue_id":203006849
         }
     ],
     "wof:id":203006849,
-    "wof:lastmodified":1473798552,
+    "wof:lastmodified":1496777100,
     "wof:name":"City & Suburban Weed Spraying Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

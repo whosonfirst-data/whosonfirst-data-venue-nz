@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.374008,-46.392536,168.374008,-46.392536",
     "geom:latitude":-46.392536,
     "geom:longitude":168.374008,
@@ -23,29 +24,33 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cwU00Y4RYk97RsE2cmmQ6_-46.392536_168.374008@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c02e261bfcedcf4e292d487b2c169ec9",
+    "wof:geomhash":"81fa487fac07a7de3b4ba8299cd06372",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781525,
+            "region_id":85687211,
             "venue_id":169599729
         }
     ],
     "wof:id":169599729,
-    "wof:lastmodified":1473798599,
+    "wof:lastmodified":1496776728,
     "wof:name":"Book Exchange",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.453568,-41.082314,175.453568,-41.082314",
     "geom:latitude":-41.082314,
     "geom:longitude":175.453568,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 6-304 9273",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101915623,
+        102079347
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dRiQojaTvx2snbBdfHIPY_-41.082314_175.453568@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e31d3e1c705ab6bd86b432806c4b8326",
+    "wof:geomhash":"087a65a586e94684572a2c8a5ae9e39e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079347,
+            "locality_id":101915623,
+            "region_id":85687233,
             "venue_id":186166175
         }
     ],
     "wof:id":186166175,
-    "wof:lastmodified":1473798666,
+    "wof:lastmodified":1496776813,
     "wof:name":"Concept. Design. Develop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

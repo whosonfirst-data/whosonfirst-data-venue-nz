@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.597778,-43.505287,172.597778,-43.505287",
     "geom:latitude":-43.505287,
     "geom:longitude":172.597778,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PSjnnAm9FHHDZGIx77fut_-43.505287_172.597778@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"76fb5baca14e20bb03475525c5246884",
+    "wof:geomhash":"457f2acc9bd8adb3671b27d0a083ce2b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778211,
+            "region_id":85687179,
             "venue_id":186002957
         }
     ],
     "wof:id":186002957,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496776080,
     "wof:name":"Lloyd Gwyneth M JP",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.516724,-45.897865,170.516724,-45.897865",
     "geom:latitude":-45.897865,
     "geom:longitude":170.516724,
@@ -24,29 +25,34 @@
     "sg:website":"http://www.simplyflowers.net.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85781647
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pIfF8f0GVzd7ASqsNWdU6_-45.897865_170.516724@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a9a135e3b93c21b80fddeabddcb75c81",
+    "wof:geomhash":"6eca616930e3a81e33a1c7892ef85392",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85781647,
+            "region_id":85687201,
             "venue_id":169670087
         }
     ],
     "wof:id":169670087,
-    "wof:lastmodified":1473798608,
+    "wof:lastmodified":1496775768,
     "wof:name":"Simply Flowers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

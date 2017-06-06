@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.871536,-36.977863,174.871536,-36.977863",
     "geom:latitude":-36.977863,
     "geom:longitude":174.871536,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781077
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37Y8Vd6DkpuuShCzROmCvv_-36.977863_174.871536@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bb79a211b3c16ddc81cf0d396ea2f7f5",
+    "wof:geomhash":"a33023a83d13e6311885e71c92097c1d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781077,
+            "region_id":85687243,
             "venue_id":202512773
         }
     ],
     "wof:id":202512773,
-    "wof:lastmodified":1473798691,
+    "wof:lastmodified":1496775556,
     "wof:name":"Diagnostic Medlab",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

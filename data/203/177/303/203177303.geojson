@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.656265,-43.522133,172.656265,-43.522133",
     "geom:latitude":-43.522133,
     "geom:longitude":172.656265,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781777
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lnrGow5tEymJdvQvQP1hk_-43.522133_172.656265@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ad2eb20f0b8cdddee8a53c9fb5297783",
+    "wof:geomhash":"2c7965e5eef104cadffb5eee160f11ac",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781777,
+            "region_id":85687179,
             "venue_id":203177303
         }
     ],
     "wof:id":203177303,
-    "wof:lastmodified":1473798645,
+    "wof:lastmodified":1496776041,
     "wof:name":"Dollarless Dry Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

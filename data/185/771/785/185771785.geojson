@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.784286,-36.874538,174.784286,-36.874538",
     "geom:latitude":-36.874538,
     "geom:longitude":174.784286,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778887
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79lInsgvqzES2mQIpwb7ol_-36.874538_174.784286@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"24aff6df4d3a852526055cfae8e78092",
+    "wof:geomhash":"ae704605dc666781eb8a9b95e44d0c75",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778887,
+            "region_id":85687243,
             "venue_id":185771785
         }
     ],
     "wof:id":185771785,
-    "wof:lastmodified":1473798614,
+    "wof:lastmodified":1496775565,
     "wof:name":"Community of St Luke",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

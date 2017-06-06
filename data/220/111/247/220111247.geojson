@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.863174,-38.232662,175.863174,-38.232662",
     "geom:latitude":-38.232662,
     "geom:longitude":175.863174,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914547,
+        102079277
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AUWZ85IhihKNe5RjXuBXH_-38.232662_175.863174@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9d1cdb6daefc168c609e6f84edff4baa",
+    "wof:geomhash":"5dfc8a8ca9ad5c97306390821c0fa323",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079277,
+            "locality_id":101914547,
+            "region_id":85687229,
             "venue_id":220111247
         }
     ],
     "wof:id":220111247,
-    "wof:lastmodified":1473798599,
+    "wof:lastmodified":1496776100,
     "wof:name":"Lomond Home Cookery 1994",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

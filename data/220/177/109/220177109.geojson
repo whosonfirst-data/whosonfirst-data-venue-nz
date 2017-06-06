@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.141006,-37.714657,176.141006,-37.714657",
     "geom:latitude":-37.714657,
     "geom:longitude":176.141006,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85782819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7j5J43FqeWcOYSECz0mSTm_-37.714657_176.141006@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6462de5cbe14049f0473ce76b8508ea7",
+    "wof:geomhash":"b86b4ac6bad5fd4655b0571fc06f315e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782819,
+            "region_id":85687175,
             "venue_id":220177109
         }
     ],
     "wof:id":220177109,
-    "wof:lastmodified":1473798632,
+    "wof:lastmodified":1496775884,
     "wof:name":"Good Earth",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

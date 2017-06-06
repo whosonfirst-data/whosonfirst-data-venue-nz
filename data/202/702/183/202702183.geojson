@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.043945,-44.732719,171.043945,-44.732719",
     "geom:latitude":-44.732719,
     "geom:longitude":171.043945,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914701,
+        102079379
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kuvZ6h3mpEGJVOLRNDDot_-44.732719_171.043945@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b4dfacc88d841f87c96c89ad4b509e5e",
+    "wof:geomhash":"eb7dbe37fa24d98c83b4ae9cc33bed0d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079379,
+            "locality_id":101914701,
+            "region_id":85687179,
             "venue_id":202702183
         }
     ],
     "wof:id":202702183,
-    "wof:lastmodified":1473798710,
+    "wof:lastmodified":1496776275,
     "wof:name":"Waimate Child Care Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

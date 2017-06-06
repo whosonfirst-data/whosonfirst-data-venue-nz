@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.721161,-36.783306,174.721161,-36.783306",
     "geom:latitude":-36.783306,
     "geom:longitude":174.721161,
@@ -23,29 +24,44 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782397,
+        85778443
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yMKCyncAFsYgolJ7n7qEq_-36.783306_174.721161@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"efe922e8b7787f34343f1af7ddb93334",
+    "wof:geomhash":"72ecb898a5e00de73bf15bfe7358750f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782397,
+            "region_id":85687243,
+            "venue_id":186595679
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778443,
+            "region_id":85687243,
             "venue_id":186595679
         }
     ],
     "wof:id":186595679,
-    "wof:lastmodified":1473798771,
+    "wof:lastmodified":1496775632,
     "wof:name":"Wright J W",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.013641,-41.113148,173.013641,-41.113148",
     "geom:latitude":-41.113148,
     "geom:longitude":173.013641,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687219,
+        102191583,
+        85633345,
+        101914769,
+        102079349
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_421qs9xF2vIvGPTxGiabL6_-41.113148_173.013641@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e25cf7c11098cfd9db435a19357f3803",
+    "wof:geomhash":"c5b50a53d2b7e69eca645bf07a822421",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101914769,
+            "region_id":85687219,
             "venue_id":185738971
         }
     ],
     "wof:id":185738971,
-    "wof:lastmodified":1473798609,
+    "wof:lastmodified":1496776323,
     "wof:name":"United Video Motueka",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

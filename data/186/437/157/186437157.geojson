@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.089279,-38.718948,176.089279,-38.718948",
     "geom:latitude":-38.718948,
     "geom:longitude":176.089279,
@@ -23,29 +24,33 @@
     "sg:province":"Nelson",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        102079281,
+        85782061
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yeDiXqRUqlKsdSnz5Zukv_-38.718948_176.089279@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3055138348c6107a6f1c8b90abb8e655",
+    "wof:geomhash":"98d25f1cf3da2f9e451250e99d6d6887",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782061,
+            "region_id":85687229,
             "venue_id":186437157
         }
     ],
     "wof:id":186437157,
-    "wof:lastmodified":1473798747,
+    "wof:lastmodified":1496775930,
     "wof:name":"Mike's Aluminium & Glass",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782061,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

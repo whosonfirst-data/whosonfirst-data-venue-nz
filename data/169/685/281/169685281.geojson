@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.442886,-35.986801,174.442886,-35.986801",
     "geom:latitude":-35.986801,
     "geom:longitude":174.442886,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101916809,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0C53urHERH230CTzdKvSxX_-35.986801_174.442886@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"83b71db9102ef3a7d54a3487e44c3b5e",
+    "wof:geomhash":"5d35e6aea5e19f015fed32f1864b35f5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101916809,
+            "region_id":85687149,
             "venue_id":169685281
         }
     ],
     "wof:id":169685281,
-    "wof:lastmodified":1473798622,
+    "wof:lastmodified":1496776949,
     "wof:name":"Farrier",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

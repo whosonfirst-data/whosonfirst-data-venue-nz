@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.838959,-44.94305,168.838959,-44.94305",
     "geom:latitude":-44.94305,
     "geom:longitude":168.838959,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915303,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eNNB1k92jrwexhPeSCl9f_-44.943050_168.838959@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f9926261715bcc48e8be54d0407a45f8",
+    "wof:geomhash":"aa7c0dda194fac533873df7e370959c2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":101915303,
+            "region_id":85687201,
             "venue_id":236036361
         }
     ],
     "wof:id":236036361,
-    "wof:lastmodified":1473798575,
+    "wof:lastmodified":1496776659,
     "wof:name":"Taramea Winemakers Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.613815,-40.341156,175.613815,-40.341156",
     "geom:latitude":-40.341156,
     "geom:longitude":175.613815,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079307,
+        85781111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07P40MWuTOkOd0l4AnjIpO_-40.341156_175.613815@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"34cb3547b2e52acd6ed17921666ae6ba",
+    "wof:geomhash":"86bcc99bd4eb87e056706f31319e235d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781111,
+            "region_id":85687251,
             "venue_id":219524227
         }
     ],
     "wof:id":219524227,
-    "wof:lastmodified":1473798721,
+    "wof:lastmodified":1496775735,
     "wof:name":"Switzer Paul & Gail",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

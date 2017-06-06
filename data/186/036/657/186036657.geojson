@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.001801,-38.65065,178.001801,-38.65065",
     "geom:latitude":-38.65065,
     "geom:longitude":178.001801,
@@ -31,8 +32,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687237,
         102191583,
         85633345,
+        101914591,
+        102079325,
         85781099
     ],
     "wof:breaches":[],
@@ -40,20 +44,20 @@
         "sg:id":"SG_0rMEE4qdBlT12tl6Fhpp5V_-38.650650_178.001801@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"649d076fec92c8bb24ad1ff83039584f",
+    "wof:geomhash":"c392d90190d7d22d9e00b2ef8078a664",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079325,
+            "locality_id":101914591,
             "neighbourhood_id":85781099,
-            "region_id":-1,
+            "region_id":85687237,
             "venue_id":186036657
         }
     ],
     "wof:id":186036657,
-    "wof:lastmodified":1473798606,
+    "wof:lastmodified":1496776125,
     "wof:name":"Custom Fibreglass",
     "wof:parent_id":85781099,
     "wof:placetype":"venue",

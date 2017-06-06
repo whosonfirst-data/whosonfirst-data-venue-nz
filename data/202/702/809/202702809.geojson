@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.301224,-40.629135,175.301224,-40.629135",
     "geom:latitude":-40.629135,
     "geom:longitude":175.301224,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914363,
+        102079313
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lLfRFRCJi1fEpTiIRGy2j_-40.629135_175.301224@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"357caa9363c5a87a2540a27f0ab9ceed",
+    "wof:geomhash":"5220845e317aafbbf51646b679636c11",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":101914363,
+            "region_id":85687251,
             "venue_id":202702809
         }
     ],
     "wof:id":202702809,
-    "wof:lastmodified":1473798717,
+    "wof:lastmodified":1496775919,
     "wof:name":"Wellington Region Free Kindergarten Association",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

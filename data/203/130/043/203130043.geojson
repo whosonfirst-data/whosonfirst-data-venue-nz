@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.222046,-38.127232,176.222046,-38.127232",
     "geom:latitude":-38.127232,
     "geom:longitude":176.222046,
@@ -36,9 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687175,
         102191583,
         85633345,
-        101914727,
+        101914629,
+        102079289,
         85773009
     ],
     "wof:breaches":[],
@@ -46,20 +49,20 @@
         "sg:id":"SG_0ZqRCU0OsNu2EiUCnw4KUO_-38.127232_176.222046@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9733a0b45b9dc5580e395c6e413e19b2",
+    "wof:geomhash":"6f8892a4ec8d01d111c53a7bdb71b05f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914727,
+            "county_id":102079289,
+            "locality_id":101914629,
             "neighbourhood_id":85773009,
-            "region_id":-1,
+            "region_id":85687175,
             "venue_id":203130043
         }
     ],
     "wof:id":203130043,
-    "wof:lastmodified":1473798621,
+    "wof:lastmodified":1496776163,
     "wof:name":"Close To Home Boarding Cattery",
     "wof:parent_id":85773009,
     "wof:placetype":"venue",

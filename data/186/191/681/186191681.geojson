@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.620438,-45.808891,170.620438,-45.808891",
     "geom:latitude":-45.808891,
     "geom:longitude":170.620438,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 25322319",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915259,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QWfbCvzcvN5ftNLOlYntk_-45.808891_170.620438@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0306d14d06c56e1fe11b047c32e12f2b",
+    "wof:geomhash":"805545baf4b5787c2ef64b6e54dabdc9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101915259,
+            "region_id":85687201,
             "venue_id":186191681
         }
     ],
     "wof:id":186191681,
-    "wof:lastmodified":1473798730,
+    "wof:lastmodified":1496776649,
     "wof:name":"Wilson Brian W",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

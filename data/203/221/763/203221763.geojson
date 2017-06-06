@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.78949,-36.884232,174.78949,-36.884232",
     "geom:latitude":-36.884232,
     "geom:longitude":174.78949,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AWt4AA95OVYixtSb0zmM3_-36.884232_174.789490@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b50917a5bd993ccf742a68a0a2d7dc89",
+    "wof:geomhash":"5e38eef19fa8ea4f6117c00ea64ad123",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778331,
+            "region_id":85687243,
             "venue_id":203221763
         }
     ],
     "wof:id":203221763,
-    "wof:lastmodified":1473798657,
+    "wof:lastmodified":1496775625,
     "wof:name":"Findlay Agencies Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.774689,-36.880852,174.774689,-36.880852",
     "geom:latitude":-36.880852,
     "geom:longitude":174.774689,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2b2oVbaQOGmUd0IfvBHUP6_-36.880852_174.774689@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5652ebf80aed6d70f652f6719dfa2cfc",
+    "wof:geomhash":"b35f4ccdc6d3db792da44b1fcdbec8d8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782389,
+            "region_id":85687243,
             "venue_id":186010867
         }
     ],
     "wof:id":186010867,
-    "wof:lastmodified":1473798554,
+    "wof:lastmodified":1496775548,
     "wof:name":"Swift J B JP",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

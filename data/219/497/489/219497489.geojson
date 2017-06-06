@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.233307,-38.148788,176.233307,-38.148788",
     "geom:latitude":-38.148788,
     "geom:longitude":176.233307,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914629,
+        102079289,
+        85781705
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TL8a05qJ1tK1JmKFnBR7M_-38.148788_176.233307@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5c061236de014dd4d172229b9d82bf2f",
+    "wof:geomhash":"e08ada19f1ad17ff3cb644383b086efa",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914629,
+            "neighbourhood_id":85781705,
+            "region_id":85687175,
             "venue_id":219497489
         }
     ],
     "wof:id":219497489,
-    "wof:lastmodified":1473798721,
+    "wof:lastmodified":1496776166,
     "wof:name":"Creative Communication Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

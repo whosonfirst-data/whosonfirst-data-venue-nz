@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.889008,-41.111599,174.889008,-41.111599",
     "geom:latitude":-41.111599,
     "geom:longitude":174.889008,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
+        102191583,
         85633345,
-        101914927,
+        101914355,
+        102079317,
         85781159
     ],
     "wof:breaches":[],
@@ -43,20 +47,20 @@
         "sg:id":"SG_3VdHgTFTR90XaafWvz34WR_-41.111599_174.889008@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b66bb816c8d753fbc604687781005d4e",
+    "wof:geomhash":"aa0b365fbf3b4e6d9c67616cc4d02293",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914927,
+            "county_id":102079317,
+            "locality_id":101914355,
             "neighbourhood_id":85781159,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":202762887
         }
     ],
     "wof:id":202762887,
-    "wof:lastmodified":1473798740,
+    "wof:lastmodified":1496776407,
     "wof:name":"Whitby Village Estate",
     "wof:parent_id":85781159,
     "wof:placetype":"venue",

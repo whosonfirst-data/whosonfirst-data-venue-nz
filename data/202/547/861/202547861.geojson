@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.861099,-36.87009,174.861099,-36.87009",
     "geom:latitude":-36.87009,
     "geom:longitude":174.861099,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778295
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YZHuRIKL6rqVb2ocbob0j_-36.870090_174.861099@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"97c3e5e18cf405836f367fa3cc4aedd0",
+    "wof:geomhash":"ca505a3e156547f1267124ade8c9aa4c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778295,
+            "region_id":85687243,
             "venue_id":202547861
         }
     ],
     "wof:id":202547861,
-    "wof:lastmodified":1473798691,
+    "wof:lastmodified":1496775681,
     "wof:name":"Jennifer Wills Physiotherapy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.791534,-36.828979,174.791534,-36.828979",
     "geom:latitude":-36.828979,
     "geom:longitude":174.791534,
@@ -38,29 +39,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914729,
+        102079403,
+        85782039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X1B8pC4ljXl7we8oinhQ1_-36.828979_174.791534@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9f168562c1f19e53805dd634a30c3351",
+    "wof:geomhash":"effaf5da1ebbe1cd71a5d7095b1a9c3f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914729,
+            "neighbourhood_id":85782039,
+            "region_id":85687243,
             "venue_id":169833671
         }
     ],
     "wof:id":169833671,
-    "wof:lastmodified":1473798655,
+    "wof:lastmodified":1496776295,
     "wof:name":"Divecam- Underwater Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

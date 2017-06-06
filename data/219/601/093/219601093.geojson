@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.246262,-42.402477,171.246262,-42.402477",
     "geom:latitude":-42.402477,
     "geom:longitude":171.246262,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-762 7637",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101914583,
+        102079361
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IajNdGNYrFcfHybLowXB6_-42.402477_171.246262@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cd7a3d6754395c42412d0e6b1c6304ac",
+    "wof:geomhash":"3555d685dd0882f1acccdb1b27cc135f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079361,
+            "locality_id":101914583,
+            "region_id":85687165,
             "venue_id":219601093
         }
     ],
     "wof:id":219601093,
-    "wof:lastmodified":1473798770,
+    "wof:lastmodified":1496776120,
     "wof:name":"Paparoa Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

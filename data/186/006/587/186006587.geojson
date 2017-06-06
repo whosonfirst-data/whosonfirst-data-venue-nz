@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.099609,-41.258347,173.099609,-41.258347",
     "geom:latitude":-41.258347,
     "geom:longitude":173.099609,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687219,
+        102191583,
+        85633345,
+        101914455,
+        102079349
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2l66W9JkQsO81Swo4IhwYh_-41.258347_173.099609@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5179e7e916d05c0ff65c96c87a58664a",
+    "wof:geomhash":"906a631e27bb04bf439aa401a3cd3727",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101914455,
+            "region_id":85687219,
             "venue_id":186006587
         }
     ],
     "wof:id":186006587,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496775977,
     "wof:name":"Perry Patricia L M JP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.373993,-46.392223,168.373993,-46.392223",
     "geom:latitude":-46.392223,
     "geom:longitude":168.373993,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781525
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RarOVvNWnTXr3MTkbr6Re_-46.392223_168.373993@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"49693c7e84eb68cb24754e0014ac9f18",
+    "wof:geomhash":"4682d4205d04c272a4160672908a9603",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781525,
+            "region_id":85687211,
             "venue_id":186019771
         }
     ],
     "wof:id":186019771,
-    "wof:lastmodified":1473798572,
+    "wof:lastmodified":1496776717,
     "wof:name":"Under Wraps Face & Body Therapy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

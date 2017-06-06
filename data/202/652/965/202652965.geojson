@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.871216,-37.20079,175.871216,-37.20079",
     "geom:latitude":-37.20079,
     "geom:longitude":175.871216,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915149,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fFyTyPeUXUB1QeUB9TrRA_-37.200790_175.871216@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e41ab6248f83169b534b4e162b56ff61",
+    "wof:geomhash":"6872dd486e8e831961fd1a2abda1ffde",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101915149,
+            "region_id":85687229,
             "venue_id":202652965
         }
     ],
     "wof:id":202652965,
-    "wof:lastmodified":1473798703,
+    "wof:lastmodified":1496776585,
     "wof:name":"Goldsbury P & C",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

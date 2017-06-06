@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.698822,-36.819683,175.698822,-36.819683",
     "geom:latitude":-36.819683,
     "geom:longitude":175.698822,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914279,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vN3GrNdzR37WDz9WVzvXU_-36.819683_175.698822@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"35bb61912850d4274cda9ac1a4d7ef13",
+    "wof:geomhash":"13c8d6e93be08f57998bf8e4bcde180d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101914279,
+            "region_id":85687229,
             "venue_id":169785611
         }
     ],
     "wof:id":169785611,
-    "wof:lastmodified":1473798642,
+    "wof:lastmodified":1496775795,
     "wof:name":"Aoraki Fishing School - Whitianga",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

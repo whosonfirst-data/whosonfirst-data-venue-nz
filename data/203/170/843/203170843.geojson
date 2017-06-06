@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.269745,-41.291809,173.269745,-41.291809",
     "geom:latitude":-41.291809,
     "geom:longitude":173.269745,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        101915555,
+        102079351,
+        85781551
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DJzhSrkzNIW6y3cH72ghg_-41.291809_173.269745@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b723955e5958e8b0995ca9e50879d43b",
+    "wof:geomhash":"a64341be7c30c7346d34a2a7cc4a9540",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":101915555,
+            "neighbourhood_id":85781551,
+            "region_id":85687157,
             "venue_id":203170843
         }
     ],
     "wof:id":203170843,
-    "wof:lastmodified":1473798657,
+    "wof:lastmodified":1496776779,
     "wof:name":"Waimea Stained Glass Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

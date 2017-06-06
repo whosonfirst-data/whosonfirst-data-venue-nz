@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.487503,-45.897655,170.487503,-45.897655",
     "geom:latitude":-45.897655,
     "geom:longitude":170.487503,
@@ -29,29 +30,34 @@
     "sg:website":"http://www.yellowpages.co.nz/pages/227694155/dp47783.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85772879
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lDJFj1I2qrW70tAC4nfE3_-45.897655_170.487503@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a435d466ec1aafc7ba53326e852bdcbb",
+    "wof:geomhash":"05bece590997fce128e8b1c9f5003994",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85772879,
+            "region_id":85687201,
             "venue_id":220021837
         }
     ],
     "wof:id":220021837,
-    "wof:lastmodified":1473798574,
+    "wof:lastmodified":1496775767,
     "wof:name":"Ace Food Services Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

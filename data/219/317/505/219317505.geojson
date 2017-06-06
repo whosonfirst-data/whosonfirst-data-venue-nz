@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.767776,-36.880466,174.767776,-36.880466",
     "geom:latitude":-36.880466,
     "geom:longitude":174.767776,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782453
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27m4z0QVUsLmN7T4whk8Yz_-36.880466_174.767776@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"75876e4d3147f205df8b6033597af0d2",
+    "wof:geomhash":"f89a3841eb859f892773ddef8dab6573",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782453,
+            "region_id":85687243,
             "venue_id":219317505
         }
     ],
     "wof:id":219317505,
-    "wof:lastmodified":1473798677,
+    "wof:lastmodified":1496775608,
     "wof:name":"United Maori Mission Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

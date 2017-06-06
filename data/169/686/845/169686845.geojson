@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.50528,-35.625801,174.50528,-35.625801",
     "geom:latitude":-35.625801,
     "geom:longitude":174.50528,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101915215,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bd1jV8fFS08VaGuFCRgDO_-35.625801_174.505280@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2df49b64d82a2c44117a1a1957d398ed",
+    "wof:geomhash":"58ade9cd0c9696c6a59962da52eeb2ac",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101915215,
+            "region_id":85687149,
             "venue_id":169686845
         }
     ],
     "wof:id":169686845,
-    "wof:lastmodified":1473798623,
+    "wof:lastmodified":1496776641,
     "wof:name":"Ranchware Mail Order",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

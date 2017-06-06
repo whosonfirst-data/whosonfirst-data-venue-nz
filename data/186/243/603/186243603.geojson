@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.596848,-43.48513,172.596848,-43.48513",
     "geom:latitude":-43.48513,
     "geom:longitude":172.596848,
@@ -36,29 +37,34 @@
     "sg:website":"http://www.atec.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778169
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XiOtl3WE67XXCN13H4Quk_-43.485130_172.596848@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"28d2a664ccbbfb8084d2691e444fd048",
+    "wof:geomhash":"36887435281635ed1fb90af8892ad1a5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778169,
+            "region_id":85687179,
             "venue_id":186243603
         }
     ],
     "wof:id":186243603,
-    "wof:lastmodified":1473798716,
+    "wof:lastmodified":1496776034,
     "wof:name":"Accredited Technology (ATEC) Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.261337,-35.116978,173.261337,-35.116978",
     "geom:latitude":-35.116978,
     "geom:longitude":173.261337,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101915171,
+        102079255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hXNLFglKOZLsCR3utRsJj_-35.116978_173.261337@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"be3febbdd042678ba8b768d37c4b899c",
+    "wof:geomhash":"30c5662d8a0caa2f10aa01473c981e39",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101915171,
+            "region_id":85687149,
             "venue_id":202391701
         }
     ],
     "wof:id":202391701,
-    "wof:lastmodified":1473798563,
+    "wof:lastmodified":1496776597,
     "wof:name":"Innovative Training Services Northland",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

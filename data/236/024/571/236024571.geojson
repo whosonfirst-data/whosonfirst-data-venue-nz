@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.193314,-44.385014,171.193314,-44.385014",
     "geom:latitude":-44.385014,
     "geom:longitude":171.193314,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jnYZb9QQAqeqXHu1vebOs_-44.385014_171.193314@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fa56ea4ede3bccf587c7bd035b48f9bd",
+    "wof:geomhash":"b60f4362faa91f718127213f7e174897",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "region_id":85687179,
             "venue_id":236024571
         }
     ],
     "wof:id":236024571,
-    "wof:lastmodified":1473798570,
+    "wof:lastmodified":1496776746,
     "wof:name":"Top Cafe 2000",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

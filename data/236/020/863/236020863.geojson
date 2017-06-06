@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.31189,-38.00544,175.31189,-38.00544",
     "geom:latitude":-38.00544,
     "geom:longitude":175.31189,
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687229,
         102191583,
         85633345,
+        101914417,
+        102079273,
         85782893
     ],
     "wof:breaches":[],
@@ -42,20 +46,20 @@
         "sg:id":"SG_0QscRlvMDUSoSTKYG7Yepg_-38.005440_175.311890@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"41b5b27f06026ae26973fe79e4540659",
+    "wof:geomhash":"436ea6be07341c9d3a98916eb18d2f10",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079273,
+            "locality_id":101914417,
             "neighbourhood_id":85782893,
-            "region_id":-1,
+            "region_id":85687229,
             "venue_id":236020863
         }
     ],
     "wof:id":236020863,
-    "wof:lastmodified":1473798565,
+    "wof:lastmodified":1496775956,
     "wof:name":"Railway Cafe",
     "wof:parent_id":85782893,
     "wof:placetype":"venue",

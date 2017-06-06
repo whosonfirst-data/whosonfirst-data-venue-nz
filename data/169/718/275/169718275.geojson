@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.737762,-36.865513,174.737762,-36.865513",
     "geom:latitude":-36.865513,
     "geom:longitude":174.737762,
@@ -23,8 +24,12 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914397,
+        102079403,
+        85778333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,18 +39,19 @@
     "wof:geomhash":"6f3f5bd7469b55a4071f93a5158dfc23",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914397,
+            "neighbourhood_id":85778333,
+            "region_id":85687243,
             "venue_id":169718275
         }
     ],
     "wof:id":169718275,
-    "wof:lastmodified":1473798607,
+    "wof:lastmodified":1491893667,
     "wof:name":"Grey Lynn Stationers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778333,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

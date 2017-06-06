@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.630478,-40.339001,175.630478,-40.339001",
     "geom:latitude":-40.339001,
     "geom:longitude":175.630478,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079307,
+        85781111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1co5ESXSHzlOJJPe71WU16_-40.339001_175.630478@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3dfb4c9d89e253861587c931bd8330b9",
+    "wof:geomhash":"ecf57c2bd527c536aa8896da2b14063e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781111,
+            "region_id":85687251,
             "venue_id":203233997
         }
     ],
     "wof:id":203233997,
-    "wof:lastmodified":1473798652,
+    "wof:lastmodified":1496775749,
     "wof:name":"Rusk & Finch Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

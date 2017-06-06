@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.2332,-40.371891,175.2332,-40.371891",
     "geom:latitude":-40.371891,
     "geom:longitude":175.2332,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 6-329 9718",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101916301,
+        102079303
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35uc71HTFFufvlUikgSXCf_-40.371891_175.233200@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b5b796c7e8c4c1a01c72523cb45549a2",
+    "wof:geomhash":"bde01e4075231ada890047e6ce2906c5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
+            "locality_id":101916301,
+            "region_id":85687251,
             "venue_id":169735343
         }
     ],
     "wof:id":169735343,
-    "wof:lastmodified":1473798611,
+    "wof:lastmodified":1496776903,
     "wof:name":"Himatangi Beach Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

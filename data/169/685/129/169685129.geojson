@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.346985,-46.397053,168.346985,-46.397053",
     "geom:latitude":-46.397053,
     "geom:longitude":168.346985,
@@ -23,29 +24,34 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781431
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7d7qKPIVlUJiBzbCwCcU1P_-46.397053_168.346985@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d0f05b6f4ea66789f44721ee55301f60",
+    "wof:geomhash":"6662c7a77dba8734697ec6f3278e7d6d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781431,
+            "region_id":85687211,
             "venue_id":169685129
         }
     ],
     "wof:id":169685129,
-    "wof:lastmodified":1473798613,
+    "wof:lastmodified":1496776728,
     "wof:name":"The Clothes Horse",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

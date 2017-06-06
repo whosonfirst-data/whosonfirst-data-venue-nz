@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.871246,-37.21191,175.871246,-37.21191",
     "geom:latitude":-37.21191,
     "geom:longitude":175.871246,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-865 9190",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915149,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iVpLGmTh3MkXNszYyONdz_-37.211910_175.871246@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9480abdf0063439d7cb39638a296a949",
+    "wof:geomhash":"f79cf68da4a7be5592372a5399d51d54",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101915149,
+            "region_id":85687229,
             "venue_id":169749861
         }
     ],
     "wof:id":169749861,
-    "wof:lastmodified":1473798607,
+    "wof:lastmodified":1496776582,
     "wof:name":"Whangamata Four Square Discount",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

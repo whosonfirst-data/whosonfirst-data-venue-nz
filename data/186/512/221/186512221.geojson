@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.023315,-38.654823,178.023315,-38.654823",
     "geom:latitude":-38.654823,
     "geom:longitude":178.023315,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77BWPzFk6KXMASCxByuBnu_-38.654823_178.023315@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2cecf5c7f5392ef8aba9d8d3844ae39f",
+    "wof:geomhash":"b9eb9aa266781b0a1a1e5ec1f498234d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":186512221
         }
     ],
     "wof:id":186512221,
-    "wof:lastmodified":1473798756,
+    "wof:lastmodified":1496776132,
     "wof:name":"Eastland Skin Therapy Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.59787,-43.307121,172.59787,-43.307121",
     "geom:latitude":-43.307121,
     "geom:longitude":172.59787,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914361,
+        102079367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pnd9FYyoZXWkLpmGi6FEu_-43.307121_172.597870@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e101cc5ef8d0cb509f05a2351f4b068f",
+    "wof:geomhash":"f76b8249415388ee3f68f6595ed0ce24",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079367,
+            "locality_id":101914361,
+            "region_id":85687179,
             "venue_id":220155729
         }
     ],
     "wof:id":220155729,
-    "wof:lastmodified":1473798624,
+    "wof:lastmodified":1496775912,
     "wof:name":"Costessy Fruit & Vegetables Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

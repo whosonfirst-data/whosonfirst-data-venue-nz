@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.597458,-43.486115,172.597458,-43.486115",
     "geom:latitude":-43.486115,
     "geom:longitude":172.597458,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778169
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22TR9pmFvUEUKsxBOTqUAh_-43.486115_172.597458@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9bfede8e71765d02360744afa0cfa958",
+    "wof:geomhash":"56ae3c5c2b8cbdb72ba82ee76aedeec9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778169,
+            "region_id":85687179,
             "venue_id":202690039
         }
     ],
     "wof:id":202690039,
-    "wof:lastmodified":1473798697,
+    "wof:lastmodified":1496776015,
     "wof:name":"Gumdrops Early Learning Centre Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

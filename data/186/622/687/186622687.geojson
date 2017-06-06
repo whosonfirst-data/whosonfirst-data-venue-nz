@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.021942,-39.923416,175.021942,-39.923416",
     "geom:latitude":-39.923416,
     "geom:longitude":175.021942,
@@ -31,29 +32,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914639,
+        102079299,
+        85781145
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3I8hyKtE8CyRbn83po1j6s_-39.923416_175.021942@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e9a1f76d72a87518229a1d3747c640f0",
+    "wof:geomhash":"d5d744d509182dbbb379f004dc513bfd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":101914639,
+            "neighbourhood_id":85781145,
+            "region_id":85687251,
             "venue_id":186622687
         }
     ],
     "wof:id":186622687,
-    "wof:lastmodified":1473798764,
+    "wof:lastmodified":1496776203,
     "wof:name":"BodyZone Massage Therapy Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781145,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

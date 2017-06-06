@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.021484,-38.66077,178.021484,-38.66077",
     "geom:latitude":-38.66077,
     "geom:longitude":178.021484,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FkkpyBzC36HLvlRdfX6re_-38.660770_178.021484@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7625fa97c4ebed22f1ec4fafd27f0d53",
+    "wof:geomhash":"c7d4b52213c0b483c1307cf02ceaa744",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":185753109
         }
     ],
     "wof:id":185753109,
-    "wof:lastmodified":1473798608,
+    "wof:lastmodified":1496776124,
     "wof:name":"2nd N.Z.E.F. Association",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

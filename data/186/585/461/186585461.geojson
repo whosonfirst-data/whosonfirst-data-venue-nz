@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.095123,42.366394,-71.095123,42.366394",
     "geom:latitude":42.366394,
     "geom:longitude":-71.095123,
@@ -23,11 +24,13 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85876613,
+        102191575,
+        404476475,
         85633793,
         85950329,
         102084643,
-        85876613
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -37,9 +40,10 @@
     "wof:geomhash":"1efb9f93a1b0245686d776555423c3b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084643,
+            "localadmin_id":404476475,
             "locality_id":85950329,
             "neighbourhood_id":85876613,
             "region_id":85688645,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":186585461,
-    "wof:lastmodified":1473798772,
+    "wof:lastmodified":1489018370,
     "wof:name":"Cater Barbara",
     "wof:parent_id":85876613,
     "wof:placetype":"venue",

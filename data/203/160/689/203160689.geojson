@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.773392,-41.263485,174.773392,-41.263485",
     "geom:latitude":-41.263485,
     "geom:longitude":174.773392,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85773265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UfmCR41Z5eLtsq0n9k6fp_-41.263485_174.773392@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f39f83fb73f74c37a783c4805ce290d8",
+    "wof:geomhash":"03889c015377968723e6d9aefce331be",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85773265,
+            "region_id":85687233,
             "venue_id":203160689
         }
     ],
     "wof:id":203160689,
-    "wof:lastmodified":1473798650,
+    "wof:lastmodified":1496775803,
     "wof:name":"Wadestown Veterinary Clinic & Cattery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

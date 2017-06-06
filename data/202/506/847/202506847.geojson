@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.02356,-38.653671,178.02356,-38.653671",
     "geom:latitude":-38.653671,
     "geom:longitude":178.02356,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wLQGfMNaJspaqfbfDW8kY_-38.653671_178.023560@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"31841eb7fd4391843496c081f828cd94",
+    "wof:geomhash":"f53b8f192af06462216da14c0a703856",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":202506847
         }
     ],
     "wof:id":202506847,
-    "wof:lastmodified":1473798689,
+    "wof:lastmodified":1496776126,
     "wof:name":"Wallace Chiropractic Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.804947,-36.869678,174.804947,-36.869678",
     "geom:latitude":-36.869678,
     "geom:longitude":174.804947,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782495
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12pXPShJZODNMSQfGpu7mg_-36.869678_174.804947@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0c14b360381b04623c76cd28eab94561",
+    "wof:geomhash":"f14f4a375756177b0eda2857a1e09504",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782495,
+            "region_id":85687243,
             "venue_id":219386807
         }
     ],
     "wof:id":219386807,
-    "wof:lastmodified":1473798702,
+    "wof:lastmodified":1496775599,
     "wof:name":"House Of Travel",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

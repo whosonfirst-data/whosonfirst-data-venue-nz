@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.711761,-36.887554,174.711761,-36.887554",
     "geom:latitude":-36.887554,
     "geom:longitude":174.711761,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85773035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SvfB7AYxF0p3GN7CvrOJ5_-36.887554_174.711761@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"948b3d01cbea8e2248789891c8707ea1",
+    "wof:geomhash":"e08aabba3df49814d1e6dc7ec7927ada",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773035,
+            "region_id":85687243,
             "venue_id":185732473
         }
     ],
     "wof:id":185732473,
-    "wof:lastmodified":1473798617,
+    "wof:lastmodified":1496775579,
     "wof:name":"Civic Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

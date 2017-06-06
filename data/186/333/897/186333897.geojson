@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.561295,-39.996819,176.561295,-39.996819",
     "geom:latitude":-39.996819,
     "geom:longitude":176.561295,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914309,
+        102079333
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GO1DIVeEiryNQg1OEvj4m_-39.996819_176.561295@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"212d9f5377372d7a0a4729de8320aad7",
+    "wof:geomhash":"e6d63d8e1689d5e229f54cf4211f3930",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079333,
+            "locality_id":101914309,
+            "region_id":85687189,
             "venue_id":186333897
         }
     ],
     "wof:id":186333897,
-    "wof:lastmodified":1473798745,
+    "wof:lastmodified":1496775844,
     "wof:name":"Waipukurau Shingle Plant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

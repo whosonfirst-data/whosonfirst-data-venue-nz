@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.615967,-43.505829,172.615967,-43.505829",
     "geom:latitude":-43.505829,
     "geom:longitude":172.615967,
@@ -31,29 +32,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778455
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Pv23vUczxWkVgrDEF7st8_-43.505829_172.615967@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"767c62049567130afbc9faafd6123242",
+    "wof:geomhash":"f0026ad61aad33c3be7e17eedc88f9b8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778455,
+            "region_id":85687179,
             "venue_id":220087383
         }
     ],
     "wof:id":220087383,
-    "wof:lastmodified":1473798595,
+    "wof:lastmodified":1496776078,
     "wof:name":"Kookery Nook",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

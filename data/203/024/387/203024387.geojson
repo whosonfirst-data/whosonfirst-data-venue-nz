@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.346527,-46.391895,168.346527,-46.391895",
     "geom:latitude":-46.391895,
     "geom:longitude":168.346527,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781431
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OR4VWtGoVuaMWNOwe2xwD_-46.391895_168.346527@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"855b59a237ce9123c8cfc5bc8e84ce7d",
+    "wof:geomhash":"1e37d70cdf4627a5a2c905c3826b4613",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781431,
+            "region_id":85687211,
             "venue_id":203024387
         }
     ],
     "wof:id":203024387,
-    "wof:lastmodified":1473798568,
+    "wof:lastmodified":1496776724,
     "wof:name":"Backpackers Riverside Guesthouse Budget Bed & Breakfast",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

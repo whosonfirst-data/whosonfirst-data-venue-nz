@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.068665,-39.920475,175.068665,-39.920475",
     "geom:latitude":-39.920475,
     "geom:longitude":175.068665,
@@ -23,29 +24,34 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914639,
+        102079299,
+        85780873
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vbOgCQY0ZghueALS6i7s3_-39.920475_175.068665@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8c9ecb64bdb491646068c3f255b3d172",
+    "wof:geomhash":"c845b805bb9eacfcad834af08a6ac7ff",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":101914639,
+            "neighbourhood_id":85780873,
+            "region_id":85687251,
             "venue_id":202561055
         }
     ],
     "wof:id":202561055,
-    "wof:lastmodified":1473798686,
+    "wof:lastmodified":1496776215,
     "wof:name":"Pauline M Quinn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

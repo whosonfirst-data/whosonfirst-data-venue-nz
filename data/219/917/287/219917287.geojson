@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.211594,-38.184216,175.211594,-38.184216",
     "geom:latitude":-38.184216,
     "geom:longitude":175.211594,
@@ -23,27 +24,30 @@
     "sg:website":"http://www.otenz.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914943,
+        102079275
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HybTuW9UetOMVHVQI99Rk_-38.184216_175.211594@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f2ed1124831ee27c07f5ecd41792c75a",
+    "wof:geomhash":"344f4ea51aa349cdee3e49eee2f746fb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079275,
+            "locality_id":101914943,
+            "region_id":85687229,
             "venue_id":219917287
         }
     ],
     "wof:id":219917287,
-    "wof:lastmodified":1473798788,
+    "wof:lastmodified":1496776422,
     "wof:name":"Otenz Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

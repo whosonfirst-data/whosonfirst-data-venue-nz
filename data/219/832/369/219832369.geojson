@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.208771,-38.14571,176.208771,-38.14571",
     "geom:latitude":-38.14571,
     "geom:longitude":176.208771,
@@ -23,27 +24,30 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914629,
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MUJNkFDK37c7zKZHSkTTQ_-38.145710_176.208771@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b25539bce29e5deac3ab77afbb3e6d4b",
+    "wof:geomhash":"c49b8e91d85806cda0d6cd9fa636b9c9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914629,
+            "region_id":85687175,
             "venue_id":219832369
         }
     ],
     "wof:id":219832369,
-    "wof:lastmodified":1473798779,
+    "wof:lastmodified":1496776162,
     "wof:name":"AgFirst Consultants Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

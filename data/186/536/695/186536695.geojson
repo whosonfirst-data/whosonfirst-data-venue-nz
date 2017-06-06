@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.210281,-44.385376,171.210281,-44.385376",
     "geom:latitude":-44.385376,
     "geom:longitude":171.210281,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781471
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00rkgqoR2DD8R0YbEGDE47_-44.385376_171.210281@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b6e7783206773bbfec4d8632b1965b0c",
+    "wof:geomhash":"fb57bd9d03a83be425edfa42c4463b5a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781471,
+            "region_id":85687179,
             "venue_id":186536695
         }
     ],
     "wof:id":186536695,
-    "wof:lastmodified":1473798765,
+    "wof:lastmodified":1496776750,
     "wof:name":"Hair Artistry",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781471,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

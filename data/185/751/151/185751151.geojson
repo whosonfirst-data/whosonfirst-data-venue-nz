@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.660095,-43.518803,172.660095,-43.518803",
     "geom:latitude":-43.518803,
     "geom:longitude":172.660095,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781777
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KCoxlDchAuNJNHrtmD9L1_-43.518803_172.660095@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e259148468c393a7efff60180e93cbeb",
+    "wof:geomhash":"62474f18eb7a8f97fbde8ff762e89f35",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781777,
+            "region_id":85687179,
             "venue_id":185751151
         }
     ],
     "wof:id":185751151,
-    "wof:lastmodified":1473798609,
+    "wof:lastmodified":1496776025,
     "wof:name":"Richmond Working Mens Pigeon Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

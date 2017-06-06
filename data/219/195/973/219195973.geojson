@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.457962,-35.822678,174.457962,-35.822678",
     "geom:latitude":-35.822678,
     "geom:longitude":174.457962,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101915979,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Q4DiPof6iQ1YSaqfuVLpa_-35.822678_174.457962@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2b7331f8f0230d55c422d6408f799a51",
+    "wof:geomhash":"75ed2df7ec1a46b705adb45e2b5f7742",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101915979,
+            "region_id":85687149,
             "venue_id":219195973
         }
     ],
     "wof:id":219195973,
-    "wof:lastmodified":1473798619,
+    "wof:lastmodified":1496776869,
     "wof:name":"Marsden Flyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

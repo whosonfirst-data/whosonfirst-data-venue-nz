@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.737244,-41.283611,174.737244,-41.283611",
     "geom:latitude":-41.283611,
     "geom:longitude":174.737244,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FIX1R6bzie9xXoxSxuetM_-41.283611_174.737244@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cbf87331f8ff543aa83f2b829a7b58b5",
+    "wof:geomhash":"b4268aa8146fd26cfcc7ac3e6a202444",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772989,
+            "region_id":85687233,
             "venue_id":219952105
         }
     ],
     "wof:id":219952105,
-    "wof:lastmodified":1473798788,
+    "wof:lastmodified":1496775830,
     "wof:name":"Karori Veterinary Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

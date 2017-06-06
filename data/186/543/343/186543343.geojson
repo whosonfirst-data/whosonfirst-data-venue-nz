@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.953354,-41.528389,173.953354,-41.528389",
     "geom:latitude":-41.528389,
     "geom:longitude":173.953354,
@@ -23,29 +24,34 @@
     "sg:province":"Marlborough",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101915709,
+        102079353,
+        85781697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2inNnQdOEmJByl69NoPLbT_-41.528389_173.953354@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6981c8ac5317f209a05938440a910719",
+    "wof:geomhash":"b458b528c645ef594b4720284b7759a9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101915709,
+            "neighbourhood_id":85781697,
+            "region_id":85687185,
             "venue_id":186543343
         }
     ],
     "wof:id":186543343,
-    "wof:lastmodified":1473798762,
+    "wof:lastmodified":1496776833,
     "wof:name":"Reflections Hair Design 2002",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.824203,-41.17149,174.824203,-41.17149",
     "geom:latitude":-41.17149,
     "geom:longitude":174.824203,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914575,
+        102079339,
+        85778565
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rJc3njNFH4Z9cpiT5FPmL_-41.171490_174.824203@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5f70e702ee0d5195b7b522d32cc2e021",
+    "wof:geomhash":"28b4cd85ea2a91ba0a150e3b81cc0e60",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914575,
+            "neighbourhood_id":85778565,
+            "region_id":85687233,
             "venue_id":202841745
         }
     ],
     "wof:id":202841745,
-    "wof:lastmodified":1473798740,
+    "wof:lastmodified":1496776115,
     "wof:name":"Lewis's Home Fabrics Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

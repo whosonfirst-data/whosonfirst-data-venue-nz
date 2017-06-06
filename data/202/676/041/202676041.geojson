@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.367096,-46.429382,168.367096,-46.429382",
     "geom:latitude":-46.429382,
     "geom:longitude":168.367096,
@@ -23,29 +24,33 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781463
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EAjscIu1mp3IqqknRslft_-46.429382_168.367096@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4639c9107a86023f88d8d5b07bb417fe",
+    "wof:geomhash":"23085a0a8c0ffb3ad1e84e3eaca4a891",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781463,
+            "region_id":85687211,
             "venue_id":202676041
         }
     ],
     "wof:id":202676041,
-    "wof:lastmodified":1473798697,
+    "wof:lastmodified":1496776722,
     "wof:name":"Heidelberg Preschool (Barnardos)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

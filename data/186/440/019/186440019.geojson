@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.296036,-44.248158,171.296036,-44.248158",
     "geom:latitude":-44.248158,
     "geom:longitude":171.296036,
@@ -31,29 +32,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914401,
+        102079373,
+        85782503
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Irfvdob0UE7p4Zl2lk9yh_-44.248158_171.296036@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"048f635516c037cb42871d1634e6cdad",
+    "wof:geomhash":"7dd055600e1e126acd010e838c273bd3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101914401,
+            "neighbourhood_id":85782503,
+            "region_id":85687179,
             "venue_id":186440019
         }
     ],
     "wof:id":186440019,
-    "wof:lastmodified":1473798746,
+    "wof:lastmodified":1496775942,
     "wof:name":"Appliance Technology",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

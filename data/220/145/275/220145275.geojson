@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.979553,-40.913479,174.979553,-40.913479",
     "geom:latitude":-40.913479,
     "geom:longitude":174.979553,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bPrbd8RnZPno8sNq7S8UD_-40.913479_174.979553@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4d6a15dfe9ac01ff828d4e7da30b2817",
+    "wof:geomhash":"81bd13a7209f9f4c008f5c3a59278a64",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":220145275
         }
     ],
     "wof:id":220145275,
-    "wof:lastmodified":1473798596,
+    "wof:lastmodified":1496776182,
     "wof:name":"Talleys Frozen Foods Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

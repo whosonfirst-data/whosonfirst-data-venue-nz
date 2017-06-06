@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.916733,-36.895107,174.916733,-36.895107",
     "geom:latitude":-36.895107,
     "geom:longitude":174.916733,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778927
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eqtfLHUUxnppkLYD6qwZk_-36.895107_174.916733@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"663c52544bfeb9b5addbb02b9b58d7ab",
+    "wof:geomhash":"f016537ccb4a78cd7e8ad9f8a4cb9ba2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778927,
+            "region_id":85687243,
             "venue_id":186013697
         }
     ],
     "wof:id":186013697,
-    "wof:lastmodified":1473798558,
+    "wof:lastmodified":1496775493,
     "wof:name":"Cake Box The",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778927,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

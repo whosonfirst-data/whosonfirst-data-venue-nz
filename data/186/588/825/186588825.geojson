@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.874039,-39.673355,176.874039,-39.673355",
     "geom:latitude":-39.673355,
     "geom:longitude":176.874039,
@@ -23,27 +24,30 @@
     "sg:province":"Hawke's Bay",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914661,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3suicFbbr7ElGpbhEmyO4N_-39.673355_176.874039@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5a09c4a3df897e4ffd4922b34032907a",
+    "wof:geomhash":"f9c5991a48d187744242e7901fc71d91",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914661,
+            "region_id":85687189,
             "venue_id":186588825
         }
     ],
     "wof:id":186588825,
-    "wof:lastmodified":1473798772,
+    "wof:lastmodified":1496776232,
     "wof:name":"Havelock North Dental Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

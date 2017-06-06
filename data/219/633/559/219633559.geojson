@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.640762,-40.337212,175.640762,-40.337212",
     "geom:latitude":-40.337212,
     "geom:longitude":175.640762,
@@ -23,29 +24,34 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85773241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13lUcZKUZtzVGliC3bi07m_-40.337212_175.640762@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bdd823bacc19ba0cca92c252a5dcd908",
+    "wof:geomhash":"3d706f12f53db06bfe297e26c61f6521",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85773241,
+            "region_id":85687251,
             "venue_id":219633559
         }
     ],
     "wof:id":219633559,
-    "wof:lastmodified":1473798760,
+    "wof:lastmodified":1496775746,
     "wof:name":"Manawatu Commercial & 4X4 Dismantlers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

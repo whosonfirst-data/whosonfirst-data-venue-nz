@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.010483,-38.656227,178.010483,-38.656227",
     "geom:latitude":-38.656227,
     "geom:longitude":178.010483,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eHHDmcqAH5OtapoeMT3Fv_-38.656227_178.010483@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9c57ae36853692a3fb20d54f57728bfe",
+    "wof:geomhash":"47adc6456737a869aa14a01475144c5a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":202688385
         }
     ],
     "wof:id":202688385,
-    "wof:lastmodified":1473798676,
+    "wof:lastmodified":1496776130,
     "wof:name":"Eastland Childcare and Education Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.444519043,-45.737197876,168.444519043,-45.737197876",
     "geom:latitude":-45.737198,
     "geom:longitude":168.444519,
@@ -17,17 +18,32 @@
     "sg:owner":"simplegeo",
     "sg:phone":"+64 3-248 8825",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687211,
+        102191583,
+        85633345,
+        101916059,
+        102079391
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rydC8p13EqySLyu4d0iAn_-45.737198_168.444519@1306270040"
     },
     "wof:country":"NZ",
     "wof:created":1473719408,
-    "wof:geomhash":"a109c6d39f4e9b2a8d8ca34d45efd113",
-    "wof:hierarchy":[],
+    "wof:geomhash":"08423f2a761967490971740ea974747d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101916059,
+            "region_id":85687211,
+            "venue_id":1058997127
+        }
+    ],
     "wof:id":1058997127,
-    "wof:lastmodified":1473719408,
+    "wof:lastmodified":1496776880,
     "wof:name":"Nokomai Helicopters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

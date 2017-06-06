@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.333923,33.971272,-118.333923,33.971272",
     "geom:latitude":33.971272,
     "geom:longitude":-118.333923,
@@ -35,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85923517,
+        85923577,
         102086957,
-        85886061
+        "85886061"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +50,19 @@
     "wof:geomhash":"bac214d78b7a5c692e3ee04276bb0ec8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85886061,
+            "locality_id":85923577,
+            "neighbourhood_id":"85886061",
             "region_id":85688637,
             "venue_id":202682437
         }
     ],
     "wof:id":202682437,
-    "wof:lastmodified":1473798699,
+    "wof:lastmodified":1488941935,
     "wof:name":"Roundabout Distributors",
-    "wof:parent_id":85886061,
+    "wof:parent_id":"85886061",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

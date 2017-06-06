@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.730438,-41.288708,174.730438,-41.288708",
     "geom:latitude":-41.288708,
     "geom:longitude":174.730438,
@@ -23,29 +24,34 @@
     "sg:province":"Nelson",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bKWTF1m1sRLrB9TqOGHPQ_-41.288708_174.730438@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bc6d0cc3c240fec0696ce3c3fc2ad2c0",
+    "wof:geomhash":"fa2ffa92ffda1bb23858a78939d1936d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772989,
+            "region_id":85687233,
             "venue_id":169563901
         }
     ],
     "wof:id":169563901,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496775805,
     "wof:name":"Belleek Imports",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

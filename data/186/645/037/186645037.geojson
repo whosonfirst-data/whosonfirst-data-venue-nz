@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.628326,-40.355938,175.628326,-40.355938",
     "geom:latitude":-40.355938,
     "geom:longitude":175.628326,
@@ -34,29 +35,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85780937,
+        85773241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AjETaxpovT9Wb9nbAskH6_-40.355938_175.628326@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"749d8b8f82be25f7f4d229402a9816e3",
+    "wof:geomhash":"017587aea7c872fcf529eb00a7ea403e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85780937,
+            "region_id":85687251,
+            "venue_id":186645037
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85773241,
+            "region_id":85687251,
             "venue_id":186645037
         }
     ],
     "wof:id":186645037,
-    "wof:lastmodified":1473798762,
+    "wof:lastmodified":1496775747,
     "wof:name":"Auric / Magnetic Healing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

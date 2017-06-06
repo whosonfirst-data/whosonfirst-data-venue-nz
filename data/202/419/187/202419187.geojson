@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.242035,-38.104183,176.242035,-38.104183",
     "geom:latitude":-38.104183,
     "geom:longitude":176.242035,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914629,
+        102079289,
+        85781825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u8tWyFSB7BQYphiK6YoEe_-38.104183_176.242035@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ee467ac6f67adf72b56b8db8b6310968",
+    "wof:geomhash":"acfd31c2a1504ce9ad2b92820262eec8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914629,
+            "neighbourhood_id":85781825,
+            "region_id":85687175,
             "venue_id":202419187
         }
     ],
     "wof:id":202419187,
-    "wof:lastmodified":1473798594,
+    "wof:lastmodified":1496776160,
     "wof:name":"Kadri Munir",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

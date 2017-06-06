@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.25944519,-35.1142082214,173.25944519,-35.1142082214",
     "geom:latitude":-35.114208,
     "geom:longitude":173.259445,
@@ -28,17 +29,32 @@
         "fitness"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687149,
+        102191583,
+        85633345,
+        101915171,
+        102079255
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lnbhaQZQhDnlzbukfMvPu_-35.114208_173.259445@1306270044"
     },
     "wof:country":"NZ",
     "wof:created":1473719425,
-    "wof:geomhash":"5da2c8c20b26d16ddb1c34ae6048ca8b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e18e86f6e9babc779759bed55e201c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101915171,
+            "region_id":85687149,
+            "venue_id":1058997313
+        }
+    ],
     "wof:id":1058997313,
-    "wof:lastmodified":1473719425,
+    "wof:lastmodified":1496776610,
     "wof:name":"Vehicle Testing New Zealand Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

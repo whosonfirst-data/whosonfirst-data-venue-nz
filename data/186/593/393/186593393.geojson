@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.238663,-38.147594,176.238663,-38.147594",
     "geom:latitude":-38.147594,
     "geom:longitude":176.238663,
@@ -23,29 +24,34 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914629,
+        102079289,
+        85781705
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vB5VIAKqcXWG7sDVpTTMc_-38.147594_176.238663@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6ed7a5e5fc144a7d8611846fbf677d51",
+    "wof:geomhash":"17bfb5ab1c06393203594647c95b93df",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914629,
+            "neighbourhood_id":85781705,
+            "region_id":85687175,
             "venue_id":186593393
         }
     ],
     "wof:id":186593393,
-    "wof:lastmodified":1473798764,
+    "wof:lastmodified":1496776163,
     "wof:name":"Simons R B",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781705,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

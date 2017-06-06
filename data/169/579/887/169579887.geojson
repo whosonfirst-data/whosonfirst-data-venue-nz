@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.800705,-36.863182,174.800705,-36.863182",
     "geom:latitude":-36.863182,
     "geom:longitude":174.800705,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782495
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fYJb35bAjP8yXbxD7fzjj_-36.863182_174.800705@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"45a3cf9db93590be991e13c52a7bb79b",
+    "wof:geomhash":"ee1ef866f565eb9af12d8352babd5954",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782495,
+            "region_id":85687243,
             "venue_id":169579887
         }
     ],
     "wof:id":169579887,
-    "wof:lastmodified":1473798592,
+    "wof:lastmodified":1496775599,
     "wof:name":"Antiquax-Victoria Promotions Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

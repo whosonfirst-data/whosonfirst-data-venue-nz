@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.815628,-36.85379,174.815628,-36.85379",
     "geom:latitude":-36.85379,
     "geom:longitude":174.815628,
@@ -36,29 +37,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85773093
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58FNPcrbYQtoBoPgrrsT3O_-36.853790_174.815628@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"90b1661120087c5758606842b48a4273",
+    "wof:geomhash":"30840770e62825e54efdb6f0d2269b38",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85773093,
+            "region_id":85687243,
             "venue_id":203408791
         }
     ],
     "wof:id":203408791,
-    "wof:lastmodified":1473798695,
+    "wof:lastmodified":1496775567,
     "wof:name":"City Of Sails Marine Brokers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773093,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

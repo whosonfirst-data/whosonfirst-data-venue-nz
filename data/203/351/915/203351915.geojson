@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.27124,-37.763653,175.27124,-37.763653",
     "geom:latitude":-37.763653,
     "geom:longitude":175.27124,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        102079271,
+        85780887
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50PXaPljDorqtN6arVbA6Z_-37.763653_175.271240@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b77e010f97f554603482bcdbf1bde440",
+    "wof:geomhash":"3119ef39ad7dc36638fc373ea4585a96",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780887,
+            "region_id":85687229,
             "venue_id":203351915
         }
     ],
     "wof:id":203351915,
-    "wof:lastmodified":1473798686,
+    "wof:lastmodified":1496775779,
     "wof:name":"Hannahs Shoes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

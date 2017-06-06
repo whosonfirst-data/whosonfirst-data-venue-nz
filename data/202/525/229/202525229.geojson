@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.764114,-41.309944,174.764114,-41.309944",
     "geom:latitude":-41.309944,
     "geom:longitude":174.764114,
@@ -23,9 +24,11 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85772849
     ],
     "wof:breaches":[],
@@ -33,20 +36,20 @@
         "sg:id":"SG_3ADLzaIrYukyRuD3LUw71o_-41.309944_174.764114@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bb77fb79dc8260850342a4e84b7c3be4",
+    "wof:geomhash":"048427940237805a91b150e7cba402c1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85772849,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":202525229
         }
     ],
     "wof:id":202525229,
-    "wof:lastmodified":1473798703,
+    "wof:lastmodified":1496775804,
     "wof:name":"Home Birth Midwives",
     "wof:parent_id":85772849,
     "wof:placetype":"venue",

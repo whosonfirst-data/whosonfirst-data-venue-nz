@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.966248,-41.170639,174.966248,-41.170639",
     "geom:latitude":-41.170639,
     "geom:longitude":174.966248,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914741,
+        101914319,
+        102079337,
         85781069
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_5szgPJZF15kTaDIAR0RxGO_-41.170639_174.966248@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0ad46b896cd1cd0ed392c694f60d1b8b",
+    "wof:geomhash":"a5b27da6a01c3f6d2b6dc7315fa01859",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914741,
+            "county_id":102079337,
+            "locality_id":101914319,
             "neighbourhood_id":85781069,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":202409249
         }
     ],
     "wof:id":202409249,
-    "wof:lastmodified":1473798585,
+    "wof:lastmodified":1496775858,
     "wof:name":"Hutt Union & Community Health Service",
     "wof:parent_id":85781069,
     "wof:placetype":"venue",

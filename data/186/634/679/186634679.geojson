@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.759277,-36.875381,174.759277,-36.875381",
     "geom:latitude":-36.875381,
     "geom:longitude":174.759277,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782453
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DfWApuZ61wPmwyaVqSRQS_-36.875381_174.759277@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"99929993079ccc3983b99c1968b685da",
+    "wof:geomhash":"3928c4ecfd027c59c1edcd7eae4ccbc5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782453,
+            "region_id":85687243,
             "venue_id":186634679
         }
     ],
     "wof:id":186634679,
-    "wof:lastmodified":1473798772,
+    "wof:lastmodified":1496775623,
     "wof:name":"Self Heal Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

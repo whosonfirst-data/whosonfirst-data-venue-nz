@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.861191,-36.868752,174.861191,-36.868752",
     "geom:latitude":-36.868752,
     "geom:longitude":174.861191,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778295
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74IDc80Twi8BKa8WklHo0k_-36.868752_174.861191@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5749f2ffcf368b753109cbccf9fce2a9",
+    "wof:geomhash":"49579d5303259dd7a1a679e9eb038c0b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778295,
+            "region_id":85687243,
             "venue_id":202753689
         }
     ],
     "wof:id":202753689,
-    "wof:lastmodified":1473798722,
+    "wof:lastmodified":1496775483,
     "wof:name":"Troy Rest Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

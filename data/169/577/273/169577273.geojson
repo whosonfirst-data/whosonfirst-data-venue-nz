@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.030365,-38.662689,178.030365,-38.662689",
     "geom:latitude":-38.662689,
     "geom:longitude":178.030365,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40aN2EDfbtZ9PWkNX69ffX_-38.662689_178.030365@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"79f333078158d017bca7cfd914a8e64e",
+    "wof:geomhash":"8c23213616de68a57c93b13803a11ff0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":169577273
         }
     ],
     "wof:id":169577273,
-    "wof:lastmodified":1473798590,
+    "wof:lastmodified":1496776122,
     "wof:name":"Ten Talents Craft Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

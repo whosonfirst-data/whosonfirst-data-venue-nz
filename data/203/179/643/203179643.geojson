@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.888107,-39.508987,176.888107,-39.508987",
     "geom:latitude":-39.508987,
     "geom:longitude":176.888107,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914679,
+        102079331,
+        85781063
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FzBAwZ7TSMB6vAPYSVdWT_-39.508987_176.888107@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ac46276f4fdc9c9e6c3dc285979f08c4",
+    "wof:geomhash":"097aebb8ef04a8ad8cf20d7c63a50075",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101914679,
+            "neighbourhood_id":85781063,
+            "region_id":85687189,
             "venue_id":203179643
         }
     ],
     "wof:id":203179643,
-    "wof:lastmodified":1473798657,
+    "wof:lastmodified":1496776260,
     "wof:name":"Top Cut Tailors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

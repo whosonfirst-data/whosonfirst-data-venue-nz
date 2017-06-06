@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.246872,-41.299641,173.246872,-41.299641",
     "geom:latitude":-41.299641,
     "geom:longitude":173.246872,
@@ -23,29 +24,33 @@
     "sg:province":"Nelson",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        102079351,
+        85781837
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21EDLbXE6aRVR4aQCtTyWB_-41.299641_173.246872@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"daf2593ac50773ec3d9911a02e297c7c",
+    "wof:geomhash":"4011f02a9530b910bc7b2e4f14029142",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781837,
+            "region_id":85687157,
             "venue_id":203416459
         }
     ],
     "wof:id":203416459,
-    "wof:lastmodified":1473798710,
+    "wof:lastmodified":1496776780,
     "wof:name":"Lee Owen",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781837,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

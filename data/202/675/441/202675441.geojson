@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.890381,-37.016911,174.890381,-37.016911",
     "geom:latitude":-37.016911,
     "geom:longitude":174.890381,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914625,
+        102079403,
+        85782445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WYbYJ3jSkNfhw9HOihCzV_-37.016911_174.890381@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a1d979fa12e65719160cff21f8891163",
+    "wof:geomhash":"7c12b2acc627c18025b72b9e1c037c49",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914625,
+            "neighbourhood_id":85782445,
+            "region_id":85687243,
             "venue_id":202675441
         }
     ],
     "wof:id":202675441,
-    "wof:lastmodified":1473798703,
+    "wof:lastmodified":1496776149,
     "wof:name":"Childrens World Learning Centres",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

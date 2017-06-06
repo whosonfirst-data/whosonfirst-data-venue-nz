@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.384232,-46.422733,168.384232,-46.422733",
     "geom:latitude":-46.422733,
     "geom:longitude":168.384232,
@@ -34,27 +35,30 @@
     "sg:website":"http://www.yellowpages.co.nz/for/calvaryhospital/dp22687.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EmVUv9gj2zEXW8W4RJBY1_-46.422733_168.384232@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"13e6d399a6038f67b6d2cfdd1bb62641",
+    "wof:geomhash":"6c4cf6b2d8af3947f7ce8be3e01c2ab5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":203084135
         }
     ],
     "wof:id":203084135,
-    "wof:lastmodified":1473798610,
+    "wof:lastmodified":1496776726,
     "wof:name":"Calvary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

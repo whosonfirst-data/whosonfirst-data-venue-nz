@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.707123,-36.892059,174.707123,-36.892059",
     "geom:latitude":-36.892059,
     "geom:longitude":174.707123,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85773035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5enc8m7yqvoMLnezgH9vst_-36.892059_174.707123@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a85ce83853cf1447fc39bf4fa25a8521",
+    "wof:geomhash":"b357348636da270e8869f45c4a7edbe6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773035,
+            "region_id":85687243,
             "venue_id":203149119
         }
     ],
     "wof:id":203149119,
-    "wof:lastmodified":1473798644,
+    "wof:lastmodified":1496775677,
     "wof:name":"Star Dogs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

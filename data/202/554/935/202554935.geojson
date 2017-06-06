@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"169.140213,-44.695496,169.140213,-44.695496",
     "geom:latitude":-44.695496,
     "geom:longitude":169.140213,
@@ -23,27 +24,30 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914337,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3st0iK11sNLKm2mdghavjU_-44.695496_169.140213@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"85207bc07b6482da5945815f12a6b7b4",
+    "wof:geomhash":"1f72c5b002aa7eebbe401786db1543ee",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":101914337,
+            "region_id":85687201,
             "venue_id":202554935
         }
     ],
     "wof:id":202554935,
-    "wof:lastmodified":1473798696,
+    "wof:lastmodified":1496775905,
     "wof:name":"Wanaka Physiotherapy Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

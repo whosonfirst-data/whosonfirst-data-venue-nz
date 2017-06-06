@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.840897,41.862103,-87.840897,41.862103",
     "geom:latitude":41.862103,
     "geom:longitude":-87.840897,
@@ -22,7 +23,12 @@
     "sg:phone":"+64 274 926 112",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420518729,
+        102191575,
+        404497579,
         85633793,
+        85940895,
+        102084317,
         85688697
     ],
     "wof:breaches":[],
@@ -33,18 +39,20 @@
     "wof:geomhash":"073ec366e3e0eb7fa61de4455e0ce763",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084317,
+            "localadmin_id":404497579,
+            "locality_id":85940895,
+            "neighbourhood_id":420518729,
             "region_id":85688697,
             "venue_id":186242287
         }
     ],
     "wof:id":186242287,
-    "wof:lastmodified":1473798707,
+    "wof:lastmodified":1492088082,
     "wof:name":"Wright Machine Tools Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":420518729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

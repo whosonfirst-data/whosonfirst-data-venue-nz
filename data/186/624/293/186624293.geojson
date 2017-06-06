@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.748199,-36.884689,174.748199,-36.884689",
     "geom:latitude":-36.884689,
     "geom:longitude":174.748199,
@@ -31,29 +32,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778143
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1B6hwJ6Vzky0pUzmR9U0YW_-36.884689_174.748199@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7faac137bf73daa3cea1d0e9e6a2a592",
+    "wof:geomhash":"f1f7dbf349452b8c3350840d86dc31fd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778143,
+            "region_id":85687243,
             "venue_id":186624293
         }
     ],
     "wof:id":186624293,
-    "wof:lastmodified":1473798765,
+    "wof:lastmodified":1496775607,
     "wof:name":"Margaret Williams",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778143,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

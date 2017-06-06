@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.594101,-40.369434,175.594101,-40.369434",
     "geom:latitude":-40.369434,
     "geom:longitude":175.594101,
@@ -23,29 +24,34 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85781231
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AbbCzMZBslvNukU4MupLZ_-40.369434_175.594101@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8d044a636b475dc084db0d16457e635d",
+    "wof:geomhash":"c6ee1c51aada6da306dcc9629b4f06ca",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85781231,
+            "region_id":85687251,
             "venue_id":186470389
         }
     ],
     "wof:id":186470389,
-    "wof:lastmodified":1473798752,
+    "wof:lastmodified":1496775743,
     "wof:name":"Central Plumbing & Gas Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

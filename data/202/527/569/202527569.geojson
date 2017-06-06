@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.752365,-36.904591,174.752365,-36.904591",
     "geom:latitude":-36.904591,
     "geom:longitude":174.752365,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MDwXzC3Hs1HDRLqRz6Fai_-36.904591_174.752365@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"df172abaa286f0dc21f97a472a4ee586",
+    "wof:geomhash":"23dc34714f22e6381066cab4d2829018",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778845,
+            "region_id":85687243,
             "venue_id":202527569
         }
     ],
     "wof:id":202527569,
-    "wof:lastmodified":1473798690,
+    "wof:lastmodified":1496775447,
     "wof:name":"May Karen",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

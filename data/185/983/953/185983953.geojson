@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.980698,-40.935726,174.980698,-40.935726",
     "geom:latitude":-40.935726,
     "geom:longitude":174.980698,
@@ -33,27 +34,30 @@
     "sg:website":"http://www.murraylloyd.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lk1BKDUrYZPblJVoqYJRl_-40.935726_174.980698@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"09878e0c12d9d86233975ea8dbc79477",
+    "wof:geomhash":"afc82c6c9ac0f79025a2ccd45cee452a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":185983953
         }
     ],
     "wof:id":185983953,
-    "wof:lastmodified":1473798661,
+    "wof:lastmodified":1496776187,
     "wof:name":"Murray Lloyd Photography",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.63739,-40.337646,175.63739,-40.337646",
     "geom:latitude":-40.337646,
     "geom:longitude":175.63739,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079307,
+        85781111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lScWDvtLAgc1IyXP7jArj_-40.337646_175.637390@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3afc48b3c393da44ccaa4fae7e354d8c",
+    "wof:geomhash":"ad0b8ff8e3063fb2899f65b4f4fa3e37",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781111,
+            "region_id":85687251,
             "venue_id":203067173
         }
     ],
     "wof:id":203067173,
-    "wof:lastmodified":1473798611,
+    "wof:lastmodified":1496775749,
     "wof:name":"Chris Tucker Electrical Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

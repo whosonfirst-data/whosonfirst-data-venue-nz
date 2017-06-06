@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.233353,-44.407745,171.233353,-44.407745",
     "geom:latitude":-44.407745,
     "geom:longitude":171.233353,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BcB0LcmPN7DAA5rrfdjjM_-44.407745_171.233353@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6a56266e5c202e0bfabeda1c7c2ad2d6",
+    "wof:geomhash":"5d1ea0f7ed53e493cd3ca7f4a792ffb9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781671,
+            "region_id":85687179,
             "venue_id":186016049
         }
     ],
     "wof:id":186016049,
-    "wof:lastmodified":1473798560,
+    "wof:lastmodified":1496776737,
     "wof:name":"Forte Consultancy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.651825,-43.508274,172.651825,-43.508274",
     "geom:latitude":-43.508274,
     "geom:longitude":172.651825,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781693
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dixrX7bRX4TUqtNFxeQem_-43.508274_172.651825@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"88066ac8536c33a1fdd2850d13a8aa4c",
+    "wof:geomhash":"001233f725da8870d61e9d120fbf09fa",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781693,
+            "region_id":85687179,
             "venue_id":220103647
         }
     ],
     "wof:id":220103647,
-    "wof:lastmodified":1473798598,
+    "wof:lastmodified":1496776060,
     "wof:name":"Shirley Fresh Bread Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

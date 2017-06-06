@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.95697,-45.102818,170.95697,-45.102818",
     "geom:latitude":-45.102818,
     "geom:longitude":170.95697,
@@ -23,29 +24,33 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WaBNHnPYvcDBrlf9hLZAO_-45.102818_170.956970@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"27eef7d07858ae90804443ee07857165",
+    "wof:geomhash":"03a8f300a6d4ddbccc4a9a2cddd0a985",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":169735559
         }
     ],
     "wof:id":169735559,
-    "wof:lastmodified":1473798612,
+    "wof:lastmodified":1496776266,
     "wof:name":"Junction Foodcentre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

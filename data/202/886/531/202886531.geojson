@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.232086,-41.318481,173.232086,-41.318481",
     "geom:latitude":-41.318481,
     "geom:longitude":173.232086,
@@ -32,29 +33,34 @@
     "sg:website":"http://www.indigenoustimber.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        101915661,
+        102079351,
+        85773201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6e6Ar85SJO1BubngesQkKI_-41.318481_173.232086@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7f457cbe1fe7797e8d47fb31792d6137",
+    "wof:geomhash":"5d0d70a0241c1dc7c2d7fbee83903e52",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":101915661,
+            "neighbourhood_id":85773201,
+            "region_id":85687157,
             "venue_id":202886531
         }
     ],
     "wof:id":202886531,
-    "wof:lastmodified":1473798758,
+    "wof:lastmodified":1496776820,
     "wof:name":"Kapamak Indigenous & Recycled Timber",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

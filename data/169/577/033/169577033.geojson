@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.632309,-40.351208,175.632309,-40.351208",
     "geom:latitude":-40.351208,
     "geom:longitude":175.632309,
@@ -23,29 +24,34 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85773241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HidcbxfaTuQ6s2611GQGT_-40.351208_175.632309@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3836ce34bc06d88170adeabc20458ff2",
+    "wof:geomhash":"1191967a4eeb763c62387c5e362584ee",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85773241,
+            "region_id":85687251,
             "venue_id":169577033
         }
     ],
     "wof:id":169577033,
-    "wof:lastmodified":1473798579,
+    "wof:lastmodified":1496775745,
     "wof:name":"Serendipity Floral Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

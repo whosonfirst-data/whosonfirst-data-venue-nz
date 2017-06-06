@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.591629,-40.359535,175.591629,-40.359535",
     "geom:latitude":-40.359535,
     "geom:longitude":175.591629,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_0HaSnZVbqOAPGChlGqblvj_-40.359535_175.591629@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"61bbefa4f603f17c0f9a5c0d122b4e90",
+    "wof:geomhash":"12ad520d3f217ff4d87edf1ab4ea6c8b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":220157241
         }
     ],
     "wof:id":220157241,
-    "wof:lastmodified":1473798650,
+    "wof:lastmodified":1496775741,
     "wof:name":"Ocean Organics",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

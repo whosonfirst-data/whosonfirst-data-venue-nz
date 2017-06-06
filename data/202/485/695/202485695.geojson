@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.389496,-40.170528,175.389496,-40.170528",
     "geom:latitude":-40.170528,
     "geom:longitude":175.389496,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 6-322 1658",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101916325,
+        102079301
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dGHdw24gT5XmJbrNklQII_-40.170528_175.389496@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"af7769cb29870445277f83a280aa98df",
+    "wof:geomhash":"ffeee399643a9ad0f6e421ec05289d56",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":101916325,
+            "region_id":85687251,
             "venue_id":202485695
         }
     ],
     "wof:id":202485695,
-    "wof:lastmodified":1473798681,
+    "wof:lastmodified":1496776904,
     "wof:name":"Platts Pharmacy Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

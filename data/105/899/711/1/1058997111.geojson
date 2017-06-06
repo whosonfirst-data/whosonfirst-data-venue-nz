@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.980041504,-40.930644989,174.980041504,-40.930644989",
     "geom:latitude":-40.930645,
     "geom:longitude":174.980042,
@@ -28,17 +29,32 @@
         "suede"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ck8nCJ8DDpKORhMXEhQly_-40.930645_174.980042@1306270039"
     },
     "wof:country":"NZ",
     "wof:created":1473719407,
-    "wof:geomhash":"6ca0b66fe9ec15867a99c7365de40975",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e8c8188ca6c11877e81bbaf610efc31a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
+            "venue_id":1058997111
+        }
+    ],
     "wof:id":1058997111,
-    "wof:lastmodified":1473719407,
+    "wof:lastmodified":1496776191,
     "wof:name":"The Dry Creek Company Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

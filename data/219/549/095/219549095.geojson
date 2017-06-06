@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.901031,-37.00322,174.901031,-37.00322",
     "geom:latitude":-37.00322,
     "geom:longitude":174.901031,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781193
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6p5DcX8nWAZGE6ZfurTtjH_-37.003220_174.901031@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b5220f25dee8a4c50eb7f99d08d7671f",
+    "wof:geomhash":"71903374868705662992184e0529db36",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781193,
+            "region_id":85687243,
             "venue_id":219549095
         }
     ],
     "wof:id":219549095,
-    "wof:lastmodified":1473798731,
+    "wof:lastmodified":1496775614,
     "wof:name":"Auto Alarms Specialists",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781193,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

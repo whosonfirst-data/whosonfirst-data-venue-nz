@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.702072,-36.83638,175.702072,-36.83638",
     "geom:latitude":-36.83638,
     "geom:longitude":175.702072,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914279,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_037oAJc10axxh7qXvuBmU1_-36.836380_175.702072@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5d15c717f5d6004639a6eec9999b483c",
+    "wof:geomhash":"1f39f28332345090a70aad34fcedbf32",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101914279,
+            "region_id":85687229,
             "venue_id":185794841
         }
     ],
     "wof:id":185794841,
-    "wof:lastmodified":1473798624,
+    "wof:lastmodified":1496775792,
     "wof:name":"The Bone Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

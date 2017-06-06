@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.55809,-40.224331,175.55809,-40.224331",
     "geom:latitude":-40.224331,
     "geom:longitude":175.55809,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079303,
+        85778921
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jjxtAXa5qc7Z2Tb6FbBjv_-40.224331_175.558090@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b4a11b45d3b32e2f0f9d13355e75193e",
+    "wof:geomhash":"f1b038c584f6ef24938d5ac8c4da9299",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778921,
+            "region_id":85687251,
             "venue_id":169856611
         }
     ],
     "wof:id":169856611,
-    "wof:lastmodified":1473798650,
+    "wof:lastmodified":1496776281,
     "wof:name":"Barbarellas",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

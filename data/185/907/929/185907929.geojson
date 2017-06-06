@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.650299,-43.520397,172.650299,-43.520397",
     "geom:latitude":-43.520397,
     "geom:longitude":172.650299,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781777
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_391RBi8ieYexQ7bDImV1Ni_-43.520397_172.650299@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a243d689f7ee7426a7a41acd0311f015",
+    "wof:geomhash":"823a7887be555ce67ed87b4c225273c4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781777,
+            "region_id":85687179,
             "venue_id":185907929
         }
     ],
     "wof:id":185907929,
-    "wof:lastmodified":1473798639,
+    "wof:lastmodified":1496776046,
     "wof:name":"Peninsula & Alpine 4x4 Tours",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

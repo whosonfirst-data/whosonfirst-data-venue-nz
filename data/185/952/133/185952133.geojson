@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.635681,-36.828793,174.635681,-36.828793",
     "geom:latitude":-36.828793,
     "geom:longitude":174.635681,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781685
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49TYJ2aWuXYoT1pgmTRhpG_-36.828793_174.635681@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f33c692832bc94eda88a214c3e4ce541",
+    "wof:geomhash":"29207ce19ba2554518d6cab02e7b3de5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781685,
+            "region_id":85687243,
             "venue_id":185952133
         }
     ],
     "wof:id":185952133,
-    "wof:lastmodified":1473798655,
+    "wof:lastmodified":1496775430,
     "wof:name":"Waitemata Indoor Cricket Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

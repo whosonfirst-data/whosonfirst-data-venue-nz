@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.318085,-37.894249,178.318085,-37.894249",
     "geom:latitude":-37.894249,
     "geom:longitude":178.318085,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 6-864 8701",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        101914553,
+        102079325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gSCJqnlqSG2MjiYMUMCb3_-37.894249_178.318085@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2e28382d5f9a47b1d969c3572ad75251",
+    "wof:geomhash":"a0b880597b26b32fa06583298fdd5879",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":101914553,
+            "region_id":85687237,
             "venue_id":219477471
         }
     ],
     "wof:id":219477471,
-    "wof:lastmodified":1473798711,
+    "wof:lastmodified":1496776104,
     "wof:name":"Hiruharama School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

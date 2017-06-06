@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.981964,-37.964809,176.981964,-37.964809",
     "geom:latitude":-37.964809,
     "geom:longitude":176.981964,
@@ -36,29 +37,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079291,
+        85782901
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Qj2ncEN07cgSY88VGNaB8_-37.964809_176.981964@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"55948ea566a261d64ea9b27d2f2ec711",
+    "wof:geomhash":"be978df32fa34d349d964844c3c6c845",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782901,
+            "region_id":85687175,
             "venue_id":169787855
         }
     ],
     "wof:id":169787855,
-    "wof:lastmodified":1473798642,
+    "wof:lastmodified":1496775888,
     "wof:name":"Greg Smeal Fishing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

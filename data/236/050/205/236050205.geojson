@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.260269,-38.885445,175.260269,-38.885445",
     "geom:latitude":-38.885445,
     "geom:longitude":175.260269,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914323,
+        102079297
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tFdooXYiu7K8E46xPG7Kk_-38.885445_175.260269@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8be366f9c77212d67c85dcdd82326ad9",
+    "wof:geomhash":"8433f9f18d3d55925fed562be69219a1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101914323,
+            "region_id":85687251,
             "venue_id":236050205
         }
     ],
     "wof:id":236050205,
-    "wof:lastmodified":1473798579,
+    "wof:lastmodified":1496775861,
     "wof:name":"Taumarunui Funeral Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

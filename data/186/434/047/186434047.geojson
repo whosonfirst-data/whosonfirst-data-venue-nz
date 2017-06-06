@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.900177,-39.601734,176.900177,-39.601734",
     "geom:latitude":-39.601734,
     "geom:longitude":176.900177,
@@ -23,27 +24,30 @@
     "sg:province":"Hawke's Bay",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101915031,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NgMAfoSpD451Sj1NvWjDS_-39.601734_176.900177@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"aa323fa1f4f2f8a651aad384ebff2d03",
+    "wof:geomhash":"cfba3a08481717f67b7fa10989786aeb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101915031,
+            "region_id":85687189,
             "venue_id":186434047
         }
     ],
     "wof:id":186434047,
-    "wof:lastmodified":1473798747,
+    "wof:lastmodified":1496777632,
     "wof:name":"Liquistore (HB)",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

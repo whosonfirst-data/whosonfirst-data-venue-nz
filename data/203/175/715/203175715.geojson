@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.096207,-46.288601,168.096207,-46.288601",
     "geom:latitude":-46.288601,
     "geom:longitude":168.096207,
@@ -31,27 +32,30 @@
     "sg:website":"http://www.slinkskins.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101916931,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Xh1pQKGJ8gPKE8jnK79MA_-46.288601_168.096207@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0265dbc2876f7d2b3667344abd03a4b4",
+    "wof:geomhash":"790366dcae78277ea80b6bf9b3cdb057",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101916931,
+            "region_id":85687211,
             "venue_id":203175715
         }
     ],
     "wof:id":203175715,
-    "wof:lastmodified":1473798651,
+    "wof:lastmodified":1496776962,
     "wof:name":"Slinkskins Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

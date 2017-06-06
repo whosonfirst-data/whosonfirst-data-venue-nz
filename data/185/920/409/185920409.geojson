@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.554672,-40.226326,175.554672,-40.226326",
     "geom:latitude":-40.226326,
     "geom:longitude":175.554672,
@@ -36,29 +37,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079303,
+        85778921
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4pSjZknfY9aI721xkDW0mm_-40.226326_175.554672@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"36b64b49003aa9f8db0121a17ed7c850",
+    "wof:geomhash":"679045981f9f70c0ed992bdc0e8baf68",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778921,
+            "region_id":85687251,
             "venue_id":185920409
         }
     ],
     "wof:id":185920409,
-    "wof:lastmodified":1473798641,
+    "wof:lastmodified":1496776280,
     "wof:name":"Leanne Melbye Dance Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

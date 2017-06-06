@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.649887,-36.845284,174.649887,-36.845284",
     "geom:latitude":-36.845284,
     "geom:longitude":174.649887,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782077
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Bybzdd1yy01vx19ipllDB_-36.845284_174.649887@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"34669a91652bc6ef835a4a64e60fb4d2",
+    "wof:geomhash":"034ca48f7089f8143cc32dd64098db65",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782077,
+            "region_id":85687243,
             "venue_id":203322151
         }
     ],
     "wof:id":203322151,
-    "wof:lastmodified":1473798676,
+    "wof:lastmodified":1496775551,
     "wof:name":"Shamrock Group Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

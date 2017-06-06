@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.831345,-42.524109,172.831345,-42.524109",
     "geom:latitude":-42.524109,
     "geom:longitude":172.831345,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914953,
+        102079365
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2co5d2GIiaGUGQbUTEzITa_-42.524109_172.831345@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"89fce894fd5a059fcd388f4abd150d5c",
+    "wof:geomhash":"354404395681221cd4d3954585797302",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079365,
+            "locality_id":101914953,
+            "region_id":85687179,
             "venue_id":219260951
         }
     ],
     "wof:id":219260951,
-    "wof:lastmodified":1473798669,
+    "wof:lastmodified":1496776428,
     "wof:name":"Pam Farr Holiday Homes",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

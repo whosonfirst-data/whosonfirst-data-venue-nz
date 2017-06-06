@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.838654,-37.392605,175.838654,-37.392605",
     "geom:latitude":-37.392605,
     "geom:longitude":175.838654,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-863 8655",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915083,
+        102079263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SPKRhbA2o8Pwkj2yI2CnZ_-37.392605_175.838654@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e623ad2f20fad1fd040a47bc4fed840c",
+    "wof:geomhash":"33c54c3031ceee7fd0972b99cff3efaf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079263,
+            "locality_id":101915083,
+            "region_id":85687229,
             "venue_id":186129725
         }
     ],
     "wof:id":186129725,
-    "wof:lastmodified":1473798671,
+    "wof:lastmodified":1496776535,
     "wof:name":"Brown & Brown (Waihi) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

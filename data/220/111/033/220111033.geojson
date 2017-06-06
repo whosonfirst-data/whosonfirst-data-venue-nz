@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.63028,-40.340672,175.63028,-40.340672",
     "geom:latitude":-40.340672,
     "geom:longitude":175.63028,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079307,
+        85781111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CAR1fExRVNyqdC1jFYzXZ_-40.340672_175.630280@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"23e3a80ec6f732f3bfb44bb1c8df688b",
+    "wof:geomhash":"869ab25f9e92df30b7e420ff0b3a4f88",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781111,
+            "region_id":85687251,
             "venue_id":220111033
         }
     ],
     "wof:id":220111033,
-    "wof:lastmodified":1473798616,
+    "wof:lastmodified":1496775750,
     "wof:name":"Matthew's Designer Cake Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

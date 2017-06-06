@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.824203,-41.171494,174.824203,-41.171494",
     "geom:latitude":-41.171494,
     "geom:longitude":174.824203,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914575,
+        102079339,
+        85778565
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dOmvVW472IONnpJuCXa3c_-41.171494_174.824203@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f12cd24f8d995105800ae0c2a96feceb",
+    "wof:geomhash":"fa9f2c3c6358cfa8e95420df3d446328",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914575,
+            "neighbourhood_id":85778565,
+            "region_id":85687233,
             "venue_id":185826597
         }
     ],
     "wof:id":185826597,
-    "wof:lastmodified":1473798628,
+    "wof:lastmodified":1496776114,
     "wof:name":"ECM Music",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

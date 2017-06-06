@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.453842,-36.673794,174.453842,-36.673794",
     "geom:latitude":-36.673794,
     "geom:longitude":174.453842,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914329,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_626aeNiiynsjanUUZ1eOwu_-36.673794_174.453842@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a5d543f5ea7b6ba500ddb267b7dc8a43",
+    "wof:geomhash":"1b21ab81c1a3ab67a7724db3fab0f34e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914329,
+            "region_id":85687243,
             "venue_id":219675479
         }
     ],
     "wof:id":219675479,
-    "wof:lastmodified":1473798792,
+    "wof:lastmodified":1496775900,
     "wof:name":"Nor-West Glass Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

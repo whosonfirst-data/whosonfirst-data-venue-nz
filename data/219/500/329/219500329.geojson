@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.773926,-36.782509,174.773926,-36.782509",
     "geom:latitude":-36.782509,
     "geom:longitude":174.773926,
@@ -33,41 +34,43 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        85773217,
-        85778459
+        102079403,
+        85778459,
+        85773217
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EO5oNWwX7wcW7b7wduI2b_-36.782509_174.773926@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a00a38d35440633caa623b5a276276a6",
+    "wof:geomhash":"4f35c503054a02d8f28641ccfb7c0ae2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":85773217,
-            "region_id":-1,
+            "neighbourhood_id":85778459,
+            "region_id":85687243,
             "venue_id":219500329
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":85778459,
-            "region_id":-1,
+            "neighbourhood_id":85773217,
+            "region_id":85687243,
             "venue_id":219500329
         }
     ],
     "wof:id":219500329,
-    "wof:lastmodified":1473798721,
+    "wof:lastmodified":1496775572,
     "wof:name":"SuccessMaker NZ",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

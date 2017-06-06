@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.793732,-36.892677,174.793732,-36.892677",
     "geom:latitude":-36.892677,
     "geom:longitude":174.793732,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nXmhkXhsDR1XtuP3ZHS68_-36.892677_174.793732@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ec9b65a12ff6214d82c1345bbf2273a5",
+    "wof:geomhash":"76c7204e1f9d3657237e9aeb26bb5d71",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778331,
+            "region_id":85687243,
             "venue_id":202566071
         }
     ],
     "wof:id":202566071,
-    "wof:lastmodified":1473798686,
+    "wof:lastmodified":1496777131,
     "wof:name":"Pharmanex",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

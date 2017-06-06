@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.620636,-43.556889,172.620636,-43.556889",
     "geom:latitude":-43.556889,
     "geom:longitude":172.620636,
@@ -32,29 +33,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85773191,
+        85778621
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kQ3Z2AlgOdExZCcm2PlK2_-43.556889_172.620636@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1008cdb6adeabcf6ea4289c3dcc8355a",
+    "wof:geomhash":"e5be93cf8dd00ec7a8873fb3911864ae",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85773191,
+            "region_id":85687179,
+            "venue_id":202414359
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778621,
+            "region_id":85687179,
             "venue_id":202414359
         }
     ],
     "wof:id":202414359,
-    "wof:lastmodified":1473798594,
+    "wof:lastmodified":1496776055,
     "wof:name":"Barrington Medical Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

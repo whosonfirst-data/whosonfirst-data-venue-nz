@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.587555,-43.489944,172.587555,-43.489944",
     "geom:latitude":-43.489944,
     "geom:longitude":172.587555,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778169
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0USxEzOJYJ2m4S7hnkigZ9_-43.489944_172.587555@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e56e16b85a065b18f059a714139b97e9",
+    "wof:geomhash":"f1a5b692b76f6e3019ab3f7824d1593a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778169,
+            "region_id":85687179,
             "venue_id":169572551
         }
     ],
     "wof:id":169572551,
-    "wof:lastmodified":1473798589,
+    "wof:lastmodified":1496776020,
     "wof:name":"New Millennium Books Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

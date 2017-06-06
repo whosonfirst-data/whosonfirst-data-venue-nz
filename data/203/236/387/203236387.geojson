@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.730423,-36.88097,174.730423,-36.88097",
     "geom:latitude":-36.88097,
     "geom:longitude":174.730423,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778467
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0liWFQQxdidBr6rB3dcwrk_-36.880970_174.730423@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2ffa3324cf3e0916c67f431041e09682",
+    "wof:geomhash":"000546f2055e4bac5d6ddadcf5172104",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778467,
+            "region_id":85687243,
             "venue_id":203236387
         }
     ],
     "wof:id":203236387,
-    "wof:lastmodified":1473798660,
+    "wof:lastmodified":1496775640,
     "wof:name":"USA Plus International Company Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

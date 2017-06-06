@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.751099,-36.710171,174.751099,-36.710171",
     "geom:latitude":-36.710171,
     "geom:longitude":174.751099,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3a6xPcT09E52ADg5FKQjJ6_-36.710171_174.751099@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d419e0f155d8900f90397ef74ad9421b",
+    "wof:geomhash":"179a62c52c787cf58dc887bd8bd882d6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781263,
+            "region_id":85687243,
             "venue_id":186616119
         }
     ],
     "wof:id":186616119,
-    "wof:lastmodified":1473798760,
+    "wof:lastmodified":1496775470,
     "wof:name":"Studio 1 Health Spa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

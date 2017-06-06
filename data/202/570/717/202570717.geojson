@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.889587,-37.026215,174.889587,-37.026215",
     "geom:latitude":-37.026215,
     "geom:longitude":174.889587,
@@ -32,29 +33,34 @@
     "sg:website":"http://www.yellowpages.co.nz/pages/215696721/dp24703.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914625,
+        102079403,
+        85782445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0o9WyA2e0mdDoWvbq9VexX_-37.026215_174.889587@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5e166da22a9c452baf7d828a4b0a3898",
+    "wof:geomhash":"c60e5dafa9e616ed79ae233ecf753361",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914625,
+            "neighbourhood_id":85782445,
+            "region_id":85687243,
             "venue_id":202570717
         }
     ],
     "wof:id":202570717,
-    "wof:lastmodified":1473798694,
+    "wof:lastmodified":1496776144,
     "wof:name":"Anytime Glass Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

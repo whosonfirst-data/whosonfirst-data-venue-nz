@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.271469,-39.576092,174.271469,-39.576092",
     "geom:latitude":-39.576092,
     "geom:longitude":174.271469,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687195,
+        102191583,
+        85633345,
+        101914721,
+        102079295
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_305oMbClzzKlcIbLDztFrU_-39.576092_174.271469@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2e6d35f1bc537ae3a4c9129749bc833b",
+    "wof:geomhash":"fb7ab9e53ac1858187f0980c9becaea0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079295,
+            "locality_id":101914721,
+            "region_id":85687195,
             "venue_id":202789603
         }
     ],
     "wof:id":202789603,
-    "wof:lastmodified":1473798725,
+    "wof:lastmodified":1496776291,
     "wof:name":"One Off",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.930161,-36.906227,174.930161,-36.906227",
     "geom:latitude":-36.906227,
     "geom:longitude":174.930161,
@@ -36,29 +37,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85772971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OzWih8Emg80xHlHVZ4p5Q_-36.906227_174.930161@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3eca3cfdaa403fb6b9f1f8fb6fa2a397",
+    "wof:geomhash":"06d2f1a93a1e0034835f0d54bd96d86d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772971,
+            "region_id":85687243,
             "venue_id":203134129
         }
     ],
     "wof:id":203134129,
-    "wof:lastmodified":1473798643,
+    "wof:lastmodified":1496775501,
     "wof:name":"Howick Boarding & Breeding Cattery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

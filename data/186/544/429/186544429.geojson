@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.664383,-40.958786,175.664383,-40.958786",
     "geom:latitude":-40.958786,
     "geom:longitude":175.664383,
@@ -23,29 +24,33 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079343,
+        85780973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ALDTyUxGFjhooc1j0uTuT_-40.958786_175.664383@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"75337e3c4177aa09fd58b7fc4823e9e8",
+    "wof:geomhash":"34b5f3c1c3ffa9fbda65d7c1e4c38e60",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780973,
+            "region_id":85687233,
             "venue_id":186544429
         }
     ],
     "wof:id":186544429,
-    "wof:lastmodified":1473798764,
+    "wof:lastmodified":1496776776,
     "wof:name":"Salon Eastside",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

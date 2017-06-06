@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.917938,-41.210667,174.917938,-41.210667",
     "geom:latitude":-41.210667,
     "geom:longitude":174.917938,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079337,
+        85782435
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33IoluH0IXnc4FtHRyun0G_-41.210667_174.917938@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"78857650a99f6097b281198d0056422f",
+    "wof:geomhash":"78695b8c44d7898915edc5ac6291f946",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782435,
+            "region_id":85687233,
             "venue_id":186551683
         }
     ],
     "wof:id":186551683,
-    "wof:lastmodified":1473798766,
+    "wof:lastmodified":1496775853,
     "wof:name":"Fiona M Smith",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.145325,-37.677883,176.145325,-37.677883",
     "geom:latitude":-37.677883,
     "geom:longitude":176.145325,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85780779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Va1XXkNwAhENM2F1OwdjX_-37.677883_176.145325@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a1a602de08003609a1d4943b3e98bfe9",
+    "wof:geomhash":"1d3513c6e15c869da1e5af83f751a4bc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780779,
+            "region_id":85687175,
             "venue_id":185840851
         }
     ],
     "wof:id":185840851,
-    "wof:lastmodified":1473798632,
+    "wof:lastmodified":1496775878,
     "wof:name":"Bennett Pianos",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

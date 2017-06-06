@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.844925,-36.950378,174.844925,-36.950378",
     "geom:latitude":-36.950378,
     "geom:longitude":174.844925,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914651,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57nC5G4wnu40VGwg3zJNpy_-36.950378_174.844925@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d53c4d8a27327dec4a183563b91f933c",
+    "wof:geomhash":"73c93f9840eb2b66a0667d61c1f29f36",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914651,
+            "region_id":85687243,
             "venue_id":220010585
         }
     ],
     "wof:id":220010585,
-    "wof:lastmodified":1473798566,
+    "wof:lastmodified":1496776222,
     "wof:name":"MoneyShop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

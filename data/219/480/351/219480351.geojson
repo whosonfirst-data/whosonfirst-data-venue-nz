@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.729553,-36.42701,174.729553,-36.42701",
     "geom:latitude":-36.42701,
     "geom:longitude":174.729553,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101915975,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Zwc9ERXcGWOdtujTms01d_-36.427010_174.729553@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9b8308c0ad20c73ff5c88c1fefb8e673",
+    "wof:geomhash":"14174b880fd8b0a1ec53459542a218a0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915975,
+            "region_id":85687243,
             "venue_id":219480351
         }
     ],
     "wof:id":219480351,
-    "wof:lastmodified":1473798711,
+    "wof:lastmodified":1496776869,
     "wof:name":"Mahurangi Christian School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

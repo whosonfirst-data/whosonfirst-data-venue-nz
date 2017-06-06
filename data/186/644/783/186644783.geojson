@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.374344,-46.408092,168.374344,-46.408092",
     "geom:latitude":-46.408092,
     "geom:longitude":168.374344,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vJZ8n6XBYLSyv2zzlJSVg_-46.408092_168.374344@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f9a61b3f485b6a2d571a556d8d95da35",
+    "wof:geomhash":"9e5f8b479bdd7b6f3ea840e2d5c802a4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781519,
+            "region_id":85687211,
             "venue_id":186644783
         }
     ],
     "wof:id":186644783,
-    "wof:lastmodified":1473798773,
+    "wof:lastmodified":1496776721,
     "wof:name":"Anderson Julie",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

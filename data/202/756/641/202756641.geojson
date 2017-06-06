@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.817383,-36.970158,174.817383,-36.970158",
     "geom:latitude":-36.970158,
     "geom:longitude":174.817383,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778437
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7d2SiyP7Yh3HLgrtIS6D3u_-36.970158_174.817383@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1591e39f7a8e1d691e859ff8a2df2ca0",
+    "wof:geomhash":"2a83b015ccbdd56b370ca3e5c1a6e8dc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778437,
+            "region_id":85687243,
             "venue_id":202756641
         }
     ],
     "wof:id":202756641,
-    "wof:lastmodified":1473798718,
+    "wof:lastmodified":1496777121,
     "wof:name":"Culverden Retirement Village",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

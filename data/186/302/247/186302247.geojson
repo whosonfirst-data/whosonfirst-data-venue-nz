@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.703857,-36.83522,175.703857,-36.83522",
     "geom:latitude":-36.83522,
     "geom:longitude":175.703857,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-866 5451",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914279,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HCFGSaj36FlnyAao71Sbg_-36.835220_175.703857@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4b75a1759a5568e82ff99aba92d18841",
+    "wof:geomhash":"8f1220cec7fe7d8365713fa02d8d087c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101914279,
+            "region_id":85687229,
             "venue_id":186302247
         }
     ],
     "wof:id":186302247,
-    "wof:lastmodified":1473798722,
+    "wof:lastmodified":1496775796,
     "wof:name":"Whitianga Glass & Aluminium Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

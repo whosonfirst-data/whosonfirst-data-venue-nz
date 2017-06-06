@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.290405,-37.763836,175.290405,-37.763836",
     "geom:latitude":-37.763836,
     "geom:longitude":175.290405,
@@ -23,29 +24,34 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914271,
+        102079271,
+        85780883
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wzKSMgT42mfrVBSE3yxki_-37.763836_175.290405@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3016c175f22a92d4871932702fc1ca61",
+    "wof:geomhash":"192c02f2260f3e7350f0141cd0e66cb2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
+            "locality_id":101914271,
+            "neighbourhood_id":85780883,
+            "region_id":85687229,
             "venue_id":202405381
         }
     ],
     "wof:id":202405381,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496775776,
     "wof:name":"Rossendale Home & Hospital",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780883,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

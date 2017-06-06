@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.756027,-39.648914,176.756027,-39.648914",
     "geom:latitude":-39.648914,
     "geom:longitude":176.756027,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101917469,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31qL4dc9ivx2fDWxG11WYf_-39.648914_176.756027@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f445985c45f64fc9448e999b3b70a66d",
+    "wof:geomhash":"9b06bc11b555687474d57b9b071470e0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101917469,
+            "region_id":85687189,
             "venue_id":203374183
         }
     ],
     "wof:id":203374183,
-    "wof:lastmodified":1473798681,
+    "wof:lastmodified":1496776972,
     "wof:name":"Hawkes Bay Aviation Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.067154,-39.936527,175.067154,-39.936527",
     "geom:latitude":-39.936527,
     "geom:longitude":175.067154,
@@ -23,29 +24,34 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914639,
+        102079299,
+        85780873
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4R2Bg3F5QDY7n7gQwYZbHr_-39.936527_175.067154@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6a175477d812587e31bd81493ddcea1d",
+    "wof:geomhash":"7e0250331a3bd98d44d2b2e3f251d6ad",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":101914639,
+            "neighbourhood_id":85780873,
+            "region_id":85687251,
             "venue_id":186475001
         }
     ],
     "wof:id":186475001,
-    "wof:lastmodified":1473798747,
+    "wof:lastmodified":1496776207,
     "wof:name":"The Gasman Ken Donson",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

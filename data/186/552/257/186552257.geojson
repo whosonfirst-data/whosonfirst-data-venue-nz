@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.749176,-36.735569,174.749176,-36.735569",
     "geom:latitude":-36.735569,
     "geom:longitude":174.749176,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778477
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30JgqR3rd8tS1tpzrZYPyK_-36.735569_174.749176@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b0207fceedab3e8a3611a279c5371889",
+    "wof:geomhash":"0e91fedadb06c147c9053c6d1d529d2a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778477,
+            "region_id":85687243,
             "venue_id":186552257
         }
     ],
     "wof:id":186552257,
-    "wof:lastmodified":1473798763,
+    "wof:lastmodified":1496775470,
     "wof:name":"Bianca Fallon Make-Up, Hair & Styling",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

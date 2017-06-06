@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.654495,-43.528881,172.654495,-43.528881",
     "geom:latitude":-43.528881,
     "geom:longitude":172.654495,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781777
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EMboxZqqwLZWk7a0SozvC_-43.528881_172.654495@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9fa5aa8f2d9e6d09f17398cc132d6ee7",
+    "wof:geomhash":"109eb3353489a5d78b9e55b8d1ee6f20",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781777,
+            "region_id":85687179,
             "venue_id":186642529
         }
     ],
     "wof:id":186642529,
-    "wof:lastmodified":1473798772,
+    "wof:lastmodified":1496776044,
     "wof:name":"Specialised Massage Therapy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

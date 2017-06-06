@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.835831,-40.458637,175.835831,-40.458637",
     "geom:latitude":-40.458637,
     "geom:longitude":175.835831,
@@ -30,27 +31,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101915205,
+        102079309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6X1TLD2ey3iILzXapazvL9_-40.458637_175.835831@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e1c8d0f63d65da0f42ea084be9364e2a",
+    "wof:geomhash":"b2d4bb13fc0b556b5c96236f03a8c256",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":101915205,
+            "region_id":85687251,
             "venue_id":220183883
         }
     ],
     "wof:id":220183883,
-    "wof:lastmodified":1473798640,
+    "wof:lastmodified":1496776634,
     "wof:name":"Hunt's Family Butchery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

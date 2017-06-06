@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.602402,-36.863529,174.602402,-36.863529",
     "geom:latitude":-36.863529,
     "geom:longitude":174.602402,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781087
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5C86pwz5ww7VUWLZEIPDTJ_-36.863529_174.602402@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"df66d3c34b2f96a6353ee42a08c59a79",
+    "wof:geomhash":"59165fb6e74060d32fdc19e586f7039e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781087,
+            "region_id":85687243,
             "venue_id":202515683
         }
     ],
     "wof:id":202515683,
-    "wof:lastmodified":1473798690,
+    "wof:lastmodified":1496777145,
     "wof:name":"Blumberg Dr David J",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781087,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

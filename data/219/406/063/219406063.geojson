@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.696243,-36.843895,175.696243,-36.843895",
     "geom:latitude":-36.843895,
     "geom:longitude":175.696243,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914279,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OmxlKZEXuTlqBTgg1cwHu_-36.843895_175.696243@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e02a0392cc29471569fee39ba6b5cbe3",
+    "wof:geomhash":"8d5ffc465947874fd0fea9f7702dbbe6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101914279,
+            "region_id":85687229,
             "venue_id":219406063
         }
     ],
     "wof:id":219406063,
-    "wof:lastmodified":1473798728,
+    "wof:lastmodified":1496775792,
     "wof:name":"R & R Charters",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

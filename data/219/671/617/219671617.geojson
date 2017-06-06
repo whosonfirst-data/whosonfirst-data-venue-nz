@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"169.735275,-46.240215,169.735275,-46.240215",
     "geom:latitude":-46.240215,
     "geom:longitude":169.735275,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-418 0777",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914847,
+        102079389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jOZZHoKdeh2cgu7UnKjKi_-46.240215_169.735275@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fccb9f0d261b164b15691d9f59f74b76",
+    "wof:geomhash":"8f110e71d22cb449d2a6f0f020e6469e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079389,
+            "locality_id":101914847,
+            "region_id":85687201,
             "venue_id":219671617
         }
     ],
     "wof:id":219671617,
-    "wof:lastmodified":1473798778,
+    "wof:lastmodified":1496776362,
     "wof:name":"Balclutha Windscreens n Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

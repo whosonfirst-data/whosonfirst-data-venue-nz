@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.044754,-39.076576,174.044754,-39.076576",
     "geom:latitude":-39.076576,
     "geom:longitude":174.044754,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687195,
+        102191583,
+        85633345,
+        102079311,
+        85781141
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rYxslkTyqnOKlWrJL5wiZ_-39.076576_174.044754@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1c0da138367b93f2d7c55fb6718de7f4",
+    "wof:geomhash":"d24647e2db5b7116c215b7d4e7553191",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781141,
+            "region_id":85687195,
             "venue_id":203110603
         }
     ],
     "wof:id":203110603,
-    "wof:lastmodified":1473798633,
+    "wof:lastmodified":1496776304,
     "wof:name":"Maxwell Sue",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

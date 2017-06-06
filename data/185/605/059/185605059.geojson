@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.160385,-37.698956,176.160385,-37.698956",
     "geom:latitude":-37.698956,
     "geom:longitude":176.160385,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85780779
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LGsdYuWTbo9FtaPj6bPgw_-37.698956_176.160385@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"14bbdb41ae7f83df77eadd628ec16c59",
+    "wof:geomhash":"a094166c95887b0c381c65817a587644",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780779,
+            "region_id":85687175,
             "venue_id":185605059
         }
     ],
     "wof:id":185605059,
-    "wof:lastmodified":1473798549,
+    "wof:lastmodified":1496775863,
     "wof:name":"Harrisons Gallery & Picture Framing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

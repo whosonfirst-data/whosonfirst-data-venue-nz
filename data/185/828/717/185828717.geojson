@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.846359,-37.398495,175.846359,-37.398495",
     "geom:latitude":-37.398495,
     "geom:longitude":175.846359,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915083,
+        102079263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JIyBCGo0yCAInX2LnB8B7_-37.398495_175.846359@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6980158bc30d218c443e4bcb80c00f5f",
+    "wof:geomhash":"0a7700872a3de64523b75c1220f9996f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079263,
+            "locality_id":101915083,
+            "region_id":85687229,
             "venue_id":185828717
         }
     ],
     "wof:id":185828717,
-    "wof:lastmodified":1473798654,
+    "wof:lastmodified":1496776536,
     "wof:name":"Music Oasis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

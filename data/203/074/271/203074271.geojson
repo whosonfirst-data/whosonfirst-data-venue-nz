@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.034576,-41.129444,175.034576,-41.129444",
     "geom:latitude":-41.129444,
     "geom:longitude":175.034576,
@@ -23,32 +24,44 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
+        102079335,
+        85773263,
         101914809,
-        85773263
+        85780783
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1i12oZaVsK22VcFkvoPGyF_-41.129444_175.034576@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b2be3718a84c071d2141780c65ef29b8",
+    "wof:geomhash":"0c021b7e9e910efcf4b435c6e56ef565",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914809,
+            "county_id":102079335,
+            "locality_id":-1,
             "neighbourhood_id":85773263,
-            "region_id":-1,
+            "region_id":85687233,
+            "venue_id":203074271
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":101914809,
+            "neighbourhood_id":85780783,
+            "region_id":85687233,
             "venue_id":203074271
         }
     ],
     "wof:id":203074271,
-    "wof:lastmodified":1473798618,
+    "wof:lastmodified":1496776349,
     "wof:name":"Stone Art",
-    "wof:parent_id":85773263,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

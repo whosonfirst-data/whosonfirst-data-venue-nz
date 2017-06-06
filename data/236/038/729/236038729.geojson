@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.668121,-36.90947,174.668121,-36.90947",
     "geom:latitude":-36.90947,
     "geom:longitude":174.668121,
@@ -32,29 +33,31 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85779005,
+        102191583,
+        85633345,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uW0JExEEnltF0OLfCRsrh_-36.909470_174.668121@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"760f32b024bdb2d641b0815dd719ec31",
+    "wof:geomhash":"152dcfc5814f1ce6ea7d26cad0570a6b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85779005,
+            "region_id":85687243,
             "venue_id":236038729
         }
     ],
     "wof:id":236038729,
-    "wof:lastmodified":1473798574,
+    "wof:lastmodified":1496775408,
     "wof:name":"Christian Funeral Directors Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85779005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

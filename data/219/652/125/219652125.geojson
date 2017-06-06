@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.643524,-43.563274,172.643524,-43.563274",
     "geom:latitude":-43.563274,
     "geom:longitude":172.643524,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778153
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eZK7yGrX9HWOl2jze85us_-43.563274_172.643524@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"da2f299df495629d414fddcbb2e89fcb",
+    "wof:geomhash":"3d6d8295672b8c00d0832e421ecddfc9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778153,
+            "region_id":85687179,
             "venue_id":219652125
         }
     ],
     "wof:id":219652125,
-    "wof:lastmodified":1473798793,
+    "wof:lastmodified":1496776075,
     "wof:name":"Automotive Professional Tools NZ Ltd Blackhawk",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

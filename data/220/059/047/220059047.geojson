@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.831497,-44.938118,168.831497,-44.938118",
     "geom:latitude":-44.938118,
     "geom:longitude":168.831497,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915303,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EI4dvW6iUNixbxSdd7R9q_-44.938118_168.831497@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"042bdda81a61789222227698db90376f",
+    "wof:geomhash":"dfeebbd5141a4e1842e4983e876084bf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":101915303,
+            "region_id":85687201,
             "venue_id":220059047
         }
     ],
     "wof:id":220059047,
-    "wof:lastmodified":1473798593,
+    "wof:lastmodified":1496776658,
     "wof:name":"Allan Hamilton Wine Cellars",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

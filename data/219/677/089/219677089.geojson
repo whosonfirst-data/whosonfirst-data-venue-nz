@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.218216,-38.087563,176.218216,-38.087563",
     "geom:latitude":-38.087563,
     "geom:longitude":176.218216,
@@ -23,27 +24,30 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914951,
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WLzTbvZsCu8ti6nzFAc7G_-38.087563_176.218216@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0d0ed31e27b3b6dd35dbe9cd319b847d",
+    "wof:geomhash":"a6ce99c21923017151676202ea97bba5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914951,
+            "region_id":85687175,
             "venue_id":219677089
         }
     ],
     "wof:id":219677089,
-    "wof:lastmodified":1473798774,
+    "wof:lastmodified":1496776426,
     "wof:name":"T K Auto Glass",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

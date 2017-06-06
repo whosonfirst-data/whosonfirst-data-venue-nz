@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.68309,-36.920143,174.68309,-36.920143",
     "geom:latitude":-36.920143,
     "geom:longitude":174.68309,
@@ -32,29 +33,31 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85779005,
+        102191583,
+        85633345,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aMfizHU9JJogaRIzMhL9F_-36.920143_174.683090@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8cebd775776520b0d4b9853b56eff61b",
+    "wof:geomhash":"87ee481558d24161635b078d2f363ac2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85779005,
+            "region_id":85687243,
             "venue_id":235992713
         }
     ],
     "wof:id":235992713,
-    "wof:lastmodified":1473798582,
+    "wof:lastmodified":1496775540,
     "wof:name":"Warp 9",
-    "wof:parent_id":-1,
+    "wof:parent_id":85779005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

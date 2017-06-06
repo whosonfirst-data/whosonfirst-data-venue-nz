@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.661392,-40.947544,175.661392,-40.947544",
     "geom:latitude":-40.947544,
     "geom:longitude":175.661392,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101916231,
+        101915543,
+        102079343,
         85782451
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_2wUEWhkrZLEkROniHamgs5_-40.947544_175.661392@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a13cfe0b08e2488592ef6322df012c5f",
+    "wof:geomhash":"8a626218093d8b2f43214c427a4fe1a0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101916231,
+            "county_id":102079343,
+            "locality_id":101915543,
             "neighbourhood_id":85782451,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":219570239
         }
     ],
     "wof:id":219570239,
-    "wof:lastmodified":1473798733,
+    "wof:lastmodified":1496776777,
     "wof:name":"Carshine",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",

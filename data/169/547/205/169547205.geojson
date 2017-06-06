@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.621323,-36.847496,174.621323,-36.847496",
     "geom:latitude":-36.847496,
     "geom:longitude":174.621323,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781681
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cAmTixNaxh32qmgUIszut_-36.847496_174.621323@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5e1d67fa06f76f6b4bfa7cd9bfe8bcaf",
+    "wof:geomhash":"3fb88e8cf988f332218c0e5d5129f09a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781681,
+            "region_id":85687243,
             "venue_id":169547205
         }
     ],
     "wof:id":169547205,
-    "wof:lastmodified":1473798563,
+    "wof:lastmodified":1496775551,
     "wof:name":"Carey Agencies Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

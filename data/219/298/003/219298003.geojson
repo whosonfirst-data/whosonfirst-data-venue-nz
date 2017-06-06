@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.661453,-40.946655,175.661453,-40.946655",
     "geom:latitude":-40.946655,
     "geom:longitude":175.661453,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101916231,
+        101915543,
+        102079343,
         85782451
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_6ylpIidQLBgJVxT51roSOm_-40.946655_175.661453@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bd4975ed1299f35f1af1ad8f8acc6920",
+    "wof:geomhash":"a7f1971ec5128cebb0471310b35a5bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101916231,
+            "county_id":102079343,
+            "locality_id":101915543,
             "neighbourhood_id":85782451,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":219298003
         }
     ],
     "wof:id":219298003,
-    "wof:lastmodified":1473798702,
+    "wof:lastmodified":1496776759,
     "wof:name":"Victoria Houses",
     "wof:parent_id":85782451,
     "wof:placetype":"venue",

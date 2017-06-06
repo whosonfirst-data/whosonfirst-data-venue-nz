@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.157166,-37.735222,176.157166,-37.735222",
     "geom:latitude":-37.735222,
     "geom:longitude":176.157166,
@@ -33,27 +34,30 @@
     "sg:website":"http://www.yellowpages.co.nz/for/simply_terrific_pampers/dp19800.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914325,
+        102079285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nNkmJ2p1eu6GPlcmZtvWE_-37.735222_176.157166@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"19336bc8751bc7917151464aa9f3b24c",
+    "wof:geomhash":"07e93744aebac2027a18a79066ac7cd4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101914325,
+            "region_id":85687175,
             "venue_id":186518129
         }
     ],
     "wof:id":186518129,
-    "wof:lastmodified":1473798756,
+    "wof:lastmodified":1496775869,
     "wof:name":"Simply Terrific Pampers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

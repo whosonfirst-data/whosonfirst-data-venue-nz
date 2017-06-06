@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.611801,-43.501549,172.611801,-43.501549",
     "geom:latitude":-43.501549,
     "geom:longitude":172.611801,
@@ -23,9 +24,12 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687179,
         102191583,
         85633345,
         101914521,
+        102079401,
+        85778211,
         85773111
     ],
     "wof:breaches":[],
@@ -33,22 +37,31 @@
         "sg:id":"SG_0K4pvCgJAl97pw27sapC5r_-43.501549_172.611801@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"741820279d4905396cf24c7b614b2ee9",
+    "wof:geomhash":"a1b67849a5c41d9a930277e4319daf5f",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778211,
+            "region_id":85687179,
+            "venue_id":202403873
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
             "locality_id":101914521,
             "neighbourhood_id":85773111,
-            "region_id":-1,
+            "region_id":85687179,
             "venue_id":202403873
         }
     ],
     "wof:id":202403873,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496776065,
     "wof:name":"Parklands Hospital Ltd",
-    "wof:parent_id":85773111,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

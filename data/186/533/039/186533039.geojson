@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.300293,-35.68219,174.300293,-35.68219",
     "geom:latitude":-35.68219,
     "geom:longitude":174.300293,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SlZATpZRAqmUq68bKTUYy_-35.682190_174.300293@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b2feb30441a22bc2e1903c937da1a51e",
+    "wof:geomhash":"392bc1e7804e27dd2074f4b898ba6aba",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "region_id":85687149,
             "venue_id":186533039
         }
     ],
     "wof:id":186533039,
-    "wof:lastmodified":1473798759,
+    "wof:lastmodified":1496775329,
     "wof:name":"Bayly's Hair Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

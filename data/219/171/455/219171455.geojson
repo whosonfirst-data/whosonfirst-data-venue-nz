@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.775162,-41.251614,174.775162,-41.251614",
     "geom:latitude":-41.251614,
     "geom:longitude":174.775162,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85773055
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GUuwTgFyv53nas8k1pul3_-41.251614_174.775162@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fa99c6567d10265f7fa2d59f0bba4344",
+    "wof:geomhash":"e3dfacdb62394c794d549865496a8b24",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85773055,
+            "region_id":85687233,
             "venue_id":219171455
         }
     ],
     "wof:id":219171455,
-    "wof:lastmodified":1473798576,
+    "wof:lastmodified":1496775817,
     "wof:name":"Cameron & Associates Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

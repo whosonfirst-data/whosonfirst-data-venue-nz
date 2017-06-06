@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.215149,-38.140301,176.215149,-38.140301",
     "geom:latitude":-38.140301,
     "geom:longitude":176.215149,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914629,
+        102079289
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07JA2t3wl7Y3G4TDn2Jk7F_-38.140301_176.215149@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"60f4e7459242d9dcb6e1aa87d87ab3d1",
+    "wof:geomhash":"56b4c1ee57b601417d0e4d27fc7db93f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914629,
+            "region_id":85687175,
             "venue_id":219739679
         }
     ],
     "wof:id":219739679,
-    "wof:lastmodified":1473798779,
+    "wof:lastmodified":1496776174,
     "wof:name":"Rotorua Auto Electrical(2000)Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

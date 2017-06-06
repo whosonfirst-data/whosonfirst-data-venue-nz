@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.586273,-39.941162,176.586273,-39.941162",
     "geom:latitude":-39.941162,
     "geom:longitude":176.586273,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101915399,
+        102079333
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hzGlrOpZqUp5Z9CCYLRSx_-39.941162_176.586273@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ba4f5ed37af4f17f3bcb2bfc51668066",
+    "wof:geomhash":"ba189b159ad10d147d52cda30daf35b6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079333,
+            "locality_id":101915399,
+            "region_id":85687189,
             "venue_id":185631041
         }
     ],
     "wof:id":185631041,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496776708,
     "wof:name":"Abbotsford Art & Picture Framing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

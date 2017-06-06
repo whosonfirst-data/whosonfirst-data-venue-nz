@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.661987,-36.899418,174.661987,-36.899418",
     "geom:latitude":-36.899418,
     "geom:longitude":174.661987,
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914257,
+        102079403,
         85780905
     ],
     "wof:breaches":[],
@@ -42,20 +46,20 @@
         "sg:id":"SG_7EGAf18GiYSTrSY3hKGmYX_-36.899418_174.661987@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"96369014bc5a9fae7476636f4dcd35a8",
+    "wof:geomhash":"889553f9b2baece9d0e42fbf1672bc71",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914257,
             "neighbourhood_id":85780905,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":185832025
         }
     ],
     "wof:id":185832025,
-    "wof:lastmodified":1473798625,
+    "wof:lastmodified":1496775615,
     "wof:name":"Cyril Kelleway",
     "wof:parent_id":85780905,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.682373,-36.886841,174.682373,-36.886841",
     "geom:latitude":-36.886841,
     "geom:longitude":174.682373,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778827
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OFqU9b6F5lBSiZqr0kYIS_-36.886841_174.682373@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2c39f5d2657bda9534cb505fd68fea43",
+    "wof:geomhash":"5d4c020ecc569535c561d12a30451513",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778827,
+            "region_id":85687243,
             "venue_id":203073413
         }
     ],
     "wof:id":203073413,
-    "wof:lastmodified":1473798615,
+    "wof:lastmodified":1496775406,
     "wof:name":"Jeff Iversen Tiling & Stonework",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

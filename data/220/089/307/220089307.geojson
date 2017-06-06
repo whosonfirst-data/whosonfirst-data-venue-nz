@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.297989,-37.798008,175.297989,-37.798008",
     "geom:latitude":-37.798008,
     "geom:longitude":175.297989,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914271,
+        102079271,
+        85781845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qs5Budk4gMHxKnkcnJPua_-37.798008_175.297989@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f39aa3e7437c8e9ef061030afb4785d1",
+    "wof:geomhash":"e40e3cd99ccc0d61f05a08a8a242c56a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
+            "locality_id":101914271,
+            "neighbourhood_id":85781845,
+            "region_id":85687229,
             "venue_id":220089307
         }
     ],
     "wof:id":220089307,
-    "wof:lastmodified":1473798599,
+    "wof:lastmodified":1496775781,
     "wof:name":"Asian Foods",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

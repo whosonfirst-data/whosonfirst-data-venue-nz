@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.8396,-36.908661,174.8396,-36.908661",
     "geom:latitude":-36.908661,
     "geom:longitude":174.8396,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782457
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Lv6JSJ4DQEpZ3wSaTKB2A_-36.908661_174.839600@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d0f99f0ca584be4fe07e7a4b3b58042d",
+    "wof:geomhash":"2d8555cbfafdf9662905ce5fc7046116",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782457,
+            "region_id":85687243,
             "venue_id":219169477
         }
     ],
     "wof:id":219169477,
-    "wof:lastmodified":1473798564,
+    "wof:lastmodified":1496775484,
     "wof:name":"RFL International",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

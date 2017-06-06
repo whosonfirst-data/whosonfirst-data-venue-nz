@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.370667,-46.396397,168.370667,-46.396397",
     "geom:latitude":-46.396397,
     "geom:longitude":168.370667,
@@ -23,29 +24,33 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FZIyuNDEYXE7M40G3CCAX_-46.396397_168.370667@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"af2f80c79d01d6cc9d0ee779c8a47f2e",
+    "wof:geomhash":"a24a663b7ae0ce4e95dff9f6f8313004",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781555,
+            "region_id":85687211,
             "venue_id":202562495
         }
     ],
     "wof:id":202562495,
-    "wof:lastmodified":1473798692,
+    "wof:lastmodified":1496776715,
     "wof:name":"Total Foot Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

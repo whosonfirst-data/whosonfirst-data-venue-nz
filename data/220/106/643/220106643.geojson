@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.232025,-38.134529,176.232025,-38.134529",
     "geom:latitude":-38.134529,
     "geom:longitude":176.232025,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079289,
+        85781203
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hXMBwUPXLa2ZL8xF2nCVO_-38.134529_176.232025@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"834184a8b90374c530d53803bbf9c8a1",
+    "wof:geomhash":"54948b59bc90376a73939302b3cf1913",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781203,
+            "region_id":85687175,
             "venue_id":220106643
         }
     ],
     "wof:id":220106643,
-    "wof:lastmodified":1473798601,
+    "wof:lastmodified":1496776167,
     "wof:name":"Andy's Marquee & Party Hire",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781203,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

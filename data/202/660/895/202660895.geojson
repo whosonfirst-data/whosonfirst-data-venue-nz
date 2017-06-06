@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.503403,-45.902779,170.503403,-45.902779",
     "geom:latitude":-45.902779,
     "geom:longitude":170.503403,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
-        101914759,
+        101914269,
+        102079387,
         85773197
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_6N9y568biRbiWWiQexPegj_-45.902779_170.503403@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"726db26f81b7912eda674266605c3145",
+    "wof:geomhash":"a0ce1658124f72bdde180f3b53cd8eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914759,
+            "county_id":102079387,
+            "locality_id":101914269,
             "neighbourhood_id":85773197,
-            "region_id":-1,
+            "region_id":85687201,
             "venue_id":202660895
         }
     ],
     "wof:id":202660895,
-    "wof:lastmodified":1473798706,
+    "wof:lastmodified":1496775772,
     "wof:name":"Burrow Plumbing Ltd",
     "wof:parent_id":85773197,
     "wof:placetype":"venue",

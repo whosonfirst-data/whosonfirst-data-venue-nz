@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.293671,-35.686363,174.293671,-35.686363",
     "geom:latitude":-35.686363,
     "geom:longitude":174.293671,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sbgedAux0ovktNPNYxKXx_-35.686363_174.293671@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"08b9c0106de29a8e17c60aa8c57e610e",
+    "wof:geomhash":"590673eade8db14ec086f72f9950594b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "region_id":85687149,
             "venue_id":185901359
         }
     ],
     "wof:id":185901359,
-    "wof:lastmodified":1473798637,
+    "wof:lastmodified":1496775324,
     "wof:name":"Pitch Putt & Drive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

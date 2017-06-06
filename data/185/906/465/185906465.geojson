@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.393829,-39.171818,175.393829,-39.171818",
     "geom:latitude":-39.171818,
     "geom:longitude":175.393829,
@@ -23,27 +24,30 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101916365,
+        102079297
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5An3WUVwZcC1aizzm3XsIH_-39.171818_175.393829@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9cf995710adf607ad7bef76f9a13c62f",
+    "wof:geomhash":"bce9dabf1943c2dfdf9618f245ccab42",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101916365,
+            "region_id":85687251,
             "venue_id":185906465
         }
     ],
     "wof:id":185906465,
-    "wof:lastmodified":1473798638,
+    "wof:lastmodified":1496776907,
     "wof:name":"AUSM Ski Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

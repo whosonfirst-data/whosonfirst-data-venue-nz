@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.591232,-40.378666,175.591232,-40.378666",
     "geom:latitude":-40.378666,
     "geom:longitude":175.591232,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780841
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_6y429iMw7rzCRXWzeDM3hK_-40.378666_175.591232@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8fe79a7b4cbf3d105257696d970e322a",
+    "wof:geomhash":"f9774f9c3d56117f0d14cd887db5b0a6",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780841,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":186000967
         }
     ],
     "wof:id":186000967,
-    "wof:lastmodified":1473798551,
+    "wof:lastmodified":1496775730,
     "wof:name":"Johansen G W Neil JP",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",

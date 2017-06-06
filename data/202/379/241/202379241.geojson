@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.642487,-36.834038,174.642487,-36.834038",
     "geom:latitude":-36.834038,
     "geom:longitude":174.642487,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781685
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aEj8q7RNniT5rwnXVXc3t_-36.834038_174.642487@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cb247fa02d2584fae2b7c09c35ef7bb3",
+    "wof:geomhash":"cf6b5394c359313fd66cfb478da40162",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781685,
+            "region_id":85687243,
             "venue_id":202379241
         }
     ],
     "wof:id":202379241,
-    "wof:lastmodified":1473798553,
+    "wof:lastmodified":1496775477,
     "wof:name":"Mala Mayo - Mind/Body Therapy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781685,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

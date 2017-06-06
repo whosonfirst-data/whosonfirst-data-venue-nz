@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.693726,-43.511551,172.693726,-43.511551",
     "geom:latitude":-43.511551,
     "geom:longitude":172.693726,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778761
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cNL3V8gYRbWwMg6lRZ4Br_-43.511551_172.693726@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cace61628fb65b99b8cc4a5997e401a3",
+    "wof:geomhash":"d4b579d425f1bd4eba4eed27fdd8ea79",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778761,
+            "region_id":85687179,
             "venue_id":235951979
         }
     ],
     "wof:id":235951979,
-    "wof:lastmodified":1473798564,
+    "wof:lastmodified":1496776026,
     "wof:name":"Jamies Wholesale Fish",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

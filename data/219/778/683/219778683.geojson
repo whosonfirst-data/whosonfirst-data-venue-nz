@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.972214,-42.719032,170.972214,-42.719032",
     "geom:latitude":-42.719032,
     "geom:longitude":170.972214,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101915183,
+        102079363
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CCYosiLx2Zj4VMfhOXIZc_-42.719032_170.972214@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cc70805459a7544074586fd7f0527d5c",
+    "wof:geomhash":"143374aea653ae1c9d55e7f452e29d27",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":101915183,
+            "region_id":85687165,
             "venue_id":219778683
         }
     ],
     "wof:id":219778683,
-    "wof:lastmodified":1473798779,
+    "wof:lastmodified":1496776621,
     "wof:name":"Diesel & Mechanical Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

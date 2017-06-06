@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.747681,-36.726398,174.747681,-36.726398",
     "geom:latitude":-36.726398,
     "geom:longitude":174.747681,
@@ -31,29 +32,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778477
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qwRvh8itskHPcPXiOF1zk_-36.726398_174.747681@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"952d2b8378b3bba1f3fa685a6b35e433",
+    "wof:geomhash":"f90e354f340f843f937af28401e0de07",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778477,
+            "region_id":85687243,
             "venue_id":220080799
         }
     ],
     "wof:id":220080799,
-    "wof:lastmodified":1473798602,
+    "wof:lastmodified":1496777149,
     "wof:name":"The Wine Barrel",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

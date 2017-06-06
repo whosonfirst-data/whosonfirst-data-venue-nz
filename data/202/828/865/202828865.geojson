@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.844925,-36.877769,174.844925,-36.877769",
     "geom:latitude":-36.877769,
     "geom:longitude":174.844925,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781121
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Q7JV2ofu67iigGoTRDeOL_-36.877769_174.844925@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"142a2d8dfbd8601e613f240c58559337",
+    "wof:geomhash":"ed5c4b8da24170eb6a59737c19763e9e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781121,
+            "region_id":85687243,
             "venue_id":202828865
         }
     ],
     "wof:id":202828865,
-    "wof:lastmodified":1473798740,
+    "wof:lastmodified":1496777172,
     "wof:name":"Jimmy Gilmore Cabinetmaker",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

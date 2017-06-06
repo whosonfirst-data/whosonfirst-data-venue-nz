@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.69162,-43.510101,172.69162,-43.510101",
     "geom:latitude":-43.510101,
     "geom:longitude":172.69162,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778761
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fqFbz4acAj01CBufbj7jr_-43.510101_172.691620@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"725cab9225433748ff798d3989809c41",
+    "wof:geomhash":"0b8c3c707a0fd75dcc960ff65607e5d2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778761,
+            "region_id":85687179,
             "venue_id":219760093
         }
     ],
     "wof:id":219760093,
-    "wof:lastmodified":1473798776,
+    "wof:lastmodified":1496776028,
     "wof:name":"Les Hunter Automotive",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

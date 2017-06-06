@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.621445,-40.350346,175.621445,-40.350346",
     "geom:latitude":-40.350346,
     "geom:longitude":175.621445,
@@ -34,32 +35,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
-        85782485
+        102079307,
+        85782485,
+        101914259,
+        85773241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xoS5ckS7bbs3qIuKJF48Y_-40.350346_175.621445@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ee53179235b9c348040388c6500488e7",
+    "wof:geomhash":"5c4728ae6f171e09a0e73524a6ebc137",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":-1,
             "neighbourhood_id":85782485,
-            "region_id":-1,
+            "region_id":85687251,
+            "venue_id":203085581
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85773241,
+            "region_id":85687251,
             "venue_id":203085581
         }
     ],
     "wof:id":203085581,
-    "wof:lastmodified":1473798631,
+    "wof:lastmodified":1496775736,
     "wof:name":"Drug-Arm Palmerston North",
-    "wof:parent_id":85782485,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.285004,-35.739117,174.285004,-35.739117",
     "geom:latitude":-35.739117,
     "geom:longitude":174.285004,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uhqdh4rNhENgwei4vnYU2_-35.739117_174.285004@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9868be91b8e86fc8c1904c963263f5cf",
+    "wof:geomhash":"53bcfd8294729341b59dce114e8330a2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "region_id":85687149,
             "venue_id":202762505
         }
     ],
     "wof:id":202762505,
-    "wof:lastmodified":1473798723,
+    "wof:lastmodified":1496775325,
     "wof:name":"Selwyn park Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.000626,-36.882637,175.000626,-36.882637",
     "geom:latitude":-36.882637,
     "geom:longitude":175.000626,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914895,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Jt6yklhijGgg6MTUjBGRr_-36.882637_175.000626@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8ca37a7d49fd76dc79b5dc51685f8453",
+    "wof:geomhash":"a771dde172062b0da029fc762cba7d8f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914895,
+            "region_id":85687243,
             "venue_id":202585031
         }
     ],
     "wof:id":202585031,
-    "wof:lastmodified":1473798704,
+    "wof:lastmodified":1496776380,
     "wof:name":"Hammer Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

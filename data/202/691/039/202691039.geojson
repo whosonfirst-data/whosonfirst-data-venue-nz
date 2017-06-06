@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.445969,-36.170265,174.445969,-36.170265",
     "geom:latitude":-36.170265,
     "geom:longitude":174.445969,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101916805,
+        102079259
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44MdqfqyKwWStPD3gko7p4_-36.170265_174.445969@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"73a66a31dff793bf04c6aae64600c1a0",
+    "wof:geomhash":"8361fb11bfcf720196af5f393a2e287f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":101916805,
+            "region_id":85687149,
             "venue_id":202691039
         }
     ],
     "wof:id":202691039,
-    "wof:lastmodified":1473798707,
+    "wof:lastmodified":1496776946,
     "wof:name":"Kaiwaka Playcentre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

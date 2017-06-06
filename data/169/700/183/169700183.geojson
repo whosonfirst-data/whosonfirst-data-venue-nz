@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.731277,-43.515923,172.731277,-43.515923",
     "geom:latitude":-43.515923,
     "geom:longitude":172.731277,
@@ -24,29 +25,34 @@
     "sg:website":"http://www.appliancesdirect.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85773047
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2W8RTzkprUxQV5XrBTnjwt_-43.515923_172.731277@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b4cd97ed747dd8e8cb8a21e6af6c087a",
+    "wof:geomhash":"5e88e38cfa3908935778f7b26ee44e0c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85773047,
+            "region_id":85687179,
             "venue_id":169700183
         }
     ],
     "wof:id":169700183,
-    "wof:lastmodified":1473798618,
+    "wof:lastmodified":1496776026,
     "wof:name":"Appliances Direct",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

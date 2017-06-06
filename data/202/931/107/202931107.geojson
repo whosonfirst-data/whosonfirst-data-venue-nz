@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.677322,-40.947002,175.677322,-40.947002",
     "geom:latitude":-40.947002,
     "geom:longitude":175.677322,
@@ -23,29 +24,33 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079343,
+        85780973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0igUawNwXN1q9ATByNoQs9_-40.947002_175.677322@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e13016f4252e34abfcbee8d4dc4b6fbd",
+    "wof:geomhash":"c5f857f719f0f0578f46cd06f0518cf3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780973,
+            "region_id":85687233,
             "venue_id":202931107
         }
     ],
     "wof:id":202931107,
-    "wof:lastmodified":1473798747,
+    "wof:lastmodified":1496776777,
     "wof:name":"Lansdowne Nursery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

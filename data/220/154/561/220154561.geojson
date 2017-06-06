@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.637054,-43.558338,172.637054,-43.558338",
     "geom:latitude":-43.558338,
     "geom:longitude":172.637054,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778153
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L6jSTTx4s6IzLuUyG1dJZ_-43.558338_172.637054@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0b5e8eabf4582dfe063d8bd6a3cbb3ca",
+    "wof:geomhash":"a9476a81d492e42c1c4e32c83947f750",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778153,
+            "region_id":85687179,
             "venue_id":220154561
         }
     ],
     "wof:id":220154561,
-    "wof:lastmodified":1473798652,
+    "wof:lastmodified":1496776039,
     "wof:name":"Beckenham Real Fresh",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

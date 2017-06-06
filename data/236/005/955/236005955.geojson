@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.661636,-40.956474,175.661636,-40.956474",
     "geom:latitude":-40.956474,
     "geom:longitude":175.661636,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101916231,
+        101915543,
+        102079343,
         85782867
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_2R2g84RxD6WWFX07YJbDSG_-40.956474_175.661636@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2340062818da05667696b0ff45a36119",
+    "wof:geomhash":"93454fbdff1f71142806aaf5cd03c4ad",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101916231,
+            "county_id":102079343,
+            "locality_id":101915543,
             "neighbourhood_id":85782867,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":236005955
         }
     ],
     "wof:id":236005955,
-    "wof:lastmodified":1473798552,
+    "wof:lastmodified":1496776767,
     "wof:name":"Stewart Lounge",
     "wof:parent_id":85782867,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.617233,-40.364307,175.617233,-40.364307",
     "geom:latitude":-40.364307,
     "geom:longitude":175.617233,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85780937
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3II0lyCH6ZSih1NG5Ujb0h_-40.364307_175.617233@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4571a2fcb41cf332735c91b8cdee3c02",
+    "wof:geomhash":"cc240e7e58e998fabdae48757f495869",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85780937,
+            "region_id":85687251,
             "venue_id":219287291
         }
     ],
     "wof:id":219287291,
-    "wof:lastmodified":1473798673,
+    "wof:lastmodified":1496775746,
     "wof:name":"Contact House Bed & Breakfast",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

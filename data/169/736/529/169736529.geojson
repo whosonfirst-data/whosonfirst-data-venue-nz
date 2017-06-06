@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.621552,-36.849209,174.621552,-36.849209",
     "geom:latitude":-36.849209,
     "geom:longitude":174.621552,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781681
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DgSXepGzcsh7IVuwXLkZy_-36.849209_174.621552@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1ec2e3f54aaabe817e537ba44c3d0e3f",
+    "wof:geomhash":"e12991fc42a69d7d87dae1177692be7f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781681,
+            "region_id":85687243,
             "venue_id":169736529
         }
     ],
     "wof:id":169736529,
-    "wof:lastmodified":1473798612,
+    "wof:lastmodified":1496775564,
     "wof:name":"Lincoln Heights Superette",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781681,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

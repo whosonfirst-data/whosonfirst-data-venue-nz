@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.986435,-39.817261,176.986435,-39.817261",
     "geom:latitude":-39.817261,
     "geom:longitude":176.986435,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914975,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56TSeNtglRroBU64aL3Vrw_-39.817261_176.986435@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f039d71dbe9c408fcea72d66ca7aebd2",
+    "wof:geomhash":"178d54a984b450505a4cdf221c68d881",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914975,
+            "region_id":85687189,
             "venue_id":219418687
         }
     ],
     "wof:id":219418687,
-    "wof:lastmodified":1473798737,
+    "wof:lastmodified":1496777630,
     "wof:name":"Tuki Tours",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

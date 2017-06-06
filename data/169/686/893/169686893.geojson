@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.601013,-43.302525,172.601013,-43.302525",
     "geom:latitude":-43.302525,
     "geom:longitude":172.601013,
@@ -23,27 +24,30 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914361,
+        102079367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XrvdmqXAZxFsvhi8J2KnT_-43.302525_172.601013@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e7d97dafad7c1e00d5dbefb987daa07a",
+    "wof:geomhash":"25a524ad030be5824f0c935e420d0b56",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079367,
+            "locality_id":101914361,
+            "region_id":85687179,
             "venue_id":169686893
         }
     ],
     "wof:id":169686893,
-    "wof:lastmodified":1473798625,
+    "wof:lastmodified":1496775913,
     "wof:name":"Stevensons Saddlery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

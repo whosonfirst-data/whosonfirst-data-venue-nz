@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.982742,-40.919067,174.982742,-40.919067",
     "geom:latitude":-40.919067,
     "geom:longitude":174.982742,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HKjL6FVom0515ptxaxoyw_-40.919067_174.982742@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a5b17aaeff08b04a3fe2231a24733418",
+    "wof:geomhash":"dcfa645ae34248e434a01508123a933b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":202422707
         }
     ],
     "wof:id":202422707,
-    "wof:lastmodified":1473798598,
+    "wof:lastmodified":1496776179,
     "wof:name":"Raumati Road Surgery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.373535,-46.398506,168.373535,-46.398506",
     "geom:latitude":-46.398506,
     "geom:longitude":168.373535,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FphGa9NLxlCLGh1uraHW0_-46.398506_168.373535@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fca603d4b7966df724497efcfdeaab1b",
+    "wof:geomhash":"c93dedffb08b50dcf6ee0557022e9ac2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781519,
+            "region_id":85687211,
             "venue_id":203110351
         }
     ],
     "wof:id":203110351,
-    "wof:lastmodified":1473798629,
+    "wof:lastmodified":1496776732,
     "wof:name":"Maree Wilks Photographer",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

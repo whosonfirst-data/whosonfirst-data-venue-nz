@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.973495,-45.093269,170.973495,-45.093269",
     "geom:latitude":-45.093269,
     "geom:longitude":170.973495,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YEFvoU51f76WcVju1oFum_-45.093269_170.973495@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d78a3aedd3d56a1d2b88db28dc107bc7",
+    "wof:geomhash":"eed29330bf41d834fd2b2b422d1e230c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":203189891
         }
     ],
     "wof:id":203189891,
-    "wof:lastmodified":1473798658,
+    "wof:lastmodified":1496776269,
     "wof:name":"Preens Dry Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

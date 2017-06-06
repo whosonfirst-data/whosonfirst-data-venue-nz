@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.321976,-35.718208,174.321976,-35.718208",
     "geom:latitude":-35.718208,
     "geom:longitude":174.321976,
@@ -35,9 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        101914901,
+        101914253,
+        102079257,
         85780991
     ],
     "wof:breaches":[],
@@ -45,20 +48,20 @@
         "sg:id":"SG_0SHzgHRWDhGO93Bp7DoRIF_-35.718208_174.321976@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a30a07367537ea0af8ff0813e56a4267",
+    "wof:geomhash":"051ec8bed3627116fe587b061f6443fe",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
+            "county_id":102079257,
+            "locality_id":101914253,
             "neighbourhood_id":85780991,
-            "region_id":-1,
+            "region_id":85687149,
             "venue_id":202392089
         }
     ],
     "wof:id":202392089,
-    "wof:lastmodified":1473798559,
+    "wof:lastmodified":1496775341,
     "wof:name":"NZ Red Cross Inc",
     "wof:parent_id":85780991,
     "wof:placetype":"venue",

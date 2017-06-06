@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.865662,-40.3381,175.865662,-40.3381",
     "geom:latitude":-40.3381,
     "geom:longitude":175.865662,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101915879,
+        102079309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GpoF5ewYicEMwRKaNTrYd_-40.338100_175.865662@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f5caae6e4013b405967a0e6628438aa0",
+    "wof:geomhash":"78f2b2398173c1db79be6541b46f1579",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":101915879,
+            "region_id":85687251,
             "venue_id":186010547
         }
     ],
     "wof:id":186010547,
-    "wof:lastmodified":1473798554,
+    "wof:lastmodified":1496776856,
     "wof:name":"Stokes Tineke JP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

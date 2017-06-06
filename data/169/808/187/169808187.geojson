@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.095566,-35.286957,174.095566,-35.286957",
     "geom:latitude":-35.286957,
     "geom:longitude":174.095566,
@@ -23,27 +24,30 @@
     "sg:province":"Northland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101915123,
+        102079255
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ukc0KAomXOtP07F4lG772_-35.286957_174.095566@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"59468a429a696c502a59a7e7d5c8082b",
+    "wof:geomhash":"30433f2372638cdf5956e616d55293e5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079255,
+            "locality_id":101915123,
+            "region_id":85687149,
             "venue_id":169808187
         }
     ],
     "wof:id":169808187,
-    "wof:lastmodified":1473798639,
+    "wof:lastmodified":1496776545,
     "wof:name":"Airtorn Kite Boarding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

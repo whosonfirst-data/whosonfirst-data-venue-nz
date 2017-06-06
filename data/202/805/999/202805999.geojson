@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.602081,-43.504295,172.602081,-43.504295",
     "geom:latitude":-43.504295,
     "geom:longitude":172.602081,
@@ -24,29 +25,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/colonialdesks/dp30263.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58s9TUz0Mc78cJKRmb31ly_-43.504295_172.602081@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a5ede0e5fc8cae02dd86f4578c21f46d",
+    "wof:geomhash":"5c49f6d140e6c00a7636558fa4e489e5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778211,
+            "region_id":85687179,
             "venue_id":202805999
         }
     ],
     "wof:id":202805999,
-    "wof:lastmodified":1473798729,
+    "wof:lastmodified":1496776062,
     "wof:name":"Colonial Desks Of Bryndwr",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

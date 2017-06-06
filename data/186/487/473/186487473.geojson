@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.952301,-39.115391,173.952301,-39.115391",
     "geom:latitude":-39.115391,
     "geom:longitude":173.952301,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 6-752 7571",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687195,
+        102191583,
+        85633345,
+        101915063,
+        102079311
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ssBfyI6N4dcq4nGS23lWk_-39.115391_173.952301@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"179d7c833289b360496afb1d9b7f6c1e",
+    "wof:geomhash":"7cd154e8a799fd24fce941b25c1df7d8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079311,
+            "locality_id":101915063,
+            "region_id":85687195,
             "venue_id":186487473
         }
     ],
     "wof:id":186487473,
-    "wof:lastmodified":1473798754,
+    "wof:lastmodified":1496776533,
     "wof:name":"Brown Yardley & Associates Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

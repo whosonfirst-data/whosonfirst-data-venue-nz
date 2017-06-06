@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.037918,-39.911697,175.037918,-39.911697",
     "geom:latitude":-39.911697,
     "geom:longitude":175.037918,
@@ -23,29 +24,33 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079299,
+        85781125
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Xl6j4LSsKzpTtqtchQZE8_-39.911697_175.037918@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"57ad79fd2a3b78089ee486d7b65c0bd9",
+    "wof:geomhash":"595b7972dad46021d969f77e8de73789",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781125,
+            "region_id":85687251,
             "venue_id":169543189
         }
     ],
     "wof:id":169543189,
-    "wof:lastmodified":1473798566,
+    "wof:lastmodified":1496776209,
     "wof:name":"Ambler & Co Ltd - Klipper division",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.95517,-41.530121,173.95517,-41.530121",
     "geom:latitude":-41.530121,
     "geom:longitude":173.95517,
@@ -23,29 +24,34 @@
     "sg:province":"Marlborough",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101915709,
+        102079353,
+        85781697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77bwQkbpGm11JI5f3pHe5p_-41.530121_173.955170@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ba3a20293f1577b8c6bcdae83b5f80c6",
+    "wof:geomhash":"7e5311b63ca8b52ff69a31e3716b16a7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101915709,
+            "neighbourhood_id":85781697,
+            "region_id":85687185,
             "venue_id":203272481
         }
     ],
     "wof:id":203272481,
-    "wof:lastmodified":1473798661,
+    "wof:lastmodified":1496776833,
     "wof:name":"Village Attire",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

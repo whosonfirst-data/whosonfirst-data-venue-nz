@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.016693,-38.651913,178.016693,-38.651913",
     "geom:latitude":-38.651913,
     "geom:longitude":178.016693,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IPkUSSM0mkMc6meEoHWCK_-38.651913_178.016693@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"db52907fd65c09d1d05dd04d6013661c",
+    "wof:geomhash":"c722fd57056c0bfae35588a478753913",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":186258191
         }
     ],
     "wof:id":186258191,
-    "wof:lastmodified":1473798708,
+    "wof:lastmodified":1496776126,
     "wof:name":"Walters Plumbing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

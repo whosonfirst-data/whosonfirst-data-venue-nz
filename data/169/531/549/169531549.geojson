@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.737366,-41.284634,174.737366,-41.284634",
     "geom:latitude":-41.284634,
     "geom:longitude":174.737366,
@@ -28,29 +29,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EEb8Z4mqx1gEb4Yn2OKkm_-41.284634_174.737366@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a571a6fc2a02c1d6b91c7135189a94ac",
+    "wof:geomhash":"fcbdf67aaa14b4545e7be93620ca114f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772989,
+            "region_id":85687233,
             "venue_id":169531549
         }
     ],
     "wof:id":169531549,
-    "wof:lastmodified":1473798553,
+    "wof:lastmodified":1496775805,
     "wof:name":"National Bank of NZ Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.738831,-43.892315,171.738831,-43.892315",
     "geom:latitude":-43.892315,
     "geom:longitude":171.738831,
@@ -23,29 +24,33 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079371,
+        85782347
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ukShlTiHaC8mdGbYnhxNN_-43.892315_171.738831@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4abf4e3c50e7ea3ff2756524b5609355",
+    "wof:geomhash":"a3a7d67093b7c569ec267194d57a2513",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782347,
+            "region_id":85687179,
             "venue_id":202545445
         }
     ],
     "wof:id":202545445,
-    "wof:lastmodified":1473798690,
+    "wof:lastmodified":1496776278,
     "wof:name":"Eaton Jane Physiotherapist",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

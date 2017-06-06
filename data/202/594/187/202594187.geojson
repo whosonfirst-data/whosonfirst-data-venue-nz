@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.522217,-36.289154,174.522217,-36.289154",
     "geom:latitude":-36.289154,
     "geom:longitude":174.522217,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 9-423 8766",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914793,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JrF1ePsdxzPRofTZyRwQF_-36.289154_174.522217@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3355103d2715369c4ae13f82a74d42d0",
+    "wof:geomhash":"fa3282be2047df763a453343b85a07cc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914793,
+            "region_id":85687243,
             "venue_id":202594187
         }
     ],
     "wof:id":202594187,
-    "wof:lastmodified":1473798693,
+    "wof:lastmodified":1496776345,
     "wof:name":"Wellsford Hammer Hardware",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

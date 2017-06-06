@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.700333,-38.092461,176.700333,-38.092461",
     "geom:latitude":-38.092461,
     "geom:longitude":176.700333,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-323 8228",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914419,
+        102079319
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5l9L0SU0e1lAMdCBSP5POj_-38.092461_176.700333@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c4593ba52cd2af810b4ac47ea8fc27fd",
+    "wof:geomhash":"8808376a1d64443340f52575930ce57f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079319,
+            "locality_id":101914419,
+            "region_id":85687175,
             "venue_id":169736027
         }
     ],
     "wof:id":169736027,
-    "wof:lastmodified":1473798612,
+    "wof:lastmodified":1496775963,
     "wof:name":"Kawerau Four Square Discount",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

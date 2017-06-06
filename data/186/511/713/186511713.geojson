@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.887878,-39.520855,176.887878,-39.520855",
     "geom:latitude":-39.520855,
     "geom:longitude":176.887878,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914679,
+        102079331,
+        85781063
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Up6jfbLixz73o14zN7TaX_-39.520855_176.887878@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d1d2af72f50e621d766da9c97131ee6d",
+    "wof:geomhash":"6d1f7c53e0a1692fe65eaf9da554cb5d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101914679,
+            "neighbourhood_id":85781063,
+            "region_id":85687189,
             "venue_id":186511713
         }
     ],
     "wof:id":186511713,
-    "wof:lastmodified":1473798760,
+    "wof:lastmodified":1496776255,
     "wof:name":"Colours In Harmony",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.670334,-45.603222,170.670334,-45.603222",
     "geom:latitude":-45.603222,
     "geom:longitude":170.670334,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915373,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Fvso02Zw1WrTTQf3maOoh_-45.603222_170.670334@1306270029"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"aab12ca08d27a3fd218b685c2a62aa06",
+    "wof:geomhash":"ae19950cc09a3eeae7d3dc53de55d831",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101915373,
+            "region_id":85687201,
             "venue_id":186337225
         }
     ],
     "wof:id":186337225,
-    "wof:lastmodified":1473798736,
+    "wof:lastmodified":1496776707,
     "wof:name":"Pacific Geological Consulting Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

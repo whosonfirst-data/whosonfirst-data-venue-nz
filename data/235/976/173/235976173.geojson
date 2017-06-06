@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.017715,-38.658813,178.017715,-38.658813",
     "geom:latitude":-38.658813,
     "geom:longitude":178.017715,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oXMYkmwhieWhaZMAKE8wC_-38.658813_178.017715@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"df32e671cf5eee898347a37ac8e8d4e8",
+    "wof:geomhash":"94edf67c31b63db9bd8bfe0fde633fdf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":235976173
         }
     ],
     "wof:id":235976173,
-    "wof:lastmodified":1473798580,
+    "wof:lastmodified":1496776124,
     "wof:name":"Christian Life Crusade Gisborne Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

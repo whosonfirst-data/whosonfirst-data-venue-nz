@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.34552,-46.371101,168.34552,-46.371101",
     "geom:latitude":-46.371101,
     "geom:longitude":168.34552,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SO6JvoRyrOpkJYEch8HMR_-46.371101_168.345520@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ac3f342026d85a32b70fd99490e7b700",
+    "wof:geomhash":"e158376e968fb228d0423cd90dce1ae3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":203027889
         }
     ],
     "wof:id":203027889,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496776716,
     "wof:name":"Insect Technologies South",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

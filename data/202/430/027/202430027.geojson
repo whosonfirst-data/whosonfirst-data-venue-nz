@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.702469,-36.808449,174.702469,-36.808449",
     "geom:latitude":-36.808449,
     "geom:longitude":174.702469,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782833
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YMBA3e88cJB7auPboWAFY_-36.808449_174.702469@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b8f92574cf745c5cdc49df90567a96f4",
+    "wof:geomhash":"358303020f4798ff32e240c964a65b36",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782833,
+            "region_id":85687243,
             "venue_id":202430027
         }
     ],
     "wof:id":202430027,
-    "wof:lastmodified":1473798651,
+    "wof:lastmodified":1496775676,
     "wof:name":"Amos Grant C",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

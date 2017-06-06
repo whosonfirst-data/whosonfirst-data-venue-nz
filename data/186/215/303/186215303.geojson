@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.447906,-45.739788,168.447906,-45.739788",
     "geom:latitude":-45.739788,
     "geom:longitude":168.447906,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101916059,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7m6aGcnK4ChIenGmewZEkp_-45.739788_168.447906@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3cc5bd4c88a98e9ae4c541b983c0b7f5",
+    "wof:geomhash":"7e71a12947a0c3559301605aa9ea74a0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101916059,
+            "region_id":85687211,
             "venue_id":186215303
         }
     ],
     "wof:id":186215303,
-    "wof:lastmodified":1473798708,
+    "wof:lastmodified":1496776881,
     "wof:name":"Hanks Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

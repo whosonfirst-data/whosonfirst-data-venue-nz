@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.347534,-46.400894,168.347534,-46.400894",
     "geom:latitude":-46.400894,
     "geom:longitude":168.347534,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781431
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2do8lT0AYM8WQMMvXF8MVM_-46.400894_168.347534@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a872acac0c06b47acbfb00b40d28a4f6",
+    "wof:geomhash":"4f251c6e8bfeb6f7813b8d532a5c2c04",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781431,
+            "region_id":85687211,
             "venue_id":236055323
         }
     ],
     "wof:id":236055323,
-    "wof:lastmodified":1473798580,
+    "wof:lastmodified":1496776727,
     "wof:name":"Southland Monumental Masons",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

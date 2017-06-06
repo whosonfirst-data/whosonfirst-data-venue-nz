@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.779755,-39.621353,176.779755,-39.621353",
     "geom:latitude":-39.621353,
     "geom:longitude":176.779755,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914311,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MBjNNaJ36q2NQjx9SehYa_-39.621353_176.779755@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5e321d0e8482a4ea21d9c2cc21de4a24",
+    "wof:geomhash":"f12343b95f00e98c02b59517ade53fb3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914311,
+            "region_id":85687189,
             "venue_id":219447815
         }
     ],
     "wof:id":219447815,
-    "wof:lastmodified":1473798715,
+    "wof:lastmodified":1496775847,
     "wof:name":"OM Driving Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

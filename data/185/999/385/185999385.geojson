@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.617264,-40.32909,175.617264,-40.32909",
     "geom:latitude":-40.32909,
     "geom:longitude":175.617264,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079307,
+        85781111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6114UMXZ91v9vZjVL4QJ3M_-40.329090_175.617264@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"80bed509589cb9c88a027e22cc9d6d6c",
+    "wof:geomhash":"8a5b3e3023cadc4d679b728b35ddfd46",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781111,
+            "region_id":85687251,
             "venue_id":185999385
         }
     ],
     "wof:id":185999385,
-    "wof:lastmodified":1473798661,
+    "wof:lastmodified":1496775749,
     "wof:name":"Goodwin Suzanne",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

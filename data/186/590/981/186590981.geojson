@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.618637,-40.348686,175.618637,-40.348686",
     "geom:latitude":-40.348686,
     "geom:longitude":175.618637,
@@ -23,29 +24,34 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85773241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1y8qsGU01ZG0Y15OcKXfny_-40.348686_175.618637@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5f0a03b180f6be840a99aafd40ac6817",
+    "wof:geomhash":"897c68ea04a6f84bfa30da579604186c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85773241,
+            "region_id":85687251,
             "venue_id":186590981
         }
     ],
     "wof:id":186590981,
-    "wof:lastmodified":1473798774,
+    "wof:lastmodified":1496775742,
     "wof:name":"Morris Paul L",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

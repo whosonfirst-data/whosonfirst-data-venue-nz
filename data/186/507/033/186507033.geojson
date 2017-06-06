@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.825424,-36.892048,174.825424,-36.892048",
     "geom:latitude":-36.892048,
     "geom:longitude":174.825424,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101915591,
+        102079403,
+        85778833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +48,19 @@
     "wof:geomhash":"eacb27ea8ac29dd2c6f2226abe431341",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915591,
+            "neighbourhood_id":85778833,
+            "region_id":85687243,
             "venue_id":186507033
         }
     ],
     "wof:id":186507033,
-    "wof:lastmodified":1473798755,
+    "wof:lastmodified":1491939158,
     "wof:name":"NSI New Zealand Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

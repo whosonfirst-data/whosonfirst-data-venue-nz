@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.115776,40.856339,-74.115776,40.856339",
     "geom:latitude":40.856339,
     "geom:longitude":-74.115776,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        420527473,
+        102191575,
+        404477817,
         85633793,
-        85975889,
-        102086773
+        85975483,
+        102081133,
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"3ea7bdcd7f480d4b6ad3ad2aa7888032",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102086773,
-            "locality_id":85975889,
-            "neighbourhood_id":-1,
+            "county_id":102081133,
+            "localadmin_id":404477817,
+            "locality_id":85975483,
+            "neighbourhood_id":420527473,
             "region_id":85688607,
             "venue_id":185990899
         }
     ],
     "wof:id":185990899,
-    "wof:lastmodified":1473798659,
+    "wof:lastmodified":1492022060,
     "wof:name":"Doyles Outdoors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420527473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

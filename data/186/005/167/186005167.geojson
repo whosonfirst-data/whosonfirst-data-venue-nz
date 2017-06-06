@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.950516,-40.988174,174.950516,-40.988174",
     "geom:latitude":-40.988174,
     "geom:longitude":174.950516,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101915625,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ptI1jiJ07yRsrTA8MknAe_-40.988174_174.950516@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"036bd95c8e5ea5542ca27f8805751651",
+    "wof:geomhash":"efe92ec75970d3b7eb9d5067eee326d0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101915625,
+            "region_id":85687233,
             "venue_id":186005167
         }
     ],
     "wof:id":186005167,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496776815,
     "wof:name":"Morley-Hall N St J",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

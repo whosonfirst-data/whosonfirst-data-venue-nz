@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.914841,-41.220741,174.914841,-41.220741",
     "geom:latitude":-41.220741,
     "geom:longitude":174.914841,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914319,
+        102079337,
+        85778719
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3g6Oi8HSDEepoOaL4fpAJ5_-41.220741_174.914841@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"48e0e7aa003b0b68200a13753d46d549",
+    "wof:geomhash":"0122b21858aa202cf735682dcc85a3bb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914319,
+            "neighbourhood_id":85778719,
+            "region_id":85687233,
             "venue_id":186074995
         }
     ],
     "wof:id":186074995,
-    "wof:lastmodified":1473798638,
+    "wof:lastmodified":1496775853,
     "wof:name":"Indespec",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

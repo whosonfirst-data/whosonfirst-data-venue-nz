@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.109558,-43.48679,172.109558,-43.48679",
     "geom:latitude":-43.48679,
     "geom:longitude":172.109558,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915779,
+        102079369
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CzYsIzu3yc882MSOQv8r0_-43.486790_172.109558@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d2a6816c183ddf54641d27cc7bc3b0b2",
+    "wof:geomhash":"f53bd3d28ee0576319efaa2b135b3467",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079369,
+            "locality_id":101915779,
+            "region_id":85687179,
             "venue_id":185910393
         }
     ],
     "wof:id":185910393,
-    "wof:lastmodified":1473798638,
+    "wof:lastmodified":1496776844,
     "wof:name":"Broken River Ski Area",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

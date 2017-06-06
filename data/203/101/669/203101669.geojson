@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.542709,-43.519482,172.542709,-43.519482",
     "geom:latitude":-43.519482,
     "geom:longitude":172.542709,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778587
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50K9h6V63SFlhG1kxjRoQ0_-43.519482_172.542709@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d4e2db0b568dc38e679c42b33f2706c6",
+    "wof:geomhash":"49da9fb7d74220279db8b13f0dc69e70",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778587,
+            "region_id":85687179,
             "venue_id":203101669
         }
     ],
     "wof:id":203101669,
-    "wof:lastmodified":1473798631,
+    "wof:lastmodified":1496776031,
     "wof:name":"Riccarton Recreational Centre Trust for the Elderly",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

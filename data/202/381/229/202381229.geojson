@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.929825,-37.037186,174.929825,-37.037186",
     "geom:latitude":-37.037186,
     "geom:longitude":174.929825,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914611,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mnLtsdJqsELXLFeQILR4Q_-37.037186_174.929825@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"febf18f237454631784a751a93b05e3c",
+    "wof:geomhash":"7b4dac83c6ccbe094052387c75971adb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914611,
+            "region_id":85687243,
             "venue_id":202381229
         }
     ],
     "wof:id":202381229,
-    "wof:lastmodified":1473798556,
+    "wof:lastmodified":1496776136,
     "wof:name":"Reiki & Herbal Remedies For Your Horses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

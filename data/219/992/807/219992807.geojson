@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.973526,-45.09251,170.973526,-45.09251",
     "geom:latitude":-45.09251,
     "geom:longitude":170.973526,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2T3B3czZ4hh2rohqlMkUqV_-45.092510_170.973526@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e179a01a40a6516f71f97eda55027a2a",
+    "wof:geomhash":"9e353b116d6bd97483201538096f1912",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":219992807
         }
     ],
     "wof:id":219992807,
-    "wof:lastmodified":1473798792,
+    "wof:lastmodified":1496776264,
     "wof:name":"McKenzie Chartered Accountants Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

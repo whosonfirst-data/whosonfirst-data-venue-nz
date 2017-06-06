@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.642914,-40.365597,175.642914,-40.365597",
     "geom:latitude":-40.365597,
     "geom:longitude":175.642914,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85780937
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ab1dmM40mplYTwQ0GAukf_-40.365597_175.642914@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ea1abcbdd6ecb83af977e40a75fc9266",
+    "wof:geomhash":"a583e61f1e6dbe825905ae167cdfba6e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85780937,
+            "region_id":85687251,
             "venue_id":186045603
         }
     ],
     "wof:id":186045603,
-    "wof:lastmodified":1473798604,
+    "wof:lastmodified":1496775735,
     "wof:name":"NZ Specialised Coatings Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780937,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

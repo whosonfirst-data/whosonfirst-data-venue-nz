@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.141434,-37.714325,176.141434,-37.714325",
     "geom:latitude":-37.714325,
     "geom:longitude":176.141434,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079285,
+        85782819
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IO1NuxdMRQ6mdz6mFk4YP_-37.714325_176.141434@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2d63595a63eed97f30e15690ed060565",
+    "wof:geomhash":"fd124e3d5dca4148cf2edcbdfb500249",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782819,
+            "region_id":85687175,
             "venue_id":219969253
         }
     ],
     "wof:id":219969253,
-    "wof:lastmodified":1473798796,
+    "wof:lastmodified":1496775875,
     "wof:name":"Farm Services Tauranga",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

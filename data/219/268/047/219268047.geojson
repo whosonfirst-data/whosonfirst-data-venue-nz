@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.787552,-36.920864,174.787552,-36.920864",
     "geom:latitude":-36.920864,
     "geom:longitude":174.787552,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782479
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KMmQ6WruIzvo7E8h3cy6N_-36.920864_174.787552@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d70b8e67acc2c9f2f3dd172ec4393fa5",
+    "wof:geomhash":"056576932e103c9dea82f08209925317",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782479,
+            "region_id":85687243,
             "venue_id":219268047
         }
     ],
     "wof:id":219268047,
-    "wof:lastmodified":1473798661,
+    "wof:lastmodified":1496775511,
     "wof:name":"Galway Court Flatettes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

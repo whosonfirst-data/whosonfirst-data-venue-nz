@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.647095,-40.344284,175.647095,-40.344284",
     "geom:latitude":-40.344284,
     "geom:longitude":175.647095,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85773241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RhddxpDDf6nxm2G7uWVim_-40.344284_175.647095@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"38af09b4ebfc5f0c0e2e065798eec624",
+    "wof:geomhash":"b239275fb630aefd4f5d65f482259a91",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85773241,
+            "region_id":85687251,
             "venue_id":185995661
         }
     ],
     "wof:id":185995661,
-    "wof:lastmodified":1473798667,
+    "wof:lastmodified":1496775745,
     "wof:name":"Carlin Gladys M",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

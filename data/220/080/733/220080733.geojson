@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.997803,-36.882858,174.997803,-36.882858",
     "geom:latitude":-36.882858,
     "geom:longitude":174.997803,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914895,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ldlWAE6DyHzMEudpjwjWP_-36.882858_174.997803@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d11150892c0cf44789923812930ed884",
+    "wof:geomhash":"9c307781b15629696e55ffb9885129b5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914895,
+            "region_id":85687243,
             "venue_id":220080733
         }
     ],
     "wof:id":220080733,
-    "wof:lastmodified":1473798600,
+    "wof:lastmodified":1496776381,
     "wof:name":"Strachan Wines & Spirits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

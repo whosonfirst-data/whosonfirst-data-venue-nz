@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.046677,-37.632431,176.046677,-37.632431",
     "geom:latitude":-37.632431,
     "geom:longitude":176.046677,
@@ -23,27 +24,30 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101915041,
+        102079283
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2El4HO6fLh6pdbLxMf9m1x_-37.632431_176.046677@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d42432f85290d07173c66bd7fa367376",
+    "wof:geomhash":"04995c828bb068127bdcc48605518467",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079283,
+            "locality_id":101915041,
+            "region_id":85687175,
             "venue_id":219171487
         }
     ],
     "wof:id":219171487,
-    "wof:lastmodified":1473798575,
+    "wof:lastmodified":1496777633,
     "wof:name":"Matakana Ferry 2000 Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.742599,-43.886875,171.742599,-43.886875",
     "geom:latitude":-43.886875,
     "geom:longitude":171.742599,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914705,
+        102079371
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HLxRJqLtYBGMDTiv43KSQ_-43.886875_171.742599@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"eb0ef3050510a959a74e2621bedea2a7",
+    "wof:geomhash":"bdf2b9b1a21573c836e5495370c56e03",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079371,
+            "locality_id":101914705,
+            "region_id":85687179,
             "venue_id":220181099
         }
     ],
     "wof:id":220181099,
-    "wof:lastmodified":1473798654,
+    "wof:lastmodified":1496776277,
     "wof:name":"Allenton Meat Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

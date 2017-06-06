@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.321396,-35.719692,174.321396,-35.719692",
     "geom:latitude":-35.719692,
     "geom:longitude":174.321396,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        101914901,
+        102079257,
         85782533,
+        101914253,
         85780991
     ],
     "wof:breaches":[],
@@ -43,31 +46,31 @@
         "sg:id":"SG_3XPptOmXis4HeDip5AQ2VK_-35.719692_174.321396@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1958504c63352f5492a7136f3457845b",
+    "wof:geomhash":"1c24942361a5ef6ddbf588d2c06a8efa",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
+            "county_id":102079257,
+            "locality_id":-1,
             "neighbourhood_id":85782533,
-            "region_id":-1,
+            "region_id":85687149,
             "venue_id":169554505
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
+            "county_id":102079257,
+            "locality_id":101914253,
             "neighbourhood_id":85780991,
-            "region_id":-1,
+            "region_id":85687149,
             "venue_id":169554505
         }
     ],
     "wof:id":169554505,
-    "wof:lastmodified":1473798572,
+    "wof:lastmodified":1496775326,
     "wof:name":"Lands & Survey Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

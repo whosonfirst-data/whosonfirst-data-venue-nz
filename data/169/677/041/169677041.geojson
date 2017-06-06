@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.968201,-45.103012,170.968201,-45.103012",
     "geom:latitude":-45.103012,
     "geom:longitude":170.968201,
@@ -23,29 +24,33 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85781643
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37PZ7YN3ULrU8XAZcsqCYu_-45.103012_170.968201@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"734942a61386ce687a268a5587885d2b",
+    "wof:geomhash":"d16930410c14fb8f20912379e189c6c9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781643,
+            "region_id":85687179,
             "venue_id":169677041
         }
     ],
     "wof:id":169677041,
-    "wof:lastmodified":1473798618,
+    "wof:lastmodified":1496776265,
     "wof:name":"Timber Tech",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

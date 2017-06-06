@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.228882,-41.313198,173.228882,-41.313198",
     "geom:latitude":-41.313198,
     "geom:longitude":173.228882,
@@ -23,29 +24,34 @@
     "sg:province":"Nelson",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        101915661,
+        102079351,
+        85773201
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FT95ucpKL3zXngLXbTfNX_-41.313198_173.228882@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f71ad145b495eb89d95e3abef5fffbcc",
+    "wof:geomhash":"eb402801dc71856c08743c45de838e54",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":101915661,
+            "neighbourhood_id":85773201,
+            "region_id":85687157,
             "venue_id":202842021
         }
     ],
     "wof:id":202842021,
-    "wof:lastmodified":1473798723,
+    "wof:lastmodified":1496776821,
     "wof:name":"Marshall P K E",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

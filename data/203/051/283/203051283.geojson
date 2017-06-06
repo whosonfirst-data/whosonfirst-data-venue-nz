@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.222137,-38.094311,176.222137,-38.094311",
     "geom:latitude":-38.094311,
     "geom:longitude":176.222137,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914629,
+        102079289,
+        85781825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VbbshkMUE6Umy6f7pXoOp_-38.094311_176.222137@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"74ebdec94e6ce23414b81479974e2499",
+    "wof:geomhash":"69752c5e11d3ae9ec5a229dc55cc776b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079289,
+            "locality_id":101914629,
+            "neighbourhood_id":85781825,
+            "region_id":85687175,
             "venue_id":203051283
         }
     ],
     "wof:id":203051283,
-    "wof:lastmodified":1473798597,
+    "wof:lastmodified":1496776426,
     "wof:name":"Curb & Cobble",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

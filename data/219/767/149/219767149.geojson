@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"177.275879,-38.012253,177.275879,-38.012253",
     "geom:latitude":-38.012253,
     "geom:longitude":177.275879,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079321,
+        85782481
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12BilcrGRwCcx92rZK6DhG_-38.012253_177.275879@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4361a83dc14fda5c5bdf3bba598309a5",
+    "wof:geomhash":"4fe6f4dce5ad96df596e74ca7f018603",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079321,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782481,
+            "region_id":85687175,
             "venue_id":219767149
         }
     ],
     "wof:id":219767149,
-    "wof:lastmodified":1473798794,
+    "wof:lastmodified":1496775310,
     "wof:name":"Opotiki Towing & Storage",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

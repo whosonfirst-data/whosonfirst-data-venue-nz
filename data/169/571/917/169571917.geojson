@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.974625,-37.958569,176.974625,-37.958569",
     "geom:latitude":-37.958569,
     "geom:longitude":176.974625,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079291,
+        85782901
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45dS8JUjTGB80IiRzdeBSQ_-37.958569_176.974625@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ca39615d9305602951e0b74a8d2984e2",
+    "wof:geomhash":"caff106e58dbb8f979e15563ed6c7f2e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782901,
+            "region_id":85687175,
             "venue_id":169571917
         }
     ],
     "wof:id":169571917,
-    "wof:lastmodified":1473798591,
+    "wof:lastmodified":1496775894,
     "wof:name":"Herbalife Independent Distributors",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

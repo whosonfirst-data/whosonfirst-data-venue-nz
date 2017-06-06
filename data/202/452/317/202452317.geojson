@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.971634,-42.714886,170.971634,-42.714886",
     "geom:latitude":-42.714886,
     "geom:longitude":170.971634,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101915183,
+        102079363
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ww7vJx4DuR2NkOyesh9yY_-42.714886_170.971634@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e634dd12719fd37bdf5fa84ab6c4a22b",
+    "wof:geomhash":"949e13a22506f574a0ca932d0ab72ffe",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":101915183,
+            "region_id":85687165,
             "venue_id":202452317
         }
     ],
     "wof:id":202452317,
-    "wof:lastmodified":1473798677,
+    "wof:lastmodified":1496776620,
     "wof:name":"van Paassen Catherine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

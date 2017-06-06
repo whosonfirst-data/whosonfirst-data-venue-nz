@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.153748,-37.711597,176.153748,-37.711597",
     "geom:latitude":-37.711597,
     "geom:longitude":176.153748,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914325,
+        102079285,
+        85781319
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FnhjCR5veZ6StcNwxKII0_-37.711597_176.153748@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4dc8d8382cd20f2368567940054242d4",
+    "wof:geomhash":"dfcf0afc35e8ad868c529134819f221e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101914325,
+            "neighbourhood_id":85781319,
+            "region_id":85687175,
             "venue_id":219289673
         }
     ],
     "wof:id":219289673,
-    "wof:lastmodified":1473798675,
+    "wof:lastmodified":1496775867,
     "wof:name":"Harbinger House",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

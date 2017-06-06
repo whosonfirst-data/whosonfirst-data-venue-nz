@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.595963,-45.814583,170.595963,-45.814583",
     "geom:latitude":-45.814583,
     "geom:longitude":170.595963,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915301,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xf7ulLA5LU2wbxZqrrCE4_-45.814583_170.595963@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2923b7d50d98e8243c9c67065dfbd18e",
+    "wof:geomhash":"edea9f443982efe8c3b38e4b32fa3332",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101915301,
+            "region_id":85687201,
             "venue_id":202658889
         }
     ],
     "wof:id":202658889,
-    "wof:lastmodified":1473798706,
+    "wof:lastmodified":1496776654,
     "wof:name":"Warren E E",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

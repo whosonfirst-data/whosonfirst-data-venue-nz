@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.757904,-36.873142,174.757904,-36.873142",
     "geom:latitude":-36.873142,
     "geom:longitude":174.757904,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778851
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sXaKzZp6TMnDsSV1S0G5d_-36.873142_174.757904@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7b845ae6311ce298b66c40724478f3d5",
+    "wof:geomhash":"5a625addecde860b7051df5301f673c1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778851,
+            "region_id":85687243,
             "venue_id":203089565
         }
     ],
     "wof:id":203089565,
-    "wof:lastmodified":1473798630,
+    "wof:lastmodified":1496775469,
     "wof:name":"Christine Johannis",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

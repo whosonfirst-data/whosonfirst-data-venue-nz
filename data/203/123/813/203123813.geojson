@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.157593,-37.660561,175.157593,-37.660561",
     "geom:latitude":-37.660561,
     "geom:longitude":175.157593,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914465,
+        102079265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WHOBoIlNC6NpVNgT4J1CQ_-37.660561_175.157593@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2da4f63b8839894f6bd3fb65a6d7d468",
+    "wof:geomhash":"d36da8c37fabe52ff8156b36b9e53e03",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101914465,
+            "region_id":85687229,
             "venue_id":203123813
         }
     ],
     "wof:id":203123813,
-    "wof:lastmodified":1473798655,
+    "wof:lastmodified":1496775983,
     "wof:name":"Draper M",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

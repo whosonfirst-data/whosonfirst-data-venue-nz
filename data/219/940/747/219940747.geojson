@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.558273,-40.213158,175.558273,-40.213158",
     "geom:latitude":-40.213158,
     "geom:longitude":175.558273,
@@ -23,29 +24,33 @@
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079303,
+        85778921
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NbzyVeJpskNM0PTwGCOOS_-40.213158_175.558273@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0d26d88d81dfc423c09b83eee0078946",
+    "wof:geomhash":"8185684fd84a773190f40aac9d7f3246",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079303,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778921,
+            "region_id":85687251,
             "venue_id":219940747
         }
     ],
     "wof:id":219940747,
-    "wof:lastmodified":1473798795,
+    "wof:lastmodified":1496776282,
     "wof:name":"Agscan",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.771652,-36.792152,174.771652,-36.792152",
     "geom:latitude":-36.792152,
     "geom:longitude":174.771652,
@@ -32,9 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        102079403,
         85773217,
+        101915597,
         85781417
     ],
     "wof:breaches":[],
@@ -42,31 +46,31 @@
         "sg:id":"SG_2dGBbNQUuCR9L0JaX3TlY1_-36.792152_174.771652@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"681054d7dab9bf0d6d123405a140f3f7",
+    "wof:geomhash":"29fb456c580cadd538ba9073b1bec8a3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85773217,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202415173
         },
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101915597,
             "neighbourhood_id":85781417,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202415173
         }
     ],
     "wof:id":202415173,
-    "wof:lastmodified":1473798590,
+    "wof:lastmodified":1496776806,
     "wof:name":"De Geus J J",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

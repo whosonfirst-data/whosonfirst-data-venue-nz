@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.649872,-43.547878,172.649872,-43.547878",
     "geom:latitude":-43.547878,
     "geom:longitude":172.649872,
@@ -34,29 +35,34 @@
     "sg:website":"http://www.commercialrefrigeration.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781515
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mto4C04IUXpZy7o4JejbE_-43.547878_172.649872@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"de7fe94c0cb0d2ea84b8d66536e73089",
+    "wof:geomhash":"f9cd926911a9a2cb2c00bffb3b35fdb4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781515,
+            "region_id":85687179,
             "venue_id":220024623
         }
     ],
     "wof:id":220024623,
-    "wof:lastmodified":1473798584,
+    "wof:lastmodified":1496776028,
     "wof:name":"Commercial Refrigeration & Wholesale",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

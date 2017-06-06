@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.835663,-41.180759,174.835663,-41.180759",
     "geom:latitude":-41.180759,
     "geom:longitude":174.835663,
@@ -23,8 +24,12 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101915533,
+        102079339,
+        85778565
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -34,18 +39,19 @@
     "wof:geomhash":"55f2765c149a20b64a19a0b990dae3c5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101915533,
+            "neighbourhood_id":85778565,
+            "region_id":85687233,
             "venue_id":186357423
         }
     ],
     "wof:id":186357423,
-    "wof:lastmodified":1473798742,
+    "wof:lastmodified":1491921497,
     "wof:name":"GE Capital Returnable Packaging Systems (Weck-Pack)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

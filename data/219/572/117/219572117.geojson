@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.6026,-40.353603,175.6026,-40.353603",
     "geom:latitude":-40.353603,
     "geom:longitude":175.6026,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_18yDC5qUYnG8sR0W7M7yEG_-40.353603_175.602600@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c4f6afeef91ddd3a7609bdc066469c6d",
+    "wof:geomhash":"ed6e89cd3f5c9aa6aa499281b7230ae9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":219572117
         }
     ],
     "wof:id":219572117,
-    "wof:lastmodified":1473798730,
+    "wof:lastmodified":1496775732,
     "wof:name":"Kinross Car Groomers",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

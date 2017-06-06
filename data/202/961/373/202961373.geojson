@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.889236,-37.011833,174.889236,-37.011833",
     "geom:latitude":-37.011833,
     "geom:longitude":174.889236,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85780923
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06WClT1VPCbRqsmK6AJEX3_-37.011833_174.889236@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"caaffb6e606e739128153e3cb9d170e9",
+    "wof:geomhash":"ba23892deb33b4fe577fd032a3c5f47d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85780923,
+            "region_id":85687243,
             "venue_id":202961373
         }
     ],
     "wof:id":202961373,
-    "wof:lastmodified":1473798748,
+    "wof:lastmodified":1496776146,
     "wof:name":"The Garden Tamer Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

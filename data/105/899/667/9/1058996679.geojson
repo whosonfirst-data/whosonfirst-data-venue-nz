@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.862915039,-42.1195030212,171.862915039,-42.1195030212",
     "geom:latitude":-42.119503,
     "geom:longitude":171.862915,
@@ -18,17 +19,32 @@
     "sg:phone":"+64 3-732 8899",
     "sg:province":"Manawatu-Wanganui",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687165,
+        102191583,
+        85633345,
+        101915213,
+        102079357
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aUdxHDvSqvzITlwFNRlUs_-42.119503_171.862915@1306270033"
     },
     "wof:country":"NZ",
     "wof:created":1473719374,
-    "wof:geomhash":"712e2566ea156dca349f1b1974720d49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc4ccf6359d5d2bd41659c5d7ec475ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":101915213,
+            "region_id":85687165,
+            "venue_id":1058996679
+        }
+    ],
     "wof:id":1058996679,
-    "wof:lastmodified":1473719374,
+    "wof:lastmodified":1496776639,
     "wof:name":"Mason's Healthcare Reefton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

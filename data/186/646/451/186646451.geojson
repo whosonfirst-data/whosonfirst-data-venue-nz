@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.577789,-43.491825,172.577789,-43.491825",
     "geom:latitude":-43.491825,
     "geom:longitude":172.577789,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oViz6uO5OhFALoh7cA21x_-43.491825_172.577789@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2c205be1161461f238e87b9e916cc1c0",
+    "wof:geomhash":"f2841e1776d6a08f2ceaba41109aa9cf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778215,
+            "region_id":85687179,
             "venue_id":186646451
         }
     ],
     "wof:id":186646451,
-    "wof:lastmodified":1473798766,
+    "wof:lastmodified":1496776079,
     "wof:name":"Cranio Sacral Therapy & Reiki",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

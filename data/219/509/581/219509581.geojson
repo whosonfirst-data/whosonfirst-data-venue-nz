@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.393768,-46.417614,168.393768,-46.417614",
     "geom:latitude":-46.417614,
     "geom:longitude":168.393768,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CfYAsJNNfZD3HM0ywKwj7_-46.417614_168.393768@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7119c454804197625d77b8a113da1597",
+    "wof:geomhash":"01c96d31b7f1d946452d3c9382b9340c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":219509581
         }
     ],
     "wof:id":219509581,
-    "wof:lastmodified":1473798723,
+    "wof:lastmodified":1496776723,
     "wof:name":"Resource Teachers of Maori/ Te Ropu Takawaenga Matauranga Maori",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

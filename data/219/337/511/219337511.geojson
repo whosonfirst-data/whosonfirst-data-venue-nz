@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.345963,-46.399513,168.345963,-46.399513",
     "geom:latitude":-46.399513,
     "geom:longitude":168.345963,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781431
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BCzwKFMJ9EtW05i1inAHq_-46.399513_168.345963@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c0ca7efa19f5c2b20b0d774368d98109",
+    "wof:geomhash":"e089eaf3dfa3a91009e58100341bb50c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781431,
+            "region_id":85687211,
             "venue_id":219337511
         }
     ],
     "wof:id":219337511,
-    "wof:lastmodified":1473798684,
+    "wof:lastmodified":1496776735,
     "wof:name":"Avenal Place Motel",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

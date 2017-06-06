@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.026688,-38.664322,178.026688,-38.664322",
     "geom:latitude":-38.664322,
     "geom:longitude":178.026688,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DWe5hKmlAKFkXjUjqRi5K_-38.664322_178.026688@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e91a581d906a28a6e70cf6f132efc743",
+    "wof:geomhash":"264e3633de93c54012bc8d395fdedab9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":202393437
         }
     ],
     "wof:id":202393437,
-    "wof:lastmodified":1473798561,
+    "wof:lastmodified":1496776132,
     "wof:name":"St John",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

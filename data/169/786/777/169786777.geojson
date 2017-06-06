@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.699524,-36.821468,175.699524,-36.821468",
     "geom:latitude":-36.821468,
     "geom:longitude":175.699524,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914279,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Ig79vSBmLVw7LjpAfEaEQ_-36.821468_175.699524@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b747ccae28f9110c816731b4b01a6799",
+    "wof:geomhash":"e3a84d97576f722b4fbc5e72bc95cb8f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101914279,
+            "region_id":85687229,
             "venue_id":169786777
         }
     ],
     "wof:id":169786777,
-    "wof:lastmodified":1473798641,
+    "wof:lastmodified":1496775795,
     "wof:name":"Coromandel Safaris",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

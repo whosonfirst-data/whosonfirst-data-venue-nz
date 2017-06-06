@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.656509,-36.929104,174.656509,-36.929104",
     "geom:latitude":-36.929104,
     "geom:longitude":174.656509,
@@ -23,29 +24,31 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85779015,
+        102191583,
+        85633345,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OlvR9bGkYtvqY5Di4Kqec_-36.929104_174.656509@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"57dacba779fe81d57467467ecd362b19",
+    "wof:geomhash":"aa65256e4255d71390161619287dbec1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85779015,
+            "region_id":85687243,
             "venue_id":202980561
         }
     ],
     "wof:id":202980561,
-    "wof:lastmodified":1473798759,
+    "wof:lastmodified":1496777145,
     "wof:name":"Gardens by Graeme",
-    "wof:parent_id":-1,
+    "wof:parent_id":85779015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

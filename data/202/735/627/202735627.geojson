@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.657562,-36.932285,174.657562,-36.932285",
     "geom:latitude":-36.932285,
     "geom:longitude":174.657562,
@@ -36,29 +37,31 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85779015,
+        102191583,
+        85633345,
+        85687243
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2S7KNoGiLz2NMHDA7A7AeT_-36.932285_174.657562@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"85501c385e5a69b5b1148a14186a33a5",
+    "wof:geomhash":"c9bb78110b50e9ff82ed4c3c56239c0f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85779015,
+            "region_id":85687243,
             "venue_id":202735627
         }
     ],
     "wof:id":202735627,
-    "wof:lastmodified":1473798723,
+    "wof:lastmodified":1496775479,
     "wof:name":"Miniskips Western Suburbs",
-    "wof:parent_id":-1,
+    "wof:parent_id":85779015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

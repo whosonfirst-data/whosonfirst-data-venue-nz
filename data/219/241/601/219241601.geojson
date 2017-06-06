@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.271378,-38.885082,175.271378,-38.885082",
     "geom:latitude":-38.885082,
     "geom:longitude":175.271378,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-895 7781",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914323,
+        102079297
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VJIPqKYLZVMVkToV0ArGx_-38.885082_175.271378@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"48e32c8258570240a152edcec0ee2481",
+    "wof:geomhash":"719b0a2a37e5ebed0262d7c9d7dfdeb0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079297,
+            "locality_id":101914323,
+            "region_id":85687251,
             "venue_id":219241601
         }
     ],
     "wof:id":219241601,
-    "wof:lastmodified":1473798667,
+    "wof:lastmodified":1496775860,
     "wof:name":"CJL Transport Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

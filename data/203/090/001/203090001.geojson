@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.944595,-41.524162,173.944595,-41.524162",
     "geom:latitude":-41.524162,
     "geom:longitude":173.944595,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101915709,
+        102079353,
+        85781697
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WP9BmgL4U3TB8D5YZLRb9_-41.524162_173.944595@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"538444345b99f7030128369a8924b8de",
+    "wof:geomhash":"7e3985edc581c8a677c0846bb89806ce",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101915709,
+            "neighbourhood_id":85781697,
+            "region_id":85687185,
             "venue_id":203090001
         }
     ],
     "wof:id":203090001,
-    "wof:lastmodified":1473798624,
+    "wof:lastmodified":1496776833,
     "wof:name":"Craighead Counselling",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

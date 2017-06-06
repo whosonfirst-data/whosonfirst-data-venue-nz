@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.833237,-41.123905,174.833237,-41.123905",
     "geom:latitude":-41.123905,
     "geom:longitude":174.833237,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914927,
+        101914925,
+        102079317,
         85778653
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_4McTLAt7zNWFbrO4UxSGEL_-41.123905_174.833237@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7c0f8843c5d21011ea5b3f82b0f5baf5",
+    "wof:geomhash":"a73442e0bf1f90cbdcf4d1b673d2936c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914927,
+            "county_id":102079317,
+            "locality_id":101914925,
             "neighbourhood_id":85778653,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":219568493
         }
     ],
     "wof:id":219568493,
-    "wof:lastmodified":1473798735,
+    "wof:lastmodified":1496776414,
     "wof:name":"Auto Gleam",
     "wof:parent_id":85778653,
     "wof:placetype":"venue",

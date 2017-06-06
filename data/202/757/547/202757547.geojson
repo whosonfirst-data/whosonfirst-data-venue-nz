@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.245926,-44.085011,171.245926,-44.085011",
     "geom:latitude":-44.085011,
     "geom:longitude":171.245926,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914513,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WtWFjRGTm1LUNq4AypXrP_-44.085011_171.245926@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c4a4dad5da2d2962d9242692b2b21675",
+    "wof:geomhash":"e68dbc8f2d4ac8db60d3648aa62317ab",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101914513,
+            "region_id":85687179,
             "venue_id":202757547
         }
     ],
     "wof:id":202757547,
-    "wof:lastmodified":1473798724,
+    "wof:lastmodified":1496776006,
     "wof:name":"Geraldine Retirement Complex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

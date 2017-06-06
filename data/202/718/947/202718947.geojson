@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.680222,-40.942257,175.680222,-40.942257",
     "geom:latitude":-40.942257,
     "geom:longitude":175.680222,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079343,
+        85780973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0T5bm2LwxFytr1z58gresg_-40.942257_175.680222@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b551a70d7b9df85bd92aa82257d3d134",
+    "wof:geomhash":"4cbcf18e908fbb4373a411c022ec6f0f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780973,
+            "region_id":85687233,
             "venue_id":202718947
         }
     ],
     "wof:id":202718947,
-    "wof:lastmodified":1473798726,
+    "wof:lastmodified":1496776775,
     "wof:name":"Chem Dry Wairarapa",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

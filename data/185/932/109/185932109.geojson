@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.306946,-35.679508,174.306946,-35.679508",
     "geom:latitude":-35.679508,
     "geom:longitude":174.306946,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PdW8zo3Uo0FLOVo6a5NFc_-35.679508_174.306946@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"aded312ebf311ac4b7e4e173718b3600",
+    "wof:geomhash":"20deb7891aa5cb014b50e517c04a600a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "region_id":85687149,
             "venue_id":185932109
         }
     ],
     "wof:id":185932109,
-    "wof:lastmodified":1473798636,
+    "wof:lastmodified":1496775338,
     "wof:name":"Nam Wah Pai Kung Fu & Tai Chi",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

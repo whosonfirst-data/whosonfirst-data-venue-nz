@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.164100647,32.7040596008,-117.164100647,32.7040596008",
     "geom:latitude":32.70406,
     "geom:longitude":-117.164101,
@@ -28,12 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85871135,
         102191575,
+        1108801231,
         85633793,
         85922227,
         102083569,
-        85871135
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +50,14 @@
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108801231,
             "neighbourhood_id":85871135,
             "region_id":85688637,
             "venue_id":1058997673
         }
     ],
     "wof:id":1058997673,
-    "wof:lastmodified":1473719462,
+    "wof:lastmodified":1486514466,
     "wof:name":"Marina Restaurant & Bar",
     "wof:parent_id":85871135,
     "wof:placetype":"venue",

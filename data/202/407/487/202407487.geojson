@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.052277,-40.879662,175.052277,-40.879662",
     "geom:latitude":-40.879662,
     "geom:longitude":175.052277,
@@ -23,27 +24,30 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914637,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1J4gb73EUqDySmtiutCvXI_-40.879662_175.052277@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"944e1b8a3ffacd009f81b79db9e45d39",
+    "wof:geomhash":"08e967621939f7ade93f7e37f3ee775c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914637,
+            "region_id":85687233,
             "venue_id":202407487
         }
     ],
     "wof:id":202407487,
-    "wof:lastmodified":1473798578,
+    "wof:lastmodified":1496776194,
     "wof:name":"Waikanae Country Lodge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.822098,-41.307091,174.822098,-41.307091",
     "geom:latitude":-41.307091,
     "geom:longitude":174.822098,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
         102191583,
         85633345,
-        101914409,
+        101914285,
+        102079339,
         85773025
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_2lCK2fQb1OpR5OwlMpeHbI_-41.307091_174.822098@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"018af68c1007d5a4a0e8e9c01093e538",
+    "wof:geomhash":"5a66de9e35ba043654881788f49ecfde",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914409,
+            "county_id":102079339,
+            "locality_id":101914285,
             "neighbourhood_id":85773025,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":186412549
         }
     ],
     "wof:id":186412549,
-    "wof:lastmodified":1473798751,
+    "wof:lastmodified":1496775828,
     "wof:name":"Thermoplastic Engineering Limited",
     "wof:parent_id":85773025,
     "wof:placetype":"venue",

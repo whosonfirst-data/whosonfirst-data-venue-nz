@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.004272,-41.294796,174.004272,-41.294796",
     "geom:latitude":-41.294796,
     "geom:longitude":174.004272,
@@ -23,27 +24,30 @@
     "sg:province":"Marlborough",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101915339,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vMxNzB3VXMpP5i4vQME5E_-41.294796_174.004272@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"774115c705363243cccc79cd858850a0",
+    "wof:geomhash":"96098f8ee4e687ae2a5ca4b1974ada04",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101915339,
+            "region_id":85687185,
             "venue_id":219492355
         }
     ],
     "wof:id":219492355,
-    "wof:lastmodified":1473798712,
+    "wof:lastmodified":1496776677,
     "wof:name":"Waitaria Bay School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

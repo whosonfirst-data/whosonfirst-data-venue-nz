@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.621262,-40.350113,175.621262,-40.350113",
     "geom:latitude":-40.350113,
     "geom:longitude":175.621262,
@@ -34,32 +35,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
-        85782485
+        102079307,
+        85782485,
+        101914259,
+        85773241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CfazfeQxgKXWhyPeWuwV7_-40.350113_175.621262@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"91392c8eeb7f5717e684310e8cb073d1",
+    "wof:geomhash":"074fba1ca901d99a4effbe5db6787128",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":-1,
             "neighbourhood_id":85782485,
-            "region_id":-1,
+            "region_id":85687251,
+            "venue_id":219263245
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85773241,
+            "region_id":85687251,
             "venue_id":219263245
         }
     ],
     "wof:id":219263245,
-    "wof:lastmodified":1473798664,
+    "wof:lastmodified":1496775732,
     "wof:name":"Lethbridge Real Estate 2001 Ltd MREINZ",
-    "wof:parent_id":85782485,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

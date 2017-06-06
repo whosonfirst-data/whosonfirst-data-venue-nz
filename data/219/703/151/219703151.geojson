@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.305878,-37.919304,175.305878,-37.919304",
     "geom:latitude":-37.919304,
     "geom:longitude":175.305878,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914459,
+        102079273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73pfg3uZALJb9rOu3yX9A1_-37.919304_175.305878@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2147714eb80aea0d6236529b89aa754b",
+    "wof:geomhash":"b1d9eebd3e4b65559e2ba70f2937d1cc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079273,
+            "locality_id":101914459,
+            "region_id":85687229,
             "venue_id":219703151
         }
     ],
     "wof:id":219703151,
-    "wof:lastmodified":1473798775,
+    "wof:lastmodified":1496775982,
     "wof:name":"Ohaupo Caravans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

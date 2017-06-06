@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.705124,-38.087139,176.705124,-38.087139",
     "geom:latitude":-38.087139,
     "geom:longitude":176.705124,
@@ -23,27 +24,30 @@
     "sg:website":"http://www.aie.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914419,
+        102079319
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kgpnGupOC5raKrzZR3nS0_-38.087139_176.705124@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1a841ee80246e28f8702bae997df5218",
+    "wof:geomhash":"be6f9dd48a6d64fd006499aeaf8519e9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079319,
+            "locality_id":101914419,
+            "region_id":85687175,
             "venue_id":186177707
         }
     ],
     "wof:id":186177707,
-    "wof:lastmodified":1473798680,
+    "wof:lastmodified":1496775962,
     "wof:name":"Allied Industrial Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

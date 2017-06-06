@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.90564,-41.226585,174.90564,-41.226585",
     "geom:latitude":-41.226585,
     "geom:longitude":174.90564,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914319,
+        102079337,
+        85778465
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qbsjl4K1ZMSQDT3DMPLRS_-41.226585_174.905640@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1dbf05ddb253627d0add6764e3c960d4",
+    "wof:geomhash":"4e1b3adcb4297bb37e1c9987855ac2c1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914319,
+            "neighbourhood_id":85778465,
+            "region_id":85687233,
             "venue_id":220114639
         }
     ],
     "wof:id":220114639,
-    "wof:lastmodified":1473798599,
+    "wof:lastmodified":1496775856,
     "wof:name":"Zany Zeus Cheeses",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

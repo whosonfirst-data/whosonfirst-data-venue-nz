@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.392303,-46.407722,168.392303,-46.407722",
     "geom:latitude":-46.407722,
     "geom:longitude":168.392303,
@@ -33,8 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687211,
         102191583,
         85633345,
+        101915515,
+        102079397,
         85781467
     ],
     "wof:breaches":[],
@@ -42,20 +46,20 @@
         "sg:id":"SG_0nVqyTqbmrIlF1JAFLPIWE_-46.407722_168.392303@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ebb68bdb04a9c93ccdc8babe117b3c5f",
+    "wof:geomhash":"c321cddf0682a31ae2111a22d55241cb",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079397,
+            "locality_id":101915515,
             "neighbourhood_id":85781467,
-            "region_id":-1,
+            "region_id":85687211,
             "venue_id":219441381
         }
     ],
     "wof:id":219441381,
-    "wof:lastmodified":1473798714,
+    "wof:lastmodified":1496776725,
     "wof:name":"Stuarts Driving School",
     "wof:parent_id":85781467,
     "wof:placetype":"venue",

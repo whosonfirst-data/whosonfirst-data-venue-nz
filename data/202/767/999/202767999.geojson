@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.824875,-36.875141,174.824875,-36.875141",
     "geom:latitude":-36.875141,
     "geom:longitude":174.824875,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778449
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6grCDG9MWO29eiEsQ9B9pT_-36.875141_174.824875@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"29b87b4992504d0c3284c19930af4fef",
+    "wof:geomhash":"71dda32f35dbe7f4ed64b4b302c9f709",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778449,
+            "region_id":85687243,
             "venue_id":202767999
         }
     ],
     "wof:id":202767999,
-    "wof:lastmodified":1473798740,
+    "wof:lastmodified":1496775611,
     "wof:name":"Auckland Wardrobe & Door Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

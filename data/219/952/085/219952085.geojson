@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.493713,-37.273788,175.493713,-37.273788",
     "geom:latitude":-37.273788,
     "geom:longitude":175.493713,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-867 7056",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915875,
+        102079263
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iJEckcfTEfPV0avYwlpC6_-37.273788_175.493713@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e3af3ac557968c1db0bfda603f571c39",
+    "wof:geomhash":"0c00c0ca39bd1cc18ac90102bb09b03f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079263,
+            "locality_id":101915875,
+            "region_id":85687229,
             "venue_id":219952085
         }
     ],
     "wof:id":219952085,
-    "wof:lastmodified":1473798787,
+    "wof:lastmodified":1496776856,
     "wof:name":"Hauraki Veterinary Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

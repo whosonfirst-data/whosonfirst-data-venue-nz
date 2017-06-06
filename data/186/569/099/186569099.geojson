@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.457764,-45.867123,170.457764,-45.867123",
     "geom:latitude":-45.867123,
     "geom:longitude":170.457764,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85778189
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0P2tCKYO6FLbKQ2jXIl2yw_-45.867123_170.457764@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"da50adf92fa88d4be625f8554d810f12",
+    "wof:geomhash":"a5e8ee2b9a2985ac857b2b009bf46d5b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85778189,
+            "region_id":85687201,
             "venue_id":186569099
         }
     ],
     "wof:id":186569099,
-    "wof:lastmodified":1473798758,
+    "wof:lastmodified":1496775772,
     "wof:name":"Brockville School",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

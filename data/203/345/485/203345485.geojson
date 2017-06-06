@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.792557,-36.807487,174.792557,-36.807487",
     "geom:latitude":-36.807487,
     "geom:longitude":174.792557,
@@ -36,7 +37,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
+        102191583,
         85633345,
+        101915597,
+        102079403,
+        85781267,
         85778157
     ],
     "wof:breaches":[],
@@ -44,22 +50,31 @@
         "sg:id":"SG_15JQDfqf8s1C7F7NtLbqKw_-36.807487_174.792557@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e02b15d14493e4cb4ecf816515509093",
+    "wof:geomhash":"924dc8c250c6160bba26cbcb295f9d71",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101915597,
+            "neighbourhood_id":85781267,
+            "region_id":85687243,
+            "venue_id":203345485
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915597,
             "neighbourhood_id":85778157,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":203345485
         }
     ],
     "wof:id":203345485,
-    "wof:lastmodified":1473798682,
+    "wof:lastmodified":1496776806,
     "wof:name":"Daniel Roberts Footwear",
-    "wof:parent_id":85778157,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

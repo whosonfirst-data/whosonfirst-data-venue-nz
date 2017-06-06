@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.247452,-44.41478,171.247452,-44.41478",
     "geom:latitude":-44.41478,
     "geom:longitude":171.247452,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jjI1s7upTaInOl98FrouS_-44.414780_171.247452@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"daaa796444acbfa0feaf95f46222e8c4",
+    "wof:geomhash":"dcfa181c61a5897b23ae6ad5e3a2d425",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781671,
+            "region_id":85687179,
             "venue_id":219611441
         }
     ],
     "wof:id":219611441,
-    "wof:lastmodified":1473798767,
+    "wof:lastmodified":1496776741,
     "wof:name":"Creek Service Station",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

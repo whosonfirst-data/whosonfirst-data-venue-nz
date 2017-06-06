@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.592453,-40.364868,175.592453,-40.364868",
     "geom:latitude":-40.364868,
     "geom:longitude":175.592453,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914259,
+        102079307,
+        85781231
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PQc7zQlKilFToiSU32vBC_-40.364868_175.592453@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d9df96d0e02421f2940bc43cc48221fe",
+    "wof:geomhash":"d13aa90ab767ddc6f3ff077398ee7ee8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101914259,
+            "neighbourhood_id":85781231,
+            "region_id":85687251,
             "venue_id":202919919
         }
     ],
     "wof:id":202919919,
-    "wof:lastmodified":1473798755,
+    "wof:lastmodified":1496775742,
     "wof:name":"Palmers Gardenworld",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

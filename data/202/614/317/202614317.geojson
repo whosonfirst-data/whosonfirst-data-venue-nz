@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.245941,-44.417816,171.245941,-44.417816",
     "geom:latitude":-44.417816,
     "geom:longitude":171.245941,
@@ -32,29 +33,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/mcraewayhomes/dp54265.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373,
+        85781671
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JTyOlPZFpI9y0yv2LkcD3_-44.417816_171.245941@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"03e6f35770b22cf8664e1799a0a9841e",
+    "wof:geomhash":"6f376bfa3fbfb655f473b0ba3cd1f5dd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "neighbourhood_id":85781671,
+            "region_id":85687179,
             "venue_id":202614317
         }
     ],
     "wof:id":202614317,
-    "wof:lastmodified":1473798695,
+    "wof:lastmodified":1496776740,
     "wof:name":"McRaeway Homes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781671,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"177.995911,-38.656784,177.995911,-38.656784",
     "geom:latitude":-38.656784,
     "geom:longitude":177.995911,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ALCubF5QGIdmjuA53TH5Y_-38.656784_177.995911@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a0712fc26f7e6b877c425c1f28f3f544",
+    "wof:geomhash":"8e65773b9833973503ecccba72ec0abc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":220096423
         }
     ],
     "wof:id":220096423,
-    "wof:lastmodified":1473798599,
+    "wof:lastmodified":1496776127,
     "wof:name":"Elgin Bakery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

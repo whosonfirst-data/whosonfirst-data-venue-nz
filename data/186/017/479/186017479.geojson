@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.327866,-35.692951,174.327866,-35.692951",
     "geom:latitude":-35.692951,
     "geom:longitude":174.327866,
@@ -32,9 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687149,
         102191583,
         85633345,
-        101914901,
+        101914253,
+        102079257,
         85781183
     ],
     "wof:breaches":[],
@@ -42,20 +45,20 @@
         "sg:id":"SG_168DpKR6i0PGvaJBwSmAUa_-35.692951_174.327866@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2359026026f01ca043b2618300c4c1a5",
+    "wof:geomhash":"c0f25240e1a6264fd86b7900cfae0aa9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914901,
+            "county_id":102079257,
+            "locality_id":101914253,
             "neighbourhood_id":85781183,
-            "region_id":-1,
+            "region_id":85687149,
             "venue_id":186017479
         }
     ],
     "wof:id":186017479,
-    "wof:lastmodified":1473798565,
+    "wof:lastmodified":1496775337,
     "wof:name":"Prestige Hire",
     "wof:parent_id":85781183,
     "wof:placetype":"venue",

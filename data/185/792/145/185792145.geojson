@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.60144,-40.353882,175.60144,-40.353882",
     "geom:latitude":-40.353882,
     "geom:longitude":175.60144,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_7Fq896Z2u5AB7zX6TpOE8W_-40.353882_175.601440@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f4e46c3e3042498deaf2f9dba0b61b3f",
+    "wof:geomhash":"c7a84c82228a365565c626d546b8601b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":185792145
         }
     ],
     "wof:id":185792145,
-    "wof:lastmodified":1473798637,
+    "wof:lastmodified":1496775741,
     "wof:name":"Shand China & Folk Art",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

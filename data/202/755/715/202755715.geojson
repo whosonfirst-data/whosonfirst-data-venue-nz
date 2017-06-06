@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.596817,-43.309277,172.596817,-43.309277",
     "geom:latitude":-43.309277,
     "geom:longitude":172.596817,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914361,
+        102079367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4D2sxzo5e5506fdZVtFbEi_-43.309277_172.596817@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c1b935df0ec5522112b07ec786f98a88",
+    "wof:geomhash":"1a81c9c4ae09e32dd1ffd34c22c32257",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079367,
+            "locality_id":101914361,
+            "region_id":85687179,
             "venue_id":202755715
         }
     ],
     "wof:id":202755715,
-    "wof:lastmodified":1473798723,
+    "wof:lastmodified":1496775913,
     "wof:name":"Wiltshire on Victoria Rest Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

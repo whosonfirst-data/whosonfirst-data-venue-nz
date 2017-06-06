@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.886032,-41.21986,174.886032,-41.21986",
     "geom:latitude":-41.21986,
     "geom:longitude":174.886032,
@@ -23,7 +24,12 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687233,
+        102191583,
         85633345,
+        101914411,
+        102079337,
+        85780825,
         85782489
     ],
     "wof:breaches":[],
@@ -34,19 +40,28 @@
     "wof:geomhash":"2d928bcb5341407216b551171021c7ab",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914411,
+            "neighbourhood_id":85780825,
+            "region_id":85687233,
+            "venue_id":219772741
+        },
+        {
             "continent_id":-1,
             "country_id":85633345,
             "county_id":-1,
             "locality_id":-1,
             "neighbourhood_id":85782489,
-            "region_id":-1,
+            "region_id":85687233,
             "venue_id":219772741
         }
     ],
     "wof:id":219772741,
-    "wof:lastmodified":1473798785,
+    "wof:lastmodified":1491895559,
     "wof:name":"Gee Ventures",
-    "wof:parent_id":85782489,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

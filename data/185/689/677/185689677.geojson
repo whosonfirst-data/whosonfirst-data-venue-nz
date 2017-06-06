@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.897095,-41.111286,174.897095,-41.111286",
     "geom:latitude":-41.111286,
     "geom:longitude":174.897095,
@@ -23,29 +24,33 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079317,
+        85778715
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ks3125BQ75YfvglGeam9B_-41.111286_174.897095@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d9b0a61b4f1b0adb4c6c9d75d6131ff9",
+    "wof:geomhash":"e9bf3be2129d29adff5dc28413b364c2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079317,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778715,
+            "region_id":85687233,
             "venue_id":185689677
         }
     ],
     "wof:id":185689677,
-    "wof:lastmodified":1473798598,
+    "wof:lastmodified":1496776407,
     "wof:name":"The Young New Zealanders",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.746948,-41.287273,174.746948,-41.287273",
     "geom:latitude":-41.287273,
     "geom:longitude":174.746948,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2A4gTOQYhButC1884nT1a7_-41.287273_174.746948@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4c64fdd88e0728d52870ca0d99ac0170",
+    "wof:geomhash":"81a3adcebf3051d84784419637be257f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772989,
+            "region_id":85687233,
             "venue_id":220123475
         }
     ],
     "wof:id":220123475,
-    "wof:lastmodified":1473798602,
+    "wof:lastmodified":1496775830,
     "wof:name":"Kalamata Delicatessen & Caterers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

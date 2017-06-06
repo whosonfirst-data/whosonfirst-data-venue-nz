@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.915894,-36.929569,174.915894,-36.929569",
     "geom:latitude":-36.929569,
     "geom:longitude":174.915894,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101915169,
+        102079403,
+        85780871
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +48,19 @@
     "wof:geomhash":"fdeb2977e4992ebf9f049863664bbe6f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101915169,
+            "neighbourhood_id":85780871,
+            "region_id":85687243,
             "venue_id":220122067
         }
     ],
     "wof:id":220122067,
-    "wof:lastmodified":1473798594,
+    "wof:lastmodified":1491934181,
     "wof:name":"Deli World Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780871,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

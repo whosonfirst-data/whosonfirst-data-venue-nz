@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.729294,-36.81216,174.729294,-36.81216",
     "geom:latitude":-36.81216,
     "geom:longitude":174.729294,
@@ -34,7 +35,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         85633345,
+        102079403,
         85778355
     ],
     "wof:breaches":[],
@@ -47,15 +50,15 @@
         {
             "continent_id":-1,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85778355,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":185960775
         }
     ],
     "wof:id":185960775,
-    "wof:lastmodified":1473798688,
+    "wof:lastmodified":1491922290,
     "wof:name":"Performance Lab Intl",
     "wof:parent_id":85778355,
     "wof:placetype":"venue",

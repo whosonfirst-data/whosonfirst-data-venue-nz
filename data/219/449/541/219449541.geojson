@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.742828,-36.764454,174.742828,-36.764454",
     "geom:latitude":-36.764454,
     "geom:longitude":174.742828,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778285
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O2LXk9Z2chgCUVOzd94Jb_-36.764454_174.742828@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9edd97820a6a3f034d586f08de80d48e",
+    "wof:geomhash":"0fc89d383ce84e28561f7fef9cef8cbd",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778285,
+            "region_id":85687243,
             "venue_id":219449541
         }
     ],
     "wof:id":219449541,
-    "wof:lastmodified":1473798714,
+    "wof:lastmodified":1496777116,
     "wof:name":"Honda Riders Club NZ",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778285,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

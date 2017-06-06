@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.722641,-43.600784,172.722641,-43.600784",
     "geom:latitude":-43.600784,
     "geom:longitude":172.722641,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-328 8882",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914667,
+        102079401
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BLr3T3fqJvLmApOrIZL6s_-43.600784_172.722641@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2a723f382af6ba0929efd02ecdeed353",
+    "wof:geomhash":"e8039306f8f0b128569536fb0bc7d219",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914667,
+            "region_id":85687179,
             "venue_id":202973831
         }
     ],
     "wof:id":202973831,
-    "wof:lastmodified":1473798756,
+    "wof:lastmodified":1496776249,
     "wof:name":"Land Arch Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

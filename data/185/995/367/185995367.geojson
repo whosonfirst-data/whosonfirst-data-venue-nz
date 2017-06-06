@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.518555,-45.89769,170.518555,-45.89769",
     "geom:latitude":-45.89769,
     "geom:longitude":170.518555,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85781647
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QjknEEZu3EbDHcPBICV0V_-45.897690_170.518555@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"66a717b42a82dc10dc5cfa89e6c4d9d1",
+    "wof:geomhash":"3640a90389a13b21ed8e1cfd7cf90de1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85781647,
+            "region_id":85687201,
             "venue_id":185995367
         }
     ],
     "wof:id":185995367,
-    "wof:lastmodified":1473798663,
+    "wof:lastmodified":1496775770,
     "wof:name":"Butler Rev Noel",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

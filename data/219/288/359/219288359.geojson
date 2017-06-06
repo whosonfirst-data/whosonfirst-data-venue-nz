@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.013474,-41.289455,174.013474,-41.289455",
     "geom:latitude":-41.289455,
     "geom:longitude":174.013474,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101915339,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jx4GkEkjujPBCMP7jNvUh_-41.289455_174.013474@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8f913ebbd86af7903551bc1119a172da",
+    "wof:geomhash":"22bd7b3d58c4f78b804c44b0b7452fe8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101915339,
+            "region_id":85687185,
             "venue_id":219288359
         }
     ],
     "wof:id":219288359,
-    "wof:lastmodified":1473798671,
+    "wof:lastmodified":1496776680,
     "wof:name":"Echo Lodge Bed & Breakfast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

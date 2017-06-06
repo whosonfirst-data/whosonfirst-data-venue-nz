@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.595642,-45.871582,170.595642,-45.871582",
     "geom:latitude":-45.871582,
     "geom:longitude":170.595642,
@@ -35,27 +36,30 @@
     "sg:website":"http://telperion.otago.ac.nz:800/physed/personal/neil/topper.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914315,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aUEH1H59oAm5JZxo2JiFk_-45.871582_170.595642@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4a6484b5d5ad2463c21ca18d072b7dd2",
+    "wof:geomhash":"ba635eb4440d167f3514fa62ff5f90df",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914315,
+            "region_id":85687201,
             "venue_id":203394341
         }
     ],
     "wof:id":203394341,
-    "wof:lastmodified":1473798688,
+    "wof:lastmodified":1496775849,
     "wof:name":"The Yacht Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

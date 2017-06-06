@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.08609,-38.689808,176.08609,-38.689808",
     "geom:latitude":-38.689808,
     "geom:longitude":176.08609,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        102079281,
+        85782499
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YVPZ4gE7ako3j8fLgCgYq_-38.689808_176.086090@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cba3b769555a0f304ecaecf91a693b34",
+    "wof:geomhash":"f182b662e46d6bad258e2dc276da938e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782499,
+            "region_id":85687229,
             "venue_id":202716697
         }
     ],
     "wof:id":202716697,
-    "wof:lastmodified":1473798727,
+    "wof:lastmodified":1496775926,
     "wof:name":"AAA Carpet Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

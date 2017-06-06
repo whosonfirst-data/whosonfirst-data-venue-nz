@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.893936,-36.91787,174.893936,-36.91787",
     "geom:latitude":-36.91787,
     "geom:longitude":174.893936,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781291
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mOQjM0ZEjTrh1KFbIRlsI_-36.917870_174.893936@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9d3d4a78093fa34bcc4a171e70f5f7fe",
+    "wof:geomhash":"ae2e45165418b55131a20634d64b2183",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781291,
+            "region_id":85687243,
             "venue_id":220134065
         }
     ],
     "wof:id":220134065,
-    "wof:lastmodified":1473798596,
+    "wof:lastmodified":1496777077,
     "wof:name":"Wildboy Sauce",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

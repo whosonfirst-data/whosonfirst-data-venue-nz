@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.753967,-36.727974,174.753967,-36.727974",
     "geom:latitude":-36.727974,
     "geom:longitude":174.753967,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778477
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZzSx3UjB6BbI78uYuh35Y_-36.727974_174.753967@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d27aac5de7f00aa54a5982602a013a24",
+    "wof:geomhash":"5af8ca7793b50a5907d4464bf08dc61b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778477,
+            "region_id":85687243,
             "venue_id":186120613
         }
     ],
     "wof:id":186120613,
-    "wof:lastmodified":1473798668,
+    "wof:lastmodified":1496775667,
     "wof:name":"Draper Enterprise",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

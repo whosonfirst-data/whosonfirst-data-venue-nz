@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.828461,-41.510769,173.828461,-41.510769",
     "geom:latitude":-41.510769,
     "geom:longitude":173.828461,
@@ -23,27 +24,30 @@
     "sg:province":"Marlborough",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101916001,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57OtYJ6S3TfLZRClOfiT0g_-41.510769_173.828461@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b2e10351c9b6cfdc8ebdb96b620c47e7",
+    "wof:geomhash":"fdce931575c6b9d06123567b2d77830f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101916001,
+            "region_id":85687185,
             "venue_id":186208855
         }
     ],
     "wof:id":186208855,
-    "wof:lastmodified":1473798713,
+    "wof:lastmodified":1496776872,
     "wof:name":"Dashwood Timber Renwick Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.743958,-36.848568,174.743958,-36.848568",
     "geom:latitude":-36.848568,
     "geom:longitude":174.743958,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Ntkbi5tHqVKP0pB61vWDB_-36.848568_174.743958@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"09923bf2c4467d635386abc5a6ad8955",
+    "wof:geomhash":"057e5ec47e38d3b12675442b33fb6272",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782035,
+            "region_id":85687243,
             "venue_id":202595285
         }
     ],
     "wof:id":202595285,
-    "wof:lastmodified":1473798691,
+    "wof:lastmodified":1496775645,
     "wof:name":"Milly's Kitchen Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

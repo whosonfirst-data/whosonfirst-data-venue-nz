@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.76091,-36.886002,174.76091,-36.886002",
     "geom:latitude":-36.886002,
     "geom:longitude":174.76091,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778855
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36bXuVw9rDG04fGg5rcO8J_-36.886002_174.760910@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"76f639f10ac031796abeb0147a627083",
+    "wof:geomhash":"93fac825ec30e58d8fd504765726ea6f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778855,
+            "region_id":85687243,
             "venue_id":169754915
         }
     ],
     "wof:id":169754915,
-    "wof:lastmodified":1473798648,
+    "wof:lastmodified":1496775507,
     "wof:name":"Mainly Toys",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

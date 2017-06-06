@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.19574,-44.382561,171.19574,-44.382561",
     "geom:latitude":-44.382561,
     "geom:longitude":171.19574,
@@ -23,27 +24,30 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RkbY1ZhwryMtrig4tXCUS_-44.382561_171.195740@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"340c188de6d56f75bb234362f2414be8",
+    "wof:geomhash":"50f788e5502f0ce5667ad102199b67b7",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "region_id":85687179,
             "venue_id":186421361
         }
     ],
     "wof:id":186421361,
-    "wof:lastmodified":1473798749,
+    "wof:lastmodified":1496776750,
     "wof:name":"Window Maintenance Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

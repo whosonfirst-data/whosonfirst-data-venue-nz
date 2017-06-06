@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.346268,-45.875233,170.346268,-45.875233",
     "geom:latitude":-45.875233,
     "geom:longitude":170.346268,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914505,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fHGr189msuFIMKyg4U0QA_-45.875233_170.346268@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"62e17c85650c6d0aae17dbdf25dfbc69",
+    "wof:geomhash":"114df0170d0691d73b46de95fb004c66",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914505,
+            "region_id":85687201,
             "venue_id":202439361
         }
     ],
     "wof:id":202439361,
-    "wof:lastmodified":1473798626,
+    "wof:lastmodified":1496776001,
     "wof:name":"Dick Peter L & Peter S",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

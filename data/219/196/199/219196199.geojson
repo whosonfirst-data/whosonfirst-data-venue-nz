@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.147034,-37.669857,175.147034,-37.669857",
     "geom:latitude":-37.669857,
     "geom:longitude":175.147034,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-824 7438",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914465,
+        102079265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74P5Om18wgnx2gArjs9E8y_-37.669857_175.147034@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ec24ae05eb81fbe18558f7befef650c2",
+    "wof:geomhash":"5e656762e6060c98f78ac101523b2559",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101914465,
+            "region_id":85687229,
             "venue_id":219196199
         }
     ],
     "wof:id":219196199,
-    "wof:lastmodified":1473798598,
+    "wof:lastmodified":1496775986,
     "wof:name":"Ngaruawahia Taxis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

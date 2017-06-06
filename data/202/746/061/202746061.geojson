@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.596893,-40.350948,175.596893,-40.350948",
     "geom:latitude":-40.350948,
     "geom:longitude":175.596893,
@@ -35,9 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -45,20 +48,20 @@
         "sg:id":"SG_0Gz78xanwkC38QfpJD3P4b_-40.350948_175.596893@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c88b7f127b5f3427e693748ff1639055",
+    "wof:geomhash":"64954bce1cfe4abdf2d7b6b5e45909bc",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":202746061
         }
     ],
     "wof:id":202746061,
-    "wof:lastmodified":1473798720,
+    "wof:lastmodified":1496775748,
     "wof:name":"Masonic Court Home for the Elderly",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

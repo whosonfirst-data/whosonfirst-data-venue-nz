@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.77533,-36.888248,174.77533,-36.888248",
     "geom:latitude":-36.888248,
     "geom:longitude":174.77533,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2skOmUatnOP7vF4q5vple1_-36.888248_174.775330@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5b00333860ee7c5b7718cced246d519c",
+    "wof:geomhash":"0f7518add97c12a6569ed9e99b7018eb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782389,
+            "region_id":85687243,
             "venue_id":219670669
         }
     ],
     "wof:id":219670669,
-    "wof:lastmodified":1473798789,
+    "wof:lastmodified":1496775638,
     "wof:name":"Accurate Auto Glass Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

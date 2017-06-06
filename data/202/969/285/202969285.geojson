@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.169434,-36.948818,175.169434,-36.948818",
     "geom:latitude":-36.948818,
     "geom:longitude":175.169434,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914557,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Rm8f6pRywMmLJZVnFtQOh_-36.948818_175.169434@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d2537f7eb2d73befc9cd1e18a28b1664",
+    "wof:geomhash":"37fd4740d5ef4b262619b464ad15800e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914557,
+            "region_id":85687243,
             "venue_id":202969285
         }
     ],
     "wof:id":202969285,
-    "wof:lastmodified":1473798751,
+    "wof:lastmodified":1496776105,
     "wof:name":"Growable Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

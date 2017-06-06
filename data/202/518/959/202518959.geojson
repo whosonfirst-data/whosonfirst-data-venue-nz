@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.887894,-37.027493,174.887894,-37.027493",
     "geom:latitude":-37.027493,
     "geom:longitude":174.887894,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914625,
+        102079403,
+        85782445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IKTHBeAjRfAJ0ZnLWPZ5w_-37.027493_174.887894@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"457080d4069fbdab1c25dff730182649",
+    "wof:geomhash":"f5b49e87a5c92df43176900f63f225b6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914625,
+            "neighbourhood_id":85782445,
+            "region_id":85687243,
             "venue_id":202518959
         }
     ],
     "wof:id":202518959,
-    "wof:lastmodified":1473798693,
+    "wof:lastmodified":1496776150,
     "wof:name":"Leabank Health Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

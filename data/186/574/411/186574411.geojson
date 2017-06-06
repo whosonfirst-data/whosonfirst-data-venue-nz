@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.042023,-41.127323,175.042023,-41.127323",
     "geom:latitude":-41.127323,
     "geom:longitude":175.042023,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914809,
+        102079335,
+        85780783
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ELEAOrpdZwt7KLMcG6rSj_-41.127323_175.042023@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2286df90b5641ab86f1f4cd0f20c1cd4",
+    "wof:geomhash":"cb3cf5daaf64fb9a21f239154c360109",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079335,
+            "locality_id":101914809,
+            "neighbourhood_id":85780783,
+            "region_id":85687233,
             "venue_id":186574411
         }
     ],
     "wof:id":186574411,
-    "wof:lastmodified":1473798761,
+    "wof:lastmodified":1496776349,
     "wof:name":"Trentham School Dental Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-77.062943,38.807781,-77.062943,38.807781",
     "geom:latitude":38.807781,
     "geom:longitude":-77.062943,
@@ -34,9 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688747,
+        102191575,
         85633793,
         101728581,
-        102080641
+        102080641,
+        420781829
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,19 @@
     "wof:geomhash":"fe45dc2c7a3c6e85414d49e0ef05721c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080641,
             "locality_id":101728581,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420781829,
             "region_id":85688747,
             "venue_id":220134935
         }
     ],
     "wof:id":220134935,
-    "wof:lastmodified":1473798607,
+    "wof:lastmodified":1490398743,
     "wof:name":"Central Foods",
-    "wof:parent_id":-1,
+    "wof:parent_id":420781829,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

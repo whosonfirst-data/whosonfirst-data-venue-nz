@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.347534,-46.401073,168.347534,-46.401073",
     "geom:latitude":-46.401073,
     "geom:longitude":168.347534,
@@ -23,29 +24,34 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781431
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pRTyIxrhWzjKeW7T9t52M_-46.401073_168.347534@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f9fb4248e7b245440748a95d90aae020",
+    "wof:geomhash":"1b237375d9af9c8fa217df5b9ddb2823",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781431,
+            "region_id":85687211,
             "venue_id":203415051
         }
     ],
     "wof:id":203415051,
-    "wof:lastmodified":1473798704,
+    "wof:lastmodified":1496776728,
     "wof:name":"BHM Electronics Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

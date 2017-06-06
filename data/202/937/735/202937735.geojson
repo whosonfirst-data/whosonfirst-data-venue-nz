@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.697067,-36.900112,174.697067,-36.900112",
     "geom:latitude":-36.900112,
     "geom:longitude":174.697067,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778827
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67HnmF4dVZkCSNm4q5P4Nt_-36.900112_174.697067@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"af027f1ef75e2b686eea3da3bdd73da6",
+    "wof:geomhash":"012cf1d7c70620e65fd5c87c3f3c6dab",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778827,
+            "region_id":85687243,
             "venue_id":202937735
         }
     ],
     "wof:id":202937735,
-    "wof:lastmodified":1473798755,
+    "wof:lastmodified":1496775613,
     "wof:name":"Auckland Hydroponic Centre Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

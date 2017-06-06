@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.886856,-37.02272,174.886856,-37.02272",
     "geom:latitude":-37.02272,
     "geom:longitude":174.886856,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914625,
+        102079403,
+        85782445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mBHNruwuwHmHwG4Zniigi_-37.022720_174.886856@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"baa75fa9fa474e29319e350f5d1e1150",
+    "wof:geomhash":"65f27bdd345dbdf4767a95f214e6ceff",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914625,
+            "neighbourhood_id":85782445,
+            "region_id":85687243,
             "venue_id":220067861
         }
     ],
     "wof:id":220067861,
-    "wof:lastmodified":1473798600,
+    "wof:lastmodified":1496776146,
     "wof:name":"Russell Rd Liquor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

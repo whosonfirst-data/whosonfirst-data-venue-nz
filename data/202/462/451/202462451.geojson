@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.796005,-36.89492,174.796005,-36.89492",
     "geom:latitude":-36.89492,
     "geom:longitude":174.796005,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778331
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jcJnRuS6PH9OSb3jASVdf_-36.894920_174.796005@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"361a4c4a453841033f146130238abb55",
+    "wof:geomhash":"9ae4cfc2e3e22f3864436f4d817f3f14",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778331,
+            "region_id":85687243,
             "venue_id":202462451
         }
     ],
     "wof:id":202462451,
-    "wof:lastmodified":1473798702,
+    "wof:lastmodified":1496775665,
     "wof:name":"Matai House",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778331,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

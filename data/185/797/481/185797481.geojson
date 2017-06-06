@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.776321,-41.259392,174.776321,-41.259392",
     "geom:latitude":-41.259392,
     "geom:longitude":174.776321,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85773265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_598Syk8wU6MnSU0M1Q5IKV_-41.259392_174.776321@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"dc8677996c5372b58cd309765c53005f",
+    "wof:geomhash":"11c565bf755b3fc253f4e00a79647a6d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85773265,
+            "region_id":85687233,
             "venue_id":185797481
         }
     ],
     "wof:id":185797481,
-    "wof:lastmodified":1473798630,
+    "wof:lastmodified":1496775804,
     "wof:name":"Family Finders",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773265,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

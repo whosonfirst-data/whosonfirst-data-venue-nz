@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.811768,-41.220196,174.811768,-41.220196",
     "geom:latitude":-41.220196,
     "geom:longitude":174.811768,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85781039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Wa7Gw6mOWBw8oJBR4fdPg_-41.220196_174.811768@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"5553154111836f08b0fd9bd903d48764",
+    "wof:geomhash":"7f7f4d5611be5431d284c37efcacd700",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85781039,
+            "region_id":85687233,
             "venue_id":202401703
         }
     ],
     "wof:id":202401703,
-    "wof:lastmodified":1473798563,
+    "wof:lastmodified":1496775815,
     "wof:name":"Cashmere Hospital",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

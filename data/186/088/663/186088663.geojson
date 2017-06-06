@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.587357,-43.517143,172.587357,-43.517143",
     "geom:latitude":-43.517143,
     "geom:longitude":172.587357,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778211
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aFK5QazLMcF8C6FPnhWl4_-43.517143_172.587357@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"49af5eaec918ca4176d92d8b4d5467f3",
+    "wof:geomhash":"218a6b2656f17ba48df3af326f65b7e2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778211,
+            "region_id":85687179,
             "venue_id":186088663
         }
     ],
     "wof:id":186088663,
-    "wof:lastmodified":1473798663,
+    "wof:lastmodified":1496776091,
     "wof:name":"Pudney & Lee Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

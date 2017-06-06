@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.846848,-40.454205,175.846848,-40.454205",
     "geom:latitude":-40.454205,
     "geom:longitude":175.846848,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101915205,
+        102079309
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wTJXMQoBtcYoynqTv4jfx_-40.454205_175.846848@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"098164f2743f248ab310cb77c3ed28e0",
+    "wof:geomhash":"c453737a2d343cc3239d7edc6772da85",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079309,
+            "locality_id":101915205,
+            "region_id":85687251,
             "venue_id":236043949
         }
     ],
     "wof:id":236043949,
-    "wof:lastmodified":1473798577,
+    "wof:lastmodified":1496776634,
     "wof:name":"Lonsdale Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.802521,-36.838161,175.802521,-36.838161",
     "geom:latitude":-36.838161,
     "geom:longitude":175.802521,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915129,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4v28BB0p5j2wWGQ1qCP5XM_-36.838161_175.802521@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"04c658da863b81b58084a9babce786f5",
+    "wof:geomhash":"b8395a5683f6707c5d0c80b111796ed4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101915129,
+            "region_id":85687229,
             "venue_id":219746629
         }
     ],
     "wof:id":219746629,
-    "wof:lastmodified":1473798791,
+    "wof:lastmodified":1496776547,
     "wof:name":"Hahei Auto Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

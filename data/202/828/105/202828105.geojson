@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.270325,-39.535904,174.270325,-39.535904",
     "geom:latitude":-39.535904,
     "geom:longitude":174.270325,
@@ -23,27 +24,30 @@
     "sg:province":"Taranaki",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687195,
+        102191583,
+        85633345,
+        101914265,
+        102079295
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FD6U62fIQ9SnLZ7g0e8DH_-39.535904_174.270325@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9b84bfcadc35af6a60a7820a11411e49",
+    "wof:geomhash":"5bff74f60643b05968b48aa6ae5b38cb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079295,
+            "locality_id":101914265,
+            "region_id":85687195,
             "venue_id":202828105
         }
     ],
     "wof:id":202828105,
-    "wof:lastmodified":1473798739,
+    "wof:lastmodified":1496775752,
     "wof:name":"Furniture & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

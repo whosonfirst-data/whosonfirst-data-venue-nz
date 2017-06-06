@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.850311,-36.978245,174.850311,-36.978245",
     "geom:latitude":-36.978245,
     "geom:longitude":174.850311,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914257,
+        102079403,
         85778947
     ],
     "wof:breaches":[],
@@ -43,20 +47,20 @@
         "sg:id":"SG_0p6xdI94ToyCtBEJHqy1P7_-36.978245_174.850311@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f476921cbdeaea003daa58dab448178e",
+    "wof:geomhash":"54b10d06e2db8b952d4828f3c561fc82",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914257,
             "neighbourhood_id":85778947,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":203216933
         }
     ],
     "wof:id":203216933,
-    "wof:lastmodified":1473798660,
+    "wof:lastmodified":1496775454,
     "wof:name":"Southside Recycling Centre",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",

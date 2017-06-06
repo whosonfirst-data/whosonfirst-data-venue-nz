@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.525879,-41.021233,175.525879,-41.021233",
     "geom:latitude":-41.021233,
     "geom:longitude":175.525879,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101915629,
+        102079345
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UueUFgDBVkpwKGZOxyb1g_-41.021233_175.525879@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bed94296a0a878ec714b99fa2e6a5bba",
+    "wof:geomhash":"50c294a161485a20da75852ff39d334f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079345,
+            "locality_id":101915629,
+            "region_id":85687233,
             "venue_id":203245051
         }
     ],
     "wof:id":203245051,
-    "wof:lastmodified":1473798701,
+    "wof:lastmodified":1496776817,
     "wof:name":"Barbara's Costume Hire & Accessories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.775925,-36.88306,174.775925,-36.88306",
     "geom:latitude":-36.88306,
     "geom:longitude":174.775925,
@@ -32,29 +33,33 @@
     "sg:website":"http://www.naturalmedicine.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_430w92y1sVQeMTZRBfnRag_-36.883060_174.775925@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7c4f1545e8bdc44322ffb8bc2b8c32f5",
+    "wof:geomhash":"ccef47e69c1be15182d3f03f63f1c9f2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782389,
+            "region_id":85687243,
             "venue_id":186622151
         }
     ],
     "wof:id":186622151,
-    "wof:lastmodified":1473798771,
+    "wof:lastmodified":1496775625,
     "wof:name":"Acacia Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

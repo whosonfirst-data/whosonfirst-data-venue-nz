@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"177.996399,-38.657047,177.996399,-38.657047",
     "geom:latitude":-38.657047,
     "geom:longitude":177.996399,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RO1gDXdwH6AzunMn9HDgg_-38.657047_177.996399@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2518edd4ff758b12a7074be84fe99b9e",
+    "wof:geomhash":"f1e1e44ca48dc5b8fa5ec522fcdb9fa6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":169729797
         }
     ],
     "wof:id":169729797,
-    "wof:lastmodified":1473798612,
+    "wof:lastmodified":1496776125,
     "wof:name":"Buyrite Discount Store Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

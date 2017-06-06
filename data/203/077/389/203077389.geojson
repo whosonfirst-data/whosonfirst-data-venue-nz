@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.825317,-39.623302,176.825317,-39.623302",
     "geom:latitude":-39.623302,
     "geom:longitude":176.825317,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914313,
+        102079329,
+        85781711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CK8739oErsgCwBuqn1joS_-39.623302_176.825317@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6142ef33dc91fe6b13eae99bdfef2383",
+    "wof:geomhash":"c3b6fc074adede4073fe9f01101e4d75",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914313,
+            "neighbourhood_id":85781711,
+            "region_id":85687189,
             "venue_id":203077389
         }
     ],
     "wof:id":203077389,
-    "wof:lastmodified":1473798621,
+    "wof:lastmodified":1496775848,
     "wof:name":"Clear Water Pool Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

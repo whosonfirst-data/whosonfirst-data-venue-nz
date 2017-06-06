@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.485458,-45.898411,170.485458,-45.898411",
     "geom:latitude":-45.898411,
     "geom:longitude":170.485458,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85772879
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gR37IvWQXmk2N7sw3QZLx_-45.898411_170.485458@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b21bd0152ddd43a66224b95a743e785b",
+    "wof:geomhash":"d9eaf04211a0244b5d73561d7caef8e2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85772879,
+            "region_id":85687201,
             "venue_id":202878733
         }
     ],
     "wof:id":202878733,
-    "wof:lastmodified":1473798765,
+    "wof:lastmodified":1496775759,
     "wof:name":"Ingram Upholstery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772879,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.258575,-41.27597,173.258575,-41.27597",
     "geom:latitude":-41.27597,
     "geom:longitude":173.258575,
@@ -36,29 +37,34 @@
     "sg:website":"http://www.rainbowreading.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        101915555,
+        102079351,
+        85781571
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jdZpcHbiGX6bu75K7ZrX7_-41.275970_173.258575@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e92eaf5fbe096a49acdeb591e0da884f",
+    "wof:geomhash":"93ad4cd023def37afad6754eff6eb086",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":101915555,
+            "neighbourhood_id":85781571,
+            "region_id":85687157,
             "venue_id":219529325
         }
     ],
     "wof:id":219529325,
-    "wof:lastmodified":1473798727,
+    "wof:lastmodified":1496776779,
     "wof:name":"Rainbow Reading Programme Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.683441,-40.946236,175.683441,-40.946236",
     "geom:latitude":-40.946236,
     "geom:longitude":175.683441,
@@ -23,29 +24,33 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079343,
+        85780973
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EbaHTuGTOSuPBbNQPbWse_-40.946236_175.683441@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2cfa46eea9975e4f742318845efeb8b6",
+    "wof:geomhash":"32f7641f33231e54cb8eca693ab01da4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079343,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780973,
+            "region_id":85687233,
             "venue_id":202844505
         }
     ],
     "wof:id":202844505,
-    "wof:lastmodified":1473798728,
+    "wof:lastmodified":1496776761,
     "wof:name":"The Curtain Cottage",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

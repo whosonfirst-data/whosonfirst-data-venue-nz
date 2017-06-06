@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.330795,-45.947666,170.330795,-45.947666",
     "geom:latitude":-45.947666,
     "geom:longitude":170.330795,
@@ -23,27 +24,30 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915365,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HczMoUcF1NHATYxbTTi0r_-45.947666_170.330795@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"04405bf0b72249398a0bc676b854fcd6",
+    "wof:geomhash":"13a7a95d0f524b078de4914fe4103252",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101915365,
+            "region_id":85687201,
             "venue_id":185754777
         }
     ],
     "wof:id":185754777,
-    "wof:lastmodified":1473798615,
+    "wof:lastmodified":1496776705,
     "wof:name":"Brighton Club Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.875153,-39.667999,176.875153,-39.667999",
     "geom:latitude":-39.667999,
     "geom:longitude":176.875153,
@@ -23,27 +24,30 @@
     "sg:province":"Hawke's Bay",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914661,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iJdA4MMLwUy6ZEcBU3l10_-39.667999_176.875153@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"0ea90dfefff97859b923b8de05b59e7b",
+    "wof:geomhash":"1cc372831c05fa43102e24672ee2c647",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914661,
+            "region_id":85687189,
             "venue_id":219948419
         }
     ],
     "wof:id":219948419,
-    "wof:lastmodified":1473798788,
+    "wof:lastmodified":1496776237,
     "wof:name":"AnimalCare (2002) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

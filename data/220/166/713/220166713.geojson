@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.269897,-41.281052,173.269897,-41.281052",
     "geom:latitude":-41.281052,
     "geom:longitude":173.269897,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        101915555,
+        102079351,
+        85781551
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vjpuxY0k8jlNaZ8gv8oEr_-41.281052_173.269897@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"376ab7ea370730c72c19ee792940100b",
+    "wof:geomhash":"78f955f34ce0b0dcadd1ada41ad71a1b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":101915555,
+            "neighbourhood_id":85781551,
+            "region_id":85687157,
             "venue_id":220166713
         }
     ],
     "wof:id":220166713,
-    "wof:lastmodified":1473798634,
+    "wof:lastmodified":1496776782,
     "wof:name":"Michaels Industries",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

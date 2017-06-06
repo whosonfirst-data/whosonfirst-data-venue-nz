@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.890259,-41.217472,174.890259,-41.217472",
     "geom:latitude":-41.217472,
     "geom:longitude":174.890259,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914411,
+        102079337,
+        85780825
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WtsDCtIfOsjHHLDuehC0C_-41.217472_174.890259@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a0d9eacb307455dc252d1d70561fc83a",
+    "wof:geomhash":"35a71210d913ddd494708f1ec33cf1fc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914411,
+            "neighbourhood_id":85780825,
+            "region_id":85687233,
             "venue_id":219669771
         }
     ],
     "wof:id":219669771,
-    "wof:lastmodified":1473798789,
+    "wof:lastmodified":1496775945,
     "wof:name":"Rex Wheels & Castors Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

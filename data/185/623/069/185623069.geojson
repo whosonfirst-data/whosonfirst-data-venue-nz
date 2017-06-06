@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.783142,-37.812466,175.783142,-37.812466",
     "geom:latitude":-37.812466,
     "geom:longitude":175.783142,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915135,
+        102079267
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6diGVHaiiyn5xVFgwTGGt0_-37.812466_175.783142@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c251d39f1e68695780ec0a634685308d",
+    "wof:geomhash":"e34067664549dd747f55beb11f3e0fba",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101915135,
+            "region_id":85687229,
             "venue_id":185623069
         }
     ],
     "wof:id":185623069,
-    "wof:lastmodified":1473798566,
+    "wof:lastmodified":1496776565,
     "wof:name":"Firth Tower Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

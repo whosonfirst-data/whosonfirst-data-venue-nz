@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.819397,-38.00983,174.819397,-38.00983",
     "geom:latitude":-38.00983,
     "geom:longitude":174.819397,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 800872695465",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101916413,
+        102079275
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05TiRt6TTxYgmI43AUK2uw_-38.009830_174.819397@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"df5afa6db449c241efefe800ec894437",
+    "wof:geomhash":"e9b4ac0707e798e0e139a9b7ac465948",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079275,
+            "locality_id":101916413,
+            "region_id":85687229,
             "venue_id":219222143
         }
     ],
     "wof:id":219222143,
-    "wof:lastmodified":1473798649,
+    "wof:lastmodified":1496776909,
     "wof:name":"Tranz Rail Limited",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

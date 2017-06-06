@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.786484,-46.314644,168.786484,-46.314644",
     "geom:latitude":-46.314644,
     "geom:longitude":168.786484,
@@ -35,27 +36,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915723,
+        102079391
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qzUjoYGTvAvMDAWJu8mqA_-46.314644_168.786484@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3b6e721e2d153c5e53f58b489ba8f491",
+    "wof:geomhash":"397c02b6aa180ff0a891447754f95b9d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079391,
+            "locality_id":101915723,
+            "region_id":85687211,
             "venue_id":203114827
         }
     ],
     "wof:id":203114827,
-    "wof:lastmodified":1473798628,
+    "wof:lastmodified":1496776837,
     "wof:name":"Vicki Mae Stenton-Photographer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

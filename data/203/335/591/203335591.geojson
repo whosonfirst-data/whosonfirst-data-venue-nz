@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.347427,-46.374516,168.347427,-46.374516",
     "geom:latitude":-46.374516,
     "geom:longitude":168.347427,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uGEUl4GyjcmfwVq74OJkD_-46.374516_168.347427@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"27f5cd7d9c8f58a74ed0cab3864a55d3",
+    "wof:geomhash":"ff63c22a7a54668cfa4d4609f3726bcc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":203335591
         }
     ],
     "wof:id":203335591,
-    "wof:lastmodified":1473798687,
+    "wof:lastmodified":1496776713,
     "wof:name":"McLean L R & Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

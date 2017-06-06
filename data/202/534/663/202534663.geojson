@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.07515,-38.688961,176.07515,-38.688961",
     "geom:latitude":-38.688961,
     "geom:longitude":176.07515,
@@ -23,29 +24,33 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        102079281,
+        85782499
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UHJVmEEyBMZXg4meSyVSb_-38.688961_176.075150@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1c90aaf1209311ed44060a11ef3192af",
+    "wof:geomhash":"151c24b107922bece3a9e296e17cfa87",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079281,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782499,
+            "region_id":85687229,
             "venue_id":202534663
         }
     ],
     "wof:id":202534663,
-    "wof:lastmodified":1473798691,
+    "wof:lastmodified":1496775930,
     "wof:name":"Berkahn Fiona",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

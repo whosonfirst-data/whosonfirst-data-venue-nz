@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.871246,-37.211914,175.871246,-37.211914",
     "geom:latitude":-37.211914,
     "geom:longitude":175.871246,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 7-865 6944",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915149,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XVXFB4SA0O9SYAf70Tcsm_-37.211914_175.871246@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9d8f35151730fbdf0ef8f8f3eb939e18",
+    "wof:geomhash":"1105359c97a6a9bbdc783ffe5b55fb5d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101915149,
+            "region_id":85687229,
             "venue_id":219874053
         }
     ],
     "wof:id":219874053,
-    "wof:lastmodified":1473798775,
+    "wof:lastmodified":1496776581,
     "wof:name":"Trustwood Forests (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

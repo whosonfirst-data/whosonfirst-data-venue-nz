@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.864136,-36.871372,174.864136,-36.871372",
     "geom:latitude":-36.871372,
     "geom:longitude":174.864136,
@@ -33,31 +34,44 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
-        85778303
+        102079403,
+        85778303,
+        101914257,
+        85778295
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dsQnTn0Om98pR9vrNzSDH_-36.871372_174.864136@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2a71c1d79879d069704d28154e08504f",
+    "wof:geomhash":"a3e580d3ec32cb159c9a0e63390e9cf0",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85778303,
-            "region_id":-1,
+            "region_id":85687243,
+            "venue_id":203064969
+        },
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778295,
+            "region_id":85687243,
             "venue_id":203064969
         }
     ],
     "wof:id":203064969,
-    "wof:lastmodified":1473798621,
+    "wof:lastmodified":1496775679,
     "wof:name":"Trellis Trendz Ltd",
-    "wof:parent_id":85778303,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

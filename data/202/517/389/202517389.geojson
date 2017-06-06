@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.639252,-36.804337,174.639252,-36.804337",
     "geom:latitude":-36.804337,
     "geom:longitude":174.639252,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914257,
+        102079403,
         85778731
     ],
     "wof:breaches":[],
@@ -43,20 +47,20 @@
         "sg:id":"SG_4DlvePUZU5MEn49yW4BLQU_-36.804337_174.639252@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3debd5725bb81335ebe51f1a1ee39775",
+    "wof:geomhash":"3b5bd7240ffc9a48d38016d18f22b7ca",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914257,
             "neighbourhood_id":85778731,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202517389
         }
     ],
     "wof:id":202517389,
-    "wof:lastmodified":1473798687,
+    "wof:lastmodified":1496775642,
     "wof:name":"Hobsonville Medical Centre",
     "wof:parent_id":85778731,
     "wof:placetype":"venue",

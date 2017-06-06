@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.538986,-45.891258,170.538986,-45.891258",
     "geom:latitude":-45.891258,
     "geom:longitude":170.538986,
@@ -35,29 +36,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387,
+        85778125
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nhi6lhSutz1UvOXLIpukL_-45.891258_170.538986@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a87bd6236b8235e7e2c12734a6514266",
+    "wof:geomhash":"656b4f9620e0e8af384e482128859a00",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "neighbourhood_id":85778125,
+            "region_id":85687201,
             "venue_id":202751635
         }
     ],
     "wof:id":202751635,
-    "wof:lastmodified":1473798718,
+    "wof:lastmodified":1496775770,
     "wof:name":"Somerville Cottage Rest Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778125,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

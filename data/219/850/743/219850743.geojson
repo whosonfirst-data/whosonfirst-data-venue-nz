@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.770157,-37.805782,175.770157,-37.805782",
     "geom:latitude":-37.805782,
     "geom:longitude":175.770157,
@@ -23,27 +24,30 @@
     "sg:province":"Waikato",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915135,
+        102079267
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yhJFxcqsFm4pVDAgY3rqP_-37.805782_175.770157@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cd682cb05f7f135fbf3594c194be72da",
+    "wof:geomhash":"8695e66686bca5fc44c2a188b916aad0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079267,
+            "locality_id":101915135,
+            "region_id":85687229,
             "venue_id":219850743
         }
     ],
     "wof:id":219850743,
-    "wof:lastmodified":1473798777,
+    "wof:lastmodified":1496776563,
     "wof:name":"NZMP Waharoa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

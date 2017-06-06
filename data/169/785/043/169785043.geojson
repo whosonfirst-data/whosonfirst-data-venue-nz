@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.660233,-36.401985,174.660233,-36.401985",
     "geom:latitude":-36.401985,
     "geom:longitude":174.660233,
@@ -36,27 +37,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914751,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pVN102sluvPK0jt655g1Z_-36.401985_174.660233@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fd2efec399e0dabc2154afdd6e710020",
+    "wof:geomhash":"1b3583225e6c0c039b9ec265505e8df9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914751,
+            "region_id":85687243,
             "venue_id":169785043
         }
     ],
     "wof:id":169785043,
-    "wof:lastmodified":1473798655,
+    "wof:lastmodified":1496776315,
     "wof:name":"Warkworth Boat & Fishing Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

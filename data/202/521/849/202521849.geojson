@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.628143,-36.854801,174.628143,-36.854801",
     "geom:latitude":-36.854801,
     "geom:longitude":174.628143,
@@ -34,8 +35,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        102079403,
         85782431
     ],
     "wof:breaches":[],
@@ -48,15 +51,15 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85782431,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202521849
         }
     ],
     "wof:id":202521849,
-    "wof:lastmodified":1473798694,
+    "wof:lastmodified":1491936165,
     "wof:name":"WestKids",
     "wof:parent_id":85782431,
     "wof:placetype":"venue",

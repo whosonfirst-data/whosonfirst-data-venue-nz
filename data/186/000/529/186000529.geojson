@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.980042,-40.930645,174.980042,-40.930645",
     "geom:latitude":-40.930645,
     "geom:longitude":174.980042,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MXADtwfYZsySv8dptVg2a_-40.930645_174.980042@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"aa38651539e0a4346cdca593b056dd5e",
+    "wof:geomhash":"40e04fcddabcd24d68725ee47e752b63",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":186000529
         }
     ],
     "wof:id":186000529,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496776188,
     "wof:name":"Hardy Neville G F JP",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

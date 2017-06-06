@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.176682,-40.039131,175.176682,-40.039131",
     "geom:latitude":-40.039131,
     "geom:longitude":175.176682,
@@ -23,27 +24,30 @@
     "sg:province":"Taranaki",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914763,
+        102079301
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hMrqoud131GVFLu16jUrU_-40.039131_175.176682@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"32c5d0899a733a18623a8854c651795a",
+    "wof:geomhash":"34b8c5f4e3d57c9df535652de7f66cd0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079301,
+            "locality_id":101914763,
+            "region_id":85687251,
             "venue_id":169746205
         }
     ],
     "wof:id":169746205,
-    "wof:lastmodified":1473798615,
+    "wof:lastmodified":1496776317,
     "wof:name":"Taiaroa J N",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.295211792,-35.6845245361,174.295211792,-35.6845245361",
     "geom:latitude":-35.684525,
     "geom:longitude":174.295212,
@@ -18,17 +19,32 @@
     "sg:phone":"+64 9-433 6187",
     "sg:province":"Northland",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uFqTI9gGih8SE9GwuscLh_-35.684525_174.295212@1306270027"
     },
     "wof:country":"NZ",
     "wof:created":1473719360,
-    "wof:geomhash":"aa006922d035ed2ba23d4445b1938534",
-    "wof:hierarchy":[],
+    "wof:geomhash":"12c3784e6b8bd16579a96bb8723eee8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "region_id":85687149,
+            "venue_id":1058996505
+        }
+    ],
     "wof:id":1058996505,
-    "wof:lastmodified":1473719360,
+    "wof:lastmodified":1496775336,
     "wof:name":"Andrew Waterblasting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

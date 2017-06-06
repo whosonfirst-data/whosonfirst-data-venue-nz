@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.296173,-35.684193,174.296173,-35.684193",
     "geom:latitude":-35.684193,
     "geom:longitude":174.296173,
@@ -37,27 +38,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914253,
+        102079257
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wLVamgm1T6vyjJAdt9XyA_-35.684193_174.296173@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"641774438bdac970c7ddb1d7815a113b",
+    "wof:geomhash":"6ee52758be8d0397a56006cede6dc78c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079257,
+            "locality_id":101914253,
+            "region_id":85687149,
             "venue_id":202896105
         }
     ],
     "wof:id":202896105,
-    "wof:lastmodified":1473798770,
+    "wof:lastmodified":1496775334,
     "wof:name":"Kamo Mower & Cycle World",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

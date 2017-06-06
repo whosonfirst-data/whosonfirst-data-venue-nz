@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.806091,-40.848984,172.806091,-40.848984",
     "geom:latitude":-40.848984,
     "geom:longitude":172.806091,
@@ -31,27 +32,30 @@
     "sg:website":"http://www.goldenbaybuilders.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687219,
+        102191583,
+        85633345,
+        101915855,
+        102079349
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aMF3bqDQZsUaz81rfVKno_-40.848984_172.806091@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3dacdd1019915b4d5184dd45694eb773",
+    "wof:geomhash":"7d86336588abc7a8207b3b1b508eee47",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079349,
+            "locality_id":101915855,
+            "region_id":85687219,
             "venue_id":202614823
         }
     ],
     "wof:id":202614823,
-    "wof:lastmodified":1473798700,
+    "wof:lastmodified":1496776850,
     "wof:name":"Paul Crockford Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.812576,-41.22102,174.812576,-41.22102",
     "geom:latitude":-41.22102,
     "geom:longitude":174.812576,
@@ -29,29 +30,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/mctsl/dp24234.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85781039
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tTZXn75i0MiTzbj3qEZqh_-41.221020_174.812576@1306270046"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a26419350702e07e544b096d2c17256f",
+    "wof:geomhash":"4e63bea1bad7d60041fdc3c94acd409c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85781039,
+            "region_id":85687233,
             "venue_id":219825301
         }
     ],
     "wof:id":219825301,
-    "wof:lastmodified":1473798779,
+    "wof:lastmodified":1496775802,
     "wof:name":"Microbiology Consultancy & Testing Services Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

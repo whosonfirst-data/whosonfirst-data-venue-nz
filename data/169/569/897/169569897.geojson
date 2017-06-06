@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.036926,-36.993172,175.036926,-36.993172",
     "geom:latitude":-36.993172,
     "geom:longitude":175.036926,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914783,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RyUah6tNI0mOPczjMCzEL_-36.993172_175.036926@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"00e0fd900886495903c2c9590bc8d88e",
+    "wof:geomhash":"644bd2ab2d64ff4509d45a41ae581a72",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914783,
+            "region_id":85687243,
             "venue_id":169569897
         }
     ],
     "wof:id":169569897,
-    "wof:lastmodified":1473798591,
+    "wof:lastmodified":1496776335,
     "wof:name":"Clevedon Woolshed",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.809128,-36.884655,174.809128,-36.884655",
     "geom:latitude":-36.884655,
     "geom:longitude":174.809128,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778833
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5RohCDmZlwOUTcFZVSnCC2_-36.884655_174.809128@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d885dc6237896c9f93a66e24ce929795",
+    "wof:geomhash":"2a2d43a12293cdc8792ebc3febf34134",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778833,
+            "region_id":85687243,
             "venue_id":186195601
         }
     ],
     "wof:id":186195601,
-    "wof:lastmodified":1473798709,
+    "wof:lastmodified":1496775655,
     "wof:name":"Herbert Machine Tools Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.832275,-44.944443,168.832275,-44.944443",
     "geom:latitude":-44.944443,
     "geom:longitude":168.832275,
@@ -24,27 +25,30 @@
     "sg:website":"http://www.lentheloser.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101915303,
+        102079385
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VdYzX0iuO0K3lRaV9oHdl_-44.944443_168.832275@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"13158192e64e34a46828aa7539e3d2e6",
+    "wof:geomhash":"ee2a9cc4fb5bd6a1c1d64a5bd20d4f16",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079385,
+            "locality_id":101915303,
+            "region_id":85687201,
             "venue_id":185686591
         }
     ],
     "wof:id":185686591,
-    "wof:lastmodified":1473798601,
+    "wof:lastmodified":1496776660,
     "wof:name":"Len the Loser Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

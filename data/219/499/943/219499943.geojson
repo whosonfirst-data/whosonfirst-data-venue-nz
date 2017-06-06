@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.746735,-41.287334,174.746735,-41.287334",
     "geom:latitude":-41.287334,
     "geom:longitude":174.746735,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_612ydH9vsMkU4ZrctL0Hqi_-41.287334_174.746735@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d06086bec15424f55a0b28e0b1b33668",
+    "wof:geomhash":"c168883238c28f5a4047544c56501505",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772989,
+            "region_id":85687233,
             "venue_id":219499943
         }
     ],
     "wof:id":219499943,
-    "wof:lastmodified":1473798730,
+    "wof:lastmodified":1496775807,
     "wof:name":"Kip McGrath Education Centres",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.891281,-36.926975,174.891281,-36.926975",
     "geom:latitude":-36.926975,
     "geom:longitude":174.891281,
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
+        102191583,
         85633345,
+        101914255,
+        102079403,
+        85781291,
         85781293
     ],
     "wof:breaches":[],
@@ -44,19 +50,28 @@
     "wof:geomhash":"ca2c3557e5f20a4610dd4c17258075c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914255,
+            "neighbourhood_id":85781291,
+            "region_id":85687243,
+            "venue_id":202595717
+        },
+        {
             "continent_id":-1,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85781293,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":202595717
         }
     ],
     "wof:id":202595717,
-    "wof:lastmodified":1473798695,
+    "wof:lastmodified":1491885135,
     "wof:name":"Hitex Plaster Letterboxes",
-    "wof:parent_id":85781293,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

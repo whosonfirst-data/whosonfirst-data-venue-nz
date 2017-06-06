@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.739517212,-43.1923713684,172.739517212,-43.1923713684",
     "geom:latitude":-43.192371,
     "geom:longitude":172.739517,
@@ -28,17 +29,32 @@
     ],
     "sg:website":"http://www.treeslovepeople.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85687179,
+        102191583,
+        85633345,
+        101915337,
+        102079365
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cYcOzQIAj2Jdym8Znvbe8_-43.192371_172.739517@1306270050"
     },
     "wof:country":"NZ",
     "wof:created":1473719463,
-    "wof:geomhash":"3330ed0e0d7a00d050b6fc6553109f9f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1255d58cce504949842e24b6e19bd0f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079365,
+            "locality_id":101915337,
+            "region_id":85687179,
+            "venue_id":1058997683
+        }
+    ],
     "wof:id":1058997683,
-    "wof:lastmodified":1473719463,
+    "wof:lastmodified":1496776668,
     "wof:name":"Trees Love People Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

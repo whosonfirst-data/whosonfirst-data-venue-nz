@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.868774,-39.50782,176.868774,-39.50782",
     "geom:latitude":-39.50782,
     "geom:longitude":176.868774,
@@ -36,29 +37,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914679,
+        102079331,
+        85781063
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wyRwZJtzMNngZUuVEhy2N_-39.507820_176.868774@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"01face8e474874d29241d4c4dcf1bf6c",
+    "wof:geomhash":"9c877d71fbc60d67f5e42ab02ddd7cba",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101914679,
+            "neighbourhood_id":85781063,
+            "region_id":85687189,
             "venue_id":185916887
         }
     ],
     "wof:id":185916887,
-    "wof:lastmodified":1473798640,
+    "wof:lastmodified":1496776261,
     "wof:name":"Brunsdon School of Dance",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

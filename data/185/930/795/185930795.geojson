@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.827087,-36.870098,174.827087,-36.870098",
     "geom:latitude":-36.870098,
     "geom:longitude":174.827087,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778449
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JKqXnxVt0M5tB3d3qvBue_-36.870098_174.827087@1306270026"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b485ed9433b02bd48579d09c8310c016",
+    "wof:geomhash":"1fdd59616c3265b397678ea980fbd75f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778449,
+            "region_id":85687243,
             "venue_id":185930795
         }
     ],
     "wof:id":185930795,
-    "wof:lastmodified":1473798650,
+    "wof:lastmodified":1496775604,
     "wof:name":"Kempo Kido Karate",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

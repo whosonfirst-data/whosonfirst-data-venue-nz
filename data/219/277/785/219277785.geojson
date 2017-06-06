@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.951523,-40.987301,174.951523,-40.987301",
     "geom:latitude":-40.987301,
     "geom:longitude":174.951523,
@@ -23,27 +24,30 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101915625,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KsUNqUJQoDaFILcmwr2wK_-40.987301_174.951523@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8e9116cfd258f56579c02b51ada4a38b",
+    "wof:geomhash":"0609919ccef8a61d1b7c3d6edd2cae71",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101915625,
+            "region_id":85687233,
             "venue_id":219277785
         }
     ],
     "wof:id":219277785,
-    "wof:lastmodified":1473798669,
+    "wof:lastmodified":1496776815,
     "wof:name":"Paekakariki Backpackers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

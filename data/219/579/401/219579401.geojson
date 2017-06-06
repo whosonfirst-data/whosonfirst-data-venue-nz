@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.018921,-38.665894,178.018921,-38.665894",
     "geom:latitude":-38.665894,
     "geom:longitude":178.018921,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ifY37plfpYW738DqEMkVi_-38.665894_178.018921@1306270044"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fd8017e8a870519a883ff49e80c51257",
+    "wof:geomhash":"d4d9b1fa8822952a011f2011e9a0eb2e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":219579401
         }
     ],
     "wof:id":219579401,
-    "wof:lastmodified":1473798738,
+    "wof:lastmodified":1496776130,
     "wof:name":"Ace Hi Van Rental",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

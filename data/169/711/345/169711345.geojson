@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.555984,-43.513939,172.555984,-43.513939",
     "geom:latitude":-43.513939,
     "geom:longitude":172.555984,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778141
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YU58RRdbsVOJ3q0mGu2p9_-43.513939_172.555984@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ee7bbe21eb7dedefff7fa22d790d61c8",
+    "wof:geomhash":"5ff34bf757bcf5722111b5fc1554f89e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778141,
+            "region_id":85687179,
             "venue_id":169711345
         }
     ],
     "wof:id":169711345,
-    "wof:lastmodified":1473798612,
+    "wof:lastmodified":1496776061,
     "wof:name":"Avonhead Shopping Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778141,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.793655,-41.305313,174.793655,-41.305313",
     "geom:latitude":-41.305313,
     "geom:longitude":174.793655,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772951
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31JVEA6fNTLRUA5wQ1qJDK_-41.305313_174.793655@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"9f38dc7843690972f4048e46d5bf783f",
+    "wof:geomhash":"cbd30ed810be692c49e5e7f3cd1c22b1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772951,
+            "region_id":85687233,
             "venue_id":220070379
         }
     ],
     "wof:id":220070379,
-    "wof:lastmodified":1473798615,
+    "wof:lastmodified":1496775811,
     "wof:name":"The Realm Drive Thru Bottle Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

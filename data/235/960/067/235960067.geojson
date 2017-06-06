@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.842056,-36.934902,174.842056,-36.934902",
     "geom:latitude":-36.934902,
     "geom:longitude":174.842056,
@@ -33,29 +34,33 @@
     "sg:website":"http://www.yellowpages.co.nz/pages/211330120/dp50423.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85773325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nyOwBk5HOzOAf572EaUra_-36.934902_174.842056@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cd3aed719ee5afeea2580003b718bd99",
+    "wof:geomhash":"3ebec721374bd0f7955a7f496cdee51e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85773325,
+            "region_id":85687243,
             "venue_id":235960067
         }
     ],
     "wof:id":235960067,
-    "wof:lastmodified":1473798577,
+    "wof:lastmodified":1496776224,
     "wof:name":"Best Western Mount Richmond Lodge & Conference Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

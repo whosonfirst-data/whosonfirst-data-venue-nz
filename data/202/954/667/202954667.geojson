@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.055435,-36.796257,175.055435,-36.796257",
     "geom:latitude":-36.796257,
     "geom:longitude":175.055435,
@@ -23,27 +24,30 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914787,
+        102079403
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BR939Wz9sa6uqIiQfDxp1_-36.796257_175.055435@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b9798b765cde980dbe01556e40dd22d9",
+    "wof:geomhash":"5f61ea4c85641c5ca5437620b5bf6da9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914787,
+            "region_id":85687243,
             "venue_id":202954667
         }
     ],
     "wof:id":202954667,
-    "wof:lastmodified":1473798754,
+    "wof:lastmodified":1496776337,
     "wof:name":"Touchwood Furniture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

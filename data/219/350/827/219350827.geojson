@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.711761,-36.887554,174.711761,-36.887554",
     "geom:latitude":-36.887554,
     "geom:longitude":174.711761,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85773035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66yH7woJbrojTu322504or_-36.887554_174.711761@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"948b3d01cbea8e2248789891c8707ea1",
+    "wof:geomhash":"e08aabba3df49814d1e6dc7ec7927ada",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773035,
+            "region_id":85687243,
             "venue_id":219350827
         }
     ],
     "wof:id":219350827,
-    "wof:lastmodified":1473798698,
+    "wof:lastmodified":1496777147,
     "wof:name":"Great Wall NZ Sovereign",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

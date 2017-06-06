@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.721924,-36.76973,174.721924,-36.76973",
     "geom:latitude":-36.76973,
     "geom:longitude":174.721924,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tkKaR0fUAjvUUMcEHS4bX_-36.769730_174.721924@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"64c79b41de0d5eafc95da0212205e2fa",
+    "wof:geomhash":"0209ab42a46308a5309ca18faf95d2b1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782397,
+            "region_id":85687243,
             "venue_id":169557245
         }
     ],
     "wof:id":169557245,
-    "wof:lastmodified":1473798569,
+    "wof:lastmodified":1496775574,
     "wof:name":"Alpha Engraving",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782397,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.347321,-46.392628,168.347321,-46.392628",
     "geom:latitude":-46.392628,
     "geom:longitude":168.347321,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781431
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kZ56cfx5Udd3O5R7UiCwV_-46.392628_168.347321@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"99d7f5d629d77388e78f861b99105d88",
+    "wof:geomhash":"60d77386c9fbf1ac5505aee9c3c7ef32",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781431,
+            "region_id":85687211,
             "venue_id":185843059
         }
     ],
     "wof:id":185843059,
-    "wof:lastmodified":1473798626,
+    "wof:lastmodified":1496776716,
     "wof:name":"Masterpiece Music Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

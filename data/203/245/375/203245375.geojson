@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.638992,-36.890926,174.638992,-36.890926",
     "geom:latitude":-36.890926,
     "geom:longitude":174.638992,
@@ -34,29 +35,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778643
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gyq7MyaQRk6FW1vIkGJU6_-36.890926_174.638992@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"64935555809d015580452ea843ba8b1f",
+    "wof:geomhash":"d36f1502fff21b0fd01352865509c4f1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778643,
+            "region_id":85687243,
             "venue_id":203245375
         }
     ],
     "wof:id":203245375,
-    "wof:lastmodified":1473798663,
+    "wof:lastmodified":1496775664,
     "wof:name":"Choice Costume Hire",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778643,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

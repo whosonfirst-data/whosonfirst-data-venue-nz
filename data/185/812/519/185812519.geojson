@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.679596,-42.399712,173.679596,-42.399712",
     "geom:latitude":-42.399712,
     "geom:longitude":173.679596,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914427,
+        102079355
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eQwKNsg1kk8W0pUpuo2nf_-42.399712_173.679596@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d517370c1cf969b93311ce56dbf32eb6",
+    "wof:geomhash":"94c4b0d22c61cf045869ace89277c2b6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079355,
+            "locality_id":101914427,
+            "region_id":85687179,
             "venue_id":185812519
         }
     ],
     "wof:id":185812519,
-    "wof:lastmodified":1473798630,
+    "wof:lastmodified":1496775968,
     "wof:name":"Photo & Frame",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

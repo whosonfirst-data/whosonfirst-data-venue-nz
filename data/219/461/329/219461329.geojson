@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.145477,-37.658524,175.145477,-37.658524",
     "geom:latitude":-37.658524,
     "geom:longitude":175.145477,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914465,
+        102079265
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LEE9ZilPl1qiI6bLL7ni4_-37.658524_175.145477@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a8a12b67eea35939e40f6527c3d080e1",
+    "wof:geomhash":"f72098b55781a77135f9bb2b2af77d6a",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079265,
+            "locality_id":101914465,
+            "region_id":85687229,
             "venue_id":219461329
         }
     ],
     "wof:id":219461329,
-    "wof:lastmodified":1473798709,
+    "wof:lastmodified":1496775986,
     "wof:name":"Employment Plus",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

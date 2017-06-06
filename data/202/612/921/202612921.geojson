@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.717926,-36.891903,174.717926,-36.891903",
     "geom:latitude":-36.891903,
     "geom:longitude":174.717926,
@@ -32,29 +33,34 @@
     "sg:website":"http://www.designandbuild.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85778529
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BDIHaZWoS9oZl4wMZPOGQ_-36.891903_174.717926@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"b3c08401cd843dd297304edd0363c313",
+    "wof:geomhash":"4a959adb9a2e0a74bb79ec3f93fd8d0f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85778529,
+            "region_id":85687243,
             "venue_id":202612921
         }
     ],
     "wof:id":202612921,
-    "wof:lastmodified":1473798700,
+    "wof:lastmodified":1496775638,
     "wof:name":"Design & Build Co Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

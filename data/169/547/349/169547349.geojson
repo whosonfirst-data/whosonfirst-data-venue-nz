@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.2285,-44.400436,171.2285,-44.400436",
     "geom:latitude":-44.400436,
     "geom:longitude":171.2285,
@@ -23,27 +24,30 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101915527,
+        102079373
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10BoGfVwSCa1Awt8d6oRQL_-44.400436_171.228500@1306270022"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"41aa3811cd2b229f517470a4cb854861",
+    "wof:geomhash":"5b15b8f76a3b6fe291e1d2acaa1bf1a4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079373,
+            "locality_id":101915527,
+            "region_id":85687179,
             "venue_id":169547349
         }
     ],
     "wof:id":169547349,
-    "wof:lastmodified":1473798563,
+    "wof:lastmodified":1496776749,
     "wof:name":"Jo's Hat Hire",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

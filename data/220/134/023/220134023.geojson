@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.976532,-45.09341,170.976532,-45.09341",
     "geom:latitude":-45.09341,
     "geom:longitude":170.976532,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        102079381,
+        85782475
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BgQWqNzQ30cbPui8UYLEZ_-45.093410_170.976532@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a0df4b3e1ba784c68116752138228f50",
+    "wof:geomhash":"24326b5e395608bf96e2e48c4894a3ba",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782475,
+            "region_id":85687179,
             "venue_id":220134023
         }
     ],
     "wof:id":220134023,
-    "wof:lastmodified":1473798595,
+    "wof:lastmodified":1496776268,
     "wof:name":"Whitestone Cheese",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

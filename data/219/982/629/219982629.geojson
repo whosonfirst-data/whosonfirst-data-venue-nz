@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.913223,-37.048237,174.913223,-37.048237",
     "geom:latitude":-37.048237,
     "geom:longitude":174.913223,
@@ -32,29 +33,33 @@
     "sg:website":"http://www.preferredmortgages.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778241
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kDIPC0oa8sBclv7B3ZruU_-37.048237_174.913223@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6d343356f16f5ad8188e680306ea2271",
+    "wof:geomhash":"bf20c60f929ac61d5abf9fc1ff9291e9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778241,
+            "region_id":85687243,
             "venue_id":219982629
         }
     ],
     "wof:id":219982629,
-    "wof:lastmodified":1473798796,
+    "wof:lastmodified":1496776137,
     "wof:name":"Preferred Mortgages",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.067947,-39.922733,175.067947,-39.922733",
     "geom:latitude":-39.922733,
     "geom:longitude":175.067947,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914639,
+        102079299,
+        85780873
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LWalINbBz3mfIBNSmslrF_-39.922733_175.067947@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a696805efec608f1dff6d7adfe653e88",
+    "wof:geomhash":"7dc89d247581efdbdfac8b899fd39446",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079299,
+            "locality_id":101914639,
+            "neighbourhood_id":85780873,
+            "region_id":85687251,
             "venue_id":236023117
         }
     ],
     "wof:id":236023117,
-    "wof:lastmodified":1473798569,
+    "wof:lastmodified":1496776206,
     "wof:name":"Starfish Takeaways",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780873,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

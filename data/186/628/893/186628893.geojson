@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.737106,-41.284096,174.737106,-41.284096",
     "geom:latitude":-41.284096,
     "geom:longitude":174.737106,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ALLTE7kV0I1PRmlfl5sXv_-41.284096_174.737106@1306270031"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"33e6e8dbe192cf99abd67677c0b1284e",
+    "wof:geomhash":"7d92541ab060be1a7ab405c87cc96d44",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772989,
+            "region_id":85687233,
             "venue_id":186628893
         }
     ],
     "wof:id":186628893,
-    "wof:lastmodified":1473798773,
+    "wof:lastmodified":1496775829,
     "wof:name":"Karori Medical Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

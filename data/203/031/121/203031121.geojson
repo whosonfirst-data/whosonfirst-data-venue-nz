@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.867645,-36.981102,174.867645,-36.981102",
     "geom:latitude":-36.981102,
     "geom:longitude":174.867645,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85781077
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04CFPi4q1TaG6itL6chM9u_-36.981102_174.867645@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2f76402624d891f603b98bd406bfc937",
+    "wof:geomhash":"5c43b0af2486b3322687f2da31087a6d",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85781077,
+            "region_id":85687243,
             "venue_id":203031121
         }
     ],
     "wof:id":203031121,
-    "wof:lastmodified":1473798571,
+    "wof:lastmodified":1496777121,
     "wof:name":"Rayner B A",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781077,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

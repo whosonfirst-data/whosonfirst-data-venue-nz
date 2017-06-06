@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.148773,-37.71265,176.148773,-37.71265",
     "geom:latitude":-37.71265,
     "geom:longitude":176.148773,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        101914325,
+        102079285,
+        85781319
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u7KJptQ1nZC1jGDGvqvEf_-37.712650_176.148773@1306270027"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cfcffd350e696836318ee934db9bc69d",
+    "wof:geomhash":"910972375eb95ebe8dcb868a84397056",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079285,
+            "locality_id":101914325,
+            "neighbourhood_id":85781319,
+            "region_id":85687175,
             "venue_id":185996021
         }
     ],
     "wof:id":185996021,
-    "wof:lastmodified":1473798660,
+    "wof:lastmodified":1496775877,
     "wof:name":"Christine Grant",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.370148,-46.422722,168.370148,-46.422722",
     "geom:latitude":-46.422722,
     "geom:longitude":168.370148,
@@ -33,29 +34,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781463
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DFqdYpjXRFDeBS1f8sht0_-46.422722_168.370148@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"13019b75dabd81d1b2fccb16ea48f79b",
+    "wof:geomhash":"b79e80d142d531c46a754e36d486c58c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781463,
+            "region_id":85687211,
             "venue_id":203308149
         }
     ],
     "wof:id":203308149,
-    "wof:lastmodified":1473798676,
+    "wof:lastmodified":1496776720,
     "wof:name":"Bits of This & That",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

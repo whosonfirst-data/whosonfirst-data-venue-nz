@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.74556,-41.282551,174.74556,-41.282551",
     "geom:latitude":-41.282551,
     "geom:longitude":174.74556,
@@ -23,29 +24,34 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85772989
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51zrNEmznZuMt4xphXkik3_-41.282551_174.745560@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a6c7edd768597c2e90a42295d635324d",
+    "wof:geomhash":"9764c6f8df464a281cb990f7edc42849",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85772989,
+            "region_id":85687233,
             "venue_id":169753639
         }
     ],
     "wof:id":169753639,
-    "wof:lastmodified":1473798623,
+    "wof:lastmodified":1496775814,
     "wof:name":"Hopscotch (Educational Experience Store)",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

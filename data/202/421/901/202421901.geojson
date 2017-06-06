@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.929626,-36.892494,174.929626,-36.892494",
     "geom:latitude":-36.892494,
     "geom:longitude":174.929626,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85772971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05n54nyCYwJ8BoAlngJFmr_-36.892494_174.929626@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"de067483c839630fd4224a7d9a469816",
+    "wof:geomhash":"bbfbcc5cc2f11baa96017c4a7ceaa05b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772971,
+            "region_id":85687243,
             "venue_id":202421901
         }
     ],
     "wof:id":202421901,
-    "wof:lastmodified":1473798604,
+    "wof:lastmodified":1496775494,
     "wof:name":"Picton Street Surgery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

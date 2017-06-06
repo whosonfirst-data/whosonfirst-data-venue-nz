@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.580566,-43.490719,172.580566,-43.490719",
     "geom:latitude":-43.490719,
     "geom:longitude":172.580566,
@@ -34,29 +35,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/riverleacaterers/dp46223.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fmIS7wbwDB9IxuTtr8vrv_-43.490719_172.580566@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3c32214244f9793a20648eb671f17e43",
+    "wof:geomhash":"b399bd4cd76f4205ea9bed763cb984b9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778215,
+            "region_id":85687179,
             "venue_id":220026209
         }
     ],
     "wof:id":220026209,
-    "wof:lastmodified":1473798578,
+    "wof:lastmodified":1496776066,
     "wof:name":"Riverlea Caterers",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

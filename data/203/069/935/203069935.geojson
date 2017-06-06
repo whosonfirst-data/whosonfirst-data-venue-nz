@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.2686,-39.29274,174.2686,-39.29274",
     "geom:latitude":-39.29274,
     "geom:longitude":174.2686,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687195,
+        102191583,
+        85633345,
+        101914451,
+        102079293
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lNi1KdC02CMNxthl6b3eE_-39.292740_174.268600@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f9799a2b0bcc006bdb1e1243abeeefe6",
+    "wof:geomhash":"568698c23f0d6076078db74338603c1c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079293,
+            "locality_id":101914451,
+            "region_id":85687195,
             "venue_id":203069935
         }
     ],
     "wof:id":203069935,
-    "wof:lastmodified":1473798617,
+    "wof:lastmodified":1496775975,
     "wof:name":"Midhirst Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

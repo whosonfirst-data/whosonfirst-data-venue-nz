@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.803864,-36.824089,174.803864,-36.824089",
     "geom:latitude":-36.824089,
     "geom:longitude":174.803864,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914729,
+        102079403,
+        85778237
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tktHtoXZvqLTwoTDt3Tyb_-36.824089_174.803864@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"aebfc1acab749d009152dbd5a1bbe069",
+    "wof:geomhash":"66bdd3eb6e26b8f72e4cd16a7761918e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914729,
+            "neighbourhood_id":85778237,
+            "region_id":85687243,
             "venue_id":220124865
         }
     ],
     "wof:id":220124865,
-    "wof:lastmodified":1473798607,
+    "wof:lastmodified":1496776297,
     "wof:name":"Pyrenees Boucherie & Charcuterie",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.656876,-43.530636,172.656876,-43.530636",
     "geom:latitude":-43.530636,
     "geom:longitude":172.656876,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781515
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WYoEVZs5OWu6JtC5Z8OX1_-43.530636_172.656876@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"61c81ff09272e47b08657b98a5605ac2",
+    "wof:geomhash":"89f321cebd12c74b06b3e7badd216acf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781515,
+            "region_id":85687179,
             "venue_id":220191607
         }
     ],
     "wof:id":220191607,
-    "wof:lastmodified":1473798636,
+    "wof:lastmodified":1496776085,
     "wof:name":"Hibbards Butchery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

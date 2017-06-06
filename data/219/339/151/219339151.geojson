@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.883118,-39.663754,176.883118,-39.663754",
     "geom:latitude":-39.663754,
     "geom:longitude":176.883118,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914661,
+        102079329
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rrcA5daIEIYQznJFdqdwt_-39.663754_176.883118@1306270042"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"dee312ab9da93ea4b70ad7cc0a74bc79",
+    "wof:geomhash":"961d016197900df560f3820e8ea4b235",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079329,
+            "locality_id":101914661,
+            "region_id":85687189,
             "venue_id":219339151
         }
     ],
     "wof:id":219339151,
-    "wof:lastmodified":1473798681,
+    "wof:lastmodified":1496776234,
     "wof:name":"Cherry Grove Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

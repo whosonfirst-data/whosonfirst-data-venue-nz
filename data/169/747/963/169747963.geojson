@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.246964,-40.470512,175.246964,-40.470512",
     "geom:latitude":-40.470512,
     "geom:longitude":175.246964,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 6-363 8821",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914365,
+        102079313
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JxQRP8WOz2HOhFXM2qfuR_-40.470512_175.246964@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"40b8bb1d128acfbd5ec79c40a707357d",
+    "wof:geomhash":"b74ca04f5596bf6fff2fdcdb45ad0c56",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":101914365,
+            "region_id":85687251,
             "venue_id":169747963
         }
     ],
     "wof:id":169747963,
-    "wof:lastmodified":1473798622,
+    "wof:lastmodified":1496775923,
     "wof:name":"Triangle Foodmarket",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

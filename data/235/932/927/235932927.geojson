@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.754852,-40.291302,175.754852,-40.291302",
     "geom:latitude":-40.291302,
     "geom:longitude":175.754852,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101915881,
+        102079307
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vsIBaHJalTzrL064sy1x7_-40.291302_175.754852@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"983558aaa61beb05e0f053b9f441babb",
+    "wof:geomhash":"762a6cdbf3c550d6224c13b1468ffd6e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
+            "locality_id":101915881,
+            "region_id":85687251,
             "venue_id":235932927
         }
     ],
     "wof:id":235932927,
-    "wof:lastmodified":1473798550,
+    "wof:lastmodified":1496776857,
     "wof:name":"Ashhurst Butchery & Home Kill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

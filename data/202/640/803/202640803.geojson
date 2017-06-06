@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.219315,-40.460114,175.219315,-40.460114",
     "geom:latitude":-40.460114,
     "geom:longitude":175.219315,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        101914365,
+        102079313
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Gk7eHoKgq2n7IwQBQ6w2y_-40.460114_175.219315@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"bf2edd42c257d785f27160095ea1f35d",
+    "wof:geomhash":"3822cf639cbf202ad6190eaf750777e4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079313,
+            "locality_id":101914365,
+            "region_id":85687251,
             "venue_id":202640803
         }
     ],
     "wof:id":202640803,
-    "wof:lastmodified":1473798706,
+    "wof:lastmodified":1496775923,
     "wof:name":"Koteka Electrical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

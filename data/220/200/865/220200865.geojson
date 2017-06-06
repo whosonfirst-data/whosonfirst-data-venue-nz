@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.439133,-45.903397,170.439133,-45.903397",
     "geom:latitude":-45.903397,
     "geom:longitude":170.439133,
@@ -34,9 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687201,
         102191583,
         85633345,
-        101914759,
+        101914269,
+        102079387,
         85772923
     ],
     "wof:breaches":[],
@@ -44,20 +47,20 @@
         "sg:id":"SG_6gYNkYHZqGdUaJkh8QlsY0_-45.903397_170.439133@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"55b9559d85c3451099d76349091882bc",
+    "wof:geomhash":"d6da60937027b8ea97e697b08ec4411d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914759,
+            "county_id":102079387,
+            "locality_id":101914269,
             "neighbourhood_id":85772923,
-            "region_id":-1,
+            "region_id":85687201,
             "venue_id":220200865
         }
     ],
     "wof:id":220200865,
-    "wof:lastmodified":1473798639,
+    "wof:lastmodified":1496775772,
     "wof:name":"ANZCO Green Island Plant",
     "wof:parent_id":85772923,
     "wof:placetype":"venue",

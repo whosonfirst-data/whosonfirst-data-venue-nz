@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.656601,-45.63982,170.656601,-45.63982",
     "geom:latitude":-45.63982,
     "geom:longitude":170.656601,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-465 7331",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914967,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6e6MiT9xcS7ScjhG2MVHX0_-45.639820_170.656601@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d7845b80c5f7129c46ddde1a94fdf838",
+    "wof:geomhash":"2027cece737e305925e74bdba1709231",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914967,
+            "region_id":85687201,
             "venue_id":169735983
         }
     ],
     "wof:id":169735983,
-    "wof:lastmodified":1473798614,
+    "wof:lastmodified":1496776429,
     "wof:name":"Karitane Stores",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.466171,-45.885536,170.466171,-45.885536",
     "geom:latitude":-45.885536,
     "geom:longitude":170.466171,
@@ -23,27 +24,30 @@
     "sg:province":"Otago",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687201,
+        102191583,
+        85633345,
+        101914269,
+        102079387
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49ig5eLHmJwPUvXdaWUS9N_-45.885536_170.466171@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"8d18583fb30aa1d722309a47d72be876",
+    "wof:geomhash":"fa8352a41935ae1ace274e1a7c331061",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079387,
+            "locality_id":101914269,
+            "region_id":85687201,
             "venue_id":186429317
         }
     ],
     "wof:id":186429317,
-    "wof:lastmodified":1473798752,
+    "wof:lastmodified":1496775770,
     "wof:name":"Labco NZ",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

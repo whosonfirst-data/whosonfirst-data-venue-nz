@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.744949,-36.852474,174.744949,-36.852474",
     "geom:latitude":-36.852474,
     "geom:longitude":174.744949,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85773127
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZytGUvmSQUkUmV6iE9Nx7_-36.852474_174.744949@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"99750b6d1b5f1339a942b8081d279b31",
+    "wof:geomhash":"2ae097c515256098dabed239a5bc7dd6",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773127,
+            "region_id":85687243,
             "venue_id":169539941
         }
     ],
     "wof:id":169539941,
-    "wof:lastmodified":1473798558,
+    "wof:lastmodified":1496775592,
     "wof:name":"Digital Masters Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773127,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

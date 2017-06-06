@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.981506,-41.173981,174.981506,-41.173981",
     "geom:latitude":-41.173981,
     "geom:longitude":174.981506,
@@ -23,29 +24,33 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079337,
+        85780941
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DXPH8njIhQvuEI8w8pG4O_-41.173981_174.981506@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7299117ebd48b70e905f1b29726cbe59",
+    "wof:geomhash":"533a438bd3bbc3fb526b5370f8c84742",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780941,
+            "region_id":85687233,
             "venue_id":202480581
         }
     ],
     "wof:id":202480581,
-    "wof:lastmodified":1473798703,
+    "wof:lastmodified":1496776811,
     "wof:name":"Hines Philip Pharmacy Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

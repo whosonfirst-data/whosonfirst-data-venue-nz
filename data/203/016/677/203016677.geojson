@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.254639,-41.308659,173.254639,-41.308659",
     "geom:latitude":-41.308659,
     "geom:longitude":173.254639,
@@ -23,27 +24,30 @@
     "sg:province":"Nelson",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687157,
+        102191583,
+        85633345,
+        101915555,
+        102079351
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15oCu6jG5z2Hm3zLQXGBRv_-41.308659_173.254639@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d0855e9ea0c793c71fdef00abbbfabe4",
+    "wof:geomhash":"7744439868d1502132e9988b46aa5330",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079351,
+            "locality_id":101915555,
+            "region_id":85687157,
             "venue_id":203016677
         }
     ],
     "wof:id":203016677,
-    "wof:lastmodified":1473798561,
+    "wof:lastmodified":1496776783,
     "wof:name":"Homefix Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

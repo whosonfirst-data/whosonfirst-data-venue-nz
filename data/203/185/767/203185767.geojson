@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.887207,-39.508003,176.887207,-39.508003",
     "geom:latitude":-39.508003,
     "geom:longitude":176.887207,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687189,
+        102191583,
+        85633345,
+        101914679,
+        102079331,
+        85781063
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tR4On7dAJIKRgo9QnUrR5_-39.508003_176.887207@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c6e3803f6530f40b82df3faa54cc9262",
+    "wof:geomhash":"426a731d5cabf5af6f44bbc1d2492c04",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079331,
+            "locality_id":101914679,
+            "neighbourhood_id":85781063,
+            "region_id":85687189,
             "venue_id":203185767
         }
     ],
     "wof:id":203185767,
-    "wof:lastmodified":1473798656,
+    "wof:lastmodified":1496776254,
     "wof:name":"Bay Drycleaning and Laundry",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

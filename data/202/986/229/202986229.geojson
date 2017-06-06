@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.835312,-36.905258,174.835312,-36.905258",
     "geom:latitude":-36.905258,
     "geom:longitude":174.835312,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85782457
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eYVwvqd1jX4oMHtFDFLhS_-36.905258_174.835312@1306270037"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"58e72ba8d4feebcee4d593ecd75a05e5",
+    "wof:geomhash":"c0c3c9f874ea95e13551a4ae361a655c",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85782457,
+            "region_id":85687243,
             "venue_id":202986229
         }
     ],
     "wof:id":202986229,
-    "wof:lastmodified":1473798758,
+    "wof:lastmodified":1496777151,
     "wof:name":"The Plant People Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

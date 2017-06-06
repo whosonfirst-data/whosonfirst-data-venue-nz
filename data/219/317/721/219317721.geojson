@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.981888,-41.17495,174.981888,-41.17495",
     "geom:latitude":-41.17495,
     "geom:longitude":174.981888,
@@ -23,29 +24,33 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        102079337,
+        85780941
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zjLD6eyvZ1gGBxdSkdcUf_-41.174950_174.981888@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a1a22e3afa96f0e96de7d4cda9cb007d",
+    "wof:geomhash":"bd23d5c099794fd03f905c80a34d60eb",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780941,
+            "region_id":85687233,
             "venue_id":219317721
         }
     ],
     "wof:id":219317721,
-    "wof:lastmodified":1473798679,
+    "wof:lastmodified":1496776812,
     "wof:name":"Weir House",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

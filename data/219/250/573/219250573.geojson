@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.268784,34.0,-118.268784,34.0",
     "geom:latitude":34.0,
     "geom:longitude":-118.268784,
@@ -22,11 +23,13 @@
     "sg:phone":"+64 25946919",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85868345",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85865789
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,19 +39,20 @@
     "wof:geomhash":"8fc70fec93710e7915c22a5e2f01ad3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865789,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868345",
             "region_id":85688637,
             "venue_id":219250573
         }
     ],
     "wof:id":219250573,
-    "wof:lastmodified":1473798660,
+    "wof:lastmodified":1488940758,
     "wof:name":"Thompson Beau Ltd",
-    "wof:parent_id":85865789,
+    "wof:parent_id":"85868345",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

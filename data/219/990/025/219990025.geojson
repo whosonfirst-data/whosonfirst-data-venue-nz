@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.759201,-36.77652,174.759201,-36.77652",
     "geom:latitude":-36.77652,
     "geom:longitude":174.759201,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85781677
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_584adTaPNhyXr9lpKsTxt8_-36.776520_174.759201@1306270047"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c2342bad3d3139de023ab3becd776a4c",
+    "wof:geomhash":"5cd397d008fcb428eef50142f5067dff",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781677,
+            "region_id":85687243,
             "venue_id":219990025
         }
     ],
     "wof:id":219990025,
-    "wof:lastmodified":1473798789,
+    "wof:lastmodified":1496775574,
     "wof:name":"Herbert & Associates Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781677,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

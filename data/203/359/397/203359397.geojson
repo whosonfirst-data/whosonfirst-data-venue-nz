@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.905609,-41.226318,174.905609,-41.226318",
     "geom:latitude":-41.226318,
     "geom:longitude":174.905609,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914319,
+        102079337,
+        85778465
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OE34ICJm8bYIDQzBcv6DQ_-41.226318_174.905609@1306270040"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"de64eee445a47f3ddeca85d972fdb902",
+    "wof:geomhash":"e15543a03ed988a6e97c5fccef3af67f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079337,
+            "locality_id":101914319,
+            "neighbourhood_id":85778465,
+            "region_id":85687233,
             "venue_id":203359397
         }
     ],
     "wof:id":203359397,
-    "wof:lastmodified":1473798682,
+    "wof:lastmodified":1496775856,
     "wof:name":"Enigma Shoes Moera",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

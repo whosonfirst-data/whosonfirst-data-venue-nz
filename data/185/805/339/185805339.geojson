@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.882553,-35.934937,173.882553,-35.934937",
     "geom:latitude":-35.934937,
     "geom:longitude":173.882553,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687149,
+        102191583,
+        85633345,
+        101914663,
+        102079259,
+        85782377
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MX3z2EbH6FtSCmXj8RIXy_-35.934937_173.882553@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"74c2c5eebd5d155f47aec8d5b1c97647",
+    "wof:geomhash":"903655daef8834eefb309a59960f55c8",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079259,
+            "locality_id":101914663,
+            "neighbourhood_id":85782377,
+            "region_id":85687149,
             "venue_id":185805339
         }
     ],
     "wof:id":185805339,
-    "wof:lastmodified":1473798627,
+    "wof:lastmodified":1496776241,
     "wof:name":"Clicker's Delight",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782377,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

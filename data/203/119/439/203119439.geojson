@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.386414,-46.41769,168.386414,-46.41769",
     "geom:latitude":-46.41769,
     "geom:longitude":168.386414,
@@ -33,29 +34,34 @@
     "sg:website":"http://www.diacks.co.nz",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397,
+        85781519
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pUcLJ2D9g3td9niufH9kB_-46.417690_168.386414@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"abf73077f0f5543b67fff73c81260b05",
+    "wof:geomhash":"8656a1220ad44b0f69ef4a4f0e097d91",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "neighbourhood_id":85781519,
+            "region_id":85687211,
             "venue_id":203119439
         }
     ],
     "wof:id":203119439,
-    "wof:lastmodified":1473798637,
+    "wof:lastmodified":1496776724,
     "wof:name":"Diacks Nurseries Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

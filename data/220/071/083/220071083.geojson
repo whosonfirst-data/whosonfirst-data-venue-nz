@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.869797,-37.203979,175.869797,-37.203979",
     "geom:latitude":-37.203979,
     "geom:longitude":175.869797,
@@ -31,27 +32,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101915149,
+        102079261
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6byo6c7b8tZ45dWNmNdiz2_-37.203979_175.869797@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"c5472ddc059af46b9b0dbdc47fe47359",
+    "wof:geomhash":"d599e23c8ddc885520bfa844d78319e1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079261,
+            "locality_id":101915149,
+            "region_id":85687229,
             "venue_id":220071083
         }
     ],
     "wof:id":220071083,
-    "wof:lastmodified":1473798594,
+    "wof:lastmodified":1496776586,
     "wof:name":"Whangamata Super Liquor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

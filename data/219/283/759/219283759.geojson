@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.792603,-36.975601,174.792603,-36.975601",
     "geom:latitude":-36.975601,
     "geom:longitude":174.792603,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914267,
+        102079403,
+        85773023
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nSRY2GGYLWprvYsMDu2Zk_-36.975601_174.792603@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"4863bea6c408677ed062c6e202160421",
+    "wof:geomhash":"0d76c55663e9cdb883e2f211cd667b31",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914267,
+            "neighbourhood_id":85773023,
+            "region_id":85687243,
             "venue_id":219283759
         }
     ],
     "wof:id":219283759,
-    "wof:lastmodified":1473798668,
+    "wof:lastmodified":1496775754,
     "wof:name":"Airport Bed & Breakfast",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

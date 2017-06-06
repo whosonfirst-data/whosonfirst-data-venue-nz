@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"169.968933,-44.491158,169.968933,-44.491158",
     "geom:latitude":-44.491158,
     "geom:longitude":169.968933,
@@ -22,27 +23,30 @@
     "sg:phone":"+64 3-438 9895",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101916141,
+        102079381
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QkJS1uRSjZqkP8ocL12UA_-44.491158_169.968933@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ed98083bef4aa046d38af84465cec23f",
+    "wof:geomhash":"498b8f8108503021a739ec80e2e8a9a5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079381,
+            "locality_id":101916141,
+            "region_id":85687179,
             "venue_id":169741003
         }
     ],
     "wof:id":169741003,
-    "wof:lastmodified":1473798620,
+    "wof:lastmodified":1496776886,
     "wof:name":"Omarama Foodcentre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

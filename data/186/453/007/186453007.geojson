@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.206604,-38.181828,175.206604,-38.181828",
     "geom:latitude":-38.181828,
     "geom:longitude":175.206604,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        101914943,
+        102079275
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bhImxYKbs8b9QwSsnByfl_-38.181828_175.206604@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6f0bf4ab8c2a10c21ecb39c17a6cca72",
+    "wof:geomhash":"d9b3d7355dde6c74d8da53b5f6750dd1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079275,
+            "locality_id":101914943,
+            "region_id":85687229,
             "venue_id":186453007
         }
     ],
     "wof:id":186453007,
-    "wof:lastmodified":1473798747,
+    "wof:lastmodified":1496776422,
     "wof:name":"Roberts Refrigeration Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

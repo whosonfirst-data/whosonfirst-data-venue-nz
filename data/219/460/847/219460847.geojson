@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"177.890457,-38.62397,177.890457,-38.62397",
     "geom:latitude":-38.62397,
     "geom:longitude":177.890457,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        101917553,
+        102079325
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MCkezqzYKLcJPQlcuTiWh_-38.623970_177.890457@1306270043"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"eb81b3d5ce573d0f2400cc8b15f11e8c",
+    "wof:geomhash":"859af64ff00c3471d44b3fb39f7178e5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
+            "locality_id":101917553,
+            "region_id":85687237,
             "venue_id":219460847
         }
     ],
     "wof:id":219460847,
-    "wof:lastmodified":1473798719,
+    "wof:lastmodified":1496776973,
     "wof:name":"Education Ministry of - Group Special Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

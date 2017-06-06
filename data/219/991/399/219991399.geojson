@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.688683,40.23177,-74.688683,40.23177",
     "geom:latitude":40.23177,
     "geom:longitude":-74.688683,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85838551,
+        102191575,
+        404478251,
         85633793,
         85976399,
         102081129,
-        85838551
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,9 +52,10 @@
     "wof:geomhash":"59893787bc9af9c0dd8fe9b3d74d0dcf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081129,
+            "localadmin_id":404478251,
             "locality_id":85976399,
             "neighbourhood_id":85838551,
             "region_id":85688607,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":219991399,
-    "wof:lastmodified":1473798796,
+    "wof:lastmodified":1492054829,
     "wof:name":"Mackrell Murcott",
     "wof:parent_id":85838551,
     "wof:placetype":"venue",

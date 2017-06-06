@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.775009,-41.247433,174.775009,-41.247433",
     "geom:latitude":-41.247433,
     "geom:longitude":174.775009,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914285,
+        102079339,
+        85773055
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7M2igyaGB5Tvd32VEVjanS_-41.247433_174.775009@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"7d36bfe5eb6778c8492b8462954b6e45",
+    "wof:geomhash":"511ec1f6365776c5eb291198cd3f9127",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079339,
+            "locality_id":101914285,
+            "neighbourhood_id":85773055,
+            "region_id":85687233,
             "venue_id":202421047
         }
     ],
     "wof:id":202421047,
-    "wof:lastmodified":1473798595,
+    "wof:lastmodified":1496775804,
     "wof:name":"Ngaio Medical Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

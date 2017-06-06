@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.840149,-36.972752,174.840149,-36.972752",
     "geom:latitude":-36.972752,
     "geom:longitude":174.840149,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914257,
+        102079403,
         85778947
     ],
     "wof:breaches":[],
@@ -43,20 +47,20 @@
         "sg:id":"SG_1iCCes3Wm6oscaDPg9IM1d_-36.972752_174.840149@1306270025"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"6334f3331d7603204cd9f77eeadbf97a",
+    "wof:geomhash":"d211942516f1c9b33d558a9b41bc190e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914257,
             "neighbourhood_id":85778947,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":185745649
         }
     ],
     "wof:id":185745649,
-    "wof:lastmodified":1473798621,
+    "wof:lastmodified":1496775413,
     "wof:name":"VideoScene",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",

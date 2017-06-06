@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.365433,-46.395138,168.365433,-46.395138",
     "geom:latitude":-46.395138,
     "geom:longitude":168.365433,
@@ -23,29 +24,33 @@
     "sg:province":"Southland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        102079397,
+        85781555
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_359yWqCZ8sPZPRkpRRhPrm_-46.395138_168.365433@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"75ed4fa0619b4888c6c8f94ebac344cd",
+    "wof:geomhash":"f8280fcce2fb2bb7ee4daa728d5161d2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781555,
+            "region_id":85687211,
             "venue_id":203285089
         }
     ],
     "wof:id":203285089,
-    "wof:lastmodified":1473798660,
+    "wof:lastmodified":1496776716,
     "wof:name":"Chloe of Windsor",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

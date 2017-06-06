@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"151.210266,-33.86451,151.210266,-33.86451",
     "geom:latitude":-33.86451,
     "geom:longitude":151.210266,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85681545,
+        85782721,
+        102191583,
+        404226357,
         85632793,
         101932003,
         102049151,
-        85782721
+        85681545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,9 +51,10 @@
     "wof:geomhash":"ac4592881c91e93be243407ac8d5d378",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191583,
             "country_id":85632793,
             "county_id":102049151,
+            "localadmin_id":404226357,
             "locality_id":101932003,
             "neighbourhood_id":85782721,
             "region_id":85681545,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":202507895,
-    "wof:lastmodified":1473798690,
+    "wof:lastmodified":1491899943,
     "wof:name":"CACI Clinic",
     "wof:parent_id":85782721,
     "wof:placetype":"venue",

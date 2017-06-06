@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.698151,-43.519131,172.698151,-43.519131",
     "geom:latitude":-43.519131,
     "geom:longitude":172.698151,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778711
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15jtBRjQPHnp8czdIt8p0J_-43.519131_172.698151@1306270033"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"031ea78a993a8bc332203c32b66f428e",
+    "wof:geomhash":"49907cdabc85b780606459994320be42",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778711,
+            "region_id":85687179,
             "venue_id":202609915
         }
     ],
     "wof:id":202609915,
-    "wof:lastmodified":1473798693,
+    "wof:lastmodified":1496776082,
     "wof:name":"Designer Giftware Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.980652,-40.923618,174.980652,-40.923618",
     "geom:latitude":-40.923618,
     "geom:longitude":174.980652,
@@ -23,27 +24,30 @@
     "sg:province":"Wellington",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WTKO30EaUKW8PqC7EegsN_-40.923618_174.980652@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2b2cf9c0a820cc9e7b0a36f1f8b9d524",
+    "wof:geomhash":"fa1d1ca9fd734b0c009e73ce8dda3d95",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":203239597
         }
     ],
     "wof:id":203239597,
-    "wof:lastmodified":1473798699,
+    "wof:lastmodified":1496776187,
     "wof:name":"Miriam Gibson Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

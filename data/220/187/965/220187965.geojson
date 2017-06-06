@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.635681,-43.566891,172.635681,-43.566891",
     "geom:latitude":-43.566891,
     "geom:longitude":172.635681,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778153
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vRzuwjhYaRgu11BtVWFZ1_-43.566891_172.635681@1306270049"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2dd9d6279e33dc1164d6957cc00362c5",
+    "wof:geomhash":"605d9f8d500b7aa4de4ffae72d6bc047",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778153,
+            "region_id":85687179,
             "venue_id":220187965
         }
     ],
     "wof:id":220187965,
-    "wof:lastmodified":1473798642,
+    "wof:lastmodified":1496776075,
     "wof:name":"Cashmere Cuisine",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778153,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

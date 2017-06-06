@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"171.862488,-42.11755,171.862488,-42.11755",
     "geom:latitude":-42.11755,
     "geom:longitude":171.862488,
@@ -33,27 +34,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101915213,
+        102079357
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6A3rNZpJozKhwIdsrzUGeO_-42.117550_171.862488@1306270045"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"3d97636b8790ddb94e050a2726f777ba",
+    "wof:geomhash":"b68ad2b5c82c0060c2cd0d9010606c00",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079357,
+            "locality_id":101915213,
+            "region_id":85687165,
             "venue_id":219768347
         }
     ],
     "wof:id":219768347,
-    "wof:lastmodified":1473798793,
+    "wof:lastmodified":1496776640,
     "wof:name":"Powell Auto Services Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

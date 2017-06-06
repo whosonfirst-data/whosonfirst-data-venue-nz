@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.003876,-40.91259,175.003876,-40.91259",
     "geom:latitude":-40.91259,
     "geom:longitude":175.003876,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687233,
+        102191583,
+        85633345,
+        101914633,
+        102079315
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4168LewBw1ULJcl6sVgiQE_-40.912590_175.003876@1306270035"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"1eeca99452a5cf71453d03db69b6638b",
+    "wof:geomhash":"60e3c61b7b071e9de36e796613a7de61",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079315,
+            "locality_id":101914633,
+            "region_id":85687233,
             "venue_id":202790389
         }
     ],
     "wof:id":202790389,
-    "wof:lastmodified":1473798723,
+    "wof:lastmodified":1496776186,
     "wof:name":"PlaceMakers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

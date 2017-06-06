@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.898926,-37.02346,174.898926,-37.02346",
     "geom:latitude":-37.02346,
     "geom:longitude":174.898926,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914625,
+        102079403,
+        85782445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71Z2I5V0rUGyTMm4SsilyP_-37.023460_174.898926@1306270050"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"28ab8363161eb81a3c71c0824cb8245b",
+    "wof:geomhash":"86dfed6a602af94b27964f37c08d33f0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914625,
+            "neighbourhood_id":85782445,
+            "region_id":85687243,
             "venue_id":236049251
         }
     ],
     "wof:id":236049251,
-    "wof:lastmodified":1473798577,
+    "wof:lastmodified":1496776146,
     "wof:name":"Resthaven Funeral Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

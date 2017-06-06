@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"170.980255,-42.717464,170.980255,-42.717464",
     "geom:latitude":-42.717464,
     "geom:longitude":170.980255,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687165,
+        102191583,
+        85633345,
+        101915183,
+        102079363
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rF1VqbmPDBrEE3a07S52D_-42.717464_170.980255@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"11656c019ee9812de41213fdde2a3858",
+    "wof:geomhash":"a787776964c33b3c56fb625f28fba5e4",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079363,
+            "locality_id":101915183,
+            "region_id":85687165,
             "venue_id":185699525
         }
     ],
     "wof:id":185699525,
-    "wof:lastmodified":1473798597,
+    "wof:lastmodified":1496776614,
     "wof:name":"Westland Paintball Games",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

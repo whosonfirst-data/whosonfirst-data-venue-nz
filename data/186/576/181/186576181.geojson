@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.097946,42.374054,-71.097946,42.374054",
     "geom:latitude":42.374054,
     "geom:longitude":-71.097946,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688645,
+        85876615,
+        102191575,
+        404476475,
         85633793,
         85950329,
         102084643,
-        85865511
+        85688645
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"9aced8401180aa397e9733691c1fb542",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084643,
+            "localadmin_id":404476475,
             "locality_id":85950329,
-            "neighbourhood_id":85865511,
+            "neighbourhood_id":85876615,
             "region_id":85688645,
             "venue_id":186576181
         }
     ],
     "wof:id":186576181,
-    "wof:lastmodified":1473798760,
+    "wof:lastmodified":1489020177,
     "wof:name":"Cambridge Prosthetics Lab",
-    "wof:parent_id":85865511,
+    "wof:parent_id":85876615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.333694,-46.386833,168.333694,-46.386833",
     "geom:latitude":-46.386833,
     "geom:longitude":168.333694,
@@ -34,27 +35,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cKM05zotQv70EqwNmNlY7_-46.386833_168.333694@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d4db226f56c81bca0fd8e10a8738f38a",
+    "wof:geomhash":"41dfe5cf9f1b76f98c2efd2af83aa8c5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":203148511
         }
     ],
     "wof:id":203148511,
-    "wof:lastmodified":1473798648,
+    "wof:lastmodified":1496776713,
     "wof:name":"Petstyles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

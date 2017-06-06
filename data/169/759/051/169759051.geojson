@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.927444,-36.902092,174.927444,-36.902092",
     "geom:latitude":-36.902092,
     "geom:longitude":174.927444,
@@ -23,29 +24,34 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85772971
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PBnIJeFRmq64oPjAqlkPD_-36.902092_174.927444@1306270023"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ad152c610a0266543104affc622449c6",
+    "wof:geomhash":"7533a56a43a808a66e4f40d416741507",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85772971,
+            "region_id":85687243,
             "venue_id":169759051
         }
     ],
     "wof:id":169759051,
-    "wof:lastmodified":1473798650,
+    "wof:lastmodified":1496775394,
     "wof:name":"Proformance Shades (NZ) Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85772971,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

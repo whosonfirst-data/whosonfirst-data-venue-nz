@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"168.34758,-46.372589,168.34758,-46.372589",
     "geom:latitude":-46.372589,
     "geom:longitude":168.34758,
@@ -32,27 +33,30 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687211,
+        102191583,
+        85633345,
+        101915515,
+        102079397
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3T6QXAHTXZOqA9s3y9tCmE_-46.372589_168.347580@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"56ed48baee6a96cd7e81d4fe7b8680e0",
+    "wof:geomhash":"9cf09c34723aa4d9c9daa55470b4d6fc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079397,
+            "locality_id":101915515,
+            "region_id":85687211,
             "venue_id":202857807
         }
     ],
     "wof:id":202857807,
-    "wof:lastmodified":1473798743,
+    "wof:lastmodified":1496776718,
     "wof:name":"Hunter Furniture - Lounge Suite Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

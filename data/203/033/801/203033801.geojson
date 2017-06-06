@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-74.727837,40.227085,-74.727837,40.227085",
     "geom:latitude":40.227085,
     "geom:longitude":-74.727837,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688607,
+        85826675,
+        102191575,
+        404478251,
         85633793,
         85976399,
         102081129,
-        85826675
+        85688607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +49,10 @@
     "wof:geomhash":"887bd68dde0f8641fb93366ff0c1882a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081129,
+            "localadmin_id":404478251,
             "locality_id":85976399,
             "neighbourhood_id":85826675,
             "region_id":85688607,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":203033801,
-    "wof:lastmodified":1473798585,
+    "wof:lastmodified":1492022061,
     "wof:name":"Private Sale NZ",
     "wof:parent_id":85826675,
     "wof:placetype":"venue",

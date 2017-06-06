@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.733429,-43.521194,172.733429,-43.521194",
     "geom:latitude":-43.521194,
     "geom:longitude":172.733429,
@@ -23,29 +24,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85773047
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4u8Opw16szCYrTyPzQhNjf_-43.521194_172.733429@1306270041"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"2528957e8732376fea4e5a2163de01b8",
+    "wof:geomhash":"4eddd9d056fe2bcb34467a219af743a5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85773047,
+            "region_id":85687179,
             "venue_id":219205439
         }
     ],
     "wof:id":219205439,
-    "wof:lastmodified":1473798640,
+    "wof:lastmodified":1496776082,
     "wof:name":"New Brighton Transport",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773047,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

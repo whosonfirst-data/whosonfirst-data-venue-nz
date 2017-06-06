@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.2854,-37.752182,175.2854,-37.752182",
     "geom:latitude":-37.752182,
     "geom:longitude":175.2854,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687229,
+        102191583,
+        85633345,
+        102079271,
+        85780887
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Loc3nCpR3X9lbiinSOlCd_-37.752182_175.285400@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"eb6a803dc264b20c860a588126633314",
+    "wof:geomhash":"c0a5b1a94f071a9fe1566654b98a3702",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079271,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85780887,
+            "region_id":85687229,
             "venue_id":203104765
         }
     ],
     "wof:id":203104765,
-    "wof:lastmodified":1473798634,
+    "wof:lastmodified":1496775785,
     "wof:name":"Besley W D & K J",
-    "wof:parent_id":-1,
+    "wof:parent_id":85780887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.628235,-36.870419,174.628235,-36.870419",
     "geom:latitude":-36.870419,
     "geom:longitude":174.628235,
@@ -32,8 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        102079403,
         85782431
     ],
     "wof:breaches":[],
@@ -46,15 +49,15 @@
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
+            "county_id":102079403,
             "locality_id":-1,
             "neighbourhood_id":85782431,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":219647407
         }
     ],
     "wof:id":219647407,
-    "wof:lastmodified":1473798791,
+    "wof:lastmodified":1491936163,
     "wof:name":"West City Motor Group",
     "wof:parent_id":85782431,
     "wof:placetype":"venue",

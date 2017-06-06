@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.712067,-36.887264,174.712067,-36.887264",
     "geom:latitude":-36.887264,
     "geom:longitude":174.712067,
@@ -32,29 +33,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914257,
+        102079403,
+        85773035
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ebgPVQX0wXvTN8rZJyEnM_-36.887264_174.712067@1306270048"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"fa24eec75f912368f09902f8b3ec1609",
+    "wof:geomhash":"dd94eba30c336d55776f8294de5f16f3",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914257,
+            "neighbourhood_id":85773035,
+            "region_id":85687243,
             "venue_id":220090659
         }
     ],
     "wof:id":220090659,
-    "wof:lastmodified":1473798601,
+    "wof:lastmodified":1496775422,
     "wof:name":"Lim Supermarket Centre",
-    "wof:parent_id":-1,
+    "wof:parent_id":85773035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

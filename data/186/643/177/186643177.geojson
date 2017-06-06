@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.775513,-36.884193,174.775513,-36.884193",
     "geom:latitude":-36.884193,
     "geom:longitude":174.775513,
@@ -35,29 +36,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85782389
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DjAV3va2OxtKIZt1rqlYz_-36.884193_174.775513@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"f08497bdaa9ade3f78d52c815382dc36",
+    "wof:geomhash":"e06c4ba08110facc2ea7b504c1523152",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782389,
+            "region_id":85687243,
             "venue_id":186643177
         }
     ],
     "wof:id":186643177,
-    "wof:lastmodified":1473798764,
+    "wof:lastmodified":1496775450,
     "wof:name":"Table For One",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

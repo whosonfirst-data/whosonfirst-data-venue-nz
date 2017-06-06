@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"173.967072,-41.45763,173.967072,-41.45763",
     "geom:latitude":-41.45763,
     "geom:longitude":173.967072,
@@ -23,27 +24,30 @@
     "sg:province":"Marlborough",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687185,
+        102191583,
+        85633345,
+        101916543,
+        102079353
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cYwre9SYzRQjMQQNCIQft_-41.457630_173.967072@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"22a536b0be0503c4e8b04efe2bd42dda",
+    "wof:geomhash":"c98727d147da35dfde5d229a807c6522",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079353,
+            "locality_id":101916543,
+            "region_id":85687185,
             "venue_id":202961677
         }
     ],
     "wof:id":202961677,
-    "wof:lastmodified":1473798753,
+    "wof:lastmodified":1496776915,
     "wof:name":"The Hired Help",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

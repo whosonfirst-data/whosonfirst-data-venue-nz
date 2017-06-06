@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.621002,-40.343437,175.621002,-40.343437",
     "geom:latitude":-40.343437,
     "geom:longitude":175.621002,
@@ -32,29 +33,33 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687251,
+        102191583,
+        85633345,
+        102079307,
+        85781111
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5X5sDS6RkjmA3oGHM1HWEu_-40.343437_175.621002@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ad95b7e42c080ab7fbcc9b34bc2277b2",
+    "wof:geomhash":"760e008426803d3be03e83f7b598f3bf",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079307,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85781111,
+            "region_id":85687251,
             "venue_id":169847761
         }
     ],
     "wof:id":169847761,
-    "wof:lastmodified":1473798644,
+    "wof:lastmodified":1496775745,
     "wof:name":"Trophy Lines NZ Limited",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781111,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

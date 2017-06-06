@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"176.975662,-37.969143,176.975662,-37.969143",
     "geom:latitude":-37.969143,
     "geom:longitude":176.975662,
@@ -23,29 +24,33 @@
     "sg:province":"Bay of Plenty",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687175,
+        102191583,
+        85633345,
+        102079291,
+        85782901
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QXQzJVAaqnHRMMAKjGe1S_-37.969143_176.975662@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"e65e08a89363e11f34d43e3569a2c9ea",
+    "wof:geomhash":"4f59c8d49b90ba4ff8ffa4990a3ab0a2",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079291,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782901,
+            "region_id":85687175,
             "venue_id":202407641
         }
     ],
     "wof:id":202407641,
-    "wof:lastmodified":1473798587,
+    "wof:lastmodified":1496775890,
     "wof:name":"Whakatane Hospital",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782901,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

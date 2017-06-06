@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"175.601395,-40.346348,175.601395,-40.346348",
     "geom:latitude":-40.346348,
     "geom:longitude":175.601395,
@@ -33,9 +34,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687251,
         102191583,
         85633345,
-        101914581,
+        101914259,
+        102079307,
         85780861
     ],
     "wof:breaches":[],
@@ -43,20 +46,20 @@
         "sg:id":"SG_2H7VqCwYSMTK308efnGE09_-40.346348_175.601395@1306270028"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"45318943015ca453bf4664779067f50b",
+    "wof:geomhash":"da1fe52555b5fe4d0a594cf5d8d81fed",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":101914581,
+            "county_id":102079307,
+            "locality_id":101914259,
             "neighbourhood_id":85780861,
-            "region_id":-1,
+            "region_id":85687251,
             "venue_id":186214827
         }
     ],
     "wof:id":186214827,
-    "wof:lastmodified":1473798715,
+    "wof:lastmodified":1496775748,
     "wof:name":"Hytrac Distributors (Hymac)",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",

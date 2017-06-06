@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.89119,-37.018265,174.89119,-37.018265",
     "geom:latitude":-37.018265,
     "geom:longitude":174.89119,
@@ -34,29 +35,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        101914625,
+        102079403,
+        85782445
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5N1JFxtC2rDLydFIAuGfke_-37.018265_174.891190@1306270032"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"cac985b3b027f29fbfd602c129da832b",
+    "wof:geomhash":"5e2c36b3cc5d24be6f6cfd65de6d15cc",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
+            "locality_id":101914625,
+            "neighbourhood_id":85782445,
+            "region_id":85687243,
             "venue_id":202384123
         }
     ],
     "wof:id":202384123,
-    "wof:lastmodified":1473798557,
+    "wof:lastmodified":1496776150,
     "wof:name":"Eva",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

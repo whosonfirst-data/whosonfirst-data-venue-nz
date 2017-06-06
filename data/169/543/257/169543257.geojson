@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.832733,-36.867863,174.832733,-36.867863",
     "geom:latitude":-36.867863,
     "geom:longitude":174.832733,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778461
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vk9WdcV0ETVU0XjJ2TGJC_-36.867863_174.832733@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d111a8fbed7a3c0272f33fbad6f6d406",
+    "wof:geomhash":"b0cce2e6b875e146d9c3932272715eb1",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778461,
+            "region_id":85687243,
             "venue_id":169543257
         }
     ],
     "wof:id":169543257,
-    "wof:lastmodified":1473798567,
+    "wof:lastmodified":1496775680,
     "wof:name":"Cat Baloo Belts & Scarves",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

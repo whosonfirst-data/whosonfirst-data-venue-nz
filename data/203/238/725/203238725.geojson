@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.760208,-36.633831,174.760208,-36.633831",
     "geom:latitude":-36.633831,
     "geom:longitude":174.760208,
@@ -23,8 +24,11 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85687243,
         102191583,
         85633345,
+        101914559,
+        102079403,
         85781689
     ],
     "wof:breaches":[],
@@ -32,20 +36,20 @@
         "sg:id":"SG_798UNTsFOZOdiBHAbr60Yk_-36.633831_174.760208@1306270039"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"d211e4fd274536a940d3698cb6d5f26b",
+    "wof:geomhash":"9b3cbef231f369a7be0241f3c607e187",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
             "country_id":85633345,
-            "county_id":-1,
-            "locality_id":-1,
+            "county_id":102079403,
+            "locality_id":101914559,
             "neighbourhood_id":85781689,
-            "region_id":-1,
+            "region_id":85687243,
             "venue_id":203238725
         }
     ],
     "wof:id":203238725,
-    "wof:lastmodified":1473798667,
+    "wof:lastmodified":1496776106,
     "wof:name":"Pattern Profiles",
     "wof:parent_id":85781689,
     "wof:placetype":"venue",

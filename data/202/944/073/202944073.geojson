@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.020966,-38.660385,178.020966,-38.660385",
     "geom:latitude":-38.660385,
     "geom:longitude":178.020966,
@@ -23,29 +24,33 @@
     "sg:province":"Gisborne",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687237,
+        102191583,
+        85633345,
+        102079325,
+        85782395
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ak6EAvCJYW0B4SlbtTnpk_-38.660385_178.020966@1306270036"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"293da9496cd3451826d44db854f7c743",
+    "wof:geomhash":"0b3c14112fd20fb0f8a62dce8b72ef6e",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079325,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85782395,
+            "region_id":85687237,
             "venue_id":202944073
         }
     ],
     "wof:id":202944073,
-    "wof:lastmodified":1473798746,
+    "wof:lastmodified":1496776124,
     "wof:name":"Chainsaw & Mower Service 1997 Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85782395,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

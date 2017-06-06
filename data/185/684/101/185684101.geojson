@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.610901,-43.567856,172.610901,-43.567856",
     "geom:latitude":-43.567856,
     "geom:longitude":172.610901,
@@ -24,29 +25,34 @@
     "sg:website":"http://www.yellowpages.co.nz/for/comotion/dp51103.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778369
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7InRX93zkeWmXcsdOEKyaC_-43.567856_172.610901@1306270024"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ba7622d396293e317d440340ebb0c4c1",
+    "wof:geomhash":"dee4769cfbb3c3d4fcb0ec7c95f1de5b",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778369,
+            "region_id":85687179,
             "venue_id":185684101
         }
     ],
     "wof:id":185684101,
-    "wof:lastmodified":1473798613,
+    "wof:lastmodified":1496776053,
     "wof:name":"Co Motion Mobile Disco",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"174.833038,-36.881306,174.833038,-36.881306",
     "geom:latitude":-36.881306,
     "geom:longitude":174.833038,
@@ -23,29 +24,33 @@
     "sg:province":"Auckland",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687243,
+        102191583,
+        85633345,
+        102079403,
+        85778833
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19RHmGFwzxBfw1yMtMrUkz_-36.881306_174.833038@1306270034"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"537ea97b326ee9f8dbfd4c970b5329d3",
+    "wof:geomhash":"3e20a0e61edaa67beaa075d8e0c47de5",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079403,
             "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "neighbourhood_id":85778833,
+            "region_id":85687243,
             "venue_id":202675233
         }
     ],
     "wof:id":202675233,
-    "wof:lastmodified":1473798699,
+    "wof:lastmodified":1496777172,
     "wof:name":"Barclay Knitwear Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778833,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

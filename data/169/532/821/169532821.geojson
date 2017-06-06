@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.62149,-43.511818,172.62149,-43.511818",
     "geom:latitude":-43.511818,
     "geom:longitude":172.62149,
@@ -28,29 +29,34 @@
     "sg:province":"Canterbury",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85778455
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_21qnxMm7VGvLAXMV5RAjzD_-43.511818_172.621490@1306270021"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ec1c139a5fd86cb881652b57a445a342",
+    "wof:geomhash":"5ca3ebe499e1a2cebd181e8f876674a0",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85778455,
+            "region_id":85687179,
             "venue_id":169532821
         }
     ],
     "wof:id":169532821,
-    "wof:lastmodified":1473798556,
+    "wof:lastmodified":1496776014,
     "wof:name":"Trust Bank Canterbury Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":85778455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],

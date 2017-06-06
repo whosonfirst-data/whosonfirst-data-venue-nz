@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"172.65593,-43.517742,172.65593,-43.517742",
     "geom:latitude":-43.517742,
     "geom:longitude":172.65593,
@@ -33,29 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        "102191583",
-        "85633345"
+        85687179,
+        102191583,
+        85633345,
+        101914521,
+        102079401,
+        85781777
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kinGH9oMkl4oUNTwuWG4d_-43.517742_172.655930@1306270038"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"a5a49353765bb821d7b992eb673eaea6",
+    "wof:geomhash":"985ceb9c8fe29b7921eb3b2b11e0660f",
     "wof:hierarchy":[
         {
-            "continent_id":"102191583",
-            "country_id":"85633345",
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":-1,
+            "continent_id":102191583,
+            "country_id":85633345,
+            "county_id":102079401,
+            "locality_id":101914521,
+            "neighbourhood_id":85781777,
+            "region_id":85687179,
             "venue_id":203159517
         }
     ],
     "wof:id":203159517,
-    "wof:lastmodified":1473798647,
+    "wof:lastmodified":1496776040,
     "wof:name":"PetsFirst",
-    "wof:parent_id":-1,
+    "wof:parent_id":85781777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
     "wof:superseded_by":[],
