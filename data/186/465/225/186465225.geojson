@@ -7,8 +7,10 @@
     "addr:postcode":"",
     "addr:street":"Branches",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-06-06",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"3.482185,47.886314,3.482185,47.886314",
     "geom:latitude":47.886314,
     "geom:longitude":3.482185,
@@ -23,8 +25,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85683503,
+        102191581,
+        404227781,
+        404426165,
         85633147,
+        1108826395,
         101887027,
+        136253037,
         102064301
     ],
     "wof:breaches":[],
@@ -32,20 +39,23 @@
         "sg:id":"SG_1mVQwApe4rvISqTgZ3w4oB_47.886314_3.482185@1306270030"
     },
     "wof:country":"NZ",
-    "wof:geomhash":"ae950f03ad3ce0538079b26bfcc68b74",
+    "wof:geomhash":"c834371154b45b165a306621b979f663",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191581,
             "country_id":85633147,
             "county_id":102064301,
+            "empire_id":136253037,
+            "localadmin_id":404426165,
             "locality_id":101887027,
-            "neighbourhood_id":-1,
+            "macrocounty_id":404227781,
+            "macroregion_id":1108826395,
             "region_id":85683503,
             "venue_id":186465225
         }
     ],
     "wof:id":186465225,
-    "wof:lastmodified":1473798749,
+    "wof:lastmodified":1496788577,
     "wof:name":"McNeill Drilling Co Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
