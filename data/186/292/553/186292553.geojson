@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Huia Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.836227,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"40 B Huia Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -48,13 +49,25 @@
         }
     ],
     "wof:id":186292553,
-    "wof:lastmodified":1496790415,
+    "wof:lastmodified":1510943345,
     "wof:name":"McGowan Abrasive Eng Ltd",
     "wof:parent_id":85778867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203377423,
+        219824335,
+        186313335,
+        203410335
+    ],
+    "wof:supersedes":[
+        186143413,
+        186145673,
+        186122197,
+        186309373,
+        186184411,
+        186157373
+    ],
     "wof:tags":[]
 },
   "bbox": [

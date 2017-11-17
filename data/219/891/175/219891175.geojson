@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Allens Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.890854,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"22 Allens Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -47,13 +48,25 @@
         }
     ],
     "wof:id":219891175,
-    "wof:lastmodified":1496790229,
+    "wof:lastmodified":1510943920,
     "wof:name":"Auplex Industries Ltd",
     "wof:parent_id":85778267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219934569,
+        219822791,
+        219877437,
+        219925273
+    ],
+    "wof:supersedes":[
+        186372697,
+        186407177,
+        186396755,
+        186393003,
+        186401959,
+        186393521
+    ],
     "wof:tags":[]
 },
   "bbox": [

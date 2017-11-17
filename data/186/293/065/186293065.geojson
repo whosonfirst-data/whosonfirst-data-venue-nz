@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Parkway Dve",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.770416,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"7 Parkway Dve Mairangi Bay ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -50,13 +51,31 @@
         }
     ],
     "wof:id":186293065,
-    "wof:lastmodified":1496790445,
+    "wof:lastmodified":1510944009,
     "wof:name":"HomePlus",
     "wof:parent_id":85778855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        202820747,
+        202771617,
+        202781035,
+        186436625,
+        186298467,
+        202795989,
+        202801283,
+        186419551,
+        202806733
+    ],
+    "wof:supersedes":[
+        186296021,
+        203046893,
+        203068849,
+        203163779,
+        202602955,
+        203010151,
+        202572265
+    ],
     "wof:tags":[]
 },
   "bbox": [

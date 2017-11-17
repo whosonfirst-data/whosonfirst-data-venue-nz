@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Sheffield Cre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":172.561768,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"31 Sheffield Cre Burnside ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -60,13 +61,23 @@
         }
     ],
     "wof:id":186045851,
-    "wof:lastmodified":1496790415,
+    "wof:lastmodified":1510944179,
     "wof:name":"Cresta Composites Ltd",
     "wof:parent_id":85772947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203380507,
+        203394473,
+        186281565,
+        203400997,
+        203076925,
+        186287799
+    ],
+    "wof:supersedes":[
+        203045361,
+        186036641
+    ],
     "wof:tags":[
         "chemical",
         "fibre",

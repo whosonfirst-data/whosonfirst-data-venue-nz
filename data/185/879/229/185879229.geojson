@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Vernon St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.944168,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"18 Vernon St Papakura ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -47,12 +48,16 @@
         }
     ],
     "wof:id":185879229,
-    "wof:lastmodified":1496790023,
+    "wof:lastmodified":1510944094,
     "wof:name":"E-Z-GO Golf Carts",
     "wof:parent_id":85782487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        185890633,
+        185886245,
+        185904255
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Lansford Cre",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.699356,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"152 Lansford Cre Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -46,13 +47,27 @@
         }
     ],
     "wof:id":219553099,
-    "wof:lastmodified":1496790359,
+    "wof:lastmodified":1510943778,
     "wof:name":"Cardwell Racing Supplies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219726967,
+        219814827,
+        219619623,
+        219661153,
+        219794043,
+        219641605
+    ],
+    "wof:supersedes":[
+        219537403,
+        169849307,
+        185935431,
+        219541359,
+        185852523,
+        185912439
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Rosebank Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.685684,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"404 Rosebank Rd Avondale ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -58,13 +59,33 @@
         }
     ],
     "wof:id":186404563,
-    "wof:lastmodified":1496790418,
+    "wof:lastmodified":1510944164,
     "wof:name":"Permathene Ltd",
     "wof:parent_id":85778827,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186410875,
+        219972557,
+        219927873,
+        202984635,
+        202932359,
+        219961033,
+        202936913,
+        202891083,
+        202887489,
+        219895123,
+        219881307
+    ],
+    "wof:supersedes":[
+        186352541,
+        186364335,
+        185964789,
+        186284157,
+        186290071,
+        203007311,
+        185982293
+    ],
     "wof:tags":[
         "industrial"
     ]

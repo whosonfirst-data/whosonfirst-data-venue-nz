@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Riccarton Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":172.573074,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"380 Riccarton Rd Upper Riccarton ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -60,13 +61,30 @@
         }
     ],
     "wof:id":185821663,
-    "wof:lastmodified":1496790059,
+    "wof:lastmodified":1510943555,
     "wof:name":"Church Corner Fuji Image Plaza",
     "wof:parent_id":85778697,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186478031,
+        219434725,
+        186485925,
+        169848191,
+        219392031,
+        186496919,
+        219254639,
+        186454599
+    ],
+    "wof:supersedes":[
+        169541165,
+        185804153,
+        202476885,
+        169573535,
+        185780157,
+        202454807,
+        186021083
+    ],
     "wof:tags":[
         "restoration",
         "sport",

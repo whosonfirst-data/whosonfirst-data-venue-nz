@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Barrys Point Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.76532,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"38 Barrys Point Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -59,13 +60,26 @@
         }
     ],
     "wof:id":169848665,
-    "wof:lastmodified":1496789860,
+    "wof:lastmodified":1510942801,
     "wof:name":"FitnessWorks The Equipment Specialists",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186611475,
+        186497221,
+        186492867,
+        186604757,
+        186607623
+    ],
+    "wof:supersedes":[
+        169809547,
+        169541305,
+        169759601,
+        169802411,
+        185852011,
+        169793043
+    ],
     "wof:tags":[
         "sport",
         "leisure"

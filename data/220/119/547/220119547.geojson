@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Hillside Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.735519,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"65 Hillside Rd Glenfield ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -56,13 +57,23 @@
         }
     ],
     "wof:id":220119547,
-    "wof:lastmodified":1496789995,
+    "wof:lastmodified":1510944005,
     "wof:name":"Southpoint Imports Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        220132877,
+        220141365,
+        220044029,
+        1058997579
+    ],
+    "wof:supersedes":[
+        169567831,
+        220088263,
+        1058997557,
+        169562981
+    ],
     "wof:tags":[
         "confectioner",
         "drink",

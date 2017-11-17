@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Angle St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.783661,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"63 Angle St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -60,13 +61,24 @@
         }
     ],
     "wof:id":219620883,
-    "wof:lastmodified":1496790320,
+    "wof:lastmodified":1510944131,
     "wof:name":"Strong For Honda",
     "wof:parent_id":85778511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219767953,
+        219666563,
+        219728407,
+        219635669,
+        219646243
+    ],
+    "wof:supersedes":[
+        186293487,
+        186308387,
+        219567389,
+        219562499
+    ],
     "wof:tags":[
         "automotive",
         "supply"

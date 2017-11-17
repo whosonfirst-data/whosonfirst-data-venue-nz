@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Henderson Valley Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.613037,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"308 Henderson Valley Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -60,13 +61,29 @@
         }
     ],
     "wof:id":219464173,
-    "wof:lastmodified":1496790326,
+    "wof:lastmodified":1510943015,
     "wof:name":"Old MacDonald's Country Kindy",
     "wof:parent_id":85781035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        202704137,
+        219450543,
+        202694377,
+        219437023
+    ],
+    "wof:supersedes":[
+        185866889,
+        186017439,
+        186012709,
+        185749105,
+        169685941,
+        169681479,
+        185669545,
+        185774689,
+        185707351,
+        202676023
+    ],
     "wof:tags":[
         "educational",
         "education",

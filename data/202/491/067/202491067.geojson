@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"New North Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.748581,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"368 New North Rd Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -59,13 +60,27 @@
         }
     ],
     "wof:id":202491067,
-    "wof:lastmodified":1496790198,
+    "wof:lastmodified":1510944174,
     "wof:name":"NZTS",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        202572817,
+        203174151,
+        186370981,
+        203280557,
+        186351331,
+        169759995,
+        203207205,
+        203195423,
+        169793945,
+        169803519,
+        202600463
+    ],
+    "wof:supersedes":[
+        202456231
+    ],
     "wof:tags":[
         "sanitary",
         "hygiene",

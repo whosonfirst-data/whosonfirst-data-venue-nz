@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"B Porana Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.728622,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"42 B Porana Rd Glenfield ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -60,13 +61,25 @@
         }
     ],
     "wof:id":203376311,
-    "wof:lastmodified":1496789935,
+    "wof:lastmodified":1510944089,
     "wof:name":"All Awnings",
     "wof:parent_id":85778443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        202873947,
+        219677695,
+        219698571,
+        203388745,
+        202805195
+    ],
+    "wof:supersedes":[
+        169865819,
+        185630793,
+        169792759,
+        169759463,
+        169796257
+    ],
     "wof:tags":[
         "transport",
         "boat"

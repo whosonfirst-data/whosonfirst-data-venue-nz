@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Bourke St Palmerston",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":175.603699,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"57 Bourke St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[
@@ -57,13 +58,34 @@
         }
     ],
     "wof:id":203174915,
-    "wof:lastmodified":1496789945,
+    "wof:lastmodified":1510944175,
     "wof:name":"The Uniform Centre",
     "wof:parent_id":85780861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203254797,
+        203234887,
+        203280941,
+        203258857,
+        203196335,
+        203295479,
+        203270775,
+        203208065,
+        185853599,
+        203242343,
+        203225491
+    ],
+    "wof:supersedes":[
+        169823155,
+        169546349,
+        169542939,
+        169760917,
+        169543963,
+        169547503,
+        169794713,
+        169544377
+    ],
     "wof:tags":[
         "clothing"
     ]

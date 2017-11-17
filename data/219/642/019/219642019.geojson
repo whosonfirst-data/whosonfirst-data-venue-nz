@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Andersons Bay Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":170.50737,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"500 Andersons Bay Rd ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -55,13 +56,26 @@
         }
     ],
     "wof:id":219642019,
-    "wof:lastmodified":1496790354,
+    "wof:lastmodified":1510944062,
     "wof:name":"Cooke Howlison Toyota",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219744203,
+        219624449,
+        219681845,
+        219688427,
+        219794393,
+        219727177,
+        219733545
+    ],
+    "wof:supersedes":[
+        219619663,
+        219678575,
+        219561681,
+        219571559
+    ],
     "wof:tags":[
         "automotive",
         "supplies"

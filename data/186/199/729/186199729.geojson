@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Langley Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.861496,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"9 Langley Rd Wiri ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -57,13 +58,26 @@
         }
     ],
     "wof:id":186199729,
-    "wof:lastmodified":1496790498,
+    "wof:lastmodified":1510944178,
     "wof:name":"Cummins Engine Co",
     "wof:parent_id":85773349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219777069,
+        219726379,
+        186422667,
+        219536743,
+        203414561,
+        186418075,
+        203362777,
+        203376363,
+        203419671
+    ],
+    "wof:supersedes":[
+        186208523,
+        186021275
+    ],
     "wof:tags":[
         "equipment",
         "industrial"

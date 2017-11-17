@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"New North Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.747925,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"399 New North Rd Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -47,13 +48,25 @@
         }
     ],
     "wof:id":186352233,
-    "wof:lastmodified":1496790493,
+    "wof:lastmodified":1510943782,
     "wof:name":"Tent Town Ltd",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219703355,
+        186355587
+    ],
+    "wof:supersedes":[
+        185662571,
+        169799799,
+        169794695,
+        185666511,
+        169816579,
+        185666929,
+        185991431,
+        185662965
+    ],
     "wof:tags":[]
 },
   "bbox": [

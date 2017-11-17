@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Dee St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":168.347321,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"168 Dee St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -64,13 +65,24 @@
         }
     ],
     "wof:id":202895189,
-    "wof:lastmodified":1496790091,
+    "wof:lastmodified":1510944013,
     "wof:name":"Hayes E & Sons Ltd",
     "wof:parent_id":85781431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219918885,
+        202945927,
+        219902469
+    ],
+    "wof:supersedes":[
+        186221189,
+        186195581,
+        186238345,
+        186381887,
+        186205787,
+        202586451
+    ],
     "wof:tags":[
         "gardening",
         "garden",

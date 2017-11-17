@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Western Hutt Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.875076,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"35 Western Hutt Rd Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -68,13 +69,30 @@
         }
     ],
     "wof:id":202715063,
-    "wof:lastmodified":1496790106,
+    "wof:lastmodified":1510944010,
     "wof:name":"Valley Wood & Landscape",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186332425,
+        202933225,
+        186346763,
+        186348277,
+        202887461,
+        219881391,
+        202891729,
+        202890989,
+        219899973
+    ],
+    "wof:supersedes":[
+        203047505,
+        186106413,
+        186097949,
+        203075245,
+        202736981,
+        203054667
+    ],
     "wof:tags":[
         "cleaning"
     ]

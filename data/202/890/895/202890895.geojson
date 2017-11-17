@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Queen St & Tomoana Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":176.859467,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"cnr Queen St & Tomoana Rd ",
     "sg:city":"Hastings",
     "sg:classifiers":[],
@@ -49,13 +50,26 @@
         }
     ],
     "wof:id":202890895,
-    "wof:lastmodified":1496790135,
+    "wof:lastmodified":1510943984,
     "wof:name":"Tube Products",
     "wof:parent_id":85781003,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219816051,
+        202887329,
+        202953693,
+        219798463,
+        219728785
+    ],
+    "wof:supersedes":[
+        169541821,
+        219559067,
+        202766295,
+        219542195,
+        219621193,
+        219538871
+    ],
     "wof:tags":[]
 },
   "bbox": [

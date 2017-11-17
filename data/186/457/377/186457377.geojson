@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Neilson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.792496,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"385 Neilson St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -46,13 +47,29 @@
         }
     ],
     "wof:id":186457377,
-    "wof:lastmodified":1496790404,
+    "wof:lastmodified":1510943738,
     "wof:name":"Richmond's Handling & Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186477605,
+        186496085,
+        219669869
+    ],
+    "wof:supersedes":[
+        186405079,
+        186412835,
+        186376137,
+        185719863,
+        185671113,
+        186229577,
+        186261671,
+        186234967,
+        219621491,
+        186236479,
+        186202695
+    ],
     "wof:tags":[]
 },
   "bbox": [

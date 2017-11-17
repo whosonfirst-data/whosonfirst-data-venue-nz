@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Percival St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":172.593796,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"138 Percival St ",
     "sg:city":"Rangiora",
     "sg:classifiers":[
@@ -51,13 +52,26 @@
         }
     ],
     "wof:id":220022389,
-    "wof:lastmodified":1496790002,
+    "wof:lastmodified":1510942733,
     "wof:name":"Continental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        185990909,
+        185983259
+    ],
+    "wof:supersedes":[
+        220029683,
+        186015747,
+        185670863,
+        235960863,
+        236001423,
+        185716299,
+        169849861,
+        235977285,
+        220024959
+    ],
     "wof:tags":[]
 },
   "bbox": [

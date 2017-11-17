@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Westfield Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.838852,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"8 Westfield Pl Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -48,13 +49,23 @@
         }
     ],
     "wof:id":186324437,
-    "wof:lastmodified":1496790448,
+    "wof:lastmodified":1510944149,
     "wof:name":"NZF Stainless",
     "wof:parent_id":85781407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186293075,
+        186381659,
+        186385721,
+        186397861,
+        186374915
+    ],
+    "wof:supersedes":[
+        186266585,
+        186022239,
+        186201485
+    ],
     "wof:tags":[]
 },
   "bbox": [

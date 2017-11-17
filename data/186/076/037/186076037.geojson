@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Lady Ruby Dve",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.89711,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"35 Lady Ruby Dve East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -46,13 +47,27 @@
         }
     ],
     "wof:id":186076037,
-    "wof:lastmodified":1496790449,
+    "wof:lastmodified":1510944011,
     "wof:name":"Electropar Ltd",
     "wof:parent_id":85778267,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186078763,
+        186095533,
+        186388311,
+        186081207,
+        186126711,
+        186082617,
+        186119121,
+        186124139,
+        186373515,
+        186260115
+    ],
+    "wof:supersedes":[
+        186054467,
+        186036737
+    ],
     "wof:tags":[]
 },
   "bbox": [

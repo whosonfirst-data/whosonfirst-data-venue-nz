@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Great South Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.861694,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"49a/217 Great South Rd Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -48,13 +49,29 @@
         }
     ],
     "wof:id":203236071,
-    "wof:lastmodified":1496789901,
+    "wof:lastmodified":1510943905,
     "wof:name":"Alterations by Gabriele",
     "wof:parent_id":85778947,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        202711925,
+        202852677,
+        202804401,
+        202716451
+    ],
+    "wof:supersedes":[
+        185746165,
+        186245943,
+        203023271,
+        185985147,
+        186245227,
+        169800287,
+        169791897,
+        203175653,
+        203179583,
+        203193435
+    ],
     "wof:tags":[]
 },
   "bbox": [

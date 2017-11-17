@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Waltham Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":172.649872,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"227 Waltham Rd Waltham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -59,13 +60,17 @@
         }
     ],
     "wof:id":186442297,
-    "wof:lastmodified":1496790386,
+    "wof:lastmodified":1510942005,
     "wof:name":"Hire Cool Refrigeration",
     "wof:parent_id":85781515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186446695
+    ],
+    "wof:supersedes":[
+        185716887
+    ],
     "wof:tags":[
         "industrial",
         "refrigeration"

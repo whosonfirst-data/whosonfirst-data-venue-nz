@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Saleyards Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.834183,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"34 Saleyards Rd Otahuhu ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -47,13 +48,25 @@
         }
     ],
     "wof:id":219655231,
-    "wof:lastmodified":1496790377,
+    "wof:lastmodified":1510941551,
     "wof:name":"ABB Limited",
     "wof:parent_id":85778867,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186486263
+    ],
+    "wof:supersedes":[
+        186272299,
+        219154493,
+        186268251,
+        186126319,
+        203413571,
+        186078083,
+        186074579,
+        186244953,
+        203417823
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Port Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.32959,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"34 Port Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -59,13 +60,23 @@
         }
     ],
     "wof:id":203335899,
-    "wof:lastmodified":1496789894,
+    "wof:lastmodified":1510943736,
     "wof:name":"Provincial Industries Traders",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186431965,
+        186371913,
+        186419307
+    ],
+    "wof:supersedes":[
+        1058997107,
+        186351717,
+        186104649,
+        186096707,
+        203319775
+    ],
     "wof:tags":[
         "product",
         "wool",

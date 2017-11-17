@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"St Georges Bay Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.786087,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Kraft House 99 St Georges Bay Rd Parnell ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -59,13 +60,25 @@
         }
     ],
     "wof:id":186402833,
-    "wof:lastmodified":1496790444,
+    "wof:lastmodified":1510943903,
     "wof:name":"Attwood E C Ltd",
     "wof:parent_id":85773115,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186418207,
+        186433019
+    ],
+    "wof:supersedes":[
+        186358493,
+        186408011,
+        186371231,
+        186369509,
+        186349661,
+        186359313,
+        186360505,
+        186353817
+    ],
     "wof:tags":[
         "industrial"
     ]

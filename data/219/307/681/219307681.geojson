@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Mt Wellington Highway",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.842056,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"676 Mt Wellington Highway Mt Wellington ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -60,13 +61,25 @@
         }
     ],
     "wof:id":219307681,
-    "wof:lastmodified":1496790216,
+    "wof:lastmodified":1510943498,
     "wof:name":"Best Western Mount Richmond Lodge & Conference Centre",
     "wof:parent_id":85773325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        185982731,
+        219337723
+    ],
+    "wof:supersedes":[
+        219257887,
+        235960067,
+        185669563,
+        185704805,
+        186014749,
+        219320731,
+        235999619,
+        220021937
+    ],
     "wof:tags":[
         "holiday",
         "tourism",

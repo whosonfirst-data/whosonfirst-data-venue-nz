@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Henderson Valley Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.613037,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"308 Henderson Valley Rd Henderson ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -50,13 +51,26 @@
         }
     ],
     "wof:id":169685945,
-    "wof:lastmodified":1496789801,
+    "wof:lastmodified":1510943967,
     "wof:name":"Old MacDonald's Travelling Farmyard Ltd",
     "wof:parent_id":85781035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219464179,
+        202704155,
+        186012717,
+        202676061,
+        202694357,
+        185695077,
+        185707515,
+        202707397,
+        185866927
+    ],
+    "wof:supersedes":[
+        185749251,
+        185774721
+    ],
     "wof:tags":[]
 },
   "bbox": [

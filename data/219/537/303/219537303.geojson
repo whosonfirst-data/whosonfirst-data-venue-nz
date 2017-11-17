@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Stanmore Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":172.656219,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"261 Stanmore Rd Richmond ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -59,13 +60,25 @@
         }
     ],
     "wof:id":219537303,
-    "wof:lastmodified":1496790367,
+    "wof:lastmodified":1510943748,
     "wof:name":"Butler Auto Mart Ltd",
     "wof:parent_id":85781777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219561235,
+        219593951,
+        219541155,
+        219619309,
+        219552933,
+        186493057,
+        219641419
+    ],
+    "wof:supersedes":[
+        169588119,
+        169541157,
+        169579061
+    ],
     "wof:tags":[
         "automotive"
     ]

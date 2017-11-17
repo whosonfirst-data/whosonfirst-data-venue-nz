@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Cumnor Tce",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":172.67804,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"23 Cumnor Tce Woolston ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -57,13 +58,20 @@
         }
     ],
     "wof:id":202455051,
-    "wof:lastmodified":1496790121,
+    "wof:lastmodified":1510943974,
     "wof:name":"Elder Boatbuilders Ltd",
     "wof:parent_id":85773353,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203381085,
+        186418311,
+        186420679
+    ],
+    "wof:supersedes":[
+        186036739,
+        186046161
+    ],
     "wof:tags":[
         "health",
         "beauty"

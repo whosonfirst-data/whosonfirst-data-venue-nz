@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"E Harris Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.897278,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"154 E Harris Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -56,13 +57,26 @@
         }
     ],
     "wof:id":185971247,
-    "wof:lastmodified":1496790015,
+    "wof:lastmodified":1510943843,
     "wof:name":"Thermo Tech Auckland Ltd",
     "wof:parent_id":85781725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186447037,
+        185964857,
+        202766109,
+        186452915,
+        186443291,
+        186444025,
+        186444499,
+        186375777,
+        186401533
+    ],
+    "wof:supersedes":[
+        220043837,
+        186122783
+    ],
     "wof:tags":[
         "storage",
         "cool"

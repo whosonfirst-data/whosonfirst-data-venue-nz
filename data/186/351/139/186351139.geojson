@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Kingsley St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":172.640121,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"14-18 Kingsley St Sydenham ",
     "sg:city":"Christchurch",
     "sg:classifiers":[],
@@ -49,13 +50,27 @@
         }
     ],
     "wof:id":186351139,
-    "wof:lastmodified":1496790463,
+    "wof:lastmodified":1510943640,
     "wof:name":"NZTS",
     "wof:parent_id":85773205,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186370889
+    ],
+    "wof:supersedes":[
+        203280427,
+        169793895,
+        169803357,
+        203174123,
+        169759957,
+        202572825,
+        202600453,
+        202490997,
+        203207189,
+        202456207,
+        203195377
+    ],
     "wof:tags":[]
 },
   "bbox": [

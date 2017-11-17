@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"High St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.276474,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"288 High St ",
     "sg:city":"Hawera",
     "sg:classifiers":[],
@@ -50,13 +51,29 @@
         }
     ],
     "wof:id":169797401,
-    "wof:lastmodified":1496789830,
+    "wof:lastmodified":1510943971,
     "wof:name":"Dobson Trim & Canvas",
     "wof:parent_id":85781023,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        169848401,
+        185893431,
+        185669153,
+        202875563,
+        185982717,
+        185990147,
+        185715077,
+        202805273
+    ],
+    "wof:supersedes":[
+        169541221,
+        185660273,
+        186014779,
+        185663693,
+        169684419,
+        169792747
+    ],
     "wof:tags":[]
 },
   "bbox": [

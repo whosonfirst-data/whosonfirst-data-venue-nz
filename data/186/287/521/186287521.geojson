@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Te Rapa Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":175.240372,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"745 Te Rapa Rd ",
     "sg:city":"Hamilton",
     "sg:classifiers":[],
@@ -48,13 +49,25 @@
         }
     ],
     "wof:id":186287521,
-    "wof:lastmodified":1496790496,
+    "wof:lastmodified":1510943926,
     "wof:name":"Bougen Transport",
     "wof:parent_id":85773235,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203362457
+    ],
+    "wof:supersedes":[
+        186228053,
+        186229241,
+        219202261,
+        219239517,
+        186020769,
+        186281223,
+        185962123,
+        1058996561,
+        185980573
+    ],
     "wof:tags":[]
 },
   "bbox": [

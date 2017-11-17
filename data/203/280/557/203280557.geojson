@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"New North Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.748581,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"368 New North Rd Kingsland ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -48,13 +49,27 @@
         }
     ],
     "wof:id":203280557,
-    "wof:lastmodified":1496789903,
+    "wof:lastmodified":1510942344,
     "wof:name":"NZTS",
     "wof:parent_id":85778399,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186370981,
+        186351331
+    ],
+    "wof:supersedes":[
+        169803519,
+        203174151,
+        202600463,
+        169759995,
+        169793945,
+        202456231,
+        203195423,
+        202491067,
+        203207205,
+        202572817
+    ],
     "wof:tags":[]
 },
   "bbox": [

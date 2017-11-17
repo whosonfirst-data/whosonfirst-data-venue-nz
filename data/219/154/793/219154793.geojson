@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Pandora Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":176.890579,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"46 Pandora Rd Ahuriri ",
     "sg:city":"Napier",
     "sg:classifiers":[],
@@ -48,13 +49,25 @@
         }
     ],
     "wof:id":219154793,
-    "wof:lastmodified":1496790259,
+    "wof:lastmodified":1510943818,
     "wof:name":"Barton Marine Ltd",
     "wof:parent_id":85773129,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203393949,
+        203417473,
+        219159911,
+        186432233,
+        203413933,
+        186417399,
+        203418049
+    ],
+    "wof:supersedes":[
+        169779859,
+        219163025,
+        169772753
+    ],
     "wof:tags":[]
 },
   "bbox": [

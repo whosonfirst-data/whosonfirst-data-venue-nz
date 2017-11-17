@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Wiri Station Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.874298,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"73 Wiri Station Rd ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -60,13 +61,26 @@
         }
     ],
     "wof:id":186206921,
-    "wof:lastmodified":1496790410,
+    "wof:lastmodified":1510943292,
     "wof:name":"The Electric Furnace Co Ltd",
     "wof:parent_id":85773349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186495501,
+        202606725
+    ],
+    "wof:supersedes":[
+        186097643,
+        186158171,
+        186153467,
+        186110009,
+        202573351,
+        186202519,
+        186207191,
+        186188471,
+        186122785
+    ],
     "wof:tags":[
         "equipment",
         "industrial",

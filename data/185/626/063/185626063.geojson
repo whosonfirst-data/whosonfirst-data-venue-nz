@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Box",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.778046,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"PO Box 467 Wellington Central ",
     "sg:city":"Wellington",
     "sg:classifiers":[
@@ -60,13 +61,27 @@
         }
     ],
     "wof:id":185626063,
-    "wof:lastmodified":1496790065,
+    "wof:lastmodified":1510943948,
     "wof:name":"Te Papa",
     "wof:parent_id":85780787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219380183,
+        169868895,
+        219355699,
+        219360443
+    ],
+    "wof:supersedes":[
+        235985689,
+        185783725,
+        235962263,
+        169574039,
+        169596587,
+        169628271,
+        185792817,
+        236006283
+    ],
     "wof:tags":[
         "arts",
         "museum",

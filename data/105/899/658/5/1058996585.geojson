@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -11,7 +12,7 @@
     "geom:longitude":174.839844,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"18 Cashew St Grenada North ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -47,12 +48,23 @@
         }
     ],
     "wof:id":1058996585,
-    "wof:lastmodified":1496789789,
+    "wof:lastmodified":1510943927,
     "wof:name":"Windsor Engineering Group Ltd",
     "wof:parent_id":85778641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        186294037,
+        186478225,
+        186481411,
+        186309597,
+        186309839,
+        186327429,
+        186272579,
+        186457319,
+        186063081,
+        186057163
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

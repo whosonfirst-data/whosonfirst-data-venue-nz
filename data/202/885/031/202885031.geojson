@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Marshland Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":172.661179,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"201 Marshland Rd ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -57,13 +58,27 @@
         }
     ],
     "wof:id":202885031,
-    "wof:lastmodified":1496790118,
+    "wof:lastmodified":1510943903,
     "wof:name":"Framecraft Furniture Ltd",
     "wof:parent_id":85778427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186418479,
+        202855911,
+        186425999,
+        202888535,
+        202951063
+    ],
+    "wof:supersedes":[
+        202455393,
+        219526503,
+        202852363,
+        219436339,
+        202805455,
+        202866337,
+        219523387
+    ],
     "wof:tags":[
         "gardening"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Church St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.79213,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"266 Church St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -46,13 +47,29 @@
         }
     ],
     "wof:id":186455667,
-    "wof:lastmodified":1496790413,
+    "wof:lastmodified":1510944169,
     "wof:name":"Combustion Control Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186470953
+    ],
+    "wof:supersedes":[
+        186192337,
+        186110599,
+        186147275,
+        186204173,
+        186121775,
+        186157445,
+        186155947,
+        186176527,
+        186207653,
+        186115595,
+        186374087,
+        186394577,
+        186095827
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Birch Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":176.141769,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"99 Birch Ave Roundabout ",
     "sg:city":"Tauranga",
     "sg:classifiers":[
@@ -54,13 +55,29 @@
         }
     ],
     "wof:id":219561895,
-    "wof:lastmodified":1496790352,
+    "wof:lastmodified":1510943727,
     "wof:name":"Doctor Repower-Tauranga Motor Machining Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219744437,
+        219577621,
+        219778801,
+        203415547,
+        219781591,
+        219783525,
+        219727317,
+        203420615,
+        219756617,
+        219656591,
+        219619677
+    ],
+    "wof:supersedes":[
+        219537719,
+        203363841,
+        203377537
+    ],
     "wof:tags":[
         "automotive"
     ]

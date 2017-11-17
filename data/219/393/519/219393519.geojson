@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Musselburgh Rse",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":170.515579,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"59 Musselburgh Rse Musselburgh ",
     "sg:city":"Dunedin",
     "sg:classifiers":[
@@ -60,13 +61,25 @@
         }
     ],
     "wof:id":219393519,
-    "wof:lastmodified":1496790307,
+    "wof:lastmodified":1510943175,
     "wof:name":"Musselburgh Pharmacy Ltd",
     "wof:parent_id":85781647,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219435671
+    ],
+    "wof:supersedes":[
+        202484343,
+        185820409,
+        169796035,
+        185783555,
+        202457001,
+        169760891,
+        169573899,
+        169578353,
+        169794741
+    ],
     "wof:tags":[
         "travel",
         "tourism"

@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Tory St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.88295,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"14-17 Tory St Petone Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -59,13 +60,27 @@
         }
     ],
     "wof:id":169759923,
-    "wof:lastmodified":1496789816,
+    "wof:lastmodified":1510944154,
     "wof:name":"NZTS",
     "wof:parent_id":85782489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203207107,
+        186370811,
+        203195359,
+        186351085,
+        202572745,
+        169793817,
+        169803251,
+        202600403
+    ],
+    "wof:supersedes":[
+        202491005,
+        202456159,
+        185852787,
+        1058997099
+    ],
     "wof:tags":[
         "sport",
         "retailer"

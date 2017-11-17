@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Neilson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.792496,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"277 Neilson St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -55,13 +56,22 @@
         }
     ],
     "wof:id":202854661,
-    "wof:lastmodified":1496790178,
+    "wof:lastmodified":1510944042,
     "wof:name":"Cabra Manufacturing Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        202865127,
+        202811475,
+        202805971
+    ],
+    "wof:supersedes":[
+        185715323,
+        185670051,
+        202567961,
+        169848993
+    ],
     "wof:tags":[
         "furniture/furnishings",
         "furnishing"

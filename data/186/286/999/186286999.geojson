@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Cryers Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.887024,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"36 Cryers Rd East Tamaki ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -49,13 +50,26 @@
         }
     ],
     "wof:id":186286999,
-    "wof:lastmodified":1496790385,
+    "wof:lastmodified":1510943933,
     "wof:name":"Aqua Tanks-A Division of Galloway International Ltd",
     "wof:parent_id":85781293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203375811,
+        203379207,
+        202702481,
+        203393867,
+        186407099,
+        186401941
+    ],
+    "wof:supersedes":[
+        202708543,
+        202673931,
+        185961837,
+        186281097,
+        185980339
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Rewarewa Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.311554,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"14 Rewarewa Rd ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -54,13 +55,24 @@
         }
     ],
     "wof:id":219537541,
-    "wof:lastmodified":1496790367,
+    "wof:lastmodified":1510943539,
     "wof:name":"Bell Insulation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219678461,
+        219716855
+    ],
+    "wof:supersedes":[
+        203401065,
+        203377291,
+        203379613,
+        186121975,
+        186148915,
+        203363839,
+        186021683
+    ],
     "wof:tags":[
         "automotive"
     ]

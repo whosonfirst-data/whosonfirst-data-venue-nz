@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Malden St Palmerston",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":175.621063,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"20 Malden St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -46,13 +47,24 @@
         }
     ],
     "wof:id":186461381,
-    "wof:lastmodified":1496790464,
+    "wof:lastmodified":1510943784,
     "wof:name":"AB Equipment Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        202997881
+    ],
+    "wof:supersedes":[
+        186060427,
+        219439345,
+        186199925,
+        202884547,
+        186454763,
+        186055905,
+        219436403,
+        219449105
+    ],
     "wof:tags":[]
 },
   "bbox": [

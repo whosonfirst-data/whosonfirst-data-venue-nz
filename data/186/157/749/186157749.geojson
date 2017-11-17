@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Porana Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.767883,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"50 Porana Rd Takapuna ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -50,13 +51,25 @@
         }
     ],
     "wof:id":186157749,
-    "wof:lastmodified":1496790448,
+    "wof:lastmodified":1510943542,
     "wof:name":"Service Engineers Ltd",
     "wof:parent_id":85773217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186293171,
+        186228497,
+        186309535,
+        186233965,
+        186283921,
+        186187153,
+        186289621,
+        186202061,
+        186318775
+    ],
+    "wof:supersedes":[
+        186122545
+    ],
     "wof:tags":[]
 },
   "bbox": [

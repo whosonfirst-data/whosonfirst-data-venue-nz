@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Herekino St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.328384,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"16 Herekino St ",
     "sg:city":"Whangarei",
     "sg:classifiers":[],
@@ -49,13 +50,28 @@
         }
     ],
     "wof:id":186425353,
-    "wof:lastmodified":1496790445,
+    "wof:lastmodified":1510943702,
     "wof:name":"Steelmasters Whangarei",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186495299,
+        186480713,
+        186439039,
+        186456993
+    ],
+    "wof:supersedes":[
+        186228627,
+        186419697,
+        186207949,
+        186398095,
+        186235459,
+        186202321,
+        186375467,
+        186382187,
+        186387167
+    ],
     "wof:tags":[]
 },
   "bbox": [

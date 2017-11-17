@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Deveron St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":168.353882,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"73 Deveron St ",
     "sg:city":"Invercargill",
     "sg:classifiers":[
@@ -53,13 +54,25 @@
         }
     ],
     "wof:id":219823403,
-    "wof:lastmodified":1496790296,
+    "wof:lastmodified":1510942989,
     "wof:name":"Electronic Specialists",
     "wof:parent_id":85782421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219925761
+    ],
+    "wof:supersedes":[
+        186269603,
+        186273869,
+        186121221,
+        186089665,
+        203059245,
+        186075975,
+        203045703,
+        186277219,
+        186127121
+    ],
     "wof:tags":[]
 },
   "bbox": [

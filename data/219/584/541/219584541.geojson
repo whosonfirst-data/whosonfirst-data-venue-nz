@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Frimley St Palmerston",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":175.589493,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"21 Frimley St Palmerston ",
     "sg:city":"Palmerston North",
     "sg:classifiers":[],
@@ -51,13 +52,25 @@
         }
     ],
     "wof:id":219584541,
-    "wof:lastmodified":1496790301,
+    "wof:lastmodified":1510944081,
     "wof:name":"Portofino Rentals",
     "wof:parent_id":85780841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219678947,
+        202886761,
+        219702367,
+        202996489
+    ],
+    "wof:supersedes":[
+        219393241,
+        219180589,
+        219414675,
+        219258345,
+        219227569,
+        219562061
+    ],
     "wof:tags":[]
 },
   "bbox": [

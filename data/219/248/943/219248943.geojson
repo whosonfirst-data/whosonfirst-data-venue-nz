@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Hastie Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.793259,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"27 Hastie Ave Mangere Bridge ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -47,13 +48,27 @@
         }
     ],
     "wof:id":219248943,
-    "wof:lastmodified":1496790312,
+    "wof:lastmodified":1510944170,
     "wof:name":"Robert Pascoe Carriers Ltd",
     "wof:parent_id":85778435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186228509,
+        219175859,
+        219702729,
+        186233951,
+        185964353,
+        219679053,
+        185977721,
+        186201867,
+        219258575
+    ],
+    "wof:supersedes":[
+        219180783,
+        219204967,
+        219179243
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Park Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.821289,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"133 Park Rd Miramar ",
     "sg:city":"Wellington",
     "sg:classifiers":[],
@@ -49,13 +50,27 @@
         }
     ],
     "wof:id":202703305,
-    "wof:lastmodified":1496790125,
+    "wof:lastmodified":1510944191,
     "wof:name":"Heartlands",
     "wof:parent_id":85773025,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219823841,
+        202709239,
+        202885347,
+        202888815,
+        202980583,
+        202951613,
+        219926397
+    ],
+    "wof:supersedes":[
+        203045915,
+        203060273,
+        202571167,
+        203067645,
+        202675171
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"92025",
     "addr:street":"Carrington Rd;Albert Private Bag",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.770416,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Course Information Centre 139 Carrington Rd Mt Albert, Private Bag 92025 ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -50,13 +51,28 @@
         }
     ],
     "wof:id":219928333,
-    "wof:lastmodified":1496790276,
+    "wof:lastmodified":1510942346,
     "wof:name":"UNITEC Institute of Technology",
     "wof:parent_id":85778855,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219957871
+    ],
+    "wof:supersedes":[
+        203122435,
+        219470581,
+        219511725,
+        185855245,
+        186607283,
+        219452551,
+        219515569,
+        186499493,
+        219825733,
+        185869771,
+        186617063,
+        219438487
+    ],
     "wof:tags":[]
 },
   "bbox": [

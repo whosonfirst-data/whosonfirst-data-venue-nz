@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Beaumont St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.753738,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"123 Beaumont St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -47,13 +48,30 @@
         }
     ],
     "wof:id":186432671,
-    "wof:lastmodified":1496790470,
+    "wof:lastmodified":1510943666,
     "wof:name":"Smart Marine Supermarket",
     "wof:parent_id":85781863,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219703037,
+        219679259
+    ],
+    "wof:supersedes":[
+        203416997,
+        219163209,
+        203407777,
+        203417711,
+        219157277,
+        186419545,
+        203419099,
+        169782715,
+        169775833,
+        203377721,
+        169760605,
+        219161753,
+        203392605
+    ],
     "wof:tags":[]
 },
   "bbox": [

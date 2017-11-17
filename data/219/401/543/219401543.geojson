@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Box",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":176.084351,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"PO Box 1020 ",
     "sg:city":"Taupo",
     "sg:classifiers":[
@@ -62,13 +63,25 @@
         }
     ],
     "wof:id":219401543,
-    "wof:lastmodified":1496790253,
+    "wof:lastmodified":1510943720,
     "wof:name":"Chris Jolly Outdoors",
     "wof:parent_id":85782499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203376985,
+        203365981
+    ],
+    "wof:supersedes":[
+        185852621,
+        219375149,
+        219420761,
+        219392605,
+        169774189,
+        169786507,
+        219358391,
+        169760109
+    ],
     "wof:tags":[
         "services",
         "charter",

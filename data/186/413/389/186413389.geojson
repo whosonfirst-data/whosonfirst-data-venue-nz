@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Neilson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.792572,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"268 Neilson St Onehunga ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -55,13 +56,32 @@
         }
     ],
     "wof:id":186413389,
-    "wof:lastmodified":1496790474,
+    "wof:lastmodified":1510943708,
     "wof:name":"Stowers Containment Solutions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186405305,
+        186477659,
+        186420697,
+        186429567,
+        186458063
+    ],
+    "wof:supersedes":[
+        186368381,
+        186365333,
+        220081979,
+        186353161,
+        220199887,
+        169761959,
+        186290781,
+        220082741,
+        186285135,
+        169777353,
+        169780199,
+        220185391
+    ],
     "wof:tags":[
         "industrial",
         "goods"

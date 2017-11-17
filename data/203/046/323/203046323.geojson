@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Porowini Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.321671,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"46 Porowini Ave ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -57,13 +58,31 @@
         }
     ],
     "wof:id":203046323,
-    "wof:lastmodified":1496789881,
+    "wof:lastmodified":1510944179,
     "wof:name":"McBreen Jenkins Construction Limited",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219824305,
+        186329711,
+        219828295,
+        219842529,
+        219865287,
+        202886111,
+        202982469,
+        219230557,
+        202958727,
+        186340489,
+        203002279,
+        203363583,
+        203055383,
+        219874087,
+        202954573
+    ],
+    "wof:supersedes":[
+        186021889
+    ],
     "wof:tags":[
         "outdoor"
     ]

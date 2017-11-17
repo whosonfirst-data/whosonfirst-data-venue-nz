@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Main South Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":172.546371,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"206-208 Main South Rd Wigram ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -57,13 +58,24 @@
         }
     ],
     "wof:id":219536381,
-    "wof:lastmodified":1496790365,
+    "wof:lastmodified":1510944097,
     "wof:name":"Brake & Clutch Services Ltd",
     "wof:parent_id":85773341,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219618349,
+        219552027,
+        219725907,
+        219822857,
+        219757899,
+        219640237,
+        219900599,
+        219905843
+    ],
+    "wof:supersedes":[
+        219540155
+    ],
     "wof:tags":[
         "automotive"
     ]

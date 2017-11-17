@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Gt South Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.867157,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"739 Gt South Rd Papatoetoe ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -59,13 +60,27 @@
         }
     ],
     "wof:id":186061291,
-    "wof:lastmodified":1496790377,
+    "wof:lastmodified":1510943692,
     "wof:name":"Car Clean Products (NZ) Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219652905,
+        219571067,
+        219541575,
+        186069449,
+        219548263,
+        219619739,
+        186074777,
+        202713511,
+        219561649
+    ],
+    "wof:supersedes":[
+        186032179,
+        186056545,
+        186058525
+    ],
     "wof:tags":[
         "equipment",
         "industrial",

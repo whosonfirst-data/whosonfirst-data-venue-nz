@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Queen St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.764847,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Level 1 280 Queen St Auckland Central ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -57,13 +58,18 @@
         }
     ],
     "wof:id":202437733,
-    "wof:lastmodified":1496790177,
+    "wof:lastmodified":1510943705,
     "wof:name":"Barry & Beale Optometrists",
     "wof:parent_id":85782351,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186496447
+    ],
+    "wof:supersedes":[
+        202441559,
+        202445753
+    ],
     "wof:tags":[
         "optical",
         "beauty"

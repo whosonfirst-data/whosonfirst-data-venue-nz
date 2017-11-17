@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Cnr Clover & Haycocks Rds Hope Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":173.106247,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"Cnr Clover & Haycocks Rds Hope RD 1 Richmond ",
     "sg:city":"Brightwater",
     "sg:classifiers":[
@@ -54,13 +55,25 @@
         }
     ],
     "wof:id":219825807,
-    "wof:lastmodified":1496790314,
+    "wof:lastmodified":1510942141,
     "wof:name":"Stonehurst Farm Horse Trek & Riding Centre",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219928251
+    ],
+    "wof:supersedes":[
+        186098639,
+        185869547,
+        203065255,
+        185854955,
+        219361027,
+        219372537,
+        186106575,
+        169686145,
+        203048255
+    ],
     "wof:tags":[]
 },
   "bbox": [

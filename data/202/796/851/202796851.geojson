@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Cornish St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.875076,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1 Cornish St ",
     "sg:city":"Petone",
     "sg:classifiers":[
@@ -70,13 +71,27 @@
         }
     ],
     "wof:id":202796851,
-    "wof:lastmodified":1496790198,
+    "wof:lastmodified":1510943637,
     "wof:name":"Ullrich Aluminium Co Ltd",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        202803011,
+        202936597
+    ],
+    "wof:supersedes":[
+        186302645,
+        186300543,
+        186309773,
+        186382573,
+        202793979,
+        186387379,
+        1058997143,
+        186397485,
+        1058997039,
+        186260755
+    ],
     "wof:tags":[
         "shower",
         "fittings",

@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Okara",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.320526,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"8 Okara Dve ",
     "sg:city":"Whangarei",
     "sg:classifiers":[
@@ -58,13 +59,30 @@
         }
     ],
     "wof:id":219621363,
-    "wof:lastmodified":1496790334,
+    "wof:lastmodified":1510943087,
     "wof:name":"Wynn Fraser Paints",
     "wof:parent_id":85782533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        219651073
+    ],
+    "wof:supersedes":[
+        186206309,
+        219538985,
+        186023625,
+        219163253,
+        186202815,
+        186023237,
+        186067425,
+        202569531,
+        203393625,
+        203364635,
+        186029355,
+        203378507,
+        219161935,
+        203378141
+    ],
     "wof:tags":[
         "automotive",
         "supply"

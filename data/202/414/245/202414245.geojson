@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Remuera Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.783707,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"125 Remuera Rd Remuera ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -59,12 +60,16 @@
         }
     ],
     "wof:id":202414245,
-    "wof:lastmodified":1496790116,
+    "wof:lastmodified":1510943995,
     "wof:name":"Auckland Eye Institute",
     "wof:parent_id":85778887,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        202445941,
+        202386477,
+        202438563
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

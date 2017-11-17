@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Woodside Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.740768,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"59 Woodside Rd Northcote ",
     "sg:city":"Auckland",
     "sg:classifiers":[],
@@ -47,12 +48,16 @@
         }
     ],
     "wof:id":219157791,
-    "wof:lastmodified":1496790304,
+    "wof:lastmodified":1510944151,
     "wof:name":"Webster Electronic Services Ltd",
     "wof:parent_id":85778503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        203417245,
+        186210797,
+        203419475
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

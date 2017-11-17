@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Bush Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.705154,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"227 Bush Rd, North Harbour Industrial Park Albany ",
     "sg:city":"Auckland",
     "sg:classifiers":[
@@ -51,13 +52,23 @@
         }
     ],
     "wof:id":185963757,
-    "wof:lastmodified":1496790035,
+    "wof:lastmodified":1510943559,
     "wof:name":"Finnemore Refrigeration Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186441911,
+        186445315,
+        203390501,
+        185968551,
+        186446567,
+        186454609
+    ],
+    "wof:supersedes":[
+        203036721,
+        203021989
+    ],
     "wof:tags":[]
 },
   "bbox": [

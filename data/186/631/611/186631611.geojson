@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"Bealey Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":172.63765,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"156 Bealey Ave ",
     "sg:city":"Christchurch",
     "sg:classifiers":[
@@ -56,13 +57,22 @@
         }
     ],
     "wof:id":186631611,
-    "wof:lastmodified":1496790390,
+    "wof:lastmodified":1510943261,
     "wof:name":"Sports Med",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        186624953,
+        186642813
+    ],
+    "wof:supersedes":[
+        202553075,
+        186607061,
+        202561963,
+        202566469,
+        202498185
+    ],
     "wof:tags":[
         "services",
         "beauty",

@@ -7,6 +7,7 @@
     "addr:postcode":"",
     "addr:street":"St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":174.912079,
     "iso:country":"NZ",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3/9 Downer St Lower ",
     "sg:city":"Hutt",
     "sg:classifiers":[
@@ -60,13 +61,32 @@
         }
     ],
     "wof:id":203167261,
-    "wof:lastmodified":1496789872,
+    "wof:lastmodified":1510943997,
     "wof:name":"Glass Shoppe The",
     "wof:parent_id":85781005,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-nz",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        203376799,
+        202570765,
+        202602007,
+        219672229,
+        202847137,
+        203162709,
+        186408339,
+        203401619,
+        203171065,
+        203170669,
+        219619403,
+        186402937,
+        202805659
+    ],
+    "wof:supersedes":[
+        185635057,
+        203118973,
+        169866895,
+        203150527
+    ],
     "wof:tags":[
         "decorative",
         "glass",
